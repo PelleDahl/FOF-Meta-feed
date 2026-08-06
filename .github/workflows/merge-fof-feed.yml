@@ -14,7 +14,8 @@ concurrency:
 
 jobs:
   build-feed:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
+    timeout-minutes: 20
 
     steps:
       - name: Checkout repository
@@ -26,7 +27,12 @@ jobs:
           node-version: '20'
 
       - name: Run feed merge script
-        run: node merge-fof-feeds.js
+        uses: nick-fields/retry@v3
+        with:
+          timeout_minutes: 10
+          max_attempts: 3
+          retry_on: error
+          command: node merge-fof-feeds.js
 
       - name: Upload merged feed artifact
         uses: actions/upload-artifact@v4
