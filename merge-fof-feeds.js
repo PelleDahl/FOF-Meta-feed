@@ -5,7 +5,6 @@ const path = require('path');
 const FEED_URLS = [
   'https://www.fof.dk/feeds/fof-djursland/feed.xml',
   'https://www.fof.dk/feeds/fof-herning/feed.xml',
-  'https://www.fof.dk/feeds/fof-nordals/feed.xml',
   'https://www.fof.dk/feeds/fof-nordvestjylland/feed.xml',
   'https://www.fof.dk/feeds/fof-odder/feed.xml',
   'https://www.fof.dk/feeds/fof-randers-favrskov-mariagerfjord-viborg/feed.xml',
