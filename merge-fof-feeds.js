@@ -19,10 +19,30 @@ const FEED_URLS = [
   'https://www.fof.dk/feeds/fof-koebenhavn-og-nordsjaelland/feed.xml',
   'https://www.fof.dk/feeds/fof-koebenhavns-omegn/feed.xml',
   'https://www.fof.dk/feeds/fof-koege-bugt/feed.xml',
-  'https://www.fof.dk/feeds/fof-fjordlandet/feed.xml',
   'https://www.fof.dk/feeds/fof-syd-og-vestsjaelland/feed.xml',
   'https://www.fof.dk/feeds/fof-sydoest/feed.xml'
 ];
+
+const SCHOOL_CODES = {
+  'fof-djursland': 'DJU',
+  'fof-herning': 'HER',
+  'fof-nordvestjylland': 'NVJ',
+  'fof-odder': 'ODD',
+  'fof-randers-favrskov-mariagerfjord-viborg': 'RFMV',
+  'fof-sydjylland': 'SJY',
+  'fof-sydoestjylland': 'SOJ',
+  'fof-soenderjylland': 'SDJ',
+  'fof-sydvestjylland': 'SVJ',
+  'fof-aalborg': 'AAL',
+  'fof-aarhus': 'AAR',
+  'fof-fyn-fredericia': 'FYN',
+  'fof-oestfyn': 'OFY',
+  'fof-koebenhavn-og-nordsjaelland': 'KBH',
+  'fof-koebenhavns-omegn': 'KBO',
+  'fof-koege-bugt': 'KOE',
+  'fof-syd-og-vestsjaelland': 'SVS',
+  'fof-sydoest': 'SYO'
+};
 
 const OUTPUT_FILE = path.join(process.cwd(), 'fof-alle-skoler-feed.xml');
 const LOG_DIR = path.join(process.cwd(), 'logs');
@@ -152,6 +172,12 @@ function extractItems(xml) {
   return matches || [];
 }
 
+function prefixItemIds(items, slug) {
+  return items.map((item) =>
+    item.replace(/(<g:id>)([\s\S]*?)(<\/g:id>)/i, (match, open, id, close) => `${open}${slug}-${id.trim()}${close}`)
+  );
+}
+
 function buildMergedXml(items) {
   const itemSection = items.join('\n');
 
@@ -180,10 +206,11 @@ async function mergeFeeds() {
 
   for (const feedUrl of FEED_URLS) {
     const slug = slugFromUrl(feedUrl);
+    const code = SCHOOL_CODES[slug] || slug;
 
     try {
       const xml = await fetchXml(feedUrl);
-      const items = extractItems(xml);
+      const items = prefixItemIds(extractItems(xml), code);
 
       allItems.push(...items);
       successCount += 1;
