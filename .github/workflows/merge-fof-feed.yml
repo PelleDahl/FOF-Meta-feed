@@ -44,6 +44,7 @@ jobs:
           path: fof-alle-skoler-feed.xml
 
       - name: Commit and push updated feed
+        id: commit
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -52,8 +53,15 @@ jobs:
 
           if git diff --cached --quiet; then
             echo "No changes to commit."
+            echo "changed=false" >> "$GITHUB_OUTPUT"
             exit 0
           fi
 
           git commit -m "chore: update merged FOF feed"
           git push
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+
+      - name: Purge jsDelivr cache
+        if: steps.commit.outputs.changed == 'true'
+        run: |
+          curl -s "https://purge.jsdelivr.net/gh/PelleDahl/FOF-Meta-feed@main/fof-alle-skoler-feed.xml"

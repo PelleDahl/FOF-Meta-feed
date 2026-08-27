@@ -2,6 +2,16 @@
 
 Samler produktfeeds fra alle FOF-skoler til én fælles Meta/Google-produktfeed (`fof-alle-skoler-feed.xml`).
 
+## Live feed-URL
+
+```
+https://cdn.jsdelivr.net/gh/PelleDahl/FOF-Meta-feed@main/fof-alle-skoler-feed.xml
+```
+
+Brug denne URL i Meta Commerce Manager / Google Merchant Center — **ikke** `raw.githubusercontent.com`. GitHub's raw-service sender altid `Content-Type: text/plain`, hvilket kan få feed-parsere til at afvise eller fejllæse filen. jsDelivr spejler samme GitHub-repo, men sætter korrekt `Content-Type: application/xml`.
+
+jsDelivr's CDN cacher indhold i op til ca. 24 timer efter et push til `main`. Skal ændringer slå igennem med det samme, kan cachen purges manuelt via: `https://purge.jsdelivr.net/gh/PelleDahl/FOF-Meta-feed@main/fof-alle-skoler-feed.xml`
+
 ## Kørsel
 
 ```
