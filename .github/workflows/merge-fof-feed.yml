@@ -31,6 +31,8 @@ jobs:
 
       - name: Run feed merge script
         uses: nick-fields/retry@v3
+        env:
+          AZURE_SEARCH_API_KEY: ${{ secrets.AZURE_SEARCH_API_KEY }}
         with:
           timeout_minutes: 10
           max_attempts: 3
@@ -41,7 +43,9 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: fof-alle-skoler-feed
-          path: fof-alle-skoler-feed.xml
+          path: |
+            fof-alle-skoler-feed.xml
+            fof-koebenhavn-og-nordsjaelland-feed.xml
 
       - name: Commit and push updated feed
         id: commit
@@ -49,7 +53,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add fof-alle-skoler-feed.xml
+          git add fof-alle-skoler-feed.xml fof-koebenhavn-og-nordsjaelland-feed.xml og-image-cache.json
 
           if git diff --cached --quiet; then
             echo "No changes to commit."
@@ -65,3 +69,4 @@ jobs:
         if: steps.commit.outputs.changed == 'true'
         run: |
           curl -s "https://purge.jsdelivr.net/gh/PelleDahl/FOF-Meta-feed@main/fof-alle-skoler-feed.xml"
+          curl -s "https://purge.jsdelivr.net/gh/PelleDahl/FOF-Meta-feed@main/fof-koebenhavn-og-nordsjaelland-feed.xml"
