@@ -956,25 +956,6 @@
       <g:start_date>2027-05-29T00:00:00.000Z</g:start_date>
     </item>
 <item>
-      <g:id>HER-48701</g:id>
-      <g:title><![CDATA[AI i øjenhøjde]]></g:title>
-      <g:description><![CDATA[Nysgerrig på kunstig intelligens? Gå til AI i øjenhøjde i Herning og lær at bruge AI til tekst, idéer, billeder og hverdagsopgaver i et roligt tempo.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-herning/ai-i-oejenhoejde?holdnr=48701</g:link>
-      <g:image_link>https://www.fof.dk/media/qaxik4ud/ai-herning-fof-aftenskolen.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>358.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Herning</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; It og foto</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>It og foto</g:custom_label_1>
-      <g:custom_label_2></g:custom_label_2>
-      <g:start_date>2026-10-21T00:00:00.000Z</g:start_date>
-    </item>
-<item>
       <g:id>HER-48881</g:id>
       <g:title><![CDATA[NYHED - Knoglekost - til dig der har brug for lidt ekstra]]></g:title>
       <g:description><![CDATA[Tag på madkursus i Herning og lær at lave grøn, nærende knoglekost med fokus på kalk, K-vitamin, mineraler og stærke knogler.]]></g:description>
@@ -991,6 +972,25 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
       <g:custom_label_2>Vegetarisk og vegansk</g:custom_label_2>
+      <g:start_date>2026-10-21T00:00:00.000Z</g:start_date>
+    </item>
+<item>
+      <g:id>HER-48701</g:id>
+      <g:title><![CDATA[AI i øjenhøjde]]></g:title>
+      <g:description><![CDATA[Nysgerrig på kunstig intelligens? Gå til AI i øjenhøjde i Herning og lær at bruge AI til tekst, idéer, billeder og hverdagsopgaver i et roligt tempo.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-herning/ai-i-oejenhoejde?holdnr=48701</g:link>
+      <g:image_link>https://www.fof.dk/media/qaxik4ud/ai-herning-fof-aftenskolen.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>358.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Herning</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; It og foto</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>It og foto</g:custom_label_1>
+      <g:custom_label_2></g:custom_label_2>
       <g:start_date>2026-10-21T00:00:00.000Z</g:start_date>
     </item>
 <item>
@@ -1260,25 +1260,6 @@
       <g:start_date>2026-11-02T00:00:00.000Z</g:start_date>
     </item>
 <item>
-      <g:id>HER-48806</g:id>
-      <g:title><![CDATA[Grøn mad med rødbeder]]></g:title>
-      <g:description><![CDATA[Lær at lave grøn mad med rødbeder på madlavningskursus i Herning. Få opskrifter, teknikker og inspiration til sunde, smagfulde retter.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-herning/groen-mad-med-roedbeder-1?holdnr=48806</g:link>
-      <g:image_link>https://www.fof.dk/media/uk1pbkn5/madlavning-herning-fof-aftenskolen-roedbeder-1.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>301.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Herning</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Madlavning og drikkevarer &gt; Vegetarisk og vegansk</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
-      <g:custom_label_2>Vegetarisk og vegansk</g:custom_label_2>
-      <g:start_date>2026-11-05T00:00:00.000Z</g:start_date>
-    </item>
-<item>
       <g:id>HER-48421</g:id>
       <g:title><![CDATA[NYHED - Workshop Keramik med Anne Moulvad]]></g:title>
       <g:description><![CDATA[Lær håndmodellering i ler hos FOF Herning ved A Keramikstouw med underviser Anne Moulvad. Arbejd med stentøjsler og lær teknikker som pinch, pølseteknik og pladeteknik.]]></g:description>
@@ -1295,6 +1276,25 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Keramik</g:custom_label_2>
+      <g:start_date>2026-11-05T00:00:00.000Z</g:start_date>
+    </item>
+<item>
+      <g:id>HER-48806</g:id>
+      <g:title><![CDATA[Grøn mad med rødbeder]]></g:title>
+      <g:description><![CDATA[Lær at lave grøn mad med rødbeder på madlavningskursus i Herning. Få opskrifter, teknikker og inspiration til sunde, smagfulde retter.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-herning/groen-mad-med-roedbeder-1?holdnr=48806</g:link>
+      <g:image_link>https://www.fof.dk/media/uk1pbkn5/madlavning-herning-fof-aftenskolen-roedbeder-1.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>301.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Herning</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Madlavning og drikkevarer &gt; Vegetarisk og vegansk</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
+      <g:custom_label_2>Vegetarisk og vegansk</g:custom_label_2>
       <g:start_date>2026-11-05T00:00:00.000Z</g:start_date>
     </item>
 <item>
@@ -5657,25 +5657,6 @@ Kurset er hos FOF i Randers]]></g:description>
       <g:start_date>2026-11-10T00:00:00.000Z</g:start_date>
     </item>
 <item>
-      <g:id>SJY-2624116</g:id>
-      <g:title><![CDATA[Mor træning og babytummel]]></g:title>
-      <g:description><![CDATA[Kom i form efter fødslen sammen med din baby. Træning for mødre med styrkeøvelser, babytummel og hyggeligt fællesskab. Se mere og tilmeld dig.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-sydjylland/mor-traening-og-babytummel?holdnr=2624116</g:link>
-      <g:image_link>https://www.fof.dk/media/3ykmehco/efterfoedselstraening-3.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>589.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Sydjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Efterfødselstræning</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
-      <g:custom_label_2>Efterfødselstræning</g:custom_label_2>
-      <g:start_date>2026-11-10T00:00:00.000Z</g:start_date>
-    </item>
-<item>
       <g:id>SJY-2625777</g:id>
       <g:title><![CDATA[Pilates for let øvede og øvede]]></g:title>
       <g:description><![CDATA[Vi bygger videre på fundamentet fra det du lærte på tidligere hold og tempoet øges, så du får en endnu mere dynamisk og udfordrende træning. Se mere og tilmeld dig.]]></g:description>
@@ -5692,6 +5673,25 @@ Kurset er hos FOF i Randers]]></g:description>
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Pilates</g:custom_label_2>
+      <g:start_date>2026-11-10T00:00:00.000Z</g:start_date>
+    </item>
+<item>
+      <g:id>SJY-2624116</g:id>
+      <g:title><![CDATA[Mor træning og babytummel]]></g:title>
+      <g:description><![CDATA[Kom i form efter fødslen sammen med din baby. Træning for mødre med styrkeøvelser, babytummel og hyggeligt fællesskab. Se mere og tilmeld dig.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydjylland/mor-traening-og-babytummel?holdnr=2624116</g:link>
+      <g:image_link>https://www.fof.dk/media/3ykmehco/efterfoedselstraening-3.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>589.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Efterfødselstræning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
+      <g:custom_label_2>Efterfødselstræning</g:custom_label_2>
       <g:start_date>2026-11-10T00:00:00.000Z</g:start_date>
     </item>
 <item>
@@ -10109,25 +10109,6 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:start_date>2026-11-06T00:00:00.000Z</g:start_date>
     </item>
 <item>
-      <g:id>SDJ-1262043</g:id>
-      <g:title><![CDATA[Hjemmepasning]]></g:title>
-      <g:description><![CDATA[Få et ærligt indblik i livet som hjemmepassende forælder. Et inspirerende foredrag med erfaringer, refleksioner og samtalecafé. Læs mere og tilmeld dig i dag. ]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-soenderjylland/hjemmepasning?holdnr=1262043</g:link>
-      <g:image_link>https://www.fof.dk/media/aynfykil/hjemmepasning-foredrag-soenderjylland-fof-aftenskolen.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>135.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Sønderjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Foredrag, debat og højskoler &gt; Familie og børn</g:product_type>
-      <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
-      <g:custom_label_1>Familie og børn</g:custom_label_1>
-      <g:custom_label_2></g:custom_label_2>
-      <g:start_date>2026-11-06T00:00:00.000Z</g:start_date>
-    </item>
-<item>
       <g:id>SDJ-1262004</g:id>
       <g:title><![CDATA[Kunsten i Sønderjylland efter 1920]]></g:title>
       <g:description><![CDATA[Hvordan har kunsten udviklet sig i Sønderjylland siden Genforeningen i 1920? Dette foredrag sætter fokus på de kunstnere, fællesskaber og initiativer, der har præget landsdelens kunstliv gennem mere end 100 år. ]]></g:description>
@@ -10143,6 +10124,25 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:product_type>Foredrag, debat og højskoler &gt; Kultur og livsfortællinger</g:product_type>
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Kultur og livsfortællinger</g:custom_label_1>
+      <g:custom_label_2></g:custom_label_2>
+      <g:start_date>2026-11-06T00:00:00.000Z</g:start_date>
+    </item>
+<item>
+      <g:id>SDJ-1262043</g:id>
+      <g:title><![CDATA[Hjemmepasning]]></g:title>
+      <g:description><![CDATA[Få et ærligt indblik i livet som hjemmepassende forælder. Et inspirerende foredrag med erfaringer, refleksioner og samtalecafé. Læs mere og tilmeld dig i dag. ]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-soenderjylland/hjemmepasning?holdnr=1262043</g:link>
+      <g:image_link>https://www.fof.dk/media/aynfykil/hjemmepasning-foredrag-soenderjylland-fof-aftenskolen.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>135.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sønderjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Foredrag, debat og højskoler &gt; Familie og børn</g:product_type>
+      <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
+      <g:custom_label_1>Familie og børn</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
       <g:start_date>2026-11-06T00:00:00.000Z</g:start_date>
     </item>
@@ -14731,14 +14731,14 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:start_date>2026-12-03T00:00:00.000Z</g:start_date>
     </item>
 <item>
-      <g:id>AAL-26205765</g:id>
-      <g:title><![CDATA[Keramik: Mal på keramik ]]></g:title>
-      <g:description><![CDATA[Mal på keramik hos FOF Aalborg. Dekorér kopper, skåle, tallerkener og fade i et hyggeligt keramikværksted. Glasur og brænding er inkluderet.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-aalborg/keramik-mal-paa-keramik?holdnr=26205765</g:link>
-      <g:image_link>https://www.fof.dk/media/bdno5ovj/mal_keramik_1keramik.jpg?width=1200</g:image_link>
+      <g:id>AAL-26205715</g:id>
+      <g:title><![CDATA[Keramik: Åbent keramikværksted]]></g:title>
+      <g:description><![CDATA[Arbejd frit med keramik i FOF Aalborgs åbne keramikværksted. For øvede med kendskab til keramik. Adgang til værksted, brænding og glasur.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aalborg/keramik-aabent-keramikvaerksted?holdnr=26205715</g:link>
+      <g:image_link>https://www.fof.dk/media/3wjdisl4/1-f8b9f4a9.jpg?width=1200</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:quantity>1</g:quantity>
-      <g:price>115.00 DKK</g:price>
+      <g:price>195.00 DKK</g:price>
       <g:condition>new</g:condition>
       <g:brand>FOF Aalborg</g:brand>
       <g:google_product_category>Education</g:google_product_category>
@@ -14750,14 +14750,14 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:start_date>2026-12-04T00:00:00.000Z</g:start_date>
     </item>
 <item>
-      <g:id>AAL-26205715</g:id>
-      <g:title><![CDATA[Keramik: Åbent keramikværksted]]></g:title>
-      <g:description><![CDATA[Arbejd frit med keramik i FOF Aalborgs åbne keramikværksted. For øvede med kendskab til keramik. Adgang til værksted, brænding og glasur.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-aalborg/keramik-aabent-keramikvaerksted?holdnr=26205715</g:link>
-      <g:image_link>https://www.fof.dk/media/3wjdisl4/1-f8b9f4a9.jpg?width=1200</g:image_link>
+      <g:id>AAL-26205765</g:id>
+      <g:title><![CDATA[Keramik: Mal på keramik ]]></g:title>
+      <g:description><![CDATA[Mal på keramik hos FOF Aalborg. Dekorér kopper, skåle, tallerkener og fade i et hyggeligt keramikværksted. Glasur og brænding er inkluderet.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aalborg/keramik-mal-paa-keramik?holdnr=26205765</g:link>
+      <g:image_link>https://www.fof.dk/media/bdno5ovj/mal_keramik_1keramik.jpg?width=1200</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:quantity>1</g:quantity>
-      <g:price>195.00 DKK</g:price>
+      <g:price>115.00 DKK</g:price>
       <g:condition>new</g:condition>
       <g:brand>FOF Aalborg</g:brand>
       <g:google_product_category>Education</g:google_product_category>
@@ -17771,6 +17771,25 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Sundhed og eksistens</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:start_date>2026-11-30T00:00:00.000Z</g:start_date>
+    </item>
+<item>
+      <g:id>AAR-422333</g:id>
+      <g:title><![CDATA[Julekeramik - ugekursus]]></g:title>
+      <g:description><![CDATA[Tilbring en kreativ uge med julekeramik hos FOF Aarhus. Form, dekorer og glasér personlige værker i ler – perfekte som julegaver, pynt eller hyggelige minder skabt med egne hænder.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/julekeramik-ugekursus?holdnr=422333</g:link>
+      <g:image_link>https://www.fof.dk/media/4woj113r/julekeramik-boern-og-voksne-1200x1200-komp-geo.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>2235.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Kreative kurser &gt; Keramik</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Kreative kurser</g:custom_label_1>
+      <g:custom_label_2>Keramik</g:custom_label_2>
       <g:start_date>2026-11-30T00:00:00.000Z</g:start_date>
     </item>
 <item>
@@ -22587,6 +22606,25 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:start_date>2027-01-18T00:00:00.000Z</g:start_date>
     </item>
 <item>
+      <g:id>KBO-23203</g:id>
+      <g:title><![CDATA[Keramik]]></g:title>
+      <g:description><![CDATA[Deltag i FOF keramikkursus i Glostrup med FOF Københavns Omegn, og lær modellering, pladeteknik, drejning, dekoration og glasering. Kurset er for begyndere og let øvede med små hold og personlig vejledning.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/keramik-kursus-glostrup?holdnr=23203</g:link>
+      <g:image_link>https://www.fof.dk/media/v43bsken/3-keramik-eget-billede.png?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>2420.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Københavns Omegn</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Kreative kurser &gt; Keramik</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Kreative kurser</g:custom_label_1>
+      <g:custom_label_2>Keramik</g:custom_label_2>
+      <g:start_date>2027-01-18T00:00:00.000Z</g:start_date>
+    </item>
+<item>
       <g:id>KBO-23462</g:id>
       <g:title><![CDATA[Sy og design]]></g:title>
       <g:description><![CDATA[Drømmer du om at lære at sy og skabe en garderobe, der skiller sig ud? På vores sykursus i Glostrup Medborgerhus får du professionel syundervisning, kreativ inspiration og tid til fordybelse. Lær at sy dit eget tøj på kreativt sykursus i Glostrup Medborgerhus. Sykursus for begyndere og øvede med personlig vejledning.]]></g:description>
@@ -22739,25 +22777,6 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
     </item>
 <item>
-      <g:id>KBO-23601</g:id>
-      <g:title><![CDATA[Ryghold]]></g:title>
-      <g:description><![CDATA[Deltag på vores populære ryghold i Glostrup Medborgerhus. Professionel undervisning, lyse lokaler, gode parkeringsmuligheder og effektiv træning for ryg, balance og bevægelighed.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/rygtraening?holdnr=23601</g:link>
-      <g:image_link>https://www.fof.dk/media/jgylzd4z/yoga-fof-aftenskolen-31.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1455.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Københavns Omegn</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Styrke- og konditionstræning</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Styrke- og konditionstræning</g:custom_label_2>
-      <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
-    </item>
-<item>
       <g:id>KBO-23342</g:id>
       <g:title><![CDATA[Tysk for viderekomne]]></g:title>
       <g:description><![CDATA[For dig med solid erfaring i tysk, der vil styrke din flydende tale og forståelse. B2-kurset giver fordybelse, nuanceret sprog og samtaler på højt niveau. Tilmeld dig hos FOF Københavns Omegn.]]></g:description>
@@ -22774,6 +22793,25 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Sprog</g:custom_label_1>
       <g:custom_label_2>Tysk</g:custom_label_2>
+      <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
+    </item>
+<item>
+      <g:id>KBO-23601</g:id>
+      <g:title><![CDATA[Ryghold]]></g:title>
+      <g:description><![CDATA[Deltag på vores populære ryghold i Glostrup Medborgerhus. Professionel undervisning, lyse lokaler, gode parkeringsmuligheder og effektiv træning for ryg, balance og bevægelighed.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/rygtraening?holdnr=23601</g:link>
+      <g:image_link>https://www.fof.dk/media/jgylzd4z/yoga-fof-aftenskolen-31.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1455.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Københavns Omegn</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Styrke- og konditionstræning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Styrke- og konditionstræning</g:custom_label_2>
       <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
     </item>
 <item>
@@ -23271,25 +23309,6 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:start_date>2027-01-27T00:00:00.000Z</g:start_date>
     </item>
 <item>
-      <g:id>KBO-23828</g:id>
-      <g:title><![CDATA[Styrketræning med fokus på osteoporose]]></g:title>
-      <g:description><![CDATA[For dig med knogleskørhed/osteoporose. Skånsom og målrettet træning for dig med osteoporose. Fokus på styrke, balance og tryg bevægelse i rolige rammer med professionel vejledning.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/osteoporosetraening?holdnr=23828</g:link>
-      <g:image_link>https://www.fof.dk/media/koib4ksf/23.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1365.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Københavns Omegn</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Styrke- og konditionstræning</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Styrke- og konditionstræning</g:custom_label_2>
-      <g:start_date>2027-01-27T00:00:00.000Z</g:start_date>
-    </item>
-<item>
       <g:id>KBO-23461</g:id>
       <g:title><![CDATA[Smykkekursus]]></g:title>
       <g:description><![CDATA[Forær dig selv gaven der bliver ved med at give: Kreativt smykkekursus i Ballerup hos FOF Københavns Omegn. Lær smykkedesign, sølvarbejde og håndlavede teknikker på inspirerende smykkekursus i Ballerup. Flere datoer]]></g:description>
@@ -23306,6 +23325,25 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Smykkekurser</g:custom_label_2>
+      <g:start_date>2027-01-27T00:00:00.000Z</g:start_date>
+    </item>
+<item>
+      <g:id>KBO-23828</g:id>
+      <g:title><![CDATA[Styrketræning med fokus på osteoporose]]></g:title>
+      <g:description><![CDATA[For dig med knogleskørhed/osteoporose. Skånsom og målrettet træning for dig med osteoporose. Fokus på styrke, balance og tryg bevægelse i rolige rammer med professionel vejledning.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/osteoporosetraening?holdnr=23828</g:link>
+      <g:image_link>https://www.fof.dk/media/koib4ksf/23.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1365.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Københavns Omegn</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Styrke- og konditionstræning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Styrke- og konditionstræning</g:custom_label_2>
       <g:start_date>2027-01-27T00:00:00.000Z</g:start_date>
     </item>
 <item>
@@ -24127,10 +24165,10 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
     </item>
 <item>
       <g:id>KBO-23334</g:id>
-      <g:title><![CDATA[Italiensk for begyndere - fortsættere (A1)]]></g:title>
-      <g:description><![CDATA[Italiensk for begyndere: Start fra bunden og lær italiensk i selskab med med dygtig underviser på hyggeligt hold. Italiensk for begyndere er for dig der ønsker at lære italiensk uden forhåndskendskab til sproget. Du lærer at forstå og bruge enkle italienske udtryk i hverdagen, føre korte samtaler om kendte emner]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/italiensk-for-begyndere-a1?holdnr=23334</g:link>
-      <g:image_link>https://www.fof.dk/media/243h0hdu/30.jpg?width=1200</g:image_link>
+      <g:title><![CDATA[Italiensk for let øvede]]></g:title>
+      <g:description><![CDATA[Italiensk for let øvede (A2) hos FOF Københavns Omegn: Bliv mere sikker i samtaler og udvid dit ordforråd i dagligdags situationer.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/italiensk-for-let-oevede-a2?holdnr=23334</g:link>
+      <g:image_link>https://www.fof.dk/media/scohakif/italiensk-2.png?width=1200</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:quantity>1</g:quantity>
       <g:price>1364.00 DKK</g:price>
@@ -25823,6 +25861,44 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:start_date>2027-05-09T00:00:00.000Z</g:start_date>
     </item>
 <item>
+      <g:id>KBO-23205</g:id>
+      <g:title><![CDATA[Keramik - fortsætterhold]]></g:title>
+      <g:description><![CDATA[Deltag i FOF keramikkursus i Glostrup med FOF Københavns Omegn, og lær modellering, pladeteknik, drejning, dekoration og glasering. Kurset er for begyndere og let øvede med små hold og personlig vejledning.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/keramik-kursus-glostrup?holdnr=23205</g:link>
+      <g:image_link>https://www.fof.dk/media/v43bsken/3-keramik-eget-billede.png?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>850.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Københavns Omegn</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Kreative kurser &gt; Keramik</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Kreative kurser</g:custom_label_1>
+      <g:custom_label_2>Keramik</g:custom_label_2>
+      <g:start_date>2027-05-10T00:00:00.000Z</g:start_date>
+    </item>
+<item>
+      <g:id>KBO-23207</g:id>
+      <g:title><![CDATA[Keramik - fortsætterhold]]></g:title>
+      <g:description><![CDATA[Deltag i FOF keramikkursus i Glostrup med FOF Københavns Omegn, og lær modellering, pladeteknik, drejning, dekoration og glasering. Kurset er for begyndere og let øvede med små hold og personlig vejledning.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/keramik-kursus-glostrup?holdnr=23207</g:link>
+      <g:image_link>https://www.fof.dk/media/v43bsken/3-keramik-eget-billede.png?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>850.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Københavns Omegn</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Kreative kurser &gt; Keramik</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Kreative kurser</g:custom_label_1>
+      <g:custom_label_2>Keramik</g:custom_label_2>
+      <g:start_date>2027-05-10T00:00:00.000Z</g:start_date>
+    </item>
+<item>
       <g:id>KBO-23889</g:id>
       <g:title><![CDATA[Osteoporosetræning udendørs – styrk kroppen og knoglerne]]></g:title>
       <g:description><![CDATA[For dig med knogleskørhed/osteoporose. Skånsom og målrettet træning for dig med osteoporose. Fokus på styrke, balance og tryg bevægelse i rolige rammer med professionel vejledning.]]></g:description>
@@ -26315,6 +26391,25 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:custom_label_1>Musik og sang</g:custom_label_1>
       <g:custom_label_2>Sang og stemmetræning</g:custom_label_2>
       <g:start_date>2026-10-27T00:00:00.000Z</g:start_date>
+    </item>
+<item>
+      <g:id>KOE-51602</g:id>
+      <g:title><![CDATA[Stolemotion]]></g:title>
+      <g:description><![CDATA[Træn hele livet! Vores dygtige undervisere hjælper dig stærkere og gladere. Tilmeld dig en motionsform hvor alle kan være med. Uanset niveau og skavanker. Dyrk stolegymnastik i Greve, Solrød og Køge med FOF Køge Bugt. ]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koege-bugt/stolegymnastik?holdnr=51602</g:link>
+      <g:image_link>https://www.fof.dk/media/3wkbigmz/stolegymnastik-koege-fof-aftenskolen.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1445.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Køge Bugt</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Styrke- og konditionstræning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Styrke- og konditionstræning</g:custom_label_2>
+      <g:start_date>2026-10-28T00:00:00.000Z</g:start_date>
     </item>
 <item>
       <g:id>KOE-51944</g:id>
@@ -26831,25 +26926,6 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:start_date>2026-11-18T00:00:00.000Z</g:start_date>
     </item>
 <item>
-      <g:id>KOE-50584</g:id>
-      <g:title><![CDATA[Naturtræning - styrke, ro og energi i naturen]]></g:title>
-      <g:description><![CDATA[Hensynstagende træning i Stenløse: Få bevæget kroppen, mærk naturen og gå hjem med ny energi. På Naturholdet kombinerer vi bevægelse og let træning med naturens muligheder for nærvær, sansning og restitution. Vi træner både styrke, balance, bevægelighed og kondition og giver samtidig plads til at sænke tempoet og finde ro i krop og sind. Holdet foregår både ude i naturen og inde i Multihytten og tilpasses årstiden, vejret og deltagernes forskellige forudsætninger. Hvem kan være med? Naturholdet er for dig, der gerne vil bevæge dig mere og styrke både din fysiske og mentale trivsel, men gerne vil undgå fitnesscentret. Du behøver ikke være i god form eller have erfaring med træning. Øvelserne kan tilpasses, så du kan deltage ud fra dit eget niveau. Hvad får jeg? Gennem forløbet arbejder vi blandt andet med styrke, balance, bevægelighed, kondition og kropsbevidsthed. Vi bruger naturens terræn og omgivelser i træningen og supplerer med blandt andet elastikker, små træningsbolde og øvelser på yogamåtte. Du bliver samtidig introduceret til enkle øvelser med åndedræt, sanser, nærvær og afspænding, som kan understøtte kroppens naturlige evne til at finde ro og restituere. Målet er ikke at præstere, men at opleve glæden ved at bruge kroppen og opdage, hvordan bevægelse og ophold i naturen kan give mere energi og velvære i hverdagen. Hvordan foregår undervisningen? Vi mødes ved Multihytten og bruger både hytten og den omkringliggende natur. Undervisningen varierer fra gang til gang. Vi kan gå ture i forskelligt tempo, træne styrke og balance, arbejde med bevægelighed, lave makkerøvelser og bruge naturen som træningsrum. Andre gange sænker vi tempoet med sanseøvelser, mindful walking, åndedræt eller en afsluttende afspænding. Vi er ude en del af tiden, også i vinterhalvåret, så kom i praktisk tøj og fodtøj, der passer til vejret.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koege-bugt/naturtraening-styrke-ro-og-energi-i-naturen?holdnr=50584</g:link>
-      <g:image_link>https://www.fof.dk/media/mm4ors2b/naturtraening-stenloese-fof-aftenskolen.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1138.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Køge Bugt</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Mindfulness og meditation</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Mindfulness og meditation</g:custom_label_2>
-      <g:start_date>2026-11-18T00:00:00.000Z</g:start_date>
-    </item>
-<item>
       <g:id>KOE-50472</g:id>
       <g:title><![CDATA[Blid træning mod stress og smerter]]></g:title>
       <g:description><![CDATA[Hensyntagende hold i Egedal Kommune: Få en blid træning mod smerter og stress. Starter i oktober 2026.]]></g:description>
@@ -26866,6 +26942,25 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Bevægelse og afspænding</g:custom_label_2>
+      <g:start_date>2026-11-18T00:00:00.000Z</g:start_date>
+    </item>
+<item>
+      <g:id>KOE-50584</g:id>
+      <g:title><![CDATA[Naturtræning - styrke, ro og energi i naturen]]></g:title>
+      <g:description><![CDATA[Hensynstagende træning i Stenløse: Få bevæget kroppen, mærk naturen og gå hjem med ny energi. På Naturholdet kombinerer vi bevægelse og let træning med naturens muligheder for nærvær, sansning og restitution. Vi træner både styrke, balance, bevægelighed og kondition og giver samtidig plads til at sænke tempoet og finde ro i krop og sind. Holdet foregår både ude i naturen og inde i Multihytten og tilpasses årstiden, vejret og deltagernes forskellige forudsætninger. Hvem kan være med? Naturholdet er for dig, der gerne vil bevæge dig mere og styrke både din fysiske og mentale trivsel, men gerne vil undgå fitnesscentret. Du behøver ikke være i god form eller have erfaring med træning. Øvelserne kan tilpasses, så du kan deltage ud fra dit eget niveau. Hvad får jeg? Gennem forløbet arbejder vi blandt andet med styrke, balance, bevægelighed, kondition og kropsbevidsthed. Vi bruger naturens terræn og omgivelser i træningen og supplerer med blandt andet elastikker, små træningsbolde og øvelser på yogamåtte. Du bliver samtidig introduceret til enkle øvelser med åndedræt, sanser, nærvær og afspænding, som kan understøtte kroppens naturlige evne til at finde ro og restituere. Målet er ikke at præstere, men at opleve glæden ved at bruge kroppen og opdage, hvordan bevægelse og ophold i naturen kan give mere energi og velvære i hverdagen. Hvordan foregår undervisningen? Vi mødes ved Multihytten og bruger både hytten og den omkringliggende natur. Undervisningen varierer fra gang til gang. Vi kan gå ture i forskelligt tempo, træne styrke og balance, arbejde med bevægelighed, lave makkerøvelser og bruge naturen som træningsrum. Andre gange sænker vi tempoet med sanseøvelser, mindful walking, åndedræt eller en afsluttende afspænding. Vi er ude en del af tiden, også i vinterhalvåret, så kom i praktisk tøj og fodtøj, der passer til vejret.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koege-bugt/naturtraening-styrke-ro-og-energi-i-naturen?holdnr=50584</g:link>
+      <g:image_link>https://www.fof.dk/media/mm4ors2b/naturtraening-stenloese-fof-aftenskolen.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1138.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Køge Bugt</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Mindfulness og meditation</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Mindfulness og meditation</g:custom_label_2>
       <g:start_date>2026-11-18T00:00:00.000Z</g:start_date>
     </item>
 <item>
@@ -28199,25 +28294,6 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:start_date>2026-10-22T00:00:00.000Z</g:start_date>
     </item>
 <item>
-      <g:id>SVS-640526</g:id>
-      <g:title><![CDATA[Hensyntagende bevægelse og afspænding]]></g:title>
-      <g:description><![CDATA[Skånsom bevægelse og afspænding i Ringsted. Træn led, muskler og åndedræt i trygge rammer på små hold med individuel vejledning hos FOF.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-syd-og-vestsjaelland/hensyntagende-bevaegelse-og-afspaending?holdnr=640526</g:link>
-      <g:image_link>https://www.fof.dk/media/kkpn2vjl/hensyntagende-bevaegelse-og-afspaending-ringsted-fof-aftenskolen.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>970.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Syd- og Vestsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Bevægelse og afspænding</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Bevægelse og afspænding</g:custom_label_2>
-      <g:start_date>2026-10-22T00:00:00.000Z</g:start_date>
-    </item>
-<item>
       <g:id>SVS-340226</g:id>
       <g:title><![CDATA[Hensyntagende pilates]]></g:title>
       <g:description><![CDATA[Skånsom pilates i Korsør og Slagelse med fokus på styrke, smidighed og kropsbevidsthed. Små hold og individuel vejledning hos FOF.]]></g:description>
@@ -28234,6 +28310,25 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Pilates</g:custom_label_2>
+      <g:start_date>2026-10-22T00:00:00.000Z</g:start_date>
+    </item>
+<item>
+      <g:id>SVS-640526</g:id>
+      <g:title><![CDATA[Hensyntagende bevægelse og afspænding]]></g:title>
+      <g:description><![CDATA[Skånsom bevægelse og afspænding i Ringsted. Træn led, muskler og åndedræt i trygge rammer på små hold med individuel vejledning hos FOF.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-syd-og-vestsjaelland/hensyntagende-bevaegelse-og-afspaending?holdnr=640526</g:link>
+      <g:image_link>https://www.fof.dk/media/kkpn2vjl/hensyntagende-bevaegelse-og-afspaending-ringsted-fof-aftenskolen.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>970.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Syd- og Vestsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Bevægelse og afspænding</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Bevægelse og afspænding</g:custom_label_2>
       <g:start_date>2026-10-22T00:00:00.000Z</g:start_date>
     </item>
 <item>

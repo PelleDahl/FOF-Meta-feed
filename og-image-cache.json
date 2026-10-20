@@ -611,6 +611,10 @@
     "ogImage": "https://www.fof.dk/media/mdkh2ocj/julekeramik-1200x1200-komp-geo.jpg?width=1200",
     "fetchedAt": "2026-10-20T13:05:57.031Z"
   },
+  "https://www.fof.dk/aftenskolen/fof-aarhus/julekeramik-ugekursus": {
+    "ogImage": "https://www.fof.dk/media/4woj113r/julekeramik-boern-og-voksne-1200x1200-komp-geo.jpg?width=1200",
+    "fetchedAt": "2026-10-20T13:44:23.118Z"
+  },
   "https://www.fof.dk/aftenskolen/fof-aarhus/julekonfekt": {
     "ogImage": "https://www.fof.dk/media/0u2d3e3y/julekonfekt-kursus-aarhus-fof-aftenskolen.jpg?width=1200",
     "fetchedAt": "2026-10-20T13:05:55.106Z"
@@ -1459,10 +1463,6 @@
     "ogImage": "https://www.fof.dk/media/tmshanwl/kanalrundfart-fofkn-aftenskolen-ture-ns.jpg?width=1200",
     "fetchedAt": "2026-10-20T13:07:01.765Z"
   },
-  "https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/3d-smykkedesign-og-stoebning": {
-    "ogImage": "https://www.fof.dk/media/0z2bzyp5/smykkekursus-fofkn-aftenskolen-kreative-kurser-5016-1.jpg?width=1200",
-    "fetchedAt": "2026-10-20T13:06:39.632Z"
-  },
   "https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/aandedraettet-din-sundhed-workshop": {
     "ogImage": "https://www.fof.dk/media/kivj3zvb/smerteha-ndtering-fofkn-aftenskolen-motion-og-sundhed-ns-1.jpg?width=1200",
     "fetchedAt": "2026-10-20T13:06:23.907Z"
@@ -2271,6 +2271,10 @@
     "ogImage": "https://www.fof.dk/media/0kmnmkzy/jacob-2022-9-fofkn-aftenskolen-foredrag.jpg?width=1200",
     "fetchedAt": "2026-10-20T13:07:00.186Z"
   },
+  "https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/jaegerspris-slot-og-park-frederik-7-og-grevinde-danner": {
+    "ogImage": "https://www.fof.dk/media/iabb2qt4/jaegerspris-slot-fofkn-aftenskolen-ture-ns.jpg?width=1200",
+    "fetchedAt": "2026-10-20T13:44:26.714Z"
+  },
   "https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/japanese-cuisine": {
     "ogImage": "https://www.fof.dk/media/0penaae3/japanese-cuisine.jpg?width=1200",
     "fetchedAt": "2026-10-20T13:06:48.515Z"
@@ -2418,10 +2422,6 @@
   "https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/laer-at-haekle-paa-en-loerdag": {
     "ogImage": "https://www.fof.dk/media/3rlhocpk/haeklekursus-fofkn-aftenskolen-kreative-kurser-ns-3.jpg?width=1200",
     "fetchedAt": "2026-10-20T13:06:48.025Z"
-  },
-  "https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/laer-at-tegne-begyndereletoevede": {
-    "ogImage": "https://www.fof.dk/media/rdslu324/tegning-fofkn-aftenskolen-kreative-kurser-stock-18646495.jpg?width=1200",
-    "fetchedAt": "2026-10-20T13:06:43.956Z"
   },
   "https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/laer-at-tegne-og-male-weekend": {
     "ogImage": "https://www.fof.dk/media/p1tbq4gb/tegne-malekursus-fofkn-aftenskolen-kreative-kurser-stock24508683.jpg?width=1200",
@@ -2859,6 +2859,10 @@
     "ogImage": "https://www.fof.dk/media/rkcfmdlk/smykkekursus-fofkn-aftenskolen-kreative-kurser-1.jpg?width=1200",
     "fetchedAt": "2026-10-20T13:06:35.171Z"
   },
+  "https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/snublesten-i-koebenhavn": {
+    "ogImage": "https://www.fof.dk/media/wkubokhk/snublesten.jpg?width=1200",
+    "fetchedAt": "2026-10-20T13:44:26.221Z"
+  },
   "https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/soendagskrea-for-boern": {
     "ogImage": "https://www.fof.dk/media/tn2dzblv/soendagskrea2.jpg?width=1200",
     "fetchedAt": "2026-10-20T13:06:44.445Z"
@@ -2954,6 +2958,10 @@
   "https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/syning-for-begyndere-og-let-oevede": {
     "ogImage": "https://www.fof.dk/media/a05d2ux5/syning-fof-aftenskolen-17.jpg?width=1200",
     "fetchedAt": "2026-10-20T13:06:22.824Z"
+  },
+  "https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/tag-styring-over-dine-egne-investeringer": {
+    "ogImage": "https://www.fof.dk/media/mnpfwyew/oekonomi-aktier-1-fofkn-aftenskolen-foredrag-ns.jpg?width=1200",
+    "fetchedAt": "2026-10-20T13:44:26.481Z"
   },
   "https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/taghaverne-og-sydhavn-nordens-venedig": {
     "ogImage": "https://www.fof.dk/media/sgyfxnlm/sydhavn-fofkn-aftenskolen-ture-ns-maria-sattrup-wonderful-copenhagen.jpg?width=1200",
@@ -3514,6 +3522,10 @@
   "https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/kejserinde-dagmars-domicil-i-fredensborg": {
     "ogImage": "https://www.fof.dk/media/0zdkwoia/kejserinde-dagmars-domicil-i-fredensborg.png?width=1200",
     "fetchedAt": "2026-10-20T13:07:21.631Z"
+  },
+  "https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/keramik-kursus-glostrup": {
+    "ogImage": "https://www.fof.dk/media/v43bsken/3-keramik-eget-billede.png?width=1200",
+    "fetchedAt": "2026-10-20T13:44:29.834Z"
   },
   "https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/klaver-i-broendby": {
     "ogImage": "https://www.fof.dk/media/2exctte2/1-klaver-kilden-eget-billede.png?width=1200",
@@ -4134,6 +4146,10 @@
   "https://www.fof.dk/aftenskolen/fof-koege-bugt/slow-looking-paa-maps": {
     "ogImage": "https://www.fof.dk/media/2xyp1uhi/slow-looking-koege-fof-aftenskolen-1.jpg?width=1200",
     "fetchedAt": "2026-10-20T13:07:28.529Z"
+  },
+  "https://www.fof.dk/aftenskolen/fof-koege-bugt/stolegymnastik": {
+    "ogImage": "https://www.fof.dk/media/3wkbigmz/stolegymnastik-koege-fof-aftenskolen.jpg?width=1200",
+    "fetchedAt": "2026-10-20T13:44:31.394Z"
   },
   "https://www.fof.dk/aftenskolen/fof-koege-bugt/stolegymnastik-paa-plejecentret": {
     "ogImage": "https://www.fof.dk/media/44lkgma1/stolgymnastik-koege.jpg?width=1200",
