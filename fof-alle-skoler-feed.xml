@@ -956,25 +956,6 @@
       <g:start_date>2027-05-29T00:00:00.000Z</g:start_date>
     </item>
 <item>
-      <g:id>HER-48881</g:id>
-      <g:title><![CDATA[NYHED - Knoglekost - til dig der har brug for lidt ekstra]]></g:title>
-      <g:description><![CDATA[Tag på madkursus i Herning og lær at lave grøn, nærende knoglekost med fokus på kalk, K-vitamin, mineraler og stærke knogler.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-herning/knoglekost?holdnr=48881</g:link>
-      <g:image_link>https://www.fof.dk/media/l1fbpamu/knoglekost.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>301.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Herning</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Madlavning og drikkevarer &gt; Vegetarisk og vegansk</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
-      <g:custom_label_2>Vegetarisk og vegansk</g:custom_label_2>
-      <g:start_date>2026-10-21T00:00:00.000Z</g:start_date>
-    </item>
-<item>
       <g:id>HER-48701</g:id>
       <g:title><![CDATA[AI i øjenhøjde]]></g:title>
       <g:description><![CDATA[Nysgerrig på kunstig intelligens? Gå til AI i øjenhøjde i Herning og lær at bruge AI til tekst, idéer, billeder og hverdagsopgaver i et roligt tempo.]]></g:description>
@@ -991,6 +972,25 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>It og foto</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:start_date>2026-10-21T00:00:00.000Z</g:start_date>
+    </item>
+<item>
+      <g:id>HER-48881</g:id>
+      <g:title><![CDATA[NYHED - Knoglekost - til dig der har brug for lidt ekstra]]></g:title>
+      <g:description><![CDATA[Tag på madkursus i Herning og lær at lave grøn, nærende knoglekost med fokus på kalk, K-vitamin, mineraler og stærke knogler.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-herning/knoglekost?holdnr=48881</g:link>
+      <g:image_link>https://www.fof.dk/media/l1fbpamu/knoglekost.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>301.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Herning</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Madlavning og drikkevarer &gt; Vegetarisk og vegansk</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
+      <g:custom_label_2>Vegetarisk og vegansk</g:custom_label_2>
       <g:start_date>2026-10-21T00:00:00.000Z</g:start_date>
     </item>
 <item>
@@ -2554,25 +2554,6 @@
       <g:start_date>2026-11-17T00:00:00.000Z</g:start_date>
     </item>
 <item>
-      <g:id>NVJ-262022</g:id>
-      <g:title><![CDATA["Pingviner og Pionerer" - foredrag om Antarktis - Jan Tvernø]]></g:title>
-      <g:description><![CDATA[Kom med til foredrag med Jan Tvernø om Antarktis, hør om farlige ekspeditioner, det imponerende dyreliv og meget andet hos FOF Nordvestjylland i Hanstholm]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-nordvestjylland/pingviner-og-pionerer-jan-tvernoe?holdnr=262022</g:link>
-      <g:image_link>https://www.fof.dk/media/z2rdq1d3/pingvinerjant1200x1200.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>95.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Nordvestjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Foredrag, debat og højskoler &gt; Samfund og historie</g:product_type>
-      <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
-      <g:custom_label_1>Samfund og historie</g:custom_label_1>
-      <g:custom_label_2></g:custom_label_2>
-      <g:start_date>2026-11-17T00:00:00.000Z</g:start_date>
-    </item>
-<item>
       <g:id>NVJ-262106</g:id>
       <g:title><![CDATA[Sanselig Yin Yoga]]></g:title>
       <g:description><![CDATA[Kom med til sanselig og skånsom yin yoga hos FOF Nordvestjylland i Holstebro]]></g:description>
@@ -2589,6 +2570,25 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:start_date>2026-11-17T00:00:00.000Z</g:start_date>
+    </item>
+<item>
+      <g:id>NVJ-262022</g:id>
+      <g:title><![CDATA["Pingviner og Pionerer" - foredrag om Antarktis - Jan Tvernø]]></g:title>
+      <g:description><![CDATA[Kom med til foredrag med Jan Tvernø om Antarktis, hør om farlige ekspeditioner, det imponerende dyreliv og meget andet hos FOF Nordvestjylland i Hanstholm]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-nordvestjylland/pingviner-og-pionerer-jan-tvernoe?holdnr=262022</g:link>
+      <g:image_link>https://www.fof.dk/media/z2rdq1d3/pingvinerjant1200x1200.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>95.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Nordvestjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Foredrag, debat og højskoler &gt; Samfund og historie</g:product_type>
+      <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
+      <g:custom_label_1>Samfund og historie</g:custom_label_1>
+      <g:custom_label_2></g:custom_label_2>
       <g:start_date>2026-11-17T00:00:00.000Z</g:start_date>
     </item>
 <item>
@@ -4802,25 +4802,6 @@ Kurset er hos FOF i Randers]]></g:description>
       <g:start_date>2026-10-27T00:00:00.000Z</g:start_date>
     </item>
 <item>
-      <g:id>SJY-2626335</g:id>
-      <g:title><![CDATA[Manga og tegneserie ]]></g:title>
-      <g:description><![CDATA[Lær at tegne manga og tegneserier med en erfaren tegner. Udvikl dine egne figurer og fortællinger - og få hjælp til at skabe dit eget visuelle univers. Se mere og tilmeld dig.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-sydjylland/manga-og-tegneserie?holdnr=2626335</g:link>
-      <g:image_link>https://www.fof.dk/media/mh5njbxv/manga-og-tegneserie-1.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>895.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Sydjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Kreative kurser &gt; Tegnekurser</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Kreative kurser</g:custom_label_1>
-      <g:custom_label_2>Tegnekurser</g:custom_label_2>
-      <g:start_date>2026-10-27T00:00:00.000Z</g:start_date>
-    </item>
-<item>
       <g:id>SJY-2621811</g:id>
       <g:title><![CDATA[Bliv klogere på dig selv og andre med Enneagrammet]]></g:title>
       <g:description><![CDATA[Bliv klogere på dig selv og andre med Enneagrammet i Haderslev. Få trygge redskaber til personlig udvikling og stærkere relationer. Se mere og tilmeld dig.]]></g:description>
@@ -4837,6 +4818,25 @@ Kurset er hos FOF i Randers]]></g:description>
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Livsstil og trivsel</g:custom_label_1>
       <g:custom_label_2>Personlig udvikling</g:custom_label_2>
+      <g:start_date>2026-10-27T00:00:00.000Z</g:start_date>
+    </item>
+<item>
+      <g:id>SJY-2626335</g:id>
+      <g:title><![CDATA[Manga og tegneserie ]]></g:title>
+      <g:description><![CDATA[Lær at tegne manga og tegneserier med en erfaren tegner. Udvikl dine egne figurer og fortællinger - og få hjælp til at skabe dit eget visuelle univers. Se mere og tilmeld dig.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydjylland/manga-og-tegneserie?holdnr=2626335</g:link>
+      <g:image_link>https://www.fof.dk/media/mh5njbxv/manga-og-tegneserie-1.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>895.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Kreative kurser &gt; Tegnekurser</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Kreative kurser</g:custom_label_1>
+      <g:custom_label_2>Tegnekurser</g:custom_label_2>
       <g:start_date>2026-10-27T00:00:00.000Z</g:start_date>
     </item>
 <item>
@@ -5676,25 +5676,6 @@ Kurset er hos FOF i Randers]]></g:description>
       <g:start_date>2026-11-10T00:00:00.000Z</g:start_date>
     </item>
 <item>
-      <g:id>SJY-2624116</g:id>
-      <g:title><![CDATA[Mor træning og babytummel]]></g:title>
-      <g:description><![CDATA[Kom i form efter fødslen sammen med din baby. Træning for mødre med styrkeøvelser, babytummel og hyggeligt fællesskab. Se mere og tilmeld dig.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-sydjylland/mor-traening-og-babytummel?holdnr=2624116</g:link>
-      <g:image_link>https://www.fof.dk/media/3ykmehco/efterfoedselstraening-3.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>589.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Sydjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Efterfødselstræning</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
-      <g:custom_label_2>Efterfødselstræning</g:custom_label_2>
-      <g:start_date>2026-11-10T00:00:00.000Z</g:start_date>
-    </item>
-<item>
       <g:id>SJY-2625777</g:id>
       <g:title><![CDATA[Pilates for let øvede og øvede]]></g:title>
       <g:description><![CDATA[Vi bygger videre på fundamentet fra det du lærte på tidligere hold og tempoet øges, så du får en endnu mere dynamisk og udfordrende træning. Se mere og tilmeld dig.]]></g:description>
@@ -5711,6 +5692,25 @@ Kurset er hos FOF i Randers]]></g:description>
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Pilates</g:custom_label_2>
+      <g:start_date>2026-11-10T00:00:00.000Z</g:start_date>
+    </item>
+<item>
+      <g:id>SJY-2624116</g:id>
+      <g:title><![CDATA[Mor træning og babytummel]]></g:title>
+      <g:description><![CDATA[Kom i form efter fødslen sammen med din baby. Træning for mødre med styrkeøvelser, babytummel og hyggeligt fællesskab. Se mere og tilmeld dig.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydjylland/mor-traening-og-babytummel?holdnr=2624116</g:link>
+      <g:image_link>https://www.fof.dk/media/3ykmehco/efterfoedselstraening-3.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>589.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Efterfødselstræning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
+      <g:custom_label_2>Efterfødselstræning</g:custom_label_2>
       <g:start_date>2026-11-10T00:00:00.000Z</g:start_date>
     </item>
 <item>
@@ -9938,25 +9938,6 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:start_date>2026-11-04T00:00:00.000Z</g:start_date>
     </item>
 <item>
-      <g:id>SDJ-2262220</g:id>
-      <g:title><![CDATA[Bag brød som en mesterbager]]></g:title>
-      <g:description><![CDATA[Lær at bage som en mesterbager hos FOF Sønderjylland med bagermester John Bramsen og kom hjem med lækkert hjemmebag.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-soenderjylland/bag-broed-som-en-mesterbager?holdnr=2262220</g:link>
-      <g:image_link>https://www.fof.dk/media/0rgidpfp/bagning-madlavning-soenderjylland-fof-aftenskolen.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>425.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Sønderjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Madlavning og drikkevarer &gt; Bagning og søde sager</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
-      <g:custom_label_2>Bagning og søde sager</g:custom_label_2>
-      <g:start_date>2026-11-04T00:00:00.000Z</g:start_date>
-    </item>
-<item>
       <g:id>SDJ-3260738</g:id>
       <g:title><![CDATA[Guitarspil]]></g:title>
       <g:description><![CDATA[Lær at spille guitar i hyggelige rammer. Akkorder, fingerspil, sange og spilleglæde – uanset erfaring. Se mere og tilmeld dig på hjemmesiden.]]></g:description>
@@ -9992,6 +9973,25 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Musik og sang</g:custom_label_1>
       <g:custom_label_2>Strengeinstrumenter</g:custom_label_2>
+      <g:start_date>2026-11-04T00:00:00.000Z</g:start_date>
+    </item>
+<item>
+      <g:id>SDJ-2262220</g:id>
+      <g:title><![CDATA[Bag brød som en mesterbager]]></g:title>
+      <g:description><![CDATA[Lær at bage som en mesterbager hos FOF Sønderjylland med bagermester John Bramsen og kom hjem med lækkert hjemmebag.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-soenderjylland/bag-broed-som-en-mesterbager?holdnr=2262220</g:link>
+      <g:image_link>https://www.fof.dk/media/0rgidpfp/bagning-madlavning-soenderjylland-fof-aftenskolen.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>425.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sønderjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Madlavning og drikkevarer &gt; Bagning og søde sager</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
+      <g:custom_label_2>Bagning og søde sager</g:custom_label_2>
       <g:start_date>2026-11-04T00:00:00.000Z</g:start_date>
     </item>
 <item>
@@ -10090,11 +10090,11 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:start_date>2026-11-06T00:00:00.000Z</g:start_date>
     </item>
 <item>
-      <g:id>SDJ-2262418</g:id>
-      <g:title><![CDATA[Pilates for alle]]></g:title>
-      <g:description><![CDATA[Træn klassisk matwork pilates. Få stærkere ryg, bedre balance og mere frihed i kroppen gennem kontrollerede øvelser. Alle niveauer er velkomne. Se alle hold her. ]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-soenderjylland/pilates?holdnr=2262418</g:link>
-      <g:image_link>https://www.fof.dk/media/anejkuc3/pilates-soenderjylland-fof-aftenskolen.jpg?width=1200</g:image_link>
+      <g:id>SDJ-2262427</g:id>
+      <g:title><![CDATA[Stole Pilates]]></g:title>
+      <g:description><![CDATA[ Dyrk stolepilates hos FOF Sønderjylland. Skånsom træning for hele kroppen, hvor øvelserne tilpasses dig. Bliv stærkere, smidigere og få bedre balance – uden at skulle ned på gulvet.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-soenderjylland/stole-pilates?holdnr=2262427</g:link>
+      <g:image_link>https://www.fof.dk/media/djtbvzue/stole-yoga-soenderjylland-fof-aftenskolen.jpg?width=1200</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:quantity>1</g:quantity>
       <g:price>595.00 DKK</g:price>
@@ -10109,11 +10109,11 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:start_date>2026-11-06T00:00:00.000Z</g:start_date>
     </item>
 <item>
-      <g:id>SDJ-2262427</g:id>
-      <g:title><![CDATA[Stole Pilates]]></g:title>
-      <g:description><![CDATA[ Dyrk stolepilates hos FOF Sønderjylland. Skånsom træning for hele kroppen, hvor øvelserne tilpasses dig. Bliv stærkere, smidigere og få bedre balance – uden at skulle ned på gulvet.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-soenderjylland/stole-pilates?holdnr=2262427</g:link>
-      <g:image_link>https://www.fof.dk/media/djtbvzue/stole-yoga-soenderjylland-fof-aftenskolen.jpg?width=1200</g:image_link>
+      <g:id>SDJ-2262418</g:id>
+      <g:title><![CDATA[Pilates for alle]]></g:title>
+      <g:description><![CDATA[Træn klassisk matwork pilates. Få stærkere ryg, bedre balance og mere frihed i kroppen gennem kontrollerede øvelser. Alle niveauer er velkomne. Se alle hold her. ]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-soenderjylland/pilates?holdnr=2262418</g:link>
+      <g:image_link>https://www.fof.dk/media/anejkuc3/pilates-soenderjylland-fof-aftenskolen.jpg?width=1200</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:quantity>1</g:quantity>
       <g:price>595.00 DKK</g:price>
@@ -11311,14 +11311,14 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:start_date>2027-01-20T00:00:00.000Z</g:start_date>
     </item>
 <item>
-      <g:id>SDJ-2271472</g:id>
-      <g:title><![CDATA[Stoleyoga]]></g:title>
-      <g:description><![CDATA[Stoleyoga i Aabenraa er for dig, som har udfordringer med at lave yogaøvelser på en yogamåtte. Du vil blive guidet igennem et program med både dynamiske øvelser, stræk for hele kroppen og en meditation.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-soenderjylland/stoleyoga-1?holdnr=2271472</g:link>
-      <g:image_link>https://www.fof.dk/media/djtbvzue/stole-yoga-soenderjylland-fof-aftenskolen.jpg?width=1200</g:image_link>
+      <g:id>SDJ-2271315</g:id>
+      <g:title><![CDATA[Meditativ Yin Yoga]]></g:title>
+      <g:description><![CDATA[I en verden, der ofte bevæger sig hurtigt, inviterer meditativ Yin Yoga dig til at sætte tempoet ned og lande i kroppen.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-soenderjylland/meditativ-yin-yoga?holdnr=2271315</g:link>
+      <g:image_link>https://www.fof.dk/media/ju3afm4b/yin-yoga-soenderjylland-fof-aftenskolen.jpg?width=1200</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:quantity>1</g:quantity>
-      <g:price>625.00 DKK</g:price>
+      <g:price>1115.00 DKK</g:price>
       <g:condition>new</g:condition>
       <g:brand>FOF Sønderjylland</g:brand>
       <g:google_product_category>Education</g:google_product_category>
@@ -11330,14 +11330,14 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:start_date>2027-01-20T00:00:00.000Z</g:start_date>
     </item>
 <item>
-      <g:id>SDJ-2271315</g:id>
-      <g:title><![CDATA[Meditativ Yin Yoga]]></g:title>
-      <g:description><![CDATA[I en verden, der ofte bevæger sig hurtigt, inviterer meditativ Yin Yoga dig til at sætte tempoet ned og lande i kroppen.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-soenderjylland/meditativ-yin-yoga?holdnr=2271315</g:link>
-      <g:image_link>https://www.fof.dk/media/ju3afm4b/yin-yoga-soenderjylland-fof-aftenskolen.jpg?width=1200</g:image_link>
+      <g:id>SDJ-2271472</g:id>
+      <g:title><![CDATA[Stoleyoga]]></g:title>
+      <g:description><![CDATA[Stoleyoga i Aabenraa er for dig, som har udfordringer med at lave yogaøvelser på en yogamåtte. Du vil blive guidet igennem et program med både dynamiske øvelser, stræk for hele kroppen og en meditation.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-soenderjylland/stoleyoga-1?holdnr=2271472</g:link>
+      <g:image_link>https://www.fof.dk/media/djtbvzue/stole-yoga-soenderjylland-fof-aftenskolen.jpg?width=1200</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:quantity>1</g:quantity>
-      <g:price>1115.00 DKK</g:price>
+      <g:price>625.00 DKK</g:price>
       <g:condition>new</g:condition>
       <g:brand>FOF Sønderjylland</g:brand>
       <g:google_product_category>Education</g:google_product_category>
@@ -11444,25 +11444,6 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:start_date>2027-01-22T00:00:00.000Z</g:start_date>
     </item>
 <item>
-      <g:id>SDJ-2271418</g:id>
-      <g:title><![CDATA[Pilates for alle]]></g:title>
-      <g:description><![CDATA[Træn klassisk matwork pilates. Få stærkere ryg, bedre balance og mere frihed i kroppen gennem kontrollerede øvelser. Alle niveauer er velkomne. Se alle hold her. ]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-soenderjylland/pilates?holdnr=2271418</g:link>
-      <g:image_link>https://www.fof.dk/media/anejkuc3/pilates-soenderjylland-fof-aftenskolen.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>795.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Sønderjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Pilates</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Pilates</g:custom_label_2>
-      <g:start_date>2027-01-22T00:00:00.000Z</g:start_date>
-    </item>
-<item>
       <g:id>SDJ-2271427</g:id>
       <g:title><![CDATA[Stole Pilates]]></g:title>
       <g:description><![CDATA[ Dyrk stolepilates hos FOF Sønderjylland. Skånsom træning for hele kroppen, hvor øvelserne tilpasses dig. Bliv stærkere, smidigere og få bedre balance – uden at skulle ned på gulvet.]]></g:description>
@@ -11490,6 +11471,25 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:availability>in_stock</g:availability>
       <g:quantity>1</g:quantity>
       <g:price>935.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sønderjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Pilates</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Pilates</g:custom_label_2>
+      <g:start_date>2027-01-22T00:00:00.000Z</g:start_date>
+    </item>
+<item>
+      <g:id>SDJ-2271418</g:id>
+      <g:title><![CDATA[Pilates for alle]]></g:title>
+      <g:description><![CDATA[Træn klassisk matwork pilates. Få stærkere ryg, bedre balance og mere frihed i kroppen gennem kontrollerede øvelser. Alle niveauer er velkomne. Se alle hold her. ]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-soenderjylland/pilates?holdnr=2271418</g:link>
+      <g:image_link>https://www.fof.dk/media/anejkuc3/pilates-soenderjylland-fof-aftenskolen.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>795.00 DKK</g:price>
       <g:condition>new</g:condition>
       <g:brand>FOF Sønderjylland</g:brand>
       <g:google_product_category>Education</g:google_product_category>
@@ -16386,6 +16386,25 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:start_date>2026-11-10T00:00:00.000Z</g:start_date>
     </item>
 <item>
+      <g:id>AAR-424019</g:id>
+      <g:title><![CDATA[Klassisk sang - begyndere/letøvede]]></g:title>
+      <g:description><![CDATA[På FOF Aarhus’ kursus i klassisk sang lærer du sangteknik, klang og fortolkning gennem viser, højskolesange og lettere klassiske sange. Uanset om du er begynder eller letøvet, får du personlig vejledning, stemmeopvarmning og mulighed for at udvikle din klassiske klang i et lille, inspirerende fællesskab.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/klassisk-sang-begyndereletoevede?holdnr=424019</g:link>
+      <g:image_link>https://www.fof.dk/media/0nnlq2s4/classical-singing-1200x1200-aarhus.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>495.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Musik og sang &gt; Sang og stemmetræning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Musik og sang</g:custom_label_1>
+      <g:custom_label_2>Sang og stemmetræning</g:custom_label_2>
+      <g:start_date>2026-11-10T00:00:00.000Z</g:start_date>
+    </item>
+<item>
       <g:id>AAR-423910</g:id>
       <g:title><![CDATA[Food Maker]]></g:title>
       <g:description><![CDATA[Her samler vi ung madglæde, hyggeligt samvær og lækre retter i FOF Aarhus' køkken i midtbyen!]]></g:description>
@@ -21086,25 +21105,6 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:start_date>2026-11-06T00:00:00.000Z</g:start_date>
     </item>
 <item>
-      <g:id>KBO-32307</g:id>
-      <g:title><![CDATA[Indretning for de små 4-6 år]]></g:title>
-      <g:description><![CDATA[Få inspiration til indretning af børneværelse til børn 0–6 år. Skab trygge, kreative og funktionelle rum med plads til leg og udvikling.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/indretning-af-boernevaerelse?holdnr=32307</g:link>
-      <g:image_link>https://www.fof.dk/media/rk2jwtwn/indretning-for-de-mindste.png?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>750.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Københavns Omegn</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Familie, børn og unge &gt; Kreative kurser</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Familie, børn og unge</g:custom_label_1>
-      <g:custom_label_2>Kreative kurser</g:custom_label_2>
-      <g:start_date>2026-11-07T00:00:00.000Z</g:start_date>
-    </item>
-<item>
       <g:id>KBO-22073</g:id>
       <g:title><![CDATA[Rundvisning i Vridsløselille Fængsel med fængselsguide]]></g:title>
       <g:description><![CDATA[Oplev en unik rundvisning i Vridsløselille Statsfængsel i Albertslund. Hør autentiske historier, se den ikoniske fængselsport og få indblik i livet bag murene.]]></g:description>
@@ -21121,6 +21121,25 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:custom_label_0>Rejser, ture og rundvisninger</g:custom_label_0>
       <g:custom_label_1>Rundvisninger</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:start_date>2026-11-07T00:00:00.000Z</g:start_date>
+    </item>
+<item>
+      <g:id>KBO-32307</g:id>
+      <g:title><![CDATA[Indretning for de små 4-6 år]]></g:title>
+      <g:description><![CDATA[Få inspiration til indretning af børneværelse til børn 0–6 år. Skab trygge, kreative og funktionelle rum med plads til leg og udvikling.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/indretning-af-boernevaerelse?holdnr=32307</g:link>
+      <g:image_link>https://www.fof.dk/media/rk2jwtwn/indretning-for-de-mindste.png?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>750.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Københavns Omegn</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Familie, børn og unge &gt; Kreative kurser</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Familie, børn og unge</g:custom_label_1>
+      <g:custom_label_2>Kreative kurser</g:custom_label_2>
       <g:start_date>2026-11-07T00:00:00.000Z</g:start_date>
     </item>
 <item>
@@ -21162,25 +21181,6 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:start_date>2026-11-07T00:00:00.000Z</g:start_date>
     </item>
 <item>
-      <g:id>KBO-22292</g:id>
-      <g:title><![CDATA[Slægtsforskning - let øvede]]></g:title>
-      <g:description><![CDATA[Slægtsforskning for let øvede i Brøndby på Kilden. Lær avanceret arkivsøgning, kirkebøger og udbyg dit stamtræ med nye metoder.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/slaegtsforskning-let-oevede?holdnr=22292</g:link>
-      <g:image_link>https://www.fof.dk/media/im0f5iq4/slaegtsforskning-4.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>780.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Københavns Omegn</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Kulturfag og samfund &gt; Slægtsforskning</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Kulturfag og samfund</g:custom_label_1>
-      <g:custom_label_2>Slægtsforskning</g:custom_label_2>
-      <g:start_date>2026-11-07T00:00:00.000Z</g:start_date>
-    </item>
-<item>
       <g:id>KBO-22160</g:id>
       <g:title><![CDATA[Dyr med superkræfter - et foredrag for hele familien]]></g:title>
       <g:description><![CDATA[Oplev et familieforedrag i Taastrup om dyr med superkræfter. Naturfotograf Henrik Egede-Lassen viser fascinerende dyr, biologi og vilde historier for hele familien.]]></g:description>
@@ -21197,6 +21197,25 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Familie og børn</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:start_date>2026-11-07T00:00:00.000Z</g:start_date>
+    </item>
+<item>
+      <g:id>KBO-22292</g:id>
+      <g:title><![CDATA[Slægtsforskning - let øvede]]></g:title>
+      <g:description><![CDATA[Slægtsforskning for let øvede i Brøndby på Kilden. Lær avanceret arkivsøgning, kirkebøger og udbyg dit stamtræ med nye metoder.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/slaegtsforskning-let-oevede?holdnr=22292</g:link>
+      <g:image_link>https://www.fof.dk/media/im0f5iq4/slaegtsforskning-4.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>780.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Københavns Omegn</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Kulturfag og samfund &gt; Slægtsforskning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Kulturfag og samfund</g:custom_label_1>
+      <g:custom_label_2>Slægtsforskning</g:custom_label_2>
       <g:start_date>2026-11-07T00:00:00.000Z</g:start_date>
     </item>
 <item>
@@ -22682,25 +22701,6 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
     </item>
 <item>
-      <g:id>KBO-23601</g:id>
-      <g:title><![CDATA[Ryghold]]></g:title>
-      <g:description><![CDATA[Deltag på vores populære ryghold i Glostrup Medborgerhus. Professionel undervisning, lyse lokaler, gode parkeringsmuligheder og effektiv træning for ryg, balance og bevægelighed.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/rygtraening?holdnr=23601</g:link>
-      <g:image_link>https://www.fof.dk/media/jgylzd4z/yoga-fof-aftenskolen-31.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1455.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Københavns Omegn</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Styrke- og konditionstræning</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Styrke- og konditionstræning</g:custom_label_2>
-      <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
-    </item>
-<item>
       <g:id>KBO-23342</g:id>
       <g:title><![CDATA[Tysk for viderekomne]]></g:title>
       <g:description><![CDATA[For dig med solid erfaring i tysk, der vil styrke din flydende tale og forståelse. B2-kurset giver fordybelse, nuanceret sprog og samtaler på højt niveau. Tilmeld dig hos FOF Københavns Omegn.]]></g:description>
@@ -22717,6 +22717,25 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Sprog</g:custom_label_1>
       <g:custom_label_2>Tysk</g:custom_label_2>
+      <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
+    </item>
+<item>
+      <g:id>KBO-23601</g:id>
+      <g:title><![CDATA[Ryghold]]></g:title>
+      <g:description><![CDATA[Deltag på vores populære ryghold i Glostrup Medborgerhus. Professionel undervisning, lyse lokaler, gode parkeringsmuligheder og effektiv træning for ryg, balance og bevægelighed.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/rygtraening?holdnr=23601</g:link>
+      <g:image_link>https://www.fof.dk/media/jgylzd4z/yoga-fof-aftenskolen-31.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1455.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Københavns Omegn</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Styrke- og konditionstræning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Styrke- og konditionstræning</g:custom_label_2>
       <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
     </item>
 <item>
