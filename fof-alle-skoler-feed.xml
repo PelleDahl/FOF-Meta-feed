@@ -6,27 +6,6 @@
 <description>Samlet Meta produktfeed med alle ledige hold fra alle FOF-skoler</description>
 <language>da-DK</language>
 <item>
-      <g:id>DJU-262522</g:id>
-      <g:title><![CDATA[Babysvømning - Auning]]></g:title>
-      <g:description><![CDATA[Kom og hyg dig med baby i det varme vand i Auning til babysvømning med FOF Djursland]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-djursland/babysvoemning-auning?holdnr=262522</g:link>
-      <g:image_link>https://www.fof.dk/media/wmsl20ok/babysvoemning-auning-fof-djursland.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>500.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Djursland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Aktiviteter med baby</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
-      <g:custom_label_2>Aktiviteter med baby</g:custom_label_2>
-      <g:start_date>2026-10-22T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Auning, Nyhed, Mor, far og barn</g:custom_label_3>
-      <g:internal_label>['Auning','Nyhed','Mor, far og barn']</g:internal_label>
-    </item>
-<item>
       <g:id>DJU-262566</g:id>
       <g:title><![CDATA[Navigation og WHF radio, kursus ombord - Grenaa]]></g:title>
       <g:description><![CDATA[Lær navigation, VHF-radio, søsikkerhed og meteorologi ombord på Svartlöga i Grenaa. Praktisk maritim viden for alle.]]></g:description>
@@ -193,6 +172,27 @@
       <g:start_date>2026-10-29T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Tirstrup, Mor, far og barn, Bevægelse i vand</g:custom_label_3>
       <g:internal_label>['Tirstrup','Mor, far og barn','Bevægelse i vand']</g:internal_label>
+    </item>
+<item>
+      <g:id>DJU-262522</g:id>
+      <g:title><![CDATA[Babysvømning - Auning]]></g:title>
+      <g:description><![CDATA[Kom og hyg dig med baby i det varme vand i Auning til babysvømning med FOF Djursland]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-djursland/babysvoemning-auning?holdnr=262522</g:link>
+      <g:image_link>https://www.fof.dk/media/wmsl20ok/babysvoemning-auning-fof-djursland.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>500.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Djursland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Aktiviteter med baby</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
+      <g:custom_label_2>Aktiviteter med baby</g:custom_label_2>
+      <g:start_date>2026-10-29T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Auning, Nyhed, Mor, far og barn</g:custom_label_3>
+      <g:internal_label>['Auning','Nyhed','Mor, far og barn']</g:internal_label>
     </item>
 <item>
       <g:id>DJU-264422</g:id>
@@ -510,6 +510,27 @@
       <g:internal_label>['Hornslet','Korte kurser','Kreative fag','Diy og andet håndværk']</g:internal_label>
     </item>
 <item>
+      <g:id>DJU-264431</g:id>
+      <g:title><![CDATA[Weekend malekursus - Ild-vand-luft-jord - Vrinners]]></g:title>
+      <g:description><![CDATA[Gå til maleri på Mols i Vrinners. Kurser for begyndere og øvede samt weekendkursuser med abstrakte blomster og himmelstrøg. Kreativt fællesskab hos FOF Djursland]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-djursland/maleri-vrinners?holdnr=264431</g:link>
+      <g:image_link>https://www.fof.dk/media/qs2ct0h3/maleri-fof-djursland.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>875.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Djursland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Kreative kurser &gt; Malekurser</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Kreative kurser</g:custom_label_1>
+      <g:custom_label_2>Malekurser</g:custom_label_2>
+      <g:start_date>2026-11-21T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Mols, Vrinners, Korte kurser, Kreative fag, Male- og tegnekurser</g:custom_label_3>
+      <g:internal_label>['Mols','Vrinners','Korte kurser','Kreative fag','Male- og tegnekurser']</g:internal_label>
+    </item>
+<item>
       <g:id>DJU-262349</g:id>
       <g:title><![CDATA[Sov godt - Ørsted]]></g:title>
       <g:description><![CDATA[Skab bedre søvn med blid yoga, yin og restorative øvelser. Find ro i kroppen, slip spændinger og lær åndedræt, der beroliger. Trygt og guidet forløb hos FOF Djursland]]></g:description>
@@ -529,27 +550,6 @@
       <g:start_date>2026-11-25T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Ørsted, Auning, Korte kurser, Hensyntagende hold, Bevægelse, Yoga</g:custom_label_3>
       <g:internal_label>['Ørsted','Auning','Korte kurser','Hensyntagende hold','Bevægelse','Yoga']</g:internal_label>
-    </item>
-<item>
-      <g:id>DJU-264431</g:id>
-      <g:title><![CDATA[Weekend malekursus - Ild-vand-luft-jord - Vrinners]]></g:title>
-      <g:description><![CDATA[Gå til maleri på Mols i Vrinners. Kurser for begyndere og øvede samt weekendkursuser med abstrakte blomster og himmelstrøg. Kreativt fællesskab hos FOF Djursland]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-djursland/maleri-vrinners?holdnr=264431</g:link>
-      <g:image_link>https://www.fof.dk/media/qs2ct0h3/maleri-fof-djursland.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>875.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Djursland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Kreative kurser &gt; Malekurser</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Kreative kurser</g:custom_label_1>
-      <g:custom_label_2>Malekurser</g:custom_label_2>
-      <g:start_date>2026-11-28T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Mols, Vrinners, Korte kurser, Kreative fag, Male- og tegnekurser</g:custom_label_3>
-      <g:internal_label>['Mols','Vrinners','Korte kurser','Kreative fag','Male- og tegnekurser']</g:internal_label>
     </item>
 <item>
       <g:id>DJU-273960</g:id>
@@ -844,6 +844,27 @@
       <g:start_date>2027-03-11T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Grenaa, Korte kurser, Foredrag, Foredrag, infoaftener, virksomhedsbesøg</g:custom_label_3>
       <g:internal_label>['Grenaa','Korte kurser','Foredrag','Foredrag, infoaftener, virksomhedsbesøg']</g:internal_label>
+    </item>
+<item>
+      <g:id>DJU-271435</g:id>
+      <g:title><![CDATA[Kreativt jernarbejde - Grenaa]]></g:title>
+      <g:description><![CDATA[Lav haveprojekter i jern i Grenaa. Skab espalier, stativer eller skulpturer på 1-dages kursus hos FOF Djursland]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-djursland/kreativt-jernarbejde-1-dages-kursus-grenaa?holdnr=271435</g:link>
+      <g:image_link>https://www.fof.dk/media/zflnak2n/kreativt-jernarbejde-grenaa.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>640.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Djursland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Kreative kurser &gt; Håndværk og kunsthåndværk</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Kreative kurser</g:custom_label_1>
+      <g:custom_label_2>Håndværk og kunsthåndværk</g:custom_label_2>
+      <g:start_date>2027-03-13T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Grenaa, Korte kurser, Kreative fag, Diy og andet håndværk</g:custom_label_3>
+      <g:internal_label>['Grenaa','Korte kurser','Kreative fag','Diy og andet håndværk']</g:internal_label>
     </item>
 <item>
       <g:id>DJU-271071</g:id>
@@ -3619,6 +3640,27 @@
       <g:internal_label>['Nyhed']</g:internal_label>
     </item>
 <item>
+      <g:id>RFMV-625507</g:id>
+      <g:title><![CDATA[Dansk på VIA FVU 2 (PMU/SIR/PÆD)]]></g:title>
+      <g:description><![CDATA[Du kan gå til dansk, selvom du er voksen og forbedre dine kundskaber i at læse og skrive. Hold på VIA i Randers - tilmelding hos FOF. ]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-randers-favrskov-mariagerfjord-viborg/fvu-dansk-paa-via?holdnr=625507</g:link>
+      <g:image_link>https://www.fof.dk/media/jtwfq25n/kvinde-studerer-bog-og-computer-photo-by-kateryna-hliznitsova-via-unsplash.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>0.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Randers-Favrskov-Mariagerfjord-Viborg</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Sprog &gt; Dansk - Danish</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Sprog</g:custom_label_1>
+      <g:custom_label_2>Dansk - Danish</g:custom_label_2>
+      <g:start_date>2026-11-12T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>FVU</g:custom_label_3>
+      <g:internal_label>['FVU']</g:internal_label>
+    </item>
+<item>
       <g:id>RFMV-620561</g:id>
       <g:title><![CDATA[Opstartskursus til det åbne keramikværksted]]></g:title>
       <g:description><![CDATA[Lav keramik når det passer dig. Efter et 2 x 3 timers opstartskursus kan du bruge det ubemandede keramikværksted på Jens Otto Krags Plads (tidligere Underværket). Tilmeld dig her via FOF Randers. Her finder du også drejekurser som du kan tilmelde dig. ]]></g:description>
@@ -4413,6 +4455,46 @@ Kurset er hos FOF i Randers]]></g:description>
       <g:internal_label>['Nyhed']</g:internal_label>
     </item>
 <item>
+      <g:id>RFMV-711153</g:id>
+      <g:title><![CDATA[Slægtsforskning workshop]]></g:title>
+      <g:description><![CDATA[Workshop - slægtsforskning Har du nogensinde spekuleret på, hvem dine forfædre var, hvor din familie stammer fra i landet, eller hvordan dit slægtsnavn er blevet til? Denne workshop hos FOF i Randers, giver dig praktiske værktøjer til at komme i gang med din egen slægtsforskning, uanset om du er nybegynder eller allerede har taget de første skridt. Du får en introduktion til slægtsforskning med fokus på de danske kirkebøger og hvordan disse oplysninger kan bruges til at føre din slægt flere generationer tilbage i tiden. Du skal selv medbringe: • Informationer om dine (bedste)forældre for at kunne starte din slægtsforskning. Det er fulde navn, dato og årstal på enten dåb, konfirmation, vielse eller dødsfald samt sognet. Informationerne skal have været fundet sted før år 1960, da de digitale kirkebøger kun går der til. • Forplejning i form af frokost eller andet mad. • En computer eller tablet med internetadgang og evt. noget fysisk at skrive på og med. Workshoppen afholdes: lørdag den 27/2. 2027 kl. 10 til kl. 14 &nbsp;søndag den 28/2.2027 kl. 10 til kl. 14]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-randers-favrskov-mariagerfjord-viborg/slaegtsforskning-workshop?holdnr=711153</g:link>
+      <g:image_link>https://www.fof.dk/media/ycapvces/trae-slaegtsforskning-foto-iuliu-illes-via-unsplash.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>525.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Randers-Favrskov-Mariagerfjord-Viborg</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Kulturfag og samfund &gt; Slægtsforskning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Kulturfag og samfund</g:custom_label_1>
+      <g:custom_label_2>Slægtsforskning</g:custom_label_2>
+      <g:start_date>2027-02-27T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Nyhed, Weekend</g:custom_label_3>
+      <g:internal_label>['Nyhed','Weekend']</g:internal_label>
+    </item>
+<item>
+      <g:id>RFMV-710330</g:id>
+      <g:title><![CDATA[Ryd op og skab ro i dit hjem]]></g:title>
+      <g:description><![CDATA[På dette oprydnings kursus i Randers får du ny energi til oprydning i dit hjem. Du lærer at forstå årsagerne bag dit rod, og hvorfor det kan være så svært at rydde op og holde orden i hjemmet i længden. Tilmeld dig hos FOF.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-randers-favrskov-mariagerfjord-viborg/ryd-op-og-skab-ro-i-dit-hjem?holdnr=710330</g:link>
+      <g:image_link>https://www.fof.dk/media/5eqlgjyf/ryd-op-i-stue-med-rod.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>600.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Randers-Favrskov-Mariagerfjord-Viborg</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Livsstil og trivsel</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Livsstil og trivsel</g:custom_label_1>
+      <g:custom_label_2></g:custom_label_2>
+      <g:start_date>2027-03-03T00:00:00.000Z</g:start_date>
+    </item>
+<item>
       <g:id>RFMV-711605</g:id>
       <g:title><![CDATA[Forårs- og sommersange]]></g:title>
       <g:description><![CDATA[Kom til Højskolesang og foredrag i Hald, FOF Randers og syng med dueten "Givensang", som består af Sofie der synger og Anders på guitar. Alle er velkomne]]></g:description>
@@ -4430,6 +4512,27 @@ Kurset er hos FOF i Randers]]></g:description>
       <g:custom_label_1>Foredragsrækker</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
       <g:start_date>2027-03-03T00:00:00.000Z</g:start_date>
+    </item>
+<item>
+      <g:id>RFMV-710304</g:id>
+      <g:title><![CDATA[Når livet ryster]]></g:title>
+      <g:description><![CDATA[Når livet ryster er en 6 timers workshop, der giver dig redskaber til at finde ro, styrke og balance i livet. Dagen er en blanding af undervisning, praktiske øvelser, refleksion og dialog.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-randers-favrskov-mariagerfjord-viborg/naar-livet-ryster?holdnr=710304</g:link>
+      <g:image_link>https://www.fof.dk/media/voofwovs/mindfulness-mbsr.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>410.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Randers-Favrskov-Mariagerfjord-Viborg</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Livsstil og trivsel &gt; Mental trivsel</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Livsstil og trivsel</g:custom_label_1>
+      <g:custom_label_2>Mental trivsel</g:custom_label_2>
+      <g:start_date>2027-03-06T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Nyhed, Weekend</g:custom_label_3>
+      <g:internal_label>['Nyhed','Weekend']</g:internal_label>
     </item>
 <item>
       <g:id>RFMV-711650</g:id>
@@ -5839,27 +5942,6 @@ Kurset er hos FOF i Randers]]></g:description>
       <g:internal_label>['Aktiviteter i Haderslev Kommune','Sprog','Græsk','Sprog niveau - Begyndere og fortsættere']</g:internal_label>
     </item>
 <item>
-      <g:id>SJY-2625777</g:id>
-      <g:title><![CDATA[Pilates for let øvede og øvede]]></g:title>
-      <g:description><![CDATA[Vi bygger videre på fundamentet fra det du lærte på tidligere hold og tempoet øges, så du får en endnu mere dynamisk og udfordrende træning. Se mere og tilmeld dig.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-sydjylland/pilates-for-let-oevede-og-oevede?holdnr=2625777</g:link>
-      <g:image_link>https://www.fof.dk/media/lx3hwfsn/pilates-3.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1050.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Sydjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Pilates</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Pilates</g:custom_label_2>
-      <g:start_date>2026-11-10T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Aktiviteter i Aabenraa Kommune, Motion og sundhed, Pilates</g:custom_label_3>
-      <g:internal_label>['Aktiviteter i Aabenraa Kommune','Motion og sundhed','Pilates']</g:internal_label>
-    </item>
-<item>
       <g:id>SJY-2624116</g:id>
       <g:title><![CDATA[Mor træning og babytummel]]></g:title>
       <g:description><![CDATA[Kom i form efter fødslen sammen med din baby. Træning for mødre med styrkeøvelser, babytummel og hyggeligt fællesskab. Se mere og tilmeld dig.]]></g:description>
@@ -5879,6 +5961,27 @@ Kurset er hos FOF i Randers]]></g:description>
       <g:start_date>2026-11-10T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Aktiviteter i Vejen Kommune, Graviditet, fødsel og barsel</g:custom_label_3>
       <g:internal_label>['Aktiviteter i Vejen Kommune','Graviditet, fødsel og barsel']</g:internal_label>
+    </item>
+<item>
+      <g:id>SJY-2625777</g:id>
+      <g:title><![CDATA[Pilates for let øvede og øvede]]></g:title>
+      <g:description><![CDATA[Vi bygger videre på fundamentet fra det du lærte på tidligere hold og tempoet øges, så du får en endnu mere dynamisk og udfordrende træning. Se mere og tilmeld dig.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydjylland/pilates-for-let-oevede-og-oevede?holdnr=2625777</g:link>
+      <g:image_link>https://www.fof.dk/media/lx3hwfsn/pilates-3.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1050.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Pilates</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Pilates</g:custom_label_2>
+      <g:start_date>2026-11-10T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Aktiviteter i Aabenraa Kommune, Motion og sundhed, Pilates</g:custom_label_3>
+      <g:internal_label>['Aktiviteter i Aabenraa Kommune','Motion og sundhed','Pilates']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2625931</g:id>
@@ -7540,27 +7643,6 @@ Kurset er hos FOF i Randers]]></g:description>
       <g:internal_label>['Aktiviteter i Tønder Kommune','Mindfulness og meditation (Krop og sind)','Yoga','Motion og sundhed','Ture og udflugter','Højskoler - samlet']</g:internal_label>
     </item>
 <item>
-      <g:id>SJY-2716336</g:id>
-      <g:title><![CDATA[Manga og tegneserie ]]></g:title>
-      <g:description><![CDATA[Lær at tegne manga og tegneserier med en erfaren tegner. Udvikl dine egne figurer og fortællinger - og få hjælp til at skabe dit eget visuelle univers. Se mere og tilmeld dig.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-sydjylland/manga-og-tegneserie?holdnr=2716336</g:link>
-      <g:image_link>https://www.fof.dk/media/mh5njbxv/manga-og-tegneserie-1.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>895.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Sydjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Kreative kurser &gt; Tegnekurser</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Kreative kurser</g:custom_label_1>
-      <g:custom_label_2>Tegnekurser</g:custom_label_2>
-      <g:start_date>2027-03-09T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Aktiviteter i Kolding Kommune, Tegning, Krea</g:custom_label_3>
-      <g:internal_label>['Aktiviteter i Kolding Kommune','Tegning','Krea']</g:internal_label>
-    </item>
-<item>
       <g:id>SJY-2716691</g:id>
       <g:title><![CDATA[Leg med ler - intuitiv formgivning]]></g:title>
       <g:description><![CDATA[Find ro og lad kreativiteten blomstre med keramik i Årøsund. Lav intuitiv formgivning med ler - og lær om ler-typer, glasur og brænding. Se mere og tilmeld dig.]]></g:description>
@@ -7580,6 +7662,27 @@ Kurset er hos FOF i Randers]]></g:description>
       <g:start_date>2027-03-09T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Aktiviteter i Haderslev Kommune, Keramik, Krea</g:custom_label_3>
       <g:internal_label>['Aktiviteter i Haderslev Kommune','Keramik','Krea']</g:internal_label>
+    </item>
+<item>
+      <g:id>SJY-2716336</g:id>
+      <g:title><![CDATA[Manga og tegneserie ]]></g:title>
+      <g:description><![CDATA[Lær at tegne manga og tegneserier med en erfaren tegner. Udvikl dine egne figurer og fortællinger - og få hjælp til at skabe dit eget visuelle univers. Se mere og tilmeld dig.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydjylland/manga-og-tegneserie?holdnr=2716336</g:link>
+      <g:image_link>https://www.fof.dk/media/mh5njbxv/manga-og-tegneserie-1.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>895.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Kreative kurser &gt; Tegnekurser</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Kreative kurser</g:custom_label_1>
+      <g:custom_label_2>Tegnekurser</g:custom_label_2>
+      <g:start_date>2027-03-09T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Aktiviteter i Kolding Kommune, Tegning, Krea</g:custom_label_3>
+      <g:internal_label>['Aktiviteter i Kolding Kommune','Tegning','Krea']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2712602</g:id>
@@ -10538,6 +10641,27 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:internal_label>['Starter snart']</g:internal_label>
     </item>
 <item>
+      <g:id>SDJ-2262220</g:id>
+      <g:title><![CDATA[Bag brød som en mesterbager]]></g:title>
+      <g:description><![CDATA[Lær at bage som en mesterbager hos FOF Sønderjylland med bagermester John Bramsen og kom hjem med lækkert hjemmebag.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-soenderjylland/bag-broed-som-en-mesterbager?holdnr=2262220</g:link>
+      <g:image_link>https://www.fof.dk/media/0rgidpfp/bagning-madlavning-soenderjylland-fof-aftenskolen.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>425.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sønderjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Madlavning og drikkevarer &gt; Bagning og søde sager</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
+      <g:custom_label_2>Bagning og søde sager</g:custom_label_2>
+      <g:start_date>2026-11-04T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Starter snart</g:custom_label_3>
+      <g:internal_label>['Starter snart']</g:internal_label>
+    </item>
+<item>
       <g:id>SDJ-3260738</g:id>
       <g:title><![CDATA[Guitarspil]]></g:title>
       <g:description><![CDATA[Lær at spille guitar i hyggelige rammer. Akkorder, fingerspil, sange og spilleglæde – uanset erfaring. Se mere og tilmeld dig på hjemmesiden.]]></g:description>
@@ -10575,27 +10699,6 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Musik og sang</g:custom_label_1>
       <g:custom_label_2>Strengeinstrumenter</g:custom_label_2>
-      <g:start_date>2026-11-04T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Starter snart</g:custom_label_3>
-      <g:internal_label>['Starter snart']</g:internal_label>
-    </item>
-<item>
-      <g:id>SDJ-2262220</g:id>
-      <g:title><![CDATA[Bag brød som en mesterbager]]></g:title>
-      <g:description><![CDATA[Lær at bage som en mesterbager hos FOF Sønderjylland med bagermester John Bramsen og kom hjem med lækkert hjemmebag.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-soenderjylland/bag-broed-som-en-mesterbager?holdnr=2262220</g:link>
-      <g:image_link>https://www.fof.dk/media/0rgidpfp/bagning-madlavning-soenderjylland-fof-aftenskolen.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>425.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Sønderjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Madlavning og drikkevarer &gt; Bagning og søde sager</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
-      <g:custom_label_2>Bagning og søde sager</g:custom_label_2>
       <g:start_date>2026-11-04T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Starter snart</g:custom_label_3>
       <g:internal_label>['Starter snart']</g:internal_label>
@@ -10706,27 +10809,6 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:internal_label>['Martins hold','Starter snart','Bjerggade']</g:internal_label>
     </item>
 <item>
-      <g:id>SDJ-2262427</g:id>
-      <g:title><![CDATA[Stole Pilates]]></g:title>
-      <g:description><![CDATA[ Dyrk stolepilates hos FOF Sønderjylland. Skånsom træning for hele kroppen, hvor øvelserne tilpasses dig. Bliv stærkere, smidigere og få bedre balance – uden at skulle ned på gulvet.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-soenderjylland/stole-pilates?holdnr=2262427</g:link>
-      <g:image_link>https://www.fof.dk/media/djtbvzue/stole-yoga-soenderjylland-fof-aftenskolen.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>595.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Sønderjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Pilates</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Pilates</g:custom_label_2>
-      <g:start_date>2026-11-06T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Martins hold, Starter snart, Bjerggade, Hensynstagende - side</g:custom_label_3>
-      <g:internal_label>['Martins hold','Starter snart','Bjerggade','Hensynstagende - side']</g:internal_label>
-    </item>
-<item>
       <g:id>SDJ-2262418</g:id>
       <g:title><![CDATA[Pilates for alle]]></g:title>
       <g:description><![CDATA[Træn klassisk matwork pilates. Få stærkere ryg, bedre balance og mere frihed i kroppen gennem kontrollerede øvelser. Alle niveauer er velkomne. Se alle hold her. ]]></g:description>
@@ -10746,6 +10828,27 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:start_date>2026-11-06T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Martins hold, Starter snart, Bjerggade, Motion</g:custom_label_3>
       <g:internal_label>['Martins hold','Starter snart','Bjerggade','Motion']</g:internal_label>
+    </item>
+<item>
+      <g:id>SDJ-2262427</g:id>
+      <g:title><![CDATA[Stole Pilates]]></g:title>
+      <g:description><![CDATA[ Dyrk stolepilates hos FOF Sønderjylland. Skånsom træning for hele kroppen, hvor øvelserne tilpasses dig. Bliv stærkere, smidigere og få bedre balance – uden at skulle ned på gulvet.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-soenderjylland/stole-pilates?holdnr=2262427</g:link>
+      <g:image_link>https://www.fof.dk/media/djtbvzue/stole-yoga-soenderjylland-fof-aftenskolen.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>595.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sønderjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Pilates</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Pilates</g:custom_label_2>
+      <g:start_date>2026-11-06T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Martins hold, Starter snart, Bjerggade, Hensynstagende - side</g:custom_label_3>
+      <g:internal_label>['Martins hold','Starter snart','Bjerggade','Hensynstagende - side']</g:internal_label>
     </item>
 <item>
       <g:id>SDJ-1262043</g:id>
@@ -12168,6 +12271,27 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:internal_label>['Martins hold','Bjerggade']</g:internal_label>
     </item>
 <item>
+      <g:id>SDJ-2271418</g:id>
+      <g:title><![CDATA[Pilates for alle]]></g:title>
+      <g:description><![CDATA[Træn klassisk matwork pilates. Få stærkere ryg, bedre balance og mere frihed i kroppen gennem kontrollerede øvelser. Alle niveauer er velkomne. Se alle hold her. ]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-soenderjylland/pilates?holdnr=2271418</g:link>
+      <g:image_link>https://www.fof.dk/media/anejkuc3/pilates-soenderjylland-fof-aftenskolen.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>795.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sønderjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Pilates</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Pilates</g:custom_label_2>
+      <g:start_date>2027-01-22T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Martins hold, Bjerggade, Motion</g:custom_label_3>
+      <g:internal_label>['Martins hold','Bjerggade','Motion']</g:internal_label>
+    </item>
+<item>
       <g:id>SDJ-2271427</g:id>
       <g:title><![CDATA[Stole Pilates]]></g:title>
       <g:description><![CDATA[ Dyrk stolepilates hos FOF Sønderjylland. Skånsom træning for hele kroppen, hvor øvelserne tilpasses dig. Bliv stærkere, smidigere og få bedre balance – uden at skulle ned på gulvet.]]></g:description>
@@ -12208,27 +12332,6 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:start_date>2027-01-22T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Martins hold, Bjerggade</g:custom_label_3>
       <g:internal_label>['Martins hold','Bjerggade']</g:internal_label>
-    </item>
-<item>
-      <g:id>SDJ-2271418</g:id>
-      <g:title><![CDATA[Pilates for alle]]></g:title>
-      <g:description><![CDATA[Træn klassisk matwork pilates. Få stærkere ryg, bedre balance og mere frihed i kroppen gennem kontrollerede øvelser. Alle niveauer er velkomne. Se alle hold her. ]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-soenderjylland/pilates?holdnr=2271418</g:link>
-      <g:image_link>https://www.fof.dk/media/anejkuc3/pilates-soenderjylland-fof-aftenskolen.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>795.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Sønderjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Pilates</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Pilates</g:custom_label_2>
-      <g:start_date>2027-01-22T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Martins hold, Bjerggade, Motion</g:custom_label_3>
-      <g:internal_label>['Martins hold','Bjerggade','Motion']</g:internal_label>
     </item>
 <item>
       <g:id>SDJ-2271419</g:id>
@@ -13208,6 +13311,27 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:start_date>2027-01-27T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Nye kurser i Esbjerg, Bagning og søde sager, Madlavning og drikkevarer</g:custom_label_3>
       <g:internal_label>['Nye kurser i Esbjerg','Bagning og søde sager','Madlavning og drikkevarer']</g:internal_label>
+    </item>
+<item>
+      <g:id>SVJ-2710326</g:id>
+      <g:title><![CDATA[Akrylmaling - for alle]]></g:title>
+      <g:description><![CDATA[Akrylmaling kursus for begyndere og øvede. Lær teknikker og find dit udtryk i et kreativt fællesskab. Tilmeld dig i dag og kom i gang.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydvestjylland/akrylmaling-for-alle?holdnr=2710326</g:link>
+      <g:image_link>https://www.fof.dk/media/piyiwodp/kurser-kreative-kurser-akrylmaling-for-alle-ribe-fof-aftenskolen-sydvestjylland.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1158.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydvestjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Kreative kurser &gt; Malekurser</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Kreative kurser</g:custom_label_1>
+      <g:custom_label_2>Malekurser</g:custom_label_2>
+      <g:start_date>2027-01-28T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Nye kurser i Ribe, Malekurser, Kreative kurser</g:custom_label_3>
+      <g:internal_label>['Nye kurser i Ribe','Malekurser','Kreative kurser']</g:internal_label>
     </item>
 <item>
       <g:id>SVJ-2710997</g:id>
@@ -14656,6 +14780,27 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:internal_label>['Nyheder']</g:internal_label>
     </item>
 <item>
+      <g:id>AAL-26280329</g:id>
+      <g:title><![CDATA[Pippi Blouse – Strikkeworkshop med Højberg Studio]]></g:title>
+      <g:description><![CDATA[Lær hulmønster og hæklede blondekanter fra Pippi Blouse på en hyggelig strikkeworkshop med Marie fra Højberg Studio hos FOF Aalborg.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aalborg/pippi-blouse-strikkeworkshop?holdnr=26280329</g:link>
+      <g:image_link>https://www.fof.dk/media/pb5lp2rw/pippi-blouse.png?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>170.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aalborg</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Kreative kurser &gt; Håndarbejde</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Kreative kurser</g:custom_label_1>
+      <g:custom_label_2>Håndarbejde</g:custom_label_2>
+      <g:start_date>2026-11-08T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>FOF Garnfestival</g:custom_label_3>
+      <g:internal_label>['FOF Garnfestival']</g:internal_label>
+    </item>
+<item>
       <g:id>AAL-26205298</g:id>
       <g:title><![CDATA[Lav smukke og kreative blomster]]></g:title>
       <g:description><![CDATA[Lav smukke blomster af piberenser på en kreativ workshop hos FOF Aalborg. Materialer er inkluderet, og alle kan være med – også begyndere.]]></g:description>
@@ -14734,27 +14879,6 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Tegnekurser</g:custom_label_2>
       <g:start_date>2026-11-09T00:00:00.000Z</g:start_date>
-    </item>
-<item>
-      <g:id>AAL-26205610</g:id>
-      <g:title><![CDATA[Drejekursus i keramik]]></g:title>
-      <g:description><![CDATA[Lær at dreje keramik på drejekursus i Aalborg. Få styr på centrering, drejning og afdrejning med erfaren keramiker Louise Lange hos FOF Aalborg.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-aalborg/drejekursus-i-keramik?holdnr=26205610</g:link>
-      <g:image_link>https://www.fof.dk/media/l2ck4u5p/keramik_1keramik.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1170.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Aalborg</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Kreative kurser &gt; Keramik</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Kreative kurser</g:custom_label_1>
-      <g:custom_label_2>Keramik</g:custom_label_2>
-      <g:start_date>2026-11-10T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Keramik Boulevarden, Nyheder, Louise Lange</g:custom_label_3>
-      <g:internal_label>['Keramik Boulevarden','Nyheder','Louise Lange']</g:internal_label>
     </item>
 <item>
       <g:id>AAL-26205870</g:id>
@@ -15230,8 +15354,8 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Keramik</g:custom_label_2>
       <g:start_date>2026-11-21T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Keramik Boulevarden, Nyheder, Louise Lange</g:custom_label_3>
-      <g:internal_label>['Keramik Boulevarden','Nyheder','Louise Lange']</g:internal_label>
+      <g:custom_label_3>Keramik Boulevarden, Nyheder</g:custom_label_3>
+      <g:internal_label>['Keramik Boulevarden','Nyheder']</g:internal_label>
     </item>
 <item>
       <g:id>AAL-26205880</g:id>
@@ -15465,27 +15589,6 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:internal_label>['Nyheder']</g:internal_label>
     </item>
 <item>
-      <g:id>AAL-26205646</g:id>
-      <g:title><![CDATA[Keramik & Bobler]]></g:title>
-      <g:description><![CDATA[Kom til Keramik & Bobler hos FOF Aalborg og start weekenden kreativt. Form dine egne keramikprojekter, nyd et glas bobler og oplev hyggeligt fællesskab i Aalborg.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-aalborg/keramik-bobler?holdnr=26205646</g:link>
-      <g:image_link>https://www.fof.dk/media/hq2l01oo/keramik-og-bobler.png?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>305.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Aalborg</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Kreative kurser &gt; Keramik</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Kreative kurser</g:custom_label_1>
-      <g:custom_label_2>Keramik</g:custom_label_2>
-      <g:start_date>2026-11-27T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Keramik Boulevarden, Kreative sommerkurser</g:custom_label_3>
-      <g:internal_label>['Keramik Boulevarden','Kreative sommerkurser']</g:internal_label>
-    </item>
-<item>
       <g:id>AAL-26205714</g:id>
       <g:title><![CDATA[Keramik: Åbent keramikværksted]]></g:title>
       <g:description><![CDATA[Arbejd frit med keramik i FOF Aalborgs åbne keramikværksted. For øvede med kendskab til keramik. Adgang til værksted, brænding og glasur.]]></g:description>
@@ -15505,6 +15608,27 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:start_date>2026-11-27T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Keramik Boulevarden, Kulturpas</g:custom_label_3>
       <g:internal_label>['Keramik Boulevarden','Kulturpas']</g:internal_label>
+    </item>
+<item>
+      <g:id>AAL-26205646</g:id>
+      <g:title><![CDATA[Keramik & Bobler]]></g:title>
+      <g:description><![CDATA[Kom til Keramik & Bobler hos FOF Aalborg og start weekenden kreativt. Form dine egne keramikprojekter, nyd et glas bobler og oplev hyggeligt fællesskab i Aalborg.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aalborg/keramik-bobler?holdnr=26205646</g:link>
+      <g:image_link>https://www.fof.dk/media/hq2l01oo/keramik-og-bobler.png?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>305.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aalborg</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Kreative kurser &gt; Keramik</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Kreative kurser</g:custom_label_1>
+      <g:custom_label_2>Keramik</g:custom_label_2>
+      <g:start_date>2026-11-27T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Keramik Boulevarden, Kreative sommerkurser</g:custom_label_3>
+      <g:internal_label>['Keramik Boulevarden','Kreative sommerkurser']</g:internal_label>
     </item>
 <item>
       <g:id>AAL-26205764</g:id>
@@ -15694,27 +15818,6 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:internal_label>['Foredrag','Dags foredrag']</g:internal_label>
     </item>
 <item>
-      <g:id>AAL-26205765</g:id>
-      <g:title><![CDATA[Keramik: Mal på keramik ]]></g:title>
-      <g:description><![CDATA[Mal på keramik hos FOF Aalborg. Dekorér kopper, skåle, tallerkener og fade i et hyggeligt keramikværksted. Glasur og brænding er inkluderet.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-aalborg/keramik-mal-paa-keramik?holdnr=26205765</g:link>
-      <g:image_link>https://www.fof.dk/media/bdno5ovj/mal_keramik_1keramik.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>115.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Aalborg</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Kreative kurser &gt; Keramik</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Kreative kurser</g:custom_label_1>
-      <g:custom_label_2>Keramik</g:custom_label_2>
-      <g:start_date>2026-12-04T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Keramik Boulevarden</g:custom_label_3>
-      <g:internal_label>['Keramik Boulevarden']</g:internal_label>
-    </item>
-<item>
       <g:id>AAL-26205715</g:id>
       <g:title><![CDATA[Keramik: Åbent keramikværksted]]></g:title>
       <g:description><![CDATA[Arbejd frit med keramik i FOF Aalborgs åbne keramikværksted. For øvede med kendskab til keramik. Adgang til værksted, brænding og glasur.]]></g:description>
@@ -15734,6 +15837,27 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:start_date>2026-12-04T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Keramik Boulevarden, Kulturpas</g:custom_label_3>
       <g:internal_label>['Keramik Boulevarden','Kulturpas']</g:internal_label>
+    </item>
+<item>
+      <g:id>AAL-26205765</g:id>
+      <g:title><![CDATA[Keramik: Mal på keramik ]]></g:title>
+      <g:description><![CDATA[Mal på keramik hos FOF Aalborg. Dekorér kopper, skåle, tallerkener og fade i et hyggeligt keramikværksted. Glasur og brænding er inkluderet.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aalborg/keramik-mal-paa-keramik?holdnr=26205765</g:link>
+      <g:image_link>https://www.fof.dk/media/bdno5ovj/mal_keramik_1keramik.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>115.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aalborg</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Kreative kurser &gt; Keramik</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Kreative kurser</g:custom_label_1>
+      <g:custom_label_2>Keramik</g:custom_label_2>
+      <g:start_date>2026-12-04T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Keramik Boulevarden</g:custom_label_3>
+      <g:internal_label>['Keramik Boulevarden']</g:internal_label>
     </item>
 <item>
       <g:id>AAL-26205647</g:id>
@@ -16403,6 +16527,27 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:internal_label>['Korte kurser']</g:internal_label>
     </item>
 <item>
+      <g:id>AAR-423581</g:id>
+      <g:title><![CDATA[Brødbagning ]]></g:title>
+      <g:description><![CDATA[Lær at bag Aarhus bedste surdejsbrød. Tag et brødbagningskursus og lær at lave dit eget velsmagende brød.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/broedbagning?holdnr=423581</g:link>
+      <g:image_link>https://www.fof.dk/media/g3clrstb/broedbagning_1200x1200_aarhus.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>610.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Madlavning og drikkevarer &gt; Bagning og søde sager</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
+      <g:custom_label_2>Bagning og søde sager</g:custom_label_2>
+      <g:start_date>2026-10-24T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Korte kurser</g:custom_label_3>
+      <g:internal_label>['Korte kurser']</g:internal_label>
+    </item>
+<item>
       <g:id>AAR-425308</g:id>
       <g:title><![CDATA[Ro på - også når livet larmer]]></g:title>
       <g:description><![CDATA[Oplev et forløb i FOF Aarhus med De Tre Principper, hvor du får indsigt i tanker, bevidsthed og indre ro. Fokus er mental trivsel, forståelse og livskvalitet i hverdagen.]]></g:description>
@@ -16630,25 +16775,6 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:internal_label>['Korte kurser','Graviditet, fødsel og barsel']</g:internal_label>
     </item>
 <item>
-      <g:id>AAR-426906A</g:id>
-      <g:title><![CDATA[Oplev med Grænseforeningen: Ude for uden]]></g:title>
-      <g:description><![CDATA[Kom med til et spændende foredrag med tidligere journalist og forfatter Niels Krause-Kjær, der vil fortælle om romanen 'Ude for uden', som er Niels Krause-Kjærs prisbelønnede, personlige beretning om Danmark i en brydningstid.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/oplev-med-graenseforeningen-ude-for-uden?holdnr=426906A</g:link>
-      <g:image_link>https://www.fof.dk/media/turbitea/niels-krause-pressefoto-credit-thomas-a-fof-aftenskolen-aarhus.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>125.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Aarhus</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type></g:product_type>
-      <g:custom_label_0></g:custom_label_0>
-      <g:custom_label_1></g:custom_label_1>
-      <g:custom_label_2></g:custom_label_2>
-      <g:start_date>2026-10-29T00:00:00.000Z</g:start_date>
-    </item>
-<item>
       <g:id>AAR-423846</g:id>
       <g:title><![CDATA[Madglad 60+ på Møllestien hold 2]]></g:title>
       <g:description><![CDATA[Oplev glæden ved at lave mad og dele måltider med Madglad 60+, et samarbejde mellem FOF Aarhus og GENLYD. Dette initiativ bringer aarhusianere over 60 år sammen omkring gryderne for at udforske nye smagsoplevelser og skabe varige venskaber. Uanset om du er nybegynder eller erfaren i køkkenet, er der plads til dig i dette madfællesskab, hvor fællesskab og madglæde er i centrum.]]></g:description>
@@ -16665,6 +16791,25 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
       <g:custom_label_2>Fest- og hverdagsmad</g:custom_label_2>
+      <g:start_date>2026-10-29T00:00:00.000Z</g:start_date>
+    </item>
+<item>
+      <g:id>AAR-426906A</g:id>
+      <g:title><![CDATA[Oplev med Grænseforeningen: Ude for uden]]></g:title>
+      <g:description><![CDATA[Kom med til et spændende foredrag med tidligere journalist og forfatter Niels Krause-Kjær, der vil fortælle om romanen 'Ude for uden', som er Niels Krause-Kjærs prisbelønnede, personlige beretning om Danmark i en brydningstid.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/oplev-med-graenseforeningen-ude-for-uden?holdnr=426906A</g:link>
+      <g:image_link>https://www.fof.dk/media/turbitea/niels-krause-pressefoto-credit-thomas-a-fof-aftenskolen-aarhus.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>125.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type></g:product_type>
+      <g:custom_label_0></g:custom_label_0>
+      <g:custom_label_1></g:custom_label_1>
+      <g:custom_label_2></g:custom_label_2>
       <g:start_date>2026-10-29T00:00:00.000Z</g:start_date>
     </item>
 <item>
@@ -17228,27 +17373,6 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:start_date>2026-11-07T00:00:00.000Z</g:start_date>
     </item>
 <item>
-      <g:id>AAR-423213</g:id>
-      <g:title><![CDATA[Frit broderi - letøvede/øvede]]></g:title>
-      <g:description><![CDATA[Genopfrisk dine broderisting og kom videre med dine egne projekter på et kreativt kursus i FOF Aarhus. Du får individuel vejledning, inspiration og ro til fordybelse. ]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/frit-broderi-letoevedeoevede?holdnr=423213</g:link>
-      <g:image_link>https://www.fof.dk/media/mtebrp3n/broderi.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>490.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Aarhus</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Kreative kurser &gt; Håndarbejde</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Kreative kurser</g:custom_label_1>
-      <g:custom_label_2>Håndarbejde</g:custom_label_2>
-      <g:start_date>2026-11-07T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Korte kurser, Håndarbejdskurser</g:custom_label_3>
-      <g:internal_label>['Korte kurser','Håndarbejdskurser']</g:internal_label>
-    </item>
-<item>
       <g:id>AAR-422165</g:id>
       <g:title><![CDATA[Collage – weekendkursus]]></g:title>
       <g:description><![CDATA[Tag med på collagekursus, og lær at mestre teknikker og materialer | Skab collagekunst på et weekendkursus i FOF Aahus ]]></g:description>
@@ -17268,6 +17392,27 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:start_date>2026-11-07T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Malekurser og akvarel, Korte kurser</g:custom_label_3>
       <g:internal_label>['Malekurser og akvarel','Korte kurser']</g:internal_label>
+    </item>
+<item>
+      <g:id>AAR-423213</g:id>
+      <g:title><![CDATA[Frit broderi - letøvede/øvede]]></g:title>
+      <g:description><![CDATA[Genopfrisk dine broderisting og kom videre med dine egne projekter på et kreativt kursus i FOF Aarhus. Du får individuel vejledning, inspiration og ro til fordybelse. ]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/frit-broderi-letoevedeoevede?holdnr=423213</g:link>
+      <g:image_link>https://www.fof.dk/media/mtebrp3n/broderi.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>490.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Kreative kurser &gt; Håndarbejde</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Kreative kurser</g:custom_label_1>
+      <g:custom_label_2>Håndarbejde</g:custom_label_2>
+      <g:start_date>2026-11-07T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Korte kurser, Håndarbejdskurser</g:custom_label_3>
+      <g:internal_label>['Korte kurser','Håndarbejdskurser']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-423219</g:id>
@@ -17638,27 +17783,6 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:start_date>2026-11-11T00:00:00.000Z</g:start_date>
     </item>
 <item>
-      <g:id>AAR-425330</g:id>
-      <g:title><![CDATA[ADHD og studiestøtte - en god start på studielivet (workshop)]]></g:title>
-      <g:description><![CDATA[For mange unge med ADHD kan det være svært at få studiehverdagen til at hænge sammen. Kom med på en workshop i Aarhus, hvor du får konkrete strategier til at organisere studiet. Tilmeld dig nu!]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/adhd-og-studiestoette-en-god-start-paa-studielivet-workshop?holdnr=425330</g:link>
-      <g:image_link>https://www.fof.dk/media/sxkhwyrt/adhd-studerende_1200x1200_fof-aarhus.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>295.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Aarhus</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Livsstil og trivsel &gt; Mental trivsel</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Livsstil og trivsel</g:custom_label_1>
-      <g:custom_label_2>Mental trivsel</g:custom_label_2>
-      <g:start_date>2026-11-12T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Korte kurser</g:custom_label_3>
-      <g:internal_label>['Korte kurser']</g:internal_label>
-    </item>
-<item>
       <g:id>AAR-428938</g:id>
       <g:title><![CDATA[Førstehjælp til babyer]]></g:title>
       <g:description><![CDATA[Er du blevet forældre, og har brug for at lære førstehjælp til babyer? Hos FOF Aarhus kan du lære førstehjælp til små børn på et af vores kurser | FOF Aftenskolen Aarhus]]></g:description>
@@ -17699,6 +17823,27 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:start_date>2026-11-12T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Foredrag, Samfund og historie</g:custom_label_3>
       <g:internal_label>['Foredrag','Samfund og historie']</g:internal_label>
+    </item>
+<item>
+      <g:id>AAR-425330</g:id>
+      <g:title><![CDATA[ADHD og studiestøtte - en god start på studielivet (workshop)]]></g:title>
+      <g:description><![CDATA[For mange unge med ADHD kan det være svært at få studiehverdagen til at hænge sammen. Kom med på en workshop i Aarhus, hvor du får konkrete strategier til at organisere studiet. Tilmeld dig nu!]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/adhd-og-studiestoette-en-god-start-paa-studielivet-workshop?holdnr=425330</g:link>
+      <g:image_link>https://www.fof.dk/media/sxkhwyrt/adhd-studerende_1200x1200_fof-aarhus.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>295.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Livsstil og trivsel &gt; Mental trivsel</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Livsstil og trivsel</g:custom_label_1>
+      <g:custom_label_2>Mental trivsel</g:custom_label_2>
+      <g:start_date>2026-11-12T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Korte kurser</g:custom_label_3>
+      <g:internal_label>['Korte kurser']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-425013</g:id>
@@ -17762,27 +17907,6 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:internal_label>['Foredrag','Samfund og historie']</g:internal_label>
     </item>
 <item>
-      <g:id>AAR-423063</g:id>
-      <g:title><![CDATA[Genskab dit yndlingstøj]]></g:title>
-      <g:description><![CDATA[Lær at lave mønstre ud fra dit yndlingstøj og sy nye styles med perfekt pasform. Trin-for-trin undervisning for både begyndere og øvede i FOF Aarhus.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/genskab-dit-yndlingstoej?holdnr=423063</g:link>
-      <g:image_link>https://www.fof.dk/media/hstlyto5/syning-konstruktion_1200x1200_aarhus_2.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>625.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Aarhus</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Kreative kurser &gt; Syning</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Kreative kurser</g:custom_label_1>
-      <g:custom_label_2>Syning</g:custom_label_2>
-      <g:start_date>2026-11-14T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Sykurser, Korte kurser</g:custom_label_3>
-      <g:internal_label>['Sykurser','Korte kurser']</g:internal_label>
-    </item>
-<item>
       <g:id>AAR-423586</g:id>
       <g:title><![CDATA[Flødeboller - børn og voksne]]></g:title>
       <g:description><![CDATA[Udforsk hemmeligheden bag at skabe perfekte flødeboller sammen med dit barn eller barnebarn. I lærer at forberede marcipan- eller linsedejsbunde, fyld, og det karakteristiske chokoladeovertræk.]]></g:description>
@@ -17802,6 +17926,27 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:start_date>2026-11-14T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Kursus for børn/familie, Korte kurser</g:custom_label_3>
       <g:internal_label>['Kursus for børn/familie','Korte kurser']</g:internal_label>
+    </item>
+<item>
+      <g:id>AAR-423063</g:id>
+      <g:title><![CDATA[Genskab dit yndlingstøj]]></g:title>
+      <g:description><![CDATA[Lær at lave mønstre ud fra dit yndlingstøj og sy nye styles med perfekt pasform. Trin-for-trin undervisning for både begyndere og øvede i FOF Aarhus.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/genskab-dit-yndlingstoej?holdnr=423063</g:link>
+      <g:image_link>https://www.fof.dk/media/hstlyto5/syning-konstruktion_1200x1200_aarhus_2.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>625.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Kreative kurser &gt; Syning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Kreative kurser</g:custom_label_1>
+      <g:custom_label_2>Syning</g:custom_label_2>
+      <g:start_date>2026-11-14T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Sykurser, Korte kurser</g:custom_label_3>
+      <g:internal_label>['Sykurser','Korte kurser']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-423585</g:id>
@@ -17993,6 +18138,25 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:internal_label>['True crime','Foredrag']</g:internal_label>
     </item>
 <item>
+      <g:id>AAR-423840</g:id>
+      <g:title><![CDATA[Madglad 60+ på Møllestien]]></g:title>
+      <g:description><![CDATA[Oplev glæden ved at lave mad og dele måltider med Madglad 60+, et samarbejde mellem FOF Aarhus og GENLYD. Dette initiativ bringer aarhusianere over 60 år sammen omkring gryderne for at udforske nye smagsoplevelser og skabe varige venskaber. Uanset om du er nybegynder eller erfaren i køkkenet, er der plads til dig i dette madfællesskab, hvor fællesskab og madglæde er i centrum.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/madglad-60plus-paa-moellestien?holdnr=423840</g:link>
+      <g:image_link>https://www.fof.dk/media/cqro4uex/madglad60_2_1200x1200_aarhus.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>65.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Madlavning og drikkevarer &gt; Fest- og hverdagsmad</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
+      <g:custom_label_2>Fest- og hverdagsmad</g:custom_label_2>
+      <g:start_date>2026-11-16T00:00:00.000Z</g:start_date>
+    </item>
+<item>
       <g:id>AAR-426971</g:id>
       <g:title><![CDATA[Leif Davidsen: Requiem for Rusland]]></g:title>
       <g:description><![CDATA[Oplev et aktuelt foredrag i Aarhus med Leif Davidsen om Rusland, Putin, krigen i Ukraine og romanen Requiem for Rusland. Få indsigt i russisk politik, historie og samtid.]]></g:description>
@@ -18012,25 +18176,6 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:start_date>2026-11-16T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Kunst og kultur, Foredrag</g:custom_label_3>
       <g:internal_label>['Kunst og kultur','Foredrag']</g:internal_label>
-    </item>
-<item>
-      <g:id>AAR-423840</g:id>
-      <g:title><![CDATA[Madglad 60+ på Møllestien]]></g:title>
-      <g:description><![CDATA[Oplev glæden ved at lave mad og dele måltider med Madglad 60+, et samarbejde mellem FOF Aarhus og GENLYD. Dette initiativ bringer aarhusianere over 60 år sammen omkring gryderne for at udforske nye smagsoplevelser og skabe varige venskaber. Uanset om du er nybegynder eller erfaren i køkkenet, er der plads til dig i dette madfællesskab, hvor fællesskab og madglæde er i centrum.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/madglad-60plus-paa-moellestien?holdnr=423840</g:link>
-      <g:image_link>https://www.fof.dk/media/cqro4uex/madglad60_2_1200x1200_aarhus.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>65.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Aarhus</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Madlavning og drikkevarer &gt; Fest- og hverdagsmad</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
-      <g:custom_label_2>Fest- og hverdagsmad</g:custom_label_2>
-      <g:start_date>2026-11-16T00:00:00.000Z</g:start_date>
     </item>
 <item>
       <g:id>AAR-425094</g:id>
@@ -18656,27 +18801,6 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:internal_label>['Korte kurser','Graviditet, fødsel og barsel']</g:internal_label>
     </item>
 <item>
-      <g:id>AAR-426955A</g:id>
-      <g:title><![CDATA[Studiepris: Glenn Bech om parforhold og klasse]]></g:title>
-      <g:description><![CDATA[Glenn Bech gæster FOF Aarhus , og sætter ord på parforholdets svære vilkår, når man er opvokset med svigt. Kan alle mennesker lære at tage imod kærlighed? I forfatter og psykolog Glenn Bechs seneste roman, Jeg er ikke færdig med dig (2025), følger vi Lasse og hans forsøg på at forene en turbulent opvækst med et nutidigt kæresteforhold til den evigt rummelige Emil. For hvordan håndterer man følelserne voksent, når rollemodellerne i ens barndom svigtede? Hvordan sænker man paraderne og bliver mindre vagtsom, når livet hidtil har været præget af overlevelse, kaos og undtagelsestilstand? Hvordan gør et menneske - med traumet som ballast - sig overhovedet forståelig for den anden? Hvordan kommunikerer man ærligt og sårbart, når ethvert svaghedstegn gav anledning til hån og ydmygelse? De seneste års debat om mønsterbrydere har ofte fokuseret på ydre omstændigheder som social baggrund og karriere, men hvad taber den, der forlader sin familie for at “vinde i livet?” Komikeren Dirch Passer optrådte ofte i beruset tilstand, anglende efter klapsalver og anerkendelse, mens toppolitikeren Inge Fischer Møller opgav, da offentligheden og kollegerne heller ikke gav hende, hvad hun manglede som lille. Med hvad så med Lasse og Emil? Hvor dybt kan den ene tillade sig at falde, og hvor længe skal den anden stå klar med åbne arme? Alt dette berører Glenn Bech i sit foredrag på Dokk1. Forsiden på Glenn Bechs seneste roman "Jeg er ikke færdig med dig" (2025). Om Glenn Bech Glenn Bech debuterede som forfatter i 2021 med Farskibet . Den autofiktive erindringsbog, der tager form som løsrevne dialoger, afskrift, lyrik og henvendelser, bearbejder en hård barndom og forsøger at rive traumerne op med rode. Manifestet Jeg anerkender ikke længere jeres autoritet fra 2022 fortsætter det vrede opgør med homofobi, klassesamfundet og de privilegieblindes overskud. I september 2025 udkom Jeg er ikke færdig med dig , hvor Glenn Bech tager et skridt mod en mere traditionel form for fiktion uden at forlade sine gennemgående temaer som giftig maskulinitet, klasseskel, seksualitet, overgreb og mindreværd. For Farskibet har Glenn Bech modtaget Blixenprisen 2022 i kategorien ”Årets roman” og debutantprisen Munch-Christensens Kulturlegat. Romanen var shortlistet til Bogforums Debutantpris 2021 og indstillet til Weekendavisens Litteraturpris 2021. Derudover har Glenn Bech modtaget Albert Dams Mindelegat 2021, der tildeles en talentfuld dansk forfatter. For Jeg anerkender ikke længere jeres autoritet modtog Glenn Bech i marts 2023 Politikens Litteraturpris 2022. Udover sit litterære virke har Glenn Bech de seneste år haft en stor tilstedeværelse på landets biblioteker, festivaler og kulturhuse som foredragsholder og debattør. Glenn, som er født i Horsens i 1991, er uddannet psykolog fra Aarhus Universitet i 2017 og blev færdig på Forfatterskolen i 2019. Nysgerrig på mere? Se hele vores foredragskalender her . Foredraget er arrangeret i samarbejde med Dokk1.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/studiepris-glenn-bech-om-parforhold-og-klasse?holdnr=426955A</g:link>
-      <g:image_link>https://www.fof.dk/media/4tmjab02/glenn_bech_foredrag_fof_aarhus_fotograf_sara_galbiati_1200x1200.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>100.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Aarhus</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type></g:product_type>
-      <g:custom_label_0></g:custom_label_0>
-      <g:custom_label_1></g:custom_label_1>
-      <g:custom_label_2></g:custom_label_2>
-      <g:start_date>2026-11-25T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Studierabat - studiemessen 2026</g:custom_label_3>
-      <g:internal_label>['Studierabat - studiemessen 2026']</g:internal_label>
-    </item>
-<item>
       <g:id>AAR-425103</g:id>
       <g:title><![CDATA[Efterfødselstræning]]></g:title>
       <g:description><![CDATA[Efterfødselstræning ved FOF Aarhus til dig som har født for 2-12 uger siden (v. kejsersnit 5-12 uger) | FOF Aftenskolen Aarhus]]></g:description>
@@ -18696,6 +18820,27 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:start_date>2026-11-25T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Graviditet, fødsel og barsel</g:custom_label_3>
       <g:internal_label>['Graviditet, fødsel og barsel']</g:internal_label>
+    </item>
+<item>
+      <g:id>AAR-426955A</g:id>
+      <g:title><![CDATA[Studiepris: Glenn Bech om parforhold og klasse]]></g:title>
+      <g:description><![CDATA[Glenn Bech gæster FOF Aarhus , og sætter ord på parforholdets svære vilkår, når man er opvokset med svigt. Kan alle mennesker lære at tage imod kærlighed? I forfatter og psykolog Glenn Bechs seneste roman, Jeg er ikke færdig med dig (2025), følger vi Lasse og hans forsøg på at forene en turbulent opvækst med et nutidigt kæresteforhold til den evigt rummelige Emil. For hvordan håndterer man følelserne voksent, når rollemodellerne i ens barndom svigtede? Hvordan sænker man paraderne og bliver mindre vagtsom, når livet hidtil har været præget af overlevelse, kaos og undtagelsestilstand? Hvordan gør et menneske - med traumet som ballast - sig overhovedet forståelig for den anden? Hvordan kommunikerer man ærligt og sårbart, når ethvert svaghedstegn gav anledning til hån og ydmygelse? De seneste års debat om mønsterbrydere har ofte fokuseret på ydre omstændigheder som social baggrund og karriere, men hvad taber den, der forlader sin familie for at “vinde i livet?” Komikeren Dirch Passer optrådte ofte i beruset tilstand, anglende efter klapsalver og anerkendelse, mens toppolitikeren Inge Fischer Møller opgav, da offentligheden og kollegerne heller ikke gav hende, hvad hun manglede som lille. Med hvad så med Lasse og Emil? Hvor dybt kan den ene tillade sig at falde, og hvor længe skal den anden stå klar med åbne arme? Alt dette berører Glenn Bech i sit foredrag på Dokk1. Forsiden på Glenn Bechs seneste roman "Jeg er ikke færdig med dig" (2025). Om Glenn Bech Glenn Bech debuterede som forfatter i 2021 med Farskibet . Den autofiktive erindringsbog, der tager form som løsrevne dialoger, afskrift, lyrik og henvendelser, bearbejder en hård barndom og forsøger at rive traumerne op med rode. Manifestet Jeg anerkender ikke længere jeres autoritet fra 2022 fortsætter det vrede opgør med homofobi, klassesamfundet og de privilegieblindes overskud. I september 2025 udkom Jeg er ikke færdig med dig , hvor Glenn Bech tager et skridt mod en mere traditionel form for fiktion uden at forlade sine gennemgående temaer som giftig maskulinitet, klasseskel, seksualitet, overgreb og mindreværd. For Farskibet har Glenn Bech modtaget Blixenprisen 2022 i kategorien ”Årets roman” og debutantprisen Munch-Christensens Kulturlegat. Romanen var shortlistet til Bogforums Debutantpris 2021 og indstillet til Weekendavisens Litteraturpris 2021. Derudover har Glenn Bech modtaget Albert Dams Mindelegat 2021, der tildeles en talentfuld dansk forfatter. For Jeg anerkender ikke længere jeres autoritet modtog Glenn Bech i marts 2023 Politikens Litteraturpris 2022. Udover sit litterære virke har Glenn Bech de seneste år haft en stor tilstedeværelse på landets biblioteker, festivaler og kulturhuse som foredragsholder og debattør. Glenn, som er født i Horsens i 1991, er uddannet psykolog fra Aarhus Universitet i 2017 og blev færdig på Forfatterskolen i 2019. Nysgerrig på mere? Se hele vores foredragskalender her . Foredraget er arrangeret i samarbejde med Dokk1.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/studiepris-glenn-bech-om-parforhold-og-klasse?holdnr=426955A</g:link>
+      <g:image_link>https://www.fof.dk/media/4tmjab02/glenn_bech_foredrag_fof_aarhus_fotograf_sara_galbiati_1200x1200.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>100.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type></g:product_type>
+      <g:custom_label_0></g:custom_label_0>
+      <g:custom_label_1></g:custom_label_1>
+      <g:custom_label_2></g:custom_label_2>
+      <g:start_date>2026-11-25T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Studierabat - studiemessen 2026</g:custom_label_3>
+      <g:internal_label>['Studierabat - studiemessen 2026']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-425115</g:id>
@@ -18967,27 +19112,6 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:internal_label>['Foredrag','Kunst og kultur']</g:internal_label>
     </item>
 <item>
-      <g:id>AAR-428953</g:id>
-      <g:title><![CDATA[First aid - babies (English)]]></g:title>
-      <g:description><![CDATA[Learn first aid for babies at FOF Aarhus. We offer courses in English. Sign up today.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/first-aid-babies-english?holdnr=428953</g:link>
-      <g:image_link>https://www.fof.dk/media/0lhn54ea/foerstehjaelp-til-babyer-1_1200x1200-fof-aarhus.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>250.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Aarhus</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Førstehjælp</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Førstehjælp</g:custom_label_2>
-      <g:start_date>2026-12-01T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Engelsksproget kursus, Graviditet, fødsel og barsel, Almen førstehjælp</g:custom_label_3>
-      <g:internal_label>['Engelsksproget kursus','Graviditet, fødsel og barsel','Almen førstehjælp']</g:internal_label>
-    </item>
-<item>
       <g:id>AAR-428878</g:id>
       <g:title><![CDATA[Færdselsrelateret førstehjælp (2-dages kursus)]]></g:title>
       <g:description><![CDATA[Kom med på 2-dages førstehjælpskursus til kørekort. Praktisk-orienteret undervisning hos FOF Aftenskolen Aarhus.]]></g:description>
@@ -19007,6 +19131,27 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:start_date>2026-12-01T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Førstehjælp til kørekort, Korte kurser</g:custom_label_3>
       <g:internal_label>['Førstehjælp til kørekort','Korte kurser']</g:internal_label>
+    </item>
+<item>
+      <g:id>AAR-428953</g:id>
+      <g:title><![CDATA[First aid - babies (English)]]></g:title>
+      <g:description><![CDATA[Learn first aid for babies at FOF Aarhus. We offer courses in English. Sign up today.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/first-aid-babies-english?holdnr=428953</g:link>
+      <g:image_link>https://www.fof.dk/media/0lhn54ea/foerstehjaelp-til-babyer-1_1200x1200-fof-aarhus.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>250.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Førstehjælp</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Førstehjælp</g:custom_label_2>
+      <g:start_date>2026-12-01T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Engelsksproget kursus, Graviditet, fødsel og barsel, Almen førstehjælp</g:custom_label_3>
+      <g:internal_label>['Engelsksproget kursus','Graviditet, fødsel og barsel','Almen førstehjælp']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-426938</g:id>
@@ -21048,6 +21193,8 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Håndværk og kunsthåndværk</g:custom_label_2>
       <g:start_date>2026-11-14T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Svendborg</g:custom_label_3>
+      <g:internal_label>['Svendborg']</g:internal_label>
     </item>
 <item>
       <g:id>FYN-163122</g:id>
@@ -22358,27 +22505,6 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:internal_label>['Rundvisning København','1 dag']</g:internal_label>
     </item>
 <item>
-      <g:id>KBO-22073</g:id>
-      <g:title><![CDATA[Rundvisning i Vridsløselille Fængsel med fængselsguide]]></g:title>
-      <g:description><![CDATA[Oplev en unik rundvisning i Vridsløselille Statsfængsel i Albertslund. Hør autentiske historier, se den ikoniske fængselsport og få indblik i livet bag murene.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/rundvisning-i-vridsloeselille-faengsel-med-faengselsguide?holdnr=22073</g:link>
-      <g:image_link>https://www.fof.dk/media/vcnpmu0d/rundvisning-i-vridsloeselille-faengsel.png?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>225.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Københavns Omegn</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Rejser, ture og rundvisninger &gt; Rundvisninger</g:product_type>
-      <g:custom_label_0>Rejser, ture og rundvisninger</g:custom_label_0>
-      <g:custom_label_1>Rundvisninger</g:custom_label_1>
-      <g:custom_label_2></g:custom_label_2>
-      <g:start_date>2026-11-07T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>hold albertslund, Tur kalender, Albertslund, 1 dag</g:custom_label_3>
-      <g:internal_label>['hold albertslund','Tur kalender','Albertslund','1 dag']</g:internal_label>
-    </item>
-<item>
       <g:id>KBO-32307</g:id>
       <g:title><![CDATA[Indretning for de små 4-6 år]]></g:title>
       <g:description><![CDATA[Få inspiration til indretning af børneværelse til børn 0–6 år. Skab trygge, kreative og funktionelle rum med plads til leg og udvikling.]]></g:description>
@@ -22398,6 +22524,27 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:start_date>2026-11-07T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Familieuniverset, Ballerup, Albertslund, 1 dag</g:custom_label_3>
       <g:internal_label>['Familieuniverset','Ballerup','Albertslund','1 dag']</g:internal_label>
+    </item>
+<item>
+      <g:id>KBO-22073</g:id>
+      <g:title><![CDATA[Rundvisning i Vridsløselille Fængsel med fængselsguide]]></g:title>
+      <g:description><![CDATA[Oplev en unik rundvisning i Vridsløselille Statsfængsel i Albertslund. Hør autentiske historier, se den ikoniske fængselsport og få indblik i livet bag murene.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/rundvisning-i-vridsloeselille-faengsel-med-faengselsguide?holdnr=22073</g:link>
+      <g:image_link>https://www.fof.dk/media/vcnpmu0d/rundvisning-i-vridsloeselille-faengsel.png?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>225.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Københavns Omegn</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Rejser, ture og rundvisninger &gt; Rundvisninger</g:product_type>
+      <g:custom_label_0>Rejser, ture og rundvisninger</g:custom_label_0>
+      <g:custom_label_1>Rundvisninger</g:custom_label_1>
+      <g:custom_label_2></g:custom_label_2>
+      <g:start_date>2026-11-07T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>hold albertslund, Tur kalender, Albertslund, 1 dag</g:custom_label_3>
+      <g:internal_label>['hold albertslund','Tur kalender','Albertslund','1 dag']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-22422</g:id>
@@ -24141,27 +24288,6 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:internal_label>['Albertslund','Brøndby','Glostrup','Herlev','Taastrup']</g:internal_label>
     </item>
 <item>
-      <g:id>KBO-23601</g:id>
-      <g:title><![CDATA[Ryghold]]></g:title>
-      <g:description><![CDATA[Deltag på vores populære ryghold i Glostrup Medborgerhus. Professionel undervisning, lyse lokaler, gode parkeringsmuligheder og effektiv træning for ryg, balance og bevægelighed.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/rygtraening?holdnr=23601</g:link>
-      <g:image_link>https://www.fof.dk/media/jgylzd4z/yoga-fof-aftenskolen-31.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1455.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Københavns Omegn</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Styrke- og konditionstræning</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Styrke- og konditionstræning</g:custom_label_2>
-      <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Glostrup</g:custom_label_3>
-      <g:internal_label>['Glostrup']</g:internal_label>
-    </item>
-<item>
       <g:id>KBO-23342</g:id>
       <g:title><![CDATA[Tysk for viderekomne]]></g:title>
       <g:description><![CDATA[For dig med solid erfaring i tysk, der vil styrke din flydende tale og forståelse. B2-kurset giver fordybelse, nuanceret sprog og samtaler på højt niveau. Tilmeld dig hos FOF Københavns Omegn.]]></g:description>
@@ -24181,6 +24307,27 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
       <g:custom_label_3>hold brøndby, Brøndby</g:custom_label_3>
       <g:internal_label>['hold brøndby','Brøndby']</g:internal_label>
+    </item>
+<item>
+      <g:id>KBO-23601</g:id>
+      <g:title><![CDATA[Ryghold]]></g:title>
+      <g:description><![CDATA[Deltag på vores populære ryghold i Glostrup Medborgerhus. Professionel undervisning, lyse lokaler, gode parkeringsmuligheder og effektiv træning for ryg, balance og bevægelighed.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/rygtraening?holdnr=23601</g:link>
+      <g:image_link>https://www.fof.dk/media/jgylzd4z/yoga-fof-aftenskolen-31.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1455.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Københavns Omegn</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Styrke- og konditionstræning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Styrke- og konditionstræning</g:custom_label_2>
+      <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Glostrup</g:custom_label_3>
+      <g:internal_label>['Glostrup']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23330</g:id>
@@ -25798,6 +25945,48 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:internal_label>['Glostrup']</g:internal_label>
     </item>
 <item>
+      <g:id>KBO-23933</g:id>
+      <g:title><![CDATA[Kom i form: Kondition og styrke i varmt vand]]></g:title>
+      <g:description><![CDATA[Deltag i varmtvandstræning i Herlev og Ballerup hos FOF Københavns Omegn. Skånsom motion med fysioterapeutisk vejledning i varmt vand. Find dit hold blandt mange mulige tider.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/motion-i-varmt-vand?holdnr=23933</g:link>
+      <g:image_link>https://www.fof.dk/media/btej5r1f/varmtvandstraening-for-gigtramte.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>865.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Københavns Omegn</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Træning i vand</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Træning i vand</g:custom_label_2>
+      <g:start_date>2027-02-10T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Herlev, Ballerup, Glostrup</g:custom_label_3>
+      <g:internal_label>['Herlev','Ballerup','Glostrup']</g:internal_label>
+    </item>
+<item>
+      <g:id>KBO-23936</g:id>
+      <g:title><![CDATA[Kom i form: Kondition og styrke i varmt vand]]></g:title>
+      <g:description><![CDATA[Deltag i varmtvandstræning i Herlev og Ballerup hos FOF Københavns Omegn. Skånsom motion med fysioterapeutisk vejledning i varmt vand. Find dit hold blandt mange mulige tider.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/motion-i-varmt-vand?holdnr=23936</g:link>
+      <g:image_link>https://www.fof.dk/media/btej5r1f/varmtvandstraening-for-gigtramte.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>865.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Københavns Omegn</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Træning i vand</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Træning i vand</g:custom_label_2>
+      <g:start_date>2027-02-10T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Herlev, Ballerup, Glostrup</g:custom_label_3>
+      <g:internal_label>['Herlev','Ballerup','Glostrup']</g:internal_label>
+    </item>
+<item>
       <g:id>KBO-33502</g:id>
       <g:title><![CDATA[Familieyoga for børn 2-3 år og voksne]]></g:title>
       <g:description><![CDATA[Familieyoga i Taastrup for børn og voksne i Trille Tumlesalen. Leg, yoga og mindfulness med fokus på ro, nærvær og bevægelse.]]></g:description>
@@ -26428,6 +26617,27 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:internal_label>['Familieuniverset','Taastrup']</g:internal_label>
     </item>
 <item>
+      <g:id>KBO-33206</g:id>
+      <g:title><![CDATA[Succes og livsvalg - Unge på vej]]></g:title>
+      <g:description><![CDATA[Kursus for unge om voksenliv, succes, økonomi, relationer og livsvalg. Få et ærligt og realistisk perspektiv på fremtiden.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/unge-paa-vej-succes-og-livsvalg?holdnr=33206</g:link>
+      <g:image_link>https://www.fof.dk/media/wzfjsjhd/unge-paa-vej-succes-og-livsvalg.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>900.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Københavns Omegn</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Livsstil og trivsel &gt; Karriere og arbejdsliv</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Livsstil og trivsel</g:custom_label_1>
+      <g:custom_label_2>Karriere og arbejdsliv</g:custom_label_2>
+      <g:start_date>2027-03-03T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Unge på vej, Taastrup</g:custom_label_3>
+      <g:internal_label>['Unge på vej','Taastrup']</g:internal_label>
+    </item>
+<item>
       <g:id>KBO-23311</g:id>
       <g:title><![CDATA[Ungarsk for begyndere - ONLINE]]></g:title>
       <g:description><![CDATA[Online undervisning: Lær ungarsk helt fra bunden på A1-niveau. Få styr på udtale, ordforråd og simple hverdagssamtaler i et trygt og roligt læringsmiljø. Du lærer blandt andet at:  Forstå enkle sætninger og korte beskeder, og opbygge et basalt ungarsk ordforråd.]]></g:description>
@@ -26444,6 +26654,25 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Sprog</g:custom_label_1>
       <g:custom_label_2>Ungarsk</g:custom_label_2>
+      <g:start_date>2027-03-03T00:00:00.000Z</g:start_date>
+    </item>
+<item>
+      <g:id>KBO-33205</g:id>
+      <g:title><![CDATA[Tolkens verden]]></g:title>
+      <g:description><![CDATA[Få indblik i tolkeprofessionen og livet som freelance tolk. Kursus om etik, kultur, arbejdsliv og tolkens rolle i samfundet.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/tolk?holdnr=33205</g:link>
+      <g:image_link>https://www.fof.dk/media/ryufdwes/tolkens-verden.png?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>900.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Københavns Omegn</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Kommunikation og drama &gt; Formidling</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Kommunikation og drama</g:custom_label_1>
+      <g:custom_label_2>Formidling</g:custom_label_2>
       <g:start_date>2027-03-03T00:00:00.000Z</g:start_date>
     </item>
 <item>
@@ -26466,6 +26695,27 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:start_date>2027-03-03T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Fam.Mad, Rødovre</g:custom_label_3>
       <g:internal_label>['Fam.Mad','Rødovre']</g:internal_label>
+    </item>
+<item>
+      <g:id>KBO-33300</g:id>
+      <g:title><![CDATA[Fædregruppe]]></g:title>
+      <g:description><![CDATA[Fædregruppe med fokus på familieliv, trivsel, relationer og fællesskab. For både nye og erfarne fædre.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/faedregruppe?holdnr=33300</g:link>
+      <g:image_link>https://www.fof.dk/media/ckwp1hoo/_1-faedregruppe.png?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>800.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Københavns Omegn</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Forældreskab</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
+      <g:custom_label_2>Forældreskab</g:custom_label_2>
+      <g:start_date>2027-03-03T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Taastrup</g:custom_label_3>
+      <g:internal_label>['Taastrup']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-22105</g:id>
@@ -27959,27 +28209,6 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:internal_label>['Foredrag kalender','Glostrup']</g:internal_label>
     </item>
 <item>
-      <g:id>KOE-51278</g:id>
-      <g:title><![CDATA[Hjertesund mad for mænd]]></g:title>
-      <g:description><![CDATA[ Et madlavningskursus for seje mænd med god smag. På Madlavning for mænd i Køge, Hvalsø og Hårlev, kan du gå til madlavning og få hyggeligt samvær, ny viden og en helt masse madglæde!]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koege-bugt/madlavning-for-maend?holdnr=51278</g:link>
-      <g:image_link>https://www.fof.dk/media/ynclcfgr/madlavning-for-maend-hvalsoe-fof-aftenskolen.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>195.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Køge Bugt</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Madlavning og drikkevarer &gt; Fest- og hverdagsmad</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
-      <g:custom_label_2>Fest- og hverdagsmad</g:custom_label_2>
-      <g:start_date>2026-10-22T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Starter snart, hold bornholm, Lejre, Køge, Bornholm, Partnerskab, Egedal</g:custom_label_3>
-      <g:internal_label>['Starter snart','hold bornholm','Lejre','Køge','Bornholm','Partnerskab','Egedal']</g:internal_label>
-    </item>
-<item>
       <g:id>KOE-51600</g:id>
       <g:title><![CDATA[Balance og styrketræning]]></g:title>
       <g:description><![CDATA[Føler du dig mere og mere usikker på benene? Vores erfarne underviser hjælper dig med at få bedre balance og øge din styrke. Det er ikke for sent at komme i gang, faktisk er det helt på tide. Køge: Træn din balance og styrketræning i aftenskolen.]]></g:description>
@@ -28710,27 +28939,6 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:start_date>2026-11-18T00:00:00.000Z</g:start_date>
     </item>
 <item>
-      <g:id>KOE-50472</g:id>
-      <g:title><![CDATA[Blid træning mod stress og smerter]]></g:title>
-      <g:description><![CDATA[Hensyntagende hold i Egedal Kommune: Få en blid træning mod smerter og stress. Starter i oktober 2026.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koege-bugt/naturlig-neuro-regulering-mod-stress-og-smerter?holdnr=50472</g:link>
-      <g:image_link>https://www.fof.dk/media/gpmfaxu2/neuroregulering-egedal-fof-aftenskolen.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>916.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Køge Bugt</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Bevægelse og afspænding</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Bevægelse og afspænding</g:custom_label_2>
-      <g:start_date>2026-11-18T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>hold egedal, Egedal, Hensyn</g:custom_label_3>
-      <g:internal_label>['hold egedal','Egedal','Hensyn']</g:internal_label>
-    </item>
-<item>
       <g:id>KOE-50584</g:id>
       <g:title><![CDATA[Naturtræning - styrke, ro og energi i naturen]]></g:title>
       <g:description><![CDATA[Hensynstagende træning i Stenløse: Få bevæget kroppen, mærk naturen og gå hjem med ny energi. På Naturholdet kombinerer vi bevægelse og let træning med naturens muligheder for nærvær, sansning og restitution. Vi træner både styrke, balance, bevægelighed og kondition og giver samtidig plads til at sænke tempoet og finde ro i krop og sind. Holdet foregår både ude i naturen og inde i Multihytten og tilpasses årstiden, vejret og deltagernes forskellige forudsætninger. Hvem kan være med? Naturholdet er for dig, der gerne vil bevæge dig mere og styrke både din fysiske og mentale trivsel, men gerne vil undgå fitnesscentret. Du behøver ikke være i god form eller have erfaring med træning. Øvelserne kan tilpasses, så du kan deltage ud fra dit eget niveau. Hvad får jeg? Gennem forløbet arbejder vi blandt andet med styrke, balance, bevægelighed, kondition og kropsbevidsthed. Vi bruger naturens terræn og omgivelser i træningen og supplerer med blandt andet elastikker, små træningsbolde og øvelser på yogamåtte. Du bliver samtidig introduceret til enkle øvelser med åndedræt, sanser, nærvær og afspænding, som kan understøtte kroppens naturlige evne til at finde ro og restituere. Målet er ikke at præstere, men at opleve glæden ved at bruge kroppen og opdage, hvordan bevægelse og ophold i naturen kan give mere energi og velvære i hverdagen. Hvordan foregår undervisningen? Vi mødes ved Multihytten og bruger både hytten og den omkringliggende natur. Undervisningen varierer fra gang til gang. Vi kan gå ture i forskelligt tempo, træne styrke og balance, arbejde med bevægelighed, lave makkerøvelser og bruge naturen som træningsrum. Andre gange sænker vi tempoet med sanseøvelser, mindful walking, åndedræt eller en afsluttende afspænding. Vi er ude en del af tiden, også i vinterhalvåret, så kom i praktisk tøj og fodtøj, der passer til vejret.]]></g:description>
@@ -28750,6 +28958,27 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:start_date>2026-11-18T00:00:00.000Z</g:start_date>
       <g:custom_label_3>hold egedal, Partnerskab, Hensyn</g:custom_label_3>
       <g:internal_label>['hold egedal','Partnerskab','Hensyn']</g:internal_label>
+    </item>
+<item>
+      <g:id>KOE-50472</g:id>
+      <g:title><![CDATA[Blid træning mod stress og smerter]]></g:title>
+      <g:description><![CDATA[Hensyntagende hold i Egedal Kommune: Få en blid træning mod smerter og stress. Starter i oktober 2026.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koege-bugt/naturlig-neuro-regulering-mod-stress-og-smerter?holdnr=50472</g:link>
+      <g:image_link>https://www.fof.dk/media/gpmfaxu2/neuroregulering-egedal-fof-aftenskolen.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>916.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Køge Bugt</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Bevægelse og afspænding</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Bevægelse og afspænding</g:custom_label_2>
+      <g:start_date>2026-11-18T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>hold egedal, Egedal, Hensyn</g:custom_label_3>
+      <g:internal_label>['hold egedal','Egedal','Hensyn']</g:internal_label>
     </item>
 <item>
       <g:id>KOE-51923</g:id>
@@ -29651,6 +29880,27 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:internal_label>['Forår']</g:internal_label>
     </item>
 <item>
+      <g:id>KOE-53400</g:id>
+      <g:title><![CDATA[Fotokursus - tag bedre billeder med din iPhone/mobil]]></g:title>
+      <g:description><![CDATA[Bliv en dygtig fotograf, uden at investere i dyrt udstyr! Fotokursus for begyndere og øvede. Deltag i kursus i fotografering i Køge hos FOF Køge Bugt og  lær at bruge kameraets funktioner, arbejde med lys og komposition og få personlig feedback.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koege-bugt/fotografering?holdnr=53400</g:link>
+      <g:image_link>https://www.fof.dk/media/vvsbqzvp/foto-koegebugt-fof-aftenskolen.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>585.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Køge Bugt</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; It og foto &gt; Foto og video</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>It og foto</g:custom_label_1>
+      <g:custom_label_2>Foto og video</g:custom_label_2>
+      <g:start_date>2027-03-13T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Køge, Weekend</g:custom_label_3>
+      <g:internal_label>['Køge','Weekend']</g:internal_label>
+    </item>
+<item>
       <g:id>KOE-51927</g:id>
       <g:title><![CDATA[Jesper Steinmetz - Verden i opbrud]]></g:title>
       <g:description><![CDATA[Foredrag med Jesper Steinmetz om USA, Europa, Grønland og den nye verdensorden. Få perspektiv på de globale magtforskydninger.]]></g:description>
@@ -29924,6 +30174,27 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:internal_label>['Forår','Køge']</g:internal_label>
     </item>
 <item>
+      <g:id>KOE-53401</g:id>
+      <g:title><![CDATA[Fotokursus - tag bedre billeder med din iPhone/mobil]]></g:title>
+      <g:description><![CDATA[Bliv en dygtig fotograf, uden at investere i dyrt udstyr! Fotokursus for begyndere og øvede. Deltag i kursus i fotografering i Køge hos FOF Køge Bugt og  lær at bruge kameraets funktioner, arbejde med lys og komposition og få personlig feedback.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koege-bugt/fotografering?holdnr=53401</g:link>
+      <g:image_link>https://www.fof.dk/media/vvsbqzvp/foto-koegebugt-fof-aftenskolen.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>585.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Køge Bugt</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; It og foto &gt; Foto og video</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>It og foto</g:custom_label_1>
+      <g:custom_label_2>Foto og video</g:custom_label_2>
+      <g:start_date>2027-04-27T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Køge, Weekend</g:custom_label_3>
+      <g:internal_label>['Køge','Weekend']</g:internal_label>
+    </item>
+<item>
       <g:id>KOE-53862</g:id>
       <g:title><![CDATA[Fra verdensklassekunst til udsigt fra Mærsk Tårnet ]]></g:title>
       <g:description><![CDATA[Oplev Copenhagen Science City med Frederik Lindskov. Guidet tur gennem kunst, arkitektur og forskning ved Panum, Rigshospitalet og Mærsk Tårnet med værker af Olafur Eliasson, Bjørn Nørgaard og mange flere.]]></g:description>
@@ -30067,8 +30338,8 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:custom_label_1>Foredragsrækker</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
       <g:start_date>2026-10-22T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Starter snart, Hold - Slagelse, Kalender - Oktober, Foredragsrækker, Foredrag - Slagelse</g:custom_label_3>
-      <g:internal_label>['Starter snart','Hold - Slagelse','Kalender - Oktober','Foredragsrækker','Foredrag - Slagelse']</g:internal_label>
+      <g:custom_label_3>Starter snart, Hold - Slagelse, Kalender - Oktober, Foredragsrækker</g:custom_label_3>
+      <g:internal_label>['Starter snart','Hold - Slagelse','Kalender - Oktober','Foredragsrækker']</g:internal_label>
     </item>
 <item>
       <g:id>SVS-852226</g:id>
@@ -30088,8 +30359,8 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Yoga</g:custom_label_2>
       <g:start_date>2026-10-22T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Foredrag - Næstved, Starter snart, Hold - Næstved, Kalender - Oktober</g:custom_label_3>
-      <g:internal_label>['Foredrag - Næstved','Starter snart','Hold - Næstved','Kalender - Oktober']</g:internal_label>
+      <g:custom_label_3>Starter snart, Hold - Næstved, Kalender - Oktober</g:custom_label_3>
+      <g:internal_label>['Starter snart','Hold - Næstved','Kalender - Oktober']</g:internal_label>
     </item>
 <item>
       <g:id>SVS-152226</g:id>
@@ -30109,8 +30380,8 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Yoga</g:custom_label_2>
       <g:start_date>2026-10-22T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Starter snart, Hold - Slagelse, Kalender - Oktober, Foredrag - Slagelse, Nyheder</g:custom_label_3>
-      <g:internal_label>['Starter snart','Hold - Slagelse','Kalender - Oktober','Foredrag - Slagelse','Nyheder']</g:internal_label>
+      <g:custom_label_3>Starter snart, Hold - Slagelse, Kalender - Oktober, Nyheder</g:custom_label_3>
+      <g:internal_label>['Starter snart','Hold - Slagelse','Kalender - Oktober','Nyheder']</g:internal_label>
     </item>
 <item>
       <g:id>SVS-641226</g:id>
@@ -30130,8 +30401,8 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Bevægelse og afspænding</g:custom_label_2>
       <g:start_date>2026-10-22T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Foredrag - Ringsted, Starter snart, Hold - Ringsted, Kalender - Oktober</g:custom_label_3>
-      <g:internal_label>['Foredrag - Ringsted','Starter snart','Hold - Ringsted','Kalender - Oktober']</g:internal_label>
+      <g:custom_label_3>Starter snart, Hold - Ringsted, Kalender - Oktober</g:custom_label_3>
+      <g:internal_label>['Starter snart','Hold - Ringsted','Kalender - Oktober']</g:internal_label>
     </item>
 <item>
       <g:id>SVS-250626</g:id>
@@ -30193,8 +30464,8 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Bevægelse og afspænding</g:custom_label_2>
       <g:start_date>2026-10-22T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Starter snart, Hold - Ringsted, Kalender - Oktober, Foredrag - Ringsted</g:custom_label_3>
-      <g:internal_label>['Starter snart','Hold - Ringsted','Kalender - Oktober','Foredrag - Ringsted']</g:internal_label>
+      <g:custom_label_3>Starter snart, Hold - Ringsted, Kalender - Oktober</g:custom_label_3>
+      <g:internal_label>['Starter snart','Hold - Ringsted','Kalender - Oktober']</g:internal_label>
     </item>
 <item>
       <g:id>SVS-310726</g:id>
@@ -30236,7 +30507,7 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:custom_label_2>Asiatisk mad</g:custom_label_2>
       <g:start_date>2026-10-23T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Kalender - Oktober, Starter snart, Hold - Ringsted</g:custom_label_3>
-      <g:internal_label>['Kalender - Oktober','Starter snart','Hold - Ringsted','Kalenderaktiviteter (weekend, endags, foredrag, ture)','Foredrag - Slagelse']</g:internal_label>
+      <g:internal_label>['Kalender - Oktober','Starter snart','Hold - Ringsted','Kalenderaktiviteter (weekend, endags, foredrag, ture)']</g:internal_label>
     </item>
 <item>
       <g:id>SVS-860226</g:id>
@@ -30257,7 +30528,7 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:custom_label_2>Malekurser</g:custom_label_2>
       <g:start_date>2026-10-24T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Kalender - Oktober, Starter snart, Hold - Næstved</g:custom_label_3>
-      <g:internal_label>['Kalender - Oktober','Starter snart','Hold - Næstved','Kalenderaktiviteter (weekend, endags, foredrag, ture)','Foredrag - Næstved','Kreative endags- og weekendkurser','Nyheder']</g:internal_label>
+      <g:internal_label>['Kalender - Oktober','Starter snart','Hold - Næstved','Kalenderaktiviteter (weekend, endags, foredrag, ture)','Kreative endags- og weekendkurser','Nyheder']</g:internal_label>
     </item>
 <item>
       <g:id>SVS-840126</g:id>
@@ -30277,8 +30548,8 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Mindfulness og meditation</g:custom_label_2>
       <g:start_date>2026-10-24T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Kalender - Oktober, Foredrag - Næstved, Starter snart, Hold - Næstved</g:custom_label_3>
-      <g:internal_label>['Kalender - Oktober','Foredrag - Næstved','Starter snart','Hold - Næstved','Kalenderaktiviteter (weekend, endags, foredrag, ture)']</g:internal_label>
+      <g:custom_label_3>Kalender - Oktober, Starter snart, Hold - Næstved</g:custom_label_3>
+      <g:internal_label>['Kalender - Oktober','Starter snart','Hold - Næstved','Kalenderaktiviteter (weekend, endags, foredrag, ture)']</g:internal_label>
     </item>
 <item>
       <g:id>SVS-660126</g:id>
@@ -30299,7 +30570,7 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:custom_label_2>Malekurser</g:custom_label_2>
       <g:start_date>2026-10-24T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Kalender - Oktober, Starter snart, Hold - Ringsted</g:custom_label_3>
-      <g:internal_label>['Kalender - Oktober','Starter snart','Hold - Ringsted','Kalenderaktiviteter (weekend, endags, foredrag, ture)','Foredrag - Slagelse']</g:internal_label>
+      <g:internal_label>['Kalender - Oktober','Starter snart','Hold - Ringsted','Kalenderaktiviteter (weekend, endags, foredrag, ture)']</g:internal_label>
     </item>
 <item>
       <g:id>SVS-660626</g:id>
@@ -30362,7 +30633,7 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:custom_label_2>Asiatisk mad</g:custom_label_2>
       <g:start_date>2026-10-25T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Kalender - Oktober, Starter snart, Hold - Næstved</g:custom_label_3>
-      <g:internal_label>['Kalender - Oktober','Starter snart','Hold - Næstved','Kalenderaktiviteter (weekend, endags, foredrag, ture)','Foredrag - Slagelse']</g:internal_label>
+      <g:internal_label>['Kalender - Oktober','Starter snart','Hold - Næstved','Kalenderaktiviteter (weekend, endags, foredrag, ture)']</g:internal_label>
     </item>
 <item>
       <g:id>SVS-160526</g:id>
@@ -30445,8 +30716,8 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Yoga</g:custom_label_2>
       <g:start_date>2026-10-27T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Foredrag - Sorø, Starter snart, Kalender - Oktober, Hold - Sorø</g:custom_label_3>
-      <g:internal_label>['Foredrag - Sorø','Starter snart','Kalender - Oktober','Hold - Sorø']</g:internal_label>
+      <g:custom_label_3>Starter snart, Kalender - Oktober, Hold - Sorø</g:custom_label_3>
+      <g:internal_label>['Starter snart','Kalender - Oktober','Hold - Sorø']</g:internal_label>
     </item>
 <item>
       <g:id>SVS-152326</g:id>
@@ -30508,8 +30779,8 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Bevægelse og afspænding</g:custom_label_2>
       <g:start_date>2026-10-27T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Foredrag - Næstved, Starter snart, Hold - Næstved, Kalender - Oktober</g:custom_label_3>
-      <g:internal_label>['Foredrag - Næstved','Starter snart','Hold - Næstved','Kalender - Oktober']</g:internal_label>
+      <g:custom_label_3>Starter snart, Hold - Næstved, Kalender - Oktober</g:custom_label_3>
+      <g:internal_label>['Starter snart','Hold - Næstved','Kalender - Oktober']</g:internal_label>
     </item>
 <item>
       <g:id>SVS-160726</g:id>
@@ -30529,8 +30800,8 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Tegnekurser</g:custom_label_2>
       <g:start_date>2026-10-27T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Hold - Slagelse, Starter snart, Kalender - Oktober, Foredrag - Slagelse, Nyheder</g:custom_label_3>
-      <g:internal_label>['Hold - Slagelse','Starter snart','Kalender - Oktober','Foredrag - Slagelse','Nyheder']</g:internal_label>
+      <g:custom_label_3>Hold - Slagelse, Starter snart, Kalender - Oktober, Nyheder</g:custom_label_3>
+      <g:internal_label>['Hold - Slagelse','Starter snart','Kalender - Oktober','Nyheder']</g:internal_label>
     </item>
 <item>
       <g:id>SVS-821826</g:id>
@@ -30590,8 +30861,8 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Yoga</g:custom_label_2>
       <g:start_date>2026-10-28T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Foredrag - Ringsted, Starter snart, Hold - Ringsted, Kalender - Oktober</g:custom_label_3>
-      <g:internal_label>['Foredrag - Ringsted','Starter snart','Hold - Ringsted','Kalender - Oktober']</g:internal_label>
+      <g:custom_label_3>Starter snart, Hold - Ringsted, Kalender - Oktober</g:custom_label_3>
+      <g:internal_label>['Starter snart','Hold - Ringsted','Kalender - Oktober']</g:internal_label>
     </item>
 <item>
       <g:id>SVS-821726</g:id>
@@ -30632,8 +30903,8 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:custom_label_1>It og foto</g:custom_label_1>
       <g:custom_label_2>Kunstig intelligens - AI</g:custom_label_2>
       <g:start_date>2026-10-28T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Starter snart, Hold - Ringsted, Kalender - Oktober, Foredrag - Slagelse, Foredrag - Ringsted</g:custom_label_3>
-      <g:internal_label>['Starter snart','Hold - Ringsted','Kalender - Oktober','Foredrag - Slagelse','Foredrag - Ringsted']</g:internal_label>
+      <g:custom_label_3>Starter snart, Hold - Ringsted, Kalender - Oktober</g:custom_label_3>
+      <g:internal_label>['Starter snart','Hold - Ringsted','Kalender - Oktober']</g:internal_label>
     </item>
 <item>
       <g:id>SVS-670126</g:id>
@@ -30716,8 +30987,8 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
       <g:custom_label_2>Aktiviteter med baby</g:custom_label_2>
       <g:start_date>2026-10-30T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Starter snart, Hold - Næstved, Kalender - Oktober, Foredrag - Næstved</g:custom_label_3>
-      <g:internal_label>['Starter snart','Hold - Næstved','Kalender - Oktober','Foredrag - Næstved']</g:internal_label>
+      <g:custom_label_3>Starter snart, Hold - Næstved, Kalender - Oktober</g:custom_label_3>
+      <g:internal_label>['Starter snart','Hold - Næstved','Kalender - Oktober']</g:internal_label>
     </item>
 <item>
       <g:id>SVS-822726</g:id>
@@ -30780,7 +31051,7 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:custom_label_2>Asiatisk mad</g:custom_label_2>
       <g:start_date>2026-10-30T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Kalender - Oktober, Hold - Slagelse, Starter snart</g:custom_label_3>
-      <g:internal_label>['Kalender - Oktober','Hold - Slagelse','Starter snart','Kalenderaktiviteter (weekend, endags, foredrag, ture)','Foredrag - Slagelse']</g:internal_label>
+      <g:internal_label>['Kalender - Oktober','Hold - Slagelse','Starter snart','Kalenderaktiviteter (weekend, endags, foredrag, ture)']</g:internal_label>
     </item>
 <item>
       <g:id>SVS-822926</g:id>
@@ -30822,7 +31093,7 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:custom_label_2>Tegnekurser</g:custom_label_2>
       <g:start_date>2026-10-31T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Kalender - Oktober, Starter snart, Hold - Næstved</g:custom_label_3>
-      <g:internal_label>['Kalender - Oktober','Starter snart','Hold - Næstved','Kalenderaktiviteter (weekend, endags, foredrag, ture)','Kreative endags- og weekendkurser','Foredrag - Næstved','Foredrag - Slagelse','Nyheder']</g:internal_label>
+      <g:internal_label>['Kalender - Oktober','Starter snart','Hold - Næstved','Kalenderaktiviteter (weekend, endags, foredrag, ture)','Kreative endags- og weekendkurser','Nyheder']</g:internal_label>
     </item>
 <item>
       <g:id>SVS-100226</g:id>
@@ -30863,8 +31134,8 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Håndarbejde</g:custom_label_2>
       <g:start_date>2026-11-04T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Starter snart, Hold - Næstved, Kalender - November, Foredrag - Slagelse, Foredrag - Næstved</g:custom_label_3>
-      <g:internal_label>['Starter snart','Hold - Næstved','Kalender - November','Foredrag - Slagelse','Foredrag - Næstved']</g:internal_label>
+      <g:custom_label_3>Starter snart, Hold - Næstved, Kalender - November</g:custom_label_3>
+      <g:internal_label>['Starter snart','Hold - Næstved','Kalender - November']</g:internal_label>
     </item>
 <item>
       <g:id>SVS-660526</g:id>
@@ -30884,8 +31155,8 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Syning</g:custom_label_2>
       <g:start_date>2026-11-04T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Starter snart, Hold - Ringsted, Kalender - November, Foredrag - Ringsted</g:custom_label_3>
-      <g:internal_label>['Starter snart','Hold - Ringsted','Kalender - November','Foredrag - Ringsted','Målgruppe 20-45 år (forældre)']</g:internal_label>
+      <g:custom_label_3>Starter snart, Hold - Ringsted, Kalender - November, Målgruppe 20-45 år (forældre)</g:custom_label_3>
+      <g:internal_label>['Starter snart','Hold - Ringsted','Kalender - November','Målgruppe 20-45 år (forældre)']</g:internal_label>
     </item>
 <item>
       <g:id>SVS-143926</g:id>
@@ -30926,8 +31197,8 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:custom_label_1>It og foto</g:custom_label_1>
       <g:custom_label_2>Computer og smartphone</g:custom_label_2>
       <g:start_date>2026-11-05T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Hold - Slagelse, Starter snart, Kalender - November, Foredrag - Slagelse</g:custom_label_3>
-      <g:internal_label>['Hold - Slagelse','Starter snart','Kalender - November','Foredrag - Slagelse']</g:internal_label>
+      <g:custom_label_3>Hold - Slagelse, Starter snart, Kalender - November</g:custom_label_3>
+      <g:internal_label>['Hold - Slagelse','Starter snart','Kalender - November']</g:internal_label>
     </item>
 <item>
       <g:id>SVS-860426</g:id>
@@ -30947,8 +31218,8 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Malekurser</g:custom_label_2>
       <g:start_date>2026-11-06T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Kalender - November, Starter snart, Hold - Næstved, Kreative endags- og weekendkurser</g:custom_label_3>
-      <g:internal_label>['Kalender - November','Starter snart','Hold - Næstved','Kreative endags- og weekendkurser','Foredrag - Næstved','Efterårsferie']</g:internal_label>
+      <g:custom_label_3>Kalender - November, Starter snart, Hold - Næstved, Kreative endags- og weekendkurser, Efterårsferie</g:custom_label_3>
+      <g:internal_label>['Kalender - November','Starter snart','Hold - Næstved','Kreative endags- og weekendkurser','Efterårsferie']</g:internal_label>
     </item>
 <item>
       <g:id>SVS-660426</g:id>
@@ -30968,8 +31239,8 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Håndværk og kunsthåndværk</g:custom_label_2>
       <g:start_date>2026-11-07T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Foredrag - Ringsted, Kreative endags- og weekendkurser, Kalender - November, Starter snart</g:custom_label_3>
-      <g:internal_label>['Foredrag - Ringsted','Kreative endags- og weekendkurser','Kalender - November','Starter snart','Hold - Ringsted','Kalenderaktiviteter (weekend, endags, foredrag, ture)','Foredrag - Slagelse','Nyheder']</g:internal_label>
+      <g:custom_label_3>Kreative endags- og weekendkurser, Kalender - November, Starter snart, Hold - Ringsted</g:custom_label_3>
+      <g:internal_label>['Kreative endags- og weekendkurser','Kalender - November','Starter snart','Hold - Ringsted','Kalenderaktiviteter (weekend, endags, foredrag, ture)','Nyheder']</g:internal_label>
     </item>
 <item>
       <g:id>SVS-861326</g:id>
@@ -30990,7 +31261,7 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:custom_label_2>Håndarbejde</g:custom_label_2>
       <g:start_date>2026-11-07T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Kalender - November, Starter snart, Hold - Næstved</g:custom_label_3>
-      <g:internal_label>['Kalender - November','Starter snart','Hold - Næstved','Kalenderaktiviteter (weekend, endags, foredrag, ture)','Kreative endags- og weekendkurser','Foredrag - Slagelse','Målgruppe 20-45 år (forældre)','Efterårsferie','Tema - Bæredygtighed']</g:internal_label>
+      <g:internal_label>['Kalender - November','Starter snart','Hold - Næstved','Kalenderaktiviteter (weekend, endags, foredrag, ture)','Kreative endags- og weekendkurser','Målgruppe 20-45 år (forældre)','Efterårsferie','Tema - Bæredygtighed']</g:internal_label>
     </item>
 <item>
       <g:id>SVS-840226</g:id>
@@ -31010,8 +31281,8 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Mindfulness og meditation</g:custom_label_2>
       <g:start_date>2026-11-07T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Foredrag - Næstved, Kalender - November, Starter snart, Hold - Næstved</g:custom_label_3>
-      <g:internal_label>['Foredrag - Næstved','Kalender - November','Starter snart','Hold - Næstved','Kalenderaktiviteter (weekend, endags, foredrag, ture)']</g:internal_label>
+      <g:custom_label_3>Kalender - November, Starter snart, Hold - Næstved</g:custom_label_3>
+      <g:internal_label>['Kalender - November','Starter snart','Hold - Næstved','Kalenderaktiviteter (weekend, endags, foredrag, ture)']</g:internal_label>
     </item>
 <item>
       <g:id>SVS-162626</g:id>
@@ -31032,7 +31303,7 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:custom_label_2>Håndarbejde</g:custom_label_2>
       <g:start_date>2026-11-07T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Kalender - November, Hold - Slagelse, Starter snart</g:custom_label_3>
-      <g:internal_label>['Kalender - November','Hold - Slagelse','Starter snart','Kalenderaktiviteter (weekend, endags, foredrag, ture)','Kreative endags- og weekendkurser','Foredrag - Slagelse','Foredrag - Ringsted']</g:internal_label>
+      <g:internal_label>['Kalender - November','Hold - Slagelse','Starter snart','Kalenderaktiviteter (weekend, endags, foredrag, ture)','Kreative endags- og weekendkurser']</g:internal_label>
     </item>
 <item>
       <g:id>SVS-680926</g:id>
@@ -31074,7 +31345,7 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:custom_label_2>Håndarbejde</g:custom_label_2>
       <g:start_date>2026-11-08T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Kalender - November, Hold - Slagelse, Starter snart</g:custom_label_3>
-      <g:internal_label>['Kalender - November','Hold - Slagelse','Starter snart','Kalenderaktiviteter (weekend, endags, foredrag, ture)','Kreative endags- og weekendkurser','Foredrag - Sorø','Foredrag - Slagelse','Nyheder']</g:internal_label>
+      <g:internal_label>['Kalender - November','Hold - Slagelse','Starter snart','Kalenderaktiviteter (weekend, endags, foredrag, ture)','Kreative endags- og weekendkurser','Nyheder']</g:internal_label>
     </item>
 <item>
       <g:id>SVS-360726</g:id>
@@ -31095,7 +31366,7 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:custom_label_2>Malekurser</g:custom_label_2>
       <g:start_date>2026-11-08T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Kalender - November, Starter snart, Kalenderaktiviteter (weekend, endags, foredrag, ture)</g:custom_label_3>
-      <g:internal_label>['Kalender - November','Starter snart','Kalenderaktiviteter (weekend, endags, foredrag, ture)','Hold - Sorø','Foredrag - Slagelse','Kreative endags- og weekendkurser','Foredrag - Ringsted']</g:internal_label>
+      <g:internal_label>['Kalender - November','Starter snart','Kalenderaktiviteter (weekend, endags, foredrag, ture)','Hold - Sorø','Kreative endags- og weekendkurser','Jul']</g:internal_label>
     </item>
 <item>
       <g:id>SVS-142826</g:id>
@@ -31158,7 +31429,7 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:custom_label_2></g:custom_label_2>
       <g:start_date>2026-11-09T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Kalender - November, Hold - Slagelse, Starter snart</g:custom_label_3>
-      <g:internal_label>['Kalender - November','Hold - Slagelse','Starter snart','Kalenderaktiviteter (weekend, endags, foredrag, ture)','Kreative endags- og weekendkurser','Foredrag - Slagelse','Foredrag - Ringsted']</g:internal_label>
+      <g:internal_label>['Kalender - November','Hold - Slagelse','Starter snart','Kalenderaktiviteter (weekend, endags, foredrag, ture)','Kreative endags- og weekendkurser']</g:internal_label>
     </item>
 <item>
       <g:id>SVS-390226</g:id>
@@ -31199,8 +31470,8 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
       <g:custom_label_2>Aktiviteter med baby</g:custom_label_2>
       <g:start_date>2026-11-12T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Starter snart, Hold - Ringsted, Kalender - November, Foredrag - Ringsted</g:custom_label_3>
-      <g:internal_label>['Starter snart','Hold - Ringsted','Kalender - November','Foredrag - Ringsted']</g:internal_label>
+      <g:custom_label_3>Starter snart, Hold - Ringsted, Kalender - November</g:custom_label_3>
+      <g:internal_label>['Starter snart','Hold - Ringsted','Kalender - November']</g:internal_label>
     </item>
 <item>
       <g:id>SVS-341126</g:id>
@@ -31241,8 +31512,8 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
       <g:custom_label_2>Aktiviteter med baby</g:custom_label_2>
       <g:start_date>2026-11-12T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Starter snart, Hold - Ringsted, Kalender - November, Foredrag - Ringsted</g:custom_label_3>
-      <g:internal_label>['Starter snart','Hold - Ringsted','Kalender - November','Foredrag - Ringsted']</g:internal_label>
+      <g:custom_label_3>Starter snart, Hold - Ringsted, Kalender - November</g:custom_label_3>
+      <g:internal_label>['Starter snart','Hold - Ringsted','Kalender - November']</g:internal_label>
     </item>
 <item>
       <g:id>SVS-690226</g:id>
@@ -31263,7 +31534,7 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:custom_label_2>Slægtsforskning</g:custom_label_2>
       <g:start_date>2026-11-14T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Kalender - November, Hold - Ringsted, Kalenderaktiviteter (weekend, endags, foredrag, ture)</g:custom_label_3>
-      <g:internal_label>['Kalender - November','Hold - Ringsted','Kalenderaktiviteter (weekend, endags, foredrag, ture)','Foredrag - Ringsted']</g:internal_label>
+      <g:internal_label>['Kalender - November','Hold - Ringsted','Kalenderaktiviteter (weekend, endags, foredrag, ture)']</g:internal_label>
     </item>
 <item>
       <g:id>SVS-161926</g:id>
@@ -31410,7 +31681,7 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:custom_label_2>Tegnekurser</g:custom_label_2>
       <g:start_date>2026-11-21T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Kalender - November, Hold - Næstved, Kalenderaktiviteter (weekend, endags, foredrag, ture)</g:custom_label_3>
-      <g:internal_label>['Kalender - November','Hold - Næstved','Kalenderaktiviteter (weekend, endags, foredrag, ture)','Kreative endags- og weekendkurser','Foredrag - Næstved','Foredrag - Slagelse','Nyheder']</g:internal_label>
+      <g:internal_label>['Kalender - November','Hold - Næstved','Kalenderaktiviteter (weekend, endags, foredrag, ture)','Kreative endags- og weekendkurser','Nyheder']</g:internal_label>
     </item>
 <item>
       <g:id>SVS-181426</g:id>
@@ -31452,7 +31723,7 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:custom_label_2>Håndarbejde</g:custom_label_2>
       <g:start_date>2026-11-21T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Kalender - November, Kalenderaktiviteter (weekend, endags, foredrag, ture), Hold - Sorø</g:custom_label_3>
-      <g:internal_label>['Kalender - November','Kalenderaktiviteter (weekend, endags, foredrag, ture)','Hold - Sorø','Kreative endags- og weekendkurser','Foredrag - Sorø','Nyheder','Foredrag - Slagelse']</g:internal_label>
+      <g:internal_label>['Kalender - November','Kalenderaktiviteter (weekend, endags, foredrag, ture)','Hold - Sorø','Kreative endags- og weekendkurser','Nyheder','Jul']</g:internal_label>
     </item>
 <item>
       <g:id>SVS-181826</g:id>
@@ -31494,7 +31765,7 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:custom_label_2>Håndarbejde</g:custom_label_2>
       <g:start_date>2026-11-21T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Kalender - November, Hold - Ringsted, Kalenderaktiviteter (weekend, endags, foredrag, ture)</g:custom_label_3>
-      <g:internal_label>['Kalender - November','Hold - Ringsted','Kalenderaktiviteter (weekend, endags, foredrag, ture)','Kreative endags- og weekendkurser','Foredrag - Slagelse','Foredrag - Ringsted']</g:internal_label>
+      <g:internal_label>['Kalender - November','Hold - Ringsted','Kalenderaktiviteter (weekend, endags, foredrag, ture)','Kreative endags- og weekendkurser']</g:internal_label>
     </item>
 <item>
       <g:id>SVS-862026</g:id>
@@ -31536,7 +31807,7 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:custom_label_2>Malekurser</g:custom_label_2>
       <g:start_date>2026-11-22T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Kalender - November, Hold - Ringsted, Kalenderaktiviteter (weekend, endags, foredrag, ture)</g:custom_label_3>
-      <g:internal_label>['Kalender - November','Hold - Ringsted','Kalenderaktiviteter (weekend, endags, foredrag, ture)','Foredrag - Slagelse','Kreative endags- og weekendkurser','Foredrag - Ringsted']</g:internal_label>
+      <g:internal_label>['Kalender - November','Hold - Ringsted','Kalenderaktiviteter (weekend, endags, foredrag, ture)','Kreative endags- og weekendkurser','Jul']</g:internal_label>
     </item>
 <item>
       <g:id>SVS-621426</g:id>
@@ -31661,8 +31932,8 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:custom_label_1>Udflugter og dagsture</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
       <g:start_date>2026-11-28T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Kalender - November, Kalenderaktiviteter (weekend, endags, foredrag, ture)</g:custom_label_3>
-      <g:internal_label>['Kalender - November','Kalenderaktiviteter (weekend, endags, foredrag, ture)']</g:internal_label>
+      <g:custom_label_3>Kalender - November, Kalenderaktiviteter (weekend, endags, foredrag, ture), Jul</g:custom_label_3>
+      <g:internal_label>['Kalender - November','Kalenderaktiviteter (weekend, endags, foredrag, ture)','Jul']</g:internal_label>
     </item>
 <item>
       <g:id>SVS-163126</g:id>
@@ -31704,7 +31975,7 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:custom_label_2>Smykkekurser</g:custom_label_2>
       <g:start_date>2026-12-12T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Foredrag - Slagelse, Hold - Slagelse, Kalenderaktiviteter (weekend, endags, foredrag, ture)</g:custom_label_3>
-      <g:internal_label>['Foredrag - Slagelse','Hold - Slagelse','Kalenderaktiviteter (weekend, endags, foredrag, ture)','Kalender - December','Kreative endags- og weekendkurser','Foredrag - Næstved','Efterårsferie']</g:internal_label>
+      <g:internal_label>['Foredrag - Slagelse','Hold - Slagelse','Kalenderaktiviteter (weekend, endags, foredrag, ture)','Kalender - December','Kreative endags- og weekendkurser']</g:internal_label>
     </item>
 <item>
       <g:id>SVS-826027</g:id>
@@ -31869,8 +32140,8 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
       <g:custom_label_2>Aktiviteter med baby</g:custom_label_2>
       <g:start_date>2027-01-14T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Hold - Ringsted, Foredrag - Ringsted</g:custom_label_3>
-      <g:internal_label>['Hold - Ringsted','Foredrag - Ringsted']</g:internal_label>
+      <g:custom_label_3>Hold - Ringsted</g:custom_label_3>
+      <g:internal_label>['Hold - Ringsted']</g:internal_label>
     </item>
 <item>
       <g:id>SVS-125027</g:id>
@@ -31932,8 +32203,8 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
       <g:custom_label_2>Aktiviteter med baby</g:custom_label_2>
       <g:start_date>2027-01-14T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Hold - Ringsted, Foredrag - Ringsted</g:custom_label_3>
-      <g:internal_label>['Hold - Ringsted','Foredrag - Ringsted']</g:internal_label>
+      <g:custom_label_3>Hold - Ringsted</g:custom_label_3>
+      <g:internal_label>['Hold - Ringsted']</g:internal_label>
     </item>
 <item>
       <g:id>SVS-828227</g:id>
@@ -31953,8 +32224,8 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
       <g:custom_label_2>Aktiviteter med baby</g:custom_label_2>
       <g:start_date>2027-01-15T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Hold - Næstved, Foredrag - Næstved</g:custom_label_3>
-      <g:internal_label>['Hold - Næstved','Foredrag - Næstved']</g:internal_label>
+      <g:custom_label_3>Hold - Næstved</g:custom_label_3>
+      <g:internal_label>['Hold - Næstved']</g:internal_label>
     </item>
 <item>
       <g:id>SVS-828527</g:id>
@@ -32100,8 +32371,8 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:custom_label_1>Familie, børn og unge</g:custom_label_1>
       <g:custom_label_2>Motion, dans og drama</g:custom_label_2>
       <g:start_date>2027-01-23T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Hold - Slagelse, Foredrag - Slagelse, Nyheder</g:custom_label_3>
-      <g:internal_label>['Hold - Slagelse','Foredrag - Slagelse','Nyheder']</g:internal_label>
+      <g:custom_label_3>Hold - Slagelse, Nyheder</g:custom_label_3>
+      <g:internal_label>['Hold - Slagelse','Nyheder']</g:internal_label>
     </item>
 <item>
       <g:id>SVS-126527</g:id>
@@ -32121,8 +32392,8 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:custom_label_1>Familie, børn og unge</g:custom_label_1>
       <g:custom_label_2>Motion, dans og drama</g:custom_label_2>
       <g:start_date>2027-01-23T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Hold - Slagelse, Foredrag - Slagelse, Nyheder</g:custom_label_3>
-      <g:internal_label>['Hold - Slagelse','Foredrag - Slagelse','Nyheder']</g:internal_label>
+      <g:custom_label_3>Hold - Slagelse, Nyheder</g:custom_label_3>
+      <g:internal_label>['Hold - Slagelse','Nyheder']</g:internal_label>
     </item>
 <item>
       <g:id>SVS-621526</g:id>
@@ -32477,7 +32748,7 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:custom_label_2></g:custom_label_2>
       <g:start_date>2027-04-09T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Kalenderaktiviteter (weekend, endags, foredrag, ture), Hold - Sorø, Foredrag med smagning</g:custom_label_3>
-      <g:internal_label>['Kalenderaktiviteter (weekend, endags, foredrag, ture)','Hold - Sorø','Foredrag med smagning']</g:internal_label>
+      <g:internal_label>['Kalenderaktiviteter (weekend, endags, foredrag, ture)','Hold - Sorø','Foredrag med smagning','Foredrag - Sorø']</g:internal_label>
     </item>
 <item>
       <g:id>SVS-705227</g:id>
