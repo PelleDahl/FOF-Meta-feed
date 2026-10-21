@@ -49,7 +49,7 @@ const OG_IMAGE_SCHOOLS = new Set(FEED_URLS.map(slugFromUrl));
 
 // Skoler hvor holdets tags hentes fra FOF's Azure AI Search-indeks og lægges i <g:custom_label_3> og <g:internal_label>.
 // Kræver miljøvariablen AZURE_SEARCH_API_KEY (query-nøgle). Mangler den, springes tags over.
-const TAG_SCHOOLS = new Set(['fof-koebenhavn-og-nordsjaelland']);
+const TAG_SCHOOLS = new Set(FEED_URLS.map(slugFromUrl));
 const AZURE_SEARCH_ENDPOINT = 'https://fof-ai-search.search.windows.net';
 const AZURE_SEARCH_API_VERSION = '2024-05-01-preview';
 const AZURE_COURSES_INDEX = 'fof-courses-production';

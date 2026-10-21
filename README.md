@@ -33,7 +33,7 @@ node merge-fof-feeds.js
 1. Henter XML-feedet for hver skole i `FEED_URLS`.
 2. Udtrækker alle `<item>`-elementer fra hvert feed. For skolerne i `INDEX_SOURCE_SCHOOLS` (pt. alle skoler) bygges items i stedet direkte fra søgeindekset — se [Kilde: søgeindeks](#kilde-søgeindeks-i-stedet-for-fofdks-feed).
 3. For skolerne i `OG_IMAGE_SCHOOLS` (pt. alle skoler) erstattes `<g:image_link>` med kursussidens metabillede (`og:image`) i stedet for herobilledet — se [Metabilleder](#metabilleder-ogimage).
-4. For skolerne i `TAG_SCHOOLS` (pt. kun KBH) tilføjes holdets tags fra søgeindekset — se [Tags](#tags).
+4. For skolerne i `TAG_SCHOOLS` (pt. alle skoler) tilføjes holdets tags fra søgeindekset — se [Tags](#tags).
 5. URL-encoder `<g:image_link>` for alle skoler. Filnavne med specialtegn (f.eks. `oh-lá-lá.jpg`) giver ellers HTTP 500 fra fof.dk, og billedet afvises af Meta/Google.
 6. Skriver skolens eget feed for skolerne i `SCHOOL_FEEDS` (uden id-præfiks).
 7. Præfikser `<g:id>` med skolens korte kode (se nedenfor), f.eks. `264364` → `DJU-264364`. Uden præfikset kan to skoler tilfældigt bruge samme holdnummer, hvilket giver dubletter i den samlede feed — præfikset gør hvert `<g:id>` unikt på tværs af skoler.
