@@ -237,27 +237,6 @@
       <g:internal_label>['Kolind','Natur og udeliv']</g:internal_label>
     </item>
 <item>
-      <g:id>DJU-264442</g:id>
-      <g:title><![CDATA[Kom i gang med hækling - Agri]]></g:title>
-      <g:description><![CDATA[Lær at hækle i Agri. Hyggeligt kursus for begyndere og let øvede med små projekter, garn og kreativ fordybelse hos FOF Djursland]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-djursland/kom-i-gang-med-haekling-agri?holdnr=264442</g:link>
-      <g:image_link>https://www.fof.dk/media/rv4ceqsg/kom-i-gang-med-haekling-agri-6-fof-djursland.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>420.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Djursland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Kreative kurser &gt; Håndarbejde</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Kreative kurser</g:custom_label_1>
-      <g:custom_label_2>Håndarbejde</g:custom_label_2>
-      <g:start_date>2026-11-05T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Agri, Mols, Nyhed, Korte kurser, Kreative fag, Diy og andet håndværk, Knebel, Vrinners</g:custom_label_3>
-      <g:internal_label>['Agri','Mols','Nyhed','Korte kurser','Kreative fag','Diy og andet håndværk','Knebel','Vrinners']</g:internal_label>
-    </item>
-<item>
       <g:id>DJU-262051</g:id>
       <g:title><![CDATA[Michael Linden-Vørnle - Foredrag: Videnskab vs. science fiction ]]></g:title>
       <g:description><![CDATA[Foredrag om videnskab vs. science fiction. Hør hvordan fantasi bliver til virkelighed med rumrejser, AI og teknologi hos FOF Djursland]]></g:description>
@@ -10862,27 +10841,6 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:internal_label>['Martins hold','Starter snart','Bjerggade']</g:internal_label>
     </item>
 <item>
-      <g:id>SDJ-2262427</g:id>
-      <g:title><![CDATA[Stole Pilates]]></g:title>
-      <g:description><![CDATA[ Dyrk stolepilates hos FOF Sønderjylland. Skånsom træning for hele kroppen, hvor øvelserne tilpasses dig. Bliv stærkere, smidigere og få bedre balance – uden at skulle ned på gulvet.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-soenderjylland/stole-pilates?holdnr=2262427</g:link>
-      <g:image_link>https://www.fof.dk/media/djtbvzue/stole-yoga-soenderjylland-fof-aftenskolen.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>595.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Sønderjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Pilates</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Pilates</g:custom_label_2>
-      <g:start_date>2026-11-06T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Martins hold, Starter snart, Bjerggade, Hensynstagende - side</g:custom_label_3>
-      <g:internal_label>['Martins hold','Starter snart','Bjerggade','Hensynstagende - side']</g:internal_label>
-    </item>
-<item>
       <g:id>SDJ-2262418</g:id>
       <g:title><![CDATA[Pilates for alle]]></g:title>
       <g:description><![CDATA[Træn klassisk matwork pilates. Få stærkere ryg, bedre balance og mere frihed i kroppen gennem kontrollerede øvelser. Alle niveauer er velkomne. Se alle hold her. ]]></g:description>
@@ -10902,6 +10860,27 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:start_date>2026-11-06T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Martins hold, Starter snart, Bjerggade, Motion</g:custom_label_3>
       <g:internal_label>['Martins hold','Starter snart','Bjerggade','Motion']</g:internal_label>
+    </item>
+<item>
+      <g:id>SDJ-2262427</g:id>
+      <g:title><![CDATA[Stole Pilates]]></g:title>
+      <g:description><![CDATA[ Dyrk stolepilates hos FOF Sønderjylland. Skånsom træning for hele kroppen, hvor øvelserne tilpasses dig. Bliv stærkere, smidigere og få bedre balance – uden at skulle ned på gulvet.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-soenderjylland/stole-pilates?holdnr=2262427</g:link>
+      <g:image_link>https://www.fof.dk/media/djtbvzue/stole-yoga-soenderjylland-fof-aftenskolen.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>595.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sønderjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Pilates</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Pilates</g:custom_label_2>
+      <g:start_date>2026-11-06T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Martins hold, Starter snart, Bjerggade, Hensynstagende - side</g:custom_label_3>
+      <g:internal_label>['Martins hold','Starter snart','Bjerggade','Hensynstagende - side']</g:internal_label>
     </item>
 <item>
       <g:id>SDJ-1262043</g:id>
@@ -12324,6 +12303,27 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:internal_label>['Martins hold','Bjerggade']</g:internal_label>
     </item>
 <item>
+      <g:id>SDJ-2271418</g:id>
+      <g:title><![CDATA[Pilates for alle]]></g:title>
+      <g:description><![CDATA[Træn klassisk matwork pilates. Få stærkere ryg, bedre balance og mere frihed i kroppen gennem kontrollerede øvelser. Alle niveauer er velkomne. Se alle hold her. ]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-soenderjylland/pilates?holdnr=2271418</g:link>
+      <g:image_link>https://www.fof.dk/media/anejkuc3/pilates-soenderjylland-fof-aftenskolen.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>795.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sønderjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Pilates</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Pilates</g:custom_label_2>
+      <g:start_date>2027-01-22T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Martins hold, Bjerggade, Motion</g:custom_label_3>
+      <g:internal_label>['Martins hold','Bjerggade','Motion']</g:internal_label>
+    </item>
+<item>
       <g:id>SDJ-2271427</g:id>
       <g:title><![CDATA[Stole Pilates]]></g:title>
       <g:description><![CDATA[ Dyrk stolepilates hos FOF Sønderjylland. Skånsom træning for hele kroppen, hvor øvelserne tilpasses dig. Bliv stærkere, smidigere og få bedre balance – uden at skulle ned på gulvet.]]></g:description>
@@ -12364,27 +12364,6 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:start_date>2027-01-22T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Martins hold, Bjerggade</g:custom_label_3>
       <g:internal_label>['Martins hold','Bjerggade']</g:internal_label>
-    </item>
-<item>
-      <g:id>SDJ-2271418</g:id>
-      <g:title><![CDATA[Pilates for alle]]></g:title>
-      <g:description><![CDATA[Træn klassisk matwork pilates. Få stærkere ryg, bedre balance og mere frihed i kroppen gennem kontrollerede øvelser. Alle niveauer er velkomne. Se alle hold her. ]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-soenderjylland/pilates?holdnr=2271418</g:link>
-      <g:image_link>https://www.fof.dk/media/anejkuc3/pilates-soenderjylland-fof-aftenskolen.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>795.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Sønderjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Pilates</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Pilates</g:custom_label_2>
-      <g:start_date>2027-01-22T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Martins hold, Bjerggade, Motion</g:custom_label_3>
-      <g:internal_label>['Martins hold','Bjerggade','Motion']</g:internal_label>
     </item>
 <item>
       <g:id>SDJ-2271419</g:id>
@@ -14732,14 +14711,14 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:internal_label>['Indgangsbillet FOF Garnfestivalg']</g:internal_label>
     </item>
 <item>
-      <g:id>AAL-26280320</g:id>
-      <g:title><![CDATA[Workshop - Kom godt i gang med korssting]]></g:title>
-      <g:description><![CDATA[Lær at brodere med korssting på en kreativ workshop hos FOF Aalborg. Brodér din egen nøglering og lær de grundlæggende teknikker trin for trin.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-aalborg/laer-at-brodere-med-korssting?holdnr=26280320</g:link>
-      <g:image_link>https://www.fof.dk/media/4ecjlhzn/brod%C3%A9r-med-korssting.png?width=1200</g:image_link>
+      <g:id>AAL-26280325</g:id>
+      <g:title><![CDATA[Workshop - Brodér coasteren til yndlingskoppen]]></g:title>
+      <g:description><![CDATA[Prøv broderiteknikken Platwerk og brodér en coaster til din yndlingskop. Kreativ workshop for begyndere og øvede under FOF Garnfestival 2026 i Aalborg.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aalborg/workshop-broder-coasteren-til-yndlingskoppen?holdnr=26280325</g:link>
+      <g:image_link>https://www.fof.dk/media/x3wgekak/brod%C3%A9r-coasteren-til-yndlingskoppen.png?width=1200</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:quantity>1</g:quantity>
-      <g:price>155.00 DKK</g:price>
+      <g:price>170.00 DKK</g:price>
       <g:condition>new</g:condition>
       <g:brand>FOF Aalborg</g:brand>
       <g:google_product_category>Education</g:google_product_category>
@@ -14753,14 +14732,14 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:internal_label>['FOF Garnfestival']</g:internal_label>
     </item>
 <item>
-      <g:id>AAL-26280325</g:id>
-      <g:title><![CDATA[Workshop - Brodér coasteren til yndlingskoppen]]></g:title>
-      <g:description><![CDATA[Prøv broderiteknikken Platwerk og brodér en coaster til din yndlingskop. Kreativ workshop for begyndere og øvede under FOF Garnfestival 2026 i Aalborg.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-aalborg/workshop-broder-coasteren-til-yndlingskoppen?holdnr=26280325</g:link>
-      <g:image_link>https://www.fof.dk/media/x3wgekak/brod%C3%A9r-coasteren-til-yndlingskoppen.png?width=1200</g:image_link>
+      <g:id>AAL-26280320</g:id>
+      <g:title><![CDATA[Workshop - Kom godt i gang med korssting]]></g:title>
+      <g:description><![CDATA[Lær at brodere med korssting på en kreativ workshop hos FOF Aalborg. Brodér din egen nøglering og lær de grundlæggende teknikker trin for trin.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aalborg/laer-at-brodere-med-korssting?holdnr=26280320</g:link>
+      <g:image_link>https://www.fof.dk/media/4ecjlhzn/brod%C3%A9r-med-korssting.png?width=1200</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:quantity>1</g:quantity>
-      <g:price>170.00 DKK</g:price>
+      <g:price>155.00 DKK</g:price>
       <g:condition>new</g:condition>
       <g:brand>FOF Aalborg</g:brand>
       <g:google_product_category>Education</g:google_product_category>
@@ -22457,27 +22436,6 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:internal_label>['Rundvisning København','1 dag']</g:internal_label>
     </item>
 <item>
-      <g:id>KBO-32307</g:id>
-      <g:title><![CDATA[Indretning for de små 4-6 år]]></g:title>
-      <g:description><![CDATA[Få inspiration til indretning af børneværelse til børn 0–6 år. Skab trygge, kreative og funktionelle rum med plads til leg og udvikling.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/indretning-af-boernevaerelse?holdnr=32307</g:link>
-      <g:image_link>https://www.fof.dk/media/rk2jwtwn/indretning-for-de-mindste.png?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>750.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Københavns Omegn</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Familie, børn og unge &gt; Kreative kurser</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Familie, børn og unge</g:custom_label_1>
-      <g:custom_label_2>Kreative kurser</g:custom_label_2>
-      <g:start_date>2026-11-07T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Familieuniverset, Ballerup, Albertslund, 1 dag</g:custom_label_3>
-      <g:internal_label>['Familieuniverset','Ballerup','Albertslund','1 dag']</g:internal_label>
-    </item>
-<item>
       <g:id>KBO-22073</g:id>
       <g:title><![CDATA[Rundvisning i Vridsløselille Fængsel med fængselsguide]]></g:title>
       <g:description><![CDATA[Oplev en unik rundvisning i Vridsløselille Statsfængsel i Albertslund. Hør autentiske historier, se den ikoniske fængselsport og få indblik i livet bag murene.]]></g:description>
@@ -22497,6 +22455,27 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:start_date>2026-11-07T00:00:00.000Z</g:start_date>
       <g:custom_label_3>hold albertslund, Tur kalender, Albertslund, 1 dag</g:custom_label_3>
       <g:internal_label>['hold albertslund','Tur kalender','Albertslund','1 dag']</g:internal_label>
+    </item>
+<item>
+      <g:id>KBO-32307</g:id>
+      <g:title><![CDATA[Indretning for de små 4-6 år]]></g:title>
+      <g:description><![CDATA[Få inspiration til indretning af børneværelse til børn 0–6 år. Skab trygge, kreative og funktionelle rum med plads til leg og udvikling.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/indretning-af-boernevaerelse?holdnr=32307</g:link>
+      <g:image_link>https://www.fof.dk/media/rk2jwtwn/indretning-for-de-mindste.png?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>750.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Københavns Omegn</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Familie, børn og unge &gt; Kreative kurser</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Familie, børn og unge</g:custom_label_1>
+      <g:custom_label_2>Kreative kurser</g:custom_label_2>
+      <g:start_date>2026-11-07T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Familieuniverset, Ballerup, Albertslund, 1 dag</g:custom_label_3>
+      <g:internal_label>['Familieuniverset','Ballerup','Albertslund','1 dag']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-22422</g:id>
@@ -24009,27 +23988,6 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:internal_label>['hold glostrup','Glostrup']</g:internal_label>
     </item>
 <item>
-      <g:id>KBO-23427</g:id>
-      <g:title><![CDATA[Syning og tilskæring]]></g:title>
-      <g:description><![CDATA[ær at sy dit eget tøj og accessories på et kreativt sykursus i Brøndby nær København og Omegn. Personlig vejledning, små hold og masser af inspiration til begyndere og øvede.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/syning-i-broendby?holdnr=23427</g:link>
-      <g:image_link>https://www.fof.dk/media/10rj4np0/1-syning-paa-marinegaarden-eget-billede.png?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1200.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Københavns Omegn</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Kreative kurser &gt; Syning</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Kreative kurser</g:custom_label_1>
-      <g:custom_label_2>Syning</g:custom_label_2>
-      <g:start_date>2027-01-18T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Brøndby</g:custom_label_3>
-      <g:internal_label>['Brøndby']</g:internal_label>
-    </item>
-<item>
       <g:id>KBO-23826</g:id>
       <g:title><![CDATA[Ryg, skuldre og nakke]]></g:title>
       <g:description><![CDATA[Træn ryg, skuldre og nakke i på på vores hold i Skovlunde og Brøndby. Hensynstagende træning mod ryg-, hovedpine- og muskelsmerter. Styrke, smidighed og afspænding forbedrer funktion og øger velvære.]]></g:description>
@@ -24049,6 +24007,27 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:start_date>2027-01-18T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Ballerup, Brøndby</g:custom_label_3>
       <g:internal_label>['Ballerup','Brøndby']</g:internal_label>
+    </item>
+<item>
+      <g:id>KBO-23427</g:id>
+      <g:title><![CDATA[Syning og tilskæring]]></g:title>
+      <g:description><![CDATA[ær at sy dit eget tøj og accessories på et kreativt sykursus i Brøndby nær København og Omegn. Personlig vejledning, små hold og masser af inspiration til begyndere og øvede.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/syning-i-broendby?holdnr=23427</g:link>
+      <g:image_link>https://www.fof.dk/media/10rj4np0/1-syning-paa-marinegaarden-eget-billede.png?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1200.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Københavns Omegn</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Kreative kurser &gt; Syning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Kreative kurser</g:custom_label_1>
+      <g:custom_label_2>Syning</g:custom_label_2>
+      <g:start_date>2027-01-18T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Brøndby</g:custom_label_3>
+      <g:internal_label>['Brøndby']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23203</g:id>
