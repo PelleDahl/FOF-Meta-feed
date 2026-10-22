@@ -7,6 +7,10 @@
     "ogImage": "https://www.fof.dk/media/2ptl25ec/keramik_10keramik.jpg?width=1200",
     "fetchedAt": "2026-10-20T13:05:40.679Z"
   },
+  "https://www.fof.dk/aftenskolen/fof-aalborg/begynderstrik-kom-videre": {
+    "ogImage": "https://www.fof.dk/media/lvpn2za3/strikning_1syning-haand.jpg?width=1200",
+    "fetchedAt": "2026-10-22T13:59:13.717Z"
+  },
   "https://www.fof.dk/aftenskolen/fof-aalborg/bioenergetiske-kropsoevelser": {
     "ogImage": "https://www.fof.dk/media/ywhae2he/bevaegelse-2.png?width=1200",
     "fetchedAt": "2026-10-20T13:05:39.970Z"
@@ -1007,10 +1011,6 @@
     "ogImage": "https://www.fof.dk/media/zflnak2n/kreativt-jernarbejde-grenaa.jpg?width=1200",
     "fetchedAt": "2026-10-21T14:00:16.337Z"
   },
-  "https://www.fof.dk/aftenskolen/fof-djursland/lav-dine-egne-smykker-agri": {
-    "ogImage": "https://www.fof.dk/media/krmbi4r4/lav-dine-egne-smykker-agri-7-fof-djursland.jpg?width=1200",
-    "fetchedAt": "2026-10-20T13:04:47.715Z"
-  },
   "https://www.fof.dk/aftenskolen/fof-djursland/maleri-vrinners": {
     "ogImage": "https://www.fof.dk/media/qs2ct0h3/maleri-fof-djursland.jpg?width=1200",
     "fetchedAt": "2026-10-20T13:04:48.044Z"
@@ -1263,10 +1263,6 @@
     "ogImage": "https://www.fof.dk/media/u1yl1gbb/haekling-aftenskolen-herning-fof.jpg?width=1200",
     "fetchedAt": "2026-10-20T13:04:53.710Z"
   },
-  "https://www.fof.dk/aftenskolen/fof-herning/indisk-madlavning-for-boern-og-voksne": {
-    "ogImage": "https://www.fof.dk/media/nx5pmbdm/indisk-mad-boern-og-voksne.jpg?width=1200",
-    "fetchedAt": "2026-10-20T13:04:52.339Z"
-  },
   "https://www.fof.dk/aftenskolen/fof-herning/jule-yin-yoga-v-michelle": {
     "ogImage": "https://www.fof.dk/media/hwkelfgu/yoga-aftenskolen-herning-fof.jpg?width=1200",
     "fetchedAt": "2026-10-20T13:04:54.359Z"
@@ -1274,10 +1270,6 @@
   "https://www.fof.dk/aftenskolen/fof-herning/juncker-solo-live": {
     "ogImage": "https://www.fof.dk/media/hlsnz5ta/juncker-fof-herning.jpg?width=1200",
     "fetchedAt": "2026-10-20T13:04:55.019Z"
-  },
-  "https://www.fof.dk/aftenskolen/fof-herning/keramik-og-bobler-kun-for-maend": {
-    "ogImage": "https://www.fof.dk/media/l3kbvim0/keramik-og-vinsmagning-herning-fof-aftenskolen.jpg?width=1200",
-    "fetchedAt": "2026-10-20T13:04:52.588Z"
   },
   "https://www.fof.dk/aftenskolen/fof-herning/kickstart-med-kikaerter": {
     "ogImage": "https://www.fof.dk/media/xd4jk1t1/falafel-kikaerter-fof-herning.jpg?width=1200",
@@ -1346,10 +1338,6 @@
   "https://www.fof.dk/aftenskolen/fof-herning/workshop-julekort-med-akvarel": {
     "ogImage": "https://www.fof.dk/media/crulzpqx/juleakvarel-anne-bang.jpg?width=1200",
     "fetchedAt": "2026-10-20T13:04:53.634Z"
-  },
-  "https://www.fof.dk/aftenskolen/fof-herning/workshop-keramik-med-anne-moulvad": {
-    "ogImage": "https://www.fof.dk/media/jlgdq1bj/keramik-a-keramikstouw-fof-aftenskolen.jpg?width=1200",
-    "fetchedAt": "2026-10-20T13:04:53.176Z"
   },
   "https://www.fof.dk/aftenskolen/fof-herning/yogalates-rejse-til-graekenland": {
     "ogImage": "https://www.fof.dk/media/egykx3ig/rejse-graekenland-m-vangpigerne-fof-herning.jpg?width=1200",
@@ -1539,6 +1527,10 @@
     "ogImage": "https://www.fof.dk/media/xb0n4ui0/yoga-fof-aftenskolen-28.jpg?width=1200",
     "fetchedAt": "2026-10-20T13:06:46.213Z"
   },
+  "https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/bitwig-basics": {
+    "ogImage": "https://www.fof.dk/media/q31frfqi/bitwig-fofkn-aftenskolen-musik-og-sang.jpg?width=1200",
+    "fetchedAt": "2026-10-22T13:59:17.528Z"
+  },
   "https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/bjoern-wiinblads-kunstnerhjem": {
     "ogImage": "https://www.fof.dk/media/g2odp4db/bjoern-wiinblads-hus-fofkn-aftenskolen-ture-1.jpg?width=1200",
     "fetchedAt": "2026-10-20T13:06:58.922Z"
@@ -1683,6 +1675,10 @@
     "ogImage": "https://www.fof.dk/media/tfkbytjn/ann-e-knudsen.jpg?width=1200",
     "fetchedAt": "2026-10-20T13:06:52.462Z"
   },
+  "https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/design-det-optimale-staudebed": {
+    "ogImage": "https://www.fof.dk/media/qonpxeqi/annemarie-design-det-optimale-staudebed-fofkn-aftenskolen-udeliv.jpg?width=1200",
+    "fetchedAt": "2026-10-22T13:59:17.678Z"
+  },
   "https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/design-din-droemmehave-det-store-overblik": {
     "ogImage": "https://www.fof.dk/media/4x5al0rv/droemmehave-fofkn-aftenskolen-udeliv-1.jpg?width=1200",
     "fetchedAt": "2026-10-20T13:06:35.585Z"
@@ -1698,6 +1694,10 @@
   "https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/det-kinesiske-koekken-voksne-og-boern-fra-10-aar": {
     "ogImage": "https://www.fof.dk/media/xqjfrvvj/kinesisk-mad-fofkn-aftenskolen-familie-1.jpg?width=1200",
     "fetchedAt": "2026-10-20T13:06:22.770Z"
+  },
+  "https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/det-uforglemmelige-show": {
+    "ogImage": "https://www.fof.dk/media/rcjh2xhe/niels-kroejgaard-2.jpg?width=1200",
+    "fetchedAt": "2026-10-22T13:59:17.742Z"
   },
   "https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/det-ukendte-champagne-aube-cote-de-bar": {
     "ogImage": "https://www.fof.dk/media/avbn0p2o/vinsmagning-rose-champagne-fofkn-aftenskolen-madlavning.jpg?width=1200",
@@ -1947,6 +1947,14 @@
     "ogImage": "https://www.fof.dk/media/efoe34in/chokolade-konfekt-fofkn-aftenskolen-madlavning-stock-123360676.jpg?width=1200",
     "fetchedAt": "2026-10-20T13:06:46.451Z"
   },
+  "https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/gaa-og-skriv-paa-det-magiske-sommersolhverv-i-jaegersborg-dyrehave": {
+    "ogImage": "https://www.fof.dk/media/wmgmdptn/praesteslette-dyrehaven-fofkn-aftenskolen-kultur-og-samfund.jpg?width=1200",
+    "fetchedAt": "2026-10-22T13:59:18.205Z"
+  },
+  "https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/garageband-musikproduktion-for-begyndere": {
+    "ogImage": "https://www.fof.dk/media/wfagvkc0/garageband-fofkn-aftenskolen-musik-og-sang-stock-414767911.jpg?width=1200",
+    "fetchedAt": "2026-10-22T13:59:17.505Z"
+  },
   "https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/garderhoejfortet-det-stoerste-fort-i-koebenhavns-landbefaestning": {
     "ogImage": "https://www.fof.dk/media/lwqlsb23/garderhoejfortet-fofkn-aftenskolen-ture.jpg?width=1200",
     "fetchedAt": "2026-10-20T13:06:18.576Z"
@@ -1994,6 +2002,10 @@
   "https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/grundkursus-i-tegning-og-maling": {
     "ogImage": "https://www.fof.dk/media/nt0f0h2b/lokale-ordrupvej-fofkn-aftenskolen-kreative-kurser.jpg?width=1200",
     "fetchedAt": "2026-10-20T13:06:36.454Z"
+  },
+  "https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/guns-n-roses-bandet-du-troede-du-kendte": {
+    "ogImage": "https://www.fof.dk/media/11cdbure/2.png?width=1200",
+    "fetchedAt": "2026-10-22T13:59:17.543Z"
   },
   "https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/ha-det-godt-med-nakke-og-skuldre-workshop": {
     "ogImage": "https://www.fof.dk/media/ujajvj40/nakke-skulder-workshopfofkn-aftenskolen-motion-og-sundhed-ns-1.jpg?width=1200",
@@ -2239,6 +2251,10 @@
     "ogImage": "https://www.fof.dk/media/5wadjfw3/rytmisk-sommercamp-2018-fofkn-aftenskolen-musik-og-sang-km-dsc07732.jpg?width=1200",
     "fetchedAt": "2026-10-20T13:06:15.382Z"
   },
+  "https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/komposition-til-film-og-andre-visuelle-medier": {
+    "ogImage": "https://www.fof.dk/media/l0fpwu2f/komposition-af-filmmusik-fofkn-aftenskolen-musik-og-sang.jpg?width=1200",
+    "fetchedAt": "2026-10-22T13:59:17.505Z"
+  },
   "https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/koncertforedrag-med-something": {
     "ogImage": "https://www.fof.dk/media/zpznxaem/something.jpg?width=1200",
     "fetchedAt": "2026-10-20T13:06:33.555Z"
@@ -2254,6 +2270,10 @@
   "https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/kreativt-maleri-og-billedproces": {
     "ogImage": "https://www.fof.dk/media/b2ufkq5e/kreativt-maleri-fofkn-aftenskolen-kreative-kurser-anne-skole-overgaard.jpg?width=1200",
     "fetchedAt": "2026-10-20T13:06:40.186Z"
+  },
+  "https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/kreativt-mix": {
+    "ogImage": "https://www.fof.dk/media/db5psdpv/kreativt-mix-fofkn-aftenskolen-musik-og-sang.jpg?width=1200",
+    "fetchedAt": "2026-10-22T13:59:18.180Z"
   },
   "https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/kreativt-sangskriver-flow-i-studiet": {
     "ogImage": "https://www.fof.dk/media/rcemvka1/sangskrivning-computer-guitar.jpg?width=1200",
@@ -2391,6 +2411,10 @@
     "ogImage": "https://www.fof.dk/media/idfcfrm4/manu-sareen.png?width=1200",
     "fetchedAt": "2026-10-20T13:06:37.022Z"
   },
+  "https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/marseille-mellem-lys-og-moerke": {
+    "ogImage": "https://www.fof.dk/media/jmogftfp/marseille_unsplash.jpg?width=1200",
+    "fetchedAt": "2026-10-22T13:59:18.435Z"
+  },
   "https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/martin-kreutzer-saet-gaflen-i-gigten": {
     "ogImage": "https://www.fof.dk/media/vr3dytzx/louis-hansel-vv4jcoxo9va-unsplash.jpg?width=1200",
     "fetchedAt": "2026-10-20T13:06:54.679Z"
@@ -2434,6 +2458,10 @@
   "https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/mix-and-mastering": {
     "ogImage": "https://www.fof.dk/media/ltdbyz0j/elektronisk-musikproduktion-fofkn-aftenskolen-musik-og-sang-microphone-3381837.jpg?width=1200",
     "fetchedAt": "2026-10-20T13:06:51.089Z"
+  },
+  "https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/mixing-fundamentals": {
+    "ogImage": "https://www.fof.dk/media/rgng2qsc/mixing-fundamentals.jpg?width=1200",
+    "fetchedAt": "2026-10-22T13:59:17.647Z"
   },
   "https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/modellering-fra-model-til-skulptur-helfigur": {
     "ogImage": "https://www.fof.dk/media/uzblnmka/keramik-modellering-fofkn-aftenskolen-kreative-kurser.jpg?width=1200",
@@ -2646,10 +2674,6 @@
   "https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/sang-klassisk-og-rytmisk": {
     "ogImage": "https://www.fof.dk/media/qbrbhxb1/kor-fof-aftenskolen-06.jpg?width=1200",
     "fetchedAt": "2026-10-20T13:06:47.938Z"
-  },
-  "https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/sang-og-stemmetraening-for-begyndere": {
-    "ogImage": "https://www.fof.dk/media/g3unhupo/sang-rytmisk-sommercamp-fofkn-aftenskolen-musik-og-sang-dsc07645.jpg?width=1200",
-    "fetchedAt": "2026-10-20T13:06:25.785Z"
   },
   "https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/sang-og-stemmetraening-med-kol-aabne-tider": {
     "ogImage": "https://www.fof.dk/media/iladboxg/sang-fofkn-aftenskolen-musik-og-sang-2-ns.jpg?width=1200",
@@ -2942,6 +2966,10 @@
   "https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/vincent-hendricks-hvad-giver-livet-mening": {
     "ogImage": "https://www.fof.dk/media/w2yasr0t/6813-vincent-f-hendricks-fofkn-aftenskolen-foredrag.jpg?width=1200",
     "fetchedAt": "2026-10-20T13:06:28.292Z"
+  },
+  "https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/vinklub-5": {
+    "ogImage": "https://www.fof.dk/media/0s5mwxej/vinklub-modne-vine.jpg?width=1200",
+    "fetchedAt": "2026-10-22T13:59:17.360Z"
   },
   "https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/vinklub1": {
     "ogImage": "https://www.fof.dk/media/eo4p15ht/bordeaux-stock.jpg?width=1200",
@@ -3651,10 +3679,6 @@
     "ogImage": "https://www.fof.dk/media/tkkeavsd/spil-guitar-udvid-med-teori-begyndere.png?width=1200",
     "fetchedAt": "2026-10-20T13:07:16.990Z"
   },
-  "https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/sprogoe-en-unik-oplevelse": {
-    "ogImage": "https://www.fof.dk/media/yr1p5u4d/sprogoe-2.jpg?width=1200",
-    "fetchedAt": "2026-10-20T13:07:06.910Z"
-  },
   "https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/supermaane-vandring": {
     "ogImage": "https://www.fof.dk/media/quljf2yg/supermaane-vandring-natvandring.png?width=1200",
     "fetchedAt": "2026-10-20T13:07:14.125Z"
@@ -3814,6 +3838,10 @@
   "https://www.fof.dk/aftenskolen/fof-koege-bugt/canva": {
     "ogImage": "https://www.fof.dk/media/gjvnczd5/canvakursus-koege-fof-aftenskolen.jpg?width=1200",
     "fetchedAt": "2026-10-20T13:07:28.309Z"
+  },
+  "https://www.fof.dk/aftenskolen/fof-koege-bugt/dans": {
+    "ogImage": "https://www.fof.dk/media/343nexsv/yoga-fof-aftenskolen-13.jpg?width=1200",
+    "fetchedAt": "2026-10-22T13:59:20.374Z"
   },
   "https://www.fof.dk/aftenskolen/fof-koege-bugt/erik-grip-koncert-med-fortaellinger": {
     "ogImage": "https://www.fof.dk/media/5ejpgs1p/erik-grip-fof-aftenskolen.jpg?width=1200",
@@ -4627,10 +4655,6 @@
     "ogImage": "https://www.fof.dk/media/vmwhhtkj/guitar.jpg?width=1200",
     "fetchedAt": "2026-10-20T13:05:28.193Z"
   },
-  "https://www.fof.dk/aftenskolen/fof-soenderjylland/hjemmepasning": {
-    "ogImage": "https://www.fof.dk/media/aynfykil/hjemmepasning-foredrag-soenderjylland-fof-aftenskolen.jpg?width=1200",
-    "fetchedAt": "2026-10-20T13:05:29.318Z"
-  },
   "https://www.fof.dk/aftenskolen/fof-soenderjylland/improvisation-paa-klaver": {
     "ogImage": "https://www.fof.dk/media/41lniudz/klaver-improvisation-soenderjylland-fof-aftenskolen.jpg?width=1200",
     "fetchedAt": "2026-10-20T13:05:29.953Z"
@@ -4802,14 +4826,6 @@
   "https://www.fof.dk/aftenskolen/fof-soenderjylland/svampetur-for-begyndere-og-lidt-oevede": {
     "ogImage": "https://www.fof.dk/media/iuojzlrc/anna-maria-wieroed-2.jpg?width=1200",
     "fetchedAt": "2026-10-20T13:05:29.997Z"
-  },
-  "https://www.fof.dk/aftenskolen/fof-soenderjylland/sy-julepynt-af-gamle-duge": {
-    "ogImage": "https://www.fof.dk/media/viihwj5b/julepynt-soenderjylland-fof-aftenskolen.jpg?width=1200",
-    "fetchedAt": "2026-10-20T13:05:29.922Z"
-  },
-  "https://www.fof.dk/aftenskolen/fof-soenderjylland/sy-skjorter-af-gamle-duge": {
-    "ogImage": "https://www.fof.dk/media/s5hkqwqq/beklaedning-af-gamle-duge-soenderjylland-fof-aftenskolen.jpg?width=1200",
-    "fetchedAt": "2026-10-20T13:05:27.404Z"
   },
   "https://www.fof.dk/aftenskolen/fof-soenderjylland/syning-fra-ide-til-faerdigt-produkt": {
     "ogImage": "https://www.fof.dk/media/ujon2zzt/syning-gitte-soenderjylland-fof-aftenskolen-1.jpg?width=1200",
@@ -5071,10 +5087,6 @@
     "ogImage": "https://www.fof.dk/media/mohoqtfs/tegning-kursus-fof-aftenskolen.jpg?width=1200",
     "fetchedAt": "2026-10-20T13:07:35.520Z"
   },
-  "https://www.fof.dk/aftenskolen/fof-syd-og-vestsjaelland/tegning-for-begyndere": {
-    "ogImage": "https://www.fof.dk/media/nzkblcep/2d-visuel-komposition-tegnekursus-fof-aftenskolen.jpg?width=1200",
-    "fetchedAt": "2026-10-20T13:07:35.651Z"
-  },
   "https://www.fof.dk/aftenskolen/fof-syd-og-vestsjaelland/tips-og-tricks-med-akryl": {
     "ogImage": "https://www.fof.dk/media/z0lby3hh/tips-og-tricks-akryl-malekursus-fof-aftenskolen-01.jpg?width=1200",
     "fetchedAt": "2026-10-20T13:07:34.930Z"
@@ -5111,6 +5123,10 @@
     "ogImage": "https://www.fof.dk/media/amzjmfrk/afspaending-1.jpg?width=1200",
     "fetchedAt": "2026-10-20T13:05:15.033Z"
   },
+  "https://www.fof.dk/aftenskolen/fof-sydjylland/ai-i-praksis": {
+    "ogImage": "https://www.fof.dk/media/xhonc51b/ai-i-praksis-1.jpg?width=1200",
+    "fetchedAt": "2026-10-22T13:59:10.000Z"
+  },
   "https://www.fof.dk/aftenskolen/fof-sydjylland/akvarel": {
     "ogImage": "https://www.fof.dk/media/a0me5x2q/akvarel-af-graaspurv-1.jpg?width=1200",
     "fetchedAt": "2026-10-20T13:05:09.955Z"
@@ -5138,10 +5154,6 @@
   "https://www.fof.dk/aftenskolen/fof-sydjylland/babytummel-henriette-5-9-maaneder": {
     "ogImage": "https://www.fof.dk/media/ebrhq0ye/babytummel-231218-2131262.jpg?width=1200",
     "fetchedAt": "2026-10-20T13:05:08.701Z"
-  },
-  "https://www.fof.dk/aftenskolen/fof-sydjylland/ballet-lignende-motion-for-demensramte": {
-    "ogImage": "https://www.fof.dk/media/0zkjdrka/balletlignende-motion-2018-3.jpg?width=1200",
-    "fetchedAt": "2026-10-20T13:05:07.051Z"
   },
   "https://www.fof.dk/aftenskolen/fof-sydjylland/balletlignende-motion-for-alle": {
     "ogImage": "https://www.fof.dk/media/51tnlnps/balletlignende-motion-2018-1.jpg?width=1200",
@@ -5195,10 +5207,6 @@
     "ogImage": "https://www.fof.dk/media/y1easfix/collage-med-mening-1.jpg?width=1200",
     "fetchedAt": "2026-10-20T13:05:09.720Z"
   },
-  "https://www.fof.dk/aftenskolen/fof-sydjylland/comfort-food": {
-    "ogImage": "https://www.fof.dk/media/3nlojdmd/blommer-og-baer-under-kogning-1.jpg?width=1200",
-    "fetchedAt": "2026-10-20T13:05:08.432Z"
-  },
   "https://www.fof.dk/aftenskolen/fof-sydjylland/croquis-med-adam-gabriel": {
     "ogImage": "https://www.fof.dk/media/2v1nst0f/croquis-170925.jpg?width=1200",
     "fetchedAt": "2026-10-20T13:05:15.630Z"
@@ -5247,10 +5255,6 @@
     "ogImage": "https://www.fof.dk/media/m5inxsru/elvis-presley-262-jailhouse-rock-1957.jpg?width=1200",
     "fetchedAt": "2026-10-20T13:05:12.404Z"
   },
-  "https://www.fof.dk/aftenskolen/fof-sydjylland/enneagram": {
-    "ogImage": "https://www.fof.dk/media/svuhygs5/enneagram-240424.jpg?width=1200",
-    "fetchedAt": "2026-10-20T13:05:08.494Z"
-  },
   "https://www.fof.dk/aftenskolen/fof-sydjylland/fascial-flow-saerligt-tilrettelagt": {
     "ogImage": "https://www.fof.dk/media/tcllcbau/fascial-flow-2.jpg?width=1200",
     "fetchedAt": "2026-10-20T13:05:12.266Z"
@@ -5271,10 +5275,6 @@
     "ogImage": "https://www.fof.dk/media/lgwcrbft/for-dig-der-hjemmepasser-1.jpg?width=1200",
     "fetchedAt": "2026-10-20T13:05:10.868Z"
   },
-  "https://www.fof.dk/aftenskolen/fof-sydjylland/fra-madspildskassen-til-middagsbordet": {
-    "ogImage": "https://www.fof.dk/media/5k2d3kgc/fisk-med-sauce-og-gulerod-1.jpg?width=1200",
-    "fetchedAt": "2026-10-20T13:05:07.101Z"
-  },
   "https://www.fof.dk/aftenskolen/fof-sydjylland/fyldte-chokolader": {
     "ogImage": "https://www.fof.dk/media/kmhneya4/fyldte-chokolader-2025-3.jpg?width=1200",
     "fetchedAt": "2026-10-20T13:05:13.030Z"
@@ -5294,10 +5294,6 @@
   "https://www.fof.dk/aftenskolen/fof-sydjylland/graesk-julemad": {
     "ogImage": "https://www.fof.dk/media/nxxn4exa/graesk-julemad-lachanodolmades-1.jpg?width=1200",
     "fetchedAt": "2026-10-20T13:05:13.862Z"
-  },
-  "https://www.fof.dk/aftenskolen/fof-sydjylland/graesk-mad": {
-    "ogImage": "https://www.fof.dk/media/3ixhx5c5/graesk-mad-gyros-og-tsatziki-1.jpg?width=1200",
-    "fetchedAt": "2026-10-20T13:05:09.458Z"
   },
   "https://www.fof.dk/aftenskolen/fof-sydjylland/groen-italiensk-madlavning": {
     "ogImage": "https://www.fof.dk/media/pbpd24x4/det-groenne-italienske-koekken-2.jpg?width=1200",
@@ -5355,25 +5351,9 @@
     "ogImage": "https://www.fof.dk/media/40up2lz4/klassisk-tegning-og-doodlerier-2.jpg?width=1200",
     "fetchedAt": "2026-10-20T13:05:10.199Z"
   },
-  "https://www.fof.dk/aftenskolen/fof-sydjylland/kom-glad-i-gang-saerligt-tilrettelagt": {
-    "ogImage": "https://www.fof.dk/media/cnymywuj/tryg-traening-260811.jpg?width=1200",
-    "fetchedAt": "2026-10-20T13:05:08.528Z"
-  },
-  "https://www.fof.dk/aftenskolen/fof-sydjylland/kom-glad-i-vand-saerligt-tilrettelagt": {
-    "ogImage": "https://www.fof.dk/media/5yghyzun/vandhold-13.jpg?width=1200",
-    "fetchedAt": "2026-10-20T13:05:08.636Z"
-  },
-  "https://www.fof.dk/aftenskolen/fof-sydjylland/kom-trygt-videre-saerligt-tilrettelagt": {
-    "ogImage": "https://www.fof.dk/media/cnymywuj/tryg-traening-260811.jpg?width=1200",
-    "fetchedAt": "2026-10-20T13:05:07.693Z"
-  },
   "https://www.fof.dk/aftenskolen/fof-sydjylland/kreativt-familie-vaerksted": {
     "ogImage": "https://www.fof.dk/media/qzyb4tfj/kreativt-familie-vaerksted-med-genbrug-1.jpg?width=1200",
     "fetchedAt": "2026-10-20T13:05:13.664Z"
-  },
-  "https://www.fof.dk/aftenskolen/fof-sydjylland/kunstig-intelligens": {
-    "ogImage": "https://www.fof.dk/media/bbyjwtnt/ai-kunstig-intelligens-1.jpg?width=1200",
-    "fetchedAt": "2026-10-20T13:05:08.255Z"
   },
   "https://www.fof.dk/aftenskolen/fof-sydjylland/leg-med-ler-intuitiv-formgivning": {
     "ogImage": "https://www.fof.dk/media/pzfijvbd/keramik-1.jpg?width=1200",
@@ -5427,10 +5407,6 @@
     "ogImage": "https://www.fof.dk/media/dhnbge4l/mette-grith-stage-og-jens-moeller-jensen-2026-1.jpg?width=1200",
     "fetchedAt": "2026-10-20T13:05:16.750Z"
   },
-  "https://www.fof.dk/aftenskolen/fof-sydjylland/mindfulness-og-blid-yoga": {
-    "ogImage": "https://www.fof.dk/media/nf5bw0qf/mindfulness-og-blid-yoga-1.jpg?width=1200",
-    "fetchedAt": "2026-10-20T13:05:07.727Z"
-  },
   "https://www.fof.dk/aftenskolen/fof-sydjylland/mirco-reimer-elster": {
     "ogImage": "https://www.fof.dk/media/cb2i0yns/mirco-reimer-elster-262.jpg?width=1200",
     "fetchedAt": "2026-10-20T13:05:13.474Z"
@@ -5446,10 +5422,6 @@
   "https://www.fof.dk/aftenskolen/fof-sydjylland/morten-korch-hh": {
     "ogImage": "https://www.fof.dk/media/quyf0ui4/morten-korch-262-hoestarbejde-ved-bro-skovlund-1930-1954.jpg?width=1200",
     "fetchedAt": "2026-10-20T13:05:14.340Z"
-  },
-  "https://www.fof.dk/aftenskolen/fof-sydjylland/musik-og-bevaegelse-med-baby-2-7-maaneder": {
-    "ogImage": "https://www.fof.dk/media/qyejkmp0/babytummel-231218-2131263.jpg?width=1200",
-    "fetchedAt": "2026-10-20T13:05:09.333Z"
   },
   "https://www.fof.dk/aftenskolen/fof-sydjylland/nysgerrig-paa-hjemmeundervisning": {
     "ogImage": "https://www.fof.dk/media/y5dptx5h/nysgerrig-paa-hjemmeundervisning-1.jpg?width=1200",
@@ -5495,10 +5467,6 @@
     "ogImage": "https://www.fof.dk/media/1jpe5csm/pre-balletskolen-2.jpg?width=1200",
     "fetchedAt": "2026-10-20T13:05:15.011Z"
   },
-  "https://www.fof.dk/aftenskolen/fof-sydjylland/qi-gong-aktiv-i-aftenskolen": {
-    "ogImage": "https://www.fof.dk/media/bxgjvv10/qi-gong-241006-1.jpg?width=1200",
-    "fetchedAt": "2026-10-20T13:05:07.782Z"
-  },
   "https://www.fof.dk/aftenskolen/fof-sydjylland/qi-gong-kinesisk-yoga": {
     "ogImage": "https://www.fof.dk/media/4nbisa0j/qi-gong-christina-haakansson-240305.jpg?width=1200",
     "fetchedAt": "2026-10-20T13:05:13.801Z"
@@ -5514,10 +5482,6 @@
   "https://www.fof.dk/aftenskolen/fof-sydjylland/sang-teknik": {
     "ogImage": "https://www.fof.dk/media/semli1zg/sang-teknik-2021-1.jpg?width=1200",
     "fetchedAt": "2026-10-20T13:05:09.234Z"
-  },
-  "https://www.fof.dk/aftenskolen/fof-sydjylland/slaegtsforskning": {
-    "ogImage": "https://www.fof.dk/media/manmnou2/slaegtsforskning-1.jpg?width=1200",
-    "fetchedAt": "2026-10-20T13:05:08.495Z"
   },
   "https://www.fof.dk/aftenskolen/fof-sydjylland/syhoejskole": {
     "ogImage": "https://www.fof.dk/media/fbapp40q/huset-i-hejls-4.jpg?width=1200",
@@ -5539,13 +5503,9 @@
     "ogImage": "https://www.fof.dk/media/qwbkxq31/yoga-balance-i-livet-260130.jpg?width=1200",
     "fetchedAt": "2026-10-20T13:05:08.023Z"
   },
-  "https://www.fof.dk/aftenskolen/fof-sydjylland/yoga-balance-i-livet-saerligt-tilrettelagt": {
-    "ogImage": "https://www.fof.dk/media/qwbkxq31/yoga-balance-i-livet-260130.jpg?width=1200",
-    "fetchedAt": "2026-10-20T13:05:07.790Z"
-  },
-  "https://www.fof.dk/aftenskolen/fof-sydjylland/yoga-for-demensramte": {
-    "ogImage": "https://www.fof.dk/media/fgajcgv0/yoga-1.jpg?width=1200",
-    "fetchedAt": "2026-10-20T13:05:07.789Z"
+  "https://www.fof.dk/aftenskolen/fof-sydjylland/yoga-nana": {
+    "ogImage": "https://www.fof.dk/media/gkhnnies/yoga-63089223.jpg?width=1200",
+    "fetchedAt": "2026-10-22T13:59:09.757Z"
   },
   "https://www.fof.dk/aftenskolen/fof-sydjylland/yoga-retreat-i-toendermarsken": {
     "ogImage": "https://www.fof.dk/media/npmd1yez/bjerremark-hotel-1.jpg?width=1200",
@@ -5695,9 +5655,9 @@
     "ogImage": "https://www.fof.dk/media/awzfjg13/proevetimer-72.jpg?width=1200",
     "fetchedAt": "2026-10-20T13:05:22.050Z"
   },
-  "https://www.fof.dk/aftenskolen/fof-sydoestjylland/efterfoedselstraening": {
-    "ogImage": "https://www.fof.dk/media/mshjgdcx/efterfoedsel-fof-sydoestjylland.jpg?width=1200",
-    "fetchedAt": "2026-10-20T13:05:20.528Z"
+  "https://www.fof.dk/aftenskolen/fof-sydoestjylland/efterfoedselstraening-med-yoga": {
+    "ogImage": "https://www.fof.dk/media/lhtblvhp/efterfoedselstraening-yoga.jpg?width=1200",
+    "fetchedAt": "2026-10-22T13:59:11.650Z"
   },
   "https://www.fof.dk/aftenskolen/fof-sydoestjylland/eksperimenterende-akvarel": {
     "ogImage": "https://www.fof.dk/media/f2gfqfd0/eksperimenterende-akvarel-1.jpg?width=1200",
@@ -5751,6 +5711,18 @@
     "ogImage": "https://www.fof.dk/media/iemjgpx3/udvidet-sangteknik.jpg?width=1200",
     "fetchedAt": "2026-10-21T20:16:15.326Z"
   },
+  "https://www.fof.dk/aftenskolen/fof-sydoestjylland/i-agatha-christies-fodspor": {
+    "ogImage": "https://www.fof.dk/media/ub4lxdaf/agatha-christie.jpg?width=1200",
+    "fetchedAt": "2026-10-22T13:59:11.613Z"
+  },
+  "https://www.fof.dk/aftenskolen/fof-sydoestjylland/italiensk-b1-oevet": {
+    "ogImage": "https://www.fof.dk/media/vl0d4oxv/italiensk-b1.jpg?width=1200",
+    "fetchedAt": "2026-10-22T13:59:11.643Z"
+  },
+  "https://www.fof.dk/aftenskolen/fof-sydoestjylland/italiensk-nybegynder-a1": {
+    "ogImage": "https://www.fof.dk/media/jj2pk11t/italiensk-a1plus-fof-sydoestjylland-3.jpg?width=1200",
+    "fetchedAt": "2026-10-22T13:59:11.819Z"
+  },
   "https://www.fof.dk/aftenskolen/fof-sydoestjylland/jette-torp-musikalsk-foredrag-og-der-maa-strikkes": {
     "ogImage": "https://www.fof.dk/media/gpupuorf/proevetimer-70.jpg?width=1200",
     "fetchedAt": "2026-10-20T13:05:22.571Z"
@@ -5791,6 +5763,14 @@
     "ogImage": "https://www.fof.dk/media/c3mmck20/laer-at-skrive-en-novelle.jpg?width=1200",
     "fetchedAt": "2026-10-20T13:05:20.705Z"
   },
+  "https://www.fof.dk/aftenskolen/fof-sydoestjylland/laer-at-tegne": {
+    "ogImage": "https://www.fof.dk/media/y5fjznip/laer-at-tegne-1.jpg?width=1200",
+    "fetchedAt": "2026-10-22T13:59:11.744Z"
+  },
+  "https://www.fof.dk/aftenskolen/fof-sydoestjylland/lav-et-flot-ophaeng-i-macrame": {
+    "ogImage": "https://www.fof.dk/media/i0gjz0qk/macrame.jpg?width=1200",
+    "fetchedAt": "2026-10-22T13:59:12.065Z"
+  },
   "https://www.fof.dk/aftenskolen/fof-sydoestjylland/linoliumstryk-faengslet": {
     "ogImage": "https://www.fof.dk/media/22gbp5bk/linoleumstryk-fof.jpg?width=1200",
     "fetchedAt": "2026-10-20T13:05:23.824Z"
@@ -5810,10 +5790,6 @@
   "https://www.fof.dk/aftenskolen/fof-sydoestjylland/mavedans": {
     "ogImage": "https://www.fof.dk/media/54rc215b/mavedans-fof-sydoestjylland.jpg?width=1200",
     "fetchedAt": "2026-10-20T13:05:20.045Z"
-  },
-  "https://www.fof.dk/aftenskolen/fof-sydoestjylland/mediyoga": {
-    "ogImage": "https://www.fof.dk/media/fknaupqn/yin-yoga.jpg?width=1200",
-    "fetchedAt": "2026-10-20T13:05:19.550Z"
   },
   "https://www.fof.dk/aftenskolen/fof-sydoestjylland/mennesker-er-bedre-end-deres-rygte": {
     "ogImage": "https://www.fof.dk/media/aleblj0t/svend-brinkmann.jpg?width=1200",
@@ -5875,10 +5851,6 @@
     "ogImage": "https://www.fof.dk/media/31slzjok/sang-og-stemmetraening.jpg?width=1200",
     "fetchedAt": "2026-10-21T20:16:15.346Z"
   },
-  "https://www.fof.dk/aftenskolen/fof-sydoestjylland/sangaftner-med-sascha-dupont": {
-    "ogImage": "https://www.fof.dk/media/geuaqjol/proevetimer-65.jpg?width=1200",
-    "fetchedAt": "2026-10-20T13:05:21.354Z"
-  },
   "https://www.fof.dk/aftenskolen/fof-sydoestjylland/spoerg-mig": {
     "ogImage": "https://www.fof.dk/media/qqypkn4c/spoerg-mig-foredrag.jpg?width=1200",
     "fetchedAt": "2026-10-20T13:05:22.752Z"
@@ -5899,10 +5871,6 @@
     "ogImage": "https://www.fof.dk/media/x0bjovc4/tarm-og-psyke.jpg?width=1200",
     "fetchedAt": "2026-10-20T13:05:23.346Z"
   },
-  "https://www.fof.dk/aftenskolen/fof-sydoestjylland/thaimad": {
-    "ogImage": "https://www.fof.dk/media/lpbjivjj/thaimad.jpg?width=1200",
-    "fetchedAt": "2026-10-20T13:05:19.396Z"
-  },
   "https://www.fof.dk/aftenskolen/fof-sydoestjylland/twist-shout": {
     "ogImage": "https://www.fof.dk/media/0pjdoq1o/kor-sang.jpg?width=1200",
     "fetchedAt": "2026-10-20T13:05:20.033Z"
@@ -5915,6 +5883,10 @@
     "ogImage": "https://www.fof.dk/media/31slzjok/sang-og-stemmetraening.jpg?width=1200",
     "fetchedAt": "2026-10-20T13:05:20.829Z"
   },
+  "https://www.fof.dk/aftenskolen/fof-sydoestjylland/vhf-dsc-skibsradio": {
+    "ogImage": "https://www.fof.dk/media/agqlgv0n/skibsradio.jpg?width=1200",
+    "fetchedAt": "2026-10-22T13:59:11.874Z"
+  },
   "https://www.fof.dk/aftenskolen/fof-sydoestjylland/voksen-og-barn-yoga": {
     "ogImage": "https://www.fof.dk/media/nzgbuadx/boerneyoga-aftenskolen-sydoestjylland.jpg?width=1200",
     "fetchedAt": "2026-10-20T13:05:19.458Z"
@@ -5926,10 +5898,6 @@
   "https://www.fof.dk/aftenskolen/fof-sydoestjylland/yoga-for-alle": {
     "ogImage": "https://www.fof.dk/media/jthbhisv/yoga-for-alle-fof-sydoestjylland.jpg?width=1200",
     "fetchedAt": "2026-10-20T13:05:19.491Z"
-  },
-  "https://www.fof.dk/aftenskolen/fof-sydoestjylland/yoga-for-begyndere-og-letoevede": {
-    "ogImage": "https://www.fof.dk/media/tmtlf0rx/yoga-for-begynder-og-letoevede.jpg?width=1200",
-    "fetchedAt": "2026-10-20T13:05:19.319Z"
   },
   "https://www.fof.dk/aftenskolen/fof-sydoestjylland/yoga-i-et-roligt-tempo-anne-evermann": {
     "ogImage": "https://www.fof.dk/media/diietgw5/yoga-i-et-roligt-tempo.jpg?width=1200",
