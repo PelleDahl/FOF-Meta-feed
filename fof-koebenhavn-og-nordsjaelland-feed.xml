@@ -63,6 +63,8 @@
       <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
       <g:custom_label_2>Aktiviteter med baby</g:custom_label_2>
       <g:start_date>2026-10-23T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Korte kurser</g:custom_label_3>
+      <g:internal_label>['Korte kurser']</g:internal_label>
     </item>
 <item>
       <g:id>26230333</g:id>
@@ -554,25 +556,6 @@
       <g:internal_label>['Foredrag']</g:internal_label>
     </item>
 <item>
-      <g:id>26220845</g:id>
-      <g:title><![CDATA[Børnemotorik og tumlingeleg 6-8 mdr.]]></g:title>
-      <g:description><![CDATA[Til børnemotorik og tumlingeleg hos FOF København og Nordsjælland leger, synger og bevæger vi os på børnenes præmisser og styrker motorik og nærvær.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/boernemotorik-og-tumlingeleg?holdnr=26220845</g:link>
-      <g:image_link>https://www.fof.dk/media/mwtpa2lu/tumlingeleg-fofkn-aftenskolen-gravid-og-barsel-7.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>600.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF København og Nordsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Aktiviteter med baby</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
-      <g:custom_label_2>Aktiviteter med baby</g:custom_label_2>
-      <g:start_date>2026-10-27T00:00:00.000Z</g:start_date>
-    </item>
-<item>
       <g:id>26230961</g:id>
       <g:title><![CDATA[Efterfødselstræning på reformer]]></g:title>
       <g:description><![CDATA[Genopbyg kroppen efter fødslen med efterfødselstræning på reformer – med baby på sidelinjen. Styrk bækkenbund, mave og ryg et roligt tempo. Læs mere her.]]></g:description>
@@ -589,6 +572,25 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
       <g:custom_label_2>Efterfødselstræning</g:custom_label_2>
+      <g:start_date>2026-10-27T00:00:00.000Z</g:start_date>
+    </item>
+<item>
+      <g:id>26220845</g:id>
+      <g:title><![CDATA[Børnemotorik og tumlingeleg 6-8 mdr.]]></g:title>
+      <g:description><![CDATA[Til børnemotorik og tumlingeleg hos FOF København og Nordsjælland leger, synger og bevæger vi os på børnenes præmisser og styrker motorik og nærvær.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/boernemotorik-og-tumlingeleg?holdnr=26220845</g:link>
+      <g:image_link>https://www.fof.dk/media/mwtpa2lu/tumlingeleg-fofkn-aftenskolen-gravid-og-barsel-7.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>600.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Aktiviteter med baby</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
+      <g:custom_label_2>Aktiviteter med baby</g:custom_label_2>
       <g:start_date>2026-10-27T00:00:00.000Z</g:start_date>
     </item>
 <item>
@@ -809,27 +811,6 @@
       <g:start_date>2026-10-29T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Frederiksberg - foredrag, Debat</g:custom_label_3>
       <g:internal_label>['Frederiksberg - foredrag','Debat']</g:internal_label>
-    </item>
-<item>
-      <g:id>26294011</g:id>
-      <g:title><![CDATA[Madlavning - unge i Rudersdal]]></g:title>
-      <g:description><![CDATA[Lær at lave sund og billig mad sammen med andre unge. Kurset er en del af UngSkaber – et forløb for unge i Rudersdal med tilknytning til Ungeenheden. Læs mere.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/madlavning-unge-i-rudersdal?holdnr=26294011</g:link>
-      <g:image_link>https://www.fof.dk/media/i0jhivpx/madlavning-rudersdal.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>200.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF København og Nordsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type></g:product_type>
-      <g:custom_label_0></g:custom_label_0>
-      <g:custom_label_1></g:custom_label_1>
-      <g:custom_label_2></g:custom_label_2>
-      <g:start_date>2026-10-29T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>UngSkaber Rudersdal</g:custom_label_3>
-      <g:internal_label>['UngSkaber Rudersdal']</g:internal_label>
     </item>
 <item>
       <g:id>26200019</g:id>
@@ -1674,27 +1655,6 @@
       <g:start_date>2026-11-02T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Vinsmagning</g:custom_label_3>
       <g:internal_label>['Vinsmagning']</g:internal_label>
-    </item>
-<item>
-      <g:id>26294014</g:id>
-      <g:title><![CDATA[Udeliv - unge i Rudersdal]]></g:title>
-      <g:description><![CDATA[Lær færdigheder, der gør det nemmere at tage på tur i naturen og få praktisk erfaring med bl.a. bål og lejrliv. For unge i Rudersdal Kommune. Læs mere her.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/udeliv?holdnr=26294014</g:link>
-      <g:image_link>https://www.fof.dk/media/fpwe3lds/frilufts-og-lejrliv-rudersdal-1.png?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>200.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF København og Nordsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type></g:product_type>
-      <g:custom_label_0></g:custom_label_0>
-      <g:custom_label_1></g:custom_label_1>
-      <g:custom_label_2></g:custom_label_2>
-      <g:start_date>2026-11-02T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>UngSkaber Rudersdal</g:custom_label_3>
-      <g:internal_label>['UngSkaber Rudersdal']</g:internal_label>
     </item>
 <item>
       <g:id>26251243</g:id>
@@ -3773,25 +3733,6 @@
       <g:internal_label>['Korte kurser']</g:internal_label>
     </item>
 <item>
-      <g:id>26270032</g:id>
-      <g:title><![CDATA[Croquis – weekend]]></g:title>
-      <g:description><![CDATA[Lær croquistegning med levende model på croquiskursus hos FOF København og Nordsjælland. Få styr på proportioner og udvikl dit eget tegneudtryk. Læs mere her.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/croquis?holdnr=26270032</g:link>
-      <g:image_link>https://www.fof.dk/media/tfwpzovd/croquis-fofkn-aftenskolen-kreative-kurser-1.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>810.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF København og Nordsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Kreative kurser &gt; Tegnekurser</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Kreative kurser</g:custom_label_1>
-      <g:custom_label_2>Tegnekurser</g:custom_label_2>
-      <g:start_date>2026-11-14T00:00:00.000Z</g:start_date>
-    </item>
-<item>
       <g:id>26220931</g:id>
       <g:title><![CDATA[Qigong og bindevæv – workshop]]></g:title>
       <g:description><![CDATA[Oplev en blid workshop med qigong og bindevævsarbejde. Langsomme øvelser og åndedræt skaber ro, nærvær og balance i hele kroppen.]]></g:description>
@@ -4436,6 +4377,27 @@
       <g:start_date>2026-11-19T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Ture og rundvisninger</g:custom_label_3>
       <g:internal_label>['Ture og rundvisninger']</g:internal_label>
+    </item>
+<item>
+      <g:id>26294011</g:id>
+      <g:title><![CDATA[Madlavning - unge i Rudersdal]]></g:title>
+      <g:description><![CDATA[Lær at lave sund og billig mad sammen med andre unge. Kurset er en del af UngSkaber – et forløb for unge i Rudersdal med tilknytning til Ungeenheden. Læs mere.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/madlavning-unge-i-rudersdal?holdnr=26294011</g:link>
+      <g:image_link>https://www.fof.dk/media/i0jhivpx/madlavning-rudersdal.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>200.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type></g:product_type>
+      <g:custom_label_0></g:custom_label_0>
+      <g:custom_label_1></g:custom_label_1>
+      <g:custom_label_2></g:custom_label_2>
+      <g:start_date>2026-11-19T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>UngSkaber Rudersdal</g:custom_label_3>
+      <g:internal_label>['UngSkaber Rudersdal']</g:internal_label>
     </item>
 <item>
       <g:id>26208037</g:id>
@@ -5248,6 +5210,27 @@
       <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
       <g:custom_label_2>Motion for gravide</g:custom_label_2>
       <g:start_date>2026-11-23T00:00:00.000Z</g:start_date>
+    </item>
+<item>
+      <g:id>26294014</g:id>
+      <g:title><![CDATA[Udeliv - unge i Rudersdal]]></g:title>
+      <g:description><![CDATA[Lær færdigheder, der gør det nemmere at tage på tur i naturen og få praktisk erfaring med bl.a. bål og lejrliv. For unge i Rudersdal Kommune. Læs mere her.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/udeliv?holdnr=26294014</g:link>
+      <g:image_link>https://www.fof.dk/media/fpwe3lds/frilufts-og-lejrliv-rudersdal-1.png?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>200.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type></g:product_type>
+      <g:custom_label_0></g:custom_label_0>
+      <g:custom_label_1></g:custom_label_1>
+      <g:custom_label_2></g:custom_label_2>
+      <g:start_date>2026-11-23T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>UngSkaber Rudersdal</g:custom_label_3>
+      <g:internal_label>['UngSkaber Rudersdal']</g:internal_label>
     </item>
 <item>
       <g:id>26240423</g:id>
@@ -6373,6 +6356,8 @@
       <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
       <g:custom_label_2>Bagning og søde sager</g:custom_label_2>
       <g:start_date>2026-12-02T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Ferie - Jul - Voksne, JUL OG NYTÅR, Korte kurser</g:custom_label_3>
+      <g:internal_label>['Ferie - Jul - Voksne','JUL OG NYTÅR','Korte kurser']</g:internal_label>
     </item>
 <item>
       <g:id>26218039</g:id>
@@ -7435,25 +7420,6 @@
       <g:start_date>2027-01-04T00:00:00.000Z</g:start_date>
     </item>
 <item>
-      <g:id>27151911</g:id>
-      <g:title><![CDATA[Sang – klassisk og rytmisk]]></g:title>
-      <g:description><![CDATA[Udvikl din stemme med sangundervisning i klassisk og rytmisk sang hos FOF København og Nordsjælland. Små hold med plads til dine ønsker. Læs mere her.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/sang-klassisk-og-rytmisk?holdnr=27151911</g:link>
-      <g:image_link>https://www.fof.dk/media/qbrbhxb1/kor-fof-aftenskolen-06.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>600.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF København og Nordsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Musik og sang &gt; Sang og stemmetræning</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Musik og sang</g:custom_label_1>
-      <g:custom_label_2>Sang og stemmetræning</g:custom_label_2>
-      <g:start_date>2027-01-04T00:00:00.000Z</g:start_date>
-    </item>
-<item>
       <g:id>27120849</g:id>
       <g:title><![CDATA[Babysvømning 6-12 mdr.]]></g:title>
       <g:description><![CDATA[Gå til babysvømning hos FOF København og Nordsjælland og styrk dit barns motorik, balance og sanser i varmt vand. Læs mere og tilmeld dig her.]]></g:description>
@@ -7470,6 +7436,25 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
       <g:custom_label_2>Aktiviteter med baby</g:custom_label_2>
+      <g:start_date>2027-01-04T00:00:00.000Z</g:start_date>
+    </item>
+<item>
+      <g:id>27151911</g:id>
+      <g:title><![CDATA[Sang – klassisk og rytmisk]]></g:title>
+      <g:description><![CDATA[Udvikl din stemme med sangundervisning i klassisk og rytmisk sang hos FOF København og Nordsjælland. Små hold med plads til dine ønsker. Læs mere her.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/sang-klassisk-og-rytmisk?holdnr=27151911</g:link>
+      <g:image_link>https://www.fof.dk/media/qbrbhxb1/kor-fof-aftenskolen-06.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>600.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Musik og sang &gt; Sang og stemmetræning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Musik og sang</g:custom_label_1>
+      <g:custom_label_2>Sang og stemmetræning</g:custom_label_2>
       <g:start_date>2027-01-04T00:00:00.000Z</g:start_date>
     </item>
 <item>
@@ -7682,25 +7667,6 @@
       <g:start_date>2027-01-05T00:00:00.000Z</g:start_date>
     </item>
 <item>
-      <g:id>27151204</g:id>
-      <g:title><![CDATA[Sang for brummere – daghold ]]></g:title>
-      <g:description><![CDATA[Få sangglæde og tryghed i stemmen gennem enkle øvelser og legende træning. Ingen erfaring kræves. Tilmeld dig hos FOF København og Nordsjælland.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/sang-for-brummere?holdnr=27151204</g:link>
-      <g:image_link>https://www.fof.dk/media/qdfjurvy/korsang-fofkn-aftenskolen-musik-og-sang-km-img-6139.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>600.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF København og Nordsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Musik og sang &gt; Sang og stemmetræning</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Musik og sang</g:custom_label_1>
-      <g:custom_label_2>Sang og stemmetræning</g:custom_label_2>
-      <g:start_date>2027-01-05T00:00:00.000Z</g:start_date>
-    </item>
-<item>
       <g:id>27120845</g:id>
       <g:title><![CDATA[Børnemotorik og tumlingeleg 6-8 mdr.]]></g:title>
       <g:description><![CDATA[Til børnemotorik og tumlingeleg hos FOF København og Nordsjælland leger, synger og bevæger vi os på børnenes præmisser og styrker motorik og nærvær.]]></g:description>
@@ -7717,6 +7683,25 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
       <g:custom_label_2>Aktiviteter med baby</g:custom_label_2>
+      <g:start_date>2027-01-05T00:00:00.000Z</g:start_date>
+    </item>
+<item>
+      <g:id>27151204</g:id>
+      <g:title><![CDATA[Sang for brummere – daghold ]]></g:title>
+      <g:description><![CDATA[Få sangglæde og tryghed i stemmen gennem enkle øvelser og legende træning. Ingen erfaring kræves. Tilmeld dig hos FOF København og Nordsjælland.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/sang-for-brummere?holdnr=27151204</g:link>
+      <g:image_link>https://www.fof.dk/media/qdfjurvy/korsang-fofkn-aftenskolen-musik-og-sang-km-img-6139.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>600.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Musik og sang &gt; Sang og stemmetræning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Musik og sang</g:custom_label_1>
+      <g:custom_label_2>Sang og stemmetræning</g:custom_label_2>
       <g:start_date>2027-01-05T00:00:00.000Z</g:start_date>
     </item>
 <item>
@@ -10963,27 +10948,6 @@
       <g:start_date>2027-03-08T00:00:00.000Z</g:start_date>
     </item>
 <item>
-      <g:id>27100026</g:id>
-      <g:title><![CDATA[Østrogen: alt, du skal vide om overgangsalder og hormoner ]]></g:title>
-      <g:description><![CDATA[Bliv klogere på overgangsalder, østrogen, symptomer og hormonbehandling med læge Marie Foegh, forfatteren bag bestselleren ØSTROGEN | FOF]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/oestrogen-alt-du-skal-vide-om-overgangsalder-og-hormoner?holdnr=27100026</g:link>
-      <g:image_link>https://www.fof.dk/media/dxjoldzj/dpr-marie-foegh-2025-055web.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>180.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF København og Nordsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Foredrag, debat og højskoler &gt; Sundhed og eksistens</g:product_type>
-      <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
-      <g:custom_label_1>Sundhed og eksistens</g:custom_label_1>
-      <g:custom_label_2></g:custom_label_2>
-      <g:start_date>2027-03-09T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Debat</g:custom_label_3>
-      <g:internal_label>['Debat']</g:internal_label>
-    </item>
-<item>
       <g:id>27113517</g:id>
       <g:title><![CDATA[Alting begynder med en sang ]]></g:title>
       <g:description><![CDATA[Oplev 100 års arbejderhistorie gennem sang og fællesskab på Arbejdermuseet. Hør om Arbejdersangbogen, kendte arbejdersange og deres betydning | FOF]]></g:description>
@@ -11003,6 +10967,27 @@
       <g:start_date>2027-03-09T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Ture og rundvisninger</g:custom_label_3>
       <g:internal_label>['Ture og rundvisninger']</g:internal_label>
+    </item>
+<item>
+      <g:id>27100026</g:id>
+      <g:title><![CDATA[Østrogen: alt, du skal vide om overgangsalder og hormoner ]]></g:title>
+      <g:description><![CDATA[Bliv klogere på overgangsalder, østrogen, symptomer og hormonbehandling med læge Marie Foegh, forfatteren bag bestselleren ØSTROGEN | FOF]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/oestrogen-alt-du-skal-vide-om-overgangsalder-og-hormoner?holdnr=27100026</g:link>
+      <g:image_link>https://www.fof.dk/media/dxjoldzj/dpr-marie-foegh-2025-055web.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>180.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Foredrag, debat og højskoler &gt; Sundhed og eksistens</g:product_type>
+      <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
+      <g:custom_label_1>Sundhed og eksistens</g:custom_label_1>
+      <g:custom_label_2></g:custom_label_2>
+      <g:start_date>2027-03-09T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Debat</g:custom_label_3>
+      <g:internal_label>['Debat']</g:internal_label>
     </item>
 <item>
       <g:id>27120841</g:id>
@@ -11651,27 +11636,6 @@
       <g:custom_label_1>Musik og sang</g:custom_label_1>
       <g:custom_label_2>Musikteori og -produktion</g:custom_label_2>
       <g:start_date>2027-04-03T00:00:00.000Z</g:start_date>
-    </item>
-<item>
-      <g:id>27113523</g:id>
-      <g:title><![CDATA[Børsen – handel, historie og genopbygning]]></g:title>
-      <g:description><![CDATA[ Oplev Børsen og bliv klogere på den ikoniske bygnings historie og genopbygning. Turen inkluderer guidet rundvisning og udstillingsbesøg. Tilmeld dig her.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/boersen-handel-historie-og-genopbygning?holdnr=27113523</g:link>
-      <g:image_link>https://www.fof.dk/media/teajaz0z/boersen_marianne-bentzen_04.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>200.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF København og Nordsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Rejser, ture og rundvisninger &gt; Rundvisninger</g:product_type>
-      <g:custom_label_0>Rejser, ture og rundvisninger</g:custom_label_0>
-      <g:custom_label_1>Rundvisninger</g:custom_label_1>
-      <g:custom_label_2></g:custom_label_2>
-      <g:start_date>2027-04-03T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Ture og rundvisninger</g:custom_label_3>
-      <g:internal_label>['Ture og rundvisninger']</g:internal_label>
     </item>
 <item>
       <g:id>27150878</g:id>
@@ -13045,27 +13009,6 @@
       <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
       <g:custom_label_2>Aktiviteter med baby</g:custom_label_2>
       <g:start_date>2027-05-11T00:00:00.000Z</g:start_date>
-    </item>
-<item>
-      <g:id>27113524</g:id>
-      <g:title><![CDATA[Børsen – handel, historie og genopbygning]]></g:title>
-      <g:description><![CDATA[ Oplev Børsen og bliv klogere på den ikoniske bygnings historie og genopbygning. Turen inkluderer guidet rundvisning og udstillingsbesøg. Tilmeld dig her.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/boersen-handel-historie-og-genopbygning?holdnr=27113524</g:link>
-      <g:image_link>https://www.fof.dk/media/teajaz0z/boersen_marianne-bentzen_04.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>200.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF København og Nordsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Rejser, ture og rundvisninger &gt; Rundvisninger</g:product_type>
-      <g:custom_label_0>Rejser, ture og rundvisninger</g:custom_label_0>
-      <g:custom_label_1>Rundvisninger</g:custom_label_1>
-      <g:custom_label_2></g:custom_label_2>
-      <g:start_date>2027-05-11T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Ture og rundvisninger</g:custom_label_3>
-      <g:internal_label>['Ture og rundvisninger']</g:internal_label>
     </item>
 <item>
       <g:id>27120985</g:id>
