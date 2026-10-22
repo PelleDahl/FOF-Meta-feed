@@ -1631,6 +1631,10 @@
     "ogImage": "https://www.fof.dk/media/ntwdoa0e/sangundervisning-fofkn-aftenskolen-musik-og-sang-stock-230813593.jpg?width=1200",
     "fetchedAt": "2026-10-20T13:06:21.086Z"
   },
+  "https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/croquis": {
+    "ogImage": "https://www.fof.dk/media/tfwpzovd/croquis-fofkn-aftenskolen-kreative-kurser-1.jpg?width=1200",
+    "fetchedAt": "2026-10-22T23:29:04.629Z"
+  },
   "https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/croquis-og-portraet": {
     "ogImage": "https://www.fof.dk/media/h12hkk5n/croquis-tegning-fofkn-aftenskolen-kreative-kurser-stock16645033.jpg?width=1200",
     "fetchedAt": "2026-10-20T13:06:48.560Z"
@@ -1682,10 +1686,6 @@
   "https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/det-graeske-koekkens-skjulte-skatte": {
     "ogImage": "https://www.fof.dk/media/wbgbo2ca/mad-europa-det-graeske-koekken-fofkn-aftenskolen-madlavning-stock.jpg?width=1200",
     "fetchedAt": "2026-10-20T13:06:33.881Z"
-  },
-  "https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/det-kinesiske-koekken-voksne-og-boern-fra-10-aar": {
-    "ogImage": "https://www.fof.dk/media/xqjfrvvj/kinesisk-mad-fofkn-aftenskolen-familie-1.jpg?width=1200",
-    "fetchedAt": "2026-10-20T13:06:22.770Z"
   },
   "https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/det-uforglemmelige-show": {
     "ogImage": "https://www.fof.dk/media/rcjh2xhe/niels-kroejgaard-2.jpg?width=1200",
@@ -2490,6 +2490,10 @@
   "https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/morten-kirckhoff-om-at-leve-modigt": {
     "ogImage": "https://www.fof.dk/media/1irnurn2/morten-kirckhoff.jpg?width=1200",
     "fetchedAt": "2026-10-20T13:06:44.841Z"
+  },
+  "https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/motion-i-vand": {
+    "ogImage": "https://www.fof.dk/media/xrglampy/vandgymnastik-fofkn-aftenskolen-gravid-og-barsel-km-12.jpg?width=1200",
+    "fetchedAt": "2026-10-22T23:29:05.564Z"
   },
   "https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/mysteriet-om-den-sovende-hjerne": {
     "ogImage": "https://www.fof.dk/media/m0fbysi3/9913283.webp?width=1200",
