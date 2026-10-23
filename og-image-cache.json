@@ -743,10 +743,6 @@
     "ogImage": "https://www.fof.dk/media/fqdbvtgd/anne-haubek-thomas-ubbesen_2_1200x1200-fof-aarhus.jpg?width=1200",
     "fetchedAt": "2026-10-20T13:06:04.600Z"
   },
-  "https://www.fof.dk/aftenskolen/fof-aarhus/oplev-med-graenseforeningen-ude-for-uden": {
-    "ogImage": "https://www.fof.dk/media/turbitea/niels-krause-pressefoto-credit-thomas-a-fof-aftenskolen-aarhus.jpg?width=1200",
-    "fetchedAt": "2026-10-20T13:05:50.976Z"
-  },
   "https://www.fof.dk/aftenskolen/fof-aarhus/pernille-wahlgren-og-kasper-birk-invester-dig-fri": {
     "ogImage": "https://www.fof.dk/media/muxhc5v0/kasper_birk_pernille_wahlgren_fotokredit_mew_foredrag_fof_aarhus_1200x1200.jpg?width=1200",
     "fetchedAt": "2026-10-20T13:06:03.029Z"
@@ -1346,10 +1342,6 @@
   "https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/24-arkitekturperler-paa-2-timer-havnerundfart": {
     "ogImage": "https://www.fof.dk/media/tmshanwl/kanalrundfart-fofkn-aftenskolen-ture-ns.jpg?width=1200",
     "fetchedAt": "2026-10-20T13:07:01.765Z"
-  },
-  "https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/3d-smykkedesign-og-stoebning": {
-    "ogImage": "https://www.fof.dk/media/0z2bzyp5/smykkekursus-fofkn-aftenskolen-kreative-kurser-5016-1.jpg?width=1200",
-    "fetchedAt": "2026-10-20T20:04:05.976Z"
   },
   "https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/aandedraettet-din-sundhed-workshop": {
     "ogImage": "https://www.fof.dk/media/kivj3zvb/smerteha-ndtering-fofkn-aftenskolen-motion-og-sundhed-ns-1.jpg?width=1200",
@@ -5567,10 +5559,6 @@
     "ogImage": "https://www.fof.dk/media/xxmddnad/slow-2000x1000.jpg?width=1200",
     "fetchedAt": "2026-10-20T13:05:22.766Z"
   },
-  "https://www.fof.dk/aftenskolen/fof-sydoestjylland/aerial-yoga-workshop-mary": {
-    "ogImage": "https://www.fof.dk/media/3ewffzrd/aerial-yoga-3-fof-sydoestjylland.jpg?width=1200",
-    "fetchedAt": "2026-10-20T13:05:23.299Z"
-  },
   "https://www.fof.dk/aftenskolen/fof-sydoestjylland/ai-skabt-fake-news-hvordan-undgaar-vi-at-blive-snydt": {
     "ogImage": "https://www.fof.dk/media/j23njgio/proevetimer-66.jpg?width=1200",
     "fetchedAt": "2026-10-20T13:05:24.974Z"
@@ -5858,6 +5846,10 @@
   "https://www.fof.dk/aftenskolen/fof-sydoestjylland/winter-walk": {
     "ogImage": "https://www.fof.dk/media/ipdbzp4p/winther-walk-1.jpg?width=1200",
     "fetchedAt": "2026-10-20T13:05:23.363Z"
+  },
+  "https://www.fof.dk/aftenskolen/fof-sydoestjylland/workshop-aerial-yoga-og-akrobatik": {
+    "ogImage": "https://www.fof.dk/media/3ewffzrd/aerial-yoga-3-fof-sydoestjylland.jpg?width=1200",
+    "fetchedAt": "2026-10-23T08:09:10.381Z"
   },
   "https://www.fof.dk/aftenskolen/fof-sydoestjylland/yoga-for-alle": {
     "ogImage": "https://www.fof.dk/media/jthbhisv/yoga-for-alle-fof-sydoestjylland.jpg?width=1200",

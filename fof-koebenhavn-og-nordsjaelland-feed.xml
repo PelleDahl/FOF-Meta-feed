@@ -126,8 +126,9 @@
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Yoga</g:custom_label_2>
       <g:start_date>2026-10-25T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>EFTERÅR, Korte kurser</g:custom_label_3>
-      <g:internal_label>['EFTERÅR','Korte kurser']</g:internal_label>
+      <g:custom_label_3>Efterår</g:custom_label_3>
+      <g:custom_label_4>Korte kurser</g:custom_label_4>
+      <g:internal_label>['Efterår','Korte kurser']</g:internal_label>
     </item>
 <item>
       <g:id>26272280</g:id>
@@ -411,7 +412,8 @@
       <g:custom_label_1>Samfund og historie</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
       <g:start_date>2026-10-27T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Aftenskolernes Hus, Foredrag</g:custom_label_3>
+      <g:custom_label_3>Aftenskolernes Hus</g:custom_label_3>
+      <g:custom_label_4>Foredrag</g:custom_label_4>
       <g:internal_label>['Aftenskolernes Hus','Foredrag']</g:internal_label>
     </item>
 <item>
@@ -668,7 +670,8 @@
       <g:custom_label_1>Musik og koncerter</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
       <g:start_date>2026-10-29T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Aftenskolernes Hus, Debat</g:custom_label_3>
+      <g:custom_label_3>Aftenskolernes Hus</g:custom_label_3>
+      <g:custom_label_4>Debat</g:custom_label_4>
       <g:internal_label>['Aftenskolernes Hus','Debat']</g:internal_label>
     </item>
 <item>
@@ -710,8 +713,9 @@
       <g:custom_label_1>True crime</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
       <g:start_date>2026-10-29T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Frederiksberg - foredrag, Debat</g:custom_label_3>
-      <g:internal_label>['Frederiksberg - foredrag','Debat']</g:internal_label>
+      <g:custom_label_3>Frederiksberg</g:custom_label_3>
+      <g:custom_label_4>Debat</g:custom_label_4>
+      <g:internal_label>['Frederiksberg','Debat']</g:internal_label>
     </item>
 <item>
       <g:id>26200019</g:id>
@@ -771,7 +775,8 @@
       <g:custom_label_1>Rundvisninger</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
       <g:start_date>2026-10-29T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Ture og rundvisninger, Historien – bid for bid</g:custom_label_3>
+      <g:custom_label_3>Ture og rundvisninger</g:custom_label_3>
+      <g:custom_label_4>Historien – bid for bid</g:custom_label_4>
       <g:internal_label>['Ture og rundvisninger','Historien – bid for bid']</g:internal_label>
     </item>
 <item>
@@ -813,8 +818,8 @@
       <g:custom_label_1>Musik og sang</g:custom_label_1>
       <g:custom_label_2>Sang og stemmetræning</g:custom_label_2>
       <g:start_date>2026-10-29T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>In English - Music, IN ENGLISH</g:custom_label_3>
-      <g:internal_label>['In English - Music','IN ENGLISH']</g:internal_label>
+      <g:custom_label_3>In English</g:custom_label_3>
+      <g:internal_label>['In English']</g:internal_label>
     </item>
 <item>
       <g:id>26245297</g:id>
@@ -1573,7 +1578,8 @@
       <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
       <g:custom_label_2>Vegetarisk og vegansk</g:custom_label_2>
       <g:start_date>2026-11-02T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Aftenskolernes Hus, Korte kurser</g:custom_label_3>
+      <g:custom_label_3>Aftenskolernes Hus</g:custom_label_3>
+      <g:custom_label_4>Korte kurser</g:custom_label_4>
       <g:internal_label>['Aftenskolernes Hus','Korte kurser']</g:internal_label>
     </item>
 <item>
@@ -1615,8 +1621,9 @@
       <g:custom_label_1>Familie, børn og unge</g:custom_label_1>
       <g:custom_label_2>Kreative kurser</g:custom_label_2>
       <g:start_date>2026-11-02T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Kommune - Gribskov, Familie</g:custom_label_3>
-      <g:internal_label>['Kommune - Gribskov','Familie']</g:internal_label>
+      <g:custom_label_3>Gribskov</g:custom_label_3>
+      <g:custom_label_4>Familie</g:custom_label_4>
+      <g:internal_label>['Gribskov','Familie']</g:internal_label>
     </item>
 <item>
       <g:id>26251242</g:id>
@@ -1655,8 +1662,8 @@
       <g:custom_label_1></g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
       <g:start_date>2026-11-02T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>UngSkaber Rudersdal</g:custom_label_3>
-      <g:internal_label>['UngSkaber Rudersdal']</g:internal_label>
+      <g:custom_label_3>Rudersdal</g:custom_label_3>
+      <g:internal_label>['Rudersdal']</g:internal_label>
     </item>
 <item>
       <g:id>26230705</g:id>
@@ -1876,8 +1883,8 @@
       <g:custom_label_1>Kultur og livsfortællinger</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
       <g:start_date>2026-11-03T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Foredragsrække, Foredragsrække, kunst og kultur</g:custom_label_3>
-      <g:internal_label>['Foredragsrække','Foredragsrække, kunst og kultur']</g:internal_label>
+      <g:custom_label_3>Foredrag</g:custom_label_3>
+      <g:internal_label>['Foredrag']</g:internal_label>
     </item>
 <item>
       <g:id>26287116</g:id>
@@ -1920,6 +1927,25 @@
       <g:start_date>2026-11-03T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Aftenskolernes Hus</g:custom_label_3>
       <g:internal_label>['Aftenskolernes Hus']</g:internal_label>
+    </item>
+<item>
+      <g:id>26230864</g:id>
+      <g:title><![CDATA[Hatha yoga efter fødslen]]></g:title>
+      <g:description><![CDATA[Genopbyg kroppen med hatha yoga efter fødslen. Blid træning med fokus på bækkenbund, styrke og ry. Baby er selvfølgelig velkommen. Læs mere her.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/hatha-yoga-efter-foedslen?holdnr=26230864</g:link>
+      <g:image_link>https://www.fof.dk/media/bedb4agv/motion-og-yoga-med-baby-hos-fof-koebenhavn.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>710.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Efterfødselstræning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
+      <g:custom_label_2>Efterfødselstræning</g:custom_label_2>
+      <g:start_date>2026-11-03T00:00:00.000Z</g:start_date>
     </item>
 <item>
       <g:id>26251166</g:id>
@@ -2185,8 +2211,9 @@
       <g:custom_label_1>Sundhed og eksistens</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
       <g:start_date>2026-11-05T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Frederiksberg - foredrag, Debat</g:custom_label_3>
-      <g:internal_label>['Frederiksberg - foredrag','Debat']</g:internal_label>
+      <g:custom_label_3>Frederiksberg</g:custom_label_3>
+      <g:custom_label_4>Debat</g:custom_label_4>
+      <g:internal_label>['Frederiksberg','Debat']</g:internal_label>
     </item>
 <item>
       <g:id>26213685</g:id>
@@ -2206,7 +2233,8 @@
       <g:custom_label_1>Rundvisninger</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
       <g:start_date>2026-11-05T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Ture og rundvisninger, Historien – bid for bid</g:custom_label_3>
+      <g:custom_label_3>Ture og rundvisninger</g:custom_label_3>
+      <g:custom_label_4>Historien – bid for bid</g:custom_label_4>
       <g:internal_label>['Ture og rundvisninger','Historien – bid for bid']</g:internal_label>
     </item>
 <item>
@@ -2469,7 +2497,8 @@
       <g:custom_label_1>Sprog</g:custom_label_1>
       <g:custom_label_2>Italiensk</g:custom_label_2>
       <g:start_date>2026-11-07T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Sprog - begynder, Korte kurser</g:custom_label_3>
+      <g:custom_label_3>Sprog - begynder</g:custom_label_3>
+      <g:custom_label_4>Korte kurser</g:custom_label_4>
       <g:internal_label>['Sprog - begynder','Korte kurser']</g:internal_label>
     </item>
 <item>
@@ -2635,7 +2664,8 @@
       <g:custom_label_1>Kommunikation og drama</g:custom_label_1>
       <g:custom_label_2>Skrivekurser</g:custom_label_2>
       <g:start_date>2026-11-07T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Korte kurser, Skrivekurser</g:custom_label_3>
+      <g:custom_label_3>Korte kurser</g:custom_label_3>
+      <g:custom_label_4>Skrivekurser</g:custom_label_4>
       <g:internal_label>['Korte kurser','Skrivekurser']</g:internal_label>
     </item>
 <item>
@@ -2656,8 +2686,9 @@
       <g:custom_label_1>Rundvisninger</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
       <g:start_date>2026-11-07T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Kommune - Gribskov, Ture og rundvisninger</g:custom_label_3>
-      <g:internal_label>['Kommune - Gribskov','Ture og rundvisninger']</g:internal_label>
+      <g:custom_label_3>Gribskov</g:custom_label_3>
+      <g:custom_label_4>Ture og rundvisninger</g:custom_label_4>
+      <g:internal_label>['Gribskov','Ture og rundvisninger']</g:internal_label>
     </item>
 <item>
       <g:id>26274091</g:id>
@@ -2698,7 +2729,8 @@
       <g:custom_label_1>Familie, børn og unge</g:custom_label_1>
       <g:custom_label_2>Kreative kurser</g:custom_label_2>
       <g:start_date>2026-11-07T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Aftenskolernes Hus, Familie</g:custom_label_3>
+      <g:custom_label_3>Aftenskolernes Hus</g:custom_label_3>
+      <g:custom_label_4>Familie</g:custom_label_4>
       <g:internal_label>['Aftenskolernes Hus','Familie']</g:internal_label>
     </item>
 <item>
@@ -2780,7 +2812,8 @@
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Håndarbejde</g:custom_label_2>
       <g:start_date>2026-11-08T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Aftenskolernes Hus, Korte kurser</g:custom_label_3>
+      <g:custom_label_3>Aftenskolernes Hus</g:custom_label_3>
+      <g:custom_label_4>Korte kurser</g:custom_label_4>
       <g:internal_label>['Aftenskolernes Hus','Korte kurser']</g:internal_label>
     </item>
 <item>
@@ -2881,8 +2914,9 @@
       <g:custom_label_1>True crime</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
       <g:start_date>2026-11-10T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Frederiksberg - foredrag, Debat</g:custom_label_3>
-      <g:internal_label>['Frederiksberg - foredrag','Debat']</g:internal_label>
+      <g:custom_label_3>Frederiksberg</g:custom_label_3>
+      <g:custom_label_4>Debat</g:custom_label_4>
+      <g:internal_label>['Frederiksberg','Debat']</g:internal_label>
     </item>
 <item>
       <g:id>26206090</g:id>
@@ -2902,8 +2936,8 @@
       <g:custom_label_1>Samfund og historie</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
       <g:start_date>2026-11-10T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Kommune - Halsnæs</g:custom_label_3>
-      <g:internal_label>['Kommune - Halsnæs']</g:internal_label>
+      <g:custom_label_3>Halsnæs</g:custom_label_3>
+      <g:internal_label>['Halsnæs']</g:internal_label>
     </item>
 <item>
       <g:id>26289952</g:id>
@@ -3180,8 +3214,9 @@
       <g:custom_label_1>Byvandringer</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
       <g:start_date>2026-11-11T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Frederiksberg - rundvisninger og ture, Ture og rundvisninger</g:custom_label_3>
-      <g:internal_label>['Frederiksberg - rundvisninger og ture','Ture og rundvisninger']</g:internal_label>
+      <g:custom_label_3>Frederiksberg</g:custom_label_3>
+      <g:custom_label_4>Ture og rundvisninger</g:custom_label_4>
+      <g:internal_label>['Frederiksberg','Ture og rundvisninger']</g:internal_label>
     </item>
 <item>
       <g:id>26200015</g:id>
@@ -3281,8 +3316,9 @@
       <g:custom_label_1>Kultur og livsfortællinger</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
       <g:start_date>2026-11-12T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Frederiksberg - foredrag, Debat</g:custom_label_3>
-      <g:internal_label>['Frederiksberg - foredrag','Debat']</g:internal_label>
+      <g:custom_label_3>Frederiksberg</g:custom_label_3>
+      <g:custom_label_4>Debat</g:custom_label_4>
+      <g:internal_label>['Frederiksberg','Debat']</g:internal_label>
     </item>
 <item>
       <g:id>26204081</g:id>
@@ -3344,8 +3380,8 @@
       <g:custom_label_1>Musik og sang</g:custom_label_1>
       <g:custom_label_2>Sang og stemmetræning</g:custom_label_2>
       <g:start_date>2026-11-12T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>In English - Music, IN ENGLISH</g:custom_label_3>
-      <g:internal_label>['In English - Music','IN ENGLISH']</g:internal_label>
+      <g:custom_label_3>In English</g:custom_label_3>
+      <g:internal_label>['In English']</g:internal_label>
     </item>
 <item>
       <g:id>26272111</g:id>
@@ -3384,8 +3420,8 @@
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Styrke- og konditionstræning</g:custom_label_2>
       <g:start_date>2026-11-12T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Sundhedscentre - Frederiksberg</g:custom_label_3>
-      <g:internal_label>['Sundhedscentre - Frederiksberg']</g:internal_label>
+      <g:custom_label_3>Frederiksberg</g:custom_label_3>
+      <g:internal_label>['Frederiksberg']</g:internal_label>
     </item>
 <item>
       <g:id>26213524</g:id>
@@ -3792,8 +3828,8 @@
       <g:custom_label_1>Musik og sang</g:custom_label_1>
       <g:custom_label_2>Sang og stemmetræning</g:custom_label_2>
       <g:start_date>2026-11-14T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>In English - Music, IN ENGLISH</g:custom_label_3>
-      <g:internal_label>['In English - Music','IN ENGLISH']</g:internal_label>
+      <g:custom_label_3>In English</g:custom_label_3>
+      <g:internal_label>['In English']</g:internal_label>
     </item>
 <item>
       <g:id>26251089</g:id>
@@ -3834,7 +3870,8 @@
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Bevægelse og afspænding</g:custom_label_2>
       <g:start_date>2026-11-14T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Hensyntagende, Korte kurser</g:custom_label_3>
+      <g:custom_label_3>Hensyntagende</g:custom_label_3>
+      <g:custom_label_4>Korte kurser</g:custom_label_4>
       <g:internal_label>['Hensyntagende','Korte kurser']</g:internal_label>
     </item>
 <item>
@@ -3935,7 +3972,8 @@
       <g:custom_label_1>Kultur og livsfortællinger</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
       <g:start_date>2026-11-16T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Aftenskolernes Hus, Foredrag</g:custom_label_3>
+      <g:custom_label_3>Aftenskolernes Hus</g:custom_label_3>
+      <g:custom_label_4>Foredrag</g:custom_label_4>
       <g:internal_label>['Aftenskolernes Hus','Foredrag']</g:internal_label>
     </item>
 <item>
@@ -3994,7 +4032,8 @@
       <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
       <g:custom_label_2>Vegetarisk og vegansk</g:custom_label_2>
       <g:start_date>2026-11-17T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Aftenskolernes Hus, Korte kurser</g:custom_label_3>
+      <g:custom_label_3>Aftenskolernes Hus</g:custom_label_3>
+      <g:custom_label_4>Korte kurser</g:custom_label_4>
       <g:internal_label>['Aftenskolernes Hus','Korte kurser']</g:internal_label>
     </item>
 <item>
@@ -4276,8 +4315,8 @@
       <g:custom_label_1></g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
       <g:start_date>2026-11-19T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>UngSkaber Rudersdal</g:custom_label_3>
-      <g:internal_label>['UngSkaber Rudersdal']</g:internal_label>
+      <g:custom_label_3>Rudersdal</g:custom_label_3>
+      <g:internal_label>['Rudersdal']</g:internal_label>
     </item>
 <item>
       <g:id>26208037</g:id>
@@ -4379,8 +4418,8 @@
       <g:custom_label_1>Musik og sang</g:custom_label_1>
       <g:custom_label_2>Sang og stemmetræning</g:custom_label_2>
       <g:start_date>2026-11-19T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>In English - Music, IN ENGLISH</g:custom_label_3>
-      <g:internal_label>['In English - Music','IN ENGLISH']</g:internal_label>
+      <g:custom_label_3>In English</g:custom_label_3>
+      <g:internal_label>['In English']</g:internal_label>
     </item>
 <item>
       <g:id>26264128</g:id>
@@ -4438,7 +4477,8 @@
       <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
       <g:custom_label_2>Bagning og søde sager</g:custom_label_2>
       <g:start_date>2026-11-20T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Aftenskolernes Hus, Korte kurser</g:custom_label_3>
+      <g:custom_label_3>Aftenskolernes Hus</g:custom_label_3>
+      <g:custom_label_4>Korte kurser</g:custom_label_4>
       <g:internal_label>['Aftenskolernes Hus','Korte kurser']</g:internal_label>
     </item>
 <item>
@@ -4501,7 +4541,8 @@
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Håndværk og kunsthåndværk</g:custom_label_2>
       <g:start_date>2026-11-21T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Aftenskolernes Hus, Korte kurser</g:custom_label_3>
+      <g:custom_label_3>Aftenskolernes Hus</g:custom_label_3>
+      <g:custom_label_4>Korte kurser</g:custom_label_4>
       <g:internal_label>['Aftenskolernes Hus','Korte kurser']</g:internal_label>
     </item>
 <item>
@@ -4646,25 +4687,6 @@
       <g:internal_label>['Ture og rundvisninger']</g:internal_label>
     </item>
 <item>
-      <g:id>26274260</g:id>
-      <g:title><![CDATA[3D-smykkedesign og støbning]]></g:title>
-      <g:description><![CDATA[Lær 3D-smykkedesign hos FOF København og Nordsjælland. Design i Blender og støb dit eget sølvsmykke i sandform på et kreativt smykkekursus.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/3d-smykkedesign-og-stoebning?holdnr=26274260</g:link>
-      <g:image_link>https://www.fof.dk/media/0z2bzyp5/smykkekursus-fofkn-aftenskolen-kreative-kurser-5016-1.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1820.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF København og Nordsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Kreative kurser &gt; Smykkekurser</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Kreative kurser</g:custom_label_1>
-      <g:custom_label_2>Smykkekurser</g:custom_label_2>
-      <g:start_date>2026-11-21T00:00:00.000Z</g:start_date>
-    </item>
-<item>
       <g:id>26266008</g:id>
       <g:title><![CDATA[Fiktion og Autofiktion – et lynkursus i stærke personlige fortællinger]]></g:title>
       <g:description><![CDATA[Lær at skrive fiktion og autofiktion med fokus på karakterer, plot og sprog. Lynkursus for både begyndere og øvede. Få konkrete skriveværktøjer. Se hold her.]]></g:description>
@@ -4682,7 +4704,8 @@
       <g:custom_label_1>Kommunikation og drama</g:custom_label_1>
       <g:custom_label_2>Skrivekurser</g:custom_label_2>
       <g:start_date>2026-11-21T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Korte kurser, Skrivekurser</g:custom_label_3>
+      <g:custom_label_3>Korte kurser</g:custom_label_3>
+      <g:custom_label_4>Skrivekurser</g:custom_label_4>
       <g:internal_label>['Korte kurser','Skrivekurser']</g:internal_label>
     </item>
 <item>
@@ -4802,7 +4825,8 @@
       <g:custom_label_1>Familie, børn og unge</g:custom_label_1>
       <g:custom_label_2>Madlavning</g:custom_label_2>
       <g:start_date>2026-11-21T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Aftenskolernes Hus, Familie, Korte kurser</g:custom_label_3>
+      <g:custom_label_3>Aftenskolernes Hus</g:custom_label_3>
+      <g:custom_label_4>Familie</g:custom_label_4>
       <g:internal_label>['Aftenskolernes Hus','Familie','Korte kurser']</g:internal_label>
     </item>
 <item>
@@ -4964,8 +4988,8 @@
       <g:custom_label_1>Kunstudstillinger</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
       <g:start_date>2026-11-22T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Frederiksberg - rundvisninger og ture</g:custom_label_3>
-      <g:internal_label>['Frederiksberg - rundvisninger og ture']</g:internal_label>
+      <g:custom_label_3>Frederiksberg</g:custom_label_3>
+      <g:internal_label>['Frederiksberg']</g:internal_label>
     </item>
 <item>
       <g:id>26285005</g:id>
@@ -5109,8 +5133,8 @@
       <g:custom_label_1></g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
       <g:start_date>2026-11-23T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>UngSkaber Rudersdal</g:custom_label_3>
-      <g:internal_label>['UngSkaber Rudersdal']</g:internal_label>
+      <g:custom_label_3>Rudersdal</g:custom_label_3>
+      <g:internal_label>['Rudersdal']</g:internal_label>
     </item>
 <item>
       <g:id>26240423</g:id>
@@ -5248,8 +5272,9 @@
       <g:custom_label_1>Samfund og historie</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
       <g:start_date>2026-11-24T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Frederiksberg - foredrag, Foredrag</g:custom_label_3>
-      <g:internal_label>['Frederiksberg - foredrag','Foredrag']</g:internal_label>
+      <g:custom_label_3>Frederiksberg</g:custom_label_3>
+      <g:custom_label_4>Foredrag</g:custom_label_4>
+      <g:internal_label>['Frederiksberg','Foredrag']</g:internal_label>
     </item>
 <item>
       <g:id>26207054</g:id>
@@ -5376,27 +5401,6 @@
       <g:internal_label>['Debat']</g:internal_label>
     </item>
 <item>
-      <g:id>26206031</g:id>
-      <g:title><![CDATA[Engleaften]]></g:title>
-      <g:description><![CDATA[Oplev en spirituel aften med Marzcia Techau hos FOF København og Nordsjælland | mød din skytsengel gennem meditation og healing | Tilmeld dig her.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/engleaften?holdnr=26206031</g:link>
-      <g:image_link>https://www.fof.dk/media/we5hyy4z/engleaften-fofkn-aftenskolen-foredrag-g-debat-marzcia-techau.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>200.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF København og Nordsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Foredrag, debat og højskoler &gt; Sundhed og eksistens</g:product_type>
-      <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
-      <g:custom_label_1>Sundhed og eksistens</g:custom_label_1>
-      <g:custom_label_2></g:custom_label_2>
-      <g:start_date>2026-11-26T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Foredrag</g:custom_label_3>
-      <g:internal_label>['Foredrag']</g:internal_label>
-    </item>
-<item>
       <g:id>26250054</g:id>
       <g:title><![CDATA[Complete Vocal Technique – workshop – daghold ]]></g:title>
       <g:description><![CDATA[Join a Complete Vocal Technique workshop and explore safe, powerful singing. Learn CVT fundamentals, practice techniques, and develop your voice. Sign up here.]]></g:description>
@@ -5414,8 +5418,8 @@
       <g:custom_label_1>Musik og sang</g:custom_label_1>
       <g:custom_label_2>Sang og stemmetræning</g:custom_label_2>
       <g:start_date>2026-11-26T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>In English - Music, IN ENGLISH</g:custom_label_3>
-      <g:internal_label>['In English - Music','IN ENGLISH']</g:internal_label>
+      <g:custom_label_3>In English</g:custom_label_3>
+      <g:internal_label>['In English']</g:internal_label>
     </item>
 <item>
       <g:id>26250549</g:id>
@@ -5435,6 +5439,27 @@
       <g:custom_label_1>Musik og sang</g:custom_label_1>
       <g:custom_label_2>Musikteori og -produktion</g:custom_label_2>
       <g:start_date>2026-11-26T00:00:00.000Z</g:start_date>
+    </item>
+<item>
+      <g:id>26206031</g:id>
+      <g:title><![CDATA[Engleaften]]></g:title>
+      <g:description><![CDATA[Oplev en spirituel aften med Marzcia Techau hos FOF København og Nordsjælland | mød din skytsengel gennem meditation og healing | Tilmeld dig her.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/engleaften?holdnr=26206031</g:link>
+      <g:image_link>https://www.fof.dk/media/we5hyy4z/engleaften-fofkn-aftenskolen-foredrag-g-debat-marzcia-techau.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>200.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Foredrag, debat og højskoler &gt; Sundhed og eksistens</g:product_type>
+      <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
+      <g:custom_label_1>Sundhed og eksistens</g:custom_label_1>
+      <g:custom_label_2></g:custom_label_2>
+      <g:start_date>2026-11-26T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Foredrag</g:custom_label_3>
+      <g:internal_label>['Foredrag']</g:internal_label>
     </item>
 <item>
       <g:id>26206603</g:id>
@@ -5475,8 +5500,8 @@
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Malekurser</g:custom_label_2>
       <g:start_date>2026-11-26T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Kommune - Halsnæs</g:custom_label_3>
-      <g:internal_label>['Kommune - Halsnæs']</g:internal_label>
+      <g:custom_label_3>Halsnæs</g:custom_label_3>
+      <g:internal_label>['Halsnæs']</g:internal_label>
     </item>
 <item>
       <g:id>26200010</g:id>
@@ -5641,8 +5666,8 @@
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Malekurser</g:custom_label_2>
       <g:start_date>2026-11-27T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Kommune - Halsnæs</g:custom_label_3>
-      <g:internal_label>['Kommune - Halsnæs']</g:internal_label>
+      <g:custom_label_3>Halsnæs</g:custom_label_3>
+      <g:internal_label>['Halsnæs']</g:internal_label>
     </item>
 <item>
       <g:id>26240169</g:id>
@@ -5683,8 +5708,9 @@
       <g:custom_label_1>Rundvisninger</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
       <g:start_date>2026-11-27T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Ferie - Jul - Voksne, JUL OG NYTÅR, Ture og rundvisninger</g:custom_label_3>
-      <g:internal_label>['Ferie - Jul - Voksne','JUL OG NYTÅR','Ture og rundvisninger']</g:internal_label>
+      <g:custom_label_3>Jul og nytår</g:custom_label_3>
+      <g:custom_label_4>Ture og rundvisninger</g:custom_label_4>
+      <g:internal_label>['Jul og nytår','Ture og rundvisninger']</g:internal_label>
     </item>
 <item>
       <g:id>26266021</g:id>
@@ -5767,7 +5793,8 @@
       <g:custom_label_1>Familie, børn og unge</g:custom_label_1>
       <g:custom_label_2>Madlavning</g:custom_label_2>
       <g:start_date>2026-11-28T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Aftenskolernes Hus, Familie, Korte kurser</g:custom_label_3>
+      <g:custom_label_3>Aftenskolernes Hus</g:custom_label_3>
+      <g:custom_label_4>Familie</g:custom_label_4>
       <g:internal_label>['Aftenskolernes Hus','Familie','Korte kurser']</g:internal_label>
     </item>
 <item>
@@ -6013,7 +6040,8 @@
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Syning</g:custom_label_2>
       <g:start_date>2026-11-29T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Aftenskolernes Hus, Korte kurser</g:custom_label_3>
+      <g:custom_label_3>Aftenskolernes Hus</g:custom_label_3>
+      <g:custom_label_4>Korte kurser</g:custom_label_4>
       <g:internal_label>['Aftenskolernes Hus','Korte kurser']</g:internal_label>
     </item>
 <item>
@@ -6034,8 +6062,9 @@
       <g:custom_label_1>Familie, børn og unge</g:custom_label_1>
       <g:custom_label_2>Madlavning</g:custom_label_2>
       <g:start_date>2026-11-29T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Familie, Ferie - Jul - Familie, JUL OG NYTÅR, Korte kurser</g:custom_label_3>
-      <g:internal_label>['Familie','Ferie - Jul - Familie','JUL OG NYTÅR','Korte kurser']</g:internal_label>
+      <g:custom_label_3>Familie</g:custom_label_3>
+      <g:custom_label_4>Jul og nytår</g:custom_label_4>
+      <g:internal_label>['Familie','Jul og nytår','Korte kurser']</g:internal_label>
     </item>
 <item>
       <g:id>26200008</g:id>
@@ -6055,8 +6084,9 @@
       <g:custom_label_1>Kultur og livsfortællinger</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
       <g:start_date>2026-11-30T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Frederiksberg - foredrag, Debat</g:custom_label_3>
-      <g:internal_label>['Frederiksberg - foredrag','Debat']</g:internal_label>
+      <g:custom_label_3>Frederiksberg</g:custom_label_3>
+      <g:custom_label_4>Debat</g:custom_label_4>
+      <g:internal_label>['Frederiksberg','Debat']</g:internal_label>
     </item>
 <item>
       <g:id>26245192</g:id>
@@ -6076,7 +6106,8 @@
       <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
       <g:custom_label_2>Aktiviteter med baby</g:custom_label_2>
       <g:start_date>2026-11-30T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Aftenskolernes Hus, Korte kurser</g:custom_label_3>
+      <g:custom_label_3>Aftenskolernes Hus</g:custom_label_3>
+      <g:custom_label_4>Korte kurser</g:custom_label_4>
       <g:internal_label>['Aftenskolernes Hus','Korte kurser']</g:internal_label>
     </item>
 <item>
@@ -6116,7 +6147,8 @@
       <g:custom_label_1>Rundvisninger</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
       <g:start_date>2026-12-01T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Ture og rundvisninger, Historien – bid for bid</g:custom_label_3>
+      <g:custom_label_3>Ture og rundvisninger</g:custom_label_3>
+      <g:custom_label_4>Historien – bid for bid</g:custom_label_4>
       <g:internal_label>['Ture og rundvisninger','Historien – bid for bid']</g:internal_label>
     </item>
 <item>
@@ -6156,8 +6188,8 @@
       <g:custom_label_1>Kultur og livsfortællinger</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
       <g:start_date>2026-12-01T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Foredragsrække, Foredragsrække, kunst og kultur</g:custom_label_3>
-      <g:internal_label>['Foredragsrække','Foredragsrække, kunst og kultur']</g:internal_label>
+      <g:custom_label_3>Foredrag</g:custom_label_3>
+      <g:internal_label>['Foredrag']</g:internal_label>
     </item>
 <item>
       <g:id>26230875</g:id>
@@ -6215,8 +6247,9 @@
       <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
       <g:custom_label_2>Bagning og søde sager</g:custom_label_2>
       <g:start_date>2026-12-02T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Ferie - Jul - Voksne, JUL OG NYTÅR, Korte kurser</g:custom_label_3>
-      <g:internal_label>['Ferie - Jul - Voksne','JUL OG NYTÅR','Korte kurser']</g:internal_label>
+      <g:custom_label_3>Jul og nytår</g:custom_label_3>
+      <g:custom_label_4>Korte kurser</g:custom_label_4>
+      <g:internal_label>['Jul og nytår','Korte kurser']</g:internal_label>
     </item>
 <item>
       <g:id>26218039</g:id>
@@ -6316,7 +6349,8 @@
       <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
       <g:custom_label_2>Bagning og søde sager</g:custom_label_2>
       <g:start_date>2026-12-04T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Aftenskolernes Hus, Korte kurser</g:custom_label_3>
+      <g:custom_label_3>Aftenskolernes Hus</g:custom_label_3>
+      <g:custom_label_4>Korte kurser</g:custom_label_4>
       <g:internal_label>['Aftenskolernes Hus','Korte kurser']</g:internal_label>
     </item>
 <item>
@@ -6375,8 +6409,8 @@
       <g:custom_label_1>Musik og sang</g:custom_label_1>
       <g:custom_label_2>Sang og stemmetræning</g:custom_label_2>
       <g:start_date>2026-12-05T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>In English - Music, IN ENGLISH</g:custom_label_3>
-      <g:internal_label>['In English - Music','IN ENGLISH']</g:internal_label>
+      <g:custom_label_3>In English</g:custom_label_3>
+      <g:internal_label>['In English']</g:internal_label>
     </item>
 <item>
       <g:id>26213751</g:id>
@@ -6397,8 +6431,9 @@
       <g:custom_label_1>Rundvisninger</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
       <g:start_date>2026-12-05T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Ferie - Jul - Voksne, JUL OG NYTÅR, Ture og rundvisninger</g:custom_label_3>
-      <g:internal_label>['Ferie - Jul - Voksne','JUL OG NYTÅR','Ture og rundvisninger']</g:internal_label>
+      <g:custom_label_3>Jul og nytår</g:custom_label_3>
+      <g:custom_label_4>Ture og rundvisninger</g:custom_label_4>
+      <g:internal_label>['Jul og nytår','Ture og rundvisninger']</g:internal_label>
     </item>
 <item>
       <g:id>26240329</g:id>
@@ -6418,8 +6453,9 @@
       <g:custom_label_1>Familie, børn og unge</g:custom_label_1>
       <g:custom_label_2>Madlavning</g:custom_label_2>
       <g:start_date>2026-12-05T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Familie, Ferie - Jul - Familie, JUL OG NYTÅR, Korte kurser</g:custom_label_3>
-      <g:internal_label>['Familie','Ferie - Jul - Familie','JUL OG NYTÅR','Korte kurser']</g:internal_label>
+      <g:custom_label_3>Familie</g:custom_label_3>
+      <g:custom_label_4>Jul og nytår</g:custom_label_4>
+      <g:internal_label>['Familie','Jul og nytår','Korte kurser']</g:internal_label>
     </item>
 <item>
       <g:id>26250883</g:id>
@@ -6582,8 +6618,9 @@
       <g:custom_label_1>Byvandringer</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
       <g:start_date>2026-12-06T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>JUL OG NYTÅR, Ferie - Jul - Voksne, Ture og rundvisninger</g:custom_label_3>
-      <g:internal_label>['JUL OG NYTÅR','Ferie - Jul - Voksne','Ture og rundvisninger']</g:internal_label>
+      <g:custom_label_3>Jul og nytår</g:custom_label_3>
+      <g:custom_label_4>Ture og rundvisninger</g:custom_label_4>
+      <g:internal_label>['Jul og nytår','Ture og rundvisninger']</g:internal_label>
     </item>
 <item>
       <g:id>26230162</g:id>
@@ -6624,7 +6661,8 @@
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Håndarbejde</g:custom_label_2>
       <g:start_date>2026-12-06T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Aftenskolernes Hus, Korte kurser</g:custom_label_3>
+      <g:custom_label_3>Aftenskolernes Hus</g:custom_label_3>
+      <g:custom_label_4>Korte kurser</g:custom_label_4>
       <g:internal_label>['Aftenskolernes Hus','Korte kurser']</g:internal_label>
     </item>
 <item>
@@ -6645,7 +6683,8 @@
       <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
       <g:custom_label_2>Aktiviteter med baby</g:custom_label_2>
       <g:start_date>2026-12-07T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Aftenskolernes Hus, Korte kurser</g:custom_label_3>
+      <g:custom_label_3>Aftenskolernes Hus</g:custom_label_3>
+      <g:custom_label_4>Korte kurser</g:custom_label_4>
       <g:internal_label>['Aftenskolernes Hus','Korte kurser']</g:internal_label>
     </item>
 <item>
@@ -6686,25 +6725,6 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
       <g:custom_label_2>Forældreskab</g:custom_label_2>
-      <g:start_date>2026-12-08T00:00:00.000Z</g:start_date>
-    </item>
-<item>
-      <g:id>26274282</g:id>
-      <g:title><![CDATA[Smykkekursus]]></g:title>
-      <g:description><![CDATA[Lær at lave dine egne smykker på smykkekursus hos FOF København og Nordsjælland. Skab unikke designs som øreringe og armbånd i sølv og sten. Tilmeld dig her.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/smykkekursus?holdnr=26274282</g:link>
-      <g:image_link>https://www.fof.dk/media/ljdd11pv/smykkekursus-fof-aftenskolen-02.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1805.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF København og Nordsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Kreative kurser &gt; Smykkekurser</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Kreative kurser</g:custom_label_1>
-      <g:custom_label_2>Smykkekurser</g:custom_label_2>
       <g:start_date>2026-12-08T00:00:00.000Z</g:start_date>
     </item>
 <item>
@@ -6765,8 +6785,9 @@
       <g:custom_label_1>Familie, børn og unge</g:custom_label_1>
       <g:custom_label_2>Madlavning</g:custom_label_2>
       <g:start_date>2026-12-09T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Familie, Ferie - Jul - Familie, JUL OG NYTÅR, Korte kurser</g:custom_label_3>
-      <g:internal_label>['Familie','Ferie - Jul - Familie','JUL OG NYTÅR','Korte kurser']</g:internal_label>
+      <g:custom_label_3>Familie</g:custom_label_3>
+      <g:custom_label_4>Jul og nytår</g:custom_label_4>
+      <g:internal_label>['Familie','Jul og nytår','Korte kurser']</g:internal_label>
     </item>
 <item>
       <g:id>26240106</g:id>
@@ -6786,8 +6807,9 @@
       <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
       <g:custom_label_2>Bagning og søde sager</g:custom_label_2>
       <g:start_date>2026-12-10T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Ferie - Jul - Voksne, JUL OG NYTÅR, Korte kurser</g:custom_label_3>
-      <g:internal_label>['Ferie - Jul - Voksne','JUL OG NYTÅR','Korte kurser']</g:internal_label>
+      <g:custom_label_3>Jul og nytår</g:custom_label_3>
+      <g:custom_label_4>Korte kurser</g:custom_label_4>
+      <g:internal_label>['Jul og nytår','Korte kurser']</g:internal_label>
     </item>
 <item>
       <g:id>26213753</g:id>
@@ -6868,8 +6890,9 @@
       <g:custom_label_1>Byvandringer</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
       <g:start_date>2026-12-12T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>JUL OG NYTÅR, Ferie - Jul - Voksne, Ture og rundvisninger</g:custom_label_3>
-      <g:internal_label>['JUL OG NYTÅR','Ferie - Jul - Voksne','Ture og rundvisninger']</g:internal_label>
+      <g:custom_label_3>Jul og nytår</g:custom_label_3>
+      <g:custom_label_4>Ture og rundvisninger</g:custom_label_4>
+      <g:internal_label>['Jul og nytår','Ture og rundvisninger']</g:internal_label>
     </item>
 <item>
       <g:id>26213752</g:id>
@@ -6890,8 +6913,9 @@
       <g:custom_label_1>Rundvisninger</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
       <g:start_date>2026-12-12T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Ferie - Jul - Voksne, JUL OG NYTÅR, Ture og rundvisninger</g:custom_label_3>
-      <g:internal_label>['Ferie - Jul - Voksne','JUL OG NYTÅR','Ture og rundvisninger']</g:internal_label>
+      <g:custom_label_3>Jul og nytår</g:custom_label_3>
+      <g:custom_label_4>Ture og rundvisninger</g:custom_label_4>
+      <g:internal_label>['Jul og nytår','Ture og rundvisninger']</g:internal_label>
     </item>
 <item>
       <g:id>26230908</g:id>
@@ -6930,8 +6954,9 @@
       <g:custom_label_1>Familie, børn og unge</g:custom_label_1>
       <g:custom_label_2>Madlavning</g:custom_label_2>
       <g:start_date>2026-12-12T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Familie, Ferie - Jul - Familie, JUL OG NYTÅR, Korte kurser</g:custom_label_3>
-      <g:internal_label>['Familie','Ferie - Jul - Familie','JUL OG NYTÅR','Korte kurser']</g:internal_label>
+      <g:custom_label_3>Familie</g:custom_label_3>
+      <g:custom_label_4>Jul og nytår</g:custom_label_4>
+      <g:internal_label>['Familie','Jul og nytår','Korte kurser']</g:internal_label>
     </item>
 <item>
       <g:id>26242149</g:id>
@@ -6972,8 +6997,9 @@
       <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
       <g:custom_label_2>Bagning og søde sager</g:custom_label_2>
       <g:start_date>2026-12-12T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Ferie - Jul - Voksne, Familie, JUL OG NYTÅR, Korte kurser</g:custom_label_3>
-      <g:internal_label>['Ferie - Jul - Voksne','Familie','JUL OG NYTÅR','Korte kurser']</g:internal_label>
+      <g:custom_label_3>Jul og nytår</g:custom_label_3>
+      <g:custom_label_4>Familie</g:custom_label_4>
+      <g:internal_label>['Jul og nytår','Familie','Korte kurser']</g:internal_label>
     </item>
 <item>
       <g:id>26250799</g:id>
@@ -7033,8 +7059,9 @@
       <g:custom_label_1>Familie, børn og unge</g:custom_label_1>
       <g:custom_label_2>Madlavning</g:custom_label_2>
       <g:start_date>2026-12-13T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Familie, Ferie - Jul - Familie, JUL OG NYTÅR, Korte kurser</g:custom_label_3>
-      <g:internal_label>['Familie','Ferie - Jul - Familie','JUL OG NYTÅR','Korte kurser']</g:internal_label>
+      <g:custom_label_3>Familie</g:custom_label_3>
+      <g:custom_label_4>Jul og nytår</g:custom_label_4>
+      <g:internal_label>['Familie','Jul og nytår','Korte kurser']</g:internal_label>
     </item>
 <item>
       <g:id>26250800</g:id>
@@ -7073,8 +7100,9 @@
       <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
       <g:custom_label_2>Bagning og søde sager</g:custom_label_2>
       <g:start_date>2026-12-16T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Ferie - Jul - Voksne, JUL OG NYTÅR, Korte kurser</g:custom_label_3>
-      <g:internal_label>['Ferie - Jul - Voksne','JUL OG NYTÅR','Korte kurser']</g:internal_label>
+      <g:custom_label_3>Jul og nytår</g:custom_label_3>
+      <g:custom_label_4>Korte kurser</g:custom_label_4>
+      <g:internal_label>['Jul og nytår','Korte kurser']</g:internal_label>
     </item>
 <item>
       <g:id>26250057</g:id>
@@ -7094,8 +7122,8 @@
       <g:custom_label_1>Musik og sang</g:custom_label_1>
       <g:custom_label_2>Sang og stemmetræning</g:custom_label_2>
       <g:start_date>2026-12-17T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>In English - Music, IN ENGLISH</g:custom_label_3>
-      <g:internal_label>['In English - Music','IN ENGLISH']</g:internal_label>
+      <g:custom_label_3>In English</g:custom_label_3>
+      <g:internal_label>['In English']</g:internal_label>
     </item>
 <item>
       <g:id>26213756</g:id>
@@ -7115,8 +7143,9 @@
       <g:custom_label_1>Byvandringer</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
       <g:start_date>2026-12-18T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>JUL OG NYTÅR, Ferie - Jul - Voksne, Ture og rundvisninger</g:custom_label_3>
-      <g:internal_label>['JUL OG NYTÅR','Ferie - Jul - Voksne','Ture og rundvisninger']</g:internal_label>
+      <g:custom_label_3>Jul og nytår</g:custom_label_3>
+      <g:custom_label_4>Ture og rundvisninger</g:custom_label_4>
+      <g:internal_label>['Jul og nytår','Ture og rundvisninger']</g:internal_label>
     </item>
 <item>
       <g:id>26278055</g:id>
@@ -7157,8 +7186,9 @@
       <g:custom_label_1>Byvandringer</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
       <g:start_date>2026-12-19T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>JUL OG NYTÅR, Ferie - Jul - Voksne, Ture og rundvisninger</g:custom_label_3>
-      <g:internal_label>['JUL OG NYTÅR','Ferie - Jul - Voksne','Ture og rundvisninger']</g:internal_label>
+      <g:custom_label_3>Jul og nytår</g:custom_label_3>
+      <g:custom_label_4>Ture og rundvisninger</g:custom_label_4>
+      <g:internal_label>['Jul og nytår','Ture og rundvisninger']</g:internal_label>
     </item>
 <item>
       <g:id>26266014</g:id>
@@ -7178,8 +7208,9 @@
       <g:custom_label_1>Kommunikation og drama</g:custom_label_1>
       <g:custom_label_2>Skrivekurser</g:custom_label_2>
       <g:start_date>2026-12-28T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Ferie - Jul - Voksne, JUL OG NYTÅR, Skrivekurser</g:custom_label_3>
-      <g:internal_label>['Ferie - Jul - Voksne','JUL OG NYTÅR','Skrivekurser']</g:internal_label>
+      <g:custom_label_3>Jul og nytår</g:custom_label_3>
+      <g:custom_label_4>Skrivekurser</g:custom_label_4>
+      <g:internal_label>['Jul og nytår','Skrivekurser']</g:internal_label>
     </item>
 <item>
       <g:id>26268022</g:id>
@@ -7199,8 +7230,8 @@
       <g:custom_label_1>Kommunikation og drama</g:custom_label_1>
       <g:custom_label_2>Drama og skuespil</g:custom_label_2>
       <g:start_date>2026-12-28T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Ferie - Jul - Voksne, JUL OG NYTÅR</g:custom_label_3>
-      <g:internal_label>['Ferie - Jul - Voksne','JUL OG NYTÅR']</g:internal_label>
+      <g:custom_label_3>Jul og nytår</g:custom_label_3>
+      <g:internal_label>['Jul og nytår']</g:internal_label>
     </item>
 <item>
       <g:id>27151908</g:id>
@@ -7222,25 +7253,6 @@
       <g:start_date>2027-01-04T00:00:00.000Z</g:start_date>
     </item>
 <item>
-      <g:id>27120850</g:id>
-      <g:title><![CDATA[Babysvømning 3-6 mdr.]]></g:title>
-      <g:description><![CDATA[Gå til babysvømning hos FOF København og Nordsjælland og styrk dit barns motorik, balance og sanser i varmt vand. Læs mere og tilmeld dig her.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/babysvoemning?holdnr=27120850</g:link>
-      <g:image_link>https://www.fof.dk/media/53zpit5g/babysvoemning-fofkn-aftenskolen-gravid-og-barsel-2.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1155.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF København og Nordsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Aktiviteter med baby</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
-      <g:custom_label_2>Aktiviteter med baby</g:custom_label_2>
-      <g:start_date>2027-01-04T00:00:00.000Z</g:start_date>
-    </item>
-<item>
       <g:id>27151201</g:id>
       <g:title><![CDATA[Sang – klassisk og rytmisk – daghold]]></g:title>
       <g:description><![CDATA[Udvikl din stemme med sangundervisning i klassisk og rytmisk sang hos FOF København og Nordsjælland. Små hold med plads til dine ønsker. Læs mere her.]]></g:description>
@@ -7257,6 +7269,25 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Musik og sang</g:custom_label_1>
       <g:custom_label_2>Sang og stemmetræning</g:custom_label_2>
+      <g:start_date>2027-01-04T00:00:00.000Z</g:start_date>
+    </item>
+<item>
+      <g:id>27120850</g:id>
+      <g:title><![CDATA[Babysvømning 3-6 mdr.]]></g:title>
+      <g:description><![CDATA[Gå til babysvømning hos FOF København og Nordsjælland og styrk dit barns motorik, balance og sanser i varmt vand. Læs mere og tilmeld dig her.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/babysvoemning?holdnr=27120850</g:link>
+      <g:image_link>https://www.fof.dk/media/53zpit5g/babysvoemning-fofkn-aftenskolen-gravid-og-barsel-2.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1155.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Aktiviteter med baby</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
+      <g:custom_label_2>Aktiviteter med baby</g:custom_label_2>
       <g:start_date>2027-01-04T00:00:00.000Z</g:start_date>
     </item>
 <item>
@@ -7317,25 +7348,6 @@
       <g:start_date>2027-01-04T00:00:00.000Z</g:start_date>
     </item>
 <item>
-      <g:id>27151911</g:id>
-      <g:title><![CDATA[Sang – klassisk og rytmisk]]></g:title>
-      <g:description><![CDATA[Udvikl din stemme med sangundervisning i klassisk og rytmisk sang hos FOF København og Nordsjælland. Små hold med plads til dine ønsker. Læs mere her.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/sang-klassisk-og-rytmisk?holdnr=27151911</g:link>
-      <g:image_link>https://www.fof.dk/media/qbrbhxb1/kor-fof-aftenskolen-06.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>600.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF København og Nordsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Musik og sang &gt; Sang og stemmetræning</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Musik og sang</g:custom_label_1>
-      <g:custom_label_2>Sang og stemmetræning</g:custom_label_2>
-      <g:start_date>2027-01-04T00:00:00.000Z</g:start_date>
-    </item>
-<item>
       <g:id>27120849</g:id>
       <g:title><![CDATA[Babysvømning 6-12 mdr.]]></g:title>
       <g:description><![CDATA[Gå til babysvømning hos FOF København og Nordsjælland og styrk dit barns motorik, balance og sanser i varmt vand. Læs mere og tilmeld dig her.]]></g:description>
@@ -7352,6 +7364,25 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
       <g:custom_label_2>Aktiviteter med baby</g:custom_label_2>
+      <g:start_date>2027-01-04T00:00:00.000Z</g:start_date>
+    </item>
+<item>
+      <g:id>27151911</g:id>
+      <g:title><![CDATA[Sang – klassisk og rytmisk]]></g:title>
+      <g:description><![CDATA[Udvikl din stemme med sangundervisning i klassisk og rytmisk sang hos FOF København og Nordsjælland. Små hold med plads til dine ønsker. Læs mere her.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/sang-klassisk-og-rytmisk?holdnr=27151911</g:link>
+      <g:image_link>https://www.fof.dk/media/qbrbhxb1/kor-fof-aftenskolen-06.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>600.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Musik og sang &gt; Sang og stemmetræning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Musik og sang</g:custom_label_1>
+      <g:custom_label_2>Sang og stemmetræning</g:custom_label_2>
       <g:start_date>2027-01-04T00:00:00.000Z</g:start_date>
     </item>
 <item>
@@ -7469,25 +7500,6 @@
       <g:start_date>2027-01-05T00:00:00.000Z</g:start_date>
     </item>
 <item>
-      <g:id>27151915</g:id>
-      <g:title><![CDATA[Sang – klassisk og rytmisk]]></g:title>
-      <g:description><![CDATA[Udvikl din stemme med sangundervisning i klassisk og rytmisk sang hos FOF København og Nordsjælland. Små hold med plads til dine ønsker. Læs mere her.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/sang-klassisk-og-rytmisk?holdnr=27151915</g:link>
-      <g:image_link>https://www.fof.dk/media/qbrbhxb1/kor-fof-aftenskolen-06.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>600.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF København og Nordsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Musik og sang &gt; Sang og stemmetræning</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Musik og sang</g:custom_label_1>
-      <g:custom_label_2>Sang og stemmetræning</g:custom_label_2>
-      <g:start_date>2027-01-05T00:00:00.000Z</g:start_date>
-    </item>
-<item>
       <g:id>27120842</g:id>
       <g:title><![CDATA[Børnemotorik og tumlingeleg 3-6 mdr.]]></g:title>
       <g:description><![CDATA[Til børnemotorik og tumlingeleg hos FOF København og Nordsjælland leger, synger og bevæger vi os på børnenes præmisser og styrker motorik og nærvær.]]></g:description>
@@ -7504,6 +7516,25 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
       <g:custom_label_2>Aktiviteter med baby</g:custom_label_2>
+      <g:start_date>2027-01-05T00:00:00.000Z</g:start_date>
+    </item>
+<item>
+      <g:id>27151915</g:id>
+      <g:title><![CDATA[Sang – klassisk og rytmisk]]></g:title>
+      <g:description><![CDATA[Udvikl din stemme med sangundervisning i klassisk og rytmisk sang hos FOF København og Nordsjælland. Små hold med plads til dine ønsker. Læs mere her.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/sang-klassisk-og-rytmisk?holdnr=27151915</g:link>
+      <g:image_link>https://www.fof.dk/media/qbrbhxb1/kor-fof-aftenskolen-06.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>600.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Musik og sang &gt; Sang og stemmetræning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Musik og sang</g:custom_label_1>
+      <g:custom_label_2>Sang og stemmetræning</g:custom_label_2>
       <g:start_date>2027-01-05T00:00:00.000Z</g:start_date>
     </item>
 <item>
@@ -7961,8 +7992,8 @@
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Tegnekurser</g:custom_label_2>
       <g:start_date>2027-01-08T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>In English - Creative, IN ENGLISH</g:custom_label_3>
-      <g:internal_label>['In English - Creative','IN ENGLISH']</g:internal_label>
+      <g:custom_label_3>In English</g:custom_label_3>
+      <g:internal_label>['In English']</g:internal_label>
     </item>
 <item>
       <g:id>27179572</g:id>
@@ -8003,7 +8034,8 @@
       <g:custom_label_1>Sprog</g:custom_label_1>
       <g:custom_label_2>Italiensk</g:custom_label_2>
       <g:start_date>2027-01-09T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Sprog - Basisniveau (A), Korte kurser</g:custom_label_3>
+      <g:custom_label_3>Sprog - Basisniveau (A)</g:custom_label_3>
+      <g:custom_label_4>Korte kurser</g:custom_label_4>
       <g:internal_label>['Sprog - Basisniveau (A)','Korte kurser']</g:internal_label>
     </item>
 <item>
@@ -8169,8 +8201,9 @@
       <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
       <g:custom_label_2>Asiatisk mad</g:custom_label_2>
       <g:start_date>2027-01-11T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>In English - Cooking, IN ENGLISH, Korte kurser</g:custom_label_3>
-      <g:internal_label>['In English - Cooking','IN ENGLISH','Korte kurser']</g:internal_label>
+      <g:custom_label_3>In English</g:custom_label_3>
+      <g:custom_label_4>Korte kurser</g:custom_label_4>
+      <g:internal_label>['In English','Korte kurser']</g:internal_label>
     </item>
 <item>
       <g:id>26240216</g:id>
@@ -8211,6 +8244,25 @@
       <g:start_date>2027-01-11T00:00:00.000Z</g:start_date>
     </item>
 <item>
+      <g:id>26240421</g:id>
+      <g:title><![CDATA[Godt gennem overgangsalder med antiinflammatorisk mad]]></g:title>
+      <g:description><![CDATA[Lær at lave anti-inflammatoriske retter og skabe sunde vaner. Et praktisk kursus med foodprepping, råvarer og opskrifter til bedre trivsel.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/anti-inflammatorisk-kost-madhold?holdnr=26240421</g:link>
+      <g:image_link>https://www.fof.dk/media/xtweezxy/antiinflammatorisk-kost-fofkn-aftenskolen-madlavning.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1680.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Madlavning og drikkevarer &gt; Fest- og hverdagsmad</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
+      <g:custom_label_2>Fest- og hverdagsmad</g:custom_label_2>
+      <g:start_date>2027-01-12T00:00:00.000Z</g:start_date>
+    </item>
+<item>
       <g:id>27166014</g:id>
       <g:title><![CDATA[Du og dit liv – vil du skrive om det?]]></g:title>
       <g:description><![CDATA[Er du i tvivl, om det er noget for dig at skrive livshistorie? Det kan du finde ud af på dette kursus. Tilmeld dig hos FOF København og Nordsjælland.]]></g:description>
@@ -8228,7 +8280,8 @@
       <g:custom_label_1>Kommunikation og drama</g:custom_label_1>
       <g:custom_label_2>Skrivekurser</g:custom_label_2>
       <g:start_date>2027-01-14T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Korte kurser, Skrivekurser</g:custom_label_3>
+      <g:custom_label_3>Korte kurser</g:custom_label_3>
+      <g:custom_label_4>Skrivekurser</g:custom_label_4>
       <g:internal_label>['Korte kurser','Skrivekurser']</g:internal_label>
     </item>
 <item>
@@ -8249,7 +8302,8 @@
       <g:custom_label_1>Rundvisninger</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
       <g:start_date>2027-01-14T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Ture og rundvisninger, Historien – bid for bid</g:custom_label_3>
+      <g:custom_label_3>Ture og rundvisninger</g:custom_label_3>
+      <g:custom_label_4>Historien – bid for bid</g:custom_label_4>
       <g:internal_label>['Ture og rundvisninger','Historien – bid for bid']</g:internal_label>
     </item>
 <item>
@@ -8310,7 +8364,8 @@
       <g:custom_label_1>Familie, børn og unge</g:custom_label_1>
       <g:custom_label_2>Madlavning</g:custom_label_2>
       <g:start_date>2027-01-16T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Aftenskolernes Hus, Familie, Korte kurser</g:custom_label_3>
+      <g:custom_label_3>Aftenskolernes Hus</g:custom_label_3>
+      <g:custom_label_4>Familie</g:custom_label_4>
       <g:internal_label>['Aftenskolernes Hus','Familie','Korte kurser']</g:internal_label>
     </item>
 <item>
@@ -8331,7 +8386,8 @@
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Malekurser</g:custom_label_2>
       <g:start_date>2027-01-16T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Aftenskolernes Hus, Korte kurser</g:custom_label_3>
+      <g:custom_label_3>Aftenskolernes Hus</g:custom_label_3>
+      <g:custom_label_4>Korte kurser</g:custom_label_4>
       <g:internal_label>['Aftenskolernes Hus','Korte kurser']</g:internal_label>
     </item>
 <item>
@@ -8451,7 +8507,8 @@
       <g:custom_label_1>Familie, børn og unge</g:custom_label_1>
       <g:custom_label_2>Madlavning</g:custom_label_2>
       <g:start_date>2027-01-17T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Familie, Korte kurser</g:custom_label_3>
+      <g:custom_label_3>Familie</g:custom_label_3>
+      <g:custom_label_4>Korte kurser</g:custom_label_4>
       <g:internal_label>['Familie','Korte kurser']</g:internal_label>
     </item>
 <item>
@@ -8554,7 +8611,8 @@
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Håndarbejde</g:custom_label_2>
       <g:start_date>2027-01-17T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Aftenskolernes Hus, Korte kurser</g:custom_label_3>
+      <g:custom_label_3>Aftenskolernes Hus</g:custom_label_3>
+      <g:custom_label_4>Korte kurser</g:custom_label_4>
       <g:internal_label>['Aftenskolernes Hus','Korte kurser']</g:internal_label>
     </item>
 <item>
@@ -8594,7 +8652,8 @@
       <g:custom_label_1>Sprog</g:custom_label_1>
       <g:custom_label_2>Tysk</g:custom_label_2>
       <g:start_date>2027-01-18T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Sprog - Basisniveau (A), Sprog - Mellemniveau (B)</g:custom_label_3>
+      <g:custom_label_3>Sprog - Basisniveau (A)</g:custom_label_3>
+      <g:custom_label_4>Sprog - Mellemniveau (B)</g:custom_label_4>
       <g:internal_label>['Sprog - Basisniveau (A)','Sprog - Mellemniveau (B)']</g:internal_label>
     </item>
 <item>
@@ -8674,8 +8733,9 @@
       <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
       <g:custom_label_2>Asiatisk mad</g:custom_label_2>
       <g:start_date>2027-01-21T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>In English - Cooking, IN ENGLISH, Korte kurser</g:custom_label_3>
-      <g:internal_label>['In English - Cooking','IN ENGLISH','Korte kurser']</g:internal_label>
+      <g:custom_label_3>In English</g:custom_label_3>
+      <g:custom_label_4>Korte kurser</g:custom_label_4>
+      <g:internal_label>['In English','Korte kurser']</g:internal_label>
     </item>
 <item>
       <g:id>27100002</g:id>
@@ -8695,8 +8755,9 @@
       <g:custom_label_1>Kultur og livsfortællinger</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
       <g:start_date>2027-01-21T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Frederiksberg - foredrag, Debat</g:custom_label_3>
-      <g:internal_label>['Frederiksberg - foredrag','Debat']</g:internal_label>
+      <g:custom_label_3>Frederiksberg</g:custom_label_3>
+      <g:custom_label_4>Debat</g:custom_label_4>
+      <g:internal_label>['Frederiksberg','Debat']</g:internal_label>
     </item>
 <item>
       <g:id>27106032</g:id>
@@ -8838,7 +8899,8 @@
       <g:custom_label_1>Sprog</g:custom_label_1>
       <g:custom_label_2>Italiensk</g:custom_label_2>
       <g:start_date>2027-01-23T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Sprog - begynder, Korte kurser</g:custom_label_3>
+      <g:custom_label_3>Sprog - begynder</g:custom_label_3>
+      <g:custom_label_4>Korte kurser</g:custom_label_4>
       <g:internal_label>['Sprog - begynder','Korte kurser']</g:internal_label>
     </item>
 <item>
@@ -8859,7 +8921,8 @@
       <g:custom_label_1>Kommunikation og drama</g:custom_label_1>
       <g:custom_label_2>Skrivekurser</g:custom_label_2>
       <g:start_date>2027-01-23T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Korte kurser, Skrivekurser</g:custom_label_3>
+      <g:custom_label_3>Korte kurser</g:custom_label_3>
+      <g:custom_label_4>Skrivekurser</g:custom_label_4>
       <g:internal_label>['Korte kurser','Skrivekurser']</g:internal_label>
     </item>
 <item>
@@ -8977,7 +9040,8 @@
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Håndarbejde</g:custom_label_2>
       <g:start_date>2027-01-24T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Aftenskolernes Hus, Korte kurser</g:custom_label_3>
+      <g:custom_label_3>Aftenskolernes Hus</g:custom_label_3>
+      <g:custom_label_4>Korte kurser</g:custom_label_4>
       <g:internal_label>['Aftenskolernes Hus','Korte kurser']</g:internal_label>
     </item>
 <item>
@@ -9516,7 +9580,8 @@
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Bevægelse og afspænding</g:custom_label_2>
       <g:start_date>2027-02-06T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Hensyntagende, Korte kurser</g:custom_label_3>
+      <g:custom_label_3>Hensyntagende</g:custom_label_3>
+      <g:custom_label_4>Korte kurser</g:custom_label_4>
       <g:internal_label>['Hensyntagende','Korte kurser']</g:internal_label>
     </item>
 <item>
@@ -9655,7 +9720,8 @@
       <g:custom_label_1>Sundhed og eksistens</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
       <g:start_date>2027-02-09T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Aftenskolernes Hus, Foredrag</g:custom_label_3>
+      <g:custom_label_3>Aftenskolernes Hus</g:custom_label_3>
+      <g:custom_label_4>Foredrag</g:custom_label_4>
       <g:internal_label>['Aftenskolernes Hus','Foredrag']</g:internal_label>
     </item>
 <item>
@@ -9718,7 +9784,8 @@
       <g:custom_label_1>Rundvisninger</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
       <g:start_date>2027-02-11T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Ture og rundvisninger, Historien – bid for bid</g:custom_label_3>
+      <g:custom_label_3>Ture og rundvisninger</g:custom_label_3>
+      <g:custom_label_4>Historien – bid for bid</g:custom_label_4>
       <g:internal_label>['Ture og rundvisninger','Historien – bid for bid']</g:internal_label>
     </item>
 <item>
@@ -9739,8 +9806,9 @@
       <g:custom_label_1>Sundhed og eksistens</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
       <g:start_date>2027-02-11T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Frederiksberg - foredrag, Debat</g:custom_label_3>
-      <g:internal_label>['Frederiksberg - foredrag','Debat']</g:internal_label>
+      <g:custom_label_3>Frederiksberg</g:custom_label_3>
+      <g:custom_label_4>Debat</g:custom_label_4>
+      <g:internal_label>['Frederiksberg','Debat']</g:internal_label>
     </item>
 <item>
       <g:id>27110006</g:id>
@@ -9817,8 +9885,9 @@
       <g:custom_label_1>Familie, børn og unge</g:custom_label_1>
       <g:custom_label_2>Kreative kurser</g:custom_label_2>
       <g:start_date>2027-02-14T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Ferie - Vinter - Børn, unge og familier, Børn og unge</g:custom_label_3>
-      <g:internal_label>['Ferie - Vinter - Børn, unge og familier','Børn og unge']</g:internal_label>
+      <g:custom_label_3>Vinter</g:custom_label_3>
+      <g:custom_label_4>Børn og unge</g:custom_label_4>
+      <g:internal_label>['Vinter','Børn og unge']</g:internal_label>
     </item>
 <item>
       <g:id>27113502</g:id>
@@ -9838,8 +9907,9 @@
       <g:custom_label_1>Rundvisninger</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
       <g:start_date>2027-02-15T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Ferie - Vinter - Voksne, Ture og rundvisninger</g:custom_label_3>
-      <g:internal_label>['Ferie - Vinter - Voksne','Ture og rundvisninger']</g:internal_label>
+      <g:custom_label_3>Vinter</g:custom_label_3>
+      <g:custom_label_4>Ture og rundvisninger</g:custom_label_4>
+      <g:internal_label>['Vinter','Ture og rundvisninger']</g:internal_label>
     </item>
 <item>
       <g:id>27110008</g:id>
@@ -9859,8 +9929,8 @@
       <g:custom_label_1>Kunstudstillinger</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
       <g:start_date>2027-02-16T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Ferie - Vinter - Voksne</g:custom_label_3>
-      <g:internal_label>['Ferie - Vinter - Voksne']</g:internal_label>
+      <g:custom_label_3>Vinter</g:custom_label_3>
+      <g:internal_label>['Vinter']</g:internal_label>
     </item>
 <item>
       <g:id>27166028</g:id>
@@ -9880,8 +9950,9 @@
       <g:custom_label_1>Kommunikation og drama</g:custom_label_1>
       <g:custom_label_2>Skrivekurser</g:custom_label_2>
       <g:start_date>2027-02-16T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Ferie - Vinter - Voksne, Skrivekurser</g:custom_label_3>
-      <g:internal_label>['Ferie - Vinter - Voksne','Skrivekurser']</g:internal_label>
+      <g:custom_label_3>Vinter</g:custom_label_3>
+      <g:custom_label_4>Skrivekurser</g:custom_label_4>
+      <g:internal_label>['Vinter','Skrivekurser']</g:internal_label>
     </item>
 <item>
       <g:id>27110021</g:id>
@@ -9901,8 +9972,9 @@
       <g:custom_label_1>Rundvisninger</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
       <g:start_date>2027-02-16T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Ferie - Vinter - Voksne, Ture og rundvisninger</g:custom_label_3>
-      <g:internal_label>['Ferie - Vinter - Voksne','Ture og rundvisninger']</g:internal_label>
+      <g:custom_label_3>Vinter</g:custom_label_3>
+      <g:custom_label_4>Ture og rundvisninger</g:custom_label_4>
+      <g:internal_label>['Vinter','Ture og rundvisninger']</g:internal_label>
     </item>
 <item>
       <g:id>27110009</g:id>
@@ -9922,8 +9994,8 @@
       <g:custom_label_1>Kunstudstillinger</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
       <g:start_date>2027-02-19T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Ferie - Vinter - Voksne</g:custom_label_3>
-      <g:internal_label>['Ferie - Vinter - Voksne']</g:internal_label>
+      <g:custom_label_3>Vinter</g:custom_label_3>
+      <g:internal_label>['Vinter']</g:internal_label>
     </item>
 <item>
       <g:id>27151021</g:id>
@@ -9943,8 +10015,8 @@
       <g:custom_label_1>Musik og sang</g:custom_label_1>
       <g:custom_label_2>Musikteori og -produktion</g:custom_label_2>
       <g:start_date>2027-02-20T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Ferie - Vinter - Voksne</g:custom_label_3>
-      <g:internal_label>['Ferie - Vinter - Voksne']</g:internal_label>
+      <g:custom_label_3>Vinter</g:custom_label_3>
+      <g:internal_label>['Vinter']</g:internal_label>
     </item>
 <item>
       <g:id>27110010</g:id>
@@ -9964,8 +10036,8 @@
       <g:custom_label_1>Kunstudstillinger</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
       <g:start_date>2027-02-21T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Ferie - Vinter - Voksne</g:custom_label_3>
-      <g:internal_label>['Ferie - Vinter - Voksne']</g:internal_label>
+      <g:custom_label_3>Vinter</g:custom_label_3>
+      <g:internal_label>['Vinter']</g:internal_label>
     </item>
 <item>
       <g:id>27151101</g:id>
@@ -9985,8 +10057,8 @@
       <g:custom_label_1>Musik og sang</g:custom_label_1>
       <g:custom_label_2>Musikteori og -produktion</g:custom_label_2>
       <g:start_date>2027-02-23T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Frederiksberg - Musik og sang</g:custom_label_3>
-      <g:internal_label>['Frederiksberg - Musik og sang']</g:internal_label>
+      <g:custom_label_3>Frederiksberg</g:custom_label_3>
+      <g:internal_label>['Frederiksberg']</g:internal_label>
     </item>
 <item>
       <g:id>27104006</g:id>
@@ -10006,7 +10078,8 @@
       <g:custom_label_1>Kultur og livsfortællinger</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
       <g:start_date>2027-02-23T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Aftenskolernes Hus, Foredrag</g:custom_label_3>
+      <g:custom_label_3>Aftenskolernes Hus</g:custom_label_3>
+      <g:custom_label_4>Foredrag</g:custom_label_4>
       <g:internal_label>['Aftenskolernes Hus','Foredrag']</g:internal_label>
     </item>
 <item>
@@ -10092,6 +10165,27 @@
       <g:start_date>2027-02-25T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Debat</g:custom_label_3>
       <g:internal_label>['Debat']</g:internal_label>
+    </item>
+<item>
+      <g:id>27113618</g:id>
+      <g:title><![CDATA[Frederik X nye kongeportræt]]></g:title>
+      <g:description><![CDATA[Oplev Frederik X's nye kongeportræt på Frederiksborg Slot på rundvisning. Kom tæt på det nye værk og hør om kunstnerens arbejde med portrættet. Tilmeld dig her.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/frederik-xs-nye-kongeportraet?holdnr=27113618</g:link>
+      <g:image_link>https://www.fof.dk/media/psrd24bq/riddersalen-paa-frederiksborg-foto-anders-sune-berg-for-frederiksborg.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>125.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Rejser, ture og rundvisninger &gt; Kunstudstillinger</g:product_type>
+      <g:custom_label_0>Rejser, ture og rundvisninger</g:custom_label_0>
+      <g:custom_label_1>Kunstudstillinger</g:custom_label_1>
+      <g:custom_label_2></g:custom_label_2>
+      <g:start_date>2027-02-25T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Ture og rundvisninger</g:custom_label_3>
+      <g:internal_label>['Ture og rundvisninger']</g:internal_label>
     </item>
 <item>
       <g:id>27178108</g:id>
@@ -10534,8 +10628,9 @@
       <g:custom_label_1>Sundhed og eksistens</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
       <g:start_date>2027-03-04T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Frederiksberg - foredrag, Debat</g:custom_label_3>
-      <g:internal_label>['Frederiksberg - foredrag','Debat']</g:internal_label>
+      <g:custom_label_3>Frederiksberg</g:custom_label_3>
+      <g:custom_label_4>Debat</g:custom_label_4>
+      <g:internal_label>['Frederiksberg','Debat']</g:internal_label>
     </item>
 <item>
       <g:id>27113511</g:id>
@@ -10576,8 +10671,8 @@
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Malekurser</g:custom_label_2>
       <g:start_date>2027-03-04T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Kommune - Halsnæs</g:custom_label_3>
-      <g:internal_label>['Kommune - Halsnæs']</g:internal_label>
+      <g:custom_label_3>Halsnæs</g:custom_label_3>
+      <g:internal_label>['Halsnæs']</g:internal_label>
     </item>
 <item>
       <g:id>27100004</g:id>
@@ -10660,8 +10755,8 @@
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Malekurser</g:custom_label_2>
       <g:start_date>2027-03-05T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Kommune - Halsnæs</g:custom_label_3>
-      <g:internal_label>['Kommune - Halsnæs']</g:internal_label>
+      <g:custom_label_3>Halsnæs</g:custom_label_3>
+      <g:internal_label>['Halsnæs']</g:internal_label>
     </item>
 <item>
       <g:id>27168004</g:id>
@@ -10746,14 +10841,14 @@
       <g:internal_label>['Korte kurser']</g:internal_label>
     </item>
 <item>
-      <g:id>27113610</g:id>
-      <g:title><![CDATA[Kongernes kirke – rundvisning i Roskilde Domkirke]]></g:title>
-      <g:description><![CDATA[Oplev Roskilde Domkirke på en rundvisning med historier om konger, kapeller og kongelige gravmæler i en UNESCO-kirke fyldt med danmarkshistorie. Tilmeld dig i dag.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/kongernes-kirke-rundvisning-i-roskilde-domkirke?holdnr=27113610</g:link>
-      <g:image_link>https://www.fof.dk/media/omgn3kam/roskilde-domkirke-fofkn-aftenskolen-ture.jpg?width=1200</g:image_link>
+      <g:id>27112527</g:id>
+      <g:title><![CDATA[M4 Sydhavn – på spektakulær kunstrejse under jorden!]]></g:title>
+      <g:description><![CDATA[Tag med på kunstrundvisning i metroens nye M4-linje. Oplev samtidskunst i de fem nye stationer, skabt af danske og internationale kunstnere. Tilmeld her.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/m4-sydhavn-paa-spektakulaer-kunstrejse-under-jorden?holdnr=27112527</g:link>
+      <g:image_link>https://www.fof.dk/media/p2yb0wy5/sluseholmen-fofkn-aftenskolen-ture-foto-metroselskabet-1.jpg?width=1200</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:quantity>1</g:quantity>
-      <g:price>235.00 DKK</g:price>
+      <g:price>200.00 DKK</g:price>
       <g:condition>new</g:condition>
       <g:brand>FOF København og Nordsjælland</g:brand>
       <g:google_product_category>Education</g:google_product_category>
@@ -10767,14 +10862,14 @@
       <g:internal_label>['Ture og rundvisninger']</g:internal_label>
     </item>
 <item>
-      <g:id>27112527</g:id>
-      <g:title><![CDATA[M4 Sydhavn – på spektakulær kunstrejse under jorden!]]></g:title>
-      <g:description><![CDATA[Tag med på kunstrundvisning i metroens nye M4-linje. Oplev samtidskunst i de fem nye stationer, skabt af danske og internationale kunstnere. Tilmeld her.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/m4-sydhavn-paa-spektakulaer-kunstrejse-under-jorden?holdnr=27112527</g:link>
-      <g:image_link>https://www.fof.dk/media/p2yb0wy5/sluseholmen-fofkn-aftenskolen-ture-foto-metroselskabet-1.jpg?width=1200</g:image_link>
+      <g:id>27113610</g:id>
+      <g:title><![CDATA[Kongernes kirke – rundvisning i Roskilde Domkirke]]></g:title>
+      <g:description><![CDATA[Oplev Roskilde Domkirke på en rundvisning med historier om konger, kapeller og kongelige gravmæler i en UNESCO-kirke fyldt med danmarkshistorie. Tilmeld dig i dag.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/kongernes-kirke-rundvisning-i-roskilde-domkirke?holdnr=27113610</g:link>
+      <g:image_link>https://www.fof.dk/media/omgn3kam/roskilde-domkirke-fofkn-aftenskolen-ture.jpg?width=1200</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:quantity>1</g:quantity>
-      <g:price>200.00 DKK</g:price>
+      <g:price>235.00 DKK</g:price>
       <g:condition>new</g:condition>
       <g:brand>FOF København og Nordsjælland</g:brand>
       <g:google_product_category>Education</g:google_product_category>
@@ -11066,8 +11161,9 @@
       <g:custom_label_1>Videnskab og teknologi</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
       <g:start_date>2027-03-11T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Frederiksberg - foredrag, Debat</g:custom_label_3>
-      <g:internal_label>['Frederiksberg - foredrag','Debat']</g:internal_label>
+      <g:custom_label_3>Frederiksberg</g:custom_label_3>
+      <g:custom_label_4>Debat</g:custom_label_4>
+      <g:internal_label>['Frederiksberg','Debat']</g:internal_label>
     </item>
 <item>
       <g:id>27120643</g:id>
@@ -11230,8 +11326,9 @@
       <g:custom_label_1>Sundhed og eksistens</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
       <g:start_date>2027-03-17T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Kommune - Gribskov, Debat</g:custom_label_3>
-      <g:internal_label>['Kommune - Gribskov','Debat']</g:internal_label>
+      <g:custom_label_3>Gribskov</g:custom_label_3>
+      <g:custom_label_4>Debat</g:custom_label_4>
+      <g:internal_label>['Gribskov','Debat']</g:internal_label>
     </item>
 <item>
       <g:id>27104024</g:id>
@@ -11251,8 +11348,9 @@
       <g:custom_label_1>Musik og koncerter</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
       <g:start_date>2027-03-17T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Frederiksberg - foredrag, Foredrag</g:custom_label_3>
-      <g:internal_label>['Frederiksberg - foredrag','Foredrag']</g:internal_label>
+      <g:custom_label_3>Frederiksberg</g:custom_label_3>
+      <g:custom_label_4>Foredrag</g:custom_label_4>
+      <g:internal_label>['Frederiksberg','Foredrag']</g:internal_label>
     </item>
 <item>
       <g:id>27110022</g:id>
@@ -11394,8 +11492,8 @@
       <g:custom_label_1>Kommunikation og drama</g:custom_label_1>
       <g:custom_label_2>Drama og skuespil</g:custom_label_2>
       <g:start_date>2027-03-22T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>PÅSKE, Ferie - Påske - Voksne</g:custom_label_3>
-      <g:internal_label>['PÅSKE','Ferie - Påske - Voksne']</g:internal_label>
+      <g:custom_label_3>Påske</g:custom_label_3>
+      <g:internal_label>['Påske']</g:internal_label>
     </item>
 <item>
       <g:id>27100013</g:id>
@@ -11977,8 +12075,9 @@
       <g:custom_label_1>Rundvisninger</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
       <g:start_date>2027-04-11T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Frederiksberg - rundvisninger og ture, Ture og rundvisninger</g:custom_label_3>
-      <g:internal_label>['Frederiksberg - rundvisninger og ture','Ture og rundvisninger']</g:internal_label>
+      <g:custom_label_3>Frederiksberg</g:custom_label_3>
+      <g:custom_label_4>Ture og rundvisninger</g:custom_label_4>
+      <g:internal_label>['Frederiksberg','Ture og rundvisninger']</g:internal_label>
     </item>
 <item>
       <g:id>27112511</g:id>
@@ -12370,8 +12469,8 @@
       <g:custom_label_1>Musik og sang</g:custom_label_1>
       <g:custom_label_2>Musikteori og -produktion</g:custom_label_2>
       <g:start_date>2027-04-20T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Frederiksberg - Musik og sang</g:custom_label_3>
-      <g:internal_label>['Frederiksberg - Musik og sang']</g:internal_label>
+      <g:custom_label_3>Frederiksberg</g:custom_label_3>
+      <g:internal_label>['Frederiksberg']</g:internal_label>
     </item>
 <item>
       <g:id>27100019</g:id>
@@ -12639,8 +12738,9 @@
       <g:custom_label_1>Byvandringer</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
       <g:start_date>2027-04-30T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Frederiksberg - rundvisninger og ture, Ture og rundvisninger</g:custom_label_3>
-      <g:internal_label>['Frederiksberg - rundvisninger og ture','Ture og rundvisninger']</g:internal_label>
+      <g:custom_label_3>Frederiksberg</g:custom_label_3>
+      <g:custom_label_4>Ture og rundvisninger</g:custom_label_4>
+      <g:internal_label>['Frederiksberg','Ture og rundvisninger']</g:internal_label>
     </item>
 <item>
       <g:id>27107064</g:id>
@@ -13072,8 +13172,8 @@
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Tai Chi og Qi Gong</g:custom_label_2>
       <g:start_date>2027-05-19T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>SOMMER, Ferie - Sommer - Motion</g:custom_label_3>
-      <g:internal_label>['SOMMER','Ferie - Sommer - Motion']</g:internal_label>
+      <g:custom_label_3>Sommer</g:custom_label_3>
+      <g:internal_label>['Sommer']</g:internal_label>
     </item>
 <item>
       <g:id>27420481</g:id>
@@ -13093,8 +13193,8 @@
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Yoga</g:custom_label_2>
       <g:start_date>2027-05-19T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>SOMMER, Ferie - Sommer - Motion</g:custom_label_3>
-      <g:internal_label>['SOMMER','Ferie - Sommer - Motion']</g:internal_label>
+      <g:custom_label_3>Sommer</g:custom_label_3>
+      <g:internal_label>['Sommer']</g:internal_label>
     </item>
 <item>
       <g:id>27104009</g:id>
@@ -13316,8 +13416,9 @@
       <g:custom_label_1>Rundvisninger</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
       <g:start_date>2027-05-23T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Frederiksberg - rundvisninger og ture, Ture og rundvisninger</g:custom_label_3>
-      <g:internal_label>['Frederiksberg - rundvisninger og ture','Ture og rundvisninger']</g:internal_label>
+      <g:custom_label_3>Frederiksberg</g:custom_label_3>
+      <g:custom_label_4>Ture og rundvisninger</g:custom_label_4>
+      <g:internal_label>['Frederiksberg','Ture og rundvisninger']</g:internal_label>
     </item>
 <item>
       <g:id>27113616</g:id>
@@ -13358,8 +13459,9 @@
       <g:custom_label_1>Byvandringer</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
       <g:start_date>2027-05-24T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Frederiksberg - rundvisninger og ture, Ture og rundvisninger</g:custom_label_3>
-      <g:internal_label>['Frederiksberg - rundvisninger og ture','Ture og rundvisninger']</g:internal_label>
+      <g:custom_label_3>Frederiksberg</g:custom_label_3>
+      <g:custom_label_4>Ture og rundvisninger</g:custom_label_4>
+      <g:internal_label>['Frederiksberg','Ture og rundvisninger']</g:internal_label>
     </item>
 <item>
       <g:id>27110024</g:id>
@@ -14022,8 +14124,8 @@
       <g:custom_label_1>Kommunikation og drama</g:custom_label_1>
       <g:custom_label_2>Skrivekurser</g:custom_label_2>
       <g:start_date>2027-06-21T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>SOMMER, Ferie - Sommer - Kommunikation</g:custom_label_3>
-      <g:internal_label>['SOMMER','Ferie - Sommer - Kommunikation']</g:internal_label>
+      <g:custom_label_3>Sommer</g:custom_label_3>
+      <g:internal_label>['Sommer']</g:internal_label>
     </item>
 <item>
       <g:id>27112535</g:id>
