@@ -27,27 +27,6 @@
       <g:internal_label>['Nykøbing F']</g:internal_label>
     </item>
 <item>
-      <g:id>0446</g:id>
-      <g:title><![CDATA[Rumfartsshow med Rasmus Krath og Andreas Mogensen]]></g:title>
-      <g:description><![CDATA[Oplev et fascinerende foredrag om rumfart i Haslev med Rasmus Krath og astronaut Andreas Mogensen. Bliv klogere på rummet, teknologi og livet på Den Internationale Rumstation.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-sydoest/rumfart-med-rasmus-krath-og-andreas-mogensen?holdnr=0446</g:link>
-      <g:image_link>https://www.fof.dk/media/lfcp3mvw/rumfart_fof_aftenskolen.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>180.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Sydøst</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Foredrag, debat og højskoler &gt; Videnskab og teknologi</g:product_type>
-      <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
-      <g:custom_label_1>Videnskab og teknologi</g:custom_label_1>
-      <g:custom_label_2></g:custom_label_2>
-      <g:custom_label_4>Haslev</g:custom_label_4>
-      <g:start_date>2026-10-29T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Haslev']</g:internal_label>
-    </item>
-<item>
       <g:id>20176</g:id>
       <g:title><![CDATA[Papirblomster - let øvede]]></g:title>
       <g:description><![CDATA[Lær at skabe smukke papirblomster på FOF’s aftenskolehold i Vordingborg. Ét dags weekend-kursus fyldt med kreativitet, fordybelse og forårs­inspiration.]]></g:description>
@@ -195,6 +174,27 @@
       <g:custom_label_4>Nykøbing F</g:custom_label_4>
       <g:start_date>2026-11-05T00:00:00.000Z</g:start_date>
       <g:internal_label>['Nykøbing F']</g:internal_label>
+    </item>
+<item>
+      <g:id>20230</g:id>
+      <g:title><![CDATA[Sangundervisning for begyndere - solo]]></g:title>
+      <g:description><![CDATA[Har du lyst til at lære at synge, eller kan du allerede noget? Vi tilbyder individuel sangundervisning, hvor du vil få lært de mest elementære teknikker og udvikle din egen sangstemme med faguddannede undervisere. ]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydoest/sang?holdnr=20230</g:link>
+      <g:image_link>https://www.fof.dk/media/qxijabf1/sang_fof_aftenskolen.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>2043.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydøst</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Musik og sang &gt; Sang og stemmetræning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Musik og sang</g:custom_label_1>
+      <g:custom_label_2>Sang og stemmetræning</g:custom_label_2>
+      <g:custom_label_4>Vordingborg</g:custom_label_4>
+      <g:start_date>2026-11-05T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Vordingborg']</g:internal_label>
     </item>
 <item>
       <g:id>3623</g:id>

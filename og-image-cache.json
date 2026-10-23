@@ -667,10 +667,6 @@
     "ogImage": "https://www.fof.dk/media/cqro4uex/madglad60_2_1200x1200_aarhus.jpg?width=1200",
     "fetchedAt": "2026-10-20T13:05:50.874Z"
   },
-  "https://www.fof.dk/aftenskolen/fof-aarhus/maren-uthaug-er-du-klar-til-den-sidste-procent": {
-    "ogImage": "https://www.fof.dk/media/vuhfqu2x/maren_uthaug_foredrag_fof_aarhus_1200x1200.jpg?width=1200",
-    "fetchedAt": "2026-10-20T13:06:03.636Z"
-  },
   "https://www.fof.dk/aftenskolen/fof-aarhus/marianne-gammelgaard-ryd-op-i-det-ydre-find-hjem-i-det-indre": {
     "ogImage": "https://www.fof.dk/media/yu0dtdfp/marianne-gammelgaard-foredrag-aarhus-fof-aftenskolen.jpg?width=1200",
     "fetchedAt": "2026-10-20T13:06:04.250Z"
@@ -890,6 +886,10 @@
   "https://www.fof.dk/aftenskolen/fof-aarhus/tur-til-hvidsten-kro": {
     "ogImage": "https://www.fof.dk/media/e5sdiwy2/hvidsten-kro_indgang_1200x1200_fof-aarhus.jpg?width=1200",
     "fetchedAt": "2026-10-20T13:06:04.297Z"
+  },
+  "https://www.fof.dk/aftenskolen/fof-aarhus/vandretur-til-boelling-soe": {
+    "ogImage": "https://www.fof.dk/media/ndtbgjqa/havoern-vandretur-boelling-soe-fof-aarhus.jpg?width=1200",
+    "fetchedAt": "2026-10-23T20:00:58.058Z"
   },
   "https://www.fof.dk/aftenskolen/fof-aarhus/ve-traening": {
     "ogImage": "https://www.fof.dk/media/tinlo44g/vetraening_5_1200x1200-aarhus.jpg?width=1200",
@@ -2694,10 +2694,6 @@
   "https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/senioryogaworkshop-yoga-og-meditation": {
     "ogImage": "https://www.fof.dk/media/rtahv0v1/yin-yoga-fofkn-aftenskolen-motion-og-sundhed-ns-3.jpg?width=1200",
     "fetchedAt": "2026-10-20T13:06:46.918Z"
-  },
-  "https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/sild-soefolk-og-smalle-straeder": {
-    "ogImage": "https://www.fof.dk/media/lyhh54da/kronborg-pexels-mylokaye.jpg?width=1200",
-    "fetchedAt": "2026-10-20T13:06:32.315Z"
   },
   "https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/silketryk-paa-stof": {
     "ogImage": "https://www.fof.dk/media/p4tdgcxg/tryk-fofkn-aftenskolen-kreative-kurser-kristina-schaper-3.jpg?width=1200",
@@ -5543,9 +5539,9 @@
     "ogImage": "https://www.fof.dk/media/cmocpn52/rachel-rastenni_fof_aftenskolen.jpg?width=1200",
     "fetchedAt": "2026-10-20T13:07:43.836Z"
   },
-  "https://www.fof.dk/aftenskolen/fof-sydoest/rumfart-med-rasmus-krath-og-andreas-mogensen": {
-    "ogImage": "https://www.fof.dk/media/lfcp3mvw/rumfart_fof_aftenskolen.jpg?width=1200",
-    "fetchedAt": "2026-10-20T13:07:42.427Z"
+  "https://www.fof.dk/aftenskolen/fof-sydoest/sang": {
+    "ogImage": "https://www.fof.dk/media/qxijabf1/sang_fof_aftenskolen.jpg?width=1200",
+    "fetchedAt": "2026-10-23T20:01:04.740Z"
   },
   "https://www.fof.dk/aftenskolen/fof-sydoest/slip-kreativiteten-loes-med-keramik": {
     "ogImage": "https://www.fof.dk/media/r5hdr2wg/keramik_fof_aftenskole_3.jpg?width=1200",
