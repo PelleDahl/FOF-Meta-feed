@@ -22,9 +22,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Odense</g:custom_label_4>
       <g:start_date>2026-10-24T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Odense</g:custom_label_3>
-      <g:internal_label>['Odense']</g:internal_label>
+      <g:internal_label>['Odense','Odense C']</g:internal_label>
     </item>
 <item>
       <g:id>162728</g:id>
@@ -43,9 +44,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Tai Chi og Qi Gong</g:custom_label_2>
+      <g:custom_label_4>Odense</g:custom_label_4>
       <g:start_date>2026-10-25T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Odense</g:custom_label_3>
-      <g:internal_label>['Odense']</g:internal_label>
+      <g:internal_label>['Odense','Odense C']</g:internal_label>
     </item>
 <item>
       <g:id>662882</g:id>
@@ -64,7 +66,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Bevægelse og afspænding</g:custom_label_2>
+      <g:custom_label_4>Faaborg</g:custom_label_4>
       <g:start_date>2026-10-26T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Faaborg']</g:internal_label>
     </item>
 <item>
       <g:id>163179</g:id>
@@ -83,9 +87,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Malekurser</g:custom_label_2>
+      <g:custom_label_4>Odense</g:custom_label_4>
       <g:start_date>2026-10-26T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Odense</g:custom_label_3>
-      <g:internal_label>['Odense']</g:internal_label>
+      <g:internal_label>['Odense','Odense C']</g:internal_label>
     </item>
 <item>
       <g:id>362130</g:id>
@@ -104,7 +109,9 @@
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Musik og koncerter</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Middelfart</g:custom_label_4>
       <g:start_date>2026-10-28T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Middelfart']</g:internal_label>
     </item>
 <item>
       <g:id>163082</g:id>
@@ -125,9 +132,10 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>It og foto</g:custom_label_1>
       <g:custom_label_2>Kunstig intelligens - AI</g:custom_label_2>
+      <g:custom_label_4>Odense</g:custom_label_4>
       <g:start_date>2026-10-28T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Odense</g:custom_label_3>
-      <g:internal_label>['Odense']</g:internal_label>
+      <g:internal_label>['Odense','Odense C']</g:internal_label>
     </item>
 <item>
       <g:id>162131</g:id>
@@ -146,7 +154,9 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Videnskab og teknologi</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Odense</g:custom_label_4>
       <g:start_date>2026-10-29T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Odense C']</g:internal_label>
     </item>
 <item>
       <g:id>163081</g:id>
@@ -165,9 +175,10 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>It og foto</g:custom_label_1>
       <g:custom_label_2>Kunstig intelligens - AI</g:custom_label_2>
+      <g:custom_label_4>Odense</g:custom_label_4>
       <g:start_date>2026-10-29T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Odense</g:custom_label_3>
-      <g:internal_label>['Odense']</g:internal_label>
+      <g:internal_label>['Odense','Odense C']</g:internal_label>
     </item>
 <item>
       <g:id>163025</g:id>
@@ -186,9 +197,10 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
       <g:custom_label_2>Verdenskøkkenet</g:custom_label_2>
+      <g:custom_label_4>Odense</g:custom_label_4>
       <g:start_date>2026-10-31T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Odense</g:custom_label_3>
-      <g:internal_label>['Odense']</g:internal_label>
+      <g:internal_label>['Odense','Odense C']</g:internal_label>
     </item>
 <item>
       <g:id>163155</g:id>
@@ -207,9 +219,10 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Tegnekurser</g:custom_label_2>
+      <g:custom_label_4>Odense</g:custom_label_4>
       <g:start_date>2026-10-31T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Odense</g:custom_label_3>
-      <g:internal_label>['Odense']</g:internal_label>
+      <g:internal_label>['Odense','Odense C']</g:internal_label>
     </item>
 <item>
       <g:id>462131</g:id>
@@ -228,7 +241,9 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Videnskab og teknologi</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Assens</g:custom_label_4>
       <g:start_date>2026-11-02T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Assens']</g:internal_label>
     </item>
 <item>
       <g:id>163083</g:id>
@@ -249,9 +264,10 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>It og foto</g:custom_label_1>
       <g:custom_label_2>Kunstig intelligens - AI</g:custom_label_2>
+      <g:custom_label_4>Odense</g:custom_label_4>
       <g:start_date>2026-11-03T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Odense</g:custom_label_3>
-      <g:internal_label>['Odense']</g:internal_label>
+      <g:internal_label>['Odense','Odense C']</g:internal_label>
     </item>
 <item>
       <g:id>162132</g:id>
@@ -270,7 +286,9 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Sundhed og eksistens</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Odense</g:custom_label_4>
       <g:start_date>2026-11-05T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Odense C']</g:internal_label>
     </item>
 <item>
       <g:id>163121</g:id>
@@ -289,9 +307,10 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Blomsterbinding</g:custom_label_2>
+      <g:custom_label_4>Odense</g:custom_label_4>
       <g:start_date>2026-11-10T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Odense</g:custom_label_3>
-      <g:internal_label>['Odense']</g:internal_label>
+      <g:internal_label>['Odense','Odense SØ']</g:internal_label>
     </item>
 <item>
       <g:id>563122</g:id>
@@ -310,6 +329,7 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Håndværk og kunsthåndværk</g:custom_label_2>
+      <g:custom_label_4>Svendborg</g:custom_label_4>
       <g:start_date>2026-11-14T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Svendborg</g:custom_label_3>
       <g:internal_label>['Svendborg']</g:internal_label>
@@ -331,9 +351,10 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Blomsterbinding</g:custom_label_2>
+      <g:custom_label_4>Odense</g:custom_label_4>
       <g:start_date>2026-11-15T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Odense</g:custom_label_3>
-      <g:internal_label>['Odense']</g:internal_label>
+      <g:internal_label>['Odense','Odense SØ']</g:internal_label>
     </item>
 <item>
       <g:id>162122</g:id>
@@ -352,7 +373,9 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Kultur og livsfortællinger</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Odense</g:custom_label_4>
       <g:start_date>2026-11-16T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Odense C']</g:internal_label>
     </item>
 <item>
       <g:id>162123</g:id>
@@ -371,7 +394,9 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Kultur og livsfortællinger</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Odense</g:custom_label_4>
       <g:start_date>2026-11-16T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Odense C']</g:internal_label>
     </item>
 <item>
       <g:id>162972</g:id>
@@ -390,9 +415,10 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
       <g:custom_label_2>Motion for gravide</g:custom_label_2>
+      <g:custom_label_4>Odense</g:custom_label_4>
       <g:start_date>2026-11-17T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Odense</g:custom_label_3>
-      <g:internal_label>['Odense']</g:internal_label>
+      <g:internal_label>['Odense','Odense M']</g:internal_label>
     </item>
 <item>
       <g:id>162973</g:id>
@@ -411,9 +437,10 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
       <g:custom_label_2>Motion for gravide</g:custom_label_2>
+      <g:custom_label_4>Odense</g:custom_label_4>
       <g:start_date>2026-11-17T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Odense</g:custom_label_3>
-      <g:internal_label>['Odense']</g:internal_label>
+      <g:internal_label>['Odense','Odense M']</g:internal_label>
     </item>
 <item>
       <g:id>562130</g:id>
@@ -432,6 +459,7 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Samfund og historie</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Svendborg</g:custom_label_4>
       <g:start_date>2026-11-18T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Svendborg</g:custom_label_3>
       <g:internal_label>['Svendborg']</g:internal_label>
@@ -453,9 +481,10 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
       <g:custom_label_2>Motion for gravide</g:custom_label_2>
+      <g:custom_label_4>Fredericia</g:custom_label_4>
       <g:start_date>2026-11-25T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Odense</g:custom_label_3>
-      <g:internal_label>['Odense']</g:internal_label>
+      <g:internal_label>['Odense','Fredericia']</g:internal_label>
     </item>
 <item>
       <g:id>162839</g:id>
@@ -474,9 +503,10 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Odense</g:custom_label_4>
       <g:start_date>2026-11-27T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Odense</g:custom_label_3>
-      <g:internal_label>['Odense']</g:internal_label>
+      <g:internal_label>['Odense','Odense C']</g:internal_label>
     </item>
 <item>
       <g:id>162965</g:id>
@@ -495,9 +525,10 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
       <g:custom_label_2>Aktiviteter med baby</g:custom_label_2>
+      <g:custom_label_4>Odense</g:custom_label_4>
       <g:start_date>2026-11-28T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Odense</g:custom_label_3>
-      <g:internal_label>['Odense']</g:internal_label>
+      <g:internal_label>['Odense','Odense C']</g:internal_label>
     </item>
 <item>
       <g:id>163156</g:id>
@@ -516,9 +547,10 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Tegnekurser</g:custom_label_2>
+      <g:custom_label_4>Odense</g:custom_label_4>
       <g:start_date>2026-12-05T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Odense</g:custom_label_3>
-      <g:internal_label>['Odense']</g:internal_label>
+      <g:internal_label>['Odense','Odense C']</g:internal_label>
     </item>
 <item>
       <g:id>170122</g:id>
@@ -537,7 +569,9 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Kultur og livsfortællinger</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Odense</g:custom_label_4>
       <g:start_date>2027-01-18T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Odense C']</g:internal_label>
     </item>
 <item>
       <g:id>171980</g:id>
@@ -556,7 +590,9 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Livsstil og trivsel</g:custom_label_1>
       <g:custom_label_2>Personlig udvikling</g:custom_label_2>
+      <g:custom_label_4>Odense</g:custom_label_4>
       <g:start_date>2027-02-02T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Odense C']</g:internal_label>
     </item>
 <item>
       <g:id>170130</g:id>
@@ -575,7 +611,9 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Sundhed og eksistens</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Odense</g:custom_label_4>
       <g:start_date>2027-02-04T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Odense C']</g:internal_label>
     </item>
 <item>
       <g:id>170140</g:id>
@@ -594,7 +632,9 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:custom_label_0>Rejser, ture og rundvisninger</g:custom_label_0>
       <g:custom_label_1>Kulturrejser</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Odense</g:custom_label_4>
       <g:start_date>2027-02-19T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Odense S']</g:internal_label>
     </item>
 <item>
       <g:id>171230</g:id>
@@ -613,7 +653,9 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Håndarbejde</g:custom_label_2>
+      <g:custom_label_4>Odense</g:custom_label_4>
       <g:start_date>2027-03-02T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Odense C']</g:internal_label>
     </item>
 <item>
       <g:id>171900</g:id>
@@ -632,7 +674,9 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Livsstil og trivsel</g:custom_label_1>
       <g:custom_label_2>Mental trivsel</g:custom_label_2>
+      <g:custom_label_4>Odense</g:custom_label_4>
       <g:start_date>2027-03-04T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Odense C']</g:internal_label>
     </item>
 <item>
       <g:id>170123</g:id>
@@ -651,7 +695,9 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Kultur og livsfortællinger</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Odense</g:custom_label_4>
       <g:start_date>2027-03-15T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Odense C']</g:internal_label>
     </item>
 </channel>
 </rss>

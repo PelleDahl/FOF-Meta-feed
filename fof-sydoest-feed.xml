@@ -22,7 +22,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Dans</g:custom_label_2>
+      <g:custom_label_4>Nykøbing F</g:custom_label_4>
       <g:start_date>2026-10-28T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Nykøbing F']</g:internal_label>
     </item>
 <item>
       <g:id>0446</g:id>
@@ -41,7 +43,9 @@
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Videnskab og teknologi</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Haslev</g:custom_label_4>
       <g:start_date>2026-10-29T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Haslev']</g:internal_label>
     </item>
 <item>
       <g:id>20176</g:id>
@@ -60,10 +64,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Håndværk og kunsthåndværk</g:custom_label_2>
+      <g:custom_label_4>Vordingborg</g:custom_label_4>
       <g:start_date>2026-11-01T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Kreative kurser</g:custom_label_3>
-      <g:custom_label_4>Workshops</g:custom_label_4>
-      <g:internal_label>['Kreative kurser','Workshops']</g:internal_label>
+      <g:internal_label>['Kreative kurser','Workshops','Vordingborg']</g:internal_label>
     </item>
 <item>
       <g:id>0434</g:id>
@@ -82,7 +86,9 @@
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Samfund og historie</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Nykøbing F</g:custom_label_4>
       <g:start_date>2026-11-02T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Nykøbing F']</g:internal_label>
     </item>
 <item>
       <g:id>1442</g:id>
@@ -101,7 +107,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Styrke- og konditionstræning</g:custom_label_2>
+      <g:custom_label_4>Haslev</g:custom_label_4>
       <g:start_date>2026-11-02T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Haslev']</g:internal_label>
     </item>
 <item>
       <g:id>20224</g:id>
@@ -120,7 +128,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Præstø</g:custom_label_4>
       <g:start_date>2026-11-03T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Præstø']</g:internal_label>
     </item>
 <item>
       <g:id>0435</g:id>
@@ -139,7 +149,9 @@
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Samfund og historie</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Haslev</g:custom_label_4>
       <g:start_date>2026-11-03T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Haslev']</g:internal_label>
     </item>
 <item>
       <g:id>0452</g:id>
@@ -158,9 +170,10 @@
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1></g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Nakskov</g:custom_label_4>
       <g:start_date>2026-11-05T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Foredrag</g:custom_label_3>
-      <g:internal_label>['Foredrag']</g:internal_label>
+      <g:internal_label>['Foredrag','Nakskov']</g:internal_label>
     </item>
 <item>
       <g:id>0444</g:id>
@@ -179,7 +192,9 @@
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>True crime</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Nykøbing F</g:custom_label_4>
       <g:start_date>2026-11-05T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Nykøbing F']</g:internal_label>
     </item>
 <item>
       <g:id>3623</g:id>
@@ -198,10 +213,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Natur og udeliv</g:custom_label_1>
       <g:custom_label_2>Naturfag og friluftsliv</g:custom_label_2>
+      <g:custom_label_4>Eskilstrup</g:custom_label_4>
       <g:start_date>2026-11-07T00:00:00.000Z</g:start_date>
       <g:custom_label_3>natur og udeliv</g:custom_label_3>
-      <g:custom_label_4>Workshops</g:custom_label_4>
-      <g:internal_label>['natur og udeliv','Workshops','Sundhed og eksistens']</g:internal_label>
+      <g:internal_label>['natur og udeliv','Workshops','Sundhed og eksistens','Eskilstrup']</g:internal_label>
     </item>
 <item>
       <g:id>20151</g:id>
@@ -220,10 +235,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Vordingborg</g:custom_label_4>
       <g:start_date>2026-11-07T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Workshops</g:custom_label_3>
-      <g:custom_label_4>Sundhed og eksistens</g:custom_label_4>
-      <g:internal_label>['Workshops','Sundhed og eksistens']</g:internal_label>
+      <g:internal_label>['Workshops','Sundhed og eksistens','Vordingborg']</g:internal_label>
     </item>
 <item>
       <g:id>0453</g:id>
@@ -242,9 +257,10 @@
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Samfund og historie</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Haslev</g:custom_label_4>
       <g:start_date>2026-11-12T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Foredrag</g:custom_label_3>
-      <g:internal_label>['Foredrag']</g:internal_label>
+      <g:internal_label>['Foredrag','Haslev']</g:internal_label>
     </item>
 <item>
       <g:id>20221</g:id>
@@ -263,10 +279,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Keramik</g:custom_label_2>
+      <g:custom_label_4>Stege</g:custom_label_4>
       <g:start_date>2026-11-12T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Kreative kurser</g:custom_label_3>
-      <g:custom_label_4>Håndværk</g:custom_label_4>
-      <g:internal_label>['Kreative kurser','Håndværk']</g:internal_label>
+      <g:internal_label>['Kreative kurser','Håndværk','Stege']</g:internal_label>
     </item>
 <item>
       <g:id>3624</g:id>
@@ -285,10 +301,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Nykøbing F</g:custom_label_4>
       <g:start_date>2026-11-14T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Workshops</g:custom_label_3>
-      <g:custom_label_4>Sundhed og eksistens</g:custom_label_4>
-      <g:internal_label>['Workshops','Sundhed og eksistens']</g:internal_label>
+      <g:internal_label>['Workshops','Sundhed og eksistens','Nykøbing F']</g:internal_label>
     </item>
 <item>
       <g:id>20193</g:id>
@@ -307,10 +323,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Håndværk og kunsthåndværk</g:custom_label_2>
+      <g:custom_label_4>Vordingborg</g:custom_label_4>
       <g:start_date>2026-11-14T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Kreative kurser</g:custom_label_3>
-      <g:custom_label_4>Workshops</g:custom_label_4>
-      <g:internal_label>['Kreative kurser','Workshops']</g:internal_label>
+      <g:internal_label>['Kreative kurser','Workshops','Vordingborg']</g:internal_label>
     </item>
 <item>
       <g:id>0437</g:id>
@@ -329,7 +345,9 @@
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Musik og koncerter</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Nykøbing F</g:custom_label_4>
       <g:start_date>2026-11-16T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Nykøbing F']</g:internal_label>
     </item>
 <item>
       <g:id>0438</g:id>
@@ -348,7 +366,9 @@
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Musik og koncerter</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Haslev</g:custom_label_4>
       <g:start_date>2026-11-17T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Haslev']</g:internal_label>
     </item>
 <item>
       <g:id>0439</g:id>
@@ -367,7 +387,9 @@
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Musik og koncerter</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Vordingborg</g:custom_label_4>
       <g:start_date>2026-11-19T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Vordingborg']</g:internal_label>
     </item>
 <item>
       <g:id>4071</g:id>
@@ -386,10 +408,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Håndværk og kunsthåndværk</g:custom_label_2>
+      <g:custom_label_4>Rødby</g:custom_label_4>
       <g:start_date>2026-11-21T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Kreative kurser</g:custom_label_3>
-      <g:custom_label_4>Håndværk</g:custom_label_4>
-      <g:internal_label>['Kreative kurser','Håndværk','Workshops']</g:internal_label>
+      <g:internal_label>['Kreative kurser','Håndværk','Workshops','Rødby']</g:internal_label>
     </item>
 <item>
       <g:id>20223</g:id>
@@ -408,7 +430,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Sprog</g:custom_label_1>
       <g:custom_label_2>Japansk</g:custom_label_2>
+      <g:custom_label_4>Vordingborg</g:custom_label_4>
       <g:start_date>2027-01-12T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Vordingborg']</g:internal_label>
     </item>
 <item>
       <g:id>4070</g:id>
@@ -427,7 +451,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Sprog</g:custom_label_1>
       <g:custom_label_2>Spansk</g:custom_label_2>
+      <g:custom_label_4>Maribo</g:custom_label_4>
       <g:start_date>2027-01-13T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Maribo']</g:internal_label>
     </item>
 <item>
       <g:id>3625</g:id>
@@ -446,7 +472,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Sprog</g:custom_label_1>
       <g:custom_label_2>Spansk</g:custom_label_2>
+      <g:custom_label_4>Maribo</g:custom_label_4>
       <g:start_date>2027-01-13T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Maribo']</g:internal_label>
     </item>
 <item>
       <g:id>1431</g:id>
@@ -465,10 +493,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Træarbejde</g:custom_label_2>
+      <g:custom_label_4>Haslev</g:custom_label_4>
       <g:start_date>2027-01-16T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Håndværk</g:custom_label_3>
-      <g:custom_label_4>Kreative kurser</g:custom_label_4>
-      <g:internal_label>['Håndværk','Kreative kurser','Workshops']</g:internal_label>
+      <g:internal_label>['Håndværk','Kreative kurser','Workshops','Haslev']</g:internal_label>
     </item>
 <item>
       <g:id>0455</g:id>
@@ -487,10 +515,10 @@
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Sundhed og eksistens</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Vordingborg</g:custom_label_4>
       <g:start_date>2027-01-19T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Foredrag</g:custom_label_3>
-      <g:custom_label_4>Sundhed og eksistens</g:custom_label_4>
-      <g:internal_label>['Foredrag','Sundhed og eksistens','Livsstil og trivsel']</g:internal_label>
+      <g:internal_label>['Foredrag','Sundhed og eksistens','Livsstil og trivsel','Vordingborg']</g:internal_label>
     </item>
 <item>
       <g:id>1432</g:id>
@@ -509,10 +537,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Træarbejde</g:custom_label_2>
+      <g:custom_label_4>Haslev</g:custom_label_4>
       <g:start_date>2027-02-20T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Håndværk</g:custom_label_3>
-      <g:custom_label_4>Kreative kurser</g:custom_label_4>
-      <g:internal_label>['Håndværk','Kreative kurser','Workshops']</g:internal_label>
+      <g:internal_label>['Håndværk','Kreative kurser','Workshops','Haslev']</g:internal_label>
     </item>
 <item>
       <g:id>1433</g:id>
@@ -531,10 +559,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Træarbejde</g:custom_label_2>
+      <g:custom_label_4>Haslev</g:custom_label_4>
       <g:start_date>2027-03-20T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Håndværk</g:custom_label_3>
-      <g:custom_label_4>Kreative kurser</g:custom_label_4>
-      <g:internal_label>['Håndværk','Kreative kurser','Workshops']</g:internal_label>
+      <g:internal_label>['Håndværk','Kreative kurser','Workshops','Haslev']</g:internal_label>
     </item>
 <item>
       <g:id>0456</g:id>
@@ -553,10 +581,10 @@
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Sundhed og eksistens</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Haslev</g:custom_label_4>
       <g:start_date>2027-04-08T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Foredrag</g:custom_label_3>
-      <g:custom_label_4>Sundhed og eksistens</g:custom_label_4>
-      <g:internal_label>['Foredrag','Sundhed og eksistens','Livsstil og trivsel']</g:internal_label>
+      <g:internal_label>['Foredrag','Sundhed og eksistens','Livsstil og trivsel','Haslev']</g:internal_label>
     </item>
 <item>
       <g:id>4062</g:id>
@@ -575,10 +603,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Håndværk og kunsthåndværk</g:custom_label_2>
+      <g:custom_label_4>Vordingborg</g:custom_label_4>
       <g:start_date>2027-04-16T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Håndværk</g:custom_label_3>
-      <g:custom_label_4>Workshops</g:custom_label_4>
-      <g:internal_label>['Håndværk','Workshops','Kreative kurser']</g:internal_label>
+      <g:internal_label>['Håndværk','Workshops','Kreative kurser','Vordingborg']</g:internal_label>
     </item>
 </channel>
 </rss>

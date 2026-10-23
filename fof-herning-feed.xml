@@ -22,7 +22,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Livsstil og trivsel</g:custom_label_1>
       <g:custom_label_2>Kropspleje</g:custom_label_2>
+      <g:custom_label_4>Herning</g:custom_label_4>
       <g:start_date>2026-10-24T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Herning']</g:internal_label>
     </item>
 <item>
       <g:id>48416</g:id>
@@ -41,7 +43,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Tegnekurser</g:custom_label_2>
+      <g:custom_label_4>Herning</g:custom_label_4>
       <g:start_date>2026-10-26T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Herning']</g:internal_label>
     </item>
 <item>
       <g:id>68218</g:id>
@@ -60,9 +64,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Træning i vand</g:custom_label_2>
+      <g:custom_label_4>Tarm</g:custom_label_4>
       <g:start_date>2026-10-26T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Nyhed</g:custom_label_3>
-      <g:internal_label>['Nyhed']</g:internal_label>
+      <g:internal_label>['Nyhed','Tarm']</g:internal_label>
     </item>
 <item>
       <g:id>48303</g:id>
@@ -81,7 +86,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Førstehjælp</g:custom_label_2>
+      <g:custom_label_4>Herning</g:custom_label_4>
       <g:start_date>2026-10-28T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Herning']</g:internal_label>
     </item>
 <item>
       <g:id>48171</g:id>
@@ -100,7 +107,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Herning</g:custom_label_4>
       <g:start_date>2026-10-30T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Herning']</g:internal_label>
     </item>
 <item>
       <g:id>48415</g:id>
@@ -119,7 +128,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Håndværk og kunsthåndværk</g:custom_label_2>
+      <g:custom_label_4>Herning</g:custom_label_4>
       <g:start_date>2026-11-01T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Herning']</g:internal_label>
     </item>
 <item>
       <g:id>48012</g:id>
@@ -138,9 +149,10 @@
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Sundhed og eksistens</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Herning</g:custom_label_4>
       <g:start_date>2026-11-02T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Foredrag</g:custom_label_3>
-      <g:internal_label>['Foredrag']</g:internal_label>
+      <g:internal_label>['Foredrag','Herning']</g:internal_label>
     </item>
 <item>
       <g:id>48806</g:id>
@@ -159,9 +171,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
       <g:custom_label_2>Vegetarisk og vegansk</g:custom_label_2>
+      <g:custom_label_4>Herning</g:custom_label_4>
       <g:start_date>2026-11-05T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Madkurser</g:custom_label_3>
-      <g:internal_label>['Madkurser']</g:internal_label>
+      <g:internal_label>['Madkurser','Herning']</g:internal_label>
     </item>
 <item>
       <g:id>48321</g:id>
@@ -180,7 +193,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Livsstil og trivsel</g:custom_label_1>
       <g:custom_label_2>Kropspleje</g:custom_label_2>
+      <g:custom_label_4>Herning</g:custom_label_4>
       <g:start_date>2026-11-07T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Herning']</g:internal_label>
     </item>
 <item>
       <g:id>48825</g:id>
@@ -199,9 +214,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
       <g:custom_label_2>Verdenskøkkenet</g:custom_label_2>
+      <g:custom_label_4>Herning</g:custom_label_4>
       <g:start_date>2026-11-10T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Madkurser</g:custom_label_3>
-      <g:internal_label>['Madkurser']</g:internal_label>
+      <g:internal_label>['Madkurser','Herning']</g:internal_label>
     </item>
 <item>
       <g:id>48895</g:id>
@@ -220,9 +236,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
       <g:custom_label_2>Vegetarisk og vegansk</g:custom_label_2>
+      <g:custom_label_4>Herning</g:custom_label_4>
       <g:start_date>2026-11-11T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Madkurser</g:custom_label_3>
-      <g:internal_label>['Madkurser']</g:internal_label>
+      <g:internal_label>['Madkurser','Herning']</g:internal_label>
     </item>
 <item>
       <g:id>48868</g:id>
@@ -241,7 +258,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
       <g:custom_label_2>Vegetarisk og vegansk</g:custom_label_2>
+      <g:custom_label_4>Herning</g:custom_label_4>
       <g:start_date>2026-11-12T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Herning']</g:internal_label>
     </item>
 <item>
       <g:id>48897</g:id>
@@ -260,7 +279,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
       <g:custom_label_2>Bagning og søde sager</g:custom_label_2>
+      <g:custom_label_4>Herning</g:custom_label_4>
       <g:start_date>2026-11-13T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Herning']</g:internal_label>
     </item>
 <item>
       <g:id>48444</g:id>
@@ -279,7 +300,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Håndarbejde</g:custom_label_2>
+      <g:custom_label_4>Herning</g:custom_label_4>
       <g:start_date>2026-11-14T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Herning']</g:internal_label>
     </item>
 <item>
       <g:id>48461</g:id>
@@ -298,7 +321,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Malekurser</g:custom_label_2>
+      <g:custom_label_4>Herning</g:custom_label_4>
       <g:start_date>2026-11-15T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Herning']</g:internal_label>
     </item>
 <item>
       <g:id>48429</g:id>
@@ -317,7 +342,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Håndarbejde</g:custom_label_2>
+      <g:custom_label_4>Herning</g:custom_label_4>
       <g:start_date>2026-11-17T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Herning']</g:internal_label>
     </item>
 <item>
       <g:id>48871</g:id>
@@ -336,7 +363,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
       <g:custom_label_2>Fest- og hverdagsmad</g:custom_label_2>
+      <g:custom_label_4>Herning</g:custom_label_4>
       <g:start_date>2026-11-17T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Herning']</g:internal_label>
     </item>
 <item>
       <g:id>48818</g:id>
@@ -355,7 +384,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
       <g:custom_label_2>Vegetarisk og vegansk</g:custom_label_2>
+      <g:custom_label_4>Herning</g:custom_label_4>
       <g:start_date>2026-11-18T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Herning']</g:internal_label>
     </item>
 <item>
       <g:id>48003</g:id>
@@ -374,9 +405,10 @@
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Musik og koncerter</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Herning</g:custom_label_4>
       <g:start_date>2026-11-25T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Foredrag</g:custom_label_3>
-      <g:internal_label>['Foredrag']</g:internal_label>
+      <g:internal_label>['Foredrag','Herning']</g:internal_label>
     </item>
 <item>
       <g:id>48308</g:id>
@@ -395,9 +427,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Førstehjælp</g:custom_label_2>
+      <g:custom_label_4>Herning</g:custom_label_4>
       <g:start_date>2026-11-25T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Nyhed</g:custom_label_3>
-      <g:internal_label>['Nyhed']</g:internal_label>
+      <g:internal_label>['Nyhed','Herning']</g:internal_label>
     </item>
 <item>
       <g:id>48892</g:id>
@@ -416,7 +449,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
       <g:custom_label_2>Bagning og søde sager</g:custom_label_2>
+      <g:custom_label_4>Herning</g:custom_label_4>
       <g:start_date>2026-12-01T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Herning']</g:internal_label>
     </item>
 <item>
       <g:id>48819</g:id>
@@ -435,9 +470,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
       <g:custom_label_2>Bagning og søde sager</g:custom_label_2>
+      <g:custom_label_4>Herning</g:custom_label_4>
       <g:start_date>2026-12-02T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Nyhed</g:custom_label_3>
-      <g:internal_label>['Nyhed']</g:internal_label>
+      <g:internal_label>['Nyhed','Herning']</g:internal_label>
     </item>
 <item>
       <g:id>48801</g:id>
@@ -456,7 +492,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
       <g:custom_label_2>Bagning og søde sager</g:custom_label_2>
+      <g:custom_label_4>Herning</g:custom_label_4>
       <g:start_date>2026-12-03T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Herning']</g:internal_label>
     </item>
 <item>
       <g:id>48866</g:id>
@@ -475,7 +513,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
       <g:custom_label_2>Bagning og søde sager</g:custom_label_2>
+      <g:custom_label_4>Herning</g:custom_label_4>
       <g:start_date>2026-12-07T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Herning']</g:internal_label>
     </item>
 <item>
       <g:id>48810</g:id>
@@ -494,7 +534,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
       <g:custom_label_2>Verdenskøkkenet</g:custom_label_2>
+      <g:custom_label_4>Herning</g:custom_label_4>
       <g:start_date>2026-12-08T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Herning']</g:internal_label>
     </item>
 <item>
       <g:id>48808</g:id>
@@ -513,7 +555,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
       <g:custom_label_2>Asiatisk mad</g:custom_label_2>
+      <g:custom_label_4>Herning</g:custom_label_4>
       <g:start_date>2026-12-10T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Herning']</g:internal_label>
     </item>
 <item>
       <g:id>48108</g:id>
@@ -532,7 +576,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Herning</g:custom_label_4>
       <g:start_date>2026-12-15T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Herning']</g:internal_label>
     </item>
 <item>
       <g:id>48863</g:id>
@@ -551,7 +597,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
       <g:custom_label_2>Asiatisk mad</g:custom_label_2>
+      <g:custom_label_4>Herning</g:custom_label_4>
       <g:start_date>2026-12-16T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Herning']</g:internal_label>
     </item>
 <item>
       <g:id>68112</g:id>
@@ -570,7 +618,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Videbæk</g:custom_label_4>
       <g:start_date>2026-12-19T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Videbæk']</g:internal_label>
     </item>
 <item>
       <g:id>68110</g:id>
@@ -589,7 +639,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Skjern</g:custom_label_4>
       <g:start_date>2026-12-22T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Skjern']</g:internal_label>
     </item>
 <item>
       <g:id>49022</g:id>
@@ -608,7 +660,9 @@
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Musik og koncerter</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Herning</g:custom_label_4>
       <g:start_date>2027-01-31T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Herning']</g:internal_label>
     </item>
 <item>
       <g:id>49700</g:id>
@@ -627,7 +681,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kulturfag og samfund</g:custom_label_1>
       <g:custom_label_2>Økonomi og investering</g:custom_label_2>
+      <g:custom_label_4>Herning</g:custom_label_4>
       <g:start_date>2027-02-09T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Herning']</g:internal_label>
     </item>
 <item>
       <g:id>48020</g:id>
@@ -646,9 +702,10 @@
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Musik og koncerter</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Herning</g:custom_label_4>
       <g:start_date>2027-03-08T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Foredrag</g:custom_label_3>
-      <g:internal_label>['Foredrag']</g:internal_label>
+      <g:internal_label>['Foredrag','Herning']</g:internal_label>
     </item>
 <item>
       <g:id>49001</g:id>
@@ -667,9 +724,10 @@
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Sundhed og eksistens</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Herning</g:custom_label_4>
       <g:start_date>2027-04-06T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Foredrag</g:custom_label_3>
-      <g:internal_label>['Foredrag']</g:internal_label>
+      <g:internal_label>['Foredrag','Herning']</g:internal_label>
     </item>
 <item>
       <g:id>49003</g:id>
@@ -688,9 +746,10 @@
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Musik og koncerter</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Herning</g:custom_label_4>
       <g:start_date>2027-04-08T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Foredrag</g:custom_label_3>
-      <g:internal_label>['Foredrag']</g:internal_label>
+      <g:internal_label>['Foredrag','Herning']</g:internal_label>
     </item>
 <item>
       <g:id>49020</g:id>
@@ -709,9 +768,10 @@
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Højskoleforløb</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Herning</g:custom_label_4>
       <g:start_date>2027-04-27T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Foredrag</g:custom_label_3>
-      <g:internal_label>['Foredrag']</g:internal_label>
+      <g:internal_label>['Foredrag','Herning']</g:internal_label>
     </item>
 <item>
       <g:id>48021</g:id>
@@ -730,9 +790,10 @@
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Musik og koncerter</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Herning</g:custom_label_4>
       <g:start_date>2027-05-03T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Foredrag</g:custom_label_3>
-      <g:internal_label>['Foredrag']</g:internal_label>
+      <g:internal_label>['Foredrag','Herning']</g:internal_label>
     </item>
 <item>
       <g:id>48011</g:id>
@@ -751,7 +812,9 @@
       <g:custom_label_0>Rejser, ture og rundvisninger</g:custom_label_0>
       <g:custom_label_1>Udflugter og dagsture</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Herning</g:custom_label_4>
       <g:start_date>2027-05-11T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Herning']</g:internal_label>
     </item>
 <item>
       <g:id>49010</g:id>
@@ -770,6 +833,7 @@
       <g:custom_label_0>Rejser, ture og rundvisninger</g:custom_label_0>
       <g:custom_label_1>Kulturrejser</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4></g:custom_label_4>
       <g:start_date>2027-06-04T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Nyhed</g:custom_label_3>
       <g:internal_label>['Nyhed']</g:internal_label>

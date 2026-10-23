@@ -22,7 +22,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Livsstil og trivsel</g:custom_label_1>
       <g:custom_label_2>Personlig udvikling</g:custom_label_2>
+      <g:custom_label_4>Odder</g:custom_label_4>
       <g:start_date>2026-10-24T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Odder']</g:internal_label>
     </item>
 <item>
       <g:id>26287</g:id>
@@ -41,7 +43,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kommunikation og drama</g:custom_label_1>
       <g:custom_label_2>Skrivekurser</g:custom_label_2>
+      <g:custom_label_4>Odder</g:custom_label_4>
       <g:start_date>2026-10-25T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Odder']</g:internal_label>
     </item>
 <item>
       <g:id>26268</g:id>
@@ -60,7 +64,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
       <g:custom_label_2>Vegetarisk og vegansk</g:custom_label_2>
+      <g:custom_label_4>Odder</g:custom_label_4>
       <g:start_date>2026-10-26T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Odder']</g:internal_label>
     </item>
 <item>
       <g:id>26238</g:id>
@@ -79,7 +85,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Livsstil og trivsel</g:custom_label_1>
       <g:custom_label_2>Personlig udvikling</g:custom_label_2>
+      <g:custom_label_4>Odder</g:custom_label_4>
       <g:start_date>2026-10-31T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Odder']</g:internal_label>
     </item>
 <item>
       <g:id>26267</g:id>
@@ -98,7 +106,9 @@
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Sundhed og eksistens</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Odder</g:custom_label_4>
       <g:start_date>2026-11-09T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Odder']</g:internal_label>
     </item>
 </channel>
 </rss>

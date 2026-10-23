@@ -22,7 +22,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Sprog</g:custom_label_1>
       <g:custom_label_2>Spansk</g:custom_label_2>
+      <g:custom_label_4>Nyborg</g:custom_label_4>
       <g:start_date>2026-10-26T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Nyborg']</g:internal_label>
     </item>
 <item>
       <g:id>262907</g:id>
@@ -41,7 +43,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Sprog</g:custom_label_1>
       <g:custom_label_2>Spansk</g:custom_label_2>
+      <g:custom_label_4>Nyborg</g:custom_label_4>
       <g:start_date>2026-10-26T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Nyborg']</g:internal_label>
     </item>
 <item>
       <g:id>261631</g:id>
@@ -60,7 +64,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Pilates</g:custom_label_2>
+      <g:custom_label_4>Munkebo</g:custom_label_4>
       <g:start_date>2026-10-30T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Munkebo']</g:internal_label>
     </item>
 <item>
       <g:id>262906</g:id>
@@ -79,7 +85,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Sprog</g:custom_label_1>
       <g:custom_label_2>Fransk</g:custom_label_2>
+      <g:custom_label_4>Nyborg</g:custom_label_4>
       <g:start_date>2026-11-02T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Nyborg']</g:internal_label>
     </item>
 <item>
       <g:id>262502</g:id>
@@ -98,7 +106,9 @@
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Kultur og livsfortællinger</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Nyborg</g:custom_label_4>
       <g:start_date>2026-11-04T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Nyborg']</g:internal_label>
     </item>
 <item>
       <g:id>262652</g:id>
@@ -117,7 +127,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Tai Chi og Qi Gong</g:custom_label_2>
+      <g:custom_label_4>Nyborg</g:custom_label_4>
       <g:start_date>2026-11-07T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Nyborg']</g:internal_label>
     </item>
 <item>
       <g:id>261503</g:id>
@@ -136,7 +148,9 @@
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Sundhed og eksistens</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Langeskov</g:custom_label_4>
       <g:start_date>2026-11-09T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Langeskov']</g:internal_label>
     </item>
 <item>
       <g:id>261811</g:id>
@@ -155,7 +169,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
       <g:custom_label_2>Bagning og søde sager</g:custom_label_2>
+      <g:custom_label_4>Kerteminde</g:custom_label_4>
       <g:start_date>2026-11-22T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Kerteminde']</g:internal_label>
     </item>
 <item>
       <g:id>261823</g:id>
@@ -174,7 +190,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Dalby</g:custom_label_4>
       <g:start_date>2026-11-25T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Dalby']</g:internal_label>
     </item>
 <item>
       <g:id>261812</g:id>
@@ -193,7 +211,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
       <g:custom_label_2>Bagning og søde sager</g:custom_label_2>
+      <g:custom_label_4>Munkebo</g:custom_label_4>
       <g:start_date>2026-12-06T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Munkebo']</g:internal_label>
     </item>
 <item>
       <g:id>271280</g:id>
@@ -212,7 +232,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Musik og sang</g:custom_label_1>
       <g:custom_label_2>Kor og fællessang</g:custom_label_2>
+      <g:custom_label_4>Munkebo</g:custom_label_4>
       <g:start_date>2027-01-04T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Munkebo']</g:internal_label>
     </item>
 <item>
       <g:id>271170</g:id>
@@ -231,7 +253,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Dalby</g:custom_label_4>
       <g:start_date>2027-01-04T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Dalby']</g:internal_label>
     </item>
 <item>
       <g:id>271165</g:id>
@@ -250,7 +274,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Kerteminde</g:custom_label_4>
       <g:start_date>2027-01-07T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Kerteminde']</g:internal_label>
     </item>
 <item>
       <g:id>271166</g:id>
@@ -269,7 +295,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Kerteminde</g:custom_label_4>
       <g:start_date>2027-01-07T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Kerteminde']</g:internal_label>
     </item>
 <item>
       <g:id>271420</g:id>
@@ -288,7 +316,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Sprog</g:custom_label_1>
       <g:custom_label_2>Tysk</g:custom_label_2>
+      <g:custom_label_4>Kerteminde</g:custom_label_4>
       <g:start_date>2027-01-12T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Kerteminde']</g:internal_label>
     </item>
 <item>
       <g:id>272280</g:id>
@@ -307,7 +337,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Musik og sang</g:custom_label_1>
       <g:custom_label_2>Kor og fællessang</g:custom_label_2>
+      <g:custom_label_4>Nyborg</g:custom_label_4>
       <g:start_date>2027-01-13T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Nyborg']</g:internal_label>
     </item>
 <item>
       <g:id>271211</g:id>
@@ -326,7 +358,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Grafik og trykketeknik</g:custom_label_2>
+      <g:custom_label_4>Kerteminde</g:custom_label_4>
       <g:start_date>2027-02-05T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Kerteminde']</g:internal_label>
     </item>
 <item>
       <g:id>271510</g:id>
@@ -345,7 +379,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Kerteminde</g:custom_label_4>
       <g:start_date>2027-02-20T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Kerteminde']</g:internal_label>
     </item>
 <item>
       <g:id>272510</g:id>
@@ -364,7 +400,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Nyborg</g:custom_label_4>
       <g:start_date>2027-03-07T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Nyborg']</g:internal_label>
     </item>
 <item>
       <g:id>271511</g:id>
@@ -383,7 +421,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Kerteminde</g:custom_label_4>
       <g:start_date>2027-03-20T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Kerteminde']</g:internal_label>
     </item>
 <item>
       <g:id>272511</g:id>
@@ -402,7 +442,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Nyborg</g:custom_label_4>
       <g:start_date>2027-03-21T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Nyborg']</g:internal_label>
     </item>
 <item>
       <g:id>271351</g:id>
@@ -421,6 +463,7 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Natur og udeliv</g:custom_label_1>
       <g:custom_label_2>Naturfag og friluftsliv</g:custom_label_2>
+      <g:custom_label_4></g:custom_label_4>
       <g:start_date>2027-03-30T00:00:00.000Z</g:start_date>
     </item>
 <item>
@@ -440,7 +483,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Håndarbejde</g:custom_label_2>
+      <g:custom_label_4>Kerteminde</g:custom_label_4>
       <g:start_date>2027-04-03T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Kerteminde']</g:internal_label>
     </item>
 <item>
       <g:id>271512</g:id>
@@ -459,7 +504,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Kerteminde</g:custom_label_4>
       <g:start_date>2027-04-04T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Kerteminde']</g:internal_label>
     </item>
 <item>
       <g:id>271350</g:id>
@@ -478,7 +525,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Natur og udeliv</g:custom_label_1>
       <g:custom_label_2>Naturfag og friluftsliv</g:custom_label_2>
+      <g:custom_label_4>Kerteminde</g:custom_label_4>
       <g:start_date>2027-04-30T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Kerteminde']</g:internal_label>
     </item>
 <item>
       <g:id>272512</g:id>
@@ -497,7 +546,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Nyborg</g:custom_label_4>
       <g:start_date>2027-05-02T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Nyborg']</g:internal_label>
     </item>
 <item>
       <g:id>271340</g:id>
@@ -516,7 +567,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Natur og udeliv</g:custom_label_1>
       <g:custom_label_2>Naturfag og friluftsliv</g:custom_label_2>
+      <g:custom_label_4>Kerteminde</g:custom_label_4>
       <g:start_date>2027-05-04T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Kerteminde']</g:internal_label>
     </item>
 <item>
       <g:id>272340</g:id>
@@ -535,7 +588,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Natur og udeliv</g:custom_label_1>
       <g:custom_label_2>Naturfag og friluftsliv</g:custom_label_2>
+      <g:custom_label_4>Nyborg</g:custom_label_4>
       <g:start_date>2027-05-21T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Nyborg']</g:internal_label>
     </item>
 <item>
       <g:id>271370</g:id>
@@ -554,7 +609,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Natur og udeliv</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Kerteminde</g:custom_label_4>
       <g:start_date>2027-05-29T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Kerteminde']</g:internal_label>
     </item>
 </channel>
 </rss>

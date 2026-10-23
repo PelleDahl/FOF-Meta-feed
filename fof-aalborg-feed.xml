@@ -22,7 +22,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Bevægelse og afspænding</g:custom_label_2>
+      <g:custom_label_4>Aalborg</g:custom_label_4>
       <g:start_date>2026-10-26T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Aalborg SV']</g:internal_label>
     </item>
 <item>
       <g:id>26280006</g:id>
@@ -41,10 +43,10 @@
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Musik og koncerter</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Aalborg</g:custom_label_4>
       <g:start_date>2026-10-28T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Aftenforedrag</g:custom_label_3>
-      <g:custom_label_4>Foredrag</g:custom_label_4>
-      <g:internal_label>['Aftenforedrag','Foredrag']</g:internal_label>
+      <g:internal_label>['Aftenforedrag','Foredrag','Aalborg']</g:internal_label>
     </item>
 <item>
       <g:id>26205616</g:id>
@@ -63,9 +65,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Keramik</g:custom_label_2>
+      <g:custom_label_4>Aalborg</g:custom_label_4>
       <g:start_date>2026-10-28T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Keramik Boulevarden</g:custom_label_3>
-      <g:internal_label>['Keramik Boulevarden']</g:internal_label>
+      <g:internal_label>['Keramik Boulevarden','Aalborg']</g:internal_label>
     </item>
 <item>
       <g:id>26270104</g:id>
@@ -84,9 +87,10 @@
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Kultur og livsfortællinger</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Aalborg</g:custom_label_4>
       <g:start_date>2026-10-28T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Foredrag</g:custom_label_3>
-      <g:internal_label>['Foredrag']</g:internal_label>
+      <g:internal_label>['Foredrag','Aalborg SV']</g:internal_label>
     </item>
 <item>
       <g:id>26270204</g:id>
@@ -105,9 +109,10 @@
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Kultur og livsfortællinger</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Aalborg</g:custom_label_4>
       <g:start_date>2026-10-29T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Foredrag</g:custom_label_3>
-      <g:internal_label>['Foredrag']</g:internal_label>
+      <g:internal_label>['Foredrag','Aalborg SV']</g:internal_label>
     </item>
 <item>
       <g:id>26205044</g:id>
@@ -126,10 +131,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Tegnekurser</g:custom_label_2>
+      <g:custom_label_4>Aalborg</g:custom_label_4>
       <g:start_date>2026-10-29T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Nyhed</g:custom_label_3>
-      <g:custom_label_4>Kulturpas</g:custom_label_4>
-      <g:internal_label>['Nyhed','Kulturpas']</g:internal_label>
+      <g:internal_label>['Nyhed','Kulturpas','Aalborg SV']</g:internal_label>
     </item>
 <item>
       <g:id>26205267</g:id>
@@ -148,7 +153,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Håndarbejde</g:custom_label_2>
+      <g:custom_label_4>Aalborg</g:custom_label_4>
       <g:start_date>2026-10-29T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Aalborg SV']</g:internal_label>
     </item>
 <item>
       <g:id>26205710</g:id>
@@ -167,10 +174,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Keramik</g:custom_label_2>
+      <g:custom_label_4>Aalborg</g:custom_label_4>
       <g:start_date>2026-10-30T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Keramik Boulevarden</g:custom_label_3>
-      <g:custom_label_4>Kulturpas</g:custom_label_4>
-      <g:internal_label>['Keramik Boulevarden','Kulturpas']</g:internal_label>
+      <g:internal_label>['Keramik Boulevarden','Kulturpas','Aalborg']</g:internal_label>
     </item>
 <item>
       <g:id>26205760</g:id>
@@ -189,9 +196,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Keramik</g:custom_label_2>
+      <g:custom_label_4>Aalborg</g:custom_label_4>
       <g:start_date>2026-10-30T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Keramik Boulevarden</g:custom_label_3>
-      <g:internal_label>['Keramik Boulevarden']</g:internal_label>
+      <g:internal_label>['Keramik Boulevarden','Aalborg']</g:internal_label>
     </item>
 <item>
       <g:id>26220551</g:id>
@@ -210,7 +218,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Bevægelse og afspænding</g:custom_label_2>
+      <g:custom_label_4>Aalborg</g:custom_label_4>
       <g:start_date>2026-11-02T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Aalborg SV']</g:internal_label>
     </item>
 <item>
       <g:id>26220554</g:id>
@@ -229,7 +239,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Pilates</g:custom_label_2>
+      <g:custom_label_4>Aalborg</g:custom_label_4>
       <g:start_date>2026-11-02T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Aalborg SV']</g:internal_label>
     </item>
 <item>
       <g:id>26220072</g:id>
@@ -248,9 +260,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Pilates</g:custom_label_2>
+      <g:custom_label_4>Aalborg</g:custom_label_4>
       <g:start_date>2026-11-02T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Kulturpas</g:custom_label_3>
-      <g:internal_label>['Kulturpas']</g:internal_label>
+      <g:internal_label>['Kulturpas','Aalborg SV']</g:internal_label>
     </item>
 <item>
       <g:id>26220494</g:id>
@@ -269,7 +282,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Bevægelse og afspænding</g:custom_label_2>
+      <g:custom_label_4>Aalborg</g:custom_label_4>
       <g:start_date>2026-11-02T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Aalborg SV']</g:internal_label>
     </item>
 <item>
       <g:id>26230188</g:id>
@@ -288,7 +303,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Musik og sang</g:custom_label_1>
       <g:custom_label_2>Strengeinstrumenter</g:custom_label_2>
+      <g:custom_label_4>Aalborg</g:custom_label_4>
       <g:start_date>2026-11-03T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Aalborg SV']</g:internal_label>
     </item>
 <item>
       <g:id>26205039</g:id>
@@ -307,7 +324,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Tegnekurser</g:custom_label_2>
+      <g:custom_label_4>Aalborg</g:custom_label_4>
       <g:start_date>2026-11-03T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Aalborg SV']</g:internal_label>
     </item>
 <item>
       <g:id>26270105</g:id>
@@ -326,9 +345,10 @@
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Samfund og historie</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Aalborg</g:custom_label_4>
       <g:start_date>2026-11-04T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Foredrag</g:custom_label_3>
-      <g:internal_label>['Foredrag']</g:internal_label>
+      <g:internal_label>['Foredrag','Aalborg SV']</g:internal_label>
     </item>
 <item>
       <g:id>26205612</g:id>
@@ -347,9 +367,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Keramik</g:custom_label_2>
+      <g:custom_label_4>Aalborg</g:custom_label_4>
       <g:start_date>2026-11-04T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Keramik Boulevarden</g:custom_label_3>
-      <g:internal_label>['Keramik Boulevarden']</g:internal_label>
+      <g:internal_label>['Keramik Boulevarden','Aalborg']</g:internal_label>
     </item>
 <item>
       <g:id>26205557</g:id>
@@ -368,7 +389,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Håndværk og kunsthåndværk</g:custom_label_2>
+      <g:custom_label_4>Aalborg</g:custom_label_4>
       <g:start_date>2026-11-04T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Aalborg SV']</g:internal_label>
     </item>
 <item>
       <g:id>26220561</g:id>
@@ -387,7 +410,9 @@
       <g:custom_label_0></g:custom_label_0>
       <g:custom_label_1></g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Sulsted</g:custom_label_4>
       <g:start_date>2026-11-04T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Sulsted']</g:internal_label>
     </item>
 <item>
       <g:id>26205292</g:id>
@@ -406,9 +431,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Håndarbejde</g:custom_label_2>
+      <g:custom_label_4>Nørresundby</g:custom_label_4>
       <g:start_date>2026-11-04T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Kulturpas</g:custom_label_3>
-      <g:internal_label>['Kulturpas']</g:internal_label>
+      <g:internal_label>['Kulturpas','Nørresundby']</g:internal_label>
     </item>
 <item>
       <g:id>26230177</g:id>
@@ -427,7 +453,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Musik og sang</g:custom_label_1>
       <g:custom_label_2>Strengeinstrumenter</g:custom_label_2>
+      <g:custom_label_4>Aalborg</g:custom_label_4>
       <g:start_date>2026-11-05T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Aalborg SV']</g:internal_label>
     </item>
 <item>
       <g:id>26270205</g:id>
@@ -446,9 +474,10 @@
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Samfund og historie</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Aalborg</g:custom_label_4>
       <g:start_date>2026-11-05T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Foredrag</g:custom_label_3>
-      <g:internal_label>['Foredrag']</g:internal_label>
+      <g:internal_label>['Foredrag','Aalborg SV']</g:internal_label>
     </item>
 <item>
       <g:id>26205645</g:id>
@@ -467,10 +496,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Keramik</g:custom_label_2>
+      <g:custom_label_4>Aalborg</g:custom_label_4>
       <g:start_date>2026-11-06T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Keramik Boulevarden</g:custom_label_3>
-      <g:custom_label_4>Kreative kurser</g:custom_label_4>
-      <g:internal_label>['Keramik Boulevarden','Kreative kurser']</g:internal_label>
+      <g:internal_label>['Keramik Boulevarden','Kreative kurser','Aalborg']</g:internal_label>
     </item>
 <item>
       <g:id>26205711</g:id>
@@ -489,10 +518,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Keramik</g:custom_label_2>
+      <g:custom_label_4>Aalborg</g:custom_label_4>
       <g:start_date>2026-11-06T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Keramik Boulevarden</g:custom_label_3>
-      <g:custom_label_4>Kulturpas</g:custom_label_4>
-      <g:internal_label>['Keramik Boulevarden','Kulturpas']</g:internal_label>
+      <g:internal_label>['Keramik Boulevarden','Kulturpas','Aalborg']</g:internal_label>
     </item>
 <item>
       <g:id>26205761</g:id>
@@ -511,9 +540,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Keramik</g:custom_label_2>
+      <g:custom_label_4>Aalborg</g:custom_label_4>
       <g:start_date>2026-11-06T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Keramik Boulevarden</g:custom_label_3>
-      <g:internal_label>['Keramik Boulevarden']</g:internal_label>
+      <g:internal_label>['Keramik Boulevarden','Aalborg']</g:internal_label>
     </item>
 <item>
       <g:id>26280327</g:id>
@@ -532,9 +562,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Aalborg</g:custom_label_4>
       <g:start_date>2026-11-07T00:00:00.000Z</g:start_date>
       <g:custom_label_3>FOF Garnfestival</g:custom_label_3>
-      <g:internal_label>['FOF Garnfestival']</g:internal_label>
+      <g:internal_label>['FOF Garnfestival','Aalborg SV']</g:internal_label>
     </item>
 <item>
       <g:id>26280321</g:id>
@@ -553,9 +584,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Håndarbejde</g:custom_label_2>
+      <g:custom_label_4>Aalborg</g:custom_label_4>
       <g:start_date>2026-11-07T00:00:00.000Z</g:start_date>
       <g:custom_label_3>FOF Garnfestival</g:custom_label_3>
-      <g:internal_label>['FOF Garnfestival']</g:internal_label>
+      <g:internal_label>['FOF Garnfestival','Aalborg SV']</g:internal_label>
     </item>
 <item>
       <g:id>26280328</g:id>
@@ -574,9 +606,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Håndarbejde</g:custom_label_2>
+      <g:custom_label_4>Aalborg</g:custom_label_4>
       <g:start_date>2026-11-07T00:00:00.000Z</g:start_date>
       <g:custom_label_3>FOF Garnfestival</g:custom_label_3>
-      <g:internal_label>['FOF Garnfestival']</g:internal_label>
+      <g:internal_label>['FOF Garnfestival','Aalborg SV']</g:internal_label>
     </item>
 <item>
       <g:id>26280324</g:id>
@@ -595,9 +628,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Håndarbejde</g:custom_label_2>
+      <g:custom_label_4>Aalborg</g:custom_label_4>
       <g:start_date>2026-11-07T00:00:00.000Z</g:start_date>
       <g:custom_label_3>FOF Garnfestival</g:custom_label_3>
-      <g:internal_label>['FOF Garnfestival']</g:internal_label>
+      <g:internal_label>['FOF Garnfestival','Aalborg SV']</g:internal_label>
     </item>
 <item>
       <g:id>26280312</g:id>
@@ -616,9 +650,10 @@
       <g:custom_label_0></g:custom_label_0>
       <g:custom_label_1></g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Aalborg</g:custom_label_4>
       <g:start_date>2026-11-07T00:00:00.000Z</g:start_date>
       <g:custom_label_3>FOF Garnfestival</g:custom_label_3>
-      <g:internal_label>['FOF Garnfestival']</g:internal_label>
+      <g:internal_label>['FOF Garnfestival','Aalborg SV']</g:internal_label>
     </item>
 <item>
       <g:id>26280323</g:id>
@@ -637,9 +672,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Håndarbejde</g:custom_label_2>
+      <g:custom_label_4>Aalborg</g:custom_label_4>
       <g:start_date>2026-11-07T00:00:00.000Z</g:start_date>
       <g:custom_label_3>FOF Garnfestival</g:custom_label_3>
-      <g:internal_label>['FOF Garnfestival']</g:internal_label>
+      <g:internal_label>['FOF Garnfestival','Aalborg SV']</g:internal_label>
     </item>
 <item>
       <g:id>26280326</g:id>
@@ -658,9 +694,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Aalborg</g:custom_label_4>
       <g:start_date>2026-11-07T00:00:00.000Z</g:start_date>
       <g:custom_label_3>FOF Garnfestival</g:custom_label_3>
-      <g:internal_label>['FOF Garnfestival']</g:internal_label>
+      <g:internal_label>['FOF Garnfestival','Aalborg SV']</g:internal_label>
     </item>
 <item>
       <g:id>26280322</g:id>
@@ -679,9 +716,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Håndarbejde</g:custom_label_2>
+      <g:custom_label_4>Aalborg</g:custom_label_4>
       <g:start_date>2026-11-07T00:00:00.000Z</g:start_date>
       <g:custom_label_3>FOF Garnfestival</g:custom_label_3>
-      <g:internal_label>['FOF Garnfestival']</g:internal_label>
+      <g:internal_label>['FOF Garnfestival','Aalborg SV']</g:internal_label>
     </item>
 <item>
       <g:id>26280310</g:id>
@@ -700,9 +738,10 @@
       <g:custom_label_0></g:custom_label_0>
       <g:custom_label_1></g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Aalborg</g:custom_label_4>
       <g:start_date>2026-11-07T00:00:00.000Z</g:start_date>
       <g:custom_label_3>FOF Garnfestival</g:custom_label_3>
-      <g:internal_label>['FOF Garnfestival']</g:internal_label>
+      <g:internal_label>['FOF Garnfestival','Aalborg SV']</g:internal_label>
     </item>
 <item>
       <g:id>26205775</g:id>
@@ -721,9 +760,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Keramik</g:custom_label_2>
+      <g:custom_label_4>Aalborg</g:custom_label_4>
       <g:start_date>2026-11-08T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Keramik Boulevarden</g:custom_label_3>
-      <g:internal_label>['Keramik Boulevarden']</g:internal_label>
+      <g:internal_label>['Keramik Boulevarden','Aalborg']</g:internal_label>
     </item>
 <item>
       <g:id>26205082</g:id>
@@ -742,10 +782,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Keramik</g:custom_label_2>
+      <g:custom_label_4>Aalborg</g:custom_label_4>
       <g:start_date>2026-11-08T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Kulturpas</g:custom_label_3>
-      <g:custom_label_4>Keramik Hobrovej</g:custom_label_4>
-      <g:internal_label>['Kulturpas','Keramik Hobrovej']</g:internal_label>
+      <g:internal_label>['Kulturpas','Keramik Hobrovej','Aalborg SV']</g:internal_label>
     </item>
 <item>
       <g:id>26280311</g:id>
@@ -764,9 +804,10 @@
       <g:custom_label_0></g:custom_label_0>
       <g:custom_label_1></g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Aalborg</g:custom_label_4>
       <g:start_date>2026-11-08T00:00:00.000Z</g:start_date>
       <g:custom_label_3>FOF Garnfestival</g:custom_label_3>
-      <g:internal_label>['FOF Garnfestival']</g:internal_label>
+      <g:internal_label>['FOF Garnfestival','Aalborg SV']</g:internal_label>
     </item>
 <item>
       <g:id>26280325</g:id>
@@ -785,9 +826,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Håndarbejde</g:custom_label_2>
+      <g:custom_label_4>Aalborg</g:custom_label_4>
       <g:start_date>2026-11-08T00:00:00.000Z</g:start_date>
       <g:custom_label_3>FOF Garnfestival</g:custom_label_3>
-      <g:internal_label>['FOF Garnfestival']</g:internal_label>
+      <g:internal_label>['FOF Garnfestival','Aalborg SV']</g:internal_label>
     </item>
 <item>
       <g:id>26280320</g:id>
@@ -806,9 +848,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Håndarbejde</g:custom_label_2>
+      <g:custom_label_4>Aalborg</g:custom_label_4>
       <g:start_date>2026-11-08T00:00:00.000Z</g:start_date>
       <g:custom_label_3>FOF Garnfestival</g:custom_label_3>
-      <g:internal_label>['FOF Garnfestival']</g:internal_label>
+      <g:internal_label>['FOF Garnfestival','Aalborg SV']</g:internal_label>
     </item>
 <item>
       <g:id>26215860</g:id>
@@ -827,9 +870,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>It og foto</g:custom_label_1>
       <g:custom_label_2>Foto og video</g:custom_label_2>
+      <g:custom_label_4>Aalborg</g:custom_label_4>
       <g:start_date>2026-11-08T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Nyhed</g:custom_label_3>
-      <g:internal_label>['Nyhed']</g:internal_label>
+      <g:internal_label>['Nyhed','Aalborg']</g:internal_label>
     </item>
 <item>
       <g:id>26205298</g:id>
@@ -848,10 +892,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Håndarbejde</g:custom_label_2>
+      <g:custom_label_4>Nørresundby</g:custom_label_4>
       <g:start_date>2026-11-08T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Nyhed</g:custom_label_3>
-      <g:custom_label_4>Kulturpas</g:custom_label_4>
-      <g:internal_label>['Nyhed','Kulturpas','Kreative kurser']</g:internal_label>
+      <g:internal_label>['Nyhed','Kulturpas','Kreative kurser','Nørresundby']</g:internal_label>
     </item>
 <item>
       <g:id>26280329</g:id>
@@ -870,9 +914,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Håndarbejde</g:custom_label_2>
+      <g:custom_label_4>Aalborg</g:custom_label_4>
       <g:start_date>2026-11-08T00:00:00.000Z</g:start_date>
       <g:custom_label_3>FOF Garnfestival</g:custom_label_3>
-      <g:internal_label>['FOF Garnfestival']</g:internal_label>
+      <g:internal_label>['FOF Garnfestival','Aalborg SV']</g:internal_label>
     </item>
 <item>
       <g:id>26220241</g:id>
@@ -891,7 +936,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Bevægelse og afspænding</g:custom_label_2>
+      <g:custom_label_4>Aalborg</g:custom_label_4>
       <g:start_date>2026-11-09T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Aalborg SV']</g:internal_label>
     </item>
 <item>
       <g:id>26260541</g:id>
@@ -910,10 +957,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>It og foto</g:custom_label_1>
       <g:custom_label_2>Computer og smartphone</g:custom_label_2>
+      <g:custom_label_4>Aalborg</g:custom_label_4>
       <g:start_date>2026-11-09T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Nyhed</g:custom_label_3>
-      <g:custom_label_4>FVU Digital</g:custom_label_4>
-      <g:internal_label>['Nyhed','FVU Digital','Gratis kurser']</g:internal_label>
+      <g:internal_label>['Nyhed','FVU Digital','Gratis kurser','Aalborg SV']</g:internal_label>
     </item>
 <item>
       <g:id>26205041</g:id>
@@ -932,7 +979,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Tegnekurser</g:custom_label_2>
+      <g:custom_label_4>Aalborg</g:custom_label_4>
       <g:start_date>2026-11-09T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Aalborg SV']</g:internal_label>
     </item>
 <item>
       <g:id>26205870</g:id>
@@ -951,10 +1000,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Tegnekurser</g:custom_label_2>
+      <g:custom_label_4>Aalborg</g:custom_label_4>
       <g:start_date>2026-11-11T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Nyhed</g:custom_label_3>
-      <g:custom_label_4>Kreativ Boulevarden</g:custom_label_4>
-      <g:internal_label>['Nyhed','Kreativ Boulevarden']</g:internal_label>
+      <g:internal_label>['Nyhed','Kreativ Boulevarden','Aalborg']</g:internal_label>
     </item>
 <item>
       <g:id>26225037</g:id>
@@ -973,9 +1022,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Førstehjælp</g:custom_label_2>
+      <g:custom_label_4>Aalborg</g:custom_label_4>
       <g:start_date>2026-11-11T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Førstehjælp</g:custom_label_3>
-      <g:internal_label>['Førstehjælp']</g:internal_label>
+      <g:internal_label>['Førstehjælp','Aalborg SV']</g:internal_label>
     </item>
 <item>
       <g:id>26270106</g:id>
@@ -994,9 +1044,10 @@
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Samfund og historie</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Aalborg</g:custom_label_4>
       <g:start_date>2026-11-11T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Foredrag</g:custom_label_3>
-      <g:internal_label>['Foredrag']</g:internal_label>
+      <g:internal_label>['Foredrag','Aalborg SV']</g:internal_label>
     </item>
 <item>
       <g:id>26215853</g:id>
@@ -1015,9 +1066,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>It og foto</g:custom_label_1>
       <g:custom_label_2>Hjemmeside og it-programmer</g:custom_label_2>
+      <g:custom_label_4>Aalborg</g:custom_label_4>
       <g:start_date>2026-11-11T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Musik, sprog og nye interesser</g:custom_label_3>
-      <g:internal_label>['Musik, sprog og nye interesser']</g:internal_label>
+      <g:internal_label>['Musik, sprog og nye interesser','Aalborg SV']</g:internal_label>
     </item>
 <item>
       <g:id>26270206</g:id>
@@ -1036,9 +1088,10 @@
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Samfund og historie</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Aalborg</g:custom_label_4>
       <g:start_date>2026-11-12T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Foredrag</g:custom_label_3>
-      <g:internal_label>['Foredrag']</g:internal_label>
+      <g:internal_label>['Foredrag','Aalborg SV']</g:internal_label>
     </item>
 <item>
       <g:id>26205712</g:id>
@@ -1057,10 +1110,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Keramik</g:custom_label_2>
+      <g:custom_label_4>Aalborg</g:custom_label_4>
       <g:start_date>2026-11-13T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Keramik Boulevarden</g:custom_label_3>
-      <g:custom_label_4>Kulturpas</g:custom_label_4>
-      <g:internal_label>['Keramik Boulevarden','Kulturpas']</g:internal_label>
+      <g:internal_label>['Keramik Boulevarden','Kulturpas','Aalborg']</g:internal_label>
     </item>
 <item>
       <g:id>26205762</g:id>
@@ -1079,9 +1132,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Keramik</g:custom_label_2>
+      <g:custom_label_4>Aalborg</g:custom_label_4>
       <g:start_date>2026-11-13T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Keramik Boulevarden</g:custom_label_3>
-      <g:internal_label>['Keramik Boulevarden']</g:internal_label>
+      <g:internal_label>['Keramik Boulevarden','Aalborg']</g:internal_label>
     </item>
 <item>
       <g:id>26225057</g:id>
@@ -1100,7 +1154,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Mindfulness og meditation</g:custom_label_2>
+      <g:custom_label_4>Aalborg</g:custom_label_4>
       <g:start_date>2026-11-14T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Aalborg SV']</g:internal_label>
     </item>
 <item>
       <g:id>26205451</g:id>
@@ -1119,9 +1175,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Håndværk og kunsthåndværk</g:custom_label_2>
+      <g:custom_label_4>Aalborg</g:custom_label_4>
       <g:start_date>2026-11-14T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Nyhed</g:custom_label_3>
-      <g:internal_label>['Nyhed']</g:internal_label>
+      <g:internal_label>['Nyhed','Aalborg SV']</g:internal_label>
     </item>
 <item>
       <g:id>26205111</g:id>
@@ -1140,9 +1197,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Håndværk og kunsthåndværk</g:custom_label_2>
+      <g:custom_label_4>Aalborg</g:custom_label_4>
       <g:start_date>2026-11-14T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Kreativ Boulevarden</g:custom_label_3>
-      <g:internal_label>['Kreativ Boulevarden']</g:internal_label>
+      <g:internal_label>['Kreativ Boulevarden','Aalborg']</g:internal_label>
     </item>
 <item>
       <g:id>26220246</g:id>
@@ -1161,7 +1219,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Bevægelse og afspænding</g:custom_label_2>
+      <g:custom_label_4>Aalborg</g:custom_label_4>
       <g:start_date>2026-11-14T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Aalborg SV']</g:internal_label>
     </item>
 <item>
       <g:id>26225021</g:id>
@@ -1180,9 +1240,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Førstehjælp</g:custom_label_2>
+      <g:custom_label_4>Aalborg</g:custom_label_4>
       <g:start_date>2026-11-14T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Førstehjælp</g:custom_label_3>
-      <g:internal_label>['Førstehjælp']</g:internal_label>
+      <g:internal_label>['Førstehjælp','Aalborg SV']</g:internal_label>
     </item>
 <item>
       <g:id>26205721</g:id>
@@ -1201,10 +1262,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Keramik</g:custom_label_2>
+      <g:custom_label_4>Aalborg</g:custom_label_4>
       <g:start_date>2026-11-15T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Keramik Boulevarden</g:custom_label_3>
-      <g:custom_label_4>Kulturpas</g:custom_label_4>
-      <g:internal_label>['Keramik Boulevarden','Kulturpas']</g:internal_label>
+      <g:internal_label>['Keramik Boulevarden','Kulturpas','Aalborg']</g:internal_label>
     </item>
 <item>
       <g:id>26205771</g:id>
@@ -1223,9 +1284,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Keramik</g:custom_label_2>
+      <g:custom_label_4>Aalborg</g:custom_label_4>
       <g:start_date>2026-11-15T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Keramik Boulevarden</g:custom_label_3>
-      <g:internal_label>['Keramik Boulevarden']</g:internal_label>
+      <g:internal_label>['Keramik Boulevarden','Aalborg']</g:internal_label>
     </item>
 <item>
       <g:id>26205293</g:id>
@@ -1244,9 +1306,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Håndarbejde</g:custom_label_2>
+      <g:custom_label_4>Nørresundby</g:custom_label_4>
       <g:start_date>2026-11-15T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Kulturpas</g:custom_label_3>
-      <g:internal_label>['Kulturpas']</g:internal_label>
+      <g:internal_label>['Kulturpas','Nørresundby']</g:internal_label>
     </item>
 <item>
       <g:id>26280001</g:id>
@@ -1265,10 +1328,10 @@
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Samfund og historie</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Aalborg</g:custom_label_4>
       <g:start_date>2026-11-17T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Nyhed</g:custom_label_3>
-      <g:custom_label_4>Foredrag</g:custom_label_4>
-      <g:internal_label>['Nyhed','Foredrag','Aftenforedrag']</g:internal_label>
+      <g:internal_label>['Nyhed','Foredrag','Aftenforedrag','Aalborg SV']</g:internal_label>
     </item>
 <item>
       <g:id>26270107</g:id>
@@ -1287,9 +1350,10 @@
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Samfund og historie</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Aalborg</g:custom_label_4>
       <g:start_date>2026-11-18T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Foredrag</g:custom_label_3>
-      <g:internal_label>['Foredrag']</g:internal_label>
+      <g:internal_label>['Foredrag','Aalborg SV']</g:internal_label>
     </item>
 <item>
       <g:id>26270207</g:id>
@@ -1308,9 +1372,10 @@
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Samfund og historie</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Aalborg</g:custom_label_4>
       <g:start_date>2026-11-19T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Foredrag</g:custom_label_3>
-      <g:internal_label>['Foredrag']</g:internal_label>
+      <g:internal_label>['Foredrag','Aalborg SV']</g:internal_label>
     </item>
 <item>
       <g:id>26205763</g:id>
@@ -1329,9 +1394,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Keramik</g:custom_label_2>
+      <g:custom_label_4>Aalborg</g:custom_label_4>
       <g:start_date>2026-11-20T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Keramik Boulevarden</g:custom_label_3>
-      <g:internal_label>['Keramik Boulevarden']</g:internal_label>
+      <g:internal_label>['Keramik Boulevarden','Aalborg']</g:internal_label>
     </item>
 <item>
       <g:id>26205713</g:id>
@@ -1350,10 +1416,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Keramik</g:custom_label_2>
+      <g:custom_label_4>Aalborg</g:custom_label_4>
       <g:start_date>2026-11-20T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Keramik Boulevarden</g:custom_label_3>
-      <g:custom_label_4>Kulturpas</g:custom_label_4>
-      <g:internal_label>['Keramik Boulevarden','Kulturpas']</g:internal_label>
+      <g:internal_label>['Keramik Boulevarden','Kulturpas','Aalborg']</g:internal_label>
     </item>
 <item>
       <g:id>26205221</g:id>
@@ -1372,7 +1438,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Syning</g:custom_label_2>
+      <g:custom_label_4>Aalborg</g:custom_label_4>
       <g:start_date>2026-11-21T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Aalborg SV']</g:internal_label>
     </item>
 <item>
       <g:id>26205112</g:id>
@@ -1391,9 +1459,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Håndværk og kunsthåndværk</g:custom_label_2>
+      <g:custom_label_4>Aalborg</g:custom_label_4>
       <g:start_date>2026-11-21T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Kreativ Boulevarden</g:custom_label_3>
-      <g:internal_label>['Kreativ Boulevarden']</g:internal_label>
+      <g:internal_label>['Kreativ Boulevarden','Aalborg']</g:internal_label>
     </item>
 <item>
       <g:id>26205633</g:id>
@@ -1412,10 +1481,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Keramik</g:custom_label_2>
+      <g:custom_label_4>Aalborg</g:custom_label_4>
       <g:start_date>2026-11-21T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Keramik Boulevarden</g:custom_label_3>
-      <g:custom_label_4>Nyhed</g:custom_label_4>
-      <g:internal_label>['Keramik Boulevarden','Nyhed']</g:internal_label>
+      <g:internal_label>['Keramik Boulevarden','Nyhed','Aalborg']</g:internal_label>
     </item>
 <item>
       <g:id>26205880</g:id>
@@ -1434,10 +1503,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Tegnekurser</g:custom_label_2>
+      <g:custom_label_4>Aalborg</g:custom_label_4>
       <g:start_date>2026-11-22T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Nyhed</g:custom_label_3>
-      <g:custom_label_4>Kreativ Boulevarden</g:custom_label_4>
-      <g:internal_label>['Nyhed','Kreativ Boulevarden']</g:internal_label>
+      <g:internal_label>['Nyhed','Kreativ Boulevarden','Aalborg']</g:internal_label>
     </item>
 <item>
       <g:id>26280004</g:id>
@@ -1456,10 +1525,10 @@
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Sundhed og eksistens</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Aalborg</g:custom_label_4>
       <g:start_date>2026-11-23T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Foredrag</g:custom_label_3>
-      <g:custom_label_4>Aftenforedrag</g:custom_label_4>
-      <g:internal_label>['Foredrag','Aftenforedrag']</g:internal_label>
+      <g:internal_label>['Foredrag','Aftenforedrag','Aalborg SV']</g:internal_label>
     </item>
 <item>
       <g:id>26280005</g:id>
@@ -1478,9 +1547,9 @@
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Samfund og historie</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4></g:custom_label_4>
       <g:start_date>2026-11-24T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Foredrag</g:custom_label_3>
-      <g:custom_label_4>Aftenforedrag</g:custom_label_4>
       <g:internal_label>['Foredrag','Aftenforedrag']</g:internal_label>
     </item>
 <item>
@@ -1500,9 +1569,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>It og foto</g:custom_label_1>
       <g:custom_label_2>Foto og video</g:custom_label_2>
+      <g:custom_label_4>Aalborg</g:custom_label_4>
       <g:start_date>2026-11-24T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Nyhed</g:custom_label_3>
-      <g:internal_label>['Nyhed']</g:internal_label>
+      <g:internal_label>['Nyhed','Aalborg']</g:internal_label>
     </item>
 <item>
       <g:id>26220387</g:id>
@@ -1521,9 +1591,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
       <g:custom_label_2>Aktiviteter med baby</g:custom_label_2>
+      <g:custom_label_4>Aalborg</g:custom_label_4>
       <g:start_date>2026-11-25T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Bevægelse</g:custom_label_3>
-      <g:internal_label>['Bevægelse']</g:internal_label>
+      <g:internal_label>['Bevægelse','Aalborg SV']</g:internal_label>
     </item>
 <item>
       <g:id>26220482</g:id>
@@ -1542,10 +1613,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Bevægelse og afspænding</g:custom_label_2>
+      <g:custom_label_4>Aalborg</g:custom_label_4>
       <g:start_date>2026-11-25T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Gratis kurser</g:custom_label_3>
-      <g:custom_label_4>Nyhed</g:custom_label_4>
-      <g:internal_label>['Gratis kurser','Nyhed']</g:internal_label>
+      <g:internal_label>['Gratis kurser','Nyhed','Aalborg SV']</g:internal_label>
     </item>
 <item>
       <g:id>26220352</g:id>
@@ -1564,9 +1635,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
       <g:custom_label_2>Aktiviteter med baby</g:custom_label_2>
+      <g:custom_label_4>Aalborg</g:custom_label_4>
       <g:start_date>2026-11-25T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Bevægelse</g:custom_label_3>
-      <g:internal_label>['Bevægelse']</g:internal_label>
+      <g:internal_label>['Bevægelse','Aalborg SV']</g:internal_label>
     </item>
 <item>
       <g:id>26270108</g:id>
@@ -1585,9 +1657,10 @@
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Kultur og livsfortællinger</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Aalborg</g:custom_label_4>
       <g:start_date>2026-11-25T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Foredrag</g:custom_label_3>
-      <g:internal_label>['Foredrag']</g:internal_label>
+      <g:internal_label>['Foredrag','Aalborg SV']</g:internal_label>
     </item>
 <item>
       <g:id>26220382</g:id>
@@ -1606,9 +1679,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
       <g:custom_label_2>Aktiviteter med baby</g:custom_label_2>
+      <g:custom_label_4>Aalborg</g:custom_label_4>
       <g:start_date>2026-11-25T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Bevægelse</g:custom_label_3>
-      <g:internal_label>['Bevægelse']</g:internal_label>
+      <g:internal_label>['Bevægelse','Aalborg SV']</g:internal_label>
     </item>
 <item>
       <g:id>26270208</g:id>
@@ -1627,9 +1701,10 @@
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Kultur og livsfortællinger</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Aalborg</g:custom_label_4>
       <g:start_date>2026-11-26T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Foredrag</g:custom_label_3>
-      <g:internal_label>['Foredrag']</g:internal_label>
+      <g:internal_label>['Foredrag','Aalborg SV']</g:internal_label>
     </item>
 <item>
       <g:id>26225072</g:id>
@@ -1648,9 +1723,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Mindfulness og meditation</g:custom_label_2>
+      <g:custom_label_4>Aalborg</g:custom_label_4>
       <g:start_date>2026-11-26T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Nyhed</g:custom_label_3>
-      <g:internal_label>['Nyhed']</g:internal_label>
+      <g:internal_label>['Nyhed','Aalborg SV']</g:internal_label>
     </item>
 <item>
       <g:id>26205714</g:id>
@@ -1669,10 +1745,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Keramik</g:custom_label_2>
+      <g:custom_label_4>Aalborg</g:custom_label_4>
       <g:start_date>2026-11-27T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Keramik Boulevarden</g:custom_label_3>
-      <g:custom_label_4>Kulturpas</g:custom_label_4>
-      <g:internal_label>['Keramik Boulevarden','Kulturpas']</g:internal_label>
+      <g:internal_label>['Keramik Boulevarden','Kulturpas','Aalborg']</g:internal_label>
     </item>
 <item>
       <g:id>26205646</g:id>
@@ -1691,10 +1767,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Keramik</g:custom_label_2>
+      <g:custom_label_4>Aalborg</g:custom_label_4>
       <g:start_date>2026-11-27T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Keramik Boulevarden</g:custom_label_3>
-      <g:custom_label_4>Kreative kurser</g:custom_label_4>
-      <g:internal_label>['Keramik Boulevarden','Kreative kurser']</g:internal_label>
+      <g:internal_label>['Keramik Boulevarden','Kreative kurser','Aalborg']</g:internal_label>
     </item>
 <item>
       <g:id>26205764</g:id>
@@ -1713,9 +1789,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Keramik</g:custom_label_2>
+      <g:custom_label_4>Aalborg</g:custom_label_4>
       <g:start_date>2026-11-27T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Keramik Boulevarden</g:custom_label_3>
-      <g:internal_label>['Keramik Boulevarden']</g:internal_label>
+      <g:internal_label>['Keramik Boulevarden','Aalborg']</g:internal_label>
     </item>
 <item>
       <g:id>26225070</g:id>
@@ -1734,9 +1811,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Mindfulness og meditation</g:custom_label_2>
+      <g:custom_label_4>Aalborg</g:custom_label_4>
       <g:start_date>2026-11-28T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Nyhed</g:custom_label_3>
-      <g:internal_label>['Nyhed']</g:internal_label>
+      <g:internal_label>['Nyhed','Aalborg SV']</g:internal_label>
     </item>
 <item>
       <g:id>26205053</g:id>
@@ -1755,9 +1833,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Keramik</g:custom_label_2>
+      <g:custom_label_4>Aalborg</g:custom_label_4>
       <g:start_date>2026-11-28T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Keramik Hobrovej</g:custom_label_3>
-      <g:internal_label>['Keramik Hobrovej']</g:internal_label>
+      <g:internal_label>['Keramik Hobrovej','Aalborg SV']</g:internal_label>
     </item>
 <item>
       <g:id>26205772</g:id>
@@ -1776,9 +1855,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Keramik</g:custom_label_2>
+      <g:custom_label_4>Aalborg</g:custom_label_4>
       <g:start_date>2026-11-29T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Keramik Boulevarden</g:custom_label_3>
-      <g:internal_label>['Keramik Boulevarden']</g:internal_label>
+      <g:internal_label>['Keramik Boulevarden','Aalborg']</g:internal_label>
     </item>
 <item>
       <g:id>26205881</g:id>
@@ -1797,10 +1877,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Tegnekurser</g:custom_label_2>
+      <g:custom_label_4>Aalborg</g:custom_label_4>
       <g:start_date>2026-11-29T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Nyhed</g:custom_label_3>
-      <g:custom_label_4>Kreativ Boulevarden</g:custom_label_4>
-      <g:internal_label>['Nyhed','Kreativ Boulevarden']</g:internal_label>
+      <g:internal_label>['Nyhed','Kreativ Boulevarden','Aalborg']</g:internal_label>
     </item>
 <item>
       <g:id>26205722</g:id>
@@ -1819,10 +1899,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Keramik</g:custom_label_2>
+      <g:custom_label_4>Aalborg</g:custom_label_4>
       <g:start_date>2026-11-29T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Keramik Boulevarden</g:custom_label_3>
-      <g:custom_label_4>Kulturpas</g:custom_label_4>
-      <g:internal_label>['Keramik Boulevarden','Kulturpas']</g:internal_label>
+      <g:internal_label>['Keramik Boulevarden','Kulturpas','Aalborg']</g:internal_label>
     </item>
 <item>
       <g:id>26220473</g:id>
@@ -1841,7 +1921,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Aalborg</g:custom_label_4>
       <g:start_date>2026-11-30T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Aalborg SV']</g:internal_label>
     </item>
 <item>
       <g:id>26270109</g:id>
@@ -1860,9 +1942,10 @@
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Kultur og livsfortællinger</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Aalborg</g:custom_label_4>
       <g:start_date>2026-12-02T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Foredrag</g:custom_label_3>
-      <g:internal_label>['Foredrag']</g:internal_label>
+      <g:internal_label>['Foredrag','Aalborg SV']</g:internal_label>
     </item>
 <item>
       <g:id>26270209</g:id>
@@ -1881,9 +1964,10 @@
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Kultur og livsfortællinger</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Aalborg</g:custom_label_4>
       <g:start_date>2026-12-03T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Foredrag</g:custom_label_3>
-      <g:internal_label>['Foredrag']</g:internal_label>
+      <g:internal_label>['Foredrag','Aalborg SV']</g:internal_label>
     </item>
 <item>
       <g:id>26205715</g:id>
@@ -1902,10 +1986,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Keramik</g:custom_label_2>
+      <g:custom_label_4>Aalborg</g:custom_label_4>
       <g:start_date>2026-12-04T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Keramik Boulevarden</g:custom_label_3>
-      <g:custom_label_4>Kulturpas</g:custom_label_4>
-      <g:internal_label>['Keramik Boulevarden','Kulturpas']</g:internal_label>
+      <g:internal_label>['Keramik Boulevarden','Kulturpas','Aalborg']</g:internal_label>
     </item>
 <item>
       <g:id>26205765</g:id>
@@ -1924,9 +2008,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Keramik</g:custom_label_2>
+      <g:custom_label_4>Aalborg</g:custom_label_4>
       <g:start_date>2026-12-04T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Keramik Boulevarden</g:custom_label_3>
-      <g:internal_label>['Keramik Boulevarden']</g:internal_label>
+      <g:internal_label>['Keramik Boulevarden','Aalborg']</g:internal_label>
     </item>
 <item>
       <g:id>26205647</g:id>
@@ -1945,10 +2030,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Keramik</g:custom_label_2>
+      <g:custom_label_4>Aalborg</g:custom_label_4>
       <g:start_date>2026-12-04T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Keramik Boulevarden</g:custom_label_3>
-      <g:custom_label_4>Kreative kurser</g:custom_label_4>
-      <g:internal_label>['Keramik Boulevarden','Kreative kurser']</g:internal_label>
+      <g:internal_label>['Keramik Boulevarden','Kreative kurser','Aalborg']</g:internal_label>
     </item>
 <item>
       <g:id>26225071</g:id>
@@ -1967,9 +2052,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Mindfulness og meditation</g:custom_label_2>
+      <g:custom_label_4>Aalborg</g:custom_label_4>
       <g:start_date>2026-12-05T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Nyhed</g:custom_label_3>
-      <g:internal_label>['Nyhed']</g:internal_label>
+      <g:internal_label>['Nyhed','Aalborg SV']</g:internal_label>
     </item>
 <item>
       <g:id>26205553</g:id>
@@ -1988,7 +2074,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Håndværk og kunsthåndværk</g:custom_label_2>
+      <g:custom_label_4>Aalborg</g:custom_label_4>
       <g:start_date>2026-12-05T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Aalborg SV']</g:internal_label>
     </item>
 <item>
       <g:id>26205231</g:id>
@@ -2007,9 +2095,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Syning</g:custom_label_2>
+      <g:custom_label_4>Aalborg</g:custom_label_4>
       <g:start_date>2026-12-05T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Nyhed</g:custom_label_3>
-      <g:internal_label>['Nyhed']</g:internal_label>
+      <g:internal_label>['Nyhed','Aalborg SV']</g:internal_label>
     </item>
 <item>
       <g:id>26205766</g:id>
@@ -2028,9 +2117,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Keramik</g:custom_label_2>
+      <g:custom_label_4>Aalborg</g:custom_label_4>
       <g:start_date>2026-12-11T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Keramik Boulevarden</g:custom_label_3>
-      <g:internal_label>['Keramik Boulevarden']</g:internal_label>
+      <g:internal_label>['Keramik Boulevarden','Aalborg']</g:internal_label>
     </item>
 <item>
       <g:id>26205716</g:id>
@@ -2049,10 +2139,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Keramik</g:custom_label_2>
+      <g:custom_label_4>Aalborg</g:custom_label_4>
       <g:start_date>2026-12-11T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Keramik Boulevarden</g:custom_label_3>
-      <g:custom_label_4>Kulturpas</g:custom_label_4>
-      <g:internal_label>['Keramik Boulevarden','Kulturpas']</g:internal_label>
+      <g:internal_label>['Keramik Boulevarden','Kulturpas','Aalborg']</g:internal_label>
     </item>
 <item>
       <g:id>26220247</g:id>
@@ -2071,7 +2161,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Bevægelse og afspænding</g:custom_label_2>
+      <g:custom_label_4>Aalborg</g:custom_label_4>
       <g:start_date>2026-12-12T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Aalborg SV']</g:internal_label>
     </item>
 <item>
       <g:id>26205767</g:id>
@@ -2090,9 +2182,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Keramik</g:custom_label_2>
+      <g:custom_label_4>Aalborg</g:custom_label_4>
       <g:start_date>2026-12-18T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Keramik Boulevarden</g:custom_label_3>
-      <g:internal_label>['Keramik Boulevarden']</g:internal_label>
+      <g:internal_label>['Keramik Boulevarden','Aalborg']</g:internal_label>
     </item>
 <item>
       <g:id>26205717</g:id>
@@ -2111,10 +2204,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Keramik</g:custom_label_2>
+      <g:custom_label_4>Aalborg</g:custom_label_4>
       <g:start_date>2026-12-18T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Keramik Boulevarden</g:custom_label_3>
-      <g:custom_label_4>Kulturpas</g:custom_label_4>
-      <g:internal_label>['Keramik Boulevarden','Kulturpas']</g:internal_label>
+      <g:internal_label>['Keramik Boulevarden','Kulturpas','Aalborg']</g:internal_label>
     </item>
 <item>
       <g:id>26220556</g:id>
@@ -2133,9 +2226,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Bevægelse og afspænding</g:custom_label_2>
+      <g:custom_label_4>Aalborg</g:custom_label_4>
       <g:start_date>2026-12-30T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Nyhed</g:custom_label_3>
-      <g:internal_label>['Nyhed']</g:internal_label>
+      <g:internal_label>['Nyhed','Aalborg SV']</g:internal_label>
     </item>
 <item>
       <g:id>27101050</g:id>
@@ -2154,7 +2248,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Natur og udeliv</g:custom_label_1>
       <g:custom_label_2>Jagt og fiskeri</g:custom_label_2>
+      <g:custom_label_4>Aalborg</g:custom_label_4>
       <g:start_date>2027-01-06T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Aalborg SV']</g:internal_label>
     </item>
 <item>
       <g:id>26270110</g:id>
@@ -2173,9 +2269,10 @@
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Kultur og livsfortællinger</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Aalborg</g:custom_label_4>
       <g:start_date>2027-01-13T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Foredrag</g:custom_label_3>
-      <g:internal_label>['Foredrag']</g:internal_label>
+      <g:internal_label>['Foredrag','Aalborg SV']</g:internal_label>
     </item>
 <item>
       <g:id>26270210</g:id>
@@ -2194,9 +2291,10 @@
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Kultur og livsfortællinger</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Aalborg</g:custom_label_4>
       <g:start_date>2027-01-14T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Foredrag</g:custom_label_3>
-      <g:internal_label>['Foredrag']</g:internal_label>
+      <g:internal_label>['Foredrag','Aalborg SV']</g:internal_label>
     </item>
 <item>
       <g:id>26270111</g:id>
@@ -2215,9 +2313,10 @@
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Kultur og livsfortællinger</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Aalborg</g:custom_label_4>
       <g:start_date>2027-01-20T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Foredrag</g:custom_label_3>
-      <g:internal_label>['Foredrag']</g:internal_label>
+      <g:internal_label>['Foredrag','Aalborg SV']</g:internal_label>
     </item>
 <item>
       <g:id>26270211</g:id>
@@ -2236,9 +2335,10 @@
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Kultur og livsfortællinger</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Aalborg</g:custom_label_4>
       <g:start_date>2027-01-21T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Foredrag</g:custom_label_3>
-      <g:internal_label>['Foredrag']</g:internal_label>
+      <g:internal_label>['Foredrag','Aalborg SV']</g:internal_label>
     </item>
 <item>
       <g:id>26270112</g:id>
@@ -2257,9 +2357,10 @@
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Samfund og historie</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Aalborg</g:custom_label_4>
       <g:start_date>2027-01-27T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Foredrag</g:custom_label_3>
-      <g:internal_label>['Foredrag']</g:internal_label>
+      <g:internal_label>['Foredrag','Aalborg SV']</g:internal_label>
     </item>
 <item>
       <g:id>26270212</g:id>
@@ -2278,9 +2379,10 @@
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Samfund og historie</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Aalborg</g:custom_label_4>
       <g:start_date>2027-01-28T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Foredrag</g:custom_label_3>
-      <g:internal_label>['Foredrag']</g:internal_label>
+      <g:internal_label>['Foredrag','Aalborg SV']</g:internal_label>
     </item>
 <item>
       <g:id>26270113</g:id>
@@ -2299,9 +2401,10 @@
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Samfund og historie</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Aalborg</g:custom_label_4>
       <g:start_date>2027-02-03T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Foredrag</g:custom_label_3>
-      <g:internal_label>['Foredrag']</g:internal_label>
+      <g:internal_label>['Foredrag','Aalborg SV']</g:internal_label>
     </item>
 <item>
       <g:id>26270213</g:id>
@@ -2320,9 +2423,10 @@
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Samfund og historie</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Aalborg</g:custom_label_4>
       <g:start_date>2027-02-04T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Foredrag</g:custom_label_3>
-      <g:internal_label>['Foredrag']</g:internal_label>
+      <g:internal_label>['Foredrag','Aalborg SV']</g:internal_label>
     </item>
 <item>
       <g:id>26270114</g:id>
@@ -2341,9 +2445,10 @@
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Samfund og historie</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Aalborg</g:custom_label_4>
       <g:start_date>2027-02-10T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Foredrag</g:custom_label_3>
-      <g:internal_label>['Foredrag']</g:internal_label>
+      <g:internal_label>['Foredrag','Aalborg SV']</g:internal_label>
     </item>
 <item>
       <g:id>26270214</g:id>
@@ -2362,9 +2467,10 @@
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Samfund og historie</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Aalborg</g:custom_label_4>
       <g:start_date>2027-02-11T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Foredrag</g:custom_label_3>
-      <g:internal_label>['Foredrag']</g:internal_label>
+      <g:internal_label>['Foredrag','Aalborg SV']</g:internal_label>
     </item>
 <item>
       <g:id>26270115</g:id>
@@ -2383,9 +2489,10 @@
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Musik og koncerter</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Aalborg</g:custom_label_4>
       <g:start_date>2027-03-03T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Foredrag</g:custom_label_3>
-      <g:internal_label>['Foredrag']</g:internal_label>
+      <g:internal_label>['Foredrag','Aalborg SV']</g:internal_label>
     </item>
 <item>
       <g:id>26270215</g:id>
@@ -2404,9 +2511,10 @@
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Musik og koncerter</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Aalborg</g:custom_label_4>
       <g:start_date>2027-03-04T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Foredrag</g:custom_label_3>
-      <g:internal_label>['Foredrag']</g:internal_label>
+      <g:internal_label>['Foredrag','Aalborg SV']</g:internal_label>
     </item>
 <item>
       <g:id>26270116</g:id>
@@ -2425,9 +2533,10 @@
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Videnskab og teknologi</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Aalborg</g:custom_label_4>
       <g:start_date>2027-03-10T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Foredrag</g:custom_label_3>
-      <g:internal_label>['Foredrag']</g:internal_label>
+      <g:internal_label>['Foredrag','Aalborg SV']</g:internal_label>
     </item>
 <item>
       <g:id>26270216</g:id>
@@ -2446,9 +2555,10 @@
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Videnskab og teknologi</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Aalborg</g:custom_label_4>
       <g:start_date>2027-03-11T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Foredrag</g:custom_label_3>
-      <g:internal_label>['Foredrag']</g:internal_label>
+      <g:internal_label>['Foredrag','Aalborg SV']</g:internal_label>
     </item>
 <item>
       <g:id>26270118</g:id>
@@ -2467,9 +2577,10 @@
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Kultur og livsfortællinger</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Aalborg</g:custom_label_4>
       <g:start_date>2027-03-31T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Foredrag</g:custom_label_3>
-      <g:internal_label>['Foredrag']</g:internal_label>
+      <g:internal_label>['Foredrag','Aalborg SV']</g:internal_label>
     </item>
 <item>
       <g:id>26270218</g:id>
@@ -2488,9 +2599,10 @@
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Kultur og livsfortællinger</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Aalborg</g:custom_label_4>
       <g:start_date>2027-04-01T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Foredrag</g:custom_label_3>
-      <g:internal_label>['Foredrag']</g:internal_label>
+      <g:internal_label>['Foredrag','Aalborg SV']</g:internal_label>
     </item>
 </channel>
 </rss>

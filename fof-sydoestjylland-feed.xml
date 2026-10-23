@@ -22,7 +22,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Håndværk og kunsthåndværk</g:custom_label_2>
+      <g:custom_label_4>Horsens</g:custom_label_4>
       <g:start_date>2026-10-24T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Horsens']</g:internal_label>
     </item>
 <item>
       <g:id>265175</g:id>
@@ -41,7 +43,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Familie, børn og unge</g:custom_label_1>
       <g:custom_label_2>Motion, dans og drama</g:custom_label_2>
+      <g:custom_label_4>Horsens</g:custom_label_4>
       <g:start_date>2026-10-25T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Horsens']</g:internal_label>
     </item>
 <item>
       <g:id>269208</g:id>
@@ -60,7 +64,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Håndværk og kunsthåndværk</g:custom_label_2>
+      <g:custom_label_4>Vejle</g:custom_label_4>
       <g:start_date>2026-10-25T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Vejle']</g:internal_label>
     </item>
 <item>
       <g:id>266514</g:id>
@@ -79,7 +85,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Skanderborg</g:custom_label_4>
       <g:start_date>2026-10-26T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Skanderborg']</g:internal_label>
     </item>
 <item>
       <g:id>266701</g:id>
@@ -98,7 +106,9 @@
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Kultur og livsfortællinger</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Skanderborg</g:custom_label_4>
       <g:start_date>2026-10-26T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Skanderborg']</g:internal_label>
     </item>
 <item>
       <g:id>266104</g:id>
@@ -117,7 +127,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Skanderborg</g:custom_label_4>
       <g:start_date>2026-10-26T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Skanderborg']</g:internal_label>
     </item>
 <item>
       <g:id>265116</g:id>
@@ -136,7 +148,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Horsens</g:custom_label_4>
       <g:start_date>2026-10-27T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Horsens']</g:internal_label>
     </item>
 <item>
       <g:id>266011</g:id>
@@ -155,9 +169,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Tai Chi og Qi Gong</g:custom_label_2>
+      <g:custom_label_4>Skanderborg</g:custom_label_4>
       <g:start_date>2026-10-27T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Nyhed</g:custom_label_3>
-      <g:internal_label>['Nyhed']</g:internal_label>
+      <g:internal_label>['Nyhed','Skanderborg']</g:internal_label>
     </item>
 <item>
       <g:id>269010</g:id>
@@ -176,7 +191,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Dans</g:custom_label_2>
+      <g:custom_label_4>Vejle</g:custom_label_4>
       <g:start_date>2026-10-28T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Vejle']</g:internal_label>
     </item>
 <item>
       <g:id>266512</g:id>
@@ -195,7 +212,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Skanderborg</g:custom_label_4>
       <g:start_date>2026-10-28T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Skanderborg']</g:internal_label>
     </item>
 <item>
       <g:id>269011</g:id>
@@ -214,7 +233,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Dans</g:custom_label_2>
+      <g:custom_label_4>Vejle</g:custom_label_4>
       <g:start_date>2026-10-28T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Vejle']</g:internal_label>
     </item>
 <item>
       <g:id>266101</g:id>
@@ -233,7 +254,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Skanderborg</g:custom_label_4>
       <g:start_date>2026-10-28T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Skanderborg']</g:internal_label>
     </item>
 <item>
       <g:id>265272</g:id>
@@ -252,9 +275,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
       <g:custom_label_2>Vegetarisk og vegansk</g:custom_label_2>
+      <g:custom_label_4>Horsens</g:custom_label_4>
       <g:start_date>2026-10-29T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Workshops</g:custom_label_3>
-      <g:internal_label>['Workshops']</g:internal_label>
+      <g:internal_label>['Workshops','Horsens']</g:internal_label>
     </item>
 <item>
       <g:id>265262</g:id>
@@ -273,10 +297,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
       <g:custom_label_2>Vegetarisk og vegansk</g:custom_label_2>
+      <g:custom_label_4>Horsens</g:custom_label_4>
       <g:start_date>2026-10-31T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Kulturpas</g:custom_label_3>
-      <g:custom_label_4>Gaveidéer</g:custom_label_4>
-      <g:internal_label>['Kulturpas','Gaveidéer']</g:internal_label>
+      <g:internal_label>['Kulturpas','Gaveidéer','Horsens']</g:internal_label>
     </item>
 <item>
       <g:id>265240</g:id>
@@ -295,9 +319,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Tegnekurser</g:custom_label_2>
+      <g:custom_label_4>Horsens</g:custom_label_4>
       <g:start_date>2026-10-31T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Workshops</g:custom_label_3>
-      <g:internal_label>['Workshops']</g:internal_label>
+      <g:internal_label>['Workshops','Horsens']</g:internal_label>
     </item>
 <item>
       <g:id>266262</g:id>
@@ -316,10 +341,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
       <g:custom_label_2>Vegetarisk og vegansk</g:custom_label_2>
+      <g:custom_label_4>Skanderborg</g:custom_label_4>
       <g:start_date>2026-11-01T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Kulturpas</g:custom_label_3>
-      <g:custom_label_4>Gaveidéer</g:custom_label_4>
-      <g:internal_label>['Kulturpas','Gaveidéer']</g:internal_label>
+      <g:internal_label>['Kulturpas','Gaveidéer','Skanderborg']</g:internal_label>
     </item>
 <item>
       <g:id>269631</g:id>
@@ -338,7 +363,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Musik og sang</g:custom_label_1>
       <g:custom_label_2>Kor og fællessang</g:custom_label_2>
+      <g:custom_label_4>Vejle</g:custom_label_4>
       <g:start_date>2026-11-02T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Vejle']</g:internal_label>
     </item>
 <item>
       <g:id>269071</g:id>
@@ -357,9 +384,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Vejle</g:custom_label_4>
       <g:start_date>2026-11-02T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Prøvetime</g:custom_label_3>
-      <g:internal_label>['Prøvetime']</g:internal_label>
+      <g:internal_label>['Prøvetime','Vejle']</g:internal_label>
     </item>
 <item>
       <g:id>265232</g:id>
@@ -378,9 +406,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Malekurser</g:custom_label_2>
+      <g:custom_label_4>Horsens</g:custom_label_4>
       <g:start_date>2026-11-03T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Nyhed</g:custom_label_3>
-      <g:internal_label>['Nyhed']</g:internal_label>
+      <g:internal_label>['Nyhed','Horsens']</g:internal_label>
     </item>
 <item>
       <g:id>268700</g:id>
@@ -399,7 +428,9 @@
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Samfund og historie</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Grindsted</g:custom_label_4>
       <g:start_date>2026-11-03T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Grindsted']</g:internal_label>
     </item>
 <item>
       <g:id>265700</g:id>
@@ -418,10 +449,10 @@
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Kultur og livsfortællinger</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Horsens</g:custom_label_4>
       <g:start_date>2026-11-03T00:00:00.000Z</g:start_date>
       <g:custom_label_3>FOF Business</g:custom_label_3>
-      <g:custom_label_4>Gaveidéer</g:custom_label_4>
-      <g:internal_label>['FOF Business','Gaveidéer']</g:internal_label>
+      <g:internal_label>['FOF Business','Gaveidéer','Horsens']</g:internal_label>
     </item>
 <item>
       <g:id>269102</g:id>
@@ -440,7 +471,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
       <g:custom_label_2>Efterfødselstræning</g:custom_label_2>
+      <g:custom_label_4>Vejle</g:custom_label_4>
       <g:start_date>2026-11-04T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Vejle']</g:internal_label>
     </item>
 <item>
       <g:id>265457</g:id>
@@ -459,7 +492,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kulturfag og samfund</g:custom_label_1>
       <g:custom_label_2>Slægtsforskning</g:custom_label_2>
+      <g:custom_label_4>Horsens</g:custom_label_4>
       <g:start_date>2026-11-05T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Horsens']</g:internal_label>
     </item>
 <item>
       <g:id>265111</g:id>
@@ -478,9 +513,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Dans</g:custom_label_2>
+      <g:custom_label_4>Horsens</g:custom_label_4>
       <g:start_date>2026-11-06T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Workshops</g:custom_label_3>
-      <g:internal_label>['Workshops']</g:internal_label>
+      <g:internal_label>['Workshops','Horsens']</g:internal_label>
     </item>
 <item>
       <g:id>265200</g:id>
@@ -499,7 +535,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Håndværk og kunsthåndværk</g:custom_label_2>
+      <g:custom_label_4>Horsens</g:custom_label_4>
       <g:start_date>2026-11-07T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Horsens']</g:internal_label>
     </item>
 <item>
       <g:id>265247</g:id>
@@ -518,9 +556,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Syning</g:custom_label_2>
+      <g:custom_label_4>Horsens</g:custom_label_4>
       <g:start_date>2026-11-07T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Workshops</g:custom_label_3>
-      <g:internal_label>['Workshops']</g:internal_label>
+      <g:internal_label>['Workshops','Horsens']</g:internal_label>
     </item>
 <item>
       <g:id>269406</g:id>
@@ -539,9 +578,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kommunikation og drama</g:custom_label_1>
       <g:custom_label_2>Skrivekurser</g:custom_label_2>
+      <g:custom_label_4>Vejle</g:custom_label_4>
       <g:start_date>2026-11-07T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Kulturpas</g:custom_label_3>
-      <g:internal_label>['Kulturpas']</g:internal_label>
+      <g:internal_label>['Kulturpas','Vejle']</g:internal_label>
     </item>
 <item>
       <g:id>267004</g:id>
@@ -560,7 +600,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Barrit</g:custom_label_4>
       <g:start_date>2026-11-10T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Barrit']</g:internal_label>
     </item>
 <item>
       <g:id>265221</g:id>
@@ -579,9 +621,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Håndværk og kunsthåndværk</g:custom_label_2>
+      <g:custom_label_4>Horsens</g:custom_label_4>
       <g:start_date>2026-11-10T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Jul og nytår</g:custom_label_3>
-      <g:internal_label>['Jul og nytår']</g:internal_label>
+      <g:internal_label>['Jul og nytår','Horsens']</g:internal_label>
     </item>
 <item>
       <g:id>269610</g:id>
@@ -600,7 +643,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Musik og sang</g:custom_label_1>
       <g:custom_label_2>Sang og stemmetræning</g:custom_label_2>
+      <g:custom_label_4>Vejle</g:custom_label_4>
       <g:start_date>2026-11-10T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Vejle']</g:internal_label>
     </item>
 <item>
       <g:id>265012</g:id>
@@ -619,9 +664,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Horsens</g:custom_label_4>
       <g:start_date>2026-11-13T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Workshops</g:custom_label_3>
-      <g:internal_label>['Workshops']</g:internal_label>
+      <g:internal_label>['Workshops','Horsens']</g:internal_label>
     </item>
 <item>
       <g:id>265263</g:id>
@@ -640,7 +686,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
       <g:custom_label_2>Vegetarisk og vegansk</g:custom_label_2>
+      <g:custom_label_4>Horsens</g:custom_label_4>
       <g:start_date>2026-11-14T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Horsens']</g:internal_label>
     </item>
 <item>
       <g:id>265095</g:id>
@@ -659,9 +707,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Horsens</g:custom_label_4>
       <g:start_date>2026-11-14T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Workshops</g:custom_label_3>
-      <g:internal_label>['Workshops']</g:internal_label>
+      <g:internal_label>['Workshops','Horsens']</g:internal_label>
     </item>
 <item>
       <g:id>265097</g:id>
@@ -680,10 +729,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Horsens</g:custom_label_4>
       <g:start_date>2026-11-14T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Workshops</g:custom_label_3>
-      <g:custom_label_4>Nyhed</g:custom_label_4>
-      <g:internal_label>['Workshops','Nyhed']</g:internal_label>
+      <g:internal_label>['Workshops','Nyhed','Horsens']</g:internal_label>
     </item>
 <item>
       <g:id>265265</g:id>
@@ -702,9 +751,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
       <g:custom_label_2>Verdenskøkkenet</g:custom_label_2>
+      <g:custom_label_4>Horsens</g:custom_label_4>
       <g:start_date>2026-11-15T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Nyhed</g:custom_label_3>
-      <g:internal_label>['Nyhed']</g:internal_label>
+      <g:internal_label>['Nyhed','Horsens']</g:internal_label>
     </item>
 <item>
       <g:id>269092</g:id>
@@ -723,10 +773,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Vejle</g:custom_label_4>
       <g:start_date>2026-11-15T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Workshops</g:custom_label_3>
-      <g:custom_label_4>Nyhed</g:custom_label_4>
-      <g:internal_label>['Workshops','Nyhed']</g:internal_label>
+      <g:internal_label>['Workshops','Nyhed','Vejle']</g:internal_label>
     </item>
 <item>
       <g:id>268277</g:id>
@@ -745,10 +795,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
       <g:custom_label_2>Bagning og søde sager</g:custom_label_2>
+      <g:custom_label_4>Grindsted</g:custom_label_4>
       <g:start_date>2026-11-16T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Jul og nytår</g:custom_label_3>
-      <g:custom_label_4>Nyhed</g:custom_label_4>
-      <g:internal_label>['Jul og nytår','Nyhed']</g:internal_label>
+      <g:internal_label>['Jul og nytår','Nyhed','Grindsted']</g:internal_label>
     </item>
 <item>
       <g:id>269246</g:id>
@@ -767,7 +817,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Syning</g:custom_label_2>
+      <g:custom_label_4>Vejle</g:custom_label_4>
       <g:start_date>2026-11-17T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Vejle']</g:internal_label>
     </item>
 <item>
       <g:id>265277</g:id>
@@ -786,10 +838,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
       <g:custom_label_2>Bagning og søde sager</g:custom_label_2>
+      <g:custom_label_4>Horsens</g:custom_label_4>
       <g:start_date>2026-11-18T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Jul og nytår</g:custom_label_3>
-      <g:custom_label_4>Nyhed</g:custom_label_4>
-      <g:internal_label>['Jul og nytår','Nyhed']</g:internal_label>
+      <g:internal_label>['Jul og nytår','Nyhed','Horsens']</g:internal_label>
     </item>
 <item>
       <g:id>265162</g:id>
@@ -808,7 +860,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
       <g:custom_label_2>Motion for gravide</g:custom_label_2>
+      <g:custom_label_4>Horsens</g:custom_label_4>
       <g:start_date>2026-11-18T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Horsens']</g:internal_label>
     </item>
 <item>
       <g:id>269247</g:id>
@@ -827,7 +881,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Syning</g:custom_label_2>
+      <g:custom_label_4>Vejle</g:custom_label_4>
       <g:start_date>2026-11-19T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Vejle']</g:internal_label>
     </item>
 <item>
       <g:id>269248</g:id>
@@ -846,7 +902,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Syning</g:custom_label_2>
+      <g:custom_label_4>Vejle</g:custom_label_4>
       <g:start_date>2026-11-19T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Vejle']</g:internal_label>
     </item>
 <item>
       <g:id>269081</g:id>
@@ -865,9 +923,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Mindfulness og meditation</g:custom_label_2>
+      <g:custom_label_4>Vejle</g:custom_label_4>
       <g:start_date>2026-11-21T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Nyhed</g:custom_label_3>
-      <g:internal_label>['Nyhed']</g:internal_label>
+      <g:internal_label>['Nyhed','Vejle']</g:internal_label>
     </item>
 <item>
       <g:id>269237</g:id>
@@ -886,10 +945,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Syning</g:custom_label_2>
+      <g:custom_label_4>Vejle</g:custom_label_4>
       <g:start_date>2026-11-22T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Jul og nytår</g:custom_label_3>
-      <g:custom_label_4>Nyhed</g:custom_label_4>
-      <g:internal_label>['Jul og nytår','Nyhed']</g:internal_label>
+      <g:internal_label>['Jul og nytår','Nyhed','Vejle']</g:internal_label>
     </item>
 <item>
       <g:id>266702</g:id>
@@ -908,7 +967,9 @@
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Sundhed og eksistens</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Skanderborg</g:custom_label_4>
       <g:start_date>2026-11-23T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Skanderborg']</g:internal_label>
     </item>
 <item>
       <g:id>265709</g:id>
@@ -927,7 +988,9 @@
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Samfund og historie</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Horsens</g:custom_label_4>
       <g:start_date>2026-11-23T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Horsens']</g:internal_label>
     </item>
 <item>
       <g:id>269264</g:id>
@@ -946,7 +1009,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
       <g:custom_label_2>Bagning og søde sager</g:custom_label_2>
+      <g:custom_label_4>Vejle Øst</g:custom_label_4>
       <g:start_date>2026-11-23T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Vejle Øst']</g:internal_label>
     </item>
 <item>
       <g:id>265273</g:id>
@@ -965,9 +1030,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
       <g:custom_label_2>Vegetarisk og vegansk</g:custom_label_2>
+      <g:custom_label_4>Horsens</g:custom_label_4>
       <g:start_date>2026-11-24T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Workshops</g:custom_label_3>
-      <g:internal_label>['Workshops']</g:internal_label>
+      <g:internal_label>['Workshops','Horsens']</g:internal_label>
     </item>
 <item>
       <g:id>269702</g:id>
@@ -986,7 +1052,9 @@
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Familie og børn</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Vejle</g:custom_label_4>
       <g:start_date>2026-11-24T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Vejle']</g:internal_label>
     </item>
 <item>
       <g:id>265297</g:id>
@@ -1005,10 +1073,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Familie, børn og unge</g:custom_label_1>
       <g:custom_label_2>Madlavning</g:custom_label_2>
+      <g:custom_label_4>Horsens</g:custom_label_4>
       <g:start_date>2026-11-26T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Nyhed</g:custom_label_3>
-      <g:custom_label_4>Fængselsmuseet</g:custom_label_4>
-      <g:internal_label>['Nyhed','Fængselsmuseet']</g:internal_label>
+      <g:internal_label>['Nyhed','Fængselsmuseet','Horsens']</g:internal_label>
     </item>
 <item>
       <g:id>265229</g:id>
@@ -1027,9 +1095,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Malekurser</g:custom_label_2>
+      <g:custom_label_4>Horsens</g:custom_label_4>
       <g:start_date>2026-11-28T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Workshops</g:custom_label_3>
-      <g:internal_label>['Workshops']</g:internal_label>
+      <g:internal_label>['Workshops','Horsens']</g:internal_label>
     </item>
 <item>
       <g:id>269141</g:id>
@@ -1048,9 +1117,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Vejle</g:custom_label_4>
       <g:start_date>2026-12-02T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Jul og nytår</g:custom_label_3>
-      <g:internal_label>['Jul og nytår']</g:internal_label>
+      <g:internal_label>['Jul og nytår','Vejle']</g:internal_label>
     </item>
 <item>
       <g:id>265014</g:id>
@@ -1069,9 +1139,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Horsens</g:custom_label_4>
       <g:start_date>2026-12-04T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Workshops</g:custom_label_3>
-      <g:internal_label>['Workshops']</g:internal_label>
+      <g:internal_label>['Workshops','Horsens']</g:internal_label>
     </item>
 <item>
       <g:id>265707</g:id>
@@ -1090,9 +1161,10 @@
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Musik og koncerter</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Horsens</g:custom_label_4>
       <g:start_date>2026-12-05T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Jul og nytår</g:custom_label_3>
-      <g:internal_label>['Jul og nytår']</g:internal_label>
+      <g:internal_label>['Jul og nytår','Horsens']</g:internal_label>
     </item>
 <item>
       <g:id>265015</g:id>
@@ -1111,9 +1183,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Horsens</g:custom_label_4>
       <g:start_date>2026-12-05T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Workshops</g:custom_label_3>
-      <g:internal_label>['Workshops']</g:internal_label>
+      <g:internal_label>['Workshops','Horsens']</g:internal_label>
     </item>
 <item>
       <g:id>269093</g:id>
@@ -1132,10 +1205,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Vejle</g:custom_label_4>
       <g:start_date>2026-12-06T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Workshops</g:custom_label_3>
-      <g:custom_label_4>Nyhed</g:custom_label_4>
-      <g:internal_label>['Workshops','Nyhed']</g:internal_label>
+      <g:internal_label>['Workshops','Nyhed','Vejle']</g:internal_label>
     </item>
 <item>
       <g:id>265716</g:id>
@@ -1154,7 +1227,9 @@
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Musik og koncerter</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Horsens</g:custom_label_4>
       <g:start_date>2026-12-08T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Horsens']</g:internal_label>
     </item>
 <item>
       <g:id>265134</g:id>
@@ -1173,10 +1248,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Horsens</g:custom_label_4>
       <g:start_date>2026-12-12T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Jul og nytår</g:custom_label_3>
-      <g:custom_label_4>Workshops</g:custom_label_4>
-      <g:internal_label>['Jul og nytår','Workshops','Nyhed']</g:internal_label>
+      <g:internal_label>['Jul og nytår','Workshops','Nyhed','Horsens']</g:internal_label>
     </item>
 <item>
       <g:id>265133</g:id>
@@ -1195,10 +1270,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Horsens</g:custom_label_4>
       <g:start_date>2026-12-12T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Jul og nytår</g:custom_label_3>
-      <g:custom_label_4>Workshops</g:custom_label_4>
-      <g:internal_label>['Jul og nytår','Workshops']</g:internal_label>
+      <g:internal_label>['Jul og nytår','Workshops','Horsens']</g:internal_label>
     </item>
 <item>
       <g:id>265136</g:id>
@@ -1217,10 +1292,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Horsens</g:custom_label_4>
       <g:start_date>2026-12-13T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Jul og nytår</g:custom_label_3>
-      <g:custom_label_4>Workshops</g:custom_label_4>
-      <g:internal_label>['Jul og nytår','Workshops','Sommer']</g:internal_label>
+      <g:internal_label>['Jul og nytår','Workshops','Sommer','Horsens']</g:internal_label>
     </item>
 <item>
       <g:id>265092</g:id>
@@ -1239,9 +1314,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Horsens</g:custom_label_4>
       <g:start_date>2026-12-13T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Jul og nytår</g:custom_label_3>
-      <g:internal_label>['Jul og nytår']</g:internal_label>
+      <g:internal_label>['Jul og nytår','Horsens']</g:internal_label>
     </item>
 <item>
       <g:id>265135</g:id>
@@ -1260,10 +1336,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Familie, børn og unge</g:custom_label_1>
       <g:custom_label_2>Motion, dans og drama</g:custom_label_2>
+      <g:custom_label_4>Horsens</g:custom_label_4>
       <g:start_date>2026-12-13T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Jul og nytår</g:custom_label_3>
-      <g:custom_label_4>Workshops</g:custom_label_4>
-      <g:internal_label>['Jul og nytår','Workshops','Nyhed']</g:internal_label>
+      <g:internal_label>['Jul og nytår','Workshops','Nyhed','Horsens']</g:internal_label>
     </item>
 <item>
       <g:id>265145</g:id>
@@ -1282,10 +1358,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Dans</g:custom_label_2>
+      <g:custom_label_4>Horsens</g:custom_label_4>
       <g:start_date>2026-12-14T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Jul og nytår</g:custom_label_3>
-      <g:custom_label_4>Workshops</g:custom_label_4>
-      <g:internal_label>['Jul og nytår','Workshops']</g:internal_label>
+      <g:internal_label>['Jul og nytår','Workshops','Horsens']</g:internal_label>
     </item>
 <item>
       <g:id>265146</g:id>
@@ -1304,10 +1380,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Dans</g:custom_label_2>
+      <g:custom_label_4>Horsens</g:custom_label_4>
       <g:start_date>2026-12-18T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Workshops</g:custom_label_3>
-      <g:custom_label_4>Jul og nytår</g:custom_label_4>
-      <g:internal_label>['Workshops','Jul og nytår']</g:internal_label>
+      <g:internal_label>['Workshops','Jul og nytår','Horsens']</g:internal_label>
     </item>
 <item>
       <g:id>272455</g:id>
@@ -1326,7 +1402,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Natur og udeliv</g:custom_label_1>
       <g:custom_label_2>Naturfag og friluftsliv</g:custom_label_2>
+      <g:custom_label_4>Juelsminde</g:custom_label_4>
       <g:start_date>2027-01-10T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Juelsminde']</g:internal_label>
     </item>
 <item>
       <g:id>274256</g:id>
@@ -1345,10 +1423,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
       <g:custom_label_2>Vegetarisk og vegansk</g:custom_label_2>
+      <g:custom_label_4>Vejle</g:custom_label_4>
       <g:start_date>2027-01-14T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Nyhed</g:custom_label_3>
-      <g:custom_label_4>Workshops</g:custom_label_4>
-      <g:internal_label>['Nyhed','Workshops']</g:internal_label>
+      <g:internal_label>['Nyhed','Workshops','Vejle']</g:internal_label>
     </item>
 <item>
       <g:id>270245</g:id>
@@ -1367,9 +1445,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Tegnekurser</g:custom_label_2>
+      <g:custom_label_4>Horsens</g:custom_label_4>
       <g:start_date>2027-01-18T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Kulturpas</g:custom_label_3>
-      <g:internal_label>['Kulturpas']</g:internal_label>
+      <g:internal_label>['Kulturpas','Horsens']</g:internal_label>
     </item>
 <item>
       <g:id>274621</g:id>
@@ -1388,7 +1467,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Musik og sang</g:custom_label_1>
       <g:custom_label_2>Sang og stemmetræning</g:custom_label_2>
+      <g:custom_label_4>Vejle</g:custom_label_4>
       <g:start_date>2027-01-19T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Vejle']</g:internal_label>
     </item>
 <item>
       <g:id>270145</g:id>
@@ -1407,10 +1488,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Mindfulness og meditation</g:custom_label_2>
+      <g:custom_label_4>Horsens</g:custom_label_4>
       <g:start_date>2027-01-22T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Nyhed</g:custom_label_3>
-      <g:custom_label_4>Fængselsmuseet</g:custom_label_4>
-      <g:internal_label>['Nyhed','Fængselsmuseet']</g:internal_label>
+      <g:internal_label>['Nyhed','Fængselsmuseet','Horsens']</g:internal_label>
     </item>
 <item>
       <g:id>274607</g:id>
@@ -1429,9 +1510,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Musik og sang</g:custom_label_1>
       <g:custom_label_2>Kor og fællessang</g:custom_label_2>
+      <g:custom_label_4>Fredericia</g:custom_label_4>
       <g:start_date>2027-01-23T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Nyhed</g:custom_label_3>
-      <g:internal_label>['Nyhed']</g:internal_label>
+      <g:internal_label>['Nyhed','Fredericia']</g:internal_label>
     </item>
 <item>
       <g:id>274202</g:id>
@@ -1450,9 +1532,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Håndværk og kunsthåndværk</g:custom_label_2>
+      <g:custom_label_4>Vejle</g:custom_label_4>
       <g:start_date>2027-01-24T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Workshops</g:custom_label_3>
-      <g:internal_label>['Workshops']</g:internal_label>
+      <g:internal_label>['Workshops','Vejle']</g:internal_label>
     </item>
 <item>
       <g:id>270232</g:id>
@@ -1471,9 +1554,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Malekurser</g:custom_label_2>
+      <g:custom_label_4>Horsens</g:custom_label_4>
       <g:start_date>2027-01-26T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Nyhed</g:custom_label_3>
-      <g:internal_label>['Nyhed']</g:internal_label>
+      <g:internal_label>['Nyhed','Horsens']</g:internal_label>
     </item>
 <item>
       <g:id>270266</g:id>
@@ -1492,10 +1576,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Grafik og trykketeknik</g:custom_label_2>
+      <g:custom_label_4>Horsens</g:custom_label_4>
       <g:start_date>2027-01-30T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Nyhed</g:custom_label_3>
-      <g:custom_label_4>Fængselsmuseet</g:custom_label_4>
-      <g:internal_label>['Nyhed','Fængselsmuseet']</g:internal_label>
+      <g:internal_label>['Nyhed','Fængselsmuseet','Horsens']</g:internal_label>
     </item>
 <item>
       <g:id>270202</g:id>
@@ -1514,9 +1598,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Håndværk og kunsthåndværk</g:custom_label_2>
+      <g:custom_label_4>Horsens</g:custom_label_4>
       <g:start_date>2027-01-30T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Workshops</g:custom_label_3>
-      <g:internal_label>['Workshops']</g:internal_label>
+      <g:internal_label>['Workshops','Horsens']</g:internal_label>
     </item>
 <item>
       <g:id>274338</g:id>
@@ -1535,7 +1620,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Sprog</g:custom_label_1>
       <g:custom_label_2>Italiensk</g:custom_label_2>
+      <g:custom_label_4>Vejle</g:custom_label_4>
       <g:start_date>2027-02-01T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Vejle']</g:internal_label>
     </item>
 <item>
       <g:id>274339</g:id>
@@ -1554,7 +1641,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Sprog</g:custom_label_1>
       <g:custom_label_2>Italiensk</g:custom_label_2>
+      <g:custom_label_4>Vejle</g:custom_label_4>
       <g:start_date>2027-02-01T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Vejle']</g:internal_label>
     </item>
 <item>
       <g:id>274627</g:id>
@@ -1573,9 +1662,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Musik og sang</g:custom_label_1>
       <g:custom_label_2>Kor og fællessang</g:custom_label_2>
+      <g:custom_label_4>Vejle</g:custom_label_4>
       <g:start_date>2027-02-01T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Prøvetime</g:custom_label_3>
-      <g:internal_label>['Prøvetime']</g:internal_label>
+      <g:internal_label>['Prøvetime','Vejle']</g:internal_label>
     </item>
 <item>
       <g:id>274630</g:id>
@@ -1594,7 +1684,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Musik og sang</g:custom_label_1>
       <g:custom_label_2>Kor og fællessang</g:custom_label_2>
+      <g:custom_label_4>Vejle</g:custom_label_4>
       <g:start_date>2027-02-01T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Vejle']</g:internal_label>
     </item>
 <item>
       <g:id>270717</g:id>
@@ -1613,7 +1705,9 @@
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Videnskab og teknologi</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Horsens</g:custom_label_4>
       <g:start_date>2027-02-04T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Horsens']</g:internal_label>
     </item>
 <item>
       <g:id>272800</g:id>
@@ -1632,9 +1726,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Natur og udeliv</g:custom_label_1>
       <g:custom_label_2>Sejlads</g:custom_label_2>
+      <g:custom_label_4>Juelsminde</g:custom_label_4>
       <g:start_date>2027-02-22T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Nyhed</g:custom_label_3>
-      <g:internal_label>['Nyhed']</g:internal_label>
+      <g:internal_label>['Nyhed','Juelsminde']</g:internal_label>
     </item>
 <item>
       <g:id>274628</g:id>
@@ -1653,7 +1748,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Musik og sang</g:custom_label_1>
       <g:custom_label_2>Kor og fællessang</g:custom_label_2>
+      <g:custom_label_4>Vejle</g:custom_label_4>
       <g:start_date>2027-02-22T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Vejle']</g:internal_label>
     </item>
 <item>
       <g:id>274216</g:id>
@@ -1672,10 +1769,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Håndværk og kunsthåndværk</g:custom_label_2>
+      <g:custom_label_4>Vejle</g:custom_label_4>
       <g:start_date>2027-02-25T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Gaveidéer</g:custom_label_3>
-      <g:custom_label_4>Workshops</g:custom_label_4>
-      <g:internal_label>['Gaveidéer','Workshops']</g:internal_label>
+      <g:internal_label>['Gaveidéer','Workshops','Vejle']</g:internal_label>
     </item>
 <item>
       <g:id>270203</g:id>
@@ -1694,9 +1791,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Håndværk og kunsthåndværk</g:custom_label_2>
+      <g:custom_label_4>Horsens</g:custom_label_4>
       <g:start_date>2027-02-28T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Workshops</g:custom_label_3>
-      <g:internal_label>['Workshops']</g:internal_label>
+      <g:internal_label>['Workshops','Horsens']</g:internal_label>
     </item>
 <item>
       <g:id>274609</g:id>
@@ -1715,7 +1813,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Musik og sang</g:custom_label_1>
       <g:custom_label_2>Sang og stemmetræning</g:custom_label_2>
+      <g:custom_label_4>Vejle</g:custom_label_4>
       <g:start_date>2027-03-02T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Vejle']</g:internal_label>
     </item>
 <item>
       <g:id>274396</g:id>
@@ -1734,9 +1834,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Sprog</g:custom_label_1>
       <g:custom_label_2>Kinesisk</g:custom_label_2>
+      <g:custom_label_4>Vejle</g:custom_label_4>
       <g:start_date>2027-03-04T00:00:00.000Z</g:start_date>
       <g:custom_label_3>FOF Business</g:custom_label_3>
-      <g:internal_label>['FOF Business']</g:internal_label>
+      <g:internal_label>['FOF Business','Vejle']</g:internal_label>
     </item>
 <item>
       <g:id>270228</g:id>
@@ -1755,9 +1856,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Malekurser</g:custom_label_2>
+      <g:custom_label_4>Horsens</g:custom_label_4>
       <g:start_date>2027-03-07T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Workshops</g:custom_label_3>
-      <g:internal_label>['Workshops']</g:internal_label>
+      <g:internal_label>['Workshops','Horsens']</g:internal_label>
     </item>
 <item>
       <g:id>274705</g:id>
@@ -1776,9 +1878,10 @@
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Kultur og livsfortællinger</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Vejle</g:custom_label_4>
       <g:start_date>2027-03-09T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Gaveidéer</g:custom_label_3>
-      <g:internal_label>['Gaveidéer']</g:internal_label>
+      <g:internal_label>['Gaveidéer','Vejle']</g:internal_label>
     </item>
 <item>
       <g:id>270715</g:id>
@@ -1797,7 +1900,9 @@
       <g:custom_label_0></g:custom_label_0>
       <g:custom_label_1></g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Horsens</g:custom_label_4>
       <g:start_date>2027-03-11T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Horsens']</g:internal_label>
     </item>
 <item>
       <g:id>271701</g:id>
@@ -1816,7 +1921,9 @@
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Samfund og historie</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Skanderborg</g:custom_label_4>
       <g:start_date>2027-03-11T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Skanderborg']</g:internal_label>
     </item>
 <item>
       <g:id>270095</g:id>
@@ -1835,9 +1942,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Bevægelse og afspænding</g:custom_label_2>
+      <g:custom_label_4>Horsens</g:custom_label_4>
       <g:start_date>2027-03-13T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Workshops</g:custom_label_3>
-      <g:internal_label>['Workshops']</g:internal_label>
+      <g:internal_label>['Workshops','Horsens']</g:internal_label>
     </item>
 <item>
       <g:id>270233</g:id>
@@ -1856,9 +1964,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Malekurser</g:custom_label_2>
+      <g:custom_label_4>Horsens</g:custom_label_4>
       <g:start_date>2027-03-16T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Nyhed</g:custom_label_3>
-      <g:internal_label>['Nyhed']</g:internal_label>
+      <g:internal_label>['Nyhed','Horsens']</g:internal_label>
     </item>
 <item>
       <g:id>270705</g:id>
@@ -1877,7 +1986,9 @@
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>True crime</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Horsens</g:custom_label_4>
       <g:start_date>2027-03-16T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Horsens']</g:internal_label>
     </item>
 <item>
       <g:id>274631</g:id>
@@ -1896,7 +2007,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Musik og sang</g:custom_label_1>
       <g:custom_label_2>Kor og fællessang</g:custom_label_2>
+      <g:custom_label_4>Vejle</g:custom_label_4>
       <g:start_date>2027-04-05T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Vejle']</g:internal_label>
     </item>
 <item>
       <g:id>271700</g:id>
@@ -1915,7 +2028,9 @@
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Samfund og historie</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Skanderborg</g:custom_label_4>
       <g:start_date>2027-04-06T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Skanderborg']</g:internal_label>
     </item>
 <item>
       <g:id>270229</g:id>
@@ -1934,9 +2049,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Malekurser</g:custom_label_2>
+      <g:custom_label_4>Horsens</g:custom_label_4>
       <g:start_date>2027-04-11T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Workshops</g:custom_label_3>
-      <g:internal_label>['Workshops']</g:internal_label>
+      <g:internal_label>['Workshops','Horsens']</g:internal_label>
     </item>
 <item>
       <g:id>270702</g:id>
@@ -1955,7 +2071,9 @@
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Samfund og historie</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Horsens</g:custom_label_4>
       <g:start_date>2027-04-13T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Horsens']</g:internal_label>
     </item>
 <item>
       <g:id>270230</g:id>
@@ -1974,9 +2092,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Malekurser</g:custom_label_2>
+      <g:custom_label_4>Horsens</g:custom_label_4>
       <g:start_date>2027-05-02T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Workshops</g:custom_label_3>
-      <g:internal_label>['Workshops']</g:internal_label>
+      <g:internal_label>['Workshops','Horsens']</g:internal_label>
     </item>
 <item>
       <g:id>270204</g:id>
@@ -1995,9 +2114,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Håndværk og kunsthåndværk</g:custom_label_2>
+      <g:custom_label_4>Horsens</g:custom_label_4>
       <g:start_date>2027-05-29T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Workshops</g:custom_label_3>
-      <g:internal_label>['Workshops']</g:internal_label>
+      <g:internal_label>['Workshops','Horsens']</g:internal_label>
     </item>
 <item>
       <g:id>274203</g:id>
@@ -2016,9 +2136,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Håndværk og kunsthåndværk</g:custom_label_2>
+      <g:custom_label_4>Vejle</g:custom_label_4>
       <g:start_date>2027-05-30T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Workshops</g:custom_label_3>
-      <g:internal_label>['Workshops']</g:internal_label>
+      <g:internal_label>['Workshops','Vejle']</g:internal_label>
     </item>
 <item>
       <g:id>274623</g:id>
@@ -2037,7 +2158,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Musik og sang</g:custom_label_1>
       <g:custom_label_2>Sang og stemmetræning</g:custom_label_2>
+      <g:custom_label_4>Vejle</g:custom_label_4>
       <g:start_date>2027-08-31T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Vejle']</g:internal_label>
     </item>
 </channel>
 </rss>

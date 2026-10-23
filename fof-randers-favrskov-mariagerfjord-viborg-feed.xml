@@ -22,9 +22,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Randers</g:custom_label_4>
       <g:start_date>2026-10-24T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Weekend</g:custom_label_3>
-      <g:internal_label>['Weekend']</g:internal_label>
+      <g:internal_label>['Weekend','Randers C']</g:internal_label>
     </item>
 <item>
       <g:id>620549</g:id>
@@ -43,10 +44,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Håndværk og kunsthåndværk</g:custom_label_2>
+      <g:custom_label_4>Randers</g:custom_label_4>
       <g:start_date>2026-10-24T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Weekend</g:custom_label_3>
-      <g:custom_label_4>Nyhed</g:custom_label_4>
-      <g:internal_label>['Weekend','Nyhed']</g:internal_label>
+      <g:internal_label>['Weekend','Nyhed','Randers C']</g:internal_label>
     </item>
 <item>
       <g:id>622307</g:id>
@@ -66,7 +67,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
       <g:custom_label_2>Madfællesskab</g:custom_label_2>
+      <g:custom_label_4>Mariager</g:custom_label_4>
       <g:start_date>2026-10-27T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Mariager']</g:internal_label>
     </item>
 <item>
       <g:id>622308</g:id>
@@ -86,7 +89,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
       <g:custom_label_2>Madfællesskab</g:custom_label_2>
+      <g:custom_label_4>Mariager</g:custom_label_4>
       <g:start_date>2026-10-28T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Mariager']</g:internal_label>
     </item>
 <item>
       <g:id>626614</g:id>
@@ -105,7 +110,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Grafik og trykketeknik</g:custom_label_2>
+      <g:custom_label_4>Randers</g:custom_label_4>
       <g:start_date>2026-10-29T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Randers C']</g:internal_label>
     </item>
 <item>
       <g:id>620756</g:id>
@@ -124,10 +131,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Livsstil og trivsel</g:custom_label_1>
       <g:custom_label_2>Personlig udvikling</g:custom_label_2>
+      <g:custom_label_4>Randers</g:custom_label_4>
       <g:start_date>2026-10-31T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Weekend</g:custom_label_3>
-      <g:custom_label_4>Nyhed</g:custom_label_4>
-      <g:internal_label>['Weekend','Nyhed']</g:internal_label>
+      <g:internal_label>['Weekend','Nyhed','Randers C']</g:internal_label>
     </item>
 <item>
       <g:id>622302</g:id>
@@ -146,10 +153,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Natur og udeliv</g:custom_label_1>
       <g:custom_label_2>Naturfag og friluftsliv</g:custom_label_2>
+      <g:custom_label_4>Hobro</g:custom_label_4>
       <g:start_date>2026-10-31T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Weekend</g:custom_label_3>
-      <g:custom_label_4>Nyhed</g:custom_label_4>
-      <g:internal_label>['Weekend','Nyhed']</g:internal_label>
+      <g:internal_label>['Weekend','Nyhed','Hobro']</g:internal_label>
     </item>
 <item>
       <g:id>621526</g:id>
@@ -168,9 +175,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
       <g:custom_label_2>Vegetarisk og vegansk</g:custom_label_2>
+      <g:custom_label_4>Randers</g:custom_label_4>
       <g:start_date>2026-11-03T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Nyhed</g:custom_label_3>
-      <g:internal_label>['Nyhed']</g:internal_label>
+      <g:internal_label>['Nyhed','Randers SØ']</g:internal_label>
     </item>
 <item>
       <g:id>621639</g:id>
@@ -189,7 +197,9 @@
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Samfund og historie</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Gjerlev J</g:custom_label_4>
       <g:start_date>2026-11-04T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Gjerlev J']</g:internal_label>
     </item>
 <item>
       <g:id>620560</g:id>
@@ -208,7 +218,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Keramik</g:custom_label_2>
+      <g:custom_label_4>Randers</g:custom_label_4>
       <g:start_date>2026-11-05T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Randers C']</g:internal_label>
     </item>
 <item>
       <g:id>621528</g:id>
@@ -227,9 +239,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
       <g:custom_label_2>Bagning og søde sager</g:custom_label_2>
+      <g:custom_label_4>Randers</g:custom_label_4>
       <g:start_date>2026-11-05T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Nyhed</g:custom_label_3>
-      <g:internal_label>['Nyhed']</g:internal_label>
+      <g:internal_label>['Nyhed','Randers SØ']</g:internal_label>
     </item>
 <item>
       <g:id>626606</g:id>
@@ -248,9 +261,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Håndværk og kunsthåndværk</g:custom_label_2>
+      <g:custom_label_4>Randers</g:custom_label_4>
       <g:start_date>2026-11-06T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Weekend</g:custom_label_3>
-      <g:internal_label>['Weekend']</g:internal_label>
+      <g:internal_label>['Weekend','Randers C']</g:internal_label>
     </item>
 <item>
       <g:id>621441</g:id>
@@ -270,10 +284,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Randers</g:custom_label_4>
       <g:start_date>2026-11-07T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Nyhed</g:custom_label_3>
-      <g:custom_label_4>Weekend</g:custom_label_4>
-      <g:internal_label>['Nyhed','Weekend']</g:internal_label>
+      <g:internal_label>['Nyhed','Weekend','Randers C']</g:internal_label>
     </item>
 <item>
       <g:id>621151</g:id>
@@ -292,10 +306,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Livsstil og trivsel</g:custom_label_1>
       <g:custom_label_2>Mental trivsel</g:custom_label_2>
+      <g:custom_label_4>Randers</g:custom_label_4>
       <g:start_date>2026-11-08T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Nyhed</g:custom_label_3>
-      <g:custom_label_4>Weekend</g:custom_label_4>
-      <g:internal_label>['Nyhed','Weekend']</g:internal_label>
+      <g:internal_label>['Nyhed','Weekend','Randers C']</g:internal_label>
     </item>
 <item>
       <g:id>628822</g:id>
@@ -314,6 +328,7 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Smykkekurser</g:custom_label_2>
+      <g:custom_label_4>Viborg</g:custom_label_4>
       <g:start_date>2026-11-08T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Viborg</g:custom_label_3>
       <g:internal_label>['Viborg']</g:internal_label>
@@ -335,7 +350,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Keramik</g:custom_label_2>
+      <g:custom_label_4>Randers</g:custom_label_4>
       <g:start_date>2026-11-08T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Randers C']</g:internal_label>
     </item>
 <item>
       <g:id>620758</g:id>
@@ -354,10 +371,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Livsstil og trivsel</g:custom_label_1>
       <g:custom_label_2>Personlig udvikling</g:custom_label_2>
+      <g:custom_label_4>Randers</g:custom_label_4>
       <g:start_date>2026-11-09T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Weekend</g:custom_label_3>
-      <g:custom_label_4>Nyhed</g:custom_label_4>
-      <g:internal_label>['Weekend','Nyhed']</g:internal_label>
+      <g:internal_label>['Weekend','Nyhed','Randers C']</g:internal_label>
     </item>
 <item>
       <g:id>621610</g:id>
@@ -376,7 +393,9 @@
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Natur og haver</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Mariager</g:custom_label_4>
       <g:start_date>2026-11-10T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Mariager']</g:internal_label>
     </item>
 <item>
       <g:id>621152</g:id>
@@ -395,9 +414,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>It og foto</g:custom_label_1>
       <g:custom_label_2>Kunstig intelligens - AI</g:custom_label_2>
+      <g:custom_label_4>Randers</g:custom_label_4>
       <g:start_date>2026-11-11T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Nyhed</g:custom_label_3>
-      <g:internal_label>['Nyhed']</g:internal_label>
+      <g:internal_label>['Nyhed','Randers C']</g:internal_label>
     </item>
 <item>
       <g:id>625507</g:id>
@@ -416,6 +436,7 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Sprog</g:custom_label_1>
       <g:custom_label_2>Dansk - Danish</g:custom_label_2>
+      <g:custom_label_4></g:custom_label_4>
       <g:start_date>2026-11-12T00:00:00.000Z</g:start_date>
       <g:custom_label_3>FVU</g:custom_label_3>
       <g:internal_label>['FVU']</g:internal_label>
@@ -437,7 +458,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Keramik</g:custom_label_2>
+      <g:custom_label_4>Randers</g:custom_label_4>
       <g:start_date>2026-11-12T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Randers C']</g:internal_label>
     </item>
 <item>
       <g:id>626605</g:id>
@@ -456,10 +479,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Tegnekurser</g:custom_label_2>
+      <g:custom_label_4>Randers</g:custom_label_4>
       <g:start_date>2026-11-14T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Nyhed</g:custom_label_3>
-      <g:custom_label_4>Weekend</g:custom_label_4>
-      <g:internal_label>['Nyhed','Weekend']</g:internal_label>
+      <g:internal_label>['Nyhed','Weekend','Randers C']</g:internal_label>
     </item>
 <item>
       <g:id>620757</g:id>
@@ -478,10 +501,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Livsstil og trivsel</g:custom_label_1>
       <g:custom_label_2>Personlig udvikling</g:custom_label_2>
+      <g:custom_label_4>Randers</g:custom_label_4>
       <g:start_date>2026-11-14T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Weekend</g:custom_label_3>
-      <g:custom_label_4>Nyhed</g:custom_label_4>
-      <g:internal_label>['Weekend','Nyhed']</g:internal_label>
+      <g:internal_label>['Weekend','Nyhed','Randers C']</g:internal_label>
     </item>
 <item>
       <g:id>628818</g:id>
@@ -500,6 +523,7 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Førstehjælp</g:custom_label_2>
+      <g:custom_label_4>Viborg</g:custom_label_4>
       <g:start_date>2026-11-15T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Viborg</g:custom_label_3>
       <g:internal_label>['Viborg']</g:internal_label>
@@ -522,9 +546,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Syning</g:custom_label_2>
+      <g:custom_label_4>Randers</g:custom_label_4>
       <g:start_date>2026-11-17T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Nyhed</g:custom_label_3>
-      <g:internal_label>['Nyhed']</g:internal_label>
+      <g:internal_label>['Nyhed','Randers C']</g:internal_label>
     </item>
 <item>
       <g:id>620539</g:id>
@@ -543,7 +568,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Håndarbejde</g:custom_label_2>
+      <g:custom_label_4>Randers</g:custom_label_4>
       <g:start_date>2026-11-19T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Randers C']</g:internal_label>
     </item>
 <item>
       <g:id>626623</g:id>
@@ -562,9 +589,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Malekurser</g:custom_label_2>
+      <g:custom_label_4>Randers</g:custom_label_4>
       <g:start_date>2026-11-21T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Weekend</g:custom_label_3>
-      <g:internal_label>['Weekend']</g:internal_label>
+      <g:internal_label>['Weekend','Randers C']</g:internal_label>
     </item>
 <item>
       <g:id>622305</g:id>
@@ -583,10 +611,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kommunikation og drama</g:custom_label_1>
       <g:custom_label_2>Skrivekurser</g:custom_label_2>
+      <g:custom_label_4>Hobro</g:custom_label_4>
       <g:start_date>2026-11-21T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Weekend</g:custom_label_3>
-      <g:custom_label_4>Nyhed</g:custom_label_4>
-      <g:internal_label>['Weekend','Nyhed']</g:internal_label>
+      <g:internal_label>['Weekend','Nyhed','Hobro']</g:internal_label>
     </item>
 <item>
       <g:id>626613</g:id>
@@ -606,7 +634,9 @@ Kurset er hos FOF i Randers]]></g:description>
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Malekurser</g:custom_label_2>
+      <g:custom_label_4>Randers</g:custom_label_4>
       <g:start_date>2026-11-21T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Randers C']</g:internal_label>
     </item>
 <item>
       <g:id>620564</g:id>
@@ -625,7 +655,9 @@ Kurset er hos FOF i Randers]]></g:description>
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Keramik</g:custom_label_2>
+      <g:custom_label_4>Randers</g:custom_label_4>
       <g:start_date>2026-11-22T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Randers C']</g:internal_label>
     </item>
 <item>
       <g:id>621852</g:id>
@@ -644,7 +676,9 @@ Kurset er hos FOF i Randers]]></g:description>
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
       <g:custom_label_2>Aktiviteter med baby</g:custom_label_2>
+      <g:custom_label_4>Randers</g:custom_label_4>
       <g:start_date>2026-11-23T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Randers C']</g:internal_label>
     </item>
 <item>
       <g:id>621853</g:id>
@@ -663,7 +697,9 @@ Kurset er hos FOF i Randers]]></g:description>
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
       <g:custom_label_2>Aktiviteter med baby</g:custom_label_2>
+      <g:custom_label_4>Randers</g:custom_label_4>
       <g:start_date>2026-11-23T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Randers C']</g:internal_label>
     </item>
 <item>
       <g:id>621612</g:id>
@@ -682,9 +718,10 @@ Kurset er hos FOF i Randers]]></g:description>
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>True crime</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Randers</g:custom_label_4>
       <g:start_date>2026-11-24T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Nyhed</g:custom_label_3>
-      <g:internal_label>['Nyhed']</g:internal_label>
+      <g:internal_label>['Nyhed','Randers C']</g:internal_label>
     </item>
 <item>
       <g:id>628830</g:id>
@@ -703,7 +740,9 @@ Kurset er hos FOF i Randers]]></g:description>
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Kultur og livsfortællinger</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Viborg</g:custom_label_4>
       <g:start_date>2026-11-24T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Viborg']</g:internal_label>
     </item>
 <item>
       <g:id>621855</g:id>
@@ -722,7 +761,9 @@ Kurset er hos FOF i Randers]]></g:description>
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
       <g:custom_label_2>Aktiviteter med baby</g:custom_label_2>
+      <g:custom_label_4>Randers</g:custom_label_4>
       <g:start_date>2026-11-25T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Randers C']</g:internal_label>
     </item>
 <item>
       <g:id>621602</g:id>
@@ -741,7 +782,9 @@ Kurset er hos FOF i Randers]]></g:description>
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Foredragsrækker</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Randers</g:custom_label_4>
       <g:start_date>2026-11-25T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Randers C']</g:internal_label>
     </item>
 <item>
       <g:id>6221857</g:id>
@@ -760,7 +803,9 @@ Kurset er hos FOF i Randers]]></g:description>
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
       <g:custom_label_2>Efterfødselstræning</g:custom_label_2>
+      <g:custom_label_4>Randers</g:custom_label_4>
       <g:start_date>2026-11-27T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Randers C']</g:internal_label>
     </item>
 <item>
       <g:id>621856</g:id>
@@ -779,7 +824,9 @@ Kurset er hos FOF i Randers]]></g:description>
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
       <g:custom_label_2>Motion for gravide</g:custom_label_2>
+      <g:custom_label_4>Randers</g:custom_label_4>
       <g:start_date>2026-11-27T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Randers C']</g:internal_label>
     </item>
 <item>
       <g:id>626607</g:id>
@@ -798,9 +845,10 @@ Kurset er hos FOF i Randers]]></g:description>
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Tegnekurser</g:custom_label_2>
+      <g:custom_label_4>Randers</g:custom_label_4>
       <g:start_date>2026-11-28T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Weekend</g:custom_label_3>
-      <g:internal_label>['Weekend']</g:internal_label>
+      <g:internal_label>['Weekend','Randers C']</g:internal_label>
     </item>
 <item>
       <g:id>620759</g:id>
@@ -819,10 +867,10 @@ Kurset er hos FOF i Randers]]></g:description>
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Livsstil og trivsel</g:custom_label_1>
       <g:custom_label_2>Personlig udvikling</g:custom_label_2>
+      <g:custom_label_4>Randers</g:custom_label_4>
       <g:start_date>2026-11-30T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Weekend</g:custom_label_3>
-      <g:custom_label_4>Nyhed</g:custom_label_4>
-      <g:internal_label>['Weekend','Nyhed']</g:internal_label>
+      <g:internal_label>['Weekend','Nyhed','Randers C']</g:internal_label>
     </item>
 <item>
       <g:id>620562</g:id>
@@ -841,7 +889,9 @@ Kurset er hos FOF i Randers]]></g:description>
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Keramik</g:custom_label_2>
+      <g:custom_label_4>Randers</g:custom_label_4>
       <g:start_date>2026-12-03T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Randers C']</g:internal_label>
     </item>
 <item>
       <g:id>628809</g:id>
@@ -860,7 +910,9 @@ Kurset er hos FOF i Randers]]></g:description>
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Kultur og livsfortællinger</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Viborg</g:custom_label_4>
       <g:start_date>2026-12-03T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Viborg']</g:internal_label>
     </item>
 <item>
       <g:id>621417</g:id>
@@ -879,10 +931,10 @@ Kurset er hos FOF i Randers]]></g:description>
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Livsstil og trivsel</g:custom_label_1>
       <g:custom_label_2>Personlig udvikling</g:custom_label_2>
+      <g:custom_label_4>Randers</g:custom_label_4>
       <g:start_date>2026-12-12T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Nyhed</g:custom_label_3>
-      <g:custom_label_4>Weekend</g:custom_label_4>
-      <g:internal_label>['Nyhed','Weekend']</g:internal_label>
+      <g:internal_label>['Nyhed','Weekend','Randers C']</g:internal_label>
     </item>
 <item>
       <g:id>621418</g:id>
@@ -901,9 +953,10 @@ Kurset er hos FOF i Randers]]></g:description>
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Randers</g:custom_label_4>
       <g:start_date>2026-12-18T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Nyhed</g:custom_label_3>
-      <g:internal_label>['Nyhed']</g:internal_label>
+      <g:internal_label>['Nyhed','Randers C']</g:internal_label>
     </item>
 <item>
       <g:id>621111</g:id>
@@ -922,9 +975,10 @@ Kurset er hos FOF i Randers]]></g:description>
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Førstehjælp</g:custom_label_2>
+      <g:custom_label_4>Randers</g:custom_label_4>
       <g:start_date>2026-12-19T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Viborg</g:custom_label_3>
-      <g:internal_label>['Viborg']</g:internal_label>
+      <g:internal_label>['Viborg','Randers C']</g:internal_label>
     </item>
 <item>
       <g:id>628819</g:id>
@@ -943,6 +997,7 @@ Kurset er hos FOF i Randers]]></g:description>
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Førstehjælp</g:custom_label_2>
+      <g:custom_label_4>Viborg</g:custom_label_4>
       <g:start_date>2026-12-20T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Viborg</g:custom_label_3>
       <g:internal_label>['Viborg']</g:internal_label>
@@ -964,9 +1019,9 @@ Kurset er hos FOF i Randers]]></g:description>
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Viborg</g:custom_label_4>
       <g:start_date>2027-01-09T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Weekend</g:custom_label_3>
-      <g:custom_label_4>Viborg</g:custom_label_4>
       <g:internal_label>['Weekend','Viborg']</g:internal_label>
     </item>
 <item>
@@ -986,10 +1041,10 @@ Kurset er hos FOF i Randers]]></g:description>
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Randers</g:custom_label_4>
       <g:start_date>2027-01-09T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Nyhed</g:custom_label_3>
-      <g:custom_label_4>Weekend</g:custom_label_4>
-      <g:internal_label>['Nyhed','Weekend']</g:internal_label>
+      <g:internal_label>['Nyhed','Weekend','Randers C']</g:internal_label>
     </item>
 <item>
       <g:id>711440</g:id>
@@ -1008,9 +1063,10 @@ Kurset er hos FOF i Randers]]></g:description>
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Familie, børn og unge</g:custom_label_1>
       <g:custom_label_2>Motion, dans og drama</g:custom_label_2>
+      <g:custom_label_4>Randers</g:custom_label_4>
       <g:start_date>2027-01-12T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Nyhed</g:custom_label_3>
-      <g:internal_label>['Nyhed']</g:internal_label>
+      <g:internal_label>['Nyhed','Randers C']</g:internal_label>
     </item>
 <item>
       <g:id>712306</g:id>
@@ -1029,9 +1085,10 @@ Kurset er hos FOF i Randers]]></g:description>
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Dans</g:custom_label_2>
+      <g:custom_label_4>Hobro</g:custom_label_4>
       <g:start_date>2027-01-13T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Nyhed</g:custom_label_3>
-      <g:internal_label>['Nyhed']</g:internal_label>
+      <g:internal_label>['Nyhed','Hobro']</g:internal_label>
     </item>
 <item>
       <g:id>711601</g:id>
@@ -1050,9 +1107,10 @@ Kurset er hos FOF i Randers]]></g:description>
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Foredragsrækker</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Randers</g:custom_label_4>
       <g:start_date>2027-01-20T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Nyhed</g:custom_label_3>
-      <g:internal_label>['Nyhed']</g:internal_label>
+      <g:internal_label>['Nyhed','Randers C']</g:internal_label>
     </item>
 <item>
       <g:id>711441</g:id>
@@ -1072,10 +1130,10 @@ Kurset er hos FOF i Randers]]></g:description>
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Randers</g:custom_label_4>
       <g:start_date>2027-01-23T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Nyhed</g:custom_label_3>
-      <g:custom_label_4>Weekend</g:custom_label_4>
-      <g:internal_label>['Nyhed','Weekend']</g:internal_label>
+      <g:internal_label>['Nyhed','Weekend','Randers C']</g:internal_label>
     </item>
 <item>
       <g:id>710555</g:id>
@@ -1094,7 +1152,9 @@ Kurset er hos FOF i Randers]]></g:description>
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Håndarbejde</g:custom_label_2>
+      <g:custom_label_4>Randers</g:custom_label_4>
       <g:start_date>2027-01-24T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Randers C']</g:internal_label>
     </item>
 <item>
       <g:id>711604</g:id>
@@ -1113,9 +1173,10 @@ Kurset er hos FOF i Randers]]></g:description>
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Foredragsrækker</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Gjerlev J</g:custom_label_4>
       <g:start_date>2027-02-03T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Nyhed</g:custom_label_3>
-      <g:internal_label>['Nyhed']</g:internal_label>
+      <g:internal_label>['Nyhed','Gjerlev J']</g:internal_label>
     </item>
 <item>
       <g:id>710534</g:id>
@@ -1134,9 +1195,10 @@ Kurset er hos FOF i Randers]]></g:description>
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Syning</g:custom_label_2>
+      <g:custom_label_4>Randers</g:custom_label_4>
       <g:start_date>2027-02-06T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Weekend</g:custom_label_3>
-      <g:internal_label>['Weekend']</g:internal_label>
+      <g:internal_label>['Weekend','Randers C']</g:internal_label>
     </item>
 <item>
       <g:id>711606</g:id>
@@ -1155,9 +1217,10 @@ Kurset er hos FOF i Randers]]></g:description>
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Kultur og livsfortællinger</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Randers</g:custom_label_4>
       <g:start_date>2027-02-09T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Nyhed</g:custom_label_3>
-      <g:internal_label>['Nyhed']</g:internal_label>
+      <g:internal_label>['Nyhed','Randers C']</g:internal_label>
     </item>
 <item>
       <g:id>710533</g:id>
@@ -1176,10 +1239,10 @@ Kurset er hos FOF i Randers]]></g:description>
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Syning</g:custom_label_2>
+      <g:custom_label_4>Randers</g:custom_label_4>
       <g:start_date>2027-02-15T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Weekend</g:custom_label_3>
-      <g:custom_label_4>Nyhed</g:custom_label_4>
-      <g:internal_label>['Weekend','Nyhed']</g:internal_label>
+      <g:internal_label>['Weekend','Nyhed','Randers C']</g:internal_label>
     </item>
 <item>
       <g:id>718801</g:id>
@@ -1198,9 +1261,10 @@ Kurset er hos FOF i Randers]]></g:description>
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Foredragsrækker</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Viborg</g:custom_label_4>
       <g:start_date>2027-02-23T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Nyhed</g:custom_label_3>
-      <g:internal_label>['Nyhed']</g:internal_label>
+      <g:internal_label>['Nyhed','Viborg']</g:internal_label>
     </item>
 <item>
       <g:id>711602</g:id>
@@ -1219,9 +1283,10 @@ Kurset er hos FOF i Randers]]></g:description>
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Foredragsrækker</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Randers</g:custom_label_4>
       <g:start_date>2027-02-24T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Nyhed</g:custom_label_3>
-      <g:internal_label>['Nyhed']</g:internal_label>
+      <g:internal_label>['Nyhed','Randers C']</g:internal_label>
     </item>
 <item>
       <g:id>711153</g:id>
@@ -1240,10 +1305,10 @@ Kurset er hos FOF i Randers]]></g:description>
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kulturfag og samfund</g:custom_label_1>
       <g:custom_label_2>Slægtsforskning</g:custom_label_2>
+      <g:custom_label_4>Randers</g:custom_label_4>
       <g:start_date>2027-02-27T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Nyhed</g:custom_label_3>
-      <g:custom_label_4>Weekend</g:custom_label_4>
-      <g:internal_label>['Nyhed','Weekend']</g:internal_label>
+      <g:internal_label>['Nyhed','Weekend','Randers C']</g:internal_label>
     </item>
 <item>
       <g:id>710330</g:id>
@@ -1262,7 +1327,9 @@ Kurset er hos FOF i Randers]]></g:description>
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Livsstil og trivsel</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Randers</g:custom_label_4>
       <g:start_date>2027-03-03T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Randers C']</g:internal_label>
     </item>
 <item>
       <g:id>711605</g:id>
@@ -1281,7 +1348,9 @@ Kurset er hos FOF i Randers]]></g:description>
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Foredragsrækker</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Gjerlev J</g:custom_label_4>
       <g:start_date>2027-03-03T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Gjerlev J']</g:internal_label>
     </item>
 <item>
       <g:id>710304</g:id>
@@ -1300,10 +1369,10 @@ Kurset er hos FOF i Randers]]></g:description>
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Livsstil og trivsel</g:custom_label_1>
       <g:custom_label_2>Mental trivsel</g:custom_label_2>
+      <g:custom_label_4>Randers</g:custom_label_4>
       <g:start_date>2027-03-06T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Nyhed</g:custom_label_3>
-      <g:custom_label_4>Weekend</g:custom_label_4>
-      <g:internal_label>['Nyhed','Weekend']</g:internal_label>
+      <g:internal_label>['Nyhed','Weekend','Randers C']</g:internal_label>
     </item>
 <item>
       <g:id>711650</g:id>
@@ -1322,9 +1391,10 @@ Kurset er hos FOF i Randers]]></g:description>
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1></g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Randers</g:custom_label_4>
       <g:start_date>2027-03-11T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Nyhed</g:custom_label_3>
-      <g:internal_label>['Nyhed']</g:internal_label>
+      <g:internal_label>['Nyhed','Randers C']</g:internal_label>
     </item>
 <item>
       <g:id>711603</g:id>
@@ -1343,9 +1413,10 @@ Kurset er hos FOF i Randers]]></g:description>
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Foredragsrækker</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Randers</g:custom_label_4>
       <g:start_date>2027-03-17T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Nyhed</g:custom_label_3>
-      <g:internal_label>['Nyhed']</g:internal_label>
+      <g:internal_label>['Nyhed','Randers C']</g:internal_label>
     </item>
 </channel>
 </rss>

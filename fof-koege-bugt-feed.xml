@@ -22,9 +22,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Køge</g:custom_label_4>
       <g:start_date>2026-10-24T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Køge</g:custom_label_3>
-      <g:custom_label_4>Endagskurser</g:custom_label_4>
       <g:internal_label>['Køge','Endagskurser','Starter snart','Egedal','Roskilde','Greve','Stevns','Weekend']</g:internal_label>
     </item>
 <item>
@@ -44,9 +44,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Musik og sang</g:custom_label_1>
       <g:custom_label_2>Sang og stemmetræning</g:custom_label_2>
+      <g:custom_label_4>Køge</g:custom_label_4>
       <g:start_date>2026-10-25T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Køge</g:custom_label_3>
-      <g:custom_label_4>Starter snart</g:custom_label_4>
       <g:internal_label>['Køge','Starter snart','Lejre','Egedal','Weekend']</g:internal_label>
     </item>
 <item>
@@ -66,10 +66,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Musik og sang</g:custom_label_1>
       <g:custom_label_2>Sang og stemmetræning</g:custom_label_2>
+      <g:custom_label_4>Stenløse</g:custom_label_4>
       <g:start_date>2026-10-26T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Egedal</g:custom_label_3>
-      <g:custom_label_4>Starter snart</g:custom_label_4>
-      <g:internal_label>['Egedal','Starter snart','Lejre','Køge','Weekend']</g:internal_label>
+      <g:internal_label>['Egedal','Starter snart','Lejre','Køge','Weekend','Stenløse']</g:internal_label>
     </item>
 <item>
       <g:id>51722</g:id>
@@ -88,10 +88,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Musik og sang</g:custom_label_1>
       <g:custom_label_2>Sang og stemmetræning</g:custom_label_2>
+      <g:custom_label_4>Stenløse</g:custom_label_4>
       <g:start_date>2026-10-27T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Starter snart</g:custom_label_3>
-      <g:custom_label_4>Egedal</g:custom_label_4>
-      <g:internal_label>['Starter snart','Egedal','Lejre','Køge','Weekend']</g:internal_label>
+      <g:internal_label>['Starter snart','Egedal','Lejre','Køge','Weekend','Stenløse']</g:internal_label>
     </item>
 <item>
       <g:id>51602</g:id>
@@ -110,9 +110,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Styrke- og konditionstræning</g:custom_label_2>
+      <g:custom_label_4>Køge</g:custom_label_4>
       <g:start_date>2026-10-28T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Starter snart</g:custom_label_3>
-      <g:custom_label_4>Greve</g:custom_label_4>
       <g:internal_label>['Starter snart','Greve','Køge','Solrød','Hensyntagende']</g:internal_label>
     </item>
 <item>
@@ -132,9 +132,9 @@
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Videnskab og teknologi</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Køge</g:custom_label_4>
       <g:start_date>2026-10-28T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Endagskurser</g:custom_label_3>
-      <g:custom_label_4>Køge</g:custom_label_4>
       <g:internal_label>['Endagskurser','Køge','Starter snart']</g:internal_label>
     </item>
 <item>
@@ -154,9 +154,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Keramik</g:custom_label_2>
+      <g:custom_label_4>Køge</g:custom_label_4>
       <g:start_date>2026-10-29T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Starter snart</g:custom_label_3>
-      <g:custom_label_4>Køge</g:custom_label_4>
       <g:internal_label>['Starter snart','Køge']</g:internal_label>
     </item>
 <item>
@@ -176,9 +176,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Keramik</g:custom_label_2>
+      <g:custom_label_4>Køge</g:custom_label_4>
       <g:start_date>2026-10-29T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Køge</g:custom_label_3>
-      <g:custom_label_4>Starter snart</g:custom_label_4>
       <g:internal_label>['Køge','Starter snart']</g:internal_label>
     </item>
 <item>
@@ -198,9 +198,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Køge</g:custom_label_4>
       <g:start_date>2026-10-31T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Køge</g:custom_label_3>
-      <g:custom_label_4>Starter snart</g:custom_label_4>
       <g:internal_label>['Køge','Starter snart','Egedal','Roskilde','Greve','Stevns','Weekend']</g:internal_label>
     </item>
 <item>
@@ -220,10 +220,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
       <g:custom_label_2>Bagning og søde sager</g:custom_label_2>
+      <g:custom_label_4>Rønne</g:custom_label_4>
       <g:start_date>2026-11-01T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Bornholm</g:custom_label_3>
-      <g:custom_label_4>Starter snart</g:custom_label_4>
-      <g:internal_label>['Bornholm','Starter snart','Køge','Weekend']</g:internal_label>
+      <g:internal_label>['Bornholm','Starter snart','Køge','Weekend','Rønne']</g:internal_label>
     </item>
 <item>
       <g:id>51940</g:id>
@@ -243,6 +243,7 @@
       <g:custom_label_0>Rejser, ture og rundvisninger</g:custom_label_0>
       <g:custom_label_1>Rundvisninger</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4></g:custom_label_4>
       <g:start_date>2026-11-02T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Starter snart</g:custom_label_3>
       <g:internal_label>['Starter snart']</g:internal_label>
@@ -264,10 +265,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
       <g:custom_label_2>Fest- og hverdagsmad</g:custom_label_2>
+      <g:custom_label_4>Rønne</g:custom_label_4>
       <g:start_date>2026-11-02T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Bornholm</g:custom_label_3>
-      <g:custom_label_4>Starter snart</g:custom_label_4>
-      <g:internal_label>['Bornholm','Starter snart','Køge']</g:internal_label>
+      <g:internal_label>['Bornholm','Starter snart','Køge','Rønne']</g:internal_label>
     </item>
 <item>
       <g:id>50307</g:id>
@@ -286,10 +287,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Bevægelse og afspænding</g:custom_label_2>
+      <g:custom_label_4>Solrød Strand</g:custom_label_4>
       <g:start_date>2026-11-03T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Solrød</g:custom_label_3>
-      <g:custom_label_4>Starter snart</g:custom_label_4>
-      <g:internal_label>['Solrød','Starter snart','Hensyntagende']</g:internal_label>
+      <g:internal_label>['Solrød','Starter snart','Hensyntagende','Solrød Strand']</g:internal_label>
     </item>
 <item>
       <g:id>51956</g:id>
@@ -308,9 +309,9 @@
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Sundhed og eksistens</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Køge</g:custom_label_4>
       <g:start_date>2026-11-03T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Endagskurser</g:custom_label_3>
-      <g:custom_label_4>Køge</g:custom_label_4>
       <g:internal_label>['Endagskurser','Køge','Starter snart']</g:internal_label>
     </item>
 <item>
@@ -330,9 +331,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Musik og sang</g:custom_label_1>
       <g:custom_label_2>Sang og stemmetræning</g:custom_label_2>
+      <g:custom_label_4>Køge</g:custom_label_4>
       <g:start_date>2026-11-03T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Køge</g:custom_label_3>
-      <g:custom_label_4>Starter snart</g:custom_label_4>
       <g:internal_label>['Køge','Starter snart','Lejre','Egedal','Weekend']</g:internal_label>
     </item>
 <item>
@@ -352,9 +353,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kulturfag og samfund</g:custom_label_1>
       <g:custom_label_2>Slægtsforskning</g:custom_label_2>
+      <g:custom_label_4>Køge</g:custom_label_4>
       <g:start_date>2026-11-04T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Endagskurser</g:custom_label_3>
-      <g:custom_label_4>Starter snart</g:custom_label_4>
       <g:internal_label>['Endagskurser','Starter snart','Køge','Greve']</g:internal_label>
     </item>
 <item>
@@ -374,10 +375,10 @@
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Kultur og livsfortællinger</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Solrød Strand</g:custom_label_4>
       <g:start_date>2026-11-04T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Solrød</g:custom_label_3>
-      <g:custom_label_4>Starter snart</g:custom_label_4>
-      <g:internal_label>['Solrød','Starter snart']</g:internal_label>
+      <g:internal_label>['Solrød','Starter snart','Solrød Strand']</g:internal_label>
     </item>
 <item>
       <g:id>51909</g:id>
@@ -396,9 +397,9 @@
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Samfund og historie</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Roskilde</g:custom_label_4>
       <g:start_date>2026-11-05T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Roskilde</g:custom_label_3>
-      <g:custom_label_4>Endagskurser</g:custom_label_4>
       <g:internal_label>['Roskilde','Endagskurser','Starter snart']</g:internal_label>
     </item>
 <item>
@@ -418,9 +419,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Malekurser</g:custom_label_2>
+      <g:custom_label_4>Køge</g:custom_label_4>
       <g:start_date>2026-11-07T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Køge</g:custom_label_3>
-      <g:custom_label_4>Starter snart</g:custom_label_4>
       <g:internal_label>['Køge','Starter snart','Weekend']</g:internal_label>
     </item>
 <item>
@@ -440,9 +441,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
       <g:custom_label_2>Bagning og søde sager</g:custom_label_2>
+      <g:custom_label_4>Køge</g:custom_label_4>
       <g:start_date>2026-11-07T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Køge</g:custom_label_3>
-      <g:custom_label_4>Endagskurser</g:custom_label_4>
       <g:internal_label>['Køge','Endagskurser','Starter snart','Bornholm','Weekend']</g:internal_label>
     </item>
 <item>
@@ -462,6 +463,7 @@
       <g:custom_label_0>Rejser, ture og rundvisninger</g:custom_label_0>
       <g:custom_label_1>Kunstudstillinger</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4></g:custom_label_4>
       <g:start_date>2026-11-10T00:00:00.000Z</g:start_date>
     </item>
 <item>
@@ -481,9 +483,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Styrke- og konditionstræning</g:custom_label_2>
+      <g:custom_label_4>Køge</g:custom_label_4>
       <g:start_date>2026-11-10T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Køge</g:custom_label_3>
-      <g:custom_label_4>Hensyntagende</g:custom_label_4>
       <g:internal_label>['Køge','Hensyntagende']</g:internal_label>
     </item>
 <item>
@@ -503,9 +505,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Malekurser</g:custom_label_2>
+      <g:custom_label_4>Køge</g:custom_label_4>
       <g:start_date>2026-11-11T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Køge</g:custom_label_3>
-      <g:custom_label_4>Weekend</g:custom_label_4>
       <g:internal_label>['Køge','Weekend']</g:internal_label>
     </item>
 <item>
@@ -525,6 +527,7 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>It og foto</g:custom_label_1>
       <g:custom_label_2>Hjemmeside og it-programmer</g:custom_label_2>
+      <g:custom_label_4>Køge</g:custom_label_4>
       <g:start_date>2026-11-11T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Køge</g:custom_label_3>
       <g:internal_label>['Køge']</g:internal_label>
@@ -546,7 +549,9 @@
       <g:custom_label_0>Rejser, ture og rundvisninger</g:custom_label_0>
       <g:custom_label_1>Rundvisninger</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>København</g:custom_label_4>
       <g:start_date>2026-11-12T00:00:00.000Z</g:start_date>
+      <g:internal_label>['København V']</g:internal_label>
     </item>
 <item>
       <g:id>51439</g:id>
@@ -565,9 +570,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kulturfag og samfund</g:custom_label_1>
       <g:custom_label_2>Slægtsforskning</g:custom_label_2>
+      <g:custom_label_4>Greve</g:custom_label_4>
       <g:start_date>2026-11-12T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Greve</g:custom_label_3>
-      <g:custom_label_4>Køge</g:custom_label_4>
       <g:internal_label>['Greve','Køge']</g:internal_label>
     </item>
 <item>
@@ -587,9 +592,9 @@
       <g:custom_label_0>Rejser, ture og rundvisninger</g:custom_label_0>
       <g:custom_label_1>Kunstudstillinger</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Køge</g:custom_label_4>
       <g:start_date>2026-11-12T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Endagskurser</g:custom_label_3>
-      <g:custom_label_4>Køge</g:custom_label_4>
       <g:internal_label>['Endagskurser','Køge']</g:internal_label>
     </item>
 <item>
@@ -609,6 +614,7 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Roskilde</g:custom_label_4>
       <g:start_date>2026-11-13T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Roskilde</g:custom_label_3>
       <g:internal_label>['Roskilde']</g:internal_label>
@@ -630,9 +636,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Syning</g:custom_label_2>
+      <g:custom_label_4>Køge</g:custom_label_4>
       <g:start_date>2026-11-14T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Endagskurser</g:custom_label_3>
-      <g:custom_label_4>Køge</g:custom_label_4>
       <g:internal_label>['Endagskurser','Køge']</g:internal_label>
     </item>
 <item>
@@ -652,10 +658,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Syning</g:custom_label_2>
+      <g:custom_label_4>Smørum</g:custom_label_4>
       <g:start_date>2026-11-14T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Egedal</g:custom_label_3>
-      <g:custom_label_4>Roskilde</g:custom_label_4>
-      <g:internal_label>['Egedal','Roskilde','Køge','Greve','Weekend']</g:internal_label>
+      <g:internal_label>['Egedal','Roskilde','Køge','Greve','Weekend','Smørum']</g:internal_label>
     </item>
 <item>
       <g:id>51977</g:id>
@@ -674,9 +680,9 @@
       <g:custom_label_0>Rejser, ture og rundvisninger</g:custom_label_0>
       <g:custom_label_1>Kunstudstillinger</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Køge</g:custom_label_4>
       <g:start_date>2026-11-17T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Endagskurser</g:custom_label_3>
-      <g:custom_label_4>Køge</g:custom_label_4>
       <g:internal_label>['Endagskurser','Køge']</g:internal_label>
     </item>
 <item>
@@ -696,6 +702,7 @@
       <g:custom_label_0>Rejser, ture og rundvisninger</g:custom_label_0>
       <g:custom_label_1>Rundvisninger</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4></g:custom_label_4>
       <g:start_date>2026-11-17T00:00:00.000Z</g:start_date>
     </item>
 <item>
@@ -715,7 +722,9 @@
       <g:custom_label_0>Rejser, ture og rundvisninger</g:custom_label_0>
       <g:custom_label_1>Kunstudstillinger</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>København</g:custom_label_4>
       <g:start_date>2026-11-18T00:00:00.000Z</g:start_date>
+      <g:internal_label>['København K']</g:internal_label>
     </item>
 <item>
       <g:id>50584</g:id>
@@ -734,10 +743,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Mindfulness og meditation</g:custom_label_2>
+      <g:custom_label_4>Stenløse</g:custom_label_4>
       <g:start_date>2026-11-18T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Egedal</g:custom_label_3>
-      <g:custom_label_4>Partnerskab</g:custom_label_4>
-      <g:internal_label>['Egedal','Partnerskab','Hensyntagende']</g:internal_label>
+      <g:internal_label>['Egedal','Partnerskab','Hensyntagende','Stenløse']</g:internal_label>
     </item>
 <item>
       <g:id>50472</g:id>
@@ -756,10 +765,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Bevægelse og afspænding</g:custom_label_2>
+      <g:custom_label_4>Ølstykke</g:custom_label_4>
       <g:start_date>2026-11-18T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Egedal</g:custom_label_3>
-      <g:custom_label_4>Hensyntagende</g:custom_label_4>
-      <g:internal_label>['Egedal','Hensyntagende']</g:internal_label>
+      <g:internal_label>['Egedal','Hensyntagende','Ølstykke']</g:internal_label>
     </item>
 <item>
       <g:id>51923</g:id>
@@ -778,10 +787,10 @@
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Sundhed og eksistens</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Stenløse</g:custom_label_4>
       <g:start_date>2026-11-19T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Egedal</g:custom_label_3>
-      <g:custom_label_4>Køge</g:custom_label_4>
-      <g:internal_label>['Egedal','Køge']</g:internal_label>
+      <g:internal_label>['Egedal','Køge','Stenløse']</g:internal_label>
     </item>
 <item>
       <g:id>51248</g:id>
@@ -800,9 +809,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
       <g:custom_label_2>Bagning og søde sager</g:custom_label_2>
+      <g:custom_label_4>Køge</g:custom_label_4>
       <g:start_date>2026-11-21T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Endagskurser</g:custom_label_3>
-      <g:custom_label_4>Køge</g:custom_label_4>
       <g:internal_label>['Endagskurser','Køge','Egedal','Weekend']</g:internal_label>
     </item>
 <item>
@@ -822,10 +831,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Dans</g:custom_label_2>
+      <g:custom_label_4>Køge</g:custom_label_4>
       <g:start_date>2026-11-23T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Ishøj</g:custom_label_3>
-      <g:custom_label_4>Solrød</g:custom_label_4>
-      <g:internal_label>['Ishøj','Solrød']</g:internal_label>
+      <g:internal_label>['Ishøj','Solrød','Køge']</g:internal_label>
     </item>
 <item>
       <g:id>51725</g:id>
@@ -844,10 +853,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Musik og sang</g:custom_label_1>
       <g:custom_label_2>Kor og fællessang</g:custom_label_2>
+      <g:custom_label_4>Køge</g:custom_label_4>
       <g:start_date>2026-11-24T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Hensyntagende</g:custom_label_3>
-      <g:custom_label_4>Partnerskab</g:custom_label_4>
-      <g:internal_label>['Hensyntagende','Partnerskab']</g:internal_label>
+      <g:internal_label>['Hensyntagende','Partnerskab','Køge']</g:internal_label>
     </item>
 <item>
       <g:id>51955</g:id>
@@ -866,9 +875,10 @@
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Samfund og historie</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Stenløse</g:custom_label_4>
       <g:start_date>2026-11-24T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Egedal</g:custom_label_3>
-      <g:internal_label>['Egedal']</g:internal_label>
+      <g:internal_label>['Egedal','Stenløse']</g:internal_label>
     </item>
 <item>
       <g:id>51970</g:id>
@@ -887,9 +897,9 @@
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Musik og koncerter</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Køge</g:custom_label_4>
       <g:start_date>2026-11-25T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Endagskurser</g:custom_label_3>
-      <g:custom_label_4>Køge</g:custom_label_4>
       <g:internal_label>['Endagskurser','Køge']</g:internal_label>
     </item>
 <item>
@@ -909,9 +919,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Køge</g:custom_label_4>
       <g:start_date>2026-11-26T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Køge</g:custom_label_3>
-      <g:custom_label_4>Hensyntagende</g:custom_label_4>
       <g:internal_label>['Køge','Hensyntagende','Partnerskab']</g:internal_label>
     </item>
 <item>
@@ -931,6 +941,7 @@
       <g:custom_label_0>Rejser, ture og rundvisninger</g:custom_label_0>
       <g:custom_label_1>Rundvisninger</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4></g:custom_label_4>
       <g:start_date>2026-11-26T00:00:00.000Z</g:start_date>
     </item>
 <item>
@@ -950,6 +961,7 @@
       <g:custom_label_0>Rejser, ture og rundvisninger</g:custom_label_0>
       <g:custom_label_1>Rundvisninger</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4></g:custom_label_4>
       <g:start_date>2026-12-02T00:00:00.000Z</g:start_date>
     </item>
 <item>
@@ -969,10 +981,10 @@
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Sundhed og eksistens</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Borup</g:custom_label_4>
       <g:start_date>2026-12-03T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Endagskurser</g:custom_label_3>
-      <g:custom_label_4>Køge</g:custom_label_4>
-      <g:internal_label>['Endagskurser','Køge','Egedal']</g:internal_label>
+      <g:internal_label>['Endagskurser','Køge','Egedal','Borup']</g:internal_label>
     </item>
 <item>
       <g:id>50907</g:id>
@@ -991,9 +1003,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Malekurser</g:custom_label_2>
+      <g:custom_label_4>Greve</g:custom_label_4>
       <g:start_date>2026-12-05T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Greve</g:custom_label_3>
-      <g:custom_label_4>Egedal</g:custom_label_4>
       <g:internal_label>['Greve','Egedal','Roskilde','Køge','Weekend']</g:internal_label>
     </item>
 <item>
@@ -1013,10 +1025,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
       <g:custom_label_2>Bagning og søde sager</g:custom_label_2>
+      <g:custom_label_4>Stenløse</g:custom_label_4>
       <g:start_date>2026-12-06T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Egedal</g:custom_label_3>
-      <g:custom_label_4>Køge</g:custom_label_4>
-      <g:internal_label>['Egedal','Køge','Weekend']</g:internal_label>
+      <g:internal_label>['Egedal','Køge','Weekend','Stenløse']</g:internal_label>
     </item>
 <item>
       <g:id>51275</g:id>
@@ -1035,10 +1047,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
       <g:custom_label_2>Bagning og søde sager</g:custom_label_2>
+      <g:custom_label_4>Stenløse</g:custom_label_4>
       <g:start_date>2026-12-06T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Egedal</g:custom_label_3>
-      <g:custom_label_4>Køge</g:custom_label_4>
-      <g:internal_label>['Egedal','Køge','Weekend']</g:internal_label>
+      <g:internal_label>['Egedal','Køge','Weekend','Stenløse']</g:internal_label>
     </item>
 <item>
       <g:id>52450</g:id>
@@ -1057,6 +1069,7 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
       <g:custom_label_2>Motion for gravide</g:custom_label_2>
+      <g:custom_label_4>Køge</g:custom_label_4>
       <g:start_date>2027-01-04T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Køge</g:custom_label_3>
       <g:internal_label>['Køge']</g:internal_label>
@@ -1078,6 +1091,7 @@
       <g:custom_label_0>Rejser, ture og rundvisninger</g:custom_label_0>
       <g:custom_label_1>Rundvisninger</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4></g:custom_label_4>
       <g:start_date>2027-01-12T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Roskilde</g:custom_label_3>
       <g:internal_label>['Roskilde']</g:internal_label>
@@ -1099,9 +1113,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Håndarbejde</g:custom_label_2>
+      <g:custom_label_4>Køge</g:custom_label_4>
       <g:start_date>2027-01-12T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Køge</g:custom_label_3>
-      <g:custom_label_4>Greve</g:custom_label_4>
       <g:internal_label>['Køge','Greve','Weekend']</g:internal_label>
     </item>
 <item>
@@ -1121,10 +1135,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Håndarbejde</g:custom_label_2>
+      <g:custom_label_4>Stenløse</g:custom_label_4>
       <g:start_date>2027-01-13T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Egedal</g:custom_label_3>
-      <g:custom_label_4>Stevns</g:custom_label_4>
-      <g:internal_label>['Egedal','Stevns','Greve','Køge','Ishøj']</g:internal_label>
+      <g:internal_label>['Egedal','Stevns','Greve','Køge','Ishøj','Stenløse']</g:internal_label>
     </item>
 <item>
       <g:id>53201</g:id>
@@ -1143,10 +1157,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
       <g:custom_label_2>Madteknikker</g:custom_label_2>
+      <g:custom_label_4>Rønne</g:custom_label_4>
       <g:start_date>2027-01-16T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Bornholm</g:custom_label_3>
-      <g:custom_label_4>Køge</g:custom_label_4>
-      <g:internal_label>['Bornholm','Køge','Weekend']</g:internal_label>
+      <g:internal_label>['Bornholm','Køge','Weekend','Rønne']</g:internal_label>
     </item>
 <item>
       <g:id>52873</g:id>
@@ -1165,9 +1179,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Malekurser</g:custom_label_2>
+      <g:custom_label_4>Greve</g:custom_label_4>
       <g:start_date>2027-01-16T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Greve</g:custom_label_3>
-      <g:custom_label_4>Egedal</g:custom_label_4>
       <g:internal_label>['Greve','Egedal','Roskilde','Køge','Weekend']</g:internal_label>
     </item>
 <item>
@@ -1187,6 +1201,7 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Syning</g:custom_label_2>
+      <g:custom_label_4>Køge</g:custom_label_4>
       <g:start_date>2027-01-22T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Køge</g:custom_label_3>
       <g:internal_label>['Køge']</g:internal_label>
@@ -1208,9 +1223,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Køge</g:custom_label_4>
       <g:start_date>2027-01-24T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Endagskurser</g:custom_label_3>
-      <g:custom_label_4>Køge</g:custom_label_4>
       <g:internal_label>['Endagskurser','Køge','Weekend']</g:internal_label>
     </item>
 <item>
@@ -1230,9 +1245,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
       <g:custom_label_2>Bagning og søde sager</g:custom_label_2>
+      <g:custom_label_4>Roskilde</g:custom_label_4>
       <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Roskilde</g:custom_label_3>
-      <g:custom_label_4>Køge</g:custom_label_4>
       <g:internal_label>['Roskilde','Køge','Egedal','Bornholm','Weekend']</g:internal_label>
     </item>
 <item>
@@ -1252,9 +1267,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Tai Chi og Qi Gong</g:custom_label_2>
+      <g:custom_label_4>Stenløse</g:custom_label_4>
       <g:start_date>2027-01-26T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Egedal</g:custom_label_3>
-      <g:internal_label>['Egedal']</g:internal_label>
+      <g:internal_label>['Egedal','Stenløse']</g:internal_label>
     </item>
 <item>
       <g:id>52061</g:id>
@@ -1273,9 +1289,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Sprog</g:custom_label_1>
       <g:custom_label_2>Fransk</g:custom_label_2>
+      <g:custom_label_4>Køge</g:custom_label_4>
       <g:start_date>2027-01-26T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Greve</g:custom_label_3>
-      <g:custom_label_4>Køge</g:custom_label_4>
       <g:internal_label>['Greve','Køge','Egedal']</g:internal_label>
     </item>
 <item>
@@ -1295,10 +1311,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
       <g:custom_label_2>Fest- og hverdagsmad</g:custom_label_2>
+      <g:custom_label_4>Hårlev</g:custom_label_4>
       <g:start_date>2027-01-26T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Stevns</g:custom_label_3>
-      <g:custom_label_4>Greve</g:custom_label_4>
-      <g:internal_label>['Stevns','Greve','Lejre','Køge','Bornholm','Partnerskab','Egedal']</g:internal_label>
+      <g:internal_label>['Stevns','Greve','Lejre','Køge','Bornholm','Partnerskab','Egedal','Hårlev']</g:internal_label>
     </item>
 <item>
       <g:id>53853</g:id>
@@ -1317,9 +1333,9 @@
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Musik og koncerter</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Køge</g:custom_label_4>
       <g:start_date>2027-01-27T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Endagskurser</g:custom_label_3>
-      <g:custom_label_4>Køge</g:custom_label_4>
       <g:internal_label>['Endagskurser','Køge']</g:internal_label>
     </item>
 <item>
@@ -1339,9 +1355,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Malekurser</g:custom_label_2>
+      <g:custom_label_4>Greve</g:custom_label_4>
       <g:start_date>2027-01-30T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Greve</g:custom_label_3>
-      <g:custom_label_4>Egedal</g:custom_label_4>
       <g:internal_label>['Greve','Egedal','Roskilde','Køge','Weekend']</g:internal_label>
     </item>
 <item>
@@ -1361,10 +1377,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
       <g:custom_label_2>Fest- og hverdagsmad</g:custom_label_2>
+      <g:custom_label_4>Hårlev</g:custom_label_4>
       <g:start_date>2027-02-02T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Stevns</g:custom_label_3>
-      <g:custom_label_4>Forår</g:custom_label_4>
-      <g:internal_label>['Stevns','Forår']</g:internal_label>
+      <g:internal_label>['Stevns','Forår','Hårlev']</g:internal_label>
     </item>
 <item>
       <g:id>53866</g:id>
@@ -1383,6 +1399,7 @@
       <g:custom_label_0>Rejser, ture og rundvisninger</g:custom_label_0>
       <g:custom_label_1>Rundvisninger</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4></g:custom_label_4>
       <g:start_date>2027-02-03T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Forår</g:custom_label_3>
       <g:internal_label>['Forår']</g:internal_label>
@@ -1404,10 +1421,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
       <g:custom_label_2>Bagning og søde sager</g:custom_label_2>
+      <g:custom_label_4>Stenløse</g:custom_label_4>
       <g:start_date>2027-02-10T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Forår</g:custom_label_3>
-      <g:custom_label_4>Egedal</g:custom_label_4>
-      <g:internal_label>['Forår','Egedal','Køge','Roskilde','Bornholm','Weekend']</g:internal_label>
+      <g:internal_label>['Forår','Egedal','Køge','Roskilde','Bornholm','Weekend','Stenløse']</g:internal_label>
     </item>
 <item>
       <g:id>52200</g:id>
@@ -1426,10 +1443,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Ølstykke</g:custom_label_4>
       <g:start_date>2027-02-12T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Egedal</g:custom_label_3>
-      <g:custom_label_4>Forår</g:custom_label_4>
-      <g:internal_label>['Egedal','Forår','Greve','Køge','Lejre','Stevns','Solrød','Bornholm','Hensyntagende']</g:internal_label>
+      <g:internal_label>['Egedal','Forår','Greve','Køge','Lejre','Stevns','Solrød','Bornholm','Hensyntagende','Ølstykke']</g:internal_label>
     </item>
 <item>
       <g:id>52875</g:id>
@@ -1448,9 +1465,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Malekurser</g:custom_label_2>
+      <g:custom_label_4>Greve</g:custom_label_4>
       <g:start_date>2027-02-13T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Forår</g:custom_label_3>
-      <g:custom_label_4>Greve</g:custom_label_4>
       <g:internal_label>['Forår','Greve','Egedal','Roskilde','Køge','Weekend']</g:internal_label>
     </item>
 <item>
@@ -1470,6 +1487,7 @@
       <g:custom_label_0>Rejser, ture og rundvisninger</g:custom_label_0>
       <g:custom_label_1>Rundvisninger</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4></g:custom_label_4>
       <g:start_date>2027-02-16T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Forår</g:custom_label_3>
       <g:internal_label>['Forår']</g:internal_label>
@@ -1491,6 +1509,7 @@
       <g:custom_label_0>Rejser, ture og rundvisninger</g:custom_label_0>
       <g:custom_label_1>Byvandringer</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4></g:custom_label_4>
       <g:start_date>2027-02-18T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Forår</g:custom_label_3>
       <g:internal_label>['Forår']</g:internal_label>
@@ -1512,9 +1531,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Livsstil og trivsel</g:custom_label_1>
       <g:custom_label_2>Kropspleje</g:custom_label_2>
+      <g:custom_label_4>Køge</g:custom_label_4>
       <g:start_date>2027-02-23T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Forår</g:custom_label_3>
-      <g:custom_label_4>Køge</g:custom_label_4>
       <g:internal_label>['Forår','Køge','Solrød','Lejre','Weekend']</g:internal_label>
     </item>
 <item>
@@ -1534,9 +1553,9 @@
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Musik og koncerter</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Køge</g:custom_label_4>
       <g:start_date>2027-02-24T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Endagskurser</g:custom_label_3>
-      <g:custom_label_4>Køge</g:custom_label_4>
       <g:internal_label>['Endagskurser','Køge','Forår']</g:internal_label>
     </item>
 <item>
@@ -1556,10 +1575,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Smørum</g:custom_label_4>
       <g:start_date>2027-03-03T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Egedal</g:custom_label_3>
-      <g:custom_label_4>Forår</g:custom_label_4>
-      <g:internal_label>['Egedal','Forår','Roskilde','Køge','Greve','Stevns','Weekend']</g:internal_label>
+      <g:internal_label>['Egedal','Forår','Roskilde','Køge','Greve','Stevns','Weekend','Smørum']</g:internal_label>
     </item>
 <item>
       <g:id>52202</g:id>
@@ -1578,10 +1597,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Smørum</g:custom_label_4>
       <g:start_date>2027-03-03T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Egedal</g:custom_label_3>
-      <g:custom_label_4>Forår</g:custom_label_4>
-      <g:internal_label>['Egedal','Forår','Køge']</g:internal_label>
+      <g:internal_label>['Egedal','Forår','Køge','Smørum']</g:internal_label>
     </item>
 <item>
       <g:id>52876</g:id>
@@ -1600,9 +1619,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Malekurser</g:custom_label_2>
+      <g:custom_label_4>Greve</g:custom_label_4>
       <g:start_date>2027-03-06T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Forår</g:custom_label_3>
-      <g:custom_label_4>Greve</g:custom_label_4>
       <g:internal_label>['Forår','Greve','Egedal','Roskilde','Køge','Weekend']</g:internal_label>
     </item>
 <item>
@@ -1622,6 +1641,7 @@
       <g:custom_label_0>Rejser, ture og rundvisninger</g:custom_label_0>
       <g:custom_label_1>Byvandringer</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4></g:custom_label_4>
       <g:start_date>2027-03-07T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Forår</g:custom_label_3>
       <g:internal_label>['Forår']</g:internal_label>
@@ -1643,10 +1663,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
       <g:custom_label_2>Bagning og søde sager</g:custom_label_2>
+      <g:custom_label_4>Hvalsø</g:custom_label_4>
       <g:start_date>2027-03-08T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Forår</g:custom_label_3>
-      <g:custom_label_4>Lejre</g:custom_label_4>
-      <g:internal_label>['Forår','Lejre','Køge','Egedal','Roskilde','Bornholm','Weekend']</g:internal_label>
+      <g:internal_label>['Forår','Lejre','Køge','Egedal','Roskilde','Bornholm','Weekend','Hvalsø']</g:internal_label>
     </item>
 <item>
       <g:id>53857</g:id>
@@ -1665,10 +1685,10 @@
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Sundhed og eksistens</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Borup</g:custom_label_4>
       <g:start_date>2027-03-09T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Endagskurser</g:custom_label_3>
-      <g:custom_label_4>Køge</g:custom_label_4>
-      <g:internal_label>['Endagskurser','Køge','Forår']</g:internal_label>
+      <g:internal_label>['Endagskurser','Køge','Forår','Borup']</g:internal_label>
     </item>
 <item>
       <g:id>53203</g:id>
@@ -1687,9 +1707,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
       <g:custom_label_2>Bagning og søde sager</g:custom_label_2>
+      <g:custom_label_4>Roskilde</g:custom_label_4>
       <g:start_date>2027-03-10T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Forår</g:custom_label_3>
-      <g:custom_label_4>Roskilde</g:custom_label_4>
       <g:internal_label>['Forår','Roskilde','Køge','Egedal','Bornholm','Weekend']</g:internal_label>
     </item>
 <item>
@@ -1709,6 +1729,7 @@
       <g:custom_label_0>Rejser, ture og rundvisninger</g:custom_label_0>
       <g:custom_label_1>Rundvisninger</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4></g:custom_label_4>
       <g:start_date>2027-03-11T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Forår</g:custom_label_3>
       <g:internal_label>['Forår']</g:internal_label>
@@ -1730,9 +1751,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>It og foto</g:custom_label_1>
       <g:custom_label_2>Foto og video</g:custom_label_2>
+      <g:custom_label_4>Køge</g:custom_label_4>
       <g:start_date>2027-03-13T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Forår</g:custom_label_3>
-      <g:custom_label_4>Køge</g:custom_label_4>
       <g:internal_label>['Forår','Køge','Weekend']</g:internal_label>
     </item>
 <item>
@@ -1752,9 +1773,9 @@
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Samfund og historie</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Greve</g:custom_label_4>
       <g:start_date>2027-03-16T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Greve</g:custom_label_3>
-      <g:custom_label_4>Forår</g:custom_label_4>
       <g:internal_label>['Greve','Forår']</g:internal_label>
     </item>
 <item>
@@ -1774,9 +1795,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Malekurser</g:custom_label_2>
+      <g:custom_label_4>Greve</g:custom_label_4>
       <g:start_date>2027-03-20T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Forår</g:custom_label_3>
-      <g:custom_label_4>Greve</g:custom_label_4>
       <g:internal_label>['Forår','Greve','Egedal','Roskilde','Køge','Weekend']</g:internal_label>
     </item>
 <item>
@@ -1796,9 +1817,9 @@
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Sundhed og eksistens</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Køge</g:custom_label_4>
       <g:start_date>2027-03-31T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Endagskurser</g:custom_label_3>
-      <g:custom_label_4>Køge</g:custom_label_4>
       <g:internal_label>['Endagskurser','Køge','Forår']</g:internal_label>
     </item>
 <item>
@@ -1818,9 +1839,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Malekurser</g:custom_label_2>
+      <g:custom_label_4>Greve</g:custom_label_4>
       <g:start_date>2027-04-03T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Forår</g:custom_label_3>
-      <g:custom_label_4>Greve</g:custom_label_4>
       <g:internal_label>['Forår','Greve','Egedal','Roskilde','Køge','Weekend']</g:internal_label>
     </item>
 <item>
@@ -1840,6 +1861,7 @@
       <g:custom_label_0>Rejser, ture og rundvisninger</g:custom_label_0>
       <g:custom_label_1>Byvandringer</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4></g:custom_label_4>
       <g:start_date>2027-04-12T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Forår</g:custom_label_3>
       <g:internal_label>['Forår']</g:internal_label>
@@ -1861,10 +1883,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
       <g:custom_label_2>Drikkevarer</g:custom_label_2>
+      <g:custom_label_4>Ølstykke</g:custom_label_4>
       <g:start_date>2027-04-13T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Egedal</g:custom_label_3>
-      <g:custom_label_4>Forår</g:custom_label_4>
-      <g:internal_label>['Egedal','Forår','Køge']</g:internal_label>
+      <g:internal_label>['Egedal','Forår','Køge','Ølstykke']</g:internal_label>
     </item>
 <item>
       <g:id>53868</g:id>
@@ -1883,6 +1905,7 @@
       <g:custom_label_0>Rejser, ture og rundvisninger</g:custom_label_0>
       <g:custom_label_1>Rundvisninger</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4></g:custom_label_4>
       <g:start_date>2027-04-14T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Forår</g:custom_label_3>
       <g:internal_label>['Forår']</g:internal_label>
@@ -1904,10 +1927,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Livsstil og trivsel</g:custom_label_1>
       <g:custom_label_2>Kropspleje</g:custom_label_2>
+      <g:custom_label_4>Greve</g:custom_label_4>
       <g:start_date>2027-04-14T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Forår</g:custom_label_3>
-      <g:custom_label_4>Solrød</g:custom_label_4>
-      <g:internal_label>['Forår','Solrød','Køge','Lejre','Weekend']</g:internal_label>
+      <g:internal_label>['Forår','Solrød','Køge','Lejre','Weekend','Greve']</g:internal_label>
     </item>
 <item>
       <g:id>53855</g:id>
@@ -1926,9 +1949,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
       <g:custom_label_2>Drikkevarer</g:custom_label_2>
+      <g:custom_label_4>Køge</g:custom_label_4>
       <g:start_date>2027-04-15T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Endagskurser</g:custom_label_3>
-      <g:custom_label_4>Køge</g:custom_label_4>
       <g:internal_label>['Endagskurser','Køge','Forår','Egedal']</g:internal_label>
     </item>
 <item>
@@ -1948,9 +1971,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Malekurser</g:custom_label_2>
+      <g:custom_label_4>Greve</g:custom_label_4>
       <g:start_date>2027-04-17T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Forår</g:custom_label_3>
-      <g:custom_label_4>Greve</g:custom_label_4>
       <g:internal_label>['Forår','Greve','Egedal','Roskilde','Køge','Weekend']</g:internal_label>
     </item>
 <item>
@@ -1970,9 +1993,9 @@
       <g:custom_label_0>Rejser, ture og rundvisninger</g:custom_label_0>
       <g:custom_label_1>Rundvisninger</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4></g:custom_label_4>
       <g:start_date>2027-04-17T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Forår</g:custom_label_3>
-      <g:custom_label_4>Weekend</g:custom_label_4>
       <g:internal_label>['Forår','Weekend']</g:internal_label>
     </item>
 <item>
@@ -1992,6 +2015,7 @@
       <g:custom_label_0>Rejser, ture og rundvisninger</g:custom_label_0>
       <g:custom_label_1>Rundvisninger</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4></g:custom_label_4>
       <g:start_date>2027-04-20T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Forår</g:custom_label_3>
       <g:internal_label>['Forår']</g:internal_label>
@@ -2013,9 +2037,9 @@
       <g:custom_label_0>Rejser, ture og rundvisninger</g:custom_label_0>
       <g:custom_label_1>Byvandringer</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4></g:custom_label_4>
       <g:start_date>2027-04-21T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Forår</g:custom_label_3>
-      <g:custom_label_4>Køge</g:custom_label_4>
       <g:internal_label>['Forår','Køge']</g:internal_label>
     </item>
 <item>
@@ -2035,9 +2059,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>It og foto</g:custom_label_1>
       <g:custom_label_2>Foto og video</g:custom_label_2>
+      <g:custom_label_4>Køge</g:custom_label_4>
       <g:start_date>2027-04-27T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Forår</g:custom_label_3>
-      <g:custom_label_4>Køge</g:custom_label_4>
       <g:internal_label>['Forår','Køge','Weekend']</g:internal_label>
     </item>
 <item>
@@ -2057,6 +2081,7 @@
       <g:custom_label_0>Rejser, ture og rundvisninger</g:custom_label_0>
       <g:custom_label_1>Byvandringer</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4></g:custom_label_4>
       <g:start_date>2027-04-30T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Forår</g:custom_label_3>
       <g:internal_label>['Forår']</g:internal_label>
@@ -2078,6 +2103,7 @@
       <g:custom_label_0>Rejser, ture og rundvisninger</g:custom_label_0>
       <g:custom_label_1>Byvandringer</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4></g:custom_label_4>
       <g:start_date>2027-05-04T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Forår</g:custom_label_3>
       <g:internal_label>['Forår']</g:internal_label>
@@ -2099,6 +2125,7 @@
       <g:custom_label_0>Rejser, ture og rundvisninger</g:custom_label_0>
       <g:custom_label_1>Rundvisninger</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4></g:custom_label_4>
       <g:start_date>2027-05-19T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Forår</g:custom_label_3>
       <g:internal_label>['Forår']</g:internal_label>
@@ -2120,9 +2147,9 @@
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Samfund og historie</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Køge</g:custom_label_4>
       <g:start_date>2027-05-25T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Forår</g:custom_label_3>
-      <g:custom_label_4>Køge</g:custom_label_4>
       <g:internal_label>['Forår','Køge','Endagskurser']</g:internal_label>
     </item>
 <item>
@@ -2142,9 +2169,9 @@
       <g:custom_label_0>Rejser, ture og rundvisninger</g:custom_label_0>
       <g:custom_label_1>Byvandringer</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4></g:custom_label_4>
       <g:start_date>2027-05-26T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Forår</g:custom_label_3>
-      <g:custom_label_4>Køge</g:custom_label_4>
       <g:internal_label>['Forår','Køge']</g:internal_label>
     </item>
 <item>
@@ -2164,6 +2191,7 @@
       <g:custom_label_0>Rejser, ture og rundvisninger</g:custom_label_0>
       <g:custom_label_1>Rundvisninger</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4></g:custom_label_4>
       <g:start_date>2027-05-27T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Forår</g:custom_label_3>
       <g:internal_label>['Forår']</g:internal_label>

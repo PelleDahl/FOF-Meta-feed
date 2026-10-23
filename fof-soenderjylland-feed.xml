@@ -22,10 +22,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Malekurser</g:custom_label_2>
+      <g:custom_label_4>Aabenraa</g:custom_label_4>
       <g:start_date>2026-10-24T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Starter snart</g:custom_label_3>
-      <g:custom_label_4>Nyhed</g:custom_label_4>
-      <g:internal_label>['Starter snart','Nyhed']</g:internal_label>
+      <g:internal_label>['Starter snart','Nyhed','Aabenraa']</g:internal_label>
     </item>
 <item>
       <g:id>1262336</g:id>
@@ -44,10 +44,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Tai Chi og Qi Gong</g:custom_label_2>
+      <g:custom_label_4>Sønderborg</g:custom_label_4>
       <g:start_date>2026-10-26T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Starter snart</g:custom_label_3>
-      <g:custom_label_4>Motion</g:custom_label_4>
-      <g:internal_label>['Starter snart','Motion']</g:internal_label>
+      <g:internal_label>['Starter snart','Motion','Sønderborg']</g:internal_label>
     </item>
 <item>
       <g:id>3262464</g:id>
@@ -66,10 +66,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Haderslev</g:custom_label_4>
       <g:start_date>2026-10-27T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Starter snart</g:custom_label_3>
-      <g:custom_label_4>Motion</g:custom_label_4>
-      <g:internal_label>['Starter snart','Motion','Hensyntagende']</g:internal_label>
+      <g:internal_label>['Starter snart','Motion','Hensyntagende','Haderslev']</g:internal_label>
     </item>
 <item>
       <g:id>3262570</g:id>
@@ -88,9 +88,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Håndværk og kunsthåndværk</g:custom_label_2>
+      <g:custom_label_4>Haderslev</g:custom_label_4>
       <g:start_date>2026-10-27T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Starter snart</g:custom_label_3>
-      <g:internal_label>['Starter snart']</g:internal_label>
+      <g:internal_label>['Starter snart','Haderslev']</g:internal_label>
     </item>
 <item>
       <g:id>1262343</g:id>
@@ -109,10 +110,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Tai Chi og Qi Gong</g:custom_label_2>
+      <g:custom_label_4>Sønderborg</g:custom_label_4>
       <g:start_date>2026-10-28T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Starter snart</g:custom_label_3>
-      <g:custom_label_4>Motion</g:custom_label_4>
-      <g:internal_label>['Starter snart','Motion']</g:internal_label>
+      <g:internal_label>['Starter snart','Motion','Sønderborg']</g:internal_label>
     </item>
 <item>
       <g:id>1262571</g:id>
@@ -131,9 +132,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Håndværk og kunsthåndværk</g:custom_label_2>
+      <g:custom_label_4>Sønderborg</g:custom_label_4>
       <g:start_date>2026-10-29T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Starter snart</g:custom_label_3>
-      <g:internal_label>['Starter snart']</g:internal_label>
+      <g:internal_label>['Starter snart','Sønderborg']</g:internal_label>
     </item>
 <item>
       <g:id>1262041</g:id>
@@ -152,10 +154,10 @@
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Sundhed og eksistens</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Sønderborg</g:custom_label_4>
       <g:start_date>2026-10-29T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Starter snart</g:custom_label_3>
-      <g:custom_label_4>Aftenforedrag</g:custom_label_4>
-      <g:internal_label>['Starter snart','Aftenforedrag']</g:internal_label>
+      <g:internal_label>['Starter snart','Aftenforedrag','Sønderborg']</g:internal_label>
     </item>
 <item>
       <g:id>1262201</g:id>
@@ -174,10 +176,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
       <g:custom_label_2>Madteknikker</g:custom_label_2>
+      <g:custom_label_4>Sønderborg</g:custom_label_4>
       <g:start_date>2026-10-29T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Starter snart</g:custom_label_3>
-      <g:custom_label_4>Bæredygtig</g:custom_label_4>
-      <g:internal_label>['Starter snart','Bæredygtig']</g:internal_label>
+      <g:internal_label>['Starter snart','Bæredygtig','Sønderborg']</g:internal_label>
     </item>
 <item>
       <g:id>2262340</g:id>
@@ -196,10 +198,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Mindfulness og meditation</g:custom_label_2>
+      <g:custom_label_4>Aabenraa</g:custom_label_4>
       <g:start_date>2026-10-29T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Starter snart</g:custom_label_3>
-      <g:custom_label_4>Motion</g:custom_label_4>
-      <g:internal_label>['Starter snart','Motion']</g:internal_label>
+      <g:internal_label>['Starter snart','Motion','Aabenraa']</g:internal_label>
     </item>
 <item>
       <g:id>3262005</g:id>
@@ -218,9 +220,9 @@
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Kultur og livsfortællinger</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Haderslev</g:custom_label_4>
       <g:start_date>2026-10-30T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Starter snart</g:custom_label_3>
-      <g:custom_label_4>Haderslev</g:custom_label_4>
       <g:internal_label>['Starter snart','Haderslev','Sønderborg']</g:internal_label>
     </item>
 <item>
@@ -240,10 +242,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Pilates</g:custom_label_2>
+      <g:custom_label_4>Aabenraa</g:custom_label_4>
       <g:start_date>2026-11-02T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Starter snart</g:custom_label_3>
-      <g:custom_label_4>Bjerggade</g:custom_label_4>
-      <g:internal_label>['Starter snart','Bjerggade','Motion','Hensyntagende']</g:internal_label>
+      <g:internal_label>['Starter snart','Bjerggade','Motion','Hensyntagende','Aabenraa']</g:internal_label>
     </item>
 <item>
       <g:id>2262422</g:id>
@@ -262,10 +264,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Pilates</g:custom_label_2>
+      <g:custom_label_4>Aabenraa</g:custom_label_4>
       <g:start_date>2026-11-02T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Starter snart</g:custom_label_3>
-      <g:custom_label_4>Bjerggade</g:custom_label_4>
-      <g:internal_label>['Starter snart','Bjerggade','Hensyntagende']</g:internal_label>
+      <g:internal_label>['Starter snart','Bjerggade','Hensyntagende','Aabenraa']</g:internal_label>
     </item>
 <item>
       <g:id>2262578</g:id>
@@ -284,10 +286,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Håndværk og kunsthåndværk</g:custom_label_2>
+      <g:custom_label_4>Aabenraa</g:custom_label_4>
       <g:start_date>2026-11-02T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Starter snart</g:custom_label_3>
-      <g:custom_label_4>Nygadehuset</g:custom_label_4>
-      <g:internal_label>['Starter snart','Nygadehuset','Kreativ','Nyhed']</g:internal_label>
+      <g:internal_label>['Starter snart','Nygadehuset','Kreativ','Nyhed','Aabenraa']</g:internal_label>
     </item>
 <item>
       <g:id>2262416</g:id>
@@ -306,10 +308,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Pilates</g:custom_label_2>
+      <g:custom_label_4>Aabenraa</g:custom_label_4>
       <g:start_date>2026-11-02T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Starter snart</g:custom_label_3>
-      <g:custom_label_4>Bjerggade</g:custom_label_4>
-      <g:internal_label>['Starter snart','Bjerggade','Motion']</g:internal_label>
+      <g:internal_label>['Starter snart','Bjerggade','Motion','Aabenraa']</g:internal_label>
     </item>
 <item>
       <g:id>1260736</g:id>
@@ -328,9 +330,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Musik og sang</g:custom_label_1>
       <g:custom_label_2>Strengeinstrumenter</g:custom_label_2>
+      <g:custom_label_4>Sønderborg</g:custom_label_4>
       <g:start_date>2026-11-03T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Starter snart</g:custom_label_3>
-      <g:internal_label>['Starter snart']</g:internal_label>
+      <g:internal_label>['Starter snart','Sønderborg']</g:internal_label>
     </item>
 <item>
       <g:id>1260737</g:id>
@@ -349,9 +352,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Musik og sang</g:custom_label_1>
       <g:custom_label_2>Strengeinstrumenter</g:custom_label_2>
+      <g:custom_label_4>Sønderborg</g:custom_label_4>
       <g:start_date>2026-11-03T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Starter snart</g:custom_label_3>
-      <g:internal_label>['Starter snart']</g:internal_label>
+      <g:internal_label>['Starter snart','Sønderborg']</g:internal_label>
     </item>
 <item>
       <g:id>3262311</g:id>
@@ -370,9 +374,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Haderslev</g:custom_label_4>
       <g:start_date>2026-11-03T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Starter snart</g:custom_label_3>
-      <g:internal_label>['Starter snart']</g:internal_label>
+      <g:internal_label>['Starter snart','Haderslev']</g:internal_label>
     </item>
 <item>
       <g:id>2262426</g:id>
@@ -391,10 +396,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Styrke- og konditionstræning</g:custom_label_2>
+      <g:custom_label_4>Aabenraa</g:custom_label_4>
       <g:start_date>2026-11-03T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Starter snart</g:custom_label_3>
-      <g:custom_label_4>Bjerggade</g:custom_label_4>
-      <g:internal_label>['Starter snart','Bjerggade']</g:internal_label>
+      <g:internal_label>['Starter snart','Bjerggade','Aabenraa']</g:internal_label>
     </item>
 <item>
       <g:id>2262429</g:id>
@@ -413,10 +418,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Pilates</g:custom_label_2>
+      <g:custom_label_4>Aabenraa</g:custom_label_4>
       <g:start_date>2026-11-03T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Starter snart</g:custom_label_3>
-      <g:custom_label_4>Bjerggade</g:custom_label_4>
-      <g:internal_label>['Starter snart','Bjerggade','Hensyntagende']</g:internal_label>
+      <g:internal_label>['Starter snart','Bjerggade','Hensyntagende','Aabenraa']</g:internal_label>
     </item>
 <item>
       <g:id>1262046</g:id>
@@ -437,10 +442,10 @@ Foredragsholder, Asta Kjær, fortæller om sin egen vej gennem livet og om bruge
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Kultur og livsfortællinger</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Sønderborg</g:custom_label_4>
       <g:start_date>2026-11-03T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Starter snart</g:custom_label_3>
-      <g:custom_label_4>Nyhed</g:custom_label_4>
-      <g:internal_label>['Starter snart','Nyhed']</g:internal_label>
+      <g:internal_label>['Starter snart','Nyhed','Sønderborg']</g:internal_label>
     </item>
 <item>
       <g:id>1260738</g:id>
@@ -459,9 +464,10 @@ Foredragsholder, Asta Kjær, fortæller om sin egen vej gennem livet og om bruge
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Musik og sang</g:custom_label_1>
       <g:custom_label_2>Strengeinstrumenter</g:custom_label_2>
+      <g:custom_label_4>Sønderborg</g:custom_label_4>
       <g:start_date>2026-11-03T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Starter snart</g:custom_label_3>
-      <g:internal_label>['Starter snart']</g:internal_label>
+      <g:internal_label>['Starter snart','Sønderborg']</g:internal_label>
     </item>
 <item>
       <g:id>2262425</g:id>
@@ -480,10 +486,10 @@ Foredragsholder, Asta Kjær, fortæller om sin egen vej gennem livet og om bruge
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Bevægelse og afspænding</g:custom_label_2>
+      <g:custom_label_4>Aabenraa</g:custom_label_4>
       <g:start_date>2026-11-03T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Starter snart</g:custom_label_3>
-      <g:custom_label_4>Bjerggade</g:custom_label_4>
-      <g:internal_label>['Starter snart','Bjerggade','Motion','Hensyntagende']</g:internal_label>
+      <g:internal_label>['Starter snart','Bjerggade','Motion','Hensyntagende','Aabenraa']</g:internal_label>
     </item>
 <item>
       <g:id>2262313</g:id>
@@ -506,10 +512,10 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Aabenraa</g:custom_label_4>
       <g:start_date>2026-11-03T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Starter snart</g:custom_label_3>
-      <g:custom_label_4>Bjerggade</g:custom_label_4>
-      <g:internal_label>['Starter snart','Bjerggade']</g:internal_label>
+      <g:internal_label>['Starter snart','Bjerggade','Aabenraa']</g:internal_label>
     </item>
 <item>
       <g:id>2262312</g:id>
@@ -528,10 +534,10 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Aabenraa</g:custom_label_4>
       <g:start_date>2026-11-03T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Starter snart</g:custom_label_3>
-      <g:custom_label_4>Bjerggade</g:custom_label_4>
-      <g:internal_label>['Starter snart','Bjerggade']</g:internal_label>
+      <g:internal_label>['Starter snart','Bjerggade','Aabenraa']</g:internal_label>
     </item>
 <item>
       <g:id>1262900</g:id>
@@ -550,10 +556,10 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>It og foto</g:custom_label_1>
       <g:custom_label_2>Kunstig intelligens - AI</g:custom_label_2>
+      <g:custom_label_4>Sønderborg</g:custom_label_4>
       <g:start_date>2026-11-04T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Starter snart</g:custom_label_3>
-      <g:custom_label_4>Nyhed</g:custom_label_4>
-      <g:internal_label>['Starter snart','Nyhed']</g:internal_label>
+      <g:internal_label>['Starter snart','Nyhed','Sønderborg']</g:internal_label>
     </item>
 <item>
       <g:id>3260737</g:id>
@@ -572,9 +578,10 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Musik og sang</g:custom_label_1>
       <g:custom_label_2>Strengeinstrumenter</g:custom_label_2>
+      <g:custom_label_4>Vojens</g:custom_label_4>
       <g:start_date>2026-11-04T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Starter snart</g:custom_label_3>
-      <g:internal_label>['Starter snart']</g:internal_label>
+      <g:internal_label>['Starter snart','Vojens']</g:internal_label>
     </item>
 <item>
       <g:id>1262042</g:id>
@@ -593,10 +600,10 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Samfund og historie</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Sønderborg</g:custom_label_4>
       <g:start_date>2026-11-04T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Starter snart</g:custom_label_3>
-      <g:custom_label_4>Aftenforedrag</g:custom_label_4>
-      <g:internal_label>['Starter snart','Aftenforedrag']</g:internal_label>
+      <g:internal_label>['Starter snart','Aftenforedrag','Sønderborg']</g:internal_label>
     </item>
 <item>
       <g:id>2262329</g:id>
@@ -615,10 +622,10 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Aabenraa</g:custom_label_4>
       <g:start_date>2026-11-04T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Starter snart</g:custom_label_3>
-      <g:custom_label_4>Bjerggade</g:custom_label_4>
-      <g:internal_label>['Starter snart','Bjerggade','Motion']</g:internal_label>
+      <g:internal_label>['Starter snart','Bjerggade','Motion','Aabenraa']</g:internal_label>
     </item>
 <item>
       <g:id>2262314</g:id>
@@ -637,10 +644,10 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Aabenraa</g:custom_label_4>
       <g:start_date>2026-11-04T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Starter snart</g:custom_label_3>
-      <g:custom_label_4>Bjerggade</g:custom_label_4>
-      <g:internal_label>['Starter snart','Bjerggade']</g:internal_label>
+      <g:internal_label>['Starter snart','Bjerggade','Aabenraa']</g:internal_label>
     </item>
 <item>
       <g:id>1260718</g:id>
@@ -659,9 +666,10 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Musik og sang</g:custom_label_1>
       <g:custom_label_2>Klaver og harmonika</g:custom_label_2>
+      <g:custom_label_4>Sønderborg</g:custom_label_4>
       <g:start_date>2026-11-04T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Starter snart</g:custom_label_3>
-      <g:internal_label>['Starter snart']</g:internal_label>
+      <g:internal_label>['Starter snart','Sønderborg']</g:internal_label>
     </item>
 <item>
       <g:id>1260719</g:id>
@@ -680,9 +688,10 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Musik og sang</g:custom_label_1>
       <g:custom_label_2>Klaver og harmonika</g:custom_label_2>
+      <g:custom_label_4>Sønderborg</g:custom_label_4>
       <g:start_date>2026-11-04T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Starter snart</g:custom_label_3>
-      <g:internal_label>['Starter snart']</g:internal_label>
+      <g:internal_label>['Starter snart','Sønderborg']</g:internal_label>
     </item>
 <item>
       <g:id>3260738</g:id>
@@ -701,9 +710,10 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Musik og sang</g:custom_label_1>
       <g:custom_label_2>Strengeinstrumenter</g:custom_label_2>
+      <g:custom_label_4>Vojens</g:custom_label_4>
       <g:start_date>2026-11-04T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Starter snart</g:custom_label_3>
-      <g:internal_label>['Starter snart']</g:internal_label>
+      <g:internal_label>['Starter snart','Vojens']</g:internal_label>
     </item>
 <item>
       <g:id>3260739</g:id>
@@ -722,9 +732,10 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Musik og sang</g:custom_label_1>
       <g:custom_label_2>Strengeinstrumenter</g:custom_label_2>
+      <g:custom_label_4>Vojens</g:custom_label_4>
       <g:start_date>2026-11-04T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Starter snart</g:custom_label_3>
-      <g:internal_label>['Starter snart']</g:internal_label>
+      <g:internal_label>['Starter snart','Vojens']</g:internal_label>
     </item>
 <item>
       <g:id>2262220</g:id>
@@ -743,9 +754,10 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
       <g:custom_label_2>Bagning og søde sager</g:custom_label_2>
+      <g:custom_label_4>Vojens</g:custom_label_4>
       <g:start_date>2026-11-04T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Starter snart</g:custom_label_3>
-      <g:internal_label>['Starter snart']</g:internal_label>
+      <g:internal_label>['Starter snart','Vojens']</g:internal_label>
     </item>
 <item>
       <g:id>2262315</g:id>
@@ -764,10 +776,10 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Aabenraa</g:custom_label_4>
       <g:start_date>2026-11-04T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Starter snart</g:custom_label_3>
-      <g:custom_label_4>Bjerggade</g:custom_label_4>
-      <g:internal_label>['Starter snart','Bjerggade']</g:internal_label>
+      <g:internal_label>['Starter snart','Bjerggade','Aabenraa']</g:internal_label>
     </item>
 <item>
       <g:id>2262473</g:id>
@@ -786,10 +798,10 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Aabenraa</g:custom_label_4>
       <g:start_date>2026-11-05T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Starter snart</g:custom_label_3>
-      <g:custom_label_4>Bjerggade</g:custom_label_4>
-      <g:internal_label>['Starter snart','Bjerggade']</g:internal_label>
+      <g:internal_label>['Starter snart','Bjerggade','Aabenraa']</g:internal_label>
     </item>
 <item>
       <g:id>2262415</g:id>
@@ -808,10 +820,10 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Pilates</g:custom_label_2>
+      <g:custom_label_4>Aabenraa</g:custom_label_4>
       <g:start_date>2026-11-05T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Starter snart</g:custom_label_3>
-      <g:custom_label_4>Bjerggade</g:custom_label_4>
-      <g:internal_label>['Starter snart','Bjerggade','Motion']</g:internal_label>
+      <g:internal_label>['Starter snart','Bjerggade','Motion','Aabenraa']</g:internal_label>
     </item>
 <item>
       <g:id>2262047</g:id>
@@ -830,10 +842,10 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Sundhed og eksistens</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Aabenraa</g:custom_label_4>
       <g:start_date>2026-11-05T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Starter snart</g:custom_label_3>
-      <g:custom_label_4>Aftenforedrag</g:custom_label_4>
-      <g:internal_label>['Starter snart','Aftenforedrag']</g:internal_label>
+      <g:internal_label>['Starter snart','Aftenforedrag','Aabenraa']</g:internal_label>
     </item>
 <item>
       <g:id>2262420</g:id>
@@ -852,32 +864,10 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Pilates</g:custom_label_2>
+      <g:custom_label_4>Aabenraa</g:custom_label_4>
       <g:start_date>2026-11-06T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Starter snart</g:custom_label_3>
-      <g:custom_label_4>Bjerggade</g:custom_label_4>
-      <g:internal_label>['Starter snart','Bjerggade']</g:internal_label>
-    </item>
-<item>
-      <g:id>2262418</g:id>
-      <g:title><![CDATA[Pilates for alle]]></g:title>
-      <g:description><![CDATA[Træn klassisk matwork pilates. Få stærkere ryg, bedre balance og mere frihed i kroppen gennem kontrollerede øvelser. Alle niveauer er velkomne. Se alle hold her. ]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-soenderjylland/pilates?holdnr=2262418</g:link>
-      <g:image_link>https://www.fof.dk/media/anejkuc3/pilates-soenderjylland-fof-aftenskolen.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>595.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Sønderjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Pilates</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Pilates</g:custom_label_2>
-      <g:start_date>2026-11-06T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Starter snart</g:custom_label_3>
-      <g:custom_label_4>Bjerggade</g:custom_label_4>
-      <g:internal_label>['Starter snart','Bjerggade','Motion']</g:internal_label>
+      <g:internal_label>['Starter snart','Bjerggade','Aabenraa']</g:internal_label>
     </item>
 <item>
       <g:id>2262427</g:id>
@@ -896,10 +886,32 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Pilates</g:custom_label_2>
+      <g:custom_label_4>Aabenraa</g:custom_label_4>
       <g:start_date>2026-11-06T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Starter snart</g:custom_label_3>
-      <g:custom_label_4>Bjerggade</g:custom_label_4>
-      <g:internal_label>['Starter snart','Bjerggade','Hensyntagende']</g:internal_label>
+      <g:internal_label>['Starter snart','Bjerggade','Hensyntagende','Aabenraa']</g:internal_label>
+    </item>
+<item>
+      <g:id>2262418</g:id>
+      <g:title><![CDATA[Pilates for alle]]></g:title>
+      <g:description><![CDATA[Træn klassisk matwork pilates. Få stærkere ryg, bedre balance og mere frihed i kroppen gennem kontrollerede øvelser. Alle niveauer er velkomne. Se alle hold her. ]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-soenderjylland/pilates?holdnr=2262418</g:link>
+      <g:image_link>https://www.fof.dk/media/anejkuc3/pilates-soenderjylland-fof-aftenskolen.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>595.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sønderjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Pilates</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Pilates</g:custom_label_2>
+      <g:custom_label_4>Aabenraa</g:custom_label_4>
+      <g:start_date>2026-11-06T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Starter snart</g:custom_label_3>
+      <g:internal_label>['Starter snart','Bjerggade','Motion','Aabenraa']</g:internal_label>
     </item>
 <item>
       <g:id>1262004</g:id>
@@ -918,9 +930,9 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Kultur og livsfortællinger</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Sønderborg</g:custom_label_4>
       <g:start_date>2026-11-06T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Starter snart</g:custom_label_3>
-      <g:custom_label_4>Sønderborg</g:custom_label_4>
       <g:internal_label>['Starter snart','Sønderborg']</g:internal_label>
     </item>
 <item>
@@ -940,10 +952,10 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Pilates</g:custom_label_2>
+      <g:custom_label_4>Aabenraa</g:custom_label_4>
       <g:start_date>2026-11-06T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Starter snart</g:custom_label_3>
-      <g:custom_label_4>Bjerggade</g:custom_label_4>
-      <g:internal_label>['Starter snart','Bjerggade']</g:internal_label>
+      <g:internal_label>['Starter snart','Bjerggade','Aabenraa']</g:internal_label>
     </item>
 <item>
       <g:id>2262419</g:id>
@@ -962,10 +974,10 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Pilates</g:custom_label_2>
+      <g:custom_label_4>Aabenraa</g:custom_label_4>
       <g:start_date>2026-11-06T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Starter snart</g:custom_label_3>
-      <g:custom_label_4>Bjerggade</g:custom_label_4>
-      <g:internal_label>['Starter snart','Bjerggade']</g:internal_label>
+      <g:internal_label>['Starter snart','Bjerggade','Aabenraa']</g:internal_label>
     </item>
 <item>
       <g:id>3262130</g:id>
@@ -984,9 +996,10 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Natur og udeliv</g:custom_label_1>
       <g:custom_label_2>Naturfag og friluftsliv</g:custom_label_2>
+      <g:custom_label_4>Haderslev</g:custom_label_4>
       <g:start_date>2026-11-07T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Starter snart</g:custom_label_3>
-      <g:internal_label>['Starter snart']</g:internal_label>
+      <g:internal_label>['Starter snart','Haderslev']</g:internal_label>
     </item>
 <item>
       <g:id>1262590</g:id>
@@ -1005,10 +1018,10 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Håndarbejde</g:custom_label_2>
+      <g:custom_label_4>Sønderborg</g:custom_label_4>
       <g:start_date>2026-11-07T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Starter snart</g:custom_label_3>
-      <g:custom_label_4>Nyhed</g:custom_label_4>
-      <g:internal_label>['Starter snart','Nyhed']</g:internal_label>
+      <g:internal_label>['Starter snart','Nyhed','Sønderborg']</g:internal_label>
     </item>
 <item>
       <g:id>1262132</g:id>
@@ -1027,10 +1040,10 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Natur og udeliv</g:custom_label_1>
       <g:custom_label_2>Naturfag og friluftsliv</g:custom_label_2>
+      <g:custom_label_4>Sønderborg</g:custom_label_4>
       <g:start_date>2026-11-08T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Starter snart</g:custom_label_3>
-      <g:custom_label_4>Bæredygtig</g:custom_label_4>
-      <g:internal_label>['Starter snart','Bæredygtig']</g:internal_label>
+      <g:internal_label>['Starter snart','Bæredygtig','Sønderborg']</g:internal_label>
     </item>
 <item>
       <g:id>3270847</g:id>
@@ -1049,10 +1062,10 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Bevægelse og afspænding</g:custom_label_2>
+      <g:custom_label_4>Haderslev</g:custom_label_4>
       <g:start_date>2026-11-09T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Motion</g:custom_label_3>
-      <g:custom_label_4>Hensyntagende</g:custom_label_4>
-      <g:internal_label>['Motion','Hensyntagende']</g:internal_label>
+      <g:internal_label>['Motion','Hensyntagende','Haderslev']</g:internal_label>
     </item>
 <item>
       <g:id>1260742</g:id>
@@ -1071,9 +1084,10 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Musik og sang</g:custom_label_1>
       <g:custom_label_2>Klaver og harmonika</g:custom_label_2>
+      <g:custom_label_4>Sønderborg</g:custom_label_4>
       <g:start_date>2026-11-09T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Nyhed</g:custom_label_3>
-      <g:internal_label>['Nyhed']</g:internal_label>
+      <g:internal_label>['Nyhed','Sønderborg']</g:internal_label>
     </item>
 <item>
       <g:id>1262561</g:id>
@@ -1092,7 +1106,9 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Syning</g:custom_label_2>
+      <g:custom_label_4>Sønderborg</g:custom_label_4>
       <g:start_date>2026-11-10T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Sønderborg']</g:internal_label>
     </item>
 <item>
       <g:id>3270848</g:id>
@@ -1111,10 +1127,10 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Bevægelse og afspænding</g:custom_label_2>
+      <g:custom_label_4>Gram</g:custom_label_4>
       <g:start_date>2026-11-10T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Motion</g:custom_label_3>
-      <g:custom_label_4>Hensyntagende</g:custom_label_4>
-      <g:internal_label>['Motion','Hensyntagende']</g:internal_label>
+      <g:internal_label>['Motion','Hensyntagende','Gram']</g:internal_label>
     </item>
 <item>
       <g:id>3260714</g:id>
@@ -1133,7 +1149,9 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Musik og sang</g:custom_label_1>
       <g:custom_label_2>Klaver og harmonika</g:custom_label_2>
+      <g:custom_label_4>Haderslev</g:custom_label_4>
       <g:start_date>2026-11-12T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Haderslev']</g:internal_label>
     </item>
 <item>
       <g:id>2262547</g:id>
@@ -1152,10 +1170,10 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Håndarbejde</g:custom_label_2>
+      <g:custom_label_4>Aabenraa</g:custom_label_4>
       <g:start_date>2026-11-13T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Nygadehuset</g:custom_label_3>
-      <g:custom_label_4>Nyhed</g:custom_label_4>
-      <g:internal_label>['Nygadehuset','Nyhed']</g:internal_label>
+      <g:internal_label>['Nygadehuset','Nyhed','Aabenraa']</g:internal_label>
     </item>
 <item>
       <g:id>3262006</g:id>
@@ -1174,6 +1192,7 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Samfund og historie</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Haderslev</g:custom_label_4>
       <g:start_date>2026-11-13T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Haderslev</g:custom_label_3>
       <g:internal_label>['Haderslev']</g:internal_label>
@@ -1195,9 +1214,10 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Syning</g:custom_label_2>
+      <g:custom_label_4>Sønderborg</g:custom_label_4>
       <g:start_date>2026-11-14T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Kreativ</g:custom_label_3>
-      <g:internal_label>['Kreativ']</g:internal_label>
+      <g:internal_label>['Kreativ','Sønderborg']</g:internal_label>
     </item>
 <item>
       <g:id>1262137</g:id>
@@ -1216,9 +1236,10 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Natur og udeliv</g:custom_label_1>
       <g:custom_label_2>Naturfag og friluftsliv</g:custom_label_2>
+      <g:custom_label_4>Sønderborg</g:custom_label_4>
       <g:start_date>2026-11-15T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Bæredygtig</g:custom_label_3>
-      <g:internal_label>['Bæredygtig']</g:internal_label>
+      <g:internal_label>['Bæredygtig','Sønderborg']</g:internal_label>
     </item>
 <item>
       <g:id>1262903</g:id>
@@ -1237,7 +1258,9 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>It og foto</g:custom_label_1>
       <g:custom_label_2>Kunstig intelligens - AI</g:custom_label_2>
+      <g:custom_label_4>Sønderborg</g:custom_label_4>
       <g:start_date>2026-11-16T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Sønderborg']</g:internal_label>
     </item>
 <item>
       <g:id>1262722</g:id>
@@ -1256,9 +1279,10 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Musik og sang</g:custom_label_1>
       <g:custom_label_2>Kor og fællessang</g:custom_label_2>
+      <g:custom_label_4>Sønderborg</g:custom_label_4>
       <g:start_date>2026-11-17T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Sangcentret</g:custom_label_3>
-      <g:internal_label>['Sangcentret']</g:internal_label>
+      <g:internal_label>['Sangcentret','Sønderborg']</g:internal_label>
     </item>
 <item>
       <g:id>1262723</g:id>
@@ -1277,9 +1301,10 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Musik og sang</g:custom_label_1>
       <g:custom_label_2>Kor og fællessang</g:custom_label_2>
+      <g:custom_label_4>Sønderborg</g:custom_label_4>
       <g:start_date>2026-11-17T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Sangcentret</g:custom_label_3>
-      <g:internal_label>['Sangcentret']</g:internal_label>
+      <g:internal_label>['Sangcentret','Sønderborg']</g:internal_label>
     </item>
 <item>
       <g:id>2262518</g:id>
@@ -1298,9 +1323,10 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Syning</g:custom_label_2>
+      <g:custom_label_4>Aabenraa</g:custom_label_4>
       <g:start_date>2026-11-18T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Nygadehuset</g:custom_label_3>
-      <g:internal_label>['Nygadehuset']</g:internal_label>
+      <g:internal_label>['Nygadehuset','Aabenraa']</g:internal_label>
     </item>
 <item>
       <g:id>2262046</g:id>
@@ -1319,9 +1345,10 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Sundhed og eksistens</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Aabenraa</g:custom_label_4>
       <g:start_date>2026-11-19T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Aftenforedrag</g:custom_label_3>
-      <g:internal_label>['Aftenforedrag']</g:internal_label>
+      <g:internal_label>['Aftenforedrag','Aabenraa']</g:internal_label>
     </item>
 <item>
       <g:id>2262562</g:id>
@@ -1340,10 +1367,10 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Grafik og trykketeknik</g:custom_label_2>
+      <g:custom_label_4>Aabenraa</g:custom_label_4>
       <g:start_date>2026-11-20T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Nygadehuset</g:custom_label_3>
-      <g:custom_label_4>Nyhed</g:custom_label_4>
-      <g:internal_label>['Nygadehuset','Nyhed']</g:internal_label>
+      <g:internal_label>['Nygadehuset','Nyhed','Aabenraa']</g:internal_label>
     </item>
 <item>
       <g:id>1262525</g:id>
@@ -1362,10 +1389,10 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Syning</g:custom_label_2>
+      <g:custom_label_4>Sønderborg</g:custom_label_4>
       <g:start_date>2026-11-21T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Bæredygtig</g:custom_label_3>
-      <g:custom_label_4>Nyhed</g:custom_label_4>
-      <g:internal_label>['Bæredygtig','Nyhed']</g:internal_label>
+      <g:internal_label>['Bæredygtig','Nyhed','Sønderborg']</g:internal_label>
     </item>
 <item>
       <g:id>1262090</g:id>
@@ -1385,9 +1412,10 @@ Vi bruger tiden hver eneste dag. Vi måler den, planlægger efter den, mangler d
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kulturfag og samfund</g:custom_label_1>
       <g:custom_label_2>Naturvidenskab</g:custom_label_2>
+      <g:custom_label_4>Sønderborg</g:custom_label_4>
       <g:start_date>2026-11-24T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Nyhed</g:custom_label_3>
-      <g:internal_label>['Nyhed']</g:internal_label>
+      <g:internal_label>['Nyhed','Sønderborg']</g:internal_label>
     </item>
 <item>
       <g:id>2262227</g:id>
@@ -1406,7 +1434,9 @@ Vi bruger tiden hver eneste dag. Vi måler den, planlægger efter den, mangler d
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
       <g:custom_label_2>Bagning og søde sager</g:custom_label_2>
+      <g:custom_label_4>Vojens</g:custom_label_4>
       <g:start_date>2026-11-25T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Vojens']</g:internal_label>
     </item>
 <item>
       <g:id>2262341</g:id>
@@ -1425,9 +1455,10 @@ Vi bruger tiden hver eneste dag. Vi måler den, planlægger efter den, mangler d
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Mindfulness og meditation</g:custom_label_2>
+      <g:custom_label_4>Aabenraa</g:custom_label_4>
       <g:start_date>2026-11-26T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Motion</g:custom_label_3>
-      <g:internal_label>['Motion']</g:internal_label>
+      <g:internal_label>['Motion','Aabenraa']</g:internal_label>
     </item>
 <item>
       <g:id>1262005</g:id>
@@ -1446,6 +1477,7 @@ Vi bruger tiden hver eneste dag. Vi måler den, planlægger efter den, mangler d
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Samfund og historie</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Sønderborg</g:custom_label_4>
       <g:start_date>2026-11-27T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Sønderborg</g:custom_label_3>
       <g:internal_label>['Sønderborg']</g:internal_label>
@@ -1467,7 +1499,9 @@ Vi bruger tiden hver eneste dag. Vi måler den, planlægger efter den, mangler d
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
       <g:custom_label_2>Bagning og søde sager</g:custom_label_2>
+      <g:custom_label_4>Sønderborg</g:custom_label_4>
       <g:start_date>2026-11-29T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Sønderborg']</g:internal_label>
     </item>
 <item>
       <g:id>1262047</g:id>
@@ -1486,9 +1520,10 @@ Vi bruger tiden hver eneste dag. Vi måler den, planlægger efter den, mangler d
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Sundhed og eksistens</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Sønderborg</g:custom_label_4>
       <g:start_date>2026-11-30T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Aftenforedrag</g:custom_label_3>
-      <g:internal_label>['Aftenforedrag']</g:internal_label>
+      <g:internal_label>['Aftenforedrag','Sønderborg']</g:internal_label>
     </item>
 <item>
       <g:id>1262225</g:id>
@@ -1507,7 +1542,9 @@ Vi bruger tiden hver eneste dag. Vi måler den, planlægger efter den, mangler d
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
       <g:custom_label_2>Bagning og søde sager</g:custom_label_2>
+      <g:custom_label_4>Sønderborg</g:custom_label_4>
       <g:start_date>2026-12-01T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Sønderborg']</g:internal_label>
     </item>
 <item>
       <g:id>1262045</g:id>
@@ -1526,7 +1563,9 @@ Vi bruger tiden hver eneste dag. Vi måler den, planlægger efter den, mangler d
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Sundhed og eksistens</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Sønderborg</g:custom_label_4>
       <g:start_date>2026-12-01T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Sønderborg']</g:internal_label>
     </item>
 <item>
       <g:id>1262526</g:id>
@@ -1545,7 +1584,9 @@ Vi bruger tiden hver eneste dag. Vi måler den, planlægger efter den, mangler d
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Håndarbejde</g:custom_label_2>
+      <g:custom_label_4>Sønderborg</g:custom_label_4>
       <g:start_date>2026-12-01T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Sønderborg']</g:internal_label>
     </item>
 <item>
       <g:id>3270849</g:id>
@@ -1564,10 +1605,10 @@ Vi bruger tiden hver eneste dag. Vi måler den, planlægger efter den, mangler d
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Bevægelse og afspænding</g:custom_label_2>
+      <g:custom_label_4>Gram</g:custom_label_4>
       <g:start_date>2026-12-02T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Motion</g:custom_label_3>
-      <g:custom_label_4>Hensyntagende</g:custom_label_4>
-      <g:internal_label>['Motion','Hensyntagende']</g:internal_label>
+      <g:internal_label>['Motion','Hensyntagende','Gram']</g:internal_label>
     </item>
 <item>
       <g:id>3262007</g:id>
@@ -1586,6 +1627,7 @@ Vi bruger tiden hver eneste dag. Vi måler den, planlægger efter den, mangler d
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Samfund og historie</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Haderslev</g:custom_label_4>
       <g:start_date>2026-12-04T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Haderslev</g:custom_label_3>
       <g:internal_label>['Haderslev']</g:internal_label>
@@ -1607,9 +1649,10 @@ Vi bruger tiden hver eneste dag. Vi måler den, planlægger efter den, mangler d
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Syning</g:custom_label_2>
+      <g:custom_label_4>Sønderborg</g:custom_label_4>
       <g:start_date>2026-12-07T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Kreativ</g:custom_label_3>
-      <g:internal_label>['Kreativ']</g:internal_label>
+      <g:internal_label>['Kreativ','Sønderborg']</g:internal_label>
     </item>
 <item>
       <g:id>1262006</g:id>
@@ -1628,9 +1671,9 @@ Vi bruger tiden hver eneste dag. Vi måler den, planlægger efter den, mangler d
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Kultur og livsfortællinger</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Sønderborg</g:custom_label_4>
       <g:start_date>2026-12-11T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Haderslev</g:custom_label_3>
-      <g:custom_label_4>Sønderborg</g:custom_label_4>
       <g:internal_label>['Haderslev','Sønderborg']</g:internal_label>
     </item>
 <item>
@@ -1650,9 +1693,10 @@ Vi bruger tiden hver eneste dag. Vi måler den, planlægger efter den, mangler d
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Mindfulness og meditation</g:custom_label_2>
+      <g:custom_label_4>Aabenraa</g:custom_label_4>
       <g:start_date>2026-12-17T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Motion</g:custom_label_3>
-      <g:internal_label>['Motion']</g:internal_label>
+      <g:internal_label>['Motion','Aabenraa']</g:internal_label>
     </item>
 <item>
       <g:id>3262717</g:id>
@@ -1671,9 +1715,10 @@ Vi bruger tiden hver eneste dag. Vi måler den, planlægger efter den, mangler d
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Musik og sang</g:custom_label_1>
       <g:custom_label_2>Kor og fællessang</g:custom_label_2>
+      <g:custom_label_4>Haderslev</g:custom_label_4>
       <g:start_date>2026-12-17T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Nyhed</g:custom_label_3>
-      <g:internal_label>['Nyhed']</g:internal_label>
+      <g:internal_label>['Nyhed','Haderslev']</g:internal_label>
     </item>
 <item>
       <g:id>2271480</g:id>
@@ -1692,10 +1737,10 @@ Vi bruger tiden hver eneste dag. Vi måler den, planlægger efter den, mangler d
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Aabenraa</g:custom_label_4>
       <g:start_date>2027-01-04T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Bjerggade</g:custom_label_3>
-      <g:custom_label_4>Motion</g:custom_label_4>
-      <g:internal_label>['Bjerggade','Motion','Hensyntagende']</g:internal_label>
+      <g:internal_label>['Bjerggade','Motion','Hensyntagende','Aabenraa']</g:internal_label>
     </item>
 <item>
       <g:id>10500</g:id>
@@ -1714,6 +1759,7 @@ Vi bruger tiden hver eneste dag. Vi måler den, planlægger efter den, mangler d
       <g:custom_label_0></g:custom_label_0>
       <g:custom_label_1></g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4></g:custom_label_4>
       <g:start_date>2027-01-06T00:00:00.000Z</g:start_date>
     </item>
 <item>
@@ -1733,6 +1779,7 @@ Vi bruger tiden hver eneste dag. Vi måler den, planlægger efter den, mangler d
       <g:custom_label_0></g:custom_label_0>
       <g:custom_label_1></g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4></g:custom_label_4>
       <g:start_date>2027-01-06T00:00:00.000Z</g:start_date>
     </item>
 <item>
@@ -1752,6 +1799,7 @@ Vi bruger tiden hver eneste dag. Vi måler den, planlægger efter den, mangler d
       <g:custom_label_0></g:custom_label_0>
       <g:custom_label_1></g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4></g:custom_label_4>
       <g:start_date>2027-01-06T00:00:00.000Z</g:start_date>
     </item>
 <item>
@@ -1771,6 +1819,7 @@ Vi bruger tiden hver eneste dag. Vi måler den, planlægger efter den, mangler d
       <g:custom_label_0></g:custom_label_0>
       <g:custom_label_1></g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4></g:custom_label_4>
       <g:start_date>2027-01-06T00:00:00.000Z</g:start_date>
     </item>
 <item>
@@ -1790,6 +1839,7 @@ Vi bruger tiden hver eneste dag. Vi måler den, planlægger efter den, mangler d
       <g:custom_label_0></g:custom_label_0>
       <g:custom_label_1></g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4></g:custom_label_4>
       <g:start_date>2027-01-06T00:00:00.000Z</g:start_date>
     </item>
 <item>
@@ -1809,7 +1859,9 @@ Vi bruger tiden hver eneste dag. Vi måler den, planlægger efter den, mangler d
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Sprog</g:custom_label_1>
       <g:custom_label_2>Spansk</g:custom_label_2>
+      <g:custom_label_4>Sønderborg</g:custom_label_4>
       <g:start_date>2027-01-06T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Sønderborg']</g:internal_label>
     </item>
 <item>
       <g:id>2271133</g:id>
@@ -1828,10 +1880,10 @@ Vi bruger tiden hver eneste dag. Vi måler den, planlægger efter den, mangler d
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Tai Chi og Qi Gong</g:custom_label_2>
+      <g:custom_label_4>Aabenraa</g:custom_label_4>
       <g:start_date>2027-01-06T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Bjerggade</g:custom_label_3>
-      <g:custom_label_4>Motion</g:custom_label_4>
-      <g:internal_label>['Bjerggade','Motion']</g:internal_label>
+      <g:internal_label>['Bjerggade','Motion','Aabenraa']</g:internal_label>
     </item>
 <item>
       <g:id>10200</g:id>
@@ -1850,6 +1902,7 @@ Vi bruger tiden hver eneste dag. Vi måler den, planlægger efter den, mangler d
       <g:custom_label_0></g:custom_label_0>
       <g:custom_label_1></g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4></g:custom_label_4>
       <g:start_date>2027-01-06T00:00:00.000Z</g:start_date>
     </item>
 <item>
@@ -1869,10 +1922,10 @@ Vi bruger tiden hver eneste dag. Vi måler den, planlægger efter den, mangler d
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Aabenraa</g:custom_label_4>
       <g:start_date>2027-01-07T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Bjerggade</g:custom_label_3>
-      <g:custom_label_4>Motion</g:custom_label_4>
-      <g:internal_label>['Bjerggade','Motion','Hensyntagende']</g:internal_label>
+      <g:internal_label>['Bjerggade','Motion','Hensyntagende','Aabenraa']</g:internal_label>
     </item>
 <item>
       <g:id>1271724</g:id>
@@ -1891,9 +1944,10 @@ Vi bruger tiden hver eneste dag. Vi måler den, planlægger efter den, mangler d
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Musik og sang</g:custom_label_1>
       <g:custom_label_2>Kor og fællessang</g:custom_label_2>
+      <g:custom_label_4>Sønderborg</g:custom_label_4>
       <g:start_date>2027-01-09T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Sangcentret</g:custom_label_3>
-      <g:internal_label>['Sangcentret']</g:internal_label>
+      <g:internal_label>['Sangcentret','Sønderborg']</g:internal_label>
     </item>
 <item>
       <g:id>2271563</g:id>
@@ -1912,10 +1966,10 @@ Vi bruger tiden hver eneste dag. Vi måler den, planlægger efter den, mangler d
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Grafik og trykketeknik</g:custom_label_2>
+      <g:custom_label_4>Aabenraa</g:custom_label_4>
       <g:start_date>2027-01-15T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Nygadehuset</g:custom_label_3>
-      <g:custom_label_4>Nyhed</g:custom_label_4>
-      <g:internal_label>['Nygadehuset','Nyhed']</g:internal_label>
+      <g:internal_label>['Nygadehuset','Nyhed','Aabenraa']</g:internal_label>
     </item>
 <item>
       <g:id>2271416</g:id>
@@ -1934,10 +1988,10 @@ Vi bruger tiden hver eneste dag. Vi måler den, planlægger efter den, mangler d
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Pilates</g:custom_label_2>
+      <g:custom_label_4>Aabenraa</g:custom_label_4>
       <g:start_date>2027-01-18T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Bjerggade</g:custom_label_3>
-      <g:custom_label_4>Motion</g:custom_label_4>
-      <g:internal_label>['Bjerggade','Motion']</g:internal_label>
+      <g:internal_label>['Bjerggade','Motion','Aabenraa']</g:internal_label>
     </item>
 <item>
       <g:id>2271417</g:id>
@@ -1956,10 +2010,10 @@ Vi bruger tiden hver eneste dag. Vi måler den, planlægger efter den, mangler d
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Pilates</g:custom_label_2>
+      <g:custom_label_4>Aabenraa</g:custom_label_4>
       <g:start_date>2027-01-18T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Bjerggade</g:custom_label_3>
-      <g:custom_label_4>Motion</g:custom_label_4>
-      <g:internal_label>['Bjerggade','Motion','Hensyntagende']</g:internal_label>
+      <g:internal_label>['Bjerggade','Motion','Hensyntagende','Aabenraa']</g:internal_label>
     </item>
 <item>
       <g:id>2271422</g:id>
@@ -1978,10 +2032,10 @@ Vi bruger tiden hver eneste dag. Vi måler den, planlægger efter den, mangler d
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Pilates</g:custom_label_2>
+      <g:custom_label_4>Aabenraa</g:custom_label_4>
       <g:start_date>2027-01-18T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Bjerggade</g:custom_label_3>
-      <g:custom_label_4>Hensyntagende</g:custom_label_4>
-      <g:internal_label>['Bjerggade','Hensyntagende']</g:internal_label>
+      <g:internal_label>['Bjerggade','Hensyntagende','Aabenraa']</g:internal_label>
     </item>
 <item>
       <g:id>2271313</g:id>
@@ -2004,9 +2058,10 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Aabenraa</g:custom_label_4>
       <g:start_date>2027-01-19T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Bjerggade</g:custom_label_3>
-      <g:internal_label>['Bjerggade']</g:internal_label>
+      <g:internal_label>['Bjerggade','Aabenraa']</g:internal_label>
     </item>
 <item>
       <g:id>2271425</g:id>
@@ -2025,10 +2080,10 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Bevægelse og afspænding</g:custom_label_2>
+      <g:custom_label_4>Aabenraa</g:custom_label_4>
       <g:start_date>2027-01-19T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Bjerggade</g:custom_label_3>
-      <g:custom_label_4>Motion</g:custom_label_4>
-      <g:internal_label>['Bjerggade','Motion','Hensyntagende']</g:internal_label>
+      <g:internal_label>['Bjerggade','Motion','Hensyntagende','Aabenraa']</g:internal_label>
     </item>
 <item>
       <g:id>1271901</g:id>
@@ -2047,9 +2102,10 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>It og foto</g:custom_label_1>
       <g:custom_label_2>Kunstig intelligens - AI</g:custom_label_2>
+      <g:custom_label_4>Nordborg</g:custom_label_4>
       <g:start_date>2027-01-19T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Nyhed</g:custom_label_3>
-      <g:internal_label>['Nyhed']</g:internal_label>
+      <g:internal_label>['Nyhed','Nordborg']</g:internal_label>
     </item>
 <item>
       <g:id>2271312</g:id>
@@ -2068,9 +2124,10 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Aabenraa</g:custom_label_4>
       <g:start_date>2027-01-19T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Bjerggade</g:custom_label_3>
-      <g:internal_label>['Bjerggade']</g:internal_label>
+      <g:internal_label>['Bjerggade','Aabenraa']</g:internal_label>
     </item>
 <item>
       <g:id>2271429</g:id>
@@ -2089,10 +2146,10 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Pilates</g:custom_label_2>
+      <g:custom_label_4>Aabenraa</g:custom_label_4>
       <g:start_date>2027-01-19T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Bjerggade</g:custom_label_3>
-      <g:custom_label_4>Hensyntagende</g:custom_label_4>
-      <g:internal_label>['Bjerggade','Hensyntagende']</g:internal_label>
+      <g:internal_label>['Bjerggade','Hensyntagende','Aabenraa']</g:internal_label>
     </item>
 <item>
       <g:id>2271426</g:id>
@@ -2111,9 +2168,10 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Styrke- og konditionstræning</g:custom_label_2>
+      <g:custom_label_4>Aabenraa</g:custom_label_4>
       <g:start_date>2027-01-19T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Bjerggade</g:custom_label_3>
-      <g:internal_label>['Bjerggade']</g:internal_label>
+      <g:internal_label>['Bjerggade','Aabenraa']</g:internal_label>
     </item>
 <item>
       <g:id>2271329</g:id>
@@ -2132,10 +2190,10 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Aabenraa</g:custom_label_4>
       <g:start_date>2027-01-20T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Bjerggade</g:custom_label_3>
-      <g:custom_label_4>Motion</g:custom_label_4>
-      <g:internal_label>['Bjerggade','Motion']</g:internal_label>
+      <g:internal_label>['Bjerggade','Motion','Aabenraa']</g:internal_label>
     </item>
 <item>
       <g:id>2271314</g:id>
@@ -2154,9 +2212,10 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Aabenraa</g:custom_label_4>
       <g:start_date>2027-01-20T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Bjerggade</g:custom_label_3>
-      <g:internal_label>['Bjerggade']</g:internal_label>
+      <g:internal_label>['Bjerggade','Aabenraa']</g:internal_label>
     </item>
 <item>
       <g:id>2271315</g:id>
@@ -2175,9 +2234,10 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Aabenraa</g:custom_label_4>
       <g:start_date>2027-01-20T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Bjerggade</g:custom_label_3>
-      <g:internal_label>['Bjerggade']</g:internal_label>
+      <g:internal_label>['Bjerggade','Aabenraa']</g:internal_label>
     </item>
 <item>
       <g:id>2271472</g:id>
@@ -2196,9 +2256,10 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Aabenraa</g:custom_label_4>
       <g:start_date>2027-01-20T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Bjerggade</g:custom_label_3>
-      <g:internal_label>['Bjerggade']</g:internal_label>
+      <g:internal_label>['Bjerggade','Aabenraa']</g:internal_label>
     </item>
 <item>
       <g:id>1271558</g:id>
@@ -2217,7 +2278,9 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Tegnekurser</g:custom_label_2>
+      <g:custom_label_4>Sønderborg</g:custom_label_4>
       <g:start_date>2027-01-21T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Sønderborg']</g:internal_label>
     </item>
 <item>
       <g:id>2271473</g:id>
@@ -2236,9 +2299,10 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Aabenraa</g:custom_label_4>
       <g:start_date>2027-01-21T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Bjerggade</g:custom_label_3>
-      <g:internal_label>['Bjerggade']</g:internal_label>
+      <g:internal_label>['Bjerggade','Aabenraa']</g:internal_label>
     </item>
 <item>
       <g:id>2271415</g:id>
@@ -2257,10 +2321,10 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Pilates</g:custom_label_2>
+      <g:custom_label_4>Aabenraa</g:custom_label_4>
       <g:start_date>2027-01-21T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Bjerggade</g:custom_label_3>
-      <g:custom_label_4>Motion</g:custom_label_4>
-      <g:internal_label>['Bjerggade','Motion']</g:internal_label>
+      <g:internal_label>['Bjerggade','Motion','Aabenraa']</g:internal_label>
     </item>
 <item>
       <g:id>2271900</g:id>
@@ -2279,10 +2343,10 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>It og foto</g:custom_label_1>
       <g:custom_label_2>Kunstig intelligens - AI</g:custom_label_2>
+      <g:custom_label_4>Aabenraa</g:custom_label_4>
       <g:start_date>2027-01-21T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Nygadehuset</g:custom_label_3>
-      <g:custom_label_4>Nyhed</g:custom_label_4>
-      <g:internal_label>['Nygadehuset','Nyhed']</g:internal_label>
+      <g:internal_label>['Nygadehuset','Nyhed','Aabenraa']</g:internal_label>
     </item>
 <item>
       <g:id>2271420</g:id>
@@ -2301,31 +2365,10 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Pilates</g:custom_label_2>
+      <g:custom_label_4>Aabenraa</g:custom_label_4>
       <g:start_date>2027-01-22T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Bjerggade</g:custom_label_3>
-      <g:internal_label>['Bjerggade']</g:internal_label>
-    </item>
-<item>
-      <g:id>2271418</g:id>
-      <g:title><![CDATA[Pilates for alle]]></g:title>
-      <g:description><![CDATA[Træn klassisk matwork pilates. Få stærkere ryg, bedre balance og mere frihed i kroppen gennem kontrollerede øvelser. Alle niveauer er velkomne. Se alle hold her. ]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-soenderjylland/pilates?holdnr=2271418</g:link>
-      <g:image_link>https://www.fof.dk/media/anejkuc3/pilates-soenderjylland-fof-aftenskolen.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>795.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Sønderjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Pilates</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Pilates</g:custom_label_2>
-      <g:start_date>2027-01-22T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Bjerggade</g:custom_label_3>
-      <g:custom_label_4>Motion</g:custom_label_4>
-      <g:internal_label>['Bjerggade','Motion']</g:internal_label>
+      <g:internal_label>['Bjerggade','Aabenraa']</g:internal_label>
     </item>
 <item>
       <g:id>2271427</g:id>
@@ -2344,10 +2387,10 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Pilates</g:custom_label_2>
+      <g:custom_label_4>Aabenraa</g:custom_label_4>
       <g:start_date>2027-01-22T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Bjerggade</g:custom_label_3>
-      <g:custom_label_4>Hensyntagende</g:custom_label_4>
-      <g:internal_label>['Bjerggade','Hensyntagende']</g:internal_label>
+      <g:internal_label>['Bjerggade','Hensyntagende','Aabenraa']</g:internal_label>
     </item>
 <item>
       <g:id>2271428</g:id>
@@ -2366,9 +2409,32 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Pilates</g:custom_label_2>
+      <g:custom_label_4>Aabenraa</g:custom_label_4>
       <g:start_date>2027-01-22T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Bjerggade</g:custom_label_3>
-      <g:internal_label>['Bjerggade']</g:internal_label>
+      <g:internal_label>['Bjerggade','Aabenraa']</g:internal_label>
+    </item>
+<item>
+      <g:id>2271418</g:id>
+      <g:title><![CDATA[Pilates for alle]]></g:title>
+      <g:description><![CDATA[Træn klassisk matwork pilates. Få stærkere ryg, bedre balance og mere frihed i kroppen gennem kontrollerede øvelser. Alle niveauer er velkomne. Se alle hold her. ]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-soenderjylland/pilates?holdnr=2271418</g:link>
+      <g:image_link>https://www.fof.dk/media/anejkuc3/pilates-soenderjylland-fof-aftenskolen.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>795.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sønderjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Pilates</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Pilates</g:custom_label_2>
+      <g:custom_label_4>Aabenraa</g:custom_label_4>
+      <g:start_date>2027-01-22T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Bjerggade</g:custom_label_3>
+      <g:internal_label>['Bjerggade','Motion','Aabenraa']</g:internal_label>
     </item>
 <item>
       <g:id>2271419</g:id>
@@ -2387,9 +2453,10 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Pilates</g:custom_label_2>
+      <g:custom_label_4>Aabenraa</g:custom_label_4>
       <g:start_date>2027-01-22T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Bjerggade</g:custom_label_3>
-      <g:internal_label>['Bjerggade']</g:internal_label>
+      <g:internal_label>['Bjerggade','Aabenraa']</g:internal_label>
     </item>
 <item>
       <g:id>1271547</g:id>
@@ -2408,9 +2475,10 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Håndarbejde</g:custom_label_2>
+      <g:custom_label_4>Sønderborg</g:custom_label_4>
       <g:start_date>2027-01-23T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Nyhed</g:custom_label_3>
-      <g:internal_label>['Nyhed']</g:internal_label>
+      <g:internal_label>['Nyhed','Sønderborg']</g:internal_label>
     </item>
 <item>
       <g:id>2271524</g:id>
@@ -2429,10 +2497,10 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Syning</g:custom_label_2>
+      <g:custom_label_4>Aabenraa</g:custom_label_4>
       <g:start_date>2027-01-23T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Nygadehuset</g:custom_label_3>
-      <g:custom_label_4>Bæredygtig</g:custom_label_4>
-      <g:internal_label>['Nygadehuset','Bæredygtig','Nyhed']</g:internal_label>
+      <g:internal_label>['Nygadehuset','Bæredygtig','Nyhed','Aabenraa']</g:internal_label>
     </item>
 <item>
       <g:id>1271532</g:id>
@@ -2451,9 +2519,10 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Håndarbejde</g:custom_label_2>
+      <g:custom_label_4>Sønderborg</g:custom_label_4>
       <g:start_date>2027-01-27T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Nyhed</g:custom_label_3>
-      <g:internal_label>['Nyhed']</g:internal_label>
+      <g:internal_label>['Nyhed','Sønderborg']</g:internal_label>
     </item>
 <item>
       <g:id>1271783</g:id>
@@ -2472,9 +2541,10 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Musik og sang</g:custom_label_1>
       <g:custom_label_2>Kor og fællessang</g:custom_label_2>
+      <g:custom_label_4>Sønderborg</g:custom_label_4>
       <g:start_date>2027-01-28T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Sangcentret</g:custom_label_3>
-      <g:internal_label>['Sangcentret']</g:internal_label>
+      <g:internal_label>['Sangcentret','Sønderborg']</g:internal_label>
     </item>
 <item>
       <g:id>1271481</g:id>
@@ -2493,9 +2563,10 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Dans</g:custom_label_2>
+      <g:custom_label_4>Sønderborg</g:custom_label_4>
       <g:start_date>2027-02-01T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Sangcentret</g:custom_label_3>
-      <g:internal_label>['Sangcentret']</g:internal_label>
+      <g:internal_label>['Sangcentret','Sønderborg']</g:internal_label>
     </item>
 <item>
       <g:id>2262591</g:id>
@@ -2514,10 +2585,10 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Håndarbejde</g:custom_label_2>
+      <g:custom_label_4>Aabenraa</g:custom_label_4>
       <g:start_date>2027-02-06T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Nygadehuset</g:custom_label_3>
-      <g:custom_label_4>Nyhed</g:custom_label_4>
-      <g:internal_label>['Nygadehuset','Nyhed']</g:internal_label>
+      <g:internal_label>['Nygadehuset','Nyhed','Aabenraa']</g:internal_label>
     </item>
 <item>
       <g:id>1271041</g:id>
@@ -2536,9 +2607,10 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Samfund og historie</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Sønderborg</g:custom_label_4>
       <g:start_date>2027-02-11T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Aftenforedrag</g:custom_label_3>
-      <g:internal_label>['Aftenforedrag']</g:internal_label>
+      <g:internal_label>['Aftenforedrag','Sønderborg']</g:internal_label>
     </item>
 <item>
       <g:id>1271593</g:id>
@@ -2557,7 +2629,9 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kulturfag og samfund</g:custom_label_1>
       <g:custom_label_2>Naturvidenskab</g:custom_label_2>
+      <g:custom_label_4>Sønderborg</g:custom_label_4>
       <g:start_date>2027-02-22T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Sønderborg']</g:internal_label>
     </item>
 <item>
       <g:id>1271720</g:id>
@@ -2576,9 +2650,10 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Musik og sang</g:custom_label_1>
       <g:custom_label_2>Kor og fællessang</g:custom_label_2>
+      <g:custom_label_4>Sønderborg</g:custom_label_4>
       <g:start_date>2027-02-23T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Sangcentret</g:custom_label_3>
-      <g:internal_label>['Sangcentret']</g:internal_label>
+      <g:internal_label>['Sangcentret','Sønderborg']</g:internal_label>
     </item>
 <item>
       <g:id>1271721</g:id>
@@ -2597,9 +2672,10 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Musik og sang</g:custom_label_1>
       <g:custom_label_2>Kor og fællessang</g:custom_label_2>
+      <g:custom_label_4>Sønderborg</g:custom_label_4>
       <g:start_date>2027-02-23T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Sangcentret</g:custom_label_3>
-      <g:internal_label>['Sangcentret']</g:internal_label>
+      <g:internal_label>['Sangcentret','Sønderborg']</g:internal_label>
     </item>
 <item>
       <g:id>1262499</g:id>
@@ -2618,7 +2694,9 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kulturfag og samfund</g:custom_label_1>
       <g:custom_label_2>Bridge og spil</g:custom_label_2>
+      <g:custom_label_4>Sønderborg</g:custom_label_4>
       <g:start_date>2027-03-02T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Sønderborg']</g:internal_label>
     </item>
 <item>
       <g:id>1271042</g:id>
@@ -2637,9 +2715,10 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Samfund og historie</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Sønderborg</g:custom_label_4>
       <g:start_date>2027-03-04T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Aftenforedrag</g:custom_label_3>
-      <g:internal_label>['Aftenforedrag']</g:internal_label>
+      <g:internal_label>['Aftenforedrag','Sønderborg']</g:internal_label>
     </item>
 <item>
       <g:id>1271046</g:id>
@@ -2658,9 +2737,10 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Kultur og livsfortællinger</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Sønderborg</g:custom_label_4>
       <g:start_date>2027-03-05T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Aftenforedrag</g:custom_label_3>
-      <g:internal_label>['Aftenforedrag']</g:internal_label>
+      <g:internal_label>['Aftenforedrag','Sønderborg']</g:internal_label>
     </item>
 <item>
       <g:id>2271564</g:id>
@@ -2679,10 +2759,10 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Håndværk og kunsthåndværk</g:custom_label_2>
+      <g:custom_label_4>Aabenraa</g:custom_label_4>
       <g:start_date>2027-03-19T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Nygadehuset</g:custom_label_3>
-      <g:custom_label_4>Nyhed</g:custom_label_4>
-      <g:internal_label>['Nygadehuset','Nyhed']</g:internal_label>
+      <g:internal_label>['Nygadehuset','Nyhed','Aabenraa']</g:internal_label>
     </item>
 <item>
       <g:id>3271004</g:id>
@@ -2701,9 +2781,9 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Videnskab og teknologi</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Haderslev</g:custom_label_4>
       <g:start_date>2027-03-19T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Aftenforedrag</g:custom_label_3>
-      <g:custom_label_4>Haderslev</g:custom_label_4>
       <g:internal_label>['Aftenforedrag','Haderslev']</g:internal_label>
     </item>
 <item>
@@ -2723,10 +2803,10 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Videnskab og teknologi</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Sønderborg</g:custom_label_4>
       <g:start_date>2027-03-30T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Aftenforedrag</g:custom_label_3>
-      <g:custom_label_4>Haderslev</g:custom_label_4>
-      <g:internal_label>['Aftenforedrag','Haderslev']</g:internal_label>
+      <g:internal_label>['Aftenforedrag','Haderslev','Sønderborg']</g:internal_label>
     </item>
 <item>
       <g:id>1271722</g:id>
@@ -2745,9 +2825,10 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Musik og sang</g:custom_label_1>
       <g:custom_label_2>Kor og fællessang</g:custom_label_2>
+      <g:custom_label_4>Sønderborg</g:custom_label_4>
       <g:start_date>2027-05-04T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Sangcentret</g:custom_label_3>
-      <g:internal_label>['Sangcentret']</g:internal_label>
+      <g:internal_label>['Sangcentret','Sønderborg']</g:internal_label>
     </item>
 <item>
       <g:id>1271723</g:id>
@@ -2766,9 +2847,10 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Musik og sang</g:custom_label_1>
       <g:custom_label_2>Kor og fællessang</g:custom_label_2>
+      <g:custom_label_4>Sønderborg</g:custom_label_4>
       <g:start_date>2027-05-04T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Sangcentret</g:custom_label_3>
-      <g:internal_label>['Sangcentret']</g:internal_label>
+      <g:internal_label>['Sangcentret','Sønderborg']</g:internal_label>
     </item>
 <item>
       <g:id>1279901</g:id>
@@ -2787,7 +2869,9 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Håndarbejde</g:custom_label_2>
+      <g:custom_label_4>Sønderborg</g:custom_label_4>
       <g:start_date>2027-06-11T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Sønderborg']</g:internal_label>
     </item>
 <item>
       <g:id>1279902</g:id>
@@ -2806,7 +2890,9 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Håndarbejde</g:custom_label_2>
+      <g:custom_label_4>Sønderborg</g:custom_label_4>
       <g:start_date>2027-06-12T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Sønderborg']</g:internal_label>
     </item>
 </channel>
 </rss>

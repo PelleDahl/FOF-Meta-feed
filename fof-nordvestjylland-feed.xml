@@ -22,7 +22,9 @@
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Samfund og historie</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Struer</g:custom_label_4>
       <g:start_date>2026-10-27T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Struer']</g:internal_label>
     </item>
 <item>
       <g:id>262183</g:id>
@@ -41,7 +43,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Thisted</g:custom_label_4>
       <g:start_date>2026-10-29T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Thisted']</g:internal_label>
     </item>
 <item>
       <g:id>262561</g:id>
@@ -60,7 +64,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Keramik</g:custom_label_2>
+      <g:custom_label_4>Vinderup</g:custom_label_4>
       <g:start_date>2026-10-29T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Vinderup']</g:internal_label>
     </item>
 <item>
       <g:id>262186</g:id>
@@ -79,7 +85,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Thisted</g:custom_label_4>
       <g:start_date>2026-10-31T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Thisted']</g:internal_label>
     </item>
 <item>
       <g:id>262187</g:id>
@@ -98,7 +106,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Thisted</g:custom_label_4>
       <g:start_date>2026-11-01T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Thisted']</g:internal_label>
     </item>
 <item>
       <g:id>262011</g:id>
@@ -117,7 +127,9 @@
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Samfund og historie</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Lemvig</g:custom_label_4>
       <g:start_date>2026-11-02T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Lemvig']</g:internal_label>
     </item>
 <item>
       <g:id>262163</g:id>
@@ -136,7 +148,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Mindfulness og meditation</g:custom_label_2>
+      <g:custom_label_4>Holstebro</g:custom_label_4>
       <g:start_date>2026-11-03T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Holstebro']</g:internal_label>
     </item>
 <item>
       <g:id>262534</g:id>
@@ -155,7 +169,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Keramik</g:custom_label_2>
+      <g:custom_label_4>Bækmarksbro</g:custom_label_4>
       <g:start_date>2026-11-05T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Bækmarksbro']</g:internal_label>
     </item>
 <item>
       <g:id>262802</g:id>
@@ -174,6 +190,7 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>It og foto</g:custom_label_1>
       <g:custom_label_2>Computer og smartphone</g:custom_label_2>
+      <g:custom_label_4>Holstebro</g:custom_label_4>
       <g:start_date>2026-11-06T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Holstebro</g:custom_label_3>
       <g:internal_label>['Holstebro']</g:internal_label>
@@ -195,7 +212,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
       <g:custom_label_2>Bagning og søde sager</g:custom_label_2>
+      <g:custom_label_4>Holstebro</g:custom_label_4>
       <g:start_date>2026-11-07T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Holstebro']</g:internal_label>
     </item>
 <item>
       <g:id>262873</g:id>
@@ -214,7 +233,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Førstehjælp</g:custom_label_2>
+      <g:custom_label_4>Holstebro</g:custom_label_4>
       <g:start_date>2026-11-07T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Holstebro']</g:internal_label>
     </item>
 <item>
       <g:id>262822</g:id>
@@ -233,6 +254,7 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>It og foto</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Holstebro</g:custom_label_4>
       <g:start_date>2026-11-09T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Holstebro</g:custom_label_3>
       <g:internal_label>['Holstebro']</g:internal_label>
@@ -254,7 +276,9 @@
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1></g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Holstebro</g:custom_label_4>
       <g:start_date>2026-11-10T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Holstebro']</g:internal_label>
     </item>
 <item>
       <g:id>262362</g:id>
@@ -273,7 +297,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Dans</g:custom_label_2>
+      <g:custom_label_4>Hanstholm</g:custom_label_4>
       <g:start_date>2026-11-11T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Hanstholm']</g:internal_label>
     </item>
 <item>
       <g:id>262003</g:id>
@@ -292,7 +318,9 @@
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Musik og koncerter</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Holstebro</g:custom_label_4>
       <g:start_date>2026-11-11T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Holstebro']</g:internal_label>
     </item>
 <item>
       <g:id>262213</g:id>
@@ -311,6 +339,7 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Sprog</g:custom_label_1>
       <g:custom_label_2>Tysk</g:custom_label_2>
+      <g:custom_label_4>Holstebro</g:custom_label_4>
       <g:start_date>2026-11-11T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Holstebro</g:custom_label_3>
       <g:internal_label>['Holstebro']</g:internal_label>
@@ -332,7 +361,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
       <g:custom_label_2>Asiatisk mad</g:custom_label_2>
+      <g:custom_label_4>Holstebro</g:custom_label_4>
       <g:start_date>2026-11-12T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Holstebro']</g:internal_label>
     </item>
 <item>
       <g:id>262801</g:id>
@@ -351,6 +382,7 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>It og foto</g:custom_label_1>
       <g:custom_label_2>Computer og smartphone</g:custom_label_2>
+      <g:custom_label_4>Holstebro</g:custom_label_4>
       <g:start_date>2026-11-13T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Holstebro</g:custom_label_3>
       <g:internal_label>['Holstebro']</g:internal_label>
@@ -372,7 +404,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Malekurser</g:custom_label_2>
+      <g:custom_label_4>Holstebro</g:custom_label_4>
       <g:start_date>2026-11-14T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Holstebro']</g:internal_label>
     </item>
 <item>
       <g:id>262030</g:id>
@@ -391,6 +425,7 @@
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Musik og koncerter</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4></g:custom_label_4>
       <g:start_date>2026-11-15T00:00:00.000Z</g:start_date>
     </item>
 <item>
@@ -410,6 +445,7 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Pilates</g:custom_label_2>
+      <g:custom_label_4>Holstebro</g:custom_label_4>
       <g:start_date>2026-11-16T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Holstebro</g:custom_label_3>
       <g:internal_label>['Holstebro']</g:internal_label>
@@ -431,7 +467,9 @@
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>True crime</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Hanstholm</g:custom_label_4>
       <g:start_date>2026-11-17T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Hanstholm']</g:internal_label>
     </item>
 <item>
       <g:id>262189</g:id>
@@ -450,7 +488,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Bevægelse og afspænding</g:custom_label_2>
+      <g:custom_label_4>Hanstholm</g:custom_label_4>
       <g:start_date>2026-11-17T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Hanstholm']</g:internal_label>
     </item>
 <item>
       <g:id>262106</g:id>
@@ -469,7 +509,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Holstebro</g:custom_label_4>
       <g:start_date>2026-11-17T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Holstebro']</g:internal_label>
     </item>
 <item>
       <g:id>262022</g:id>
@@ -488,7 +530,9 @@
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Samfund og historie</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Hanstholm</g:custom_label_4>
       <g:start_date>2026-11-17T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Hanstholm']</g:internal_label>
     </item>
 <item>
       <g:id>262718</g:id>
@@ -507,6 +551,7 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
       <g:custom_label_2>Vegetarisk og vegansk</g:custom_label_2>
+      <g:custom_label_4>Holstebro</g:custom_label_4>
       <g:start_date>2026-11-18T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Holstebro</g:custom_label_3>
       <g:internal_label>['Holstebro']</g:internal_label>
@@ -528,7 +573,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
       <g:custom_label_2>Motion for gravide</g:custom_label_2>
+      <g:custom_label_4>Holstebro</g:custom_label_4>
       <g:start_date>2026-11-18T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Holstebro']</g:internal_label>
     </item>
 <item>
       <g:id>262025</g:id>
@@ -547,7 +594,9 @@
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Musik og koncerter</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Nykøbing</g:custom_label_4>
       <g:start_date>2026-11-18T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Nykøbing M']</g:internal_label>
     </item>
 <item>
       <g:id>262522</g:id>
@@ -566,7 +615,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Keramik</g:custom_label_2>
+      <g:custom_label_4>Ulfborg</g:custom_label_4>
       <g:start_date>2026-11-18T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Ulfborg']</g:internal_label>
     </item>
 <item>
       <g:id>262542</g:id>
@@ -585,7 +636,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Håndværk og kunsthåndværk</g:custom_label_2>
+      <g:custom_label_4>Holstebro</g:custom_label_4>
       <g:start_date>2026-11-19T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Holstebro']</g:internal_label>
     </item>
 <item>
       <g:id>262803</g:id>
@@ -604,6 +657,7 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>It og foto</g:custom_label_1>
       <g:custom_label_2>Computer og smartphone</g:custom_label_2>
+      <g:custom_label_4>Holstebro</g:custom_label_4>
       <g:start_date>2026-11-20T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Holstebro</g:custom_label_3>
       <g:internal_label>['Holstebro']</g:internal_label>
@@ -625,7 +679,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Lemvig</g:custom_label_4>
       <g:start_date>2026-11-22T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Lemvig']</g:internal_label>
     </item>
 <item>
       <g:id>262343</g:id>
@@ -644,7 +700,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Holstebro</g:custom_label_4>
       <g:start_date>2026-11-24T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Holstebro']</g:internal_label>
     </item>
 <item>
       <g:id>262104</g:id>
@@ -663,7 +721,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Holstebro</g:custom_label_4>
       <g:start_date>2026-11-24T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Holstebro']</g:internal_label>
     </item>
 <item>
       <g:id>262448</g:id>
@@ -682,7 +742,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
       <g:custom_label_2>Aktiviteter med baby</g:custom_label_2>
+      <g:custom_label_4>Holstebro</g:custom_label_4>
       <g:start_date>2026-11-24T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Holstebro']</g:internal_label>
     </item>
 <item>
       <g:id>262446</g:id>
@@ -701,7 +763,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
       <g:custom_label_2>Aktiviteter med baby</g:custom_label_2>
+      <g:custom_label_4>Holstebro</g:custom_label_4>
       <g:start_date>2026-11-24T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Holstebro']</g:internal_label>
     </item>
 <item>
       <g:id>262449</g:id>
@@ -720,7 +784,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
       <g:custom_label_2>Aktiviteter med baby</g:custom_label_2>
+      <g:custom_label_4>Holstebro</g:custom_label_4>
       <g:start_date>2026-11-24T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Holstebro']</g:internal_label>
     </item>
 <item>
       <g:id>262164</g:id>
@@ -739,7 +805,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Mindfulness og meditation</g:custom_label_2>
+      <g:custom_label_4>Holstebro</g:custom_label_4>
       <g:start_date>2026-11-27T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Holstebro']</g:internal_label>
     </item>
 <item>
       <g:id>262212</g:id>
@@ -758,6 +826,7 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Sprog</g:custom_label_1>
       <g:custom_label_2>Tysk</g:custom_label_2>
+      <g:custom_label_4>Holstebro</g:custom_label_4>
       <g:start_date>2026-12-02T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Holstebro</g:custom_label_3>
       <g:internal_label>['Holstebro']</g:internal_label>
@@ -779,7 +848,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Holstebro</g:custom_label_4>
       <g:start_date>2026-12-02T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Holstebro']</g:internal_label>
     </item>
 <item>
       <g:id>262363</g:id>
@@ -798,7 +869,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Dans</g:custom_label_2>
+      <g:custom_label_4>Hanstholm</g:custom_label_4>
       <g:start_date>2026-12-09T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Hanstholm']</g:internal_label>
     </item>
 <item>
       <g:id>262127</g:id>
@@ -817,7 +890,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Holstebro</g:custom_label_4>
       <g:start_date>2026-12-09T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Holstebro']</g:internal_label>
     </item>
 <item>
       <g:id>262165</g:id>
@@ -836,7 +911,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Mindfulness og meditation</g:custom_label_2>
+      <g:custom_label_4>Holstebro</g:custom_label_4>
       <g:start_date>2026-12-11T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Holstebro']</g:internal_label>
     </item>
 <item>
       <g:id>262874</g:id>
@@ -855,7 +932,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Førstehjælp</g:custom_label_2>
+      <g:custom_label_4>Holstebro</g:custom_label_4>
       <g:start_date>2026-12-12T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Holstebro']</g:internal_label>
     </item>
 <item>
       <g:id>262128</g:id>
@@ -874,7 +953,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Holstebro</g:custom_label_4>
       <g:start_date>2026-12-16T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Holstebro']</g:internal_label>
     </item>
 <item>
       <g:id>271331</g:id>
@@ -893,7 +974,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
       <g:custom_label_2>Efterfødselstræning</g:custom_label_2>
+      <g:custom_label_4>Holstebro</g:custom_label_4>
       <g:start_date>2027-01-06T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Holstebro']</g:internal_label>
     </item>
 <item>
       <g:id>271330</g:id>
@@ -912,7 +995,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
       <g:custom_label_2>Motion for gravide</g:custom_label_2>
+      <g:custom_label_4>Holstebro</g:custom_label_4>
       <g:start_date>2027-01-07T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Holstebro']</g:internal_label>
     </item>
 <item>
       <g:id>271020</g:id>
@@ -931,7 +1016,9 @@
       <g:custom_label_0>Rejser, ture og rundvisninger</g:custom_label_0>
       <g:custom_label_1>Udflugter og dagsture</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Grindsted</g:custom_label_4>
       <g:start_date>2027-01-23T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Grindsted']</g:internal_label>
     </item>
 <item>
       <g:id>271710</g:id>
@@ -950,7 +1037,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
       <g:custom_label_2>Bagning og søde sager</g:custom_label_2>
+      <g:custom_label_4>Holstebro</g:custom_label_4>
       <g:start_date>2027-01-23T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Holstebro']</g:internal_label>
     </item>
 <item>
       <g:id>271660</g:id>
@@ -969,7 +1058,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Smykkekurser</g:custom_label_2>
+      <g:custom_label_4>Struer</g:custom_label_4>
       <g:start_date>2027-04-03T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Struer']</g:internal_label>
     </item>
 </channel>
 </rss>

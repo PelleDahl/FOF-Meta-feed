@@ -22,10 +22,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Malekurser</g:custom_label_2>
+      <g:custom_label_4>Sandved</g:custom_label_4>
       <g:start_date>2026-10-24T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Kalender - Oktober</g:custom_label_3>
-      <g:custom_label_4>Starter snart</g:custom_label_4>
-      <g:internal_label>['Kalender - Oktober','Starter snart','Næstved','Endagskurser','Nyhed']</g:internal_label>
+      <g:internal_label>['Kalender - Oktober','Starter snart','Næstved','Endagskurser','Nyhed','Sandved']</g:internal_label>
     </item>
 <item>
       <g:id>840126</g:id>
@@ -44,9 +44,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Mindfulness og meditation</g:custom_label_2>
+      <g:custom_label_4>Næstved</g:custom_label_4>
       <g:start_date>2026-10-24T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Kalender - Oktober</g:custom_label_3>
-      <g:custom_label_4>Starter snart</g:custom_label_4>
       <g:internal_label>['Kalender - Oktober','Starter snart','Næstved']</g:internal_label>
     </item>
 <item>
@@ -66,9 +66,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Malekurser</g:custom_label_2>
+      <g:custom_label_4>Ringsted</g:custom_label_4>
       <g:start_date>2026-10-24T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Kalender - Oktober</g:custom_label_3>
-      <g:custom_label_4>Starter snart</g:custom_label_4>
       <g:internal_label>['Kalender - Oktober','Starter snart','Ringsted']</g:internal_label>
     </item>
 <item>
@@ -88,9 +88,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Syning</g:custom_label_2>
+      <g:custom_label_4>Ringsted</g:custom_label_4>
       <g:start_date>2026-10-24T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Kalender - Oktober</g:custom_label_3>
-      <g:custom_label_4>Starter snart</g:custom_label_4>
       <g:internal_label>['Kalender - Oktober','Starter snart','Ringsted','Endagskurser','Tema - Bæredygtighed']</g:internal_label>
     </item>
 <item>
@@ -110,9 +110,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
       <g:custom_label_2>Asiatisk mad</g:custom_label_2>
+      <g:custom_label_4>Næstved</g:custom_label_4>
       <g:start_date>2026-10-25T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Kalender - Oktober</g:custom_label_3>
-      <g:custom_label_4>Starter snart</g:custom_label_4>
       <g:internal_label>['Kalender - Oktober','Starter snart','Næstved']</g:internal_label>
     </item>
 <item>
@@ -132,9 +132,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Malekurser</g:custom_label_2>
+      <g:custom_label_4>Slagelse</g:custom_label_4>
       <g:start_date>2026-10-26T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Slagelse</g:custom_label_3>
-      <g:custom_label_4>Starter snart</g:custom_label_4>
       <g:internal_label>['Slagelse','Starter snart','Kalender - Oktober','Tema - Asien','Efterår']</g:internal_label>
     </item>
 <item>
@@ -154,9 +154,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Malekurser</g:custom_label_2>
+      <g:custom_label_4>Næstved</g:custom_label_4>
       <g:start_date>2026-10-27T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Starter snart</g:custom_label_3>
-      <g:custom_label_4>Næstved</g:custom_label_4>
       <g:internal_label>['Starter snart','Næstved','Kalender - Oktober','Tema - Asien','Efterår']</g:internal_label>
     </item>
 <item>
@@ -176,9 +176,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Tegnekurser</g:custom_label_2>
+      <g:custom_label_4>Næstved</g:custom_label_4>
       <g:start_date>2026-10-27T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Starter snart</g:custom_label_3>
-      <g:custom_label_4>Næstved</g:custom_label_4>
       <g:internal_label>['Starter snart','Næstved','Kalender - Oktober']</g:internal_label>
     </item>
 <item>
@@ -198,9 +198,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Sorø</g:custom_label_4>
       <g:start_date>2026-10-27T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Starter snart</g:custom_label_3>
-      <g:custom_label_4>Kalender - Oktober</g:custom_label_4>
       <g:internal_label>['Starter snart','Kalender - Oktober','Sorø']</g:internal_label>
     </item>
 <item>
@@ -220,9 +220,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Slagelse</g:custom_label_4>
       <g:start_date>2026-10-27T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Slagelse</g:custom_label_3>
-      <g:custom_label_4>Starter snart</g:custom_label_4>
       <g:internal_label>['Slagelse','Starter snart','Kalender - Oktober']</g:internal_label>
     </item>
 <item>
@@ -242,10 +242,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Korsør</g:custom_label_4>
       <g:start_date>2026-10-27T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Starter snart</g:custom_label_3>
-      <g:custom_label_4>Kalender - Oktober</g:custom_label_4>
-      <g:internal_label>['Starter snart','Kalender - Oktober']</g:internal_label>
+      <g:internal_label>['Starter snart','Kalender - Oktober','Korsør']</g:internal_label>
     </item>
 <item>
       <g:id>840426</g:id>
@@ -264,10 +264,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Bevægelse og afspænding</g:custom_label_2>
+      <g:custom_label_4>Glumsø</g:custom_label_4>
       <g:start_date>2026-10-27T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Starter snart</g:custom_label_3>
-      <g:custom_label_4>Næstved</g:custom_label_4>
-      <g:internal_label>['Starter snart','Næstved','Kalender - Oktober']</g:internal_label>
+      <g:internal_label>['Starter snart','Næstved','Kalender - Oktober','Glumsø']</g:internal_label>
     </item>
 <item>
       <g:id>821826</g:id>
@@ -286,9 +286,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
       <g:custom_label_2>Aktiviteter med baby</g:custom_label_2>
+      <g:custom_label_4>Næstved</g:custom_label_4>
       <g:start_date>2026-10-28T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Starter snart</g:custom_label_3>
-      <g:custom_label_4>Næstved</g:custom_label_4>
       <g:internal_label>['Starter snart','Næstved','Kalender - Oktober']</g:internal_label>
     </item>
 <item>
@@ -308,9 +308,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
       <g:custom_label_2>Aktiviteter med baby</g:custom_label_2>
+      <g:custom_label_4>Næstved</g:custom_label_4>
       <g:start_date>2026-10-28T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Starter snart</g:custom_label_3>
-      <g:custom_label_4>Næstved</g:custom_label_4>
       <g:internal_label>['Starter snart','Næstved','Kalender - Oktober']</g:internal_label>
     </item>
 <item>
@@ -330,9 +330,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Ringsted</g:custom_label_4>
       <g:start_date>2026-10-28T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Starter snart</g:custom_label_3>
-      <g:custom_label_4>Ringsted</g:custom_label_4>
       <g:internal_label>['Starter snart','Ringsted','Kalender - Oktober']</g:internal_label>
     </item>
 <item>
@@ -352,9 +352,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
       <g:custom_label_2>Aktiviteter med baby</g:custom_label_2>
+      <g:custom_label_4>Næstved</g:custom_label_4>
       <g:start_date>2026-10-28T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Starter snart</g:custom_label_3>
-      <g:custom_label_4>Næstved</g:custom_label_4>
       <g:internal_label>['Starter snart','Næstved','Kalender - Oktober']</g:internal_label>
     </item>
 <item>
@@ -374,9 +374,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>It og foto</g:custom_label_1>
       <g:custom_label_2>Kunstig intelligens - AI</g:custom_label_2>
+      <g:custom_label_4>Ringsted</g:custom_label_4>
       <g:start_date>2026-10-28T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Starter snart</g:custom_label_3>
-      <g:custom_label_4>Ringsted</g:custom_label_4>
       <g:internal_label>['Starter snart','Ringsted','Kalender - Oktober']</g:internal_label>
     </item>
 <item>
@@ -396,9 +396,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Sprog</g:custom_label_1>
       <g:custom_label_2>Spansk</g:custom_label_2>
+      <g:custom_label_4>Ringsted</g:custom_label_4>
       <g:start_date>2026-10-29T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Starter snart</g:custom_label_3>
-      <g:custom_label_4>Ringsted</g:custom_label_4>
       <g:internal_label>['Starter snart','Ringsted','Kalender - Oktober']</g:internal_label>
     </item>
 <item>
@@ -418,9 +418,9 @@
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Sundhed og eksistens</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Slagelse</g:custom_label_4>
       <g:start_date>2026-10-29T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Kalender - Oktober</g:custom_label_3>
-      <g:custom_label_4>Slagelse</g:custom_label_4>
       <g:internal_label>['Kalender - Oktober','Slagelse','Starter snart']</g:internal_label>
     </item>
 <item>
@@ -440,9 +440,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Slagelse</g:custom_label_4>
       <g:start_date>2026-10-30T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Slagelse</g:custom_label_3>
-      <g:custom_label_4>Starter snart</g:custom_label_4>
       <g:internal_label>['Slagelse','Starter snart','Kalender - Oktober']</g:internal_label>
     </item>
 <item>
@@ -462,9 +462,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
       <g:custom_label_2>Aktiviteter med baby</g:custom_label_2>
+      <g:custom_label_4>Næstved</g:custom_label_4>
       <g:start_date>2026-10-30T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Starter snart</g:custom_label_3>
-      <g:custom_label_4>Næstved</g:custom_label_4>
       <g:internal_label>['Starter snart','Næstved','Kalender - Oktober']</g:internal_label>
     </item>
 <item>
@@ -484,9 +484,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
       <g:custom_label_2>Aktiviteter med baby</g:custom_label_2>
+      <g:custom_label_4>Næstved</g:custom_label_4>
       <g:start_date>2026-10-30T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Starter snart</g:custom_label_3>
-      <g:custom_label_4>Næstved</g:custom_label_4>
       <g:internal_label>['Starter snart','Næstved','Kalender - Oktober']</g:internal_label>
     </item>
 <item>
@@ -506,9 +506,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
       <g:custom_label_2>Aktiviteter med baby</g:custom_label_2>
+      <g:custom_label_4>Næstved</g:custom_label_4>
       <g:start_date>2026-10-30T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Starter snart</g:custom_label_3>
-      <g:custom_label_4>Næstved</g:custom_label_4>
       <g:internal_label>['Starter snart','Næstved','Kalender - Oktober']</g:internal_label>
     </item>
 <item>
@@ -528,9 +528,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
       <g:custom_label_2>Asiatisk mad</g:custom_label_2>
+      <g:custom_label_4>Slagelse</g:custom_label_4>
       <g:start_date>2026-10-30T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Kalender - Oktober</g:custom_label_3>
-      <g:custom_label_4>Slagelse</g:custom_label_4>
       <g:internal_label>['Kalender - Oktober','Slagelse','Starter snart']</g:internal_label>
     </item>
 <item>
@@ -550,9 +550,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
       <g:custom_label_2>Efterfødselstræning</g:custom_label_2>
+      <g:custom_label_4>Næstved</g:custom_label_4>
       <g:start_date>2026-10-30T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Starter snart</g:custom_label_3>
-      <g:custom_label_4>Næstved</g:custom_label_4>
       <g:internal_label>['Starter snart','Næstved','Kalender - Oktober']</g:internal_label>
     </item>
 <item>
@@ -572,9 +572,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Tegnekurser</g:custom_label_2>
+      <g:custom_label_4>Næstved</g:custom_label_4>
       <g:start_date>2026-10-31T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Kalender - Oktober</g:custom_label_3>
-      <g:custom_label_4>Starter snart</g:custom_label_4>
       <g:internal_label>['Kalender - Oktober','Starter snart','Næstved','Endagskurser','Nyhed']</g:internal_label>
     </item>
 <item>
@@ -594,9 +594,9 @@
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Samfund og historie</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Slagelse</g:custom_label_4>
       <g:start_date>2026-11-02T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Slagelse</g:custom_label_3>
-      <g:custom_label_4>Starter snart</g:custom_label_4>
       <g:internal_label>['Slagelse','Starter snart','Kalender - November']</g:internal_label>
     </item>
 <item>
@@ -616,9 +616,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Håndarbejde</g:custom_label_2>
+      <g:custom_label_4>Næstved</g:custom_label_4>
       <g:start_date>2026-11-04T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Starter snart</g:custom_label_3>
-      <g:custom_label_4>Næstved</g:custom_label_4>
       <g:internal_label>['Starter snart','Næstved','Kalender - November']</g:internal_label>
     </item>
 <item>
@@ -638,9 +638,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Syning</g:custom_label_2>
+      <g:custom_label_4>Ringsted</g:custom_label_4>
       <g:start_date>2026-11-04T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Starter snart</g:custom_label_3>
-      <g:custom_label_4>Ringsted</g:custom_label_4>
       <g:internal_label>['Starter snart','Ringsted','Kalender - November','Familie']</g:internal_label>
     </item>
 <item>
@@ -660,9 +660,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Mindfulness og meditation</g:custom_label_2>
+      <g:custom_label_4>Slagelse</g:custom_label_4>
       <g:start_date>2026-11-04T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Slagelse</g:custom_label_3>
-      <g:custom_label_4>Nyhed</g:custom_label_4>
       <g:internal_label>['Slagelse','Nyhed','Starter snart','Kalender - November']</g:internal_label>
     </item>
 <item>
@@ -682,9 +682,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>It og foto</g:custom_label_1>
       <g:custom_label_2>Computer og smartphone</g:custom_label_2>
+      <g:custom_label_4>Slagelse</g:custom_label_4>
       <g:start_date>2026-11-05T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Slagelse</g:custom_label_3>
-      <g:custom_label_4>Starter snart</g:custom_label_4>
       <g:internal_label>['Slagelse','Starter snart','Kalender - November']</g:internal_label>
     </item>
 <item>
@@ -704,10 +704,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Malekurser</g:custom_label_2>
+      <g:custom_label_4>Sandved</g:custom_label_4>
       <g:start_date>2026-11-06T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Kalender - November</g:custom_label_3>
-      <g:custom_label_4>Starter snart</g:custom_label_4>
-      <g:internal_label>['Kalender - November','Starter snart','Næstved','Endagskurser','Efterår']</g:internal_label>
+      <g:internal_label>['Kalender - November','Starter snart','Næstved','Endagskurser','Efterår','Sandved']</g:internal_label>
     </item>
 <item>
       <g:id>660426</g:id>
@@ -726,9 +726,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Håndværk og kunsthåndværk</g:custom_label_2>
+      <g:custom_label_4>Ringsted</g:custom_label_4>
       <g:start_date>2026-11-07T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Endagskurser</g:custom_label_3>
-      <g:custom_label_4>Kalender - November</g:custom_label_4>
       <g:internal_label>['Endagskurser','Kalender - November','Starter snart','Ringsted','Nyhed']</g:internal_label>
     </item>
 <item>
@@ -748,9 +748,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Håndarbejde</g:custom_label_2>
+      <g:custom_label_4>Næstved</g:custom_label_4>
       <g:start_date>2026-11-07T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Kalender - November</g:custom_label_3>
-      <g:custom_label_4>Starter snart</g:custom_label_4>
       <g:internal_label>['Kalender - November','Starter snart','Næstved','Endagskurser','Familie','Efterår','Tema - Bæredygtighed']</g:internal_label>
     </item>
 <item>
@@ -770,9 +770,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Mindfulness og meditation</g:custom_label_2>
+      <g:custom_label_4>Næstved</g:custom_label_4>
       <g:start_date>2026-11-07T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Kalender - November</g:custom_label_3>
-      <g:custom_label_4>Starter snart</g:custom_label_4>
       <g:internal_label>['Kalender - November','Starter snart','Næstved']</g:internal_label>
     </item>
 <item>
@@ -792,9 +792,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Håndarbejde</g:custom_label_2>
+      <g:custom_label_4>Slagelse</g:custom_label_4>
       <g:start_date>2026-11-07T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Kalender - November</g:custom_label_3>
-      <g:custom_label_4>Slagelse</g:custom_label_4>
       <g:internal_label>['Kalender - November','Slagelse','Starter snart','Endagskurser']</g:internal_label>
     </item>
 <item>
@@ -814,9 +814,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
       <g:custom_label_2>Bagning og søde sager</g:custom_label_2>
+      <g:custom_label_4>Ringsted</g:custom_label_4>
       <g:start_date>2026-11-08T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Kalender - November</g:custom_label_3>
-      <g:custom_label_4>Starter snart</g:custom_label_4>
       <g:internal_label>['Kalender - November','Starter snart','Ringsted','Familie']</g:internal_label>
     </item>
 <item>
@@ -836,9 +836,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Håndarbejde</g:custom_label_2>
+      <g:custom_label_4>Slagelse</g:custom_label_4>
       <g:start_date>2026-11-08T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Kalender - November</g:custom_label_3>
-      <g:custom_label_4>Slagelse</g:custom_label_4>
       <g:internal_label>['Kalender - November','Slagelse','Starter snart','Endagskurser','Nyhed']</g:internal_label>
     </item>
 <item>
@@ -858,9 +858,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Malekurser</g:custom_label_2>
+      <g:custom_label_4>Sorø</g:custom_label_4>
       <g:start_date>2026-11-08T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Kalender - November</g:custom_label_3>
-      <g:custom_label_4>Starter snart</g:custom_label_4>
       <g:internal_label>['Kalender - November','Starter snart','Sorø','Endagskurser','Jul og nytår']</g:internal_label>
     </item>
 <item>
@@ -880,9 +880,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Styrke- og konditionstræning</g:custom_label_2>
+      <g:custom_label_4>Slagelse</g:custom_label_4>
       <g:start_date>2026-11-09T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Slagelse</g:custom_label_3>
-      <g:custom_label_4>Starter snart</g:custom_label_4>
       <g:internal_label>['Slagelse','Starter snart','Kalender - November']</g:internal_label>
     </item>
 <item>
@@ -902,9 +902,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Bevægelse og afspænding</g:custom_label_2>
+      <g:custom_label_4>Slagelse</g:custom_label_4>
       <g:start_date>2026-11-09T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Slagelse</g:custom_label_3>
-      <g:custom_label_4>Starter snart</g:custom_label_4>
       <g:internal_label>['Slagelse','Starter snart','Kalender - November']</g:internal_label>
     </item>
 <item>
@@ -924,9 +924,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Livsstil og trivsel</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Slagelse</g:custom_label_4>
       <g:start_date>2026-11-09T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Kalender - November</g:custom_label_3>
-      <g:custom_label_4>Slagelse</g:custom_label_4>
       <g:internal_label>['Kalender - November','Slagelse','Starter snart','Endagskurser']</g:internal_label>
     </item>
 <item>
@@ -946,9 +946,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>It og foto</g:custom_label_1>
       <g:custom_label_2>Foto og video</g:custom_label_2>
+      <g:custom_label_4>Sorø</g:custom_label_4>
       <g:start_date>2026-11-10T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Starter snart</g:custom_label_3>
-      <g:custom_label_4>Kalender - November</g:custom_label_4>
       <g:internal_label>['Starter snart','Kalender - November','Sorø']</g:internal_label>
     </item>
 <item>
@@ -968,9 +968,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
       <g:custom_label_2>Aktiviteter med baby</g:custom_label_2>
+      <g:custom_label_4>Ringsted</g:custom_label_4>
       <g:start_date>2026-11-12T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Starter snart</g:custom_label_3>
-      <g:custom_label_4>Ringsted</g:custom_label_4>
       <g:internal_label>['Starter snart','Ringsted','Kalender - November']</g:internal_label>
     </item>
 <item>
@@ -990,9 +990,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Styrke- og konditionstræning</g:custom_label_2>
+      <g:custom_label_4>Sorø</g:custom_label_4>
       <g:start_date>2026-11-12T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Starter snart</g:custom_label_3>
-      <g:custom_label_4>Kalender - November</g:custom_label_4>
       <g:internal_label>['Starter snart','Kalender - November','Sorø','Familie']</g:internal_label>
     </item>
 <item>
@@ -1012,9 +1012,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
       <g:custom_label_2>Aktiviteter med baby</g:custom_label_2>
+      <g:custom_label_4>Ringsted</g:custom_label_4>
       <g:start_date>2026-11-12T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Starter snart</g:custom_label_3>
-      <g:custom_label_4>Ringsted</g:custom_label_4>
       <g:internal_label>['Starter snart','Ringsted','Kalender - November']</g:internal_label>
     </item>
 <item>
@@ -1034,9 +1034,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kulturfag og samfund</g:custom_label_1>
       <g:custom_label_2>Slægtsforskning</g:custom_label_2>
+      <g:custom_label_4>Ringsted</g:custom_label_4>
       <g:start_date>2026-11-14T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Kalender - November</g:custom_label_3>
-      <g:custom_label_4>Ringsted</g:custom_label_4>
       <g:internal_label>['Kalender - November','Ringsted','Starter snart']</g:internal_label>
     </item>
 <item>
@@ -1056,9 +1056,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Syning</g:custom_label_2>
+      <g:custom_label_4>Slagelse</g:custom_label_4>
       <g:start_date>2026-11-14T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Kalender - November</g:custom_label_3>
-      <g:custom_label_4>Slagelse</g:custom_label_4>
       <g:internal_label>['Kalender - November','Slagelse','Starter snart','Endagskurser','Tema - Bæredygtighed']</g:internal_label>
     </item>
 <item>
@@ -1078,9 +1078,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Håndværk og kunsthåndværk</g:custom_label_2>
+      <g:custom_label_4>Ringsted</g:custom_label_4>
       <g:start_date>2026-11-15T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Kalender - November</g:custom_label_3>
-      <g:custom_label_4>Ringsted</g:custom_label_4>
       <g:internal_label>['Kalender - November','Ringsted','Starter snart','Jul og nytår','Endagskurser']</g:internal_label>
     </item>
 <item>
@@ -1100,9 +1100,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
       <g:custom_label_2>Asiatisk mad</g:custom_label_2>
+      <g:custom_label_4>Næstved</g:custom_label_4>
       <g:start_date>2026-11-15T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Kalender - November</g:custom_label_3>
-      <g:custom_label_4>Næstved</g:custom_label_4>
       <g:internal_label>['Kalender - November','Næstved','Starter snart']</g:internal_label>
     </item>
 <item>
@@ -1122,9 +1122,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
       <g:custom_label_2>Bagning og søde sager</g:custom_label_2>
+      <g:custom_label_4>Slagelse</g:custom_label_4>
       <g:start_date>2026-11-16T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Kalender - November</g:custom_label_3>
-      <g:custom_label_4>Slagelse</g:custom_label_4>
       <g:internal_label>['Kalender - November','Slagelse','Familie']</g:internal_label>
     </item>
 <item>
@@ -1144,9 +1144,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
       <g:custom_label_2>Motion for gravide</g:custom_label_2>
+      <g:custom_label_4>Slagelse</g:custom_label_4>
       <g:start_date>2026-11-19T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Slagelse</g:custom_label_3>
-      <g:custom_label_4>Kalender - November</g:custom_label_4>
       <g:internal_label>['Slagelse','Kalender - November']</g:internal_label>
     </item>
 <item>
@@ -1166,9 +1166,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
       <g:custom_label_2>Asiatisk mad</g:custom_label_2>
+      <g:custom_label_4>Ringsted</g:custom_label_4>
       <g:start_date>2026-11-20T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Kalender - November</g:custom_label_3>
-      <g:custom_label_4>Ringsted</g:custom_label_4>
       <g:internal_label>['Kalender - November','Ringsted']</g:internal_label>
     </item>
 <item>
@@ -1188,9 +1188,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Tegnekurser</g:custom_label_2>
+      <g:custom_label_4>Næstved</g:custom_label_4>
       <g:start_date>2026-11-21T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Kalender - November</g:custom_label_3>
-      <g:custom_label_4>Næstved</g:custom_label_4>
       <g:internal_label>['Kalender - November','Næstved','Endagskurser','Nyhed']</g:internal_label>
     </item>
 <item>
@@ -1210,9 +1210,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
       <g:custom_label_2>Bagning og søde sager</g:custom_label_2>
+      <g:custom_label_4>Slagelse</g:custom_label_4>
       <g:start_date>2026-11-21T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Kalender - November</g:custom_label_3>
-      <g:custom_label_4>Slagelse</g:custom_label_4>
       <g:internal_label>['Kalender - November','Slagelse']</g:internal_label>
     </item>
 <item>
@@ -1232,9 +1232,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Håndarbejde</g:custom_label_2>
+      <g:custom_label_4>Sorø</g:custom_label_4>
       <g:start_date>2026-11-21T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Kalender - November</g:custom_label_3>
-      <g:custom_label_4>Sorø</g:custom_label_4>
       <g:internal_label>['Kalender - November','Sorø','Endagskurser','Nyhed','Jul og nytår']</g:internal_label>
     </item>
 <item>
@@ -1254,9 +1254,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
       <g:custom_label_2>Bagning og søde sager</g:custom_label_2>
+      <g:custom_label_4>Slagelse</g:custom_label_4>
       <g:start_date>2026-11-21T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Kalender - November</g:custom_label_3>
-      <g:custom_label_4>Slagelse</g:custom_label_4>
       <g:internal_label>['Kalender - November','Slagelse','Familie']</g:internal_label>
     </item>
 <item>
@@ -1276,9 +1276,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Håndarbejde</g:custom_label_2>
+      <g:custom_label_4>Ringsted</g:custom_label_4>
       <g:start_date>2026-11-21T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Kalender - November</g:custom_label_3>
-      <g:custom_label_4>Ringsted</g:custom_label_4>
       <g:internal_label>['Kalender - November','Ringsted','Endagskurser']</g:internal_label>
     </item>
 <item>
@@ -1298,9 +1298,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Håndværk og kunsthåndværk</g:custom_label_2>
+      <g:custom_label_4>Næstved</g:custom_label_4>
       <g:start_date>2026-11-22T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Kalender - November</g:custom_label_3>
-      <g:custom_label_4>Næstved</g:custom_label_4>
       <g:internal_label>['Kalender - November','Næstved','Jul og nytår','Endagskurser']</g:internal_label>
     </item>
 <item>
@@ -1320,9 +1320,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Malekurser</g:custom_label_2>
+      <g:custom_label_4>Ringsted</g:custom_label_4>
       <g:start_date>2026-11-22T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Kalender - November</g:custom_label_3>
-      <g:custom_label_4>Ringsted</g:custom_label_4>
       <g:internal_label>['Kalender - November','Ringsted','Endagskurser','Jul og nytår']</g:internal_label>
     </item>
 <item>
@@ -1342,9 +1342,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
       <g:custom_label_2>Aktiviteter med baby</g:custom_label_2>
+      <g:custom_label_4>Ringsted</g:custom_label_4>
       <g:start_date>2026-11-23T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Ringsted</g:custom_label_3>
-      <g:custom_label_4>Kalender - November</g:custom_label_4>
       <g:internal_label>['Ringsted','Kalender - November']</g:internal_label>
     </item>
 <item>
@@ -1364,9 +1364,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
       <g:custom_label_2>Aktiviteter med baby</g:custom_label_2>
+      <g:custom_label_4>Ringsted</g:custom_label_4>
       <g:start_date>2026-11-23T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Ringsted</g:custom_label_3>
-      <g:custom_label_4>Kalender - November</g:custom_label_4>
       <g:internal_label>['Ringsted','Kalender - November']</g:internal_label>
     </item>
 <item>
@@ -1386,9 +1386,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
       <g:custom_label_2>Aktiviteter med baby</g:custom_label_2>
+      <g:custom_label_4>Sorø</g:custom_label_4>
       <g:start_date>2026-11-23T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Kalender - November</g:custom_label_3>
-      <g:custom_label_4>Sorø</g:custom_label_4>
       <g:internal_label>['Kalender - November','Sorø']</g:internal_label>
     </item>
 <item>
@@ -1408,9 +1408,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
       <g:custom_label_2>Aktiviteter med baby</g:custom_label_2>
+      <g:custom_label_4>Sorø</g:custom_label_4>
       <g:start_date>2026-11-23T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Kalender - November</g:custom_label_3>
-      <g:custom_label_4>Sorø</g:custom_label_4>
       <g:internal_label>['Kalender - November','Sorø']</g:internal_label>
     </item>
 <item>
@@ -1430,9 +1430,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
       <g:custom_label_2>Asiatisk mad</g:custom_label_2>
+      <g:custom_label_4>Slagelse</g:custom_label_4>
       <g:start_date>2026-11-27T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Kalender - November</g:custom_label_3>
-      <g:custom_label_4>Slagelse</g:custom_label_4>
       <g:internal_label>['Kalender - November','Slagelse']</g:internal_label>
     </item>
 <item>
@@ -1452,9 +1452,9 @@
       <g:custom_label_0>Rejser, ture og rundvisninger</g:custom_label_0>
       <g:custom_label_1>Udflugter og dagsture</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4></g:custom_label_4>
       <g:start_date>2026-11-28T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Kalender - November</g:custom_label_3>
-      <g:custom_label_4>Jul og nytår</g:custom_label_4>
       <g:internal_label>['Kalender - November','Jul og nytår']</g:internal_label>
     </item>
 <item>
@@ -1474,9 +1474,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Håndværk og kunsthåndværk</g:custom_label_2>
+      <g:custom_label_4>Slagelse</g:custom_label_4>
       <g:start_date>2026-11-29T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Kalender - November</g:custom_label_3>
-      <g:custom_label_4>Slagelse</g:custom_label_4>
       <g:internal_label>['Kalender - November','Slagelse','Jul og nytår','Endagskurser']</g:internal_label>
     </item>
 <item>
@@ -1496,9 +1496,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Smykkekurser</g:custom_label_2>
+      <g:custom_label_4>Slagelse</g:custom_label_4>
       <g:start_date>2026-12-12T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Slagelse</g:custom_label_3>
-      <g:custom_label_4>Kalender - December</g:custom_label_4>
       <g:internal_label>['Slagelse','Kalender - December','Endagskurser']</g:internal_label>
     </item>
 <item>
@@ -1518,6 +1518,7 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
       <g:custom_label_2>Motion for gravide</g:custom_label_2>
+      <g:custom_label_4>Næstved</g:custom_label_4>
       <g:start_date>2027-01-06T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Næstved</g:custom_label_3>
       <g:internal_label>['Næstved']</g:internal_label>
@@ -1539,7 +1540,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
       <g:custom_label_2>Aktiviteter med baby</g:custom_label_2>
+      <g:custom_label_4>Skælskør</g:custom_label_4>
       <g:start_date>2027-01-12T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Skælskør']</g:internal_label>
     </item>
 <item>
       <g:id>827627</g:id>
@@ -1558,6 +1561,7 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
       <g:custom_label_2>Aktiviteter med baby</g:custom_label_2>
+      <g:custom_label_4>Næstved</g:custom_label_4>
       <g:start_date>2027-01-13T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Næstved</g:custom_label_3>
       <g:internal_label>['Næstved']</g:internal_label>
@@ -1579,6 +1583,7 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
       <g:custom_label_2>Aktiviteter med baby</g:custom_label_2>
+      <g:custom_label_4>Næstved</g:custom_label_4>
       <g:start_date>2027-01-13T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Næstved</g:custom_label_3>
       <g:internal_label>['Næstved']</g:internal_label>
@@ -1600,6 +1605,7 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
       <g:custom_label_2>Aktiviteter med baby</g:custom_label_2>
+      <g:custom_label_4>Næstved</g:custom_label_4>
       <g:start_date>2027-01-13T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Næstved</g:custom_label_3>
       <g:internal_label>['Næstved']</g:internal_label>
@@ -1621,6 +1627,7 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
       <g:custom_label_2>Aktiviteter med baby</g:custom_label_2>
+      <g:custom_label_4>Næstved</g:custom_label_4>
       <g:start_date>2027-01-13T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Næstved</g:custom_label_3>
       <g:internal_label>['Næstved']</g:internal_label>
@@ -1642,6 +1649,7 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
       <g:custom_label_2>Aktiviteter med baby</g:custom_label_2>
+      <g:custom_label_4>Slagelse</g:custom_label_4>
       <g:start_date>2027-01-14T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Slagelse</g:custom_label_3>
       <g:internal_label>['Slagelse']</g:internal_label>
@@ -1663,6 +1671,7 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
       <g:custom_label_2>Aktiviteter med baby</g:custom_label_2>
+      <g:custom_label_4>Ringsted</g:custom_label_4>
       <g:start_date>2027-01-14T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Ringsted</g:custom_label_3>
       <g:internal_label>['Ringsted']</g:internal_label>
@@ -1684,6 +1693,7 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
       <g:custom_label_2>Motion for gravide</g:custom_label_2>
+      <g:custom_label_4>Slagelse</g:custom_label_4>
       <g:start_date>2027-01-14T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Slagelse</g:custom_label_3>
       <g:internal_label>['Slagelse']</g:internal_label>
@@ -1705,6 +1715,7 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
       <g:custom_label_2>Aktiviteter med baby</g:custom_label_2>
+      <g:custom_label_4>Slagelse</g:custom_label_4>
       <g:start_date>2027-01-14T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Slagelse</g:custom_label_3>
       <g:internal_label>['Slagelse']</g:internal_label>
@@ -1726,6 +1737,7 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
       <g:custom_label_2>Aktiviteter med baby</g:custom_label_2>
+      <g:custom_label_4>Ringsted</g:custom_label_4>
       <g:start_date>2027-01-14T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Ringsted</g:custom_label_3>
       <g:internal_label>['Ringsted']</g:internal_label>
@@ -1747,6 +1759,7 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
       <g:custom_label_2>Aktiviteter med baby</g:custom_label_2>
+      <g:custom_label_4>Næstved</g:custom_label_4>
       <g:start_date>2027-01-15T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Næstved</g:custom_label_3>
       <g:internal_label>['Næstved']</g:internal_label>
@@ -1768,6 +1781,7 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
       <g:custom_label_2>Aktiviteter med baby</g:custom_label_2>
+      <g:custom_label_4>Næstved</g:custom_label_4>
       <g:start_date>2027-01-15T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Næstved</g:custom_label_3>
       <g:internal_label>['Næstved']</g:internal_label>
@@ -1789,6 +1803,7 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
       <g:custom_label_2>Efterfødselstræning</g:custom_label_2>
+      <g:custom_label_4>Næstved</g:custom_label_4>
       <g:start_date>2027-01-15T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Næstved</g:custom_label_3>
       <g:internal_label>['Næstved']</g:internal_label>
@@ -1810,6 +1825,7 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
       <g:custom_label_2>Aktiviteter med baby</g:custom_label_2>
+      <g:custom_label_4>Næstved</g:custom_label_4>
       <g:start_date>2027-01-15T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Næstved</g:custom_label_3>
       <g:internal_label>['Næstved']</g:internal_label>
@@ -1831,6 +1847,7 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
       <g:custom_label_2>Aktiviteter med baby</g:custom_label_2>
+      <g:custom_label_4>Sorø</g:custom_label_4>
       <g:start_date>2027-01-18T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Sorø</g:custom_label_3>
       <g:internal_label>['Sorø']</g:internal_label>
@@ -1852,6 +1869,7 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
       <g:custom_label_2>Aktiviteter med baby</g:custom_label_2>
+      <g:custom_label_4>Sorø</g:custom_label_4>
       <g:start_date>2027-01-18T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Sorø</g:custom_label_3>
       <g:internal_label>['Sorø']</g:internal_label>
@@ -1873,9 +1891,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
       <g:custom_label_2>Fest- og hverdagsmad</g:custom_label_2>
+      <g:custom_label_4>Slagelse</g:custom_label_4>
       <g:start_date>2027-01-22T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Slagelse</g:custom_label_3>
-      <g:custom_label_4>Sund mad</g:custom_label_4>
       <g:internal_label>['Slagelse','Sund mad']</g:internal_label>
     </item>
 <item>
@@ -1895,9 +1913,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Familie, børn og unge</g:custom_label_1>
       <g:custom_label_2>Motion, dans og drama</g:custom_label_2>
+      <g:custom_label_4>Slagelse</g:custom_label_4>
       <g:start_date>2027-01-23T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Slagelse</g:custom_label_3>
-      <g:custom_label_4>Nyhed</g:custom_label_4>
       <g:internal_label>['Slagelse','Nyhed']</g:internal_label>
     </item>
 <item>
@@ -1917,9 +1935,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Familie, børn og unge</g:custom_label_1>
       <g:custom_label_2>Motion, dans og drama</g:custom_label_2>
+      <g:custom_label_4>Slagelse</g:custom_label_4>
       <g:start_date>2027-01-23T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Slagelse</g:custom_label_3>
-      <g:custom_label_4>Nyhed</g:custom_label_4>
       <g:internal_label>['Slagelse','Nyhed']</g:internal_label>
     </item>
 <item>
@@ -1939,6 +1957,7 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
       <g:custom_label_2>Aktiviteter med baby</g:custom_label_2>
+      <g:custom_label_4>Ringsted</g:custom_label_4>
       <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Ringsted</g:custom_label_3>
       <g:internal_label>['Ringsted']</g:internal_label>
@@ -1960,6 +1979,7 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
       <g:custom_label_2>Aktiviteter med baby</g:custom_label_2>
+      <g:custom_label_4>Ringsted</g:custom_label_4>
       <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Ringsted</g:custom_label_3>
       <g:internal_label>['Ringsted']</g:internal_label>
@@ -1981,7 +2001,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Familie, børn og unge</g:custom_label_1>
       <g:custom_label_2>Motion, dans og drama</g:custom_label_2>
+      <g:custom_label_4>Korsør</g:custom_label_4>
       <g:start_date>2027-01-27T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Korsør']</g:internal_label>
     </item>
 <item>
       <g:id>680526</g:id>
@@ -2000,9 +2022,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
       <g:custom_label_2>Fest- og hverdagsmad</g:custom_label_2>
+      <g:custom_label_4>Ringsted</g:custom_label_4>
       <g:start_date>2027-01-29T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Ringsted</g:custom_label_3>
-      <g:custom_label_4>Sund mad</g:custom_label_4>
       <g:internal_label>['Ringsted','Sund mad']</g:internal_label>
     </item>
 <item>
@@ -2022,9 +2044,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
       <g:custom_label_2>Fest- og hverdagsmad</g:custom_label_2>
+      <g:custom_label_4>Næstved</g:custom_label_4>
       <g:start_date>2027-01-31T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Næstved</g:custom_label_3>
-      <g:custom_label_4>Sund mad</g:custom_label_4>
       <g:internal_label>['Næstved','Sund mad']</g:internal_label>
     </item>
 <item>
@@ -2044,6 +2066,7 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Natur og udeliv</g:custom_label_1>
       <g:custom_label_2>Jagt og fiskeri</g:custom_label_2>
+      <g:custom_label_4>Slagelse</g:custom_label_4>
       <g:start_date>2027-02-03T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Slagelse</g:custom_label_3>
       <g:internal_label>['Slagelse']</g:internal_label>
@@ -2065,6 +2088,7 @@
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Sundhed og eksistens</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Slagelse</g:custom_label_4>
       <g:start_date>2027-03-01T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Slagelse</g:custom_label_3>
       <g:internal_label>['Slagelse']</g:internal_label>
@@ -2086,9 +2110,9 @@
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Samfund og historie</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Næstved</g:custom_label_4>
       <g:start_date>2027-03-01T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Næstved</g:custom_label_3>
-      <g:custom_label_4>Tema - Bæredygtighed</g:custom_label_4>
       <g:internal_label>['Næstved','Tema - Bæredygtighed']</g:internal_label>
     </item>
 <item>
@@ -2108,6 +2132,7 @@
       <g:custom_label_0>Rejser, ture og rundvisninger</g:custom_label_0>
       <g:custom_label_1>Udflugter og dagsture</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4></g:custom_label_4>
       <g:start_date>2027-03-06T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Teater og musicals</g:custom_label_3>
       <g:internal_label>['Teater og musicals']</g:internal_label>
@@ -2129,6 +2154,7 @@
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Sundhed og eksistens</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Slagelse</g:custom_label_4>
       <g:start_date>2027-03-08T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Slagelse</g:custom_label_3>
       <g:internal_label>['Slagelse']</g:internal_label>
@@ -2150,9 +2176,9 @@
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Natur og haver</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Slagelse</g:custom_label_4>
       <g:start_date>2027-03-15T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Slagelse</g:custom_label_3>
-      <g:custom_label_4>Tema - Bæredygtighed</g:custom_label_4>
       <g:internal_label>['Slagelse','Tema - Bæredygtighed']</g:internal_label>
     </item>
 <item>
@@ -2172,6 +2198,7 @@
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>True crime</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Næstved</g:custom_label_4>
       <g:start_date>2027-03-15T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Næstved</g:custom_label_3>
       <g:internal_label>['Næstved']</g:internal_label>
@@ -2193,6 +2220,7 @@
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Kultur og livsfortællinger</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Slagelse</g:custom_label_4>
       <g:start_date>2027-03-31T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Slagelse</g:custom_label_3>
       <g:internal_label>['Slagelse']</g:internal_label>
@@ -2214,9 +2242,9 @@
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Sundhed og eksistens</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Sorø</g:custom_label_4>
       <g:start_date>2027-04-01T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Sorø</g:custom_label_3>
-      <g:custom_label_4>Tema - Bæredygtighed</g:custom_label_4>
       <g:internal_label>['Sorø','Tema - Bæredygtighed']</g:internal_label>
     </item>
 <item>
@@ -2236,6 +2264,7 @@
       <g:custom_label_0>Rejser, ture og rundvisninger</g:custom_label_0>
       <g:custom_label_1>Udflugter og dagsture</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4></g:custom_label_4>
       <g:start_date>2027-04-03T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Teater og musicals</g:custom_label_3>
       <g:internal_label>['Teater og musicals']</g:internal_label>
@@ -2257,6 +2286,7 @@
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Samfund og historie</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Slagelse</g:custom_label_4>
       <g:start_date>2027-04-08T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Slagelse</g:custom_label_3>
       <g:internal_label>['Slagelse']</g:internal_label>
@@ -2278,9 +2308,9 @@
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Natur og haver</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Sorø</g:custom_label_4>
       <g:start_date>2027-04-09T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Sorø</g:custom_label_3>
-      <g:custom_label_4>Foredrag</g:custom_label_4>
       <g:internal_label>['Sorø','Foredrag']</g:internal_label>
     </item>
 <item>
@@ -2300,6 +2330,7 @@
       <g:custom_label_0>Rejser, ture og rundvisninger</g:custom_label_0>
       <g:custom_label_1>Udflugter og dagsture</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4></g:custom_label_4>
       <g:start_date>2027-08-15T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Teater og musicals</g:custom_label_3>
       <g:internal_label>['Teater og musicals']</g:internal_label>

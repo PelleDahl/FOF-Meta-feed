@@ -22,9 +22,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Natur og udeliv</g:custom_label_1>
       <g:custom_label_2>Sejlads</g:custom_label_2>
+      <g:custom_label_4>Grenaa</g:custom_label_4>
       <g:start_date>2026-10-24T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Grenaa</g:custom_label_3>
-      <g:custom_label_4>Nyhed</g:custom_label_4>
       <g:internal_label>['Grenaa','Nyhed','Korte kurser','Alt det andet']</g:internal_label>
     </item>
 <item>
@@ -44,9 +44,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Håndværk og kunsthåndværk</g:custom_label_2>
+      <g:custom_label_4>Ebeltoft</g:custom_label_4>
       <g:start_date>2026-10-24T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Ebeltoft</g:custom_label_3>
-      <g:custom_label_4>Korte kurser</g:custom_label_4>
       <g:internal_label>['Ebeltoft','Korte kurser','Kreative fag','Diy og andet håndværk']</g:internal_label>
     </item>
 <item>
@@ -66,9 +66,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Førstehjælp</g:custom_label_2>
+      <g:custom_label_4>Kolind</g:custom_label_4>
       <g:start_date>2026-10-24T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Kolind</g:custom_label_3>
-      <g:custom_label_4>Nyhed</g:custom_label_4>
       <g:internal_label>['Kolind','Nyhed','Korte kurser','Livsstil og trivsel','Bevægelse']</g:internal_label>
     </item>
 <item>
@@ -88,9 +88,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Grenaa</g:custom_label_4>
       <g:start_date>2026-10-25T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Grenaa</g:custom_label_3>
-      <g:custom_label_4>Korte kurser</g:custom_label_4>
       <g:internal_label>['Grenaa','Korte kurser','Nyhed','Bevægelse','Yoga','Livsstil og trivsel']</g:internal_label>
     </item>
 <item>
@@ -110,9 +110,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
       <g:custom_label_2>Motion for gravide</g:custom_label_2>
+      <g:custom_label_4>Auning</g:custom_label_4>
       <g:start_date>2026-10-26T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Nyhed</g:custom_label_3>
-      <g:custom_label_4>Familie</g:custom_label_4>
       <g:internal_label>['Nyhed','Familie','Auning']</g:internal_label>
     </item>
 <item>
@@ -132,10 +132,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
       <g:custom_label_2>Aktiviteter med baby</g:custom_label_2>
+      <g:custom_label_4>Rønde</g:custom_label_4>
       <g:start_date>2026-10-27T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Ebeltoft</g:custom_label_3>
-      <g:custom_label_4>Nyhed</g:custom_label_4>
-      <g:internal_label>['Ebeltoft','Nyhed','Bevægelse','Familie']</g:internal_label>
+      <g:internal_label>['Ebeltoft','Nyhed','Bevægelse','Familie','Rønde']</g:internal_label>
     </item>
 <item>
       <g:id>264511</g:id>
@@ -154,10 +154,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
       <g:custom_label_2>Aktiviteter med baby</g:custom_label_2>
+      <g:custom_label_4>Ebeltoft</g:custom_label_4>
       <g:start_date>2026-10-29T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Tirstrup</g:custom_label_3>
-      <g:custom_label_4>Familie</g:custom_label_4>
-      <g:internal_label>['Tirstrup','Familie','Bevægelse i vand']</g:internal_label>
+      <g:internal_label>['Tirstrup','Familie','Bevægelse i vand','Ebeltoft']</g:internal_label>
     </item>
 <item>
       <g:id>262522</g:id>
@@ -176,9 +176,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
       <g:custom_label_2>Aktiviteter med baby</g:custom_label_2>
+      <g:custom_label_4>Auning</g:custom_label_4>
       <g:start_date>2026-10-29T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Auning</g:custom_label_3>
-      <g:custom_label_4>Nyhed</g:custom_label_4>
       <g:internal_label>['Auning','Nyhed','Familie']</g:internal_label>
     </item>
 <item>
@@ -198,9 +198,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Malekurser</g:custom_label_2>
+      <g:custom_label_4>Rønde</g:custom_label_4>
       <g:start_date>2026-10-31T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Grenaa</g:custom_label_3>
-      <g:custom_label_4>Rønde</g:custom_label_4>
       <g:internal_label>['Grenaa','Rønde','Nyhed','Korte kurser','Kreative fag','Male- og tegnekurser']</g:internal_label>
     </item>
 <item>
@@ -220,9 +220,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Håndværk og kunsthåndværk</g:custom_label_2>
+      <g:custom_label_4>Knebel</g:custom_label_4>
       <g:start_date>2026-10-31T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Agri</g:custom_label_3>
-      <g:custom_label_4>Mols</g:custom_label_4>
       <g:internal_label>['Agri','Mols','Nyhed','Korte kurser','Diy og andet håndværk','Kreative fag','Knebel','Vrinners']</g:internal_label>
     </item>
 <item>
@@ -242,9 +242,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Natur og udeliv</g:custom_label_1>
       <g:custom_label_2>Jagt og fiskeri</g:custom_label_2>
+      <g:custom_label_4>Kolind</g:custom_label_4>
       <g:start_date>2026-11-04T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Kolind</g:custom_label_3>
-      <g:custom_label_4>Natur og udeliv</g:custom_label_4>
       <g:internal_label>['Kolind','Natur og udeliv']</g:internal_label>
     </item>
 <item>
@@ -264,9 +264,9 @@
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Samfund og historie</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Grenaa</g:custom_label_4>
       <g:start_date>2026-11-05T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Grenaa</g:custom_label_3>
-      <g:custom_label_4>Foredrag</g:custom_label_4>
       <g:internal_label>['Grenaa','Foredrag']</g:internal_label>
     </item>
 <item>
@@ -286,9 +286,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Håndværk og kunsthåndværk</g:custom_label_2>
+      <g:custom_label_4>Ebeltoft</g:custom_label_4>
       <g:start_date>2026-11-07T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Ebeltoft</g:custom_label_3>
-      <g:custom_label_4>Korte kurser</g:custom_label_4>
       <g:internal_label>['Ebeltoft','Korte kurser','Kreative fag','Diy og andet håndværk']</g:internal_label>
     </item>
 <item>
@@ -308,9 +308,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
       <g:custom_label_2>Bagning og søde sager</g:custom_label_2>
+      <g:custom_label_4>Grenaa</g:custom_label_4>
       <g:start_date>2026-11-07T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Grenaa</g:custom_label_3>
-      <g:custom_label_4>Nyhed</g:custom_label_4>
       <g:internal_label>['Grenaa','Nyhed','Korte kurser','Madlavning']</g:internal_label>
     </item>
 <item>
@@ -330,9 +330,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
       <g:custom_label_2>Bagning og søde sager</g:custom_label_2>
+      <g:custom_label_4>Grenaa</g:custom_label_4>
       <g:start_date>2026-11-07T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Grenaa</g:custom_label_3>
-      <g:custom_label_4>Nyhed</g:custom_label_4>
       <g:internal_label>['Grenaa','Nyhed','Korte kurser','Madlavning']</g:internal_label>
     </item>
 <item>
@@ -352,9 +352,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
       <g:custom_label_2>Bagning og søde sager</g:custom_label_2>
+      <g:custom_label_4>Grenaa</g:custom_label_4>
       <g:start_date>2026-11-08T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Grenaa</g:custom_label_3>
-      <g:custom_label_4>Korte kurser</g:custom_label_4>
       <g:internal_label>['Grenaa','Korte kurser','Madlavning','Nyhed']</g:internal_label>
     </item>
 <item>
@@ -374,10 +374,10 @@
       <g:custom_label_0>Rejser, ture og rundvisninger</g:custom_label_0>
       <g:custom_label_1>Rundvisninger</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Kolind</g:custom_label_4>
       <g:start_date>2026-11-12T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Ørum</g:custom_label_3>
-      <g:custom_label_4>Korte kurser</g:custom_label_4>
-      <g:internal_label>['Ørum','Korte kurser','Virksomhedsbesøg']</g:internal_label>
+      <g:internal_label>['Ørum','Korte kurser','Virksomhedsbesøg','Kolind']</g:internal_label>
     </item>
 <item>
       <g:id>264651</g:id>
@@ -396,9 +396,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
       <g:custom_label_2>Bagning og søde sager</g:custom_label_2>
+      <g:custom_label_4>Hornslet</g:custom_label_4>
       <g:start_date>2026-11-12T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Hornslet</g:custom_label_3>
-      <g:custom_label_4>Nyhed</g:custom_label_4>
       <g:internal_label>['Hornslet','Nyhed','Korte kurser','Madlavning']</g:internal_label>
     </item>
 <item>
@@ -418,9 +418,9 @@
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Samfund og historie</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Rønde</g:custom_label_4>
       <g:start_date>2026-11-16T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Rønde</g:custom_label_3>
-      <g:custom_label_4>Foredrag</g:custom_label_4>
       <g:internal_label>['Rønde','Foredrag']</g:internal_label>
     </item>
 <item>
@@ -440,10 +440,10 @@
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Natur og haver</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Glesborg</g:custom_label_4>
       <g:start_date>2026-11-19T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Grenaa</g:custom_label_3>
-      <g:custom_label_4>Korte kurser</g:custom_label_4>
-      <g:internal_label>['Grenaa','Korte kurser','Foredrag']</g:internal_label>
+      <g:internal_label>['Grenaa','Korte kurser','Foredrag','Glesborg']</g:internal_label>
     </item>
 <item>
       <g:id>264456</g:id>
@@ -462,9 +462,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Blomsterbinding</g:custom_label_2>
+      <g:custom_label_4>Hornslet</g:custom_label_4>
       <g:start_date>2026-11-19T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Hornslet</g:custom_label_3>
-      <g:custom_label_4>Korte kurser</g:custom_label_4>
       <g:internal_label>['Hornslet','Korte kurser','Kreative fag','Diy og andet håndværk']</g:internal_label>
     </item>
 <item>
@@ -484,10 +484,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Malekurser</g:custom_label_2>
+      <g:custom_label_4>Knebel</g:custom_label_4>
       <g:start_date>2026-11-21T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Mols</g:custom_label_3>
-      <g:custom_label_4>Vrinners</g:custom_label_4>
-      <g:internal_label>['Mols','Vrinners','Korte kurser','Kreative fag','Male- og tegnekurser']</g:internal_label>
+      <g:internal_label>['Mols','Vrinners','Korte kurser','Kreative fag','Male- og tegnekurser','Knebel']</g:internal_label>
     </item>
 <item>
       <g:id>262349</g:id>
@@ -506,9 +506,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Ørsted</g:custom_label_4>
       <g:start_date>2026-11-25T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Ørsted</g:custom_label_3>
-      <g:custom_label_4>Auning</g:custom_label_4>
       <g:internal_label>['Ørsted','Auning','Korte kurser','Hensyntagende','Bevægelse','Yoga']</g:internal_label>
     </item>
 <item>
@@ -528,9 +528,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Pilates</g:custom_label_2>
+      <g:custom_label_4>Hornslet</g:custom_label_4>
       <g:start_date>2027-01-04T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Hornslet</g:custom_label_3>
-      <g:custom_label_4>Bevægelse</g:custom_label_4>
       <g:internal_label>['Hornslet','Bevægelse','Pilates','Hensyntagende']</g:internal_label>
     </item>
 <item>
@@ -550,9 +550,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Mørke</g:custom_label_4>
       <g:start_date>2027-01-08T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Mørke</g:custom_label_3>
-      <g:custom_label_4>Hensyntagende</g:custom_label_4>
       <g:internal_label>['Mørke','Hensyntagende','Bevægelse','Yoga']</g:internal_label>
     </item>
 <item>
@@ -572,9 +572,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Musik og sang</g:custom_label_1>
       <g:custom_label_2>Sammenspil og orkestre</g:custom_label_2>
+      <g:custom_label_4>Rønde</g:custom_label_4>
       <g:start_date>2027-01-12T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Rønde</g:custom_label_3>
-      <g:custom_label_4>Musik og sang</g:custom_label_4>
       <g:internal_label>['Rønde','Musik og sang']</g:internal_label>
     </item>
 <item>
@@ -594,9 +594,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Træning i vand</g:custom_label_2>
+      <g:custom_label_4>Grenaa</g:custom_label_4>
       <g:start_date>2027-01-18T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Grenaa</g:custom_label_3>
-      <g:custom_label_4>Auning</g:custom_label_4>
       <g:internal_label>['Grenaa','Auning','Hensyntagende','Bevægelse','Bevægelse i vand','Nyhed']</g:internal_label>
     </item>
 <item>
@@ -616,9 +616,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Grenaa</g:custom_label_4>
       <g:start_date>2027-01-20T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Grenaa</g:custom_label_3>
-      <g:custom_label_4>Nyhed</g:custom_label_4>
       <g:internal_label>['Grenaa','Nyhed','Bevægelse','Yoga']</g:internal_label>
     </item>
 <item>
@@ -638,9 +638,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Grenaa</g:custom_label_4>
       <g:start_date>2027-01-27T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Grenaa</g:custom_label_3>
-      <g:custom_label_4>Nyhed</g:custom_label_4>
       <g:internal_label>['Grenaa','Nyhed','Bevægelse','Yoga']</g:internal_label>
     </item>
 <item>
@@ -660,9 +660,9 @@
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Sundhed og eksistens</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Kolind</g:custom_label_4>
       <g:start_date>2027-01-28T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Kolind</g:custom_label_3>
-      <g:custom_label_4>Korte kurser</g:custom_label_4>
       <g:internal_label>['Kolind','Korte kurser','Foredrag']</g:internal_label>
     </item>
 <item>
@@ -682,9 +682,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Tai Chi og Qi Gong</g:custom_label_2>
+      <g:custom_label_4>Grenaa</g:custom_label_4>
       <g:start_date>2027-02-03T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Grenaa</g:custom_label_3>
-      <g:custom_label_4>Nyhed</g:custom_label_4>
       <g:internal_label>['Grenaa','Nyhed','Hensyntagende','Bevægelse','Qigong']</g:internal_label>
     </item>
 <item>
@@ -704,9 +704,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Tai Chi og Qi Gong</g:custom_label_2>
+      <g:custom_label_4>Grenaa</g:custom_label_4>
       <g:start_date>2027-02-10T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Grenaa</g:custom_label_3>
-      <g:custom_label_4>Nyhed</g:custom_label_4>
       <g:internal_label>['Grenaa','Nyhed','Hensyntagende','Bevægelse','Qigong']</g:internal_label>
     </item>
 <item>
@@ -726,9 +726,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>It og foto</g:custom_label_1>
       <g:custom_label_2>Computer og smartphone</g:custom_label_2>
+      <g:custom_label_4>Grenaa</g:custom_label_4>
       <g:start_date>2027-03-03T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Grenaa</g:custom_label_3>
-      <g:custom_label_4>Nyhed</g:custom_label_4>
       <g:internal_label>['Grenaa','Nyhed','Korte kurser','It']</g:internal_label>
     </item>
 <item>
@@ -748,9 +748,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Rønde</g:custom_label_4>
       <g:start_date>2027-03-04T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Rønde</g:custom_label_3>
-      <g:custom_label_4>Nyhed</g:custom_label_4>
       <g:internal_label>['Rønde','Nyhed','Korte kurser','Hensyntagende','Bevægelse','Yoga']</g:internal_label>
     </item>
 <item>
@@ -770,9 +770,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Håndværk og kunsthåndværk</g:custom_label_2>
+      <g:custom_label_4>Trustrup</g:custom_label_4>
       <g:start_date>2027-03-06T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Trustrup</g:custom_label_3>
-      <g:custom_label_4>Korte kurser</g:custom_label_4>
       <g:internal_label>['Trustrup','Korte kurser','Kreative fag','Diy og andet håndværk']</g:internal_label>
     </item>
 <item>
@@ -792,9 +792,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>It og foto</g:custom_label_1>
       <g:custom_label_2>Foto og video</g:custom_label_2>
+      <g:custom_label_4>Grenaa</g:custom_label_4>
       <g:start_date>2027-03-09T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Grenaa</g:custom_label_3>
-      <g:custom_label_4>Nyhed</g:custom_label_4>
       <g:internal_label>['Grenaa','Nyhed','Korte kurser','It']</g:internal_label>
     </item>
 <item>
@@ -814,9 +814,9 @@
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Samfund og historie</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Grenaa</g:custom_label_4>
       <g:start_date>2027-03-11T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Grenaa</g:custom_label_3>
-      <g:custom_label_4>Korte kurser</g:custom_label_4>
       <g:internal_label>['Grenaa','Korte kurser','Foredrag']</g:internal_label>
     </item>
 <item>
@@ -836,9 +836,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Håndværk og kunsthåndværk</g:custom_label_2>
+      <g:custom_label_4>Grenaa</g:custom_label_4>
       <g:start_date>2027-03-13T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Grenaa</g:custom_label_3>
-      <g:custom_label_4>Korte kurser</g:custom_label_4>
       <g:internal_label>['Grenaa','Korte kurser','Kreative fag','Diy og andet håndværk']</g:internal_label>
     </item>
 <item>
@@ -858,10 +858,10 @@
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Samfund og historie</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Grenaa</g:custom_label_4>
       <g:start_date>2027-03-16T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Ebeltoft</g:custom_label_3>
-      <g:custom_label_4>Infoaften</g:custom_label_4>
-      <g:internal_label>['Ebeltoft','Infoaften','Korte kurser','Foredrag']</g:internal_label>
+      <g:internal_label>['Ebeltoft','Infoaften','Korte kurser','Foredrag','Grenaa']</g:internal_label>
     </item>
 <item>
       <g:id>273969</g:id>
@@ -880,9 +880,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Blomsterbinding</g:custom_label_2>
+      <g:custom_label_4>Ryomgård</g:custom_label_4>
       <g:start_date>2027-03-22T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Ryomgård</g:custom_label_3>
-      <g:custom_label_4>Kreative fag</g:custom_label_4>
       <g:internal_label>['Ryomgård','Kreative fag','Diy og andet håndværk']</g:internal_label>
     </item>
 <item>
@@ -902,10 +902,10 @@
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Samfund og historie</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Hornslet</g:custom_label_4>
       <g:start_date>2027-04-14T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Grenaa</g:custom_label_3>
-      <g:custom_label_4>Infoaften</g:custom_label_4>
-      <g:internal_label>['Grenaa','Infoaften','Foredrag','Korte kurser']</g:internal_label>
+      <g:internal_label>['Grenaa','Infoaften','Foredrag','Korte kurser','Hornslet']</g:internal_label>
     </item>
 <item>
       <g:id>271440</g:id>
@@ -924,9 +924,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Håndværk og kunsthåndværk</g:custom_label_2>
+      <g:custom_label_4>Grenaa</g:custom_label_4>
       <g:start_date>2027-04-17T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Grenaa</g:custom_label_3>
-      <g:custom_label_4>Korte kurser</g:custom_label_4>
       <g:internal_label>['Grenaa','Korte kurser','Kreative fag','Diy og andet håndværk']</g:internal_label>
     </item>
 <item>
@@ -946,9 +946,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Blomsterbinding</g:custom_label_2>
+      <g:custom_label_4>Ryomgård</g:custom_label_4>
       <g:start_date>2027-04-17T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Ryomgård</g:custom_label_3>
-      <g:custom_label_4>Korte kurser</g:custom_label_4>
       <g:internal_label>['Ryomgård','Korte kurser','Kreative fag','Diy og andet håndværk']</g:internal_label>
     </item>
 <item>
@@ -968,9 +968,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Blomsterbinding</g:custom_label_2>
+      <g:custom_label_4>Ryomgård</g:custom_label_4>
       <g:start_date>2027-05-06T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Ryomgård</g:custom_label_3>
-      <g:custom_label_4>Korte kurser</g:custom_label_4>
       <g:internal_label>['Ryomgård','Korte kurser','Kreative fag','Diy og andet håndværk']</g:internal_label>
     </item>
 <item>
@@ -990,9 +990,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Blomsterbinding</g:custom_label_2>
+      <g:custom_label_4>Ryomgård</g:custom_label_4>
       <g:start_date>2027-05-29T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Ryomgård</g:custom_label_3>
-      <g:custom_label_4>Korte kurser</g:custom_label_4>
       <g:internal_label>['Ryomgård','Korte kurser','Kreative fag','Diy og andet håndværk']</g:internal_label>
     </item>
 </channel>
