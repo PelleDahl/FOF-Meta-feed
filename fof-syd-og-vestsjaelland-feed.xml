@@ -1326,50 +1326,6 @@
       <g:internal_label>['Kalender - November','Ringsted','Endagskurser','Jul og nytår']</g:internal_label>
     </item>
 <item>
-      <g:id>621426</g:id>
-      <g:title><![CDATA[Babygymnastik 6-9 mdr.]]></g:title>
-      <g:description><![CDATA[Gå til babygymnastik i Ringsted med motorik, tumletid og bevægelse for de mindste på 2-9 måneder. Barselsaktivitet med nærvær på trygge hold hos FOF.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-syd-og-vestsjaelland/babygymnastik-ringsted?holdnr=621426</g:link>
-      <g:image_link>https://www.fof.dk/media/gwig2qgq/babygymnastik-ringsted-aftenskolen-fof.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>480.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Syd- og Vestsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Aktiviteter med baby</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
-      <g:custom_label_2>Aktiviteter med baby</g:custom_label_2>
-      <g:custom_label_4>Ringsted</g:custom_label_4>
-      <g:start_date>2026-11-23T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Ringsted</g:custom_label_3>
-      <g:internal_label>['Ringsted','Kalender - November']</g:internal_label>
-    </item>
-<item>
-      <g:id>621126</g:id>
-      <g:title><![CDATA[Babygymnastik 2-5 mdr.]]></g:title>
-      <g:description><![CDATA[Gå til babygymnastik i Ringsted med motorik, tumletid og bevægelse for de mindste på 2-9 måneder. Barselsaktivitet med nærvær på trygge hold hos FOF.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-syd-og-vestsjaelland/babygymnastik-ringsted?holdnr=621126</g:link>
-      <g:image_link>https://www.fof.dk/media/gwig2qgq/babygymnastik-ringsted-aftenskolen-fof.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>480.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Syd- og Vestsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Aktiviteter med baby</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
-      <g:custom_label_2>Aktiviteter med baby</g:custom_label_2>
-      <g:custom_label_4>Ringsted</g:custom_label_4>
-      <g:start_date>2026-11-23T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Ringsted</g:custom_label_3>
-      <g:internal_label>['Ringsted','Kalender - November']</g:internal_label>
-    </item>
-<item>
       <g:id>320426</g:id>
       <g:title><![CDATA[Babygymnastik 6-9 mdr.]]></g:title>
       <g:description><![CDATA[Gå til babygymnastik i din barsel i Sorø. Vi mødes på Værkerne til leg, bevægelse og hygge for babyer på 2-9 måneder. Trygge hold hos FOF.]]></g:description>
@@ -1478,6 +1434,50 @@
       <g:start_date>2026-11-29T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Kalender - November</g:custom_label_3>
       <g:internal_label>['Kalender - November','Slagelse','Jul og nytår','Endagskurser']</g:internal_label>
+    </item>
+<item>
+      <g:id>621426</g:id>
+      <g:title><![CDATA[Babygymnastik 6-9 mdr.]]></g:title>
+      <g:description><![CDATA[Gå til babygymnastik i Ringsted med motorik, tumletid og bevægelse for de mindste på 2-9 måneder. Barselsaktivitet med nærvær på trygge hold hos FOF.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-syd-og-vestsjaelland/babygymnastik-ringsted?holdnr=621426</g:link>
+      <g:image_link>https://www.fof.dk/media/gwig2qgq/babygymnastik-ringsted-aftenskolen-fof.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>480.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Syd- og Vestsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Aktiviteter med baby</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
+      <g:custom_label_2>Aktiviteter med baby</g:custom_label_2>
+      <g:custom_label_4>Ringsted</g:custom_label_4>
+      <g:start_date>2026-11-30T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Ringsted</g:custom_label_3>
+      <g:internal_label>['Ringsted','Kalender - November']</g:internal_label>
+    </item>
+<item>
+      <g:id>621126</g:id>
+      <g:title><![CDATA[Babygymnastik 2-5 mdr.]]></g:title>
+      <g:description><![CDATA[Gå til babygymnastik i Ringsted med motorik, tumletid og bevægelse for de mindste på 2-9 måneder. Barselsaktivitet med nærvær på trygge hold hos FOF.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-syd-og-vestsjaelland/babygymnastik-ringsted?holdnr=621126</g:link>
+      <g:image_link>https://www.fof.dk/media/gwig2qgq/babygymnastik-ringsted-aftenskolen-fof.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>480.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Syd- og Vestsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Aktiviteter med baby</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
+      <g:custom_label_2>Aktiviteter med baby</g:custom_label_2>
+      <g:custom_label_4>Ringsted</g:custom_label_4>
+      <g:start_date>2026-11-30T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Ringsted</g:custom_label_3>
+      <g:internal_label>['Ringsted','Kalender - November']</g:internal_label>
     </item>
 <item>
       <g:id>163226</g:id>
@@ -1941,50 +1941,6 @@
       <g:internal_label>['Slagelse','Nyhed']</g:internal_label>
     </item>
 <item>
-      <g:id>621526</g:id>
-      <g:title><![CDATA[Babygymnastik 6-9 mdr.]]></g:title>
-      <g:description><![CDATA[Gå til babygymnastik i Ringsted med motorik, tumletid og bevægelse for de mindste på 2-9 måneder. Barselsaktivitet med nærvær på trygge hold hos FOF.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-syd-og-vestsjaelland/babygymnastik-ringsted?holdnr=621526</g:link>
-      <g:image_link>https://www.fof.dk/media/gwig2qgq/babygymnastik-ringsted-aftenskolen-fof.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>480.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Syd- og Vestsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Aktiviteter med baby</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
-      <g:custom_label_2>Aktiviteter med baby</g:custom_label_2>
-      <g:custom_label_4>Ringsted</g:custom_label_4>
-      <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Ringsted</g:custom_label_3>
-      <g:internal_label>['Ringsted']</g:internal_label>
-    </item>
-<item>
-      <g:id>621226</g:id>
-      <g:title><![CDATA[Babygymnastik 2-5 mdr.]]></g:title>
-      <g:description><![CDATA[Gå til babygymnastik i Ringsted med motorik, tumletid og bevægelse for de mindste på 2-9 måneder. Barselsaktivitet med nærvær på trygge hold hos FOF.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-syd-og-vestsjaelland/babygymnastik-ringsted?holdnr=621226</g:link>
-      <g:image_link>https://www.fof.dk/media/gwig2qgq/babygymnastik-ringsted-aftenskolen-fof.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>480.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Syd- og Vestsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Aktiviteter med baby</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
-      <g:custom_label_2>Aktiviteter med baby</g:custom_label_2>
-      <g:custom_label_4>Ringsted</g:custom_label_4>
-      <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Ringsted</g:custom_label_3>
-      <g:internal_label>['Ringsted']</g:internal_label>
-    </item>
-<item>
       <g:id>225027</g:id>
       <g:title><![CDATA[Tumlingesvømning 1-4 år]]></g:title>
       <g:description><![CDATA[Bevar dit barns vandglæde med tumlingesvømning i Korsør og Skælskør hos FOF. Sjov leg i vandet styrker motorik, sanser og tryghed.]]></g:description>
@@ -2048,6 +2004,50 @@
       <g:start_date>2027-01-31T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Næstved</g:custom_label_3>
       <g:internal_label>['Næstved','Sund mad']</g:internal_label>
+    </item>
+<item>
+      <g:id>621526</g:id>
+      <g:title><![CDATA[Babygymnastik 6-9 mdr.]]></g:title>
+      <g:description><![CDATA[Gå til babygymnastik i Ringsted med motorik, tumletid og bevægelse for de mindste på 2-9 måneder. Barselsaktivitet med nærvær på trygge hold hos FOF.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-syd-og-vestsjaelland/babygymnastik-ringsted?holdnr=621526</g:link>
+      <g:image_link>https://www.fof.dk/media/gwig2qgq/babygymnastik-ringsted-aftenskolen-fof.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>480.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Syd- og Vestsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Aktiviteter med baby</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
+      <g:custom_label_2>Aktiviteter med baby</g:custom_label_2>
+      <g:custom_label_4>Ringsted</g:custom_label_4>
+      <g:start_date>2027-02-01T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Ringsted</g:custom_label_3>
+      <g:internal_label>['Ringsted']</g:internal_label>
+    </item>
+<item>
+      <g:id>621226</g:id>
+      <g:title><![CDATA[Babygymnastik 2-5 mdr.]]></g:title>
+      <g:description><![CDATA[Gå til babygymnastik i Ringsted med motorik, tumletid og bevægelse for de mindste på 2-9 måneder. Barselsaktivitet med nærvær på trygge hold hos FOF.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-syd-og-vestsjaelland/babygymnastik-ringsted?holdnr=621226</g:link>
+      <g:image_link>https://www.fof.dk/media/gwig2qgq/babygymnastik-ringsted-aftenskolen-fof.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>480.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Syd- og Vestsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Aktiviteter med baby</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
+      <g:custom_label_2>Aktiviteter med baby</g:custom_label_2>
+      <g:custom_label_4>Ringsted</g:custom_label_4>
+      <g:start_date>2027-02-01T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Ringsted</g:custom_label_3>
+      <g:internal_label>['Ringsted']</g:internal_label>
     </item>
 <item>
       <g:id>195027</g:id>
