@@ -2,27 +2,7 @@ const https = require('https');
 const fs = require('fs');
 const path = require('path');
 
-const FEED_URLS = [
-  'https://www.fof.dk/feeds/fof-djursland/feed.xml',
-  'https://www.fof.dk/feeds/fof-herning/feed.xml',
-  'https://www.fof.dk/feeds/fof-nordvestjylland/feed.xml',
-  'https://www.fof.dk/feeds/fof-odder/feed.xml',
-  'https://www.fof.dk/feeds/fof-randers-favrskov-mariagerfjord-viborg/feed.xml',
-  'https://www.fof.dk/feeds/fof-sydjylland/feed.xml',
-  'https://www.fof.dk/feeds/fof-sydoestjylland/feed.xml',
-  'https://www.fof.dk/feeds/fof-soenderjylland/feed.xml',
-  'https://www.fof.dk/feeds/fof-sydvestjylland/feed.xml',
-  'https://www.fof.dk/feeds/fof-aalborg/feed.xml',
-  'https://www.fof.dk/feeds/fof-aarhus/feed.xml',
-  'https://www.fof.dk/feeds/fof-fyn-fredericia/feed.xml',
-  'https://www.fof.dk/feeds/fof-oestfyn/feed.xml',
-  'https://www.fof.dk/feeds/fof-koebenhavn-og-nordsjaelland/feed.xml',
-  'https://www.fof.dk/feeds/fof-koebenhavns-omegn/feed.xml',
-  'https://www.fof.dk/feeds/fof-koege-bugt/feed.xml',
-  'https://www.fof.dk/feeds/fof-syd-og-vestsjaelland/feed.xml',
-  'https://www.fof.dk/feeds/fof-sydoest/feed.xml'
-];
-
+// Alle skoler i feedet (slug → kort kode, der bruges som præfiks på <g:id> i det samlede feed).
 const SCHOOL_CODES = {
   'fof-djursland': 'DJU',
   'fof-herning': 'HER',
@@ -44,21 +24,18 @@ const SCHOOL_CODES = {
   'fof-sydoest': 'SYO'
 };
 
+const SCHOOLS = Object.keys(SCHOOL_CODES);
+
 // Skoler hvor <g:image_link> erstattes med kursussidens og:image (metabillede) i stedet for herobilledet.
-const OG_IMAGE_SCHOOLS = new Set(FEED_URLS.map(slugFromUrl));
+const OG_IMAGE_SCHOOLS = new Set(SCHOOLS);
 
 // Skoler hvor holdets tags hentes fra FOF's Azure AI Search-indeks og lægges i <g:custom_label_3> og <g:internal_label>.
-// Kræver miljøvariablen AZURE_SEARCH_API_KEY (query-nøgle). Mangler den, springes tags over.
-const TAG_SCHOOLS = new Set(FEED_URLS.map(slugFromUrl));
+const TAG_SCHOOLS = new Set(SCHOOLS);
 const AZURE_SEARCH_ENDPOINT = 'https://fof-ai-search.search.windows.net';
 const AZURE_SEARCH_API_VERSION = '2024-05-01-preview';
 const AZURE_COURSES_INDEX = 'fof-courses-production';
 const AZURE_TAGS_INDEX = 'fof-external-production';
 
-// Skoler hvis items bygges direkte fra søgeindekset (fof-courses-production) i stedet for fof.dk's natlige feed.
-// fof.dk's feed mangler ca. 25 % af de ledige hold (se docs/fejlrapport-fof-feeds.md).
-// Fejler opslaget i indekset, falder scriptet tilbage til fof.dk's feed for skolen.
-const INDEX_SOURCE_SCHOOLS = new Set(FEED_URLS.map(slugFromUrl));
 const PUBLIC_SITE_URL = 'https://www.fof.dk';
 const FEED_MONTHS_AHEAD = 12;
 
@@ -68,15 +45,20 @@ const OUTPUT_FILE = path.join(process.cwd(), 'fof-alle-skoler-feed.xml');
 // KBH er holdt ude, indtil skolen aktivt har sagt ja til at indgå i det samlede feed.
 const EXCLUDED_FROM_MERGED = new Set(['fof-koebenhavn-og-nordsjaelland']);
 
-// Skoler der også får deres eget feed ved siden af det samlede feed (samme items som i det samlede feed).
-const SCHOOL_FEEDS = {
-  'fof-koebenhavn-og-nordsjaelland': {
-    file: 'fof-koebenhavn-og-nordsjaelland-feed.xml',
-    title: 'FOF København og Nordsjælland – Produktfeed',
-    link: 'https://www.fof.dk/fof-koebenhavn-og-nordsjaelland',
-    description: 'Meta produktfeed med alle ledige hold fra FOF København og Nordsjælland'
-  }
-};
+// Hver skole får sit eget feed (<slug>-feed.xml) ved siden af det samlede feed, f.eks. til skolens egen shop/katalog i Meta.
+// <g:id> er det rå holdnummer uden skolepræfiks, så det matcher holdnummeret i pixel-events.
+const SCHOOL_FEED_SCHOOLS = new Set(SCHOOLS);
+
+function schoolFeedMeta(slug, items) {
+  const brandMatch = items.map((item) => item.match(/<g:brand>([\s\S]*?)<\/g:brand>/i)).find(Boolean);
+  const name = brandMatch ? decodeXmlEntities(brandMatch[1].trim()) : slug;
+  return {
+    file: `${slug}-feed.xml`,
+    title: `${name} – Produktfeed`,
+    link: `${PUBLIC_SITE_URL}/${slug}`,
+    description: `Meta produktfeed med alle ledige hold fra ${name}`
+  };
+}
 const OG_IMAGE_CACHE_FILE = path.join(process.cwd(), 'og-image-cache.json');
 const OG_IMAGE_CACHE_MAX_AGE_DAYS = 7;
 const OG_IMAGE_FETCH_CONCURRENCY = 8;
@@ -143,19 +125,6 @@ function cleanupOldLogs() {
   }
 }
 
-function slugFromUrl(feedUrl) {
-  try {
-    const url = new URL(feedUrl);
-    const parts = url.pathname.split('/').filter(Boolean);
-    if (parts.length >= 2) {
-      return decodeURIComponent(parts[parts.length - 2]);
-    }
-    return feedUrl;
-  } catch {
-    return feedUrl;
-  }
-}
-
 function fetchText(feedUrl, redirectCount = 0) {
   return new Promise((resolve, reject) => {
     const req = https.get(feedUrl, (res) => {
@@ -200,11 +169,6 @@ function fetchText(feedUrl, redirectCount = 0) {
       req.destroy(new Error('Request timed out'));
     });
   });
-}
-
-function extractItems(xml) {
-  const matches = xml.match(/<item\b[\s\S]*?<\/item>/gi);
-  return matches || [];
 }
 
 function decodeXmlEntities(value) {
@@ -401,36 +365,119 @@ async function searchAll(index, query) {
   }
 }
 
-// Tag-navne ligger som 'tag'-noder i Umbracos indeks (fof-external-production); holdene peger på dem via tagIds (= x__Key).
-async function loadTagNames() {
+// Tag-mapping (tag-mapping.csv, vedligeholdes manuelt): pr. tag-id en type og et ensrettet navn,
+// f.eks. 'hold køge' → sted: Køge. Tags af disse typer kommer ikke med i feedet.
+const TAG_MAPPING_FILE = path.join(__dirname, 'tag-mapping.csv');
+const EXCLUDED_TAG_TYPES = new Set(['intern', 'underviser']);
+
+function parseCsvLine(line, delimiter) {
+  const fields = [];
+  let field = '';
+  let quoted = false;
+  for (let i = 0; i < line.length; i += 1) {
+    const char = line[i];
+    if (quoted) {
+      if (char === '"' && line[i + 1] === '"') {
+        field += '"';
+        i += 1;
+      } else if (char === '"') {
+        quoted = false;
+      } else {
+        field += char;
+      }
+    } else if (char === '"') {
+      quoted = true;
+    } else if (char === delimiter) {
+      fields.push(field);
+      field = '';
+    } else {
+      field += char;
+    }
+  }
+  fields.push(field);
+  return fields;
+}
+
+function loadTagMapping() {
+  const lines = fs.readFileSync(TAG_MAPPING_FILE, 'utf8').replace(/^\uFEFF/, '').split(/\r?\n/).filter(Boolean);
+  const header = parseCsvLine(lines[0], ';');
+  const mapping = new Map();
+  for (const line of lines.slice(1)) {
+    const row = Object.fromEntries(parseCsvLine(line, ';').map((value, i) => [header[i], value.trim()]));
+    if (row.tag_id) {
+      mapping.set(row.tag_id, { type: row.type.toLowerCase(), name: row.normaliseret || row.tag });
+    }
+  }
+  return mapping;
+}
+
+// Tag-noderne ligger i Umbracos indeks (fof-external-production); holdene peger på dem via tagIds (= x__Key).
+// Returnerer tag-id → { type, name }. Tags, der ikke står i tag-mapping.csv, får typen 'ukendt' og deres Umbraco-navn.
+async function loadTagLookup() {
+  const mapping = loadTagMapping();
   const docs = await searchAll(AZURE_TAGS_INDEX, {
     filter: "x__NodeTypeAlias eq 'tag'",
     select: 'x__Key,nodeName'
   });
-  const names = new Map();
+  const lookup = new Map();
   for (const doc of docs) {
-    const name = Array.isArray(doc.nodeName) ? doc.nodeName[0] : doc.nodeName;
+    const name = String((Array.isArray(doc.nodeName) ? doc.nodeName[0] : doc.nodeName) || '').trim();
     if (doc.x__Key && name) {
-      names.set(doc.x__Key, name.trim());
+      lookup.set(doc.x__Key, mapping.get(doc.x__Key) || { type: 'ukendt', name, unmapped: true });
     }
   }
-  return names;
+  logInfo(`[TAGS] ${lookup.size} tag(s) loaded, ${mapping.size} in tag-mapping.csv`);
+  return lookup;
 }
 
-// Returnerer holdnummer → liste af tag-navne for én skole.
-async function loadSchoolTags(slug, tagNames) {
+// Returnerer holdnummer → tag-navne (ensrettede, uden dubletter, i Umbracos rækkefølge) for én skole.
+async function loadSchoolTags(slug, tagLookup) {
   const docs = await searchAll(AZURE_COURSES_INDEX, {
     filter: `associationSlug eq '${slug}' and docType eq 'courseVariant'`,
     select: 'variantCourseNo,tagIds'
   });
   const tagsByHoldnr = new Map();
+  const unmapped = new Set();
   for (const doc of docs) {
-    const names = (doc.tagIds || []).map((id) => tagNames.get(id)).filter(Boolean);
+    const tags = (doc.tagIds || []).map((id) => tagLookup.get(id)).filter(Boolean);
+    tags.filter((tag) => tag.unmapped).forEach((tag) => unmapped.add(tag.name));
+    const names = [...new Set(tags.filter((tag) => !EXCLUDED_TAG_TYPES.has(tag.type)).map((tag) => tag.name))];
     if (doc.variantCourseNo && names.length > 0) {
-      tagsByHoldnr.set(String(doc.variantCourseNo).trim(), [...new Set(names)]);
+      tagsByHoldnr.set(String(doc.variantCourseNo).trim(), names);
     }
   }
+  if (unmapped.size > 0) {
+    logInfo(`[TAGS] ${slug}: ${unmapped.size} tag(s) not in tag-mapping.csv: ${[...unmapped].join(', ')}`);
+  }
   return tagsByHoldnr;
+}
+
+// custom_label_3/4: holdets første og andet tag (én værdi hver, maks. 100 tegn).
+// internal_label: alle holdets tags i Metas listeformat, til filtrering af produktsæt.
+function applyTags(items, slug, tagsByHoldnr) {
+  let tagged = 0;
+  const result = items.map((item) => {
+    const idMatch = item.match(/<g:id>([\s\S]*?)<\/g:id>/i);
+    const tags = idMatch && tagsByHoldnr.get(idMatch[1].trim());
+    if (!tags) {
+      return item;
+    }
+
+    tagged += 1;
+    const labels = tags
+      .slice(0, 2)
+      .map((tag, i) => `\n      <g:custom_label_${3 + i}>${escapeXml(tag.slice(0, 100))}</g:custom_label_${3 + i}>`)
+      .join('');
+    const internalLabel = `[${tags.map((tag) => `'${tag.replace(/'/g, '')}'`).join(',')}]`;
+
+    return item.replace(
+      /(\s*)<\/item>\s*$/i,
+      `${labels}\n      <g:internal_label>${escapeXml(internalLabel)}</g:internal_label>$1</item>`
+    );
+  });
+
+  logInfo(`[TAGS] ${slug}: tags added to ${tagged}/${items.length} item(s)`);
+  return result;
 }
 
 // Taksonomi-noder i Umbracos indeks: route-sti (f.eks. /emnestruktur/kurser/sprog/italiensk/) → navne fra roden
@@ -539,39 +586,6 @@ async function buildItemsFromIndex(slug, taxonomyLookup) {
   });
 }
 
-// custom_label_3: kommasepareret (maks. 100 tegn, Google/Meta-grænse) til produktsæt og rapportering.
-// internal_label: Metas liste-format til filtrering af produktsæt.
-function applyTags(items, slug, tagsByHoldnr) {
-  let tagged = 0;
-  const result = items.map((item) => {
-    const idMatch = item.match(/<g:id>([\s\S]*?)<\/g:id>/i);
-    const tags = idMatch && tagsByHoldnr.get(idMatch[1].trim());
-    if (!tags) {
-      return item;
-    }
-
-    tagged += 1;
-    let label = '';
-    for (const tag of tags) {
-      const next = label ? `${label}, ${tag}` : tag;
-      if (next.length > 100) {
-        break;
-      }
-      label = next;
-    }
-    const internalLabel = `[${tags.map((tag) => `'${tag.replace(/'/g, '')}'`).join(',')}]`;
-
-    return item.replace(
-      /(\s*)<\/item>\s*$/i,
-      `\n      <g:custom_label_3>${escapeXml(label)}</g:custom_label_3>` +
-        `\n      <g:internal_label>${escapeXml(internalLabel)}</g:internal_label>$1</item>`
-    );
-  });
-
-  logInfo(`[TAGS] ${slug}: tags added to ${tagged}/${items.length} item(s)`);
-  return result;
-}
-
 function prefixItemIds(items, slug) {
   return items.map((item) =>
     item.replace(/(<g:id>)([\s\S]*?)(<\/g:id>)/i, (match, open, id, close) => `${open}${slug}-${id.trim()}${close}`)
@@ -606,62 +620,39 @@ async function mergeFeeds() {
   let successCount = 0;
   const ogImageCache = loadOgImageCache();
   const seenOgPages = new Set();
-  const failedOgSchools = new Set();
-  let tagNames = null;
-  let taxonomyLookup = null;
+  const failedSchools = new Set();
 
   setupLogFile();
   cleanupOldLogs();
 
-  logInfo(`Starting merge of ${FEED_URLS.length} feeds...`);
+  if (!process.env.AZURE_SEARCH_API_KEY) {
+    logError('[FATAL] AZURE_SEARCH_API_KEY is not set – no feeds written, existing feeds are kept');
+    process.exitCode = 1;
+    return;
+  }
 
-  for (const feedUrl of FEED_URLS) {
-    const slug = slugFromUrl(feedUrl);
-    const code = SCHOOL_CODES[slug] || slug;
+  logInfo(`Building feeds for ${SCHOOLS.length} schools from ${AZURE_COURSES_INDEX}...`);
+  const taxonomyLookup = await loadTaxonomyLookup();
+  const tagLookup = await loadTagLookup();
 
+  for (const slug of SCHOOLS) {
     try {
-      let items = null;
-
-      if (INDEX_SOURCE_SCHOOLS.has(slug)) {
-        if (!process.env.AZURE_SEARCH_API_KEY) {
-          logError(`[WARN] ${slug}: AZURE_SEARCH_API_KEY is not set – falling back to fof.dk feed`);
-        } else {
-          try {
-            taxonomyLookup = taxonomyLookup || (await loadTaxonomyLookup());
-            items = await buildItemsFromIndex(slug, taxonomyLookup);
-            logInfo(`[INDEX] ${slug}: ${items.length} item(s) built from ${AZURE_COURSES_INDEX}`);
-          } catch (err) {
-            logError(`[WARN] ${slug}: could not build items from search index – falling back to fof.dk feed: ${err.message}`);
-          }
-        }
-      }
-
-      if (!items) {
-        items = extractItems(await fetchText(feedUrl));
-      }
+      let items = await buildItemsFromIndex(slug, taxonomyLookup);
+      logInfo(`[INDEX] ${slug}: ${items.length} item(s) built from ${AZURE_COURSES_INDEX}`);
 
       if (OG_IMAGE_SCHOOLS.has(slug)) {
         items = await applyOgImages(items, slug, ogImageCache, seenOgPages);
       }
 
       if (TAG_SCHOOLS.has(slug)) {
-        if (!process.env.AZURE_SEARCH_API_KEY) {
-          logError(`[WARN] ${slug}: AZURE_SEARCH_API_KEY is not set – skipping tags`);
-        } else {
-          try {
-            tagNames = tagNames || (await loadTagNames());
-            items = applyTags(items, slug, await loadSchoolTags(slug, tagNames));
-          } catch (err) {
-            logError(`[WARN] ${slug}: tags could not be loaded from Azure Search – skipping tags: ${err.message}`);
-          }
-        }
+        items = applyTags(items, slug, await loadSchoolTags(slug, tagLookup));
       }
 
       items = encodeImageLinks(items);
 
       // Skolens eget feed beholder de rå holdnumre som <g:id>, så de matcher holdnummeret i pixel-events.
-      const schoolFeed = SCHOOL_FEEDS[slug];
-      if (schoolFeed) {
+      if (SCHOOL_FEED_SCHOOLS.has(slug)) {
+        const schoolFeed = schoolFeedMeta(slug, items);
         const schoolFile = path.join(process.cwd(), schoolFeed.file);
         fs.writeFileSync(schoolFile, buildFeedXml(items, schoolFeed), 'utf8');
         logInfo(`[OK] ${slug}: saved school feed ${schoolFile}`);
@@ -674,20 +665,16 @@ async function mergeFeeds() {
         continue;
       }
 
-      items = prefixItemIds(items, code);
-      allItems.push(...items);
-
+      allItems.push(...prefixItemIds(items, SCHOOL_CODES[slug]));
       logInfo(`[OK] ${slug}: ${items.length} item(s)`);
     } catch (err) {
-      if (OG_IMAGE_SCHOOLS.has(slug)) {
-        failedOgSchools.add(slug);
-      }
-      logError(`[ERROR] ${slug}: ${err.message}`);
+      failedSchools.add(slug);
+      logError(`[ERROR] ${slug}: ${err.message} – school feed not updated`);
     }
   }
 
-  // Ryd cachede kursussider, der ikke længere er i feedet – men kun hvis alle og:image-skoler blev hentet.
-  if (failedOgSchools.size === 0) {
+  // Ryd cachede kursussider, der ikke længere er i feedet – men kun hvis alle skoler blev bygget.
+  if (failedSchools.size === 0) {
     for (const pageUrl of Object.keys(ogImageCache)) {
       if (!seenOgPages.has(pageUrl)) {
         delete ogImageCache[pageUrl];
@@ -696,13 +683,18 @@ async function mergeFeeds() {
   }
   saveOgImageCache(ogImageCache);
 
-  const mergedXml = buildFeedXml(allItems, MERGED_FEED_META);
-  fs.writeFileSync(OUTPUT_FILE, mergedXml, 'utf8');
-
   logInfo('---');
-  logInfo(`Successful feeds: ${successCount}/${FEED_URLS.length}`);
-  logInfo(`Total merged items: ${allItems.length}`);
-  logInfo(`Saved merged feed: ${OUTPUT_FILE}`);
+  logInfo(`Successful schools: ${successCount}/${SCHOOLS.length}`);
+
+  // Et samlet feed uden en af skolerne må ikke erstatte det forrige; kørslen fejler, så workflowen prøver igen.
+  if (failedSchools.size > 0) {
+    logError(`[ERROR] Merged feed not updated – failed schools: ${[...failedSchools].join(', ')}`);
+    process.exitCode = 1;
+  } else {
+    fs.writeFileSync(OUTPUT_FILE, buildFeedXml(allItems, MERGED_FEED_META), 'utf8');
+    logInfo(`Total merged items: ${allItems.length}`);
+    logInfo(`Saved merged feed: ${OUTPUT_FILE}`);
+  }
   logInfo(`Saved run log: ${currentLogFile}`);
 }
 

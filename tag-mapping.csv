@@ -1,0 +1,524 @@
+﻿tag_id;skole;tag;hold_nu;type;normaliseret;gaet_grundlag
+6060e6da-0531-49e5-ac85-50cace255db2;FOF København og Nordsjælland;Ture og rundvisninger;146;format;Ture og rundvisninger;regel: format
+928fd35e-cf36-45c3-b677-da5b6491ca72;FOF København og Nordsjælland;Korte kurser;145;format;Korte kurser;regel: format
+12cc497f-934e-4f67-b3fb-657ddf4a1e80;FOF Københavns Omegn;1 dag;117;format;Endagskurser;regel: format
+b2ec9b09-b94c-4229-b801-c044bb28982a;FOF Københavns Omegn;Taastrup;111;sted;Taastrup;bynavn: Taastrup
+bb0eeee9-d193-4665-a285-ce0c690be597;FOF Københavns Omegn;Glostrup;109;sted;Glostrup;bynavn: Glostrup
+538cb8a8-6ed8-4105-a854-d8beb913d8fb;FOF Aarhus;Korte kurser;98;format;Korte kurser;regel: format
+89a7c603-d33d-4222-8cc1-8966f31c76c8;FOF Køge Bugt;Køge;82;sted;Køge;bynavn: Køge
+4987666b-67e0-40d9-bc17-5d0b9d33c701;FOF Københavns Omegn;Herlev;78;sted;Herlev;bynavn: Herlev
+3a341d98-016e-423a-bd5e-f3b5535a319a;FOF Sydjylland;Aktiviteter i Kolding Kommune;77;sted;Kolding;bynavn: Kolding
+9cd51fdf-9173-4614-a254-2affe3c36332;FOF Aarhus;Foredrag;73;format;Foredrag;regel: format
+2a6a07b9-117a-4627-a78e-4c1f10f9ae84;FOF Københavns Omegn;Brøndby;73;sted;Brøndby;bynavn: Brøndby
+da1a1a71-0280-4d24-ac25-01d1b864fdaf;FOF København og Nordsjælland;Foredrag;67;format;Foredrag;regel: format
+5af8fdc0-7469-4648-a6b3-f3369d9c902a;FOF Syd- og Vestsjælland;Kalenderaktiviteter (weekend, endags, foredrag, ture);67;intern;Kalenderaktiviteter (weekend, endags, foredrag, ture);regel: intern
+088b1bcf-cbe7-4ac5-a8dd-d787276f98fd;FOF Københavns Omegn;Ballerup;65;sted;Ballerup;bynavn: Ballerup
+b7a136f3-6212-48ec-a9da-5d45b1b34a43;FOF Syd- og Vestsjælland;Starter snart;57;tid;Starter snart;regel: tid
+2a885633-c66e-493e-b7e7-677ced1dad25;FOF Sydjylland;Starter snart - indenfor 14 dage;56;tid;Starter snart;regel: tid
+a1941c90-3692-4191-a965-ff692ef5bbcd;FOF Sønderjylland;Starter snart;55;tid;Starter snart;regel: tid
+332a717d-6409-4ea5-8fa0-3ad7780ace58;FOF Københavns Omegn;Rundvisning København;53;sted;København;bynavn: København
+fdb7e27b-324b-4ba7-b945-a7b698dee84e;FOF Køge Bugt;Weekend;52;tid;Weekend;regel: tid
+c7d5ee3e-21d0-4355-ae65-83dda059bb26;FOF Københavns Omegn;Albertslund;49;sted;Albertslund;bynavn: Albertslund
+931a0592-e003-42b7-adff-e51b12f5b62b;FOF Køge Bugt;Egedal;47;sted;Egedal;bynavn: Egedal
+4f968cee-77fa-4d61-b116-e50b88f84a91;FOF Sydjylland;Motion og sundhed;46;emne;Motion og sundhed;standard (ingen regel)
+3d5a4e0c-30b1-452d-93a7-b79b19d5d24e;FOF Københavns Omegn;Vallensbæk;43;sted;Vallensbæk;bynavn: Vallensbæk
+417dbf16-b6ce-46c5-8448-41d788f9ea91;FOF Syd- og Vestsjælland;Kalender - November;43;tid;Kalender - November;regel: tid
+6173c113-da35-497a-925c-3a4d546ede5e;FOF København og Nordsjælland;Debat;42;format;Debat;regel: format
+d8ff348a-0238-49a5-8fab-46d9300bd2ae;FOF Københavns Omegn;hold taastrup;42;sted;Taastrup;bynavn: Taastrup
+5071fe24-2b0c-4efa-a036-a893a42be463;FOF Køge Bugt;hold køge;41;sted;Køge;bynavn: Køge
+f8258af7-e0ba-44b2-9d0c-bef94f35b56a;FOF Københavns Omegn;Rødovre;40;sted;Rødovre;bynavn: Rødovre
+778c8024-bf75-4d33-bef7-35cb9bc3430d;FOF Sønderjylland;Bjerggade;40;sted;Bjerggade;manuel
+20cce074-2192-4354-b20c-09b9ba988df0;FOF Køge Bugt;Forår;38;tid;Forår;regel: tid
+720338eb-b79a-4c43-bced-a3342ddf7cb0;FOF Djursland;Korte kurser;37;format;Korte kurser;regel: format
+d2ecf8ce-8f6e-471d-bd17-690791dc64c2;FOF Syd- og Vestsjælland;Hold - Slagelse;37;sted;Slagelse;bynavn: Slagelse
+bfe6b713-e2a5-432a-b8d3-49524bc43a0a;FOF Køge Bugt;Starter snart;36;tid;Starter snart;regel: tid
+5bb46a00-3a46-4599-843b-5a8fcec26610;FOF Syd- og Vestsjælland;Kalender - Oktober;36;tid;Kalender - Oktober;regel: tid
+aeefcc1d-f789-42e4-bc74-49d16d828e9f;FOF Sydjylland;Aktiviteter i Vejen Kommune;35;sted;Vejen;bynavn: Vejen
+96c59c16-16c7-432d-b214-30f822528e82;FOF Sydjylland;Krea;34;emne;Krea;standard (ingen regel)
+1d69b2f1-b51f-40ad-953b-0c6787b08ee8;FOF Aarhus;Graviditet, fødsel og barsel;33;målgruppe;Graviditet og barsel;regel: målgruppe
+7c5d6f30-0632-445c-806b-0f37d81e1578;FOF Køge Bugt;Greve;32;sted;Greve;bynavn: Greve
+90c7eac7-d672-497b-9158-2dbeb680c34a;FOF Syd- og Vestsjælland;Hold - Næstved;32;sted;Næstved;bynavn: Næstved
+efc0b3b9-638c-4dd8-a9a4-079d14591407;FOF Aalborg;Foredrag;31;format;Foredrag;regel: format
+1aadac0e-04dd-4241-bd6d-65adc446286c;FOF Randers-Favrskov-Mariagerfjord-Viborg;Nyhed;31;kampagne;Nyhed;regel: kampagne
+2ce0e639-6daf-4b5f-8238-2fede4d4ae89;FOF Aalborg;Keramik Boulevarden;30;sted;Keramik Boulevarden;manuel
+0d758623-8377-4aa1-be9e-6e4cfb2d5399;FOF Køge Bugt;Roskilde;30;sted;Roskilde;bynavn: Roskilde
+fa571cf2-9b3a-4ce6-ab7b-ac403fee248b;FOF Syd- og Vestsjælland;Foredrag - Slagelse;30;sted;Slagelse;bynavn: Slagelse
+e69fc5ce-c147-4ae6-8295-9b72f254c26c;FOF Sydøstjylland;Workshops;30;format;Workshops;regel: format
+ddebc34a-d77c-41b3-ba53-ae8271fe26e4;FOF Aalborg;Dags foredrag;29;format;Foredrag;regel: format
+b13af93e-cff4-4d17-ac62-35ac6a654bb6;FOF København og Nordsjælland;Aftenskolernes Hus;29;sted;Aftenskolernes Hus;manuel
+605a034b-051f-44b9-88e5-c5b7fbcbbb58;FOF Københavns Omegn;Starter snart;29;tid;Starter snart;regel: tid
+3c7d8bc6-dfdd-4bb5-a769-7eab58d0a10a;FOF Aarhus;Samfund og historie;26;emne;Samfund og historie;standard (ingen regel)
+6a27ba33-f3fc-436d-9c16-b248e464ce18;FOF Køge Bugt;1 dag;26;format;Endagskurser;regel: format
+731d0c10-a3ad-466b-b6c2-01e9a97b705a;FOF Syd- og Vestsjælland;Hold - Ringsted;26;sted;Ringsted;bynavn: Ringsted
+c8447a4f-683f-40d7-8285-c1993ac7d881;FOF Djursland;Nyhed;25;kampagne;Nyhed;regel: kampagne
+cbf4f96b-1f23-442d-bb4f-d67358a455ee;FOF København og Nordsjælland;Familie;24;målgruppe;Familie;regel: målgruppe
+1c2c1714-96bf-4f74-8af7-160ed9a59176;FOF Københavns Omegn;Familieuniverset;24;målgruppe;Familie;regel: målgruppe
+084aede5-eb7c-4e11-a294-1bcbf6a40844;FOF Sydjylland;Aktiviteter i Haderslev Kommune;24;sted;Haderslev;bynavn: Haderslev
+b8dca573-3033-4736-b611-e8b78367ba5c;FOF Sønderjylland;Martins hold;24;intern;Martins hold;regel: intern
+263ac5d5-b603-469f-ae4a-8939ca4dd0ee;FOF Sønderjylland;Motion;24;emne;Motion;standard (ingen regel)
+7660d85f-c570-4fd9-9628-a09c302df299;FOF Københavns Omegn;Tur kalender;23;tid;Tur kalender;regel: tid
+2bcef6d6-c1a8-4a67-b65e-d4d832808e47;FOF Sydvestjylland;Kreative kurser;23;emne;Kreative kurser;standard (ingen regel)
+3c01ccb2-766b-48c3-88c7-cd62b99f3be1;FOF Djursland;Grenaa;22;sted;Grenaa;bynavn: Grenaa
+fdd46782-2366-4c41-88b7-3e2f694d62a4;FOF Københavns Omegn;hold herlev;22;sted;Herlev;bynavn: Herlev
+e3fdd431-0164-4cab-9013-a17912eadc92;FOF Sydøstjylland;Nyheder;22;kampagne;Nyhed;regel: kampagne
+928773c4-30db-4f38-881f-527c6e26d93d;FOF Aarhus;Sundhed og eksistens;21;emne;Sundhed og eksistens;standard (ingen regel)
+261db4e9-abb3-4705-9ab6-89319243a3d5;FOF Fyn-Fredericia;Odense;21;sted;Odense;bynavn: Odense
+8a257800-855a-4756-b829-68b4ab02a29d;FOF Københavns Omegn;hold brøndby;21;sted;Brøndby;bynavn: Brøndby
+ec386b43-35e2-4590-b2f6-e7931ad2e6df;FOF Randers-Favrskov-Mariagerfjord-Viborg;Weekend;21;tid;Weekend;regel: tid
+f525cb36-4671-440e-b0ef-4b27d6f93dba;FOF Syd- og Vestsjælland;Kreative endags- og weekendkurser;21;format;Endagskurser;manuel
+abd0c660-0c69-4b9c-9c3d-818f4cb6d334;FOF Sydjylland;Særligt tilrettelagte kurser;21;målgruppe;Hensyntagende;regel: målgruppe
+aa76212f-a65d-4a2d-98a4-de748bb38b8e;FOF Sydvestjylland;Nye kurser i Esbjerg;21;sted;Esbjerg;bynavn: Esbjerg
+33b6812e-0e9b-4aa7-b400-f6604f61dd02;FOF Sønderjylland;Nyhed;21;kampagne;Nyhed;regel: kampagne
+65587c73-21be-4a15-9b14-1c64497f7bad;FOF Aalborg;Kulturpas;20;kampagne;Kulturpas;regel: kampagne
+fff2bd88-3465-4e73-b55d-98407c57dd0c;FOF Køge Bugt;hold greve;20;sted;Greve;bynavn: Greve
+b4bae377-683c-4985-b798-c7ff2746e23c;FOF Sydøst;Workshops;19;format;Workshops;regel: format
+8ac8be10-2241-4755-a7fe-8bdeab1350a9;FOF Aalborg;Nyheder;18;kampagne;Nyhed;regel: kampagne
+ad3c10b0-40ef-4507-8678-e8f43f3a4bf4;FOF København og Nordsjælland;JUL OG NYTÅR;18;tid;Jul og nytår;regel: tid
+77ea2282-e7fd-40a6-a549-0ede3c8faf01;FOF Københavns Omegn;hold glostrup;18;sted;Glostrup;bynavn: Glostrup
+cfbc30ab-a069-45b6-91a1-37ddcb74c084;FOF Køge Bugt;Bornholm;18;sted;Bornholm;bynavn: Bornholm
+1423343d-91c1-4d24-9305-5a596f5853c7;FOF Sydvestjylland;Madlavning og drikkevarer;18;emne;Madlavning og drikkevarer;standard (ingen regel)
+664e2550-7604-46ec-aace-04c19da44368;FOF Djursland;Kreative fag;16;emne;Kreative fag;standard (ingen regel)
+e5970545-4fe1-432d-8183-126b1a7c6c05;FOF Sydøst;Kreative kurser;16;emne;Kreative kurser;standard (ingen regel)
+f0ec6ec2-e3f3-4668-9ac0-8b089b9c2b2b;FOF Sønderjylland;Hensynstagende - side;16;målgruppe;Hensyntagende;regel: målgruppe
+fb59b2b9-fdc0-42f7-a5fb-6e6d4f87be29;FOF Aarhus;Kunst og kultur;15;emne;Kunst og kultur;standard (ingen regel)
+f8fced7d-1dfb-4ec7-ad6b-2d61f3b81677;FOF Køge Bugt;hold egedal;15;sted;Egedal;bynavn: Egedal
+dc374109-5e88-43e5-bb78-714283a2fe6c;FOF Sydjylland;Aktiviteter i Aabenraa Kommune;15;sted;Aabenraa;bynavn: Aabenraa
+afb0e7fb-6e3f-4ce6-9957-c237fc3c1836;FOF Sydjylland;Dans;15;emne;Dans;standard (ingen regel)
+81320c53-0a0f-463a-852d-5860affb4135;FOF Sydjylland;Graviditet, fødsel og barsel;15;målgruppe;Graviditet og barsel;regel: målgruppe
+9a94ee94-539b-4500-b484-56784a98354c;FOF Aarhus;Førstehjælp til kørekort;14;emne;Førstehjælp til kørekort;standard (ingen regel)
+1deca373-46b2-42b6-92cd-4ea302490690;FOF Djursland;Bevægelse;14;emne;Bevægelse;standard (ingen regel)
+11eb7e82-cb7e-49d2-b3fd-a3f48b7e29e5;FOF Djursland;Diy og andet håndværk;14;emne;Diy og andet håndværk;standard (ingen regel)
+4e373b82-64b0-46ad-b3cf-4a8da4f099dc;FOF Syd- og Vestsjælland;Foredrag - Ringsted;14;sted;Ringsted;bynavn: Ringsted
+e5cabf26-40af-4015-9bb5-2d447b6fd3e3;FOF Sydøst;Håndværk;14;emne;Håndværk;standard (ingen regel)
+142800f0-87c8-4f00-b46e-8601b022f21d;FOF Sydøstjylland;Juleaktiviteter;14;tid;Jul og nytår;regel: tid
+406f8b14-6511-47f5-b769-5eeb11ca0883;FOF København og Nordsjælland;Ferie - Jul - Voksne;13;tid;Jul og nytår;regel: tid
+65662414-46e2-4c0b-a0df-4090f8369aef;FOF København og Nordsjælland;IN ENGLISH;13;målgruppe;In English;regel: målgruppe
+0336d62a-9011-4db7-b852-eb1d657f2d5f;FOF København og Nordsjælland;Skrivekurser;13;emne;Skrivekurser;standard (ingen regel)
+e4a5de9b-923d-4e10-9479-c663a3af3691;FOF Syd- og Vestsjælland;Hold - Sorø;13;sted;Sorø;bynavn: Sorø
+3d6c2c9f-b51b-4f5e-bb2c-b5637e28d4d8;FOF Sydjylland;Aktiviteter i Tønder Kommune;13;sted;Tønder;bynavn: Tønder
+55312943-b896-4b73-9fe1-f99adf582a79;FOF Sydjylland;Familie, børn og unge;13;målgruppe;Familie;regel: målgruppe
+ddba7f11-a331-4803-abd2-b64e36e62b47;FOF Sydvestjylland;Nye kurser på Fanø;13;sted;Fanø;bynavn: Fanø
+4f450796-9b9e-40c9-84d0-0e08fccebdb0;FOF Sønderjylland;Aftenforedrag;13;tid;Aftenforedrag;regel: tid
+ddd20f3e-abc3-4246-895a-897f6fc8bab9;FOF Sønderjylland;Pernelle;13;underviser;Pernelle;manuel
+2c0c9c7a-f6ad-4a69-b0bd-5e3f2201bf7f;FOF Aarhus;Almen førstehjælp;12;emne;Almen førstehjælp;standard (ingen regel)
+ebd9a8c6-45f6-44cc-bf7e-8f47712c1657;FOF Aarhus;Engelsksproget kursus;12;målgruppe;In English;regel: målgruppe
+630e702f-9eaf-46ab-a5b1-f78a12405648;FOF Syd- og Vestsjælland;Nyheder;12;kampagne;Nyhed;regel: kampagne
+7012e98f-c832-4245-90ef-a367ec87efb4;FOF Sydjylland;Håndværk og kunsthåndværk (Kunsthåndværk og DIY);12;emne;Håndværk og kunsthåndværk (Kunsthåndværk og DIY);standard (ingen regel)
+07117bf9-6a84-495e-8a40-71cb60236293;FOF Sydvestjylland;Foredrag i Esbjerg;12;sted;Esbjerg;bynavn: Esbjerg
+69cbbf0a-72f2-4c19-a202-0215584a3e03;FOF Herning;Koncert og foredrag;11;format;Foredrag;regel: format
+38a61eba-d949-477c-aec3-58799fb2b286;FOF Køge Bugt;Lejre;11;sted;Lejre;bynavn: Lejre
+4d77ffed-055d-4bbb-9c42-f21fc22e9fba;FOF Sydvestjylland;Starter snart;11;tid;Starter snart;regel: tid
+19678f36-75db-43c1-b8bc-82471f7d9b9e;FOF Københavns Omegn;Foredrag kalender;10;tid;Foredrag kalender;regel: tid
+4e5f5818-18a9-4c88-af66-722254e1e58e;FOF Sydjylland;HH - enkeltvise foredrag;10;format;Foredrag;regel: format
+5ff776b4-fe87-4401-9b0f-61f19b35e5f6;FOF Sydjylland;Madlavning;10;emne;Madlavning;standard (ingen regel)
+1b05bcad-d139-4209-8717-7e328b3f4efb;FOF Sydjylland;Sprog;10;emne;Sprog;standard (ingen regel)
+1f07d900-c82c-4fd2-beae-343940fcdd26;FOF Sydjylland;Tegning;10;emne;Tegning;standard (ingen regel)
+aa1165aa-f5ba-4c61-ba89-ba946871d54d;FOF Aalborg;FOF Garnfestival;9;kampagne;FOF Garnfestival;manuel
+904eca0c-f1e2-4c96-a361-f69d3355d8da;FOF Køge Bugt;Hensyn;9;målgruppe;Hensyntagende;regel: målgruppe
+aa769be7-379c-452a-8277-051db1f86743;FOF Køge Bugt;Solrød;9;sted;Solrød;bynavn: Solrød
+7238c75d-f99b-4344-b8f8-7213d6b8a251;FOF Syd- og Vestsjælland;Tema - Bæredygtighed;9;emne;Tema - Bæredygtighed;standard (ingen regel)
+05feb73c-9a82-4081-b4ed-617a99da073a;FOF Sydjylland;For demensramte og pårørende;9;målgruppe;For demensramte og pårørende;regel: målgruppe
+998e6a1a-d6c2-4242-879b-325b3abc11f9;FOF Sønderjylland;Bæredygtig;9;emne;Bæredygtig;standard (ingen regel)
+c46c002d-9ac4-4519-b4a0-0cec216a326a;FOF Sønderjylland;Nygadehuset;9;sted;Nygadehuset;manuel
+2e1a19c1-6079-4a1b-9fe2-ce133da0c533;FOF Sønderjylland;Sangcentret;9;sted;Sangcentret;manuel
+efdabb3e-ee8c-4fde-8379-3c63484628ed;FOF Aarhus;Musik og koncerter;8;emne;Musik og koncerter;standard (ingen regel)
+437c940f-dd9b-4049-b8c9-0282740f0ec8;FOF Aarhus;Verdenskøkkenet;8;sted;Verdenskøkkenet;manuel
+96bae0c8-4a07-4f60-84d9-abc5e7aab7ec;FOF Djursland;Hensyntagende hold;8;målgruppe;Hensyntagende;regel: målgruppe
+9d4b3572-cf72-46e6-9d9f-f61c1d0372f7;FOF Herning;Nyhed;8;kampagne;Nyhed;regel: kampagne
+f90f682f-df52-43c1-997b-e80ade2f0aca;FOF Nordvestjylland;Studieby Holstebro;8;sted;Holstebro;bynavn: Holstebro
+7393f66a-0ca6-4055-a4e8-2be9634c883d;FOF Randers-Favrskov-Mariagerfjord-Viborg;Viborg;8;sted;Viborg;bynavn: Viborg
+27128e69-f449-4ade-8629-5f0d40d74022;FOF Sydjylland;Kultur og fritid;8;emne;Kultur og fritid;standard (ingen regel)
+842699ff-9e7f-4ba2-9d14-5dd4609b8ac7;FOF Sydjylland;Styrke- og konditionstræning;8;emne;Styrke- og konditionstræning;standard (ingen regel)
+2b1d9eff-e8aa-4b6f-9efa-eead516cb569;FOF Sydjylland;Yoga;8;emne;Yoga;standard (ingen regel)
+ca1ad5b7-3708-4a66-ba60-81a0715e09c1;FOF Sydvestjylland;Kurser på Fanø;8;sted;Fanø;bynavn: Fanø
+89ab6851-8a63-4121-9007-7e1ae12403b8;FOF Sydøstjylland;Gave-ideer;8;kampagne;Gaveidéer;manuel
+967fb037-6f98-4110-900f-14509c260a68;FOF Sønderjylland;Malene Mørk;8;underviser;Malene Mørk;manuel
+68289f5f-033d-47b2-b3c1-3f3006f9bf36;FOF Aarhus;Kulturhøjskole - temaside;7;format;Højskole;regel: format
+36bd8644-de46-4d17-b600-174315903c2c;FOF Aarhus;Kulturhøjskolen - fredagsforedrag;7;format;Foredrag;regel: format
+4f2a07c2-4d3b-485d-bc10-b7a18a6f76c4;FOF Djursland;Yoga;7;emne;Yoga;standard (ingen regel)
+4ab274a5-5c1b-4013-929f-724a3780b0de;FOF København og Nordsjælland;Børn og unge;7;målgruppe;Børn og unge;regel: målgruppe
+d1d4d226-aa55-4020-8d35-9c214be0cb0b;FOF København og Nordsjælland;Ferie - Vinter - Voksne;7;tid;Vinter;regel: tid
+77c674ba-846c-4ee2-9b53-f211c02fba10;FOF København og Nordsjælland;In English - Music;7;målgruppe;In English;regel: målgruppe
+a8de0f3b-ce2c-47e9-902a-fa6d6a2c4f4c;FOF Køge Bugt;Frederik Lindskov;7;underviser;Frederik Lindskov;manuel
+33b34080-43d4-4d4b-a489-1e813275ede1;FOF Køge Bugt;Stevns;7;sted;Stevns;bynavn: Stevns
+2b1e1ce9-bc22-4b60-b2a3-bcd4b79c1805;FOF Nordvestjylland;Motion;7;emne;Motion;standard (ingen regel)
+371f9f3e-4e8a-4fae-9c95-8af6f16afeba;FOF Syd- og Vestsjælland;Jul;7;tid;Jul og nytår;regel: tid
+38a4b7cc-43bf-4ee8-838b-52105d32b0f8;FOF Syd- og Vestsjælland;Sund mad;7;emne;Sund mad;standard (ingen regel)
+ea8239b0-b8b8-4432-aab7-fc71cfd65a5e;FOF Sydjylland;Foredrag og debat;7;format;Foredrag;regel: format
+ba4b477f-2422-4ec8-a3b9-0b9453d5aa94;FOF Sydjylland;Sprog niveau - Begyndere og fortsættere;7;emne;Sprog niveau - Begyndere og fortsættere;standard (ingen regel)
+0a24c77b-4ae3-4ec5-8f9d-5ba248d2b2f1;FOF Sydvestjylland;Nyheder;7;kampagne;Nyhed;regel: kampagne
+ba499d90-6ef3-4519-91b5-119d74894595;FOF Sydøstjylland;Kulturpas;7;kampagne;Kulturpas;regel: kampagne
+80745237-002b-45d9-a4fd-c78ce3810ad2;FOF Aarhus;Håndarbejdskurser;6;emne;Håndarbejdskurser;standard (ingen regel)
+6f97c37a-44c3-4309-acdf-cf49746174f2;FOF Aarhus;Julekursus;6;tid;Jul og nytår;regel: tid
+748f8f71-50d0-455c-9cd2-74e1d5358001;FOF Djursland;Foredrag, infoaftener, virksomhedsbesøg;6;format;Foredrag;manuel
+06518fbf-8b54-480e-8117-ea9439f64344;FOF Djursland;Madlavning;6;emne;Madlavning;standard (ingen regel)
+ec5ac5e5-4d84-4897-9308-78fa839f38ee;FOF Djursland;Ryomgård;6;sted;Ryomgård;bynavn: Ryomgård
+3f662c22-d0e3-4816-b0fc-e67a73743cc9;FOF Herning;Madkurser;6;emne;Madkurser;standard (ingen regel)
+b0f5b7f0-cfbb-46fe-a246-5d19a30cf592;FOF Københavns Omegn;Fam.Krea;6;målgruppe;Familie;regel: målgruppe
+9c413b0f-ce71-4446-b7bf-503503459135;FOF Køge Bugt;Marianne Bentzen;6;underviser;Marianne Bentzen;manuel
+7e2146a5-7303-4c70-84a4-86dcb85baae4;FOF Syd- og Vestsjælland;Efterårsferie;6;tid;Efterår;regel: tid
+01529485-0a26-4cfe-80b7-65c176ce4eba;FOF Syd- og Vestsjælland;Foredrag - Sorø;6;sted;Sorø;bynavn: Sorø
+6f5b2170-2522-4cdb-928d-2d6e38f3711e;FOF Sydjylland;Brørup Fysioterapi;6;sted;Brørup;bynavn: Brørup
+38bcd9a1-2a36-4c2d-84e8-488a955538cb;FOF Sydjylland;Forældreskab;6;målgruppe;Familie;regel: målgruppe
+276251b5-c87d-4b99-aa84-fe4fcd9190ea;FOF Sydjylland;It og foto;6;emne;It og foto;standard (ingen regel)
+8654931d-c623-47fd-86eb-a6b6c3645ae3;FOF Sydvestjylland;Nye kurser i Varde;6;sted;Varde;bynavn: Varde
+ab1ce5a0-759d-4d5a-a7de-7b583ce86761;FOF Sydøst;Aktuelle foredrag;6;format;Foredrag;regel: format
+015bf068-d04e-4b21-886a-ef7933f13e5b;FOF Sydøst;Sundhed og eksistens;6;emne;Sundhed og eksistens;standard (ingen regel)
+13108ee8-fe34-4c20-b3e0-5e686afae271;FOF Sydøstjylland;FOF Business;6;emne;FOF Business;standard (ingen regel)
+2e374ae7-9f0d-489f-918a-9202b48e3c8a;FOF Sønderjylland;Haderslev - foredrag;6;sted;Haderslev;bynavn: Haderslev
+a6be8a34-c751-4aed-8ce7-514fc268961a;FOF Aalborg;Keramik Hobrovej;5;sted;Keramik Hobrovej;manuel
+4443fc59-2464-4da7-864a-42a623bb356b;FOF Aalborg;Kreativ Boulevarden;5;sted;Kreativ Boulevarden;manuel
+eb2bf975-72b0-45bd-b248-5a38be6ce255;FOF Aalborg;Kreative sommerkurser;5;emne;Kreative kurser;manuel
+3e4e1af1-b425-4314-871c-a457ea986982;FOF Aarhus;Sykurser;5;emne;Sykurser;standard (ingen regel)
+824e15ba-d1fa-43a7-ba19-73b3f00c6bd4;FOF Djursland;Foredrag;5;format;Foredrag;regel: format
+e2b56715-f03c-4c11-8b2e-284af4fdda84;FOF København og Nordsjælland;Ferie - Jul - Familie;5;tid;Jul og nytår;regel: tid
+e820841d-5757-4b2f-ab9c-a2abf6bced91;FOF København og Nordsjælland;Historien – bid for bid;5;emne;Historien – bid for bid;standard (ingen regel)
+ede37aa8-926e-4754-b72f-367cc3a0725d;FOF København og Nordsjælland;Kommune - Halsnæs;5;sted;Halsnæs;bynavn: Halsnæs
+ad149059-6e1d-4ff0-92dd-b5f2de3ce189;FOF København og Nordsjælland;Vinsmagning;5;emne;Vinsmagning;standard (ingen regel)
+aa5cf778-8fdc-441e-8a1d-4ad3f3881115;FOF Københavns Omegn;Fam.Mad;5;målgruppe;Familie;regel: målgruppe
+8dac1482-a796-41ff-90b8-263ca85b58ad;FOF Københavns Omegn;hold albertslund;5;sted;Albertslund;bynavn: Albertslund
+00d5f97a-76a4-450c-905b-22d9474f2daf;FOF Københavns Omegn;hold ballerup;5;sted;Ballerup;bynavn: Ballerup
+4247d020-e7ce-47ae-a1a0-49cb79d738b7;FOF Syd- og Vestsjælland;Målgruppe 20-45 år (forældre);5;målgruppe;Familie;regel: målgruppe
+e537d006-90d8-45f9-83fb-8b98dbff437d;FOF Syd- og Vestsjælland;Teater og musicals;5;emne;Teater og musicals;standard (ingen regel)
+9dbf9bc2-1195-4f4b-9ebc-2779012bdb76;FOF Sydjylland;Græsk;5;emne;Græsk;standard (ingen regel)
+36845f8b-d5f6-4784-951d-2a106746c9c6;FOF Sydjylland;Jul;5;tid;Jul og nytår;regel: tid
+56ae13c3-a73d-4679-9590-c0705c58160f;FOF Sydjylland;Pilates;5;emne;Pilates;standard (ingen regel)
+a98ec591-132e-4e34-98d5-eb3974535da9;FOF Sydjylland;Træning i vand;5;emne;Træning i vand;standard (ingen regel)
+919733b7-efd7-473d-8ef5-00df7be15090;FOF Sydvestjylland;Courses taught in english;5;målgruppe;In English;regel: målgruppe
+4e7d11da-8f8a-4c8a-b1a3-0e8d137885bb;FOF Sydvestjylland;Malekurser;5;emne;Malekurser;standard (ingen regel)
+8dfbf658-96b3-4540-850e-04cd11b39b15;FOF Sønderjylland;Sønderborg - foredrag;5;sted;Sønderborg;bynavn: Sønderborg
+6b915d88-2a94-465c-b7e8-267da75dc91f;FOF Aalborg;Aften foredrag;4;tid;Aftenforedrag;regel: tid
+d90c4902-51c4-44ad-a718-38db824cc5c5;FOF Aalborg;Bevægelse (Sommer);4;emne;Bevægelse;manuel
+13a798af-a013-40b4-887e-d809d8d7c1e9;FOF Aarhus;Keramikkurser;4;emne;Keramikkurser;standard (ingen regel)
+8edc4086-d930-46f4-b9b8-7b47f3290f63;FOF Aarhus;Yoga;4;emne;Yoga;standard (ingen regel)
+953c625b-2121-44f4-aa6d-c71d59675399;FOF Djursland;Auning;4;sted;Auning;bynavn: Auning
+5f91f532-da30-4fd0-b9a4-778e236e3b4a;FOF Djursland;Ebeltoft;4;sted;Ebeltoft;bynavn: Ebeltoft
+e11d446c-9635-4bf7-99b3-75a724c98263;FOF Djursland;Mols;4;sted;Mols;bynavn: Mols
+0e360521-af19-489d-87c3-4efb832c436a;FOF Djursland;Mor, far og barn;4;målgruppe;Familie;regel: målgruppe
+00fec107-3597-4eeb-bee0-39fca56b72c5;FOF Djursland;Rønde;4;sted;Rønde;bynavn: Rønde
+47473279-33f8-4925-86a1-1c54b63b8416;FOF Djursland;Vrinners;4;sted;Vrinners;bynavn: Vrinners
+c1382bd5-9e72-451b-af31-cc96439b29ad;FOF København og Nordsjælland;In English - Cooking;4;målgruppe;In English;regel: målgruppe
+aa064e3a-f795-435b-a75d-569ae4ad969c;FOF Køge Bugt;Få pladser tilbage;4;kampagne;Få pladser tilbage;manuel
+a24a0205-8109-492a-8422-62f821100609;FOF Køge Bugt;hold bornholm;4;sted;Bornholm;bynavn: Bornholm
+35558a27-620d-4718-80d4-e5951da043d2;FOF Køge Bugt;hold roskilde;4;sted;Roskilde;bynavn: Roskilde
+25a932c6-8b05-42c5-9507-ac50c1f4b1aa;FOF Syd- og Vestsjælland;For børn og voksne (mad og krea);4;målgruppe;Familie;regel: målgruppe
+45f8a583-a6c7-44d0-a827-824bdde41d36;FOF Sydjylland;Aktiv i Aftenskolen - i Tønder;4;sted;Tønder;bynavn: Tønder
+a96e4ca6-d61d-4618-8329-cbfd54929226;FOF Sydjylland;FH efterår - enkeltvise foredrag;4;tid;Efterår;regel: tid
+7dd2dab0-c701-4b60-a47d-68e161040cec;FOF Sydjylland;Keramik;4;emne;Keramik;standard (ingen regel)
+823f47e1-15fe-4bb0-bee2-2259113ced9d;FOF Sydjylland;Maleri;4;emne;Maleri;standard (ingen regel)
+a988a702-b326-47b7-87ce-128981afb585;FOF Sydvestjylland;Bagning og søde sager;4;emne;Bagning og søde sager;standard (ingen regel)
+01beb95f-ccfe-424b-9073-bf5b8dbd462c;FOF Sydvestjylland;Graviditet, fødsel og barsel;4;målgruppe;Graviditet og barsel;regel: målgruppe
+1f8eee64-caa3-4093-8448-e3af0e9fcd63;FOF Sønderjylland;Kreativ;4;emne;Kreativ;standard (ingen regel)
+cfe256a0-ff44-4532-9e68-03ab55013c93;FOF Aalborg;Indgangsbillet FOF Garnfestivalg;3;kampagne;FOF Garnfestival;manuel
+cf348981-3c7d-4780-a889-4555440450cb;FOF Aarhus;Malekurser og akvarel;3;emne;Malekurser og akvarel;standard (ingen regel)
+c229db13-8192-49b3-a4a3-8a822abed088;FOF Aarhus;Studierabat - studiemessen 2026;3;kampagne;Studierabat - studiemessen 2026;regel: kampagne
+242df77d-d8a5-4332-be26-8e63620993b4;FOF Aarhus;Tegnekurser;3;emne;Tegnekurser;standard (ingen regel)
+e7a32feb-eb83-4778-862a-e82f63e73849;FOF Djursland;Agri;3;emne;Agri;standard (ingen regel)
+c74f6976-a813-4d46-a468-d06c79022cfc;FOF Djursland;Hornslet;3;sted;Hornslet;bynavn: Hornslet
+e45befac-af11-471b-a318-93ef9bf7e177;FOF Djursland;It;3;emne;It;standard (ingen regel)
+cfd4daf7-7eda-4f77-b61f-7b9b3054a080;FOF Djursland;Knebel;3;sted;Knebel;bynavn: Knebel
+3fd09acd-0f3d-49e2-bab2-8538a7e2075b;FOF Djursland;Kolind;3;sted;Kolind;bynavn: Kolind
+7d970bc0-7fa0-4a5b-90c9-dc1559dec47d;FOF Djursland;Livsstil og trivsel;3;emne;Livsstil og trivsel;standard (ingen regel)
+3e49d0c0-adf2-4f68-8431-2885d7593f02;FOF København og Nordsjælland;In English - Creative;3;målgruppe;In English;regel: målgruppe
+30832d2c-7f5d-41e3-80d1-4dd59908cdc9;FOF København og Nordsjælland;Kommune - Gribskov;3;sted;Gribskov;bynavn: Gribskov
+959692fa-e490-419c-b1c6-876a69caa61b;FOF København og Nordsjælland;Sprog - begynder;3;emne;Sprog - begynder;standard (ingen regel)
+191a0c70-e9b7-4757-b328-a4ef62558360;FOF København og Nordsjælland;UngSkaber Rudersdal;3;sted;Rudersdal;bynavn: Rudersdal
+8f9f3783-a7a0-4509-b6c2-95cd9143d33f;FOF Køge Bugt;Partnerskab;3;emne;Partnerskab;standard (ingen regel)
+e494e342-370c-4475-81bd-fa4fd7244975;FOF Randers-Favrskov-Mariagerfjord-Viborg;FVU;3;emne;FVU;standard (ingen regel)
+017bd075-be7d-4ec3-8b7c-3f5a043034de;FOF Sydjylland;Aktiv i Kolding;3;sted;Kolding;bynavn: Kolding
+de675ced-583f-44cc-bf05-25e2e76683ea;FOF Sydjylland;Arabisk;3;emne;Arabisk;standard (ingen regel)
+60c45b8a-b7fe-4302-b3c3-7e8637e76d77;FOF Sydjylland;Bevægelse og afspænding;3;emne;Bevægelse og afspænding;standard (ingen regel)
+fe908b11-f04a-40d7-befd-e7e317f21667;FOF Sydjylland;Få pladser tilbage;3;kampagne;Få pladser tilbage;manuel
+d031a86d-dd07-405d-9646-a78ee1fae85e;FOF Sydjylland;Håndarbejde;3;emne;Håndarbejde;standard (ingen regel)
+9e6020ee-45d8-4a6c-bb04-77b5b49d9c19;FOF Sydjylland;Højskoler - samlet;3;format;Højskole;regel: format
+5b9477d9-64ab-4648-bf02-3ae3e773cf84;FOF Sydjylland;Kulturrejser;3;format;Ture og rundvisninger;regel: format
+6f3efdac-c12f-4e4e-8bf0-d8ff643865ef;FOF Sydjylland;Mindfulness og meditation (Krop og sind);3;emne;Mindfulness og meditation (Krop og sind);standard (ingen regel)
+ec3201d1-9bef-44d0-b557-b45e0f547308;FOF Sydjylland;Ture og udflugter;3;format;Ture og rundvisninger;regel: format
+3504dcbd-bba4-4497-bb5e-85d97306cc2c;FOF Sydøst;Livsstil og trivsel;3;emne;Livsstil og trivsel;standard (ingen regel)
+45035e33-2f5d-4843-8f7d-20d7d4e2a2b3;FOF Sydøstjylland;Fængselsmuseet;3;sted;Fængselsmuseet;manuel
+93dc141f-ee9c-43bd-b138-381e57271d21;FOF Aalborg;Førstehjælp;2;emne;Førstehjælp;standard (ingen regel)
+1816022e-8228-4e6f-a2bb-a82b0226314d;FOF Aalborg;Gratis kurser;2;kampagne;Gratis kurser;regel: kampagne
+b1f619b1-d3c1-47b6-bb75-74c0cfe8ef13;FOF Aarhus;DELF/DALF;2;emne;DELF/DALF;standard (ingen regel)
+fc043880-66c5-43b5-ab9e-ae62f2e368b9;FOF Aarhus;Fransk;2;emne;Fransk;standard (ingen regel)
+e09eb962-a706-4165-85ec-e70adf06caf8;FOF Aarhus;Kor og fællessang;2;emne;Kor og fællessang;standard (ingen regel)
+cdbd957c-a274-47f2-afdb-8a07343a7aac;FOF Aarhus;Kursus for børn/familie;2;målgruppe;Familie;regel: målgruppe
+b2aed6f8-7b37-42d1-820b-8e170d05ce04;FOF Aarhus;Rabat - Studenterhus Aarhus;2;sted;Aarhus;bynavn: Aarhus
+a85ad3d7-4751-4421-8cf2-da1243f43876;FOF Aarhus;True crime;2;emne;True crime;standard (ingen regel)
+13e842ee-b20a-49e4-8920-f772431fc615;FOF Djursland;Bevægelse i vand;2;emne;Bevægelse i vand;standard (ingen regel)
+b158b981-00a7-4779-94fd-57416828e7e4;FOF Djursland;Infoaften;2;format;Infoaften;manuel
+86d22e79-aa12-4796-b7f7-b410cba1e664;FOF Djursland;Male- og tegnekurser;2;emne;Male- og tegnekurser;standard (ingen regel)
+fc09b98b-4246-49d9-9a4c-30c2e55cb964;FOF Djursland;Qigong;2;emne;Qigong;standard (ingen regel)
+61ca5196-046f-4446-a3e5-b918194c6898;FOF København og Nordsjælland;FORSTÅ;2;emne;FORSTÅ;standard (ingen regel)
+85a11c5d-080f-476e-98dc-93310e3293e3;FOF København og Nordsjælland;Foredragsrække;2;format;Foredrag;regel: format
+fc3537ff-1589-4a97-b963-31e84c49d9ac;FOF København og Nordsjælland;Foredragsrække, kunst og kultur;2;format;Foredrag;regel: format
+1721f91a-8412-4ae3-93ab-04d45416696a;FOF København og Nordsjælland;Hensyntagende;2;målgruppe;Hensyntagende;regel: målgruppe
+1e8fc680-dac9-427d-a5bf-e4e085be3b4d;FOF København og Nordsjælland;Sprog - Basisniveau (A);2;emne;Sprog - Basisniveau (A);standard (ingen regel)
+683b248e-06c2-47f5-b181-4c692b68cbff;FOF Køge Bugt;Per Bach Nissen;2;underviser;Per Bach Nissen;manuel
+d370541e-bf53-4c0c-8a94-c698be3dace8;FOF Køge Bugt;hold Solrød;2;sted;Solrød;bynavn: Solrød
+0d0d0dc1-1d71-4550-8075-2210a76ae7ed;FOF Syd- og Vestsjælland;Foredrag - Næstved;2;sted;Næstved;bynavn: Næstved
+ff347ab7-a123-484d-a87f-c4b96f1581ac;FOF Syd- og Vestsjælland;Tema - Asien;2;emne;Tema - Asien;standard (ingen regel)
+540b960f-99fd-434f-98f5-50381b547011;FOF Sydjylland;Aftenskolernes Foredragsforum i Vejen;2;sted;Vejen;bynavn: Vejen
+6ffe816c-4e41-489a-9010-9941729080bf;FOF Sydjylland;Aktiv i Aftenskolen - i Vejen;2;sted;Vejen;bynavn: Vejen
+16499733-09a3-44d3-8f60-6eafd7c39eda;FOF Sydjylland;Livsstil og trivsel;2;emne;Livsstil og trivsel;standard (ingen regel)
+9d099760-29b9-4826-bc27-5129c17c9b2e;FOF Sydjylland;Portugisisk;2;emne;Portugisisk;standard (ingen regel)
+68a63ca9-33bb-486d-b006-a82c6c52f924;FOF Sydjylland;Sang undervisning;2;emne;Sang undervisning;standard (ingen regel)
+4f86bd16-4ed8-44e2-9d82-4e6bcfc3e340;FOF Sydjylland;Sprog niveau - Til rejsebrug, mm.;2;format;Ture og rundvisninger;regel: format
+b09aad0d-aa26-4afe-9f62-f0ef2ab8bafa;FOF Sydjylland;Syning;2;emne;Syning;standard (ingen regel)
+e5d2e567-9817-4b58-99dd-c467edbf8d32;FOF Sydjylland;Tai Chi og Qi Gong;2;emne;Tai Chi og Qi Gong;standard (ingen regel)
+0c168dce-6670-477a-82bb-f0f792a71eb2;FOF Sydvestjylland;Yoga;2;emne;Yoga;standard (ingen regel)
+7304aec7-337f-4506-9fb7-37af9d3eb9a5;FOF Aalborg;FVU Digital;1;emne;FVU Digital;standard (ingen regel)
+3a63a296-6367-48ab-a27a-4eb7238f57c7;FOF Aalborg;Musik, sprog og nye interesser (Sommer);1;emne;Musik, sprog og nye interesser;manuel
+1bf27a0d-d698-48d9-923a-786a1fdf09ae;FOF Aarhus;Familie og børn;1;målgruppe;Familie;regel: målgruppe
+c3edf756-e421-4dd6-a8d0-49d8aa3d6b66;FOF Aarhus;Italiensk;1;emne;Italiensk;standard (ingen regel)
+bc627e22-d6a7-4f7b-a811-005567aefdf2;FOF Aarhus;Rabat - JP Oplev;1;kampagne;Rabat - JP Oplev;regel: kampagne
+90f24786-5c90-43c9-8b78-ca63a1c1a88d;FOF Djursland;Alt det andet;1;emne;Alt det andet;standard (ingen regel)
+31949aaf-2853-41ef-a263-579870c393af;FOF Djursland;Kompenserende;1;målgruppe;Hensyntagende;regel: målgruppe
+c7bb3e87-3324-4985-9aac-f07af53148b9;FOF Djursland;Musik og sang;1;emne;Musik og sang;standard (ingen regel)
+34d6086b-6d6c-4bb4-b669-6bf8ebc19978;FOF Djursland;Mørke;1;sted;Mørke;bynavn: Mørke
+7e8c115f-e9b6-465c-90ba-0c2a77381a3c;FOF Djursland;Natur og udeliv;1;emne;Natur og udeliv;standard (ingen regel)
+00440b13-3100-451e-9747-88d9d0eb9dc4;FOF Djursland;Pilates;1;emne;Pilates;standard (ingen regel)
+38a94305-948a-4596-8433-161a0f867037;FOF Djursland;Thorsager;1;sted;Thorsager;bynavn: Thorsager
+d9dd03ea-783a-483a-8381-33aa97fb0837;FOF Djursland;Tirstrup;1;sted;Tirstrup;bynavn: Tirstrup
+654b769e-0d48-4d0e-afc9-effbbe9d3475;FOF Djursland;Trustrup;1;sted;Trustrup;bynavn: Trustrup
+a3004d46-650b-44cd-b90d-a41856bb346d;FOF Djursland;Virksomhedsbesøg;1;emne;Virksomhedsbesøg;standard (ingen regel)
+ae5a9e6e-22a6-4aeb-8a80-1101569c072a;FOF Djursland;Ørsted;1;sted;Ørsted;bynavn: Ørsted
+5c6b5f00-8519-4b24-8e6f-13656cd4114c;FOF Djursland;Ørum;1;sted;Ørum;bynavn: Ørum
+11a7d740-dcfe-455d-b9b0-5427efd39d89;FOF København og Nordsjælland;EFTERÅR;1;tid;Efterår;regel: tid
+780b6b66-2e0b-4231-9a0f-1918884cdea7;FOF København og Nordsjælland;Ferie - Påske - Voksne;1;tid;Påske;regel: tid
+eb80f84b-da9f-4145-9483-10512b08da2b;FOF København og Nordsjælland;Ferie - Sommer - Motion;1;tid;Sommer;regel: tid
+56e0203c-23c3-4616-8470-23a5fd301b04;FOF København og Nordsjælland;Ferie - Vinter - Børn, unge og familier;1;tid;Vinter;regel: tid
+33d01260-b21a-480e-a764-e51d87b8a488;FOF København og Nordsjælland;PÅSKE;1;tid;Påske;regel: tid
+a934dd0b-1c00-468e-86ca-a0f6b9df8300;FOF København og Nordsjælland;SOMMER;1;tid;Sommer;regel: tid
+77fc7a14-b01f-4fad-a899-34f6ce560483;FOF København og Nordsjælland;Sprog - Mellemniveau (B);1;emne;Sprog - Mellemniveau (B);standard (ingen regel)
+6a85b260-54f3-41fd-9ad8-c5dba746bdbe;FOF København og Nordsjælland;Sundhedscentre - Frederiksberg;1;sted;Frederiksberg;bynavn: Frederiksberg
+558cc3d8-93ca-408e-bbe8-acbfda9ed7a2;FOF Københavns Omegn;Fam.Motion;1;målgruppe;Familie;regel: målgruppe
+c8d89026-55ce-4d8f-b9cf-34f49da241ea;FOF Københavns Omegn;Unge på vej;1;målgruppe;Børn og unge;regel: målgruppe
+07c83d3a-10aa-40fd-9b37-fcc732c282a1;FOF Køge Bugt;Ishøj;1;sted;Ishøj;bynavn: Ishøj
+01bcf192-5184-4d6d-a975-3352cc26fbdb;FOF Køge Bugt;Kirsten Rømer;1;underviser;Kirsten Rømer;manuel
+43fb55f7-663a-4164-8224-47075c6aa921;FOF Køge Bugt;hold lejre;1;sted;Lejre;bynavn: Lejre
+6d413a38-89c0-4314-aaaa-cc69dda5bc43;FOF Køge Bugt;hold stevns;1;sted;Stevns;bynavn: Stevns
+6bd577ea-fd1f-4797-8afa-50b2ecb82391;FOF Syd- og Vestsjælland;Foredrag med smagning;1;format;Foredrag;regel: format
+e53441b6-95fa-489e-b9ea-d4d3817c9ee3;FOF Syd- og Vestsjælland;Foredragsrækker;1;format;Foredrag;regel: format
+796ebe51-b421-46e0-a5f0-1561fb20dfdf;FOF Syd- og Vestsjælland;Kalender - December;1;tid;Kalender - December;regel: tid
+2a2cbe39-cc99-4821-9f95-4bf264f93482;FOF Syd- og Vestsjælland;Træning for forældre;1;målgruppe;Familie;regel: målgruppe
+3242db06-e1ee-48bc-8d6f-62cf710b64a1;FOF Sydjylland;Blomsterbinding;1;emne;Blomsterbinding;standard (ingen regel)
+af4fd44d-85c3-434a-b65d-82f4dea845e5;FOF Sydjylland;FH efterår - tur;1;tid;Efterår;regel: tid
+dca9de54-9c65-4c81-a069-f603549b7c51;FOF Sydjylland;For scleroseramte;1;målgruppe;For scleroseramte;regel: målgruppe
+18f38e78-fc0d-487a-8d7f-e687df1f8d63;FOF Sydjylland;Kolding Talks;1;sted;Kolding;bynavn: Kolding
+eaee8442-4d76-4a4a-aeb8-06ebb40f331a;FOF Sydjylland;Kor og fællessang;1;emne;Kor og fællessang;standard (ingen regel)
+3caba073-92fc-4aee-a5dc-be2b06435f50;FOF Sydjylland;Mental trivsel;1;emne;Mental trivsel;standard (ingen regel)
+a2c6ba55-ca3c-4b85-8fce-e569fed51a34;FOF Sydjylland;OK-Skolen;1;emne;OK-Skolen;standard (ingen regel)
+2e2865c7-7d23-4fb6-8844-887f3a79a726;FOF Sydjylland;Personlig udvikling;1;emne;Personlig udvikling;standard (ingen regel)
+93ef2547-4856-43fa-a7c1-8d99e94d486d;FOF Sydjylland;Sprog niveau - Let øvede og øvede;1;emne;Sprog niveau - Let øvede og øvede;standard (ingen regel)
+195d0f30-36de-4cb1-8b3e-83aaafe77dc5;FOF Sydjylland;Sund livsstil;1;emne;Sund livsstil;standard (ingen regel)
+c90609b5-eddd-4406-be81-44e9cc14ce9a;FOF Sydvestjylland;Foredrag i Varde;1;sted;Varde;bynavn: Varde
+56fe1745-cb02-41a1-a76a-25a3d07f8d08;FOF Sydvestjylland;Foredrag på Fanø;1;sted;Fanø;bynavn: Fanø
+0df0ea36-4124-456b-8b75-fe77f168860a;FOF Sydvestjylland;Nye kurser i Ribe;1;sted;Ribe;bynavn: Ribe
+c1089c55-9e92-416f-b20a-157c236ac6f6;FOF Sydvestjylland;Rejser, ture og rundvisninger;1;format;Ture og rundvisninger;regel: format
+bd21d996-a333-43b3-abdc-62c2668506b5;FOF Sydvestjylland;Sprog;1;emne;Sprog;standard (ingen regel)
+5271b2b0-87b6-41f2-b6ca-d400e3efd869;FOF Sydvestjylland;Syning;1;emne;Syning;standard (ingen regel)
+da8865dc-e0d2-455f-b71c-66c777cf0d7b;FOF Sydvestjylland;Ture;1;format;Ture og rundvisninger;regel: format
+c42e9018-ee41-47ec-b487-d3eecaa60408;FOF Sydvestjylland;Ture på Fanø;1;sted;Fanø;bynavn: Fanø
+c5fe902c-251d-48f7-b83f-1778e5d193a5;FOF Sydvestjylland;Yoga i Varde;1;sted;Varde;bynavn: Varde
+ae6d2d6e-dbcd-4efd-a4c6-2a7f18d5d591;FOF Sydøst;Yoga workshops;1;format;Workshops;regel: format
+84a9d509-ea9f-4bb7-9f1f-11e8e5eee40a;FOF Sydøst;natur og udeliv;1;emne;natur og udeliv;standard (ingen regel)
+d443c276-7d43-470b-8040-cae55d6a41eb;FOF Sydøstjylland;Prøvetime;1;format;Prøvetime;regel: format
+f422e53b-df92-4366-a00e-bc2cfa73c4ac;FOF Sydøstjylland;Sommerhold;1;tid;Sommer;manuel
+820952f8-164b-45f4-9f33-d17f20b65473;FOF Aalborg;2for1 hold;0;emne;2for1 hold;standard (ingen regel)
+c443d5d1-08df-4367-8156-f39dec5f48e0;FOF Aalborg;2for1 kurser;0;emne;2for1 kurser;standard (ingen regel)
+a893bf51-66bc-4e91-b3c3-75854686821f;FOF Aalborg;Få pladser;0;emne;Få pladser;standard (ingen regel)
+59ee167a-c35b-461f-a6dc-c562ab36d2df;FOF Aalborg;Gavekort;0;emne;Gavekort;standard (ingen regel)
+907559dc-7a83-4291-a356-4b2035ddcedf;FOF Aalborg;Louise Lange;0;emne;Louise Lange;standard (ingen regel)
+1e7c2bc4-2f90-4a8f-855c-93090a5f7b26;FOF Aalborg;Madlavning og smagsoplevelser (Sommer);0;tid;Sommer;regel: tid
+a0941a2d-c102-4639-9773-212e7b4c99d1;FOF Aalborg;Voldsgaard Gym;0;emne;Voldsgaard Gym;standard (ingen regel)
+14f99dba-68c4-4ef4-b67e-5c20f26f2635;FOF Aarhus;Cambridge English;0;målgruppe;In English;regel: målgruppe
+322910f2-79fa-4e8a-8d78-d0ea114d3049;FOF Aarhus;Efterårsferie;0;tid;Efterår;regel: tid
+0ce0d528-10a8-4674-999f-d6774b123d1a;FOF Aarhus;Goethe-tyskkurser;0;emne;Goethe-tyskkurser;standard (ingen regel)
+274631f2-0529-42cb-b136-325d04d5b9ba;FOF Aarhus;Natur og haver;0;emne;Natur og haver;standard (ingen regel)
+9ca423fb-1152-484c-befa-966fbe1d6c99;FOF Aarhus;PLIDA-italiensk;0;emne;PLIDA-italiensk;standard (ingen regel)
+ce16ec82-9a2d-40f6-98ba-3f9664a916ab;FOF Aarhus;Rabat - Grænseforeningen;0;kampagne;Rabat - Grænseforeningen;regel: kampagne
+c59a4176-e8ef-40ba-a753-edacb14a5b5a;FOF Aarhus;Sommerkursus;0;tid;Sommer;regel: tid
+b5b551a0-1146-4845-baed-16eafd9611a7;FOF Aarhus;Spansk;0;emne;Spansk;standard (ingen regel)
+0a2fb988-8b8a-4a74-94c7-02b0dcf6e43d;FOF Aarhus;Sprog;0;emne;Sprog;standard (ingen regel)
+d9b5b56b-d435-4ea7-93f7-3a7ed26939d0;FOF Aarhus;Tysk;0;emne;Tysk;standard (ingen regel)
+3fe49104-c754-4ee4-b4cf-cf3a9c497bb7;FOF Aarhus;Vinterferie;0;tid;Vinter;regel: tid
+68bb6d93-b914-4853-b0d1-e6562ba9bd7e;FOF Djursland;Bevægelse og afspænding;0;emne;Bevægelse og afspænding;standard (ingen regel)
+29bbadce-3921-49ce-9eac-1193f36faa90;FOF Djursland;Bjødstrup;0;emne;Bjødstrup;standard (ingen regel)
+739747bb-a6a6-4e96-a19c-2f3153c258c8;FOF Djursland;Dans;0;emne;Dans;standard (ingen regel)
+b0ee0cfc-3db0-411e-bea5-ae850abcff9f;FOF Djursland;Det du bør vide om;0;emne;Det du bør vide om;standard (ingen regel)
+ad625a5f-52d4-4b19-bd1c-624c6e25fddb;FOF Djursland;Engelsk;0;emne;Engelsk;standard (ingen regel)
+d722113e-780b-4630-bade-af0ce6306c38;FOF Djursland;Eskerod;0;emne;Eskerod;standard (ingen regel)
+075bf410-dac9-4a3a-9644-7feec318194e;FOF Djursland;Fannerup;0;emne;Fannerup;standard (ingen regel)
+bf547d6c-71cd-4802-a41f-1620de6f9f46;FOF Djursland;Feldballe;0;emne;Feldballe;standard (ingen regel)
+e4b786e0-fcd4-4495-a6a2-fc6e24807dc4;FOF Djursland;Fjellerup;0;emne;Fjellerup;standard (ingen regel)
+63360aa8-4f29-4f50-8479-50276f197dfa;FOF Djursland;Fransk;0;emne;Fransk;standard (ingen regel)
+e4cb3478-4875-4905-968d-7d3009fabda3;FOF Djursland;Friland;0;emne;Friland;standard (ingen regel)
+6ac282c8-ba57-4ee7-a320-3ad41945d57f;FOF Djursland;Gavekort;0;emne;Gavekort;standard (ingen regel)
+dce9d414-9e89-46cd-a4ec-2e5dee889583;FOF Djursland;Gjerrild;0;emne;Gjerrild;standard (ingen regel)
+8ffe63bf-a504-43dc-9055-da0882ee1ff0;FOF Djursland;Herrehold;0;emne;Herrehold;standard (ingen regel)
+491bbe59-c01d-4da9-8ba1-bedf7fbaecf4;FOF Djursland;Håndarbejde;0;emne;Håndarbejde;standard (ingen regel)
+2e020a42-8861-41b2-8c0c-6dcfdf1148cd;FOF Djursland;Italiensk;0;emne;Italiensk;standard (ingen regel)
+f4c40a54-5005-4cea-8661-22028c3be9b2;FOF Djursland;Kejlstrup;0;emne;Kejlstrup;standard (ingen regel)
+215d7d85-2d3e-4ba1-aa5a-6c48d59ecce6;FOF Djursland;Keramik;0;emne;Keramik;standard (ingen regel)
+fb237dd1-0019-402b-bc5c-e2f9a7f0411b;FOF Djursland;Kommunikation hold;0;emne;Kommunikation hold;standard (ingen regel)
+154bff29-de5b-4ab8-8b6c-b5b661c85f2a;FOF Djursland;Kulturfag;0;emne;Kulturfag;standard (ingen regel)
+cfccd231-0876-4a21-9a3f-8199f4838a82;FOF Djursland;Prøvegang;0;emne;Prøvegang;standard (ingen regel)
+fa277f16-4360-488f-a774-d1096109ee71;FOF Djursland;Spansk;0;emne;Spansk;standard (ingen regel)
+af4bdbc8-4789-4a6f-bf0d-6bc72e8e3c8b;FOF Djursland;Sproghold;0;emne;Sproghold;standard (ingen regel)
+cf52ee02-488d-4654-9439-fd1046f7d925;FOF Djursland;Stenvad;0;emne;Stenvad;standard (ingen regel)
+a70273ba-f243-4d1c-bb5c-ff975fd6e71b;FOF Djursland;Tysk;0;emne;Tysk;standard (ingen regel)
+4ad43f7d-6131-4d55-940b-81c73e9ee4ca;FOF Fyn-Fredericia;Hensynstagende hold;0;målgruppe;Hensyntagende;regel: målgruppe
+142a783d-74be-4abe-9499-c432d5dc0c52;FOF Herning;Bevægelse;0;emne;Bevægelse;standard (ingen regel)
+40a5adb7-2ee1-4441-a0fb-95fb01e9c944;FOF Herning;Kulturhøjskolen;0;format;Højskole;regel: format
+ecefa72d-c20c-457a-9be4-b1108ea3a5fc;FOF København og Nordsjælland;Børn og unge - Prøvetime;0;målgruppe;Børn og unge;regel: målgruppe
+ceb115a6-7798-4bde-8d61-88ab6c2a803a;FOF København og Nordsjælland;Familie - Prøvetime;0;målgruppe;Familie;regel: målgruppe
+540e478a-28a3-490a-a849-6a76dcc694fc;FOF København og Nordsjælland;Familie - Ture;0;målgruppe;Familie;regel: målgruppe
+6077c3a8-4bda-4c11-9d3d-2d88ca97a7da;FOF København og Nordsjælland;Ferie - Efterår - Børn;0;tid;Efterår;regel: tid
+d1a1e712-8ffb-484c-8c85-6a8518f12975;FOF København og Nordsjælland;Ferie - Efterår - Familie;0;tid;Efterår;regel: tid
+98ba35dd-ac9e-438f-90e3-60e246470dc8;FOF København og Nordsjælland;Ferie - Efterår - Voksne;0;tid;Efterår;regel: tid
+b7aecebe-76ef-46ca-bb8c-4b371d866421;FOF København og Nordsjælland;Ferie - Jul - Børn;0;tid;Jul og nytår;regel: tid
+4e9d829b-0a24-4207-8da5-609045519a71;FOF København og Nordsjælland;Ferie - Nytår;0;tid;Jul og nytår;regel: tid
+6ad3e53e-8671-427f-aa7a-a0e7342e34a1;FOF København og Nordsjælland;Ferie - Påske - Børn;0;tid;Påske;regel: tid
+07e87079-a551-49b4-8112-457ea932f09e;FOF København og Nordsjælland;Ferie - Påske - Familie;0;tid;Påske;regel: tid
+b2ecafea-6b8e-404c-9ed2-aa64a2017701;FOF København og Nordsjælland;Ferie - Sommer - Børn;0;tid;Sommer;regel: tid
+e651c6cb-8562-4d9d-8957-c17f0df33b06;FOF København og Nordsjælland;Ferie - Sommer - Familie;0;tid;Sommer;regel: tid
+7065b26c-608d-44a0-832e-cdcf421a7d8e;FOF København og Nordsjælland;Ferie - Sommer - Foredrag og ture;0;tid;Sommer;regel: tid
+878c2e04-90dc-4260-bad9-8af66c70a9ef;FOF København og Nordsjælland;Ferie - Sommer - Kommunikation;0;tid;Sommer;regel: tid
+7d9bb0ee-da0e-411b-a66f-2c4b00140bde;FOF København og Nordsjælland;Ferie - Sommer - Kreative kurser;0;tid;Sommer;regel: tid
+8bb61f60-94c1-4ae3-a386-377fc457b414;FOF København og Nordsjælland;Ferie - Sommer - Madlavning;0;tid;Sommer;regel: tid
+4dd69abd-7ed6-4bd9-9d77-c8b2aff59e38;FOF København og Nordsjælland;Ferie - Sommer - Musik og sang;0;tid;Sommer;regel: tid
+3f097ebb-e1b6-49ba-b535-1a15c04d85e6;FOF København og Nordsjælland;Ferie - Sommer - Sprog;0;tid;Sommer;regel: tid
+e528d383-f721-4f2a-b078-25bdc126dd83;FOF København og Nordsjælland;Ferie - Vinter - Børn;0;tid;Vinter;regel: tid
+a036989b-3800-4d18-acb4-17a5c3cddbc7;FOF København og Nordsjælland;Ferie - Vinter - Familie;0;tid;Vinter;regel: tid
+ceab9638-e850-4dee-b50c-10eca8a83ed9;FOF København og Nordsjælland;In English - Children and Family;0;målgruppe;In English;regel: målgruppe
+ce593656-b096-438b-94ad-ef1773b7d493;FOF København og Nordsjælland;In English - Exercise;0;målgruppe;In English;regel: målgruppe
+369a17aa-1cd2-459a-afe4-5e34ccf08ac0;FOF København og Nordsjælland;In English - Languages;0;målgruppe;In English;regel: målgruppe
+6bf284fd-9f7d-4279-89fa-623955e31c3d;FOF København og Nordsjælland;In English - Lectures and Excursions;0;målgruppe;In English;regel: målgruppe
+b7d0f345-3a37-4369-af72-1b7d45d86bc6;FOF København og Nordsjælland;Koncerter;0;emne;Koncerter;standard (ingen regel)
+19007029-2273-48b1-a998-a037faede383;FOF København og Nordsjælland;Sprog - Avanceret niveau (C);0;emne;Sprog - Avanceret niveau (C);standard (ingen regel)
+1ff3ccaa-af40-46a9-863f-777670f2712b;FOF København og Nordsjælland;Sprog – online;0;format;Sprog – online;regel: format
+dfe81e7a-738a-4ba2-bb42-ef9ba16cf90a;FOF København og Nordsjælland;Sundhedscentre - Gentofte;0;sted;Gentofte;bynavn: Gentofte
+66497573-0c3f-4a81-8438-d1aa2f91e4dc;FOF København og Nordsjælland;Sundhedscentre - København;0;sted;København;bynavn: København
+24030969-8a3e-43e3-b3b4-151a3a8eeae6;FOF København og Nordsjælland;Sundhedscentre - Rudersdal;0;sted;Rudersdal;bynavn: Rudersdal
+e1981910-0b43-4ebb-b084-421dfad3ee4b;FOF København og Nordsjælland;UngSkaber Lyngby-Taarbæk;0;sted;Lyngby;bynavn: Lyngby
+8149454c-e2d5-47ac-ba75-787d72c1397b;FOF København og Nordsjælland;VINTER;0;tid;Vinter;regel: tid
+78f37e87-d4d2-4c3a-adbd-7c9d9b4fcbea;FOF Københavns Omegn;Fam.Udflugter;0;målgruppe;Familie;regel: målgruppe
+56d0fd91-ab8c-42de-b30d-b9cbfb9ccd6b;FOF Københavns Omegn;hold rødovre;0;sted;Rødovre;bynavn: Rødovre
+c646e116-1521-4a2f-851f-8e61ef548b3e;FOF Københavns Omegn;hold vallensbæk;0;sted;Vallensbæk;bynavn: Vallensbæk
+c9fffee2-7fb9-4ab7-9afe-2e6740e2d163;FOF Køge Bugt;Nye hold;0;emne;Nye hold;standard (ingen regel)
+483b6df1-e8c4-4cd3-8591-58da8d7bd5ba;FOF Køge Bugt;Nye hold (1);0;emne;Nye hold (1);standard (ingen regel)
+b061ed7d-0b42-4640-93ec-e5af469c9145;FOF Køge Bugt;Workshop Greve;0;sted;Greve;bynavn: Greve
+5079da8e-5594-470e-bf13-49033c976df0;FOF Køge Bugt;hold ishøj;0;sted;Ishøj;bynavn: Ishøj
+954de3e2-cb9d-4148-88fc-f3c8b3270797;FOF Nordvestjylland;Sprog;0;emne;Sprog;standard (ingen regel)
+d783d05b-513c-4200-b160-cbd8fd02c5f3;FOF Randers-Favrskov-Mariagerfjord-Viborg;Favrskov;0;emne;Favrskov;standard (ingen regel)
+9d34edd3-c559-4367-9d05-bf4ab564728d;FOF Randers-Favrskov-Mariagerfjord-Viborg;Foredragranders;0;format;Foredrag;regel: format
+53726d22-6884-495a-bbe5-5398d45f2cc5;FOF Randers-Favrskov-Mariagerfjord-Viborg;Få pladser;0;emne;Få pladser;standard (ingen regel)
+3abeb714-0871-48b8-a90a-07f3732181d9;FOF Randers-Favrskov-Mariagerfjord-Viborg;Hensyntagende;0;målgruppe;Hensyntagende;regel: målgruppe
+868f18bf-34ba-4afd-9406-8f4e72eef9d6;FOF Randers-Favrskov-Mariagerfjord-Viborg;Mand;0;emne;Mand;standard (ingen regel)
+9921cacf-7364-4aa5-bad5-b9a853312302;FOF Randers-Favrskov-Mariagerfjord-Viborg;Mariagerfjord;0;emne;Mariagerfjord;standard (ingen regel)
+e8783995-9e1b-4de1-aa22-6e1895e114b7;FOF Randers-Favrskov-Mariagerfjord-Viborg;Randers;0;sted;Randers;bynavn: Randers
+7c8c3c95-6551-4dc5-be8c-45e885532cb6;FOF Randers-Favrskov-Mariagerfjord-Viborg;babyranders;0;emne;babyranders;standard (ingen regel)
+a0baab5a-960a-4ed6-bd56-4b7b369ba575;FOF Randers-Favrskov-Mariagerfjord-Viborg;yogaranders;0;emne;yogaranders;standard (ingen regel)
+68e0261d-81be-4d7a-97d3-28891bc19243;FOF Syd- og Vestsjælland;Kalender - September;0;tid;Kalender - September;regel: tid
+7417e5dc-d207-4682-bbeb-d42f9352ef81;FOF Syd- og Vestsjælland;Sommerhold;0;tid;Sommer;manuel
+02c5b8ce-e412-46a1-9e9e-ecd653eaed80;FOF Syd- og Vestsjælland;Vinsmagning;0;emne;Vinsmagning;standard (ingen regel)
+fbe41bee-dc36-42c8-916a-e5899596b372;FOF Syd- og Vestsjælland;Vinterferie;0;tid;Vinter;regel: tid
+90b0b358-5c3a-4c60-8f6a-2f3c1a53a92f;FOF Sydjylland;Baltic Travel;0;emne;Baltic Travel;standard (ingen regel)
+9ac234d4-8103-433d-958b-381993ab0675;FOF Sydjylland;Dansk - Danish;0;emne;Dansk - Danish;standard (ingen regel)
+6852bad8-c2a8-41f2-9ab0-afd7420f8537;FOF Sydjylland;Engelsk;0;emne;Engelsk;standard (ingen regel)
+90a59c85-f09b-4b21-9f77-c8ce0a6b7c44;FOF Sydjylland;FH efterår - samlet;0;tid;Efterår;regel: tid
+53d4d0c4-6e82-46b5-9644-be2621be153b;FOF Sydjylland;FH forår - enkeltvise foredrag;0;tid;Forår;regel: tid
+fd876218-9d6e-4b76-84b7-de728a31f6ed;FOF Sydjylland;FH forår - samlet;0;tid;Forår;regel: tid
+af9ca65f-159c-48b2-b1eb-b12e21d007c6;FOF Sydjylland;FH forår - tur;0;tid;Forår;regel: tid
+5a68bfd0-e5b7-4bf8-8232-491ea577508f;FOF Sydjylland;FOF Business;0;emne;FOF Business;standard (ingen regel)
+6aac4a0f-8c35-437c-a4ca-76b820907b9b;FOF Sydjylland;Ferieaktiviteter;0;emne;Ferieaktiviteter;standard (ingen regel)
+043fbc42-440e-48c2-a0f9-805aa95104df;FOF Sydjylland;Ferieaktiviteter for børn og unge i Aabenraa Kommune;0;sted;Aabenraa;bynavn: Aabenraa
+2d68699c-cbba-4285-b2cb-646df1ef950f;FOF Sydjylland;Ferieaktiviteter for børn og unge i Kolding Kommune;0;sted;Kolding;bynavn: Kolding
+e5c49e33-f1ea-4508-9ad9-f92488d8d4e8;FOF Sydjylland;For gigtramte;0;emne;For gigtramte;standard (ingen regel)
+2d9993eb-762a-4dfb-b938-84c95b922108;FOF Sydjylland;Fransk;0;emne;Fransk;standard (ingen regel)
+b495fd9c-e57c-40d1-aef2-e90a5a8ad671;FOF Sydjylland;Gavekort;0;emne;Gavekort;standard (ingen regel)
+98cd71f0-2b85-4c24-a39c-d2b5be4a4c31;FOF Sydjylland;Grafik og trykketeknik;0;emne;Grafik og trykketeknik;standard (ingen regel)
+5d5617b2-2773-4413-b6aa-91edf145fadc;FOF Sydjylland;HH - samlet;0;emne;HH - samlet;standard (ingen regel)
+6a6a3d8d-f403-488c-9044-b888e8ba0947;FOF Sydjylland;HH - ture;0;format;Ture og rundvisninger;regel: format
+b086aac4-72f7-4ad8-9d58-0f62c11db255;FOF Sydjylland;Instrumental undervisning;0;emne;Instrumental undervisning;standard (ingen regel)
+c4f178da-2dd5-402f-b2c7-1543d8b92fd9;FOF Sydjylland;Italiensk;0;emne;Italiensk;standard (ingen regel)
+958ed944-72f3-455e-af71-e6aec2571bcb;FOF Sydjylland;Keramik - Drejning;0;emne;Keramik - Drejning;standard (ingen regel)
+a36338bf-75dd-4474-a0f9-52e195c3b500;FOF Sydjylland;Kinesisk;0;emne;Kinesisk;standard (ingen regel)
+96c58f47-96d2-4e7f-81cf-92992219f4e5;FOF Sydjylland;Kropspleje;0;emne;Kropspleje;standard (ingen regel)
+a73fab97-0d4f-42de-96ce-e8c42e660106;FOF Sydjylland;Mensendieck;0;emne;Mensendieck;standard (ingen regel)
+e6ece1d4-a81d-411b-8c47-2ddd94b34d12;FOF Sydjylland;Musik og sang;0;emne;Musik og sang;standard (ingen regel)
+f946749a-1298-4124-a664-43ef8225fa98;FOF Sydjylland;Nyheder;0;kampagne;Nyhed;regel: kampagne
+3453c1d8-ad5e-49d2-ac8a-f541e6c4bd77;FOF Sydjylland;Orkester og samspil;0;emne;Orkester og samspil;standard (ingen regel)
+7552fe52-a4ac-42c0-b4d6-04f198f5206f;FOF Sydjylland;Prøvetimer;0;format;Prøvetimer;regel: format
+549b2fcf-30ef-4dec-b6b0-e24177d27629;FOF Sydjylland;Spansk;0;emne;Spansk;standard (ingen regel)
+14ba5f66-5c21-44af-a780-927c0c61093e;FOF Sydjylland;Sprog niveau - Genopfriskning;0;emne;Sprog niveau - Genopfriskning;standard (ingen regel)
+aa6674f7-519e-4ade-b1c6-89799adf5cf5;FOF Sydjylland;Sprog niveau - Meget øvede og avancerede;0;emne;Sprog niveau - Meget øvede og avancerede;standard (ingen regel)
+e1dd154b-8521-4695-a4cf-21e1d5be642c;FOF Sydjylland;Tysk;0;emne;Tysk;standard (ingen regel)
+d3d47ec6-936a-4445-8d75-92935d870674;FOF Sydjylland;Undervisermøder;0;emne;Undervisermøder;standard (ingen regel)
+2ff881a7-0ce3-46f3-bdd4-609902d77692;FOF Sydjylland;Væveriet;0;emne;Væveriet;standard (ingen regel)
+a476b2f2-2440-496d-9051-831e9771d663;FOF Sydvestjylland;Afspænding;0;emne;Afspænding;standard (ingen regel)
+860c7192-4b78-4020-a103-5936af4a446c;FOF Sydvestjylland;Bevægelse til musik;0;emne;Bevægelse til musik;standard (ingen regel)
+f789aded-d49c-46eb-b902-6bd26b28d584;FOF Sydvestjylland;Blæsere;0;emne;Blæsere;standard (ingen regel)
+f8657c4b-e39d-40b3-bb78-1a4a115f89c6;FOF Sydvestjylland;Foredrag er afholdt -oprydning?;0;format;Foredrag;regel: format
+2447b969-4866-4df0-a460-2ab13b5bc9a7;FOF Sydvestjylland;Guitar;0;emne;Guitar;standard (ingen regel)
+2568554c-2716-4923-899e-309867fa95b5;FOF Sydvestjylland;Hensyntagende hold;0;målgruppe;Hensyntagende;regel: målgruppe
+0a9ae5b2-ed30-44c5-976c-8909c249fb0d;FOF Sydvestjylland;Hesyntagende sommeryoga i Bramming;0;sted;Bramming;bynavn: Bramming
+148dc532-3104-4a96-94b6-9fb84ad1761f;FOF Sydvestjylland;It og foto;0;emne;It og foto;standard (ingen regel)
+54800e17-c167-44a2-ae9b-9491749a2176;FOF Sydvestjylland;Keramik;0;emne;Keramik;standard (ingen regel)
+c8e764a1-d06a-4eb6-8a99-ee9048da5db7;FOF Sydvestjylland;Klaver og harmonika;0;emne;Klaver og harmonika;standard (ingen regel)
+bfb81256-12cf-421f-b1b9-0b5468c0a466;FOF Sydvestjylland;Kor;0;emne;Kor;standard (ingen regel)
+1597262f-d41f-499a-bfcc-230a712d9b68;FOF Sydvestjylland;Kor og fællessang;0;emne;Kor og fællessang;standard (ingen regel)
+25e5cf5a-e178-425e-84e6-6e1158c1f5bb;FOF Sydvestjylland;Kurser afhold - oprydning?;0;emne;Kurser afhold - oprydning?;standard (ingen regel)
+b89e7c83-8373-4485-ae8a-bdc3970e968e;FOF Sydvestjylland;Musik og sang;0;emne;Musik og sang;standard (ingen regel)
+850aaa7c-2bee-4e71-94ba-6898541adab8;FOF Sydvestjylland;Musikteori og -produktion;0;emne;Musikteori og -produktion;standard (ingen regel)
+d9a67c58-25c7-4594-91a9-e226cfd1e18c;FOF Sydvestjylland;Nyhed (1);0;emne;Nyhed (1);standard (ingen regel)
+238d7f7a-45ef-40b9-981c-e0091a29e367;FOF Sydvestjylland;Nyhed (2);0;emne;Nyhed (2);standard (ingen regel)
+b9976396-ee6d-459a-9298-69252a333730;FOF Sydvestjylland;Pilates;0;emne;Pilates;standard (ingen regel)
+5d9f54d0-18f9-4d98-8e55-cba8076aff55;FOF Sydvestjylland;Redirect opsat;0;emne;Redirect opsat;standard (ingen regel)
+e2b63094-912c-4d88-a744-2169875b083b;FOF Sydvestjylland;Sammenspil og orkestre;0;emne;Sammenspil og orkestre;standard (ingen regel)
+4a230ebe-0c2a-45f3-a3d4-84c1f2e4c842;FOF Sydvestjylland;Sang og stemmetræning;0;emne;Sang og stemmetræning;standard (ingen regel)
+8e6ac838-44fb-4719-b2cb-e8b4f9494216;FOF Sydvestjylland;Sommeryoga i Bramming;0;sted;Bramming;bynavn: Bramming
+4652ff6e-0239-47e5-9d84-3bf599cfb1a1;FOF Sydvestjylland;Strengeinstrumenter;0;emne;Strengeinstrumenter;standard (ingen regel)
+7068ee99-c630-4597-8b59-4b86398f450e;FOF Sydvestjylland;Strygere;0;emne;Strygere;standard (ingen regel)
+9e9668e1-fa6d-4c6e-9836-3c539f5947f1;FOF Sydvestjylland;TRX;0;emne;TRX;standard (ingen regel)
+6e399fa9-86d6-4761-8a0c-02e64f7e1e92;FOF Sydvestjylland;Trommer og percussion;0;emne;Trommer og percussion;standard (ingen regel)
+31566662-69a7-4f62-9400-579cc116b5c4;FOF Sydvestjylland;Træning i vand;0;emne;Træning i vand;standard (ingen regel)
+541ebf61-b51f-4464-8907-c5d87adef657;FOF Sydøst;Aktuelle ture;0;format;Ture og rundvisninger;regel: format
+5f911fa7-4939-4ce1-a8ca-8c2badb888d0;FOF Sydøst;Gavekort;0;emne;Gavekort;standard (ingen regel)
+53aca8d9-ed3d-44fe-bfa0-517a4bc6e525;FOF Sydøst;Hensyntagende hold;0;målgruppe;Hensyntagende;regel: målgruppe
+948fadc9-6339-476d-9b1d-4470dc4b87e9;FOF Sydøst;Jul 2025;0;tid;Jul og nytår;regel: tid
+7177f734-0bc7-4f7f-8aaa-a8b720908e0d;FOF Sydøst;Tag test 1;0;intern;Tag test 1;regel: intern
+31933cc6-ae26-4eb6-9ce7-7f7a5832e9dc;FOF Sydøst;Tag test 2;0;intern;Tag test 2;regel: intern
+a7ddc62c-2b1c-4b86-b863-8af030c0b6fe;FOF Sydøstjylland;Bæredygtighed;0;emne;Bæredygtighed;standard (ingen regel)
+9824263b-c7fe-4d0c-9c72-4da536a5b4d3;FOF Sydøstjylland;Gavekort;0;emne;Gavekort;standard (ingen regel)
+07c1a9f4-78ed-4398-b08e-6fe4e0ce178d;FOF Sydøstjylland;Hold, der starter snart;0;tid;Starter snart;regel: tid
+534c7bd7-3635-487d-9a5d-de05dd37c964;FOF Sydøstjylland;Lærermøder;0;emne;Lærermøder;standard (ingen regel)
+906bf52e-1d29-4715-853d-ab91f1a04824;FOF Sydøstjylland;Naturens Uge;0;emne;Naturens Uge;standard (ingen regel)
+e63075ba-6bd6-46a5-80d8-d44f4a85c5aa;FOF Sydøstjylland;Yder områder Vejle;0;sted;Vejle;bynavn: Vejle
+657e603f-6f5b-4426-833f-65d5e4a5f8a7;FOF Sydøstjylland;Yogadag 2026;0;emne;Yogadag 2026;standard (ingen regel)
+a489e681-865d-4cf7-b0d3-d254a07c3c34;FOF Sydøstjylland;Yogaflex Skanderborg  mandag;0;sted;Skanderborg;bynavn: Skanderborg
+74e48a3f-d6b8-44bb-85df-5012caccf907;FOF Sydøstjylland;Yogaflex Skanderborg onsdag;0;sted;Skanderborg;bynavn: Skanderborg
+18f43c42-3d72-4440-b921-7541151ecbc7;FOF Sydøstjylland;Yogaflex Skanderborg tirsdag;0;sted;Skanderborg;bynavn: Skanderborg
+62b4a46f-963c-4643-a179-d6dfedaf79e3;FOF Sydøstjylland;Yogaflex Skanderborg torsdag;0;sted;Skanderborg;bynavn: Skanderborg
+4750a31b-90e2-4f57-821d-b9bbcf782bfd;FOF Sydøstjylland;Yogaflex mandag Horsens;0;sted;Horsens;bynavn: Horsens
+a2690026-7733-4219-8fb1-dd111767d56e;FOF Sydøstjylland;Yogaflex mandag Vejle;0;sted;Vejle;bynavn: Vejle
+3576a5e0-3d58-4641-b797-a92b1e5911a9;FOF Sydøstjylland;Yogaflex onsdag Horsens;0;sted;Horsens;bynavn: Horsens
+ae4e149b-5330-4fc7-bd01-659f6be3544d;FOF Sydøstjylland;Yogaflex onsdag Vejle;0;sted;Vejle;bynavn: Vejle
+05cd2b8f-dc08-4297-8224-a918e6ab289a;FOF Sydøstjylland;Yogaflex tirsdag Horsens;0;sted;Horsens;bynavn: Horsens
+7f25e18d-9617-465e-b6e2-5f44a1746b9e;FOF Sydøstjylland;Yogaflex tirsdag Vejle;0;sted;Vejle;bynavn: Vejle
+cbfc750f-8655-4b00-b8ee-09684145d8ff;FOF Sydøstjylland;Yogaflex torsdag Horsens;0;sted;Horsens;bynavn: Horsens
+cc19262c-ff33-44dd-a4d1-89a5cd689105;FOF Sydøstjylland;Yogaflex torsdag Vejle;0;sted;Vejle;bynavn: Vejle
+c20ed438-6719-43de-9991-791744a1d369;FOF Sønderjylland;Ana Marias hold;0;emne;Ana Marias hold;standard (ingen regel)
+cf81ab61-34bf-46ad-87ff-50066e01d0ad;FOF Sønderjylland;Dorthes hold;0;emne;Dorthes hold;standard (ingen regel)
+cd0b14f3-0043-4854-b360-4684654e5427;FOF Sønderjylland;Få pladser;0;emne;Få pladser;standard (ingen regel)
+1bc6832e-12ba-4bf9-96ff-f95612d6beef;FOF Sønderjylland;Gavekort;0;emne;Gavekort;standard (ingen regel)
+82097e1e-886a-47c2-b995-982960a23b95;FOF Sønderjylland;Madlavning;0;emne;Madlavning;standard (ingen regel)
+2230d526-681e-4270-90cb-dcc3a7c079a0;FOF Sønderjylland;Meikens hold;0;emne;Meikens hold;standard (ingen regel)
+3347acba-36a9-477c-918b-e4d8f1da422d;FOF Sønderjylland;Natur;0;emne;Natur;standard (ingen regel)
+32447ccc-045e-43ee-bbd3-a627de095887;FOF Sønderjylland;Yoga meditation Sønderborg;0;sted;Sønderborg;bynavn: Sønderborg
+f4cb9a55-3e0d-485a-9da8-ff42ac318389;FOF Østfyn;Starter snart;0;tid;Starter snart;regel: tid
+a136cab5-09cf-4996-b410-dec40fa7a497;FOF København og Nordsjælland;Frederiksberg - Musik og sang;;sted;Frederiksberg;tilføjet 2026-10-23
+e9c725dd-6848-427a-8b43-c1a5a57ec25e;FOF Fyn-Fredericia;Svendborg;;sted;Svendborg;tilføjet 2026-10-23
+1580caa5-f38e-4a08-921f-9f16a0831724;FOF Sydvestjylland;Hold i Varde Sundhedscenter;;sted;Varde;tilføjet 2026-10-23
+ee883521-a614-4cc2-a1dd-52cb59d8d371;FOF København og Nordsjælland;Frederiksberg - rundvisninger og ture;;sted;Frederiksberg;tilføjet 2026-10-23
+77541f12-936b-4d25-aa83-a3f64ceecdcb;FOF København og Nordsjælland;Frederiksberg - foredrag;;sted;Frederiksberg;tilføjet 2026-10-23

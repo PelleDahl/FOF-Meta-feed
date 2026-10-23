@@ -45,7 +45,7 @@ jobs:
           name: fof-alle-skoler-feed
           path: |
             fof-alle-skoler-feed.xml
-            fof-koebenhavn-og-nordsjaelland-feed.xml
+            fof-*-feed.xml
 
       - name: Commit and push updated feed
         id: commit
@@ -53,7 +53,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add fof-alle-skoler-feed.xml fof-koebenhavn-og-nordsjaelland-feed.xml og-image-cache.json
+          git add fof-alle-skoler-feed.xml fof-*-feed.xml og-image-cache.json
 
           if git diff --cached --quiet; then
             echo "No changes to commit."
@@ -68,5 +68,6 @@ jobs:
       - name: Purge jsDelivr cache
         if: steps.commit.outputs.changed == 'true'
         run: |
-          curl -s "https://purge.jsdelivr.net/gh/PelleDahl/FOF-Meta-feed@main/fof-alle-skoler-feed.xml"
-          curl -s "https://purge.jsdelivr.net/gh/PelleDahl/FOF-Meta-feed@main/fof-koebenhavn-og-nordsjaelland-feed.xml"
+          for f in fof-*-feed.xml; do
+            curl -s "https://purge.jsdelivr.net/gh/PelleDahl/FOF-Meta-feed@main/$f"
+          done
