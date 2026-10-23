@@ -82,7 +82,8 @@ For skolerne i `TAG_SCHOOLS` slår scriptet holdets tags op i FOF's Azure AI Sea
 
 - Holdene hentes fra `fof-courses-production` (`docType eq 'courseVariant'`, filtreret på `associationSlug`) og matches på holdnummer (`variantCourseNo` = `<g:id>`). Indeksets `tags`-felt er tomt, så tag-navnene slås op via `tagIds` i `tag`-noderne i `fof-external-production` (`x__Key` → `nodeName`).
 - Tags slås op i [`tag-mapping.csv`](tag-mapping.csv), der pr. tag-id angiver en `type` (sted, format, emne, målgruppe, tid, kampagne, underviser, intern) og et ensrettet navn (`normaliseret`), f.eks. `hold køge` → Køge. Tags af typen `intern` og `underviser` kommer ikke med.
-- `<g:custom_label_3>` er holdets første tag og `<g:custom_label_4>` det andet (én værdi hver, i Umbracos rækkefølge). `<g:internal_label>` indeholder alle holdets tags i Metas listeformat, f.eks. `['Grenaa','Nyhed','Korte kurser']`, til filtrering af produktsæt.
+- `<g:custom_label_3>` er holdets første tag (én værdi, i Umbracos rækkefølge). `<g:internal_label>` indeholder alle holdets tags plus holdets postdistrikt i Metas listeformat, f.eks. `['Korte kurser','København V']`, til filtrering af produktsæt.
+- `<g:custom_label_4>` er holdets by fra indeksets `cities`-felt, uden postdistrikt-endelse, så et produktsæt for en by er ét filter: `København K`/`København V` → København, `Aarhus C` → Aarhus. Byer med eget navn (Frederiksberg, Charlottenlund, Kongens Lyngby) bevares. Det præcise postdistrikt ligger i `internal_label`. Hold uden by (f.eks. online) har en tom `custom_label_4`.
 - Nye tags, der ikke står i `tag-mapping.csv`, kommer med under deres Umbraco-navn og logges (`[TAGS] … not in tag-mapping.csv`). Tilføj dem til filen med type og ensrettet navn.
 - Hold uden tags får ingen tag-felter.
 

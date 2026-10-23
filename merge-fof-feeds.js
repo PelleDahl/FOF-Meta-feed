@@ -430,11 +430,12 @@ async function loadTagLookup() {
   return lookup;
 }
 
-// Returnerer holdnummer → tag-navne (ensrettede, uden dubletter, i Umbracos rækkefølge) for én skole.
+// Returnerer holdnummer → { tags, district } for én skole: tag-navne (ensrettede, uden dubletter, i Umbracos
+// rækkefølge) og holdets postdistrikt fra indekset (f.eks. 'København K').
 async function loadSchoolTags(slug, tagLookup) {
   const docs = await searchAll(AZURE_COURSES_INDEX, {
     filter: `associationSlug eq '${slug}' and docType eq 'courseVariant'`,
-    select: 'variantCourseNo,tagIds'
+    select: 'variantCourseNo,tagIds,cities'
   });
   const tagsByHoldnr = new Map();
   const unmapped = new Set();
@@ -442,8 +443,9 @@ async function loadSchoolTags(slug, tagLookup) {
     const tags = (doc.tagIds || []).map((id) => tagLookup.get(id)).filter(Boolean);
     tags.filter((tag) => tag.unmapped).forEach((tag) => unmapped.add(tag.name));
     const names = [...new Set(tags.filter((tag) => !EXCLUDED_TAG_TYPES.has(tag.type)).map((tag) => tag.name))];
-    if (doc.variantCourseNo && names.length > 0) {
-      tagsByHoldnr.set(String(doc.variantCourseNo).trim(), names);
+    const district = holdDistrict(doc);
+    if (doc.variantCourseNo && (names.length > 0 || district)) {
+      tagsByHoldnr.set(String(doc.variantCourseNo).trim(), { tags: names, district });
     }
   }
   if (unmapped.size > 0) {
@@ -452,23 +454,24 @@ async function loadSchoolTags(slug, tagLookup) {
   return tagsByHoldnr;
 }
 
-// custom_label_3/4: holdets første og andet tag (én værdi hver, maks. 100 tegn).
-// internal_label: alle holdets tags i Metas listeformat, til filtrering af produktsæt.
+// custom_label_3: holdets første tag (én værdi, maks. 100 tegn). custom_label_4 er byen (sættes i buildItemsFromIndex).
+// internal_label: alle holdets tags plus postdistriktet i Metas listeformat, til filtrering af produktsæt.
 function applyTags(items, slug, tagsByHoldnr) {
   let tagged = 0;
   const result = items.map((item) => {
     const idMatch = item.match(/<g:id>([\s\S]*?)<\/g:id>/i);
-    const tags = idMatch && tagsByHoldnr.get(idMatch[1].trim());
-    if (!tags) {
+    const entry = idMatch && tagsByHoldnr.get(idMatch[1].trim());
+    if (!entry) {
       return item;
     }
 
-    tagged += 1;
-    const labels = tags
-      .slice(0, 2)
-      .map((tag, i) => `\n      <g:custom_label_${3 + i}>${escapeXml(tag.slice(0, 100))}</g:custom_label_${3 + i}>`)
-      .join('');
-    const internalLabel = `[${tags.map((tag) => `'${tag.replace(/'/g, '')}'`).join(',')}]`;
+    if (entry.tags.length > 0) {
+      tagged += 1;
+    }
+    const labels =
+      entry.tags.length > 0 ? `\n      <g:custom_label_3>${escapeXml(entry.tags[0].slice(0, 100))}</g:custom_label_3>` : '';
+    const all = [...new Set([...entry.tags, entry.district].filter(Boolean))];
+    const internalLabel = `[${all.map((label) => `'${label.replace(/'/g, '')}'`).join(',')}]`;
 
     return item.replace(
       /(\s*)<\/item>\s*$/i,
@@ -517,6 +520,17 @@ function normalPrice(doc) {
   return chosen ? chosen.price : null;
 }
 
+// Holdets postdistrikt fra indekset, f.eks. 'København K' eller 'Aarhus C'. Næsten alle hold har præcis én by.
+function holdDistrict(doc) {
+  return String((doc.cities || [])[0] || '').trim();
+}
+
+// Bynavn uden postdistrikt-endelse: 'København K' → 'København', 'Aalborg SV' → 'Aalborg'. Bruges i custom_label_4,
+// så et produktsæt for en by er ét filter; selve distriktet ligger i internal_label.
+function cityName(district) {
+  return district.replace(/\s+(C|K|M|N|S|V|Ø|NV|NØ|SV|SØ)$/u, '');
+}
+
 // Bygger <item>-elementer for én skole direkte fra fof-courses-production med samme felter som fof.dk's generator.
 // Medtager kun kommende, offentlige hold med ledige pladser og en pris, der starter inden for FEED_MONTHS_AHEAD måneder.
 async function buildItemsFromIndex(slug, taxonomyLookup) {
@@ -524,7 +538,7 @@ async function buildItemsFromIndex(slug, taxonomyLookup) {
     filter: `associationSlug eq '${slug}' and docType eq 'courseVariant'`,
     select:
       'variantCourseNo,variantCourseName,name,description,bodyText,courseSlug,imageUrl,prices,price,' +
-      'availableSeats,soldOut,variantStartDate,isPublic,taxonomyPaths,associationName'
+      'availableSeats,soldOut,variantStartDate,isPublic,taxonomyPaths,associationName,cities'
   });
 
   const now = new Date();
@@ -580,6 +594,7 @@ async function buildItemsFromIndex(slug, taxonomyLookup) {
       `      <g:custom_label_0>${escapeXml(taxonomyPath[0] || '')}</g:custom_label_0>`,
       `      <g:custom_label_1>${escapeXml(taxonomyPath[1] || '')}</g:custom_label_1>`,
       `      <g:custom_label_2>${escapeXml(taxonomyPath[2] || '')}</g:custom_label_2>`,
+      `      <g:custom_label_4>${escapeXml(cityName(holdDistrict(doc)))}</g:custom_label_4>`,
       `      <g:start_date>${new Date(doc.variantStartDate).toISOString()}</g:start_date>`,
       '    </item>'
     ].join('\n');
