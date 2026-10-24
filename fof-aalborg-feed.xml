@@ -394,27 +394,6 @@
       <g:internal_label>['Aalborg SV']</g:internal_label>
     </item>
 <item>
-      <g:id>26220561</g:id>
-      <g:title><![CDATA[Ryghold - hensyntagende]]></g:title>
-      <g:description><![CDATA[Styrk ryggen med skånsomme øvelser på hensyntagende ryghold. Tryg undervisning ved fysioterapeut. Tilmeld dig og få mere bevægelsesfrihed. Husk at tilføje bynavn i metadata, hvis relevant.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-aalborg/ryghold-hensyntagende-vlaurine?holdnr=26220561</g:link>
-      <g:image_link>https://www.fof.dk/media/fandiywn/yoga_3yoga.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>535.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Aalborg</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type></g:product_type>
-      <g:custom_label_0></g:custom_label_0>
-      <g:custom_label_1></g:custom_label_1>
-      <g:custom_label_2></g:custom_label_2>
-      <g:custom_label_4>Sulsted</g:custom_label_4>
-      <g:start_date>2026-11-04T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Sulsted']</g:internal_label>
-    </item>
-<item>
       <g:id>26205292</g:id>
       <g:title><![CDATA[Workshop - Punch Needle]]></g:title>
       <g:description><![CDATA[Lær Punch Needle hos FOF Aalborg. Skab smukke billedophæng og dekorationer med den populære broderiteknik. Workshop for både begyndere og øvede i Aalborg.]]></g:description>
@@ -435,6 +414,27 @@
       <g:start_date>2026-11-04T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Kulturpas</g:custom_label_3>
       <g:internal_label>['Kulturpas','Nørresundby']</g:internal_label>
+    </item>
+<item>
+      <g:id>26220561</g:id>
+      <g:title><![CDATA[Ryghold - hensyntagende]]></g:title>
+      <g:description><![CDATA[Styrk ryggen med skånsomme øvelser på hensyntagende ryghold. Tryg undervisning ved fysioterapeut. Tilmeld dig og få mere bevægelsesfrihed. Husk at tilføje bynavn i metadata, hvis relevant.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aalborg/ryghold-hensyntagende-vlaurine?holdnr=26220561</g:link>
+      <g:image_link>https://www.fof.dk/media/fandiywn/yoga_3yoga.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>535.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aalborg</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type></g:product_type>
+      <g:custom_label_0></g:custom_label_0>
+      <g:custom_label_1></g:custom_label_1>
+      <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Sulsted</g:custom_label_4>
+      <g:start_date>2026-11-04T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Sulsted']</g:internal_label>
     </item>
 <item>
       <g:id>26230177</g:id>
@@ -876,28 +876,6 @@
       <g:internal_label>['Nyhed','Aalborg']</g:internal_label>
     </item>
 <item>
-      <g:id>26205298</g:id>
-      <g:title><![CDATA[Lav smukke og kreative blomster]]></g:title>
-      <g:description><![CDATA[Lav smukke blomster af piberenser på en kreativ workshop hos FOF Aalborg. Materialer er inkluderet, og alle kan være med – også begyndere.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-aalborg/lav-smukke-og-kreative-blomster?holdnr=26205298</g:link>
-      <g:image_link>https://www.fof.dk/media/idmatmgd/piberenser-blomster.png?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>380.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Aalborg</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Kreative kurser &gt; Håndarbejde</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Kreative kurser</g:custom_label_1>
-      <g:custom_label_2>Håndarbejde</g:custom_label_2>
-      <g:custom_label_4>Nørresundby</g:custom_label_4>
-      <g:start_date>2026-11-08T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Nyhed</g:custom_label_3>
-      <g:internal_label>['Nyhed','Kulturpas','Kreative kurser','Nørresundby']</g:internal_label>
-    </item>
-<item>
       <g:id>26280329</g:id>
       <g:title><![CDATA[Pippi Blouse – Strikkeworkshop med Højberg Studio]]></g:title>
       <g:description><![CDATA[Lær hulmønster og hæklede blondekanter fra Pippi Blouse på en hyggelig strikkeworkshop med Marie fra Højberg Studio hos FOF Aalborg.]]></g:description>
@@ -918,6 +896,28 @@
       <g:start_date>2026-11-08T00:00:00.000Z</g:start_date>
       <g:custom_label_3>FOF Garnfestival</g:custom_label_3>
       <g:internal_label>['FOF Garnfestival','Aalborg SV']</g:internal_label>
+    </item>
+<item>
+      <g:id>26205298</g:id>
+      <g:title><![CDATA[Lav smukke og kreative blomster]]></g:title>
+      <g:description><![CDATA[Lav smukke blomster af piberenser på en kreativ workshop hos FOF Aalborg. Materialer er inkluderet, og alle kan være med – også begyndere.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aalborg/lav-smukke-og-kreative-blomster?holdnr=26205298</g:link>
+      <g:image_link>https://www.fof.dk/media/idmatmgd/piberenser-blomster.png?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>380.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aalborg</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Kreative kurser &gt; Håndarbejde</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Kreative kurser</g:custom_label_1>
+      <g:custom_label_2>Håndarbejde</g:custom_label_2>
+      <g:custom_label_4>Nørresundby</g:custom_label_4>
+      <g:start_date>2026-11-08T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Nyhed</g:custom_label_3>
+      <g:internal_label>['Nyhed','Kulturpas','Kreative kurser','Nørresundby']</g:internal_label>
     </item>
 <item>
       <g:id>26220241</g:id>
@@ -2077,6 +2077,50 @@
       <g:custom_label_4>Aalborg</g:custom_label_4>
       <g:start_date>2026-12-05T00:00:00.000Z</g:start_date>
       <g:internal_label>['Aalborg SV']</g:internal_label>
+    </item>
+<item>
+      <g:id>26210025</g:id>
+      <g:title><![CDATA[Fyldte chokolader]]></g:title>
+      <g:description><![CDATA[Lær at lave fyldte chokolader med Rikke Imer hos FOF Aalborg. Få tryg vejledning i temperering og støbning. Tag chokolader og opskrifter med hjem.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aalborg/fyldte-chokolader?holdnr=26210025</g:link>
+      <g:image_link>https://www.fof.dk/media/peidq0vn/fylde-chokolader.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>775.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aalborg</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Madlavning og drikkevarer &gt; Bagning og søde sager</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
+      <g:custom_label_2>Bagning og søde sager</g:custom_label_2>
+      <g:custom_label_4>Nørresundby</g:custom_label_4>
+      <g:start_date>2026-12-05T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Nyhed</g:custom_label_3>
+      <g:internal_label>['Nyhed','Nørresundby']</g:internal_label>
+    </item>
+<item>
+      <g:id>26210030</g:id>
+      <g:title><![CDATA[Flødebollekursus]]></g:title>
+      <g:description><![CDATA[Lav 10 flødeboller med Rikke Imer hos FOF Aalborg. Få tryg vejledning i skum, chokolade og pynt. Tag opskrifter og flødeboller med hjem. Tilmeld dig i dag!]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aalborg/floedebollekursus?holdnr=26210030</g:link>
+      <g:image_link>https://www.fof.dk/media/ys1mj5cw/floedeboller.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>575.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aalborg</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Madlavning og drikkevarer &gt; Bagning og søde sager</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
+      <g:custom_label_2>Bagning og søde sager</g:custom_label_2>
+      <g:custom_label_4>Nørresundby</g:custom_label_4>
+      <g:start_date>2026-12-05T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Nyhed</g:custom_label_3>
+      <g:internal_label>['Nyhed','Nørresundby']</g:internal_label>
     </item>
 <item>
       <g:id>26205231</g:id>

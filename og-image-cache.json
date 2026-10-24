@@ -47,6 +47,10 @@
     "ogImage": "https://www.fof.dk/media/gyloxs4t/figurtegning.png?width=1200",
     "fetchedAt": "2026-10-20T13:05:43.888Z"
   },
+  "https://www.fof.dk/aftenskolen/fof-aalborg/floedebollekursus": {
+    "ogImage": "https://www.fof.dk/media/ys1mj5cw/floedeboller.jpg?width=1200",
+    "fetchedAt": "2026-10-24T12:50:19.464Z"
+  },
   "https://www.fof.dk/aftenskolen/fof-aalborg/foerstehjaelp-basal-genoplivning": {
     "ogImage": "https://www.fof.dk/media/shfpg3h2/basal-foerstehjaelp.png?width=1200",
     "fetchedAt": "2026-10-20T13:05:43.898Z"
@@ -70,6 +74,10 @@
   "https://www.fof.dk/aftenskolen/fof-aalborg/fra-melodunte-til-eurovision": {
     "ogImage": "https://www.fof.dk/media/lhbbgcyc/nicolai-holmboe.jpg?width=1200",
     "fetchedAt": "2026-10-20T13:05:47.226Z"
+  },
+  "https://www.fof.dk/aftenskolen/fof-aalborg/fyldte-chokolader": {
+    "ogImage": "https://www.fof.dk/media/peidq0vn/fylde-chokolader.jpg?width=1200",
+    "fetchedAt": "2026-10-24T12:50:19.616Z"
   },
   "https://www.fof.dk/aftenskolen/fof-aalborg/fyraftens-pilates": {
     "ogImage": "https://www.fof.dk/media/ilocvjth/pilates_2pilates.jpg?width=1200",
@@ -534,10 +542,6 @@
   "https://www.fof.dk/aftenskolen/fof-aarhus/guide-til-den-kvindelige-cyklus": {
     "ogImage": "https://www.fof.dk/media/lrpjo0cd/laila-t%C3%B3rsheim-1200x1200-fof-aarhus.jpg?width=1200",
     "fetchedAt": "2026-10-20T13:06:01.322Z"
-  },
-  "https://www.fof.dk/aftenskolen/fof-aarhus/hvad-er-autisme-en-familieguide": {
-    "ogImage": "https://www.fof.dk/media/sxido2cc/dorhte-hoelck.jpg?width=1200",
-    "fetchedAt": "2026-10-20T13:05:49.878Z"
   },
   "https://www.fof.dk/aftenskolen/fof-aarhus/hvad-vise-kvinder-ved-om-overgangsalderen": {
     "ogImage": "https://www.fof.dk/media/5zpn5hml/laila_t%C3%B3rsheim_foredragsholder_fof_aarhus_1200x1200.jpg?width=1200",
@@ -1610,6 +1614,10 @@
   "https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/complete-vocal-technique-workshop": {
     "ogImage": "https://www.fof.dk/media/ntwdoa0e/sangundervisning-fofkn-aftenskolen-musik-og-sang-stock-230813593.jpg?width=1200",
     "fetchedAt": "2026-10-20T13:06:21.086Z"
+  },
+  "https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/croquis": {
+    "ogImage": "https://www.fof.dk/media/tfwpzovd/croquis-fofkn-aftenskolen-kreative-kurser-1.jpg?width=1200",
+    "fetchedAt": "2026-10-24T12:50:24.781Z"
   },
   "https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/croquis-og-portraet": {
     "ogImage": "https://www.fof.dk/media/h12hkk5n/croquis-tegning-fofkn-aftenskolen-kreative-kurser-stock16645033.jpg?width=1200",
@@ -2698,10 +2706,6 @@
   "https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/smykkekursus-boernetegning-som-inspiration": {
     "ogImage": "https://www.fof.dk/media/3wbnah5a/anne-marie-boernetegninger.jpg?width=1200",
     "fetchedAt": "2026-10-20T13:06:34.723Z"
-  },
-  "https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/smykkekursus-modeller-i-voks": {
-    "ogImage": "https://www.fof.dk/media/rkcfmdlk/smykkekursus-fofkn-aftenskolen-kreative-kurser-1.jpg?width=1200",
-    "fetchedAt": "2026-10-20T13:06:35.171Z"
   },
   "https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/snublesten-i-koebenhavn": {
     "ogImage": "https://www.fof.dk/media/wkubokhk/snublesten.jpg?width=1200",
@@ -5846,10 +5850,6 @@
   "https://www.fof.dk/aftenskolen/fof-sydvestjylland/cocktailkursus-for-kvinder": {
     "ogImage": "https://www.fof.dk/media/wtwn43dz/kurser-madlavning-drikkevarer-cocktailkursus-for-kvinder-sydvestjylland-fof-aftenskolen.png?width=1200",
     "fetchedAt": "2026-10-20T13:05:36.810Z"
-  },
-  "https://www.fof.dk/aftenskolen/fof-sydvestjylland/danny-jes-syng-med-foredrag-flemming-bamse-joergensen": {
-    "ogImage": "https://www.fof.dk/media/33lhyzxk/foredrag-danny-jes-syng-med-foredrag-bamse-debat-musik-koncerter-fof-aftenskolen-sydvestjylland.jpg?width=1200",
-    "fetchedAt": "2026-10-20T13:05:35.159Z"
   },
   "https://www.fof.dk/aftenskolen/fof-sydvestjylland/efterfoedselstraening": {
     "ogImage": "https://www.fof.dk/media/uk1jty0k/kurser-motion-og-sundhed-efterfoedselstraening-esbjerg-sydvestjylland-fof-aftenskolen.jpg?width=1200",
