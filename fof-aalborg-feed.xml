@@ -1531,28 +1531,6 @@
       <g:internal_label>['Foredrag','Aftenforedrag','Aalborg SV']</g:internal_label>
     </item>
 <item>
-      <g:id>26215861</g:id>
-      <g:title><![CDATA[Fotografi for begyndere]]></g:title>
-      <g:description><![CDATA[Lær at tage bedre billeder med din smartphone på et fotokursus for begyndere hos FOF Aalborg. Få styr på lys, komposition, portrætter og meget mere.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-aalborg/fotografi-for-begyndere?holdnr=26215861</g:link>
-      <g:image_link>https://www.fof.dk/media/3wqhc23j/fotografi-for-begyndere.png?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>340.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Aalborg</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; It og foto &gt; Foto og video</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>It og foto</g:custom_label_1>
-      <g:custom_label_2>Foto og video</g:custom_label_2>
-      <g:custom_label_4>Aalborg</g:custom_label_4>
-      <g:start_date>2026-11-24T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Nyhed</g:custom_label_3>
-      <g:internal_label>['Nyhed','Aalborg']</g:internal_label>
-    </item>
-<item>
       <g:id>26280005</g:id>
       <g:title><![CDATA[Fra Everest til Alene i Vildmarken]]></g:title>
       <g:description><![CDATA[Mød Rasmus Kiilerich Kragh, vinder af Alene i Vildmarken, til et personligt foredrag hos FOF Aalborg om 63 dage alene i den finske vildmark.]]></g:description>
@@ -1573,6 +1551,28 @@
       <g:start_date>2026-11-24T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Foredrag</g:custom_label_3>
       <g:internal_label>['Foredrag','Aftenforedrag']</g:internal_label>
+    </item>
+<item>
+      <g:id>26215861</g:id>
+      <g:title><![CDATA[Fotografi for begyndere]]></g:title>
+      <g:description><![CDATA[Lær at tage bedre billeder med din smartphone på et fotokursus for begyndere hos FOF Aalborg. Få styr på lys, komposition, portrætter og meget mere.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aalborg/fotografi-for-begyndere?holdnr=26215861</g:link>
+      <g:image_link>https://www.fof.dk/media/3wqhc23j/fotografi-for-begyndere.png?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>340.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aalborg</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; It og foto &gt; Foto og video</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>It og foto</g:custom_label_1>
+      <g:custom_label_2>Foto og video</g:custom_label_2>
+      <g:custom_label_4>Aalborg</g:custom_label_4>
+      <g:start_date>2026-11-24T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Nyhed</g:custom_label_3>
+      <g:internal_label>['Nyhed','Aalborg']</g:internal_label>
     </item>
 <item>
       <g:id>26220387</g:id>
