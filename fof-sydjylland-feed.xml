@@ -773,7 +773,7 @@
       <g:custom_label_4>Kolding</g:custom_label_4>
       <g:start_date>2026-11-09T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Jul og nytår</g:custom_label_3>
-      <g:internal_label>['Jul og nytår','Kolding','Familie','Madlavning']</g:internal_label>
+      <g:internal_label>['Jul og nytår','Kolding','Starter snart','Familie','Madlavning']</g:internal_label>
     </item>
 <item>
       <g:id>2622605</g:id>
@@ -795,7 +795,7 @@
       <g:custom_label_4>Kolding</g:custom_label_4>
       <g:start_date>2026-11-09T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Kolding</g:custom_label_3>
-      <g:internal_label>['Kolding','Græsk','Sprog','Sprog niveau - Let øvede og øvede']</g:internal_label>
+      <g:internal_label>['Kolding','Starter snart','Græsk','Sprog','Sprog niveau - Let øvede og øvede']</g:internal_label>
     </item>
 <item>
       <g:id>2622601</g:id>
@@ -820,28 +820,6 @@
       <g:internal_label>['Haderslev','Sprog','Græsk','Sprog niveau - Begyndere og fortsættere']</g:internal_label>
     </item>
 <item>
-      <g:id>2624116</g:id>
-      <g:title><![CDATA[Mor træning og babytummel]]></g:title>
-      <g:description><![CDATA[Kom i form efter fødslen sammen med din baby. Træning for mødre med styrkeøvelser, babytummel og hyggeligt fællesskab. Se mere og tilmeld dig.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-sydjylland/mor-traening-og-babytummel?holdnr=2624116</g:link>
-      <g:image_link>https://www.fof.dk/media/3ykmehco/efterfoedselstraening-3.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>589.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Sydjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Efterfødselstræning</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
-      <g:custom_label_2>Efterfødselstræning</g:custom_label_2>
-      <g:custom_label_4>Vejen</g:custom_label_4>
-      <g:start_date>2026-11-10T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Vejen</g:custom_label_3>
-      <g:internal_label>['Vejen','Graviditet og barsel']</g:internal_label>
-    </item>
-<item>
       <g:id>2625777</g:id>
       <g:title><![CDATA[Pilates for let øvede og øvede]]></g:title>
       <g:description><![CDATA[Vi bygger videre på fundamentet fra det du lærte på tidligere hold og tempoet øges, så du får en endnu mere dynamisk og udfordrende træning. Se mere og tilmeld dig.]]></g:description>
@@ -862,6 +840,28 @@
       <g:start_date>2026-11-10T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Aabenraa</g:custom_label_3>
       <g:internal_label>['Aabenraa','Motion og sundhed','Pilates']</g:internal_label>
+    </item>
+<item>
+      <g:id>2624116</g:id>
+      <g:title><![CDATA[Mor træning og babytummel]]></g:title>
+      <g:description><![CDATA[Kom i form efter fødslen sammen med din baby. Træning for mødre med styrkeøvelser, babytummel og hyggeligt fællesskab. Se mere og tilmeld dig.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydjylland/mor-traening-og-babytummel?holdnr=2624116</g:link>
+      <g:image_link>https://www.fof.dk/media/3ykmehco/efterfoedselstraening-3.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>589.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Efterfødselstræning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
+      <g:custom_label_2>Efterfødselstræning</g:custom_label_2>
+      <g:custom_label_4>Vejen</g:custom_label_4>
+      <g:start_date>2026-11-10T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Vejen</g:custom_label_3>
+      <g:internal_label>['Vejen','Graviditet og barsel']</g:internal_label>
     </item>
 <item>
       <g:id>2625931</g:id>

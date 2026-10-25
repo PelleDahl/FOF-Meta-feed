@@ -6,28 +6,6 @@
 <description>Meta produktfeed med alle ledige hold fra FOF Sydvestjylland</description>
 <language>da-DK</language>
 <item>
-      <g:id>262411</g:id>
-      <g:title><![CDATA[Hjemmelavede flødeboller - børn med voksne]]></g:title>
-      <g:description><![CDATA[Lav flødeboller sammen – én voksen og ét barn. Lær at lave luftigt skum, chokoladeovertræk og pynt. Sjov og sød aktivitet for hele familien.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-sydvestjylland/hjemmelavede-floedeboller-boern-med-voksne?holdnr=262411</g:link>
-      <g:image_link>https://www.fof.dk/media/dz1nad23/madlavning-hjemmelavede-floedeboller-vest-fof-aftenskolen.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>395.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Sydvestjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Familie, børn og unge &gt; Madlavning</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Familie, børn og unge</g:custom_label_1>
-      <g:custom_label_2>Madlavning</g:custom_label_2>
-      <g:custom_label_4>Esbjerg</g:custom_label_4>
-      <g:start_date>2026-10-25T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Starter snart</g:custom_label_3>
-      <g:internal_label>['Starter snart','Madlavning og drikkevarer','Esbjerg']</g:internal_label>
-    </item>
-<item>
       <g:id>262332</g:id>
       <g:title><![CDATA[Linoleumstryk]]></g:title>
       <g:description><![CDATA[Udforsk kroppen i kunsten med tegning, collage og skulptur. Et kreativt kursus med fordybelse, materialer og kunstblik i trygge rammer hos FOF. Tilmeld dig her.]]></g:description>
@@ -222,8 +200,8 @@
       <g:custom_label_2>Fest- og hverdagsmad</g:custom_label_2>
       <g:custom_label_4>Esbjerg</g:custom_label_4>
       <g:start_date>2026-11-10T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Fanø</g:custom_label_3>
-      <g:internal_label>['Fanø','Madlavning og drikkevarer','Esbjerg']</g:internal_label>
+      <g:custom_label_3>Starter snart</g:custom_label_3>
+      <g:internal_label>['Starter snart','Fanø','Madlavning og drikkevarer','Esbjerg']</g:internal_label>
     </item>
 <item>
       <g:id>262429</g:id>
