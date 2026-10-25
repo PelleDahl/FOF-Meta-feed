@@ -703,10 +703,6 @@
     "ogImage": "https://www.fof.dk/media/bzhpvyrh/moebelpolstring_1200x1200_aarhus.jpg?width=1200",
     "fetchedAt": "2026-10-20T13:05:51.613Z"
   },
-  "https://www.fof.dk/aftenskolen/fof-aarhus/musikhistorie-jazzen-i-det-21-aarhundrede": {
-    "ogImage": "https://www.fof.dk/media/bcqfuiyv/musikhistorie-jazz-1200x1200-fof-aarhus.jpg?width=1200",
-    "fetchedAt": "2026-10-20T13:05:50.115Z"
-  },
   "https://www.fof.dk/aftenskolen/fof-aarhus/musikhistorie-juleoratoriet-bach-og-barokken": {
     "ogImage": "https://www.fof.dk/media/hqelynvk/musikhistorie_bach_med_jens_rasmussen.jpg?width=1200",
     "fetchedAt": "2026-10-20T13:05:57.506Z"
@@ -1602,6 +1598,10 @@
   "https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/complete-vocal-technique-workshop": {
     "ogImage": "https://www.fof.dk/media/ntwdoa0e/sangundervisning-fofkn-aftenskolen-musik-og-sang-stock-230813593.jpg?width=1200",
     "fetchedAt": "2026-10-20T13:06:21.086Z"
+  },
+  "https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/croquis": {
+    "ogImage": "https://www.fof.dk/media/tfwpzovd/croquis-fofkn-aftenskolen-kreative-kurser-1.jpg?width=1200",
+    "fetchedAt": "2026-10-25T22:43:41.060Z"
   },
   "https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/croquis-og-portraet": {
     "ogImage": "https://www.fof.dk/media/h12hkk5n/croquis-tegning-fofkn-aftenskolen-kreative-kurser-stock16645033.jpg?width=1200",

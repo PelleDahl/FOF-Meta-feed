@@ -3443,6 +3443,27 @@
       <g:internal_label>['Korte kurser','København K']</g:internal_label>
     </item>
 <item>
+      <g:id>26270032</g:id>
+      <g:title><![CDATA[Croquis – weekend]]></g:title>
+      <g:description><![CDATA[Lær croquistegning med levende model på croquiskursus hos FOF København og Nordsjælland. Få styr på proportioner og udvikl dit eget tegneudtryk. Læs mere her.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/croquis?holdnr=26270032</g:link>
+      <g:image_link>https://www.fof.dk/media/tfwpzovd/croquis-fofkn-aftenskolen-kreative-kurser-1.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>810.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Kreative kurser &gt; Tegnekurser</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Kreative kurser</g:custom_label_1>
+      <g:custom_label_2>Tegnekurser</g:custom_label_2>
+      <g:custom_label_4>København</g:custom_label_4>
+      <g:start_date>2026-11-14T00:00:00.000Z</g:start_date>
+      <g:internal_label>['København K']</g:internal_label>
+    </item>
+<item>
       <g:id>26220931</g:id>
       <g:title><![CDATA[Qigong og bindevæv – workshop]]></g:title>
       <g:description><![CDATA[Oplev en blid workshop med qigong og bindevævsarbejde. Langsomme øvelser og åndedræt skaber ro, nærvær og balance i hele kroppen.]]></g:description>
@@ -7391,27 +7412,6 @@
       <g:internal_label>['København K']</g:internal_label>
     </item>
 <item>
-      <g:id>27151911</g:id>
-      <g:title><![CDATA[Sang – klassisk og rytmisk]]></g:title>
-      <g:description><![CDATA[Udvikl din stemme med sangundervisning i klassisk og rytmisk sang hos FOF København og Nordsjælland. Små hold med plads til dine ønsker. Læs mere her.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/sang-klassisk-og-rytmisk?holdnr=27151911</g:link>
-      <g:image_link>https://www.fof.dk/media/qbrbhxb1/kor-fof-aftenskolen-06.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>600.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF København og Nordsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Musik og sang &gt; Sang og stemmetræning</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Musik og sang</g:custom_label_1>
-      <g:custom_label_2>Sang og stemmetræning</g:custom_label_2>
-      <g:custom_label_4>København</g:custom_label_4>
-      <g:start_date>2027-01-04T00:00:00.000Z</g:start_date>
-      <g:internal_label>['København K']</g:internal_label>
-    </item>
-<item>
       <g:id>27120849</g:id>
       <g:title><![CDATA[Babysvømning 6-12 mdr.]]></g:title>
       <g:description><![CDATA[Gå til babysvømning hos FOF København og Nordsjælland og styrk dit barns motorik, balance og sanser i varmt vand. Læs mere og tilmeld dig her.]]></g:description>
@@ -7431,6 +7431,27 @@
       <g:custom_label_4>Charlottenlund</g:custom_label_4>
       <g:start_date>2027-01-04T00:00:00.000Z</g:start_date>
       <g:internal_label>['Charlottenlund']</g:internal_label>
+    </item>
+<item>
+      <g:id>27151911</g:id>
+      <g:title><![CDATA[Sang – klassisk og rytmisk]]></g:title>
+      <g:description><![CDATA[Udvikl din stemme med sangundervisning i klassisk og rytmisk sang hos FOF København og Nordsjælland. Små hold med plads til dine ønsker. Læs mere her.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/sang-klassisk-og-rytmisk?holdnr=27151911</g:link>
+      <g:image_link>https://www.fof.dk/media/qbrbhxb1/kor-fof-aftenskolen-06.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>600.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Musik og sang &gt; Sang og stemmetræning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Musik og sang</g:custom_label_1>
+      <g:custom_label_2>Sang og stemmetræning</g:custom_label_2>
+      <g:custom_label_4>København</g:custom_label_4>
+      <g:start_date>2027-01-04T00:00:00.000Z</g:start_date>
+      <g:internal_label>['København K']</g:internal_label>
     </item>
 <item>
       <g:id>27151909</g:id>
@@ -7559,27 +7580,6 @@
       <g:internal_label>['København K']</g:internal_label>
     </item>
 <item>
-      <g:id>27120842</g:id>
-      <g:title><![CDATA[Børnemotorik og tumlingeleg 3-6 mdr.]]></g:title>
-      <g:description><![CDATA[Til børnemotorik og tumlingeleg hos FOF København og Nordsjælland leger, synger og bevæger vi os på børnenes præmisser og styrker motorik og nærvær.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/boernemotorik-og-tumlingeleg?holdnr=27120842</g:link>
-      <g:image_link>https://www.fof.dk/media/mwtpa2lu/tumlingeleg-fofkn-aftenskolen-gravid-og-barsel-7.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>600.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF København og Nordsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Aktiviteter med baby</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
-      <g:custom_label_2>Aktiviteter med baby</g:custom_label_2>
-      <g:custom_label_4>Charlottenlund</g:custom_label_4>
-      <g:start_date>2027-01-05T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Charlottenlund']</g:internal_label>
-    </item>
-<item>
       <g:id>27151915</g:id>
       <g:title><![CDATA[Sang – klassisk og rytmisk]]></g:title>
       <g:description><![CDATA[Udvikl din stemme med sangundervisning i klassisk og rytmisk sang hos FOF København og Nordsjælland. Små hold med plads til dine ønsker. Læs mere her.]]></g:description>
@@ -7599,6 +7599,27 @@
       <g:custom_label_4>København</g:custom_label_4>
       <g:start_date>2027-01-05T00:00:00.000Z</g:start_date>
       <g:internal_label>['København K']</g:internal_label>
+    </item>
+<item>
+      <g:id>27120842</g:id>
+      <g:title><![CDATA[Børnemotorik og tumlingeleg 3-6 mdr.]]></g:title>
+      <g:description><![CDATA[Til børnemotorik og tumlingeleg hos FOF København og Nordsjælland leger, synger og bevæger vi os på børnenes præmisser og styrker motorik og nærvær.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/boernemotorik-og-tumlingeleg?holdnr=27120842</g:link>
+      <g:image_link>https://www.fof.dk/media/mwtpa2lu/tumlingeleg-fofkn-aftenskolen-gravid-og-barsel-7.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>600.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Aktiviteter med baby</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
+      <g:custom_label_2>Aktiviteter med baby</g:custom_label_2>
+      <g:custom_label_4>Charlottenlund</g:custom_label_4>
+      <g:start_date>2027-01-05T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Charlottenlund']</g:internal_label>
     </item>
 <item>
       <g:id>27151912</g:id>
@@ -7753,27 +7774,6 @@
       <g:description><![CDATA[Udvikl din stemme med sangundervisning i klassisk og rytmisk sang hos FOF København og Nordsjælland. Små hold med plads til dine ønsker. Læs mere her.]]></g:description>
       <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/sang-klassisk-og-rytmisk?holdnr=27151210</g:link>
       <g:image_link>https://www.fof.dk/media/qbrbhxb1/kor-fof-aftenskolen-06.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>600.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF København og Nordsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Musik og sang &gt; Sang og stemmetræning</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Musik og sang</g:custom_label_1>
-      <g:custom_label_2>Sang og stemmetræning</g:custom_label_2>
-      <g:custom_label_4>København</g:custom_label_4>
-      <g:start_date>2027-01-06T00:00:00.000Z</g:start_date>
-      <g:internal_label>['København K']</g:internal_label>
-    </item>
-<item>
-      <g:id>27151917</g:id>
-      <g:title><![CDATA[Bladsang/nodelære for korsangere]]></g:title>
-      <g:description><![CDATA[Bliv bedre til at læse noder og synge fra nodehæftet. Få styr på bladsang og hørelære med træning målrettet korsanger. Læs mere om kurset her.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/bladsangtraeningnodelaere-for-korsangere?holdnr=27151917</g:link>
-      <g:image_link>https://www.fof.dk/media/wptll3o4/korsang-sang-fofkn-aftenskolen-musik-og-sang-mf-tirsdagskoret-2-kopier.jpg?width=1200</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:quantity>1</g:quantity>
       <g:price>600.00 DKK</g:price>
@@ -9122,6 +9122,7 @@
       <g:custom_label_2>Musikteori og -produktion</g:custom_label_2>
       <g:custom_label_4>København</g:custom_label_4>
       <g:start_date>2027-01-23T00:00:00.000Z</g:start_date>
+      <g:internal_label>['København K']</g:internal_label>
     </item>
 <item>
       <g:id>27179008</g:id>
@@ -11136,28 +11137,6 @@
       <g:internal_label>['Korte kurser','København V']</g:internal_label>
     </item>
 <item>
-      <g:id>27112527</g:id>
-      <g:title><![CDATA[M4 Sydhavn – på spektakulær kunstrejse under jorden!]]></g:title>
-      <g:description><![CDATA[Tag med på kunstrundvisning i metroens nye M4-linje. Oplev samtidskunst i de fem nye stationer, skabt af danske og internationale kunstnere. Tilmeld her.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/m4-sydhavn-paa-spektakulaer-kunstrejse-under-jorden?holdnr=27112527</g:link>
-      <g:image_link>https://www.fof.dk/media/p2yb0wy5/sluseholmen-fofkn-aftenskolen-ture-foto-metroselskabet-1.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>200.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF København og Nordsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Rejser, ture og rundvisninger &gt; Rundvisninger</g:product_type>
-      <g:custom_label_0>Rejser, ture og rundvisninger</g:custom_label_0>
-      <g:custom_label_1>Rundvisninger</g:custom_label_1>
-      <g:custom_label_2></g:custom_label_2>
-      <g:custom_label_4>København</g:custom_label_4>
-      <g:start_date>2027-03-07T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Ture og rundvisninger</g:custom_label_3>
-      <g:internal_label>['Ture og rundvisninger','København V']</g:internal_label>
-    </item>
-<item>
       <g:id>27113610</g:id>
       <g:title><![CDATA[Kongernes kirke – rundvisning i Roskilde Domkirke]]></g:title>
       <g:description><![CDATA[Oplev Roskilde Domkirke på en rundvisning med historier om konger, kapeller og kongelige gravmæler i en UNESCO-kirke fyldt med danmarkshistorie. Tilmeld dig i dag.]]></g:description>
@@ -11178,6 +11157,28 @@
       <g:start_date>2027-03-07T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Ture og rundvisninger</g:custom_label_3>
       <g:internal_label>['Ture og rundvisninger','Roskilde']</g:internal_label>
+    </item>
+<item>
+      <g:id>27112527</g:id>
+      <g:title><![CDATA[M4 Sydhavn – på spektakulær kunstrejse under jorden!]]></g:title>
+      <g:description><![CDATA[Tag med på kunstrundvisning i metroens nye M4-linje. Oplev samtidskunst i de fem nye stationer, skabt af danske og internationale kunstnere. Tilmeld her.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/m4-sydhavn-paa-spektakulaer-kunstrejse-under-jorden?holdnr=27112527</g:link>
+      <g:image_link>https://www.fof.dk/media/p2yb0wy5/sluseholmen-fofkn-aftenskolen-ture-foto-metroselskabet-1.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>200.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Rejser, ture og rundvisninger &gt; Rundvisninger</g:product_type>
+      <g:custom_label_0>Rejser, ture og rundvisninger</g:custom_label_0>
+      <g:custom_label_1>Rundvisninger</g:custom_label_1>
+      <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>København</g:custom_label_4>
+      <g:start_date>2027-03-07T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Ture og rundvisninger</g:custom_label_3>
+      <g:internal_label>['Ture og rundvisninger','København V']</g:internal_label>
     </item>
 <item>
       <g:id>26204082</g:id>
@@ -14004,6 +14005,27 @@
       <g:internal_label>['Frederiksberg','Ture og rundvisninger']</g:internal_label>
     </item>
 <item>
+      <g:id>27420982</g:id>
+      <g:title><![CDATA[Babysvømning 3-6 mdr. – sommerhold]]></g:title>
+      <g:description><![CDATA[Gå til babysvømning hos FOF København og Nordsjælland og styrk dit barns motorik, balance og sanser i varmt vand. Læs mere og tilmeld dig her.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/babysvoemning?holdnr=27420982</g:link>
+      <g:image_link>https://www.fof.dk/media/53zpit5g/babysvoemning-fofkn-aftenskolen-gravid-og-barsel-2.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>850.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Aktiviteter med baby</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
+      <g:custom_label_2>Aktiviteter med baby</g:custom_label_2>
+      <g:custom_label_4>Charlottenlund</g:custom_label_4>
+      <g:start_date>2027-05-24T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Charlottenlund']</g:internal_label>
+    </item>
+<item>
       <g:id>27110024</g:id>
       <g:title><![CDATA[Rundvisning på Politigården]]></g:title>
       <g:description><![CDATA[Kom med på en spændende guidet rundvisning på Politigården og få et indblik i arkitektur og historie. Tilmeld dig hos FOF København og Nordsjælland.]]></g:description>
@@ -14024,27 +14046,6 @@
       <g:start_date>2027-05-24T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Ture og rundvisninger</g:custom_label_3>
       <g:internal_label>['Ture og rundvisninger','København V']</g:internal_label>
-    </item>
-<item>
-      <g:id>27420982</g:id>
-      <g:title><![CDATA[Babysvømning 3-6 mdr. – sommerhold]]></g:title>
-      <g:description><![CDATA[Gå til babysvømning hos FOF København og Nordsjælland og styrk dit barns motorik, balance og sanser i varmt vand. Læs mere og tilmeld dig her.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/babysvoemning?holdnr=27420982</g:link>
-      <g:image_link>https://www.fof.dk/media/53zpit5g/babysvoemning-fofkn-aftenskolen-gravid-og-barsel-2.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>850.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF København og Nordsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Aktiviteter med baby</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
-      <g:custom_label_2>Aktiviteter med baby</g:custom_label_2>
-      <g:custom_label_4>Charlottenlund</g:custom_label_4>
-      <g:start_date>2027-05-24T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Charlottenlund']</g:internal_label>
     </item>
 <item>
       <g:id>27420983</g:id>
@@ -14481,6 +14482,7 @@
       <g:custom_label_2>Musikteori og -produktion</g:custom_label_2>
       <g:custom_label_4>København</g:custom_label_4>
       <g:start_date>2027-06-12T00:00:00.000Z</g:start_date>
+      <g:internal_label>['København K']</g:internal_label>
     </item>
 <item>
       <g:id>27112509</g:id>
