@@ -72,28 +72,6 @@
       <g:internal_label>['Starter snart','Kalender - Oktober','Sorø']</g:internal_label>
     </item>
 <item>
-      <g:id>152326</g:id>
-      <g:title><![CDATA[Hatha Yoga]]></g:title>
-      <g:description><![CDATA[Dyrk Hatha Yoga i Slagelse, Næstved, Ringsted, Korsør og Skælskør. Skab balance i krop og sind med blide og styrkende øvelser. For både begyndere og øvede.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-syd-og-vestsjaelland/hatha-yoga?holdnr=152326</g:link>
-      <g:image_link>https://www.fof.dk/media/c3fjtpd1/hatha-yoga-syd-og-vestsjaelland-fof-aftenskolen-01.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>700.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Syd- og Vestsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Yoga</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Yoga</g:custom_label_2>
-      <g:custom_label_4>Slagelse</g:custom_label_4>
-      <g:start_date>2026-10-27T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Slagelse</g:custom_label_3>
-      <g:internal_label>['Slagelse','Starter snart','Kalender - Oktober']</g:internal_label>
-    </item>
-<item>
       <g:id>250726</g:id>
       <g:title><![CDATA[StoleYoga]]></g:title>
       <g:description><![CDATA[Deltag i Stole Yoga i Slagelse, Næstved eller Korsør. Blid yoga med støtte fra eller på stol. Styrk kroppen og balancen på små hold.]]></g:description>
@@ -114,6 +92,28 @@
       <g:start_date>2026-10-27T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Starter snart</g:custom_label_3>
       <g:internal_label>['Starter snart','Kalender - Oktober','Korsør']</g:internal_label>
+    </item>
+<item>
+      <g:id>152326</g:id>
+      <g:title><![CDATA[Hatha Yoga]]></g:title>
+      <g:description><![CDATA[Dyrk Hatha Yoga i Slagelse, Næstved, Ringsted, Korsør og Skælskør. Skab balance i krop og sind med blide og styrkende øvelser. For både begyndere og øvede.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-syd-og-vestsjaelland/hatha-yoga?holdnr=152326</g:link>
+      <g:image_link>https://www.fof.dk/media/c3fjtpd1/hatha-yoga-syd-og-vestsjaelland-fof-aftenskolen-01.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>700.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Syd- og Vestsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Yoga</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Slagelse</g:custom_label_4>
+      <g:start_date>2026-10-27T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Slagelse</g:custom_label_3>
+      <g:internal_label>['Slagelse','Starter snart','Kalender - Oktober']</g:internal_label>
     </item>
 <item>
       <g:id>840426</g:id>
