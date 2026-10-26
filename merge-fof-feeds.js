@@ -2,7 +2,7 @@ const https = require('https');
 const fs = require('fs');
 const path = require('path');
 
-// Alle skoler i feedet (slug → kort kode, der bruges som præfiks på <g:id> i det samlede feed, når et holdnummer findes på flere skoler).
+// Alle skoler i feedet (slug → kort kode, der bruges som præfiks på <g:id>, f.eks. AAR-264364; se UNPREFIXED_ID_SCHOOLS).
 const SCHOOL_CODES = {
   'fof-djursland': 'DJU',
   'fof-herning': 'HER',
@@ -45,8 +45,11 @@ const OUTPUT_FILE = path.join(process.cwd(), 'fof-alle-skoler-feed.xml');
 const EXCLUDED_FROM_MERGED = new Set();
 
 // Hver skole får sit eget feed (<slug>-feed.xml) ved siden af det samlede feed, f.eks. til skolens egen shop/katalog i Meta.
-// <g:id> er det rå holdnummer uden skolepræfiks, så det matcher holdnummeret i pixel-events.
 const SCHOOL_FEED_SCHOOLS = new Set(SCHOOLS);
+
+// <g:id> er holdnummeret med skolens kode som præfiks (f.eks. AAR-264364) – samme format som pixlen sender via GTM.
+// Skolerne her bruger det rå holdnummer uden præfiks. Formatet er det samme i skolefeeds og i det samlede feed.
+const UNPREFIXED_ID_SCHOOLS = new Set(['fof-koebenhavn-og-nordsjaelland']);
 
 function schoolFeedMeta(slug, items) {
   const brandMatch = items.map((item) => item.match(/<g:brand>([\s\S]*?)<\/g:brand>/i)).find(Boolean);
@@ -600,23 +603,28 @@ async function buildItemsFromIndex(slug, taxonomyLookup) {
   });
 }
 
-// Det samlede feed bruger det rå holdnummer som <g:id>, så det matcher holdnummeret i pixel-events. Enkelte holdnumre
-// findes på flere skoler; dubletter giver fejl i Meta, så kun et holdnummer, der allerede er brugt af en tidligere skole
-// i feedet, får skolens kode som præfiks (f.eks. NVJ-262522).
-function uniqueItemIds(items, code, usedIds, slug) {
+// Sætter skolens kode foran holdnummeret i <g:id>, undtagen for skolerne i UNPREFIXED_ID_SCHOOLS.
+function applyItemIds(items, slug) {
+  if (UNPREFIXED_ID_SCHOOLS.has(slug)) {
+    return items;
+  }
   return items.map((item) =>
-    item.replace(/(<g:id>)([\s\S]*?)(<\/g:id>)/i, (match, open, rawId, close) => {
-      const id = rawId.trim();
-      if (!usedIds.has(id)) {
-        usedIds.add(id);
-        return `${open}${id}${close}`;
-      }
-      const prefixed = `${code}-${id}`;
-      usedIds.add(prefixed);
-      logInfo(`[ID] ${slug}: holdnr ${id} already used by another school – using ${prefixed} in merged feed`);
-      return `${open}${prefixed}${close}`;
-    })
+    item.replace(/(<g:id>)([\s\S]*?)(<\/g:id>)/i, (match, open, id, close) => `${open}${SCHOOL_CODES[slug]}-${id.trim()}${close}`)
   );
+}
+
+// Sikkerhedsnet for det samlede feed: dubletter i <g:id> giver fejl i Meta, så et id, der allerede er brugt, udelades og logges.
+function withoutDuplicateIds(items, usedIds, slug) {
+  return items.filter((item) => {
+    const match = item.match(/<g:id>([\s\S]*?)<\/g:id>/i);
+    const id = match ? match[1].trim() : '';
+    if (usedIds.has(id)) {
+      logError(`[WARN] ${slug}: id ${id} already used in merged feed – item skipped`);
+      return false;
+    }
+    usedIds.add(id);
+    return true;
+  });
 }
 
 const MERGED_FEED_META = {
@@ -676,9 +684,9 @@ async function mergeFeeds() {
         items = applyTags(items, slug, await loadSchoolTags(slug, tagLookup));
       }
 
-      items = encodeImageLinks(items);
+      // Id-formatet sættes til sidst, fordi tags og by matches på det rå holdnummer.
+      items = applyItemIds(encodeImageLinks(items), slug);
 
-      // Skolens eget feed beholder de rå holdnumre som <g:id>, så de matcher holdnummeret i pixel-events.
       if (SCHOOL_FEED_SCHOOLS.has(slug)) {
         const schoolFeed = schoolFeedMeta(slug, items);
         const schoolFile = path.join(process.cwd(), schoolFeed.file);
@@ -693,7 +701,7 @@ async function mergeFeeds() {
         continue;
       }
 
-      allItems.push(...uniqueItemIds(items, SCHOOL_CODES[slug], usedIds, slug));
+      allItems.push(...withoutDuplicateIds(items, usedIds, slug));
       logInfo(`[OK] ${slug}: ${items.length} item(s)`);
     } catch (err) {
       failedSchools.add(slug);
