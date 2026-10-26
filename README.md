@@ -49,8 +49,8 @@ node merge-fof-feeds.js
 4. For skolerne i `TAG_SCHOOLS` (pt. alle skoler) tilføjes holdets tags fra søgeindekset — se [Tags](#tags).
 5. URL-encoder `<g:image_link>` for alle skoler. Filnavne med specialtegn (f.eks. `oh-lá-lá.jpg`) giver ellers HTTP 500 fra fof.dk, og billedet afvises af Meta/Google.
 6. Skriver et skolefeed (`<slug>-feed.xml`) for hver skole i `SCHOOL_FEED_SCHOOLS` (uden id-præfiks).
-7. Præfikser `<g:id>` med skolens korte kode (se nedenfor), f.eks. `264364` → `DJU-264364`. Uden præfikset kan to skoler tilfældigt bruge samme holdnummer, hvilket giver dubletter i den samlede feed — præfikset gør hvert `<g:id>` unikt på tværs af skoler.
-8. Samler alle items fra alle skoler — undtagen skolerne i `EXCLUDED_FROM_MERGED` — i én fælles `<rss>`-feed og skriver den til `fof-alle-skoler-feed.xml`.
+7. Bruger det rå holdnummer som `<g:id>` i det samlede feed, så det matcher holdnummeret i pixel-events. Enkelte holdnumre findes på flere skoler; dubletter giver fejl i Meta, så et holdnummer, der allerede er brugt af en skole tidligere i `SCHOOL_CODES`, får skolens korte kode som præfiks, f.eks. `262522` → `NVJ-262522`. Kollisionerne logges som `[ID]`.
+8. Samler alle items fra alle skoler (skoler i `EXCLUDED_FROM_MERGED` udelades; pt. ingen) i én fælles `<rss>`-feed og skriver den til `fof-alle-skoler-feed.xml`.
 9. Logger resultatet af kørslen til `logs/feed-merge-YYYY-MM-DD.log`. Logfiler ældre end 60 dage (`LOG_RETENTION_DAYS`) slettes automatisk ved næste kørsel.
 
 Fejler opslaget for en skole, logges fejlen, skolens feed opdateres ikke, og scriptet fortsætter med de øvrige skoler. Det samlede feed skrives kun, når alle skoler er bygget — ellers ender kørslen med en fejl (exit code 1), så workflowen prøver igen, og det forrige samlede feed bliver liggende. Mangler `AZURE_SEARCH_API_KEY`, eller fejler opslaget af tags/taksonomi, skrives ingen feeds.
@@ -93,7 +93,7 @@ Semikolonsepareret UTF-8 (åbner direkte i dansk Excel). Kun kolonnerne `type` o
 
 ## Skolekoder
 
-Hver skole har en fast, kort kode i `SCHOOL_CODES`, der bruges som præfiks foran `<g:id>`:
+Hver skole har en fast, kort kode i `SCHOOL_CODES`. Den bruges kun som præfiks foran `<g:id>` i det samlede feed, når holdnummeret allerede er brugt af en anden skole (se punkt 7 ovenfor):
 
 | Skole | Kode |
 |---|---|
@@ -124,6 +124,5 @@ Hver skole har en fast, kort kode i `SCHOOL_CODES`, der bruges som præfiks fora
 
 ## Kendte fravalg
 
-- **FOF København og Nordsjælland** er midlertidigt holdt ude af det samlede feed (`EXCLUDED_FROM_MERGED`), indtil skolen aktivt har sagt ja til at indgå. KBH's hold findes kun i skolens eget feed. Fjern slug'en fra `EXCLUDED_FROM_MERGED` for at tage KBH med igen.
 - **Fjordlandet** er bevidst fjernet fra feedet.
 - **Vendsyssel** har aldrig indgået i feedet.

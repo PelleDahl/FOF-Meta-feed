@@ -2,7 +2,7 @@ const https = require('https');
 const fs = require('fs');
 const path = require('path');
 
-// Alle skoler i feedet (slug → kort kode, der bruges som præfiks på <g:id> i det samlede feed).
+// Alle skoler i feedet (slug → kort kode, der bruges som præfiks på <g:id> i det samlede feed, når et holdnummer findes på flere skoler).
 const SCHOOL_CODES = {
   'fof-djursland': 'DJU',
   'fof-herning': 'HER',
@@ -42,8 +42,7 @@ const FEED_MONTHS_AHEAD = 12;
 const OUTPUT_FILE = path.join(process.cwd(), 'fof-alle-skoler-feed.xml');
 
 // Skoler der hentes (f.eks. til deres eget feed), men ikke tages med i det samlede feed.
-// KBH er holdt ude, indtil skolen aktivt har sagt ja til at indgå i det samlede feed.
-const EXCLUDED_FROM_MERGED = new Set(['fof-koebenhavn-og-nordsjaelland']);
+const EXCLUDED_FROM_MERGED = new Set();
 
 // Hver skole får sit eget feed (<slug>-feed.xml) ved siden af det samlede feed, f.eks. til skolens egen shop/katalog i Meta.
 // <g:id> er det rå holdnummer uden skolepræfiks, så det matcher holdnummeret i pixel-events.
@@ -601,9 +600,22 @@ async function buildItemsFromIndex(slug, taxonomyLookup) {
   });
 }
 
-function prefixItemIds(items, slug) {
+// Det samlede feed bruger det rå holdnummer som <g:id>, så det matcher holdnummeret i pixel-events. Enkelte holdnumre
+// findes på flere skoler; dubletter giver fejl i Meta, så kun et holdnummer, der allerede er brugt af en tidligere skole
+// i feedet, får skolens kode som præfiks (f.eks. NVJ-262522).
+function uniqueItemIds(items, code, usedIds, slug) {
   return items.map((item) =>
-    item.replace(/(<g:id>)([\s\S]*?)(<\/g:id>)/i, (match, open, id, close) => `${open}${slug}-${id.trim()}${close}`)
+    item.replace(/(<g:id>)([\s\S]*?)(<\/g:id>)/i, (match, open, rawId, close) => {
+      const id = rawId.trim();
+      if (!usedIds.has(id)) {
+        usedIds.add(id);
+        return `${open}${id}${close}`;
+      }
+      const prefixed = `${code}-${id}`;
+      usedIds.add(prefixed);
+      logInfo(`[ID] ${slug}: holdnr ${id} already used by another school – using ${prefixed} in merged feed`);
+      return `${open}${prefixed}${close}`;
+    })
   );
 }
 
@@ -632,6 +644,7 @@ function buildFeedXml(items, meta) {
 
 async function mergeFeeds() {
   const allItems = [];
+  const usedIds = new Set();
   let successCount = 0;
   const ogImageCache = loadOgImageCache();
   const seenOgPages = new Set();
@@ -680,7 +693,7 @@ async function mergeFeeds() {
         continue;
       }
 
-      allItems.push(...prefixItemIds(items, SCHOOL_CODES[slug]));
+      allItems.push(...uniqueItemIds(items, SCHOOL_CODES[slug], usedIds, slug));
       logInfo(`[OK] ${slug}: ${items.length} item(s)`);
     } catch (err) {
       failedSchools.add(slug);
