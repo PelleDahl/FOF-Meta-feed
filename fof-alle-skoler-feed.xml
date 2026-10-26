@@ -1208,27 +1208,6 @@
       <g:internal_label>['Herning']</g:internal_label>
     </item>
 <item>
-      <g:id>HER-48429</g:id>
-      <g:title><![CDATA[Hækling for letøvede]]></g:title>
-      <g:description><![CDATA[Hækling for letøvede i Herning hos FOF Herning. Lær nye teknikker, forstå opskrifter bedre og udvikl dine hækleprojekter i trygge rammer.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-herning/haekling-for-letoevede?holdnr=48429</g:link>
-      <g:image_link>https://www.fof.dk/media/u1yl1gbb/haekling-aftenskolen-herning-fof.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>616.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Herning</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Kreative kurser &gt; Håndarbejde</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Kreative kurser</g:custom_label_1>
-      <g:custom_label_2>Håndarbejde</g:custom_label_2>
-      <g:custom_label_4>Herning</g:custom_label_4>
-      <g:start_date>2026-11-17T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Herning']</g:internal_label>
-    </item>
-<item>
       <g:id>HER-48871</g:id>
       <g:title><![CDATA[NYHED - Luksusgrød - Gør havregrøden spændende]]></g:title>
       <g:description><![CDATA[Få ny inspiration til morgenmaden i Herning. Lær at lave lækre, mættende og sundere retter med havregryn, frugt og krydderier.]]></g:description>
@@ -1247,6 +1226,27 @@
       <g:custom_label_2>Fest- og hverdagsmad</g:custom_label_2>
       <g:custom_label_4>Herning</g:custom_label_4>
       <g:start_date>2026-11-17T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Herning']</g:internal_label>
+    </item>
+<item>
+      <g:id>HER-48429</g:id>
+      <g:title><![CDATA[Hækling for letøvede]]></g:title>
+      <g:description><![CDATA[Hækling for letøvede i Herning hos FOF Herning. Lær nye teknikker, forstå opskrifter bedre og udvikl dine hækleprojekter i trygge rammer.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-herning/haekling-for-letoevede?holdnr=48429</g:link>
+      <g:image_link>https://www.fof.dk/media/u1yl1gbb/haekling-aftenskolen-herning-fof.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>616.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Herning</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Kreative kurser &gt; Håndarbejde</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Kreative kurser</g:custom_label_1>
+      <g:custom_label_2>Håndarbejde</g:custom_label_2>
+      <g:custom_label_4>Herning</g:custom_label_4>
+      <g:start_date>2026-11-24T00:00:00.000Z</g:start_date>
       <g:internal_label>['Herning']</g:internal_label>
     </item>
 <item>
@@ -2229,6 +2229,27 @@
       <g:internal_label>['Hanstholm']</g:internal_label>
     </item>
 <item>
+      <g:id>NVJ-262331</g:id>
+      <g:title><![CDATA[FødselsFlow - motion for gravide - NYHED]]></g:title>
+      <g:description><![CDATA[Kom med til fødselsflow og forbered din gravide krop på en god og naturlig fødsel i et hyggeligt og trygt fællesskab hos FOF Nordvestjylland i Holstebro]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-nordvestjylland/foedselsflow-mejrup?holdnr=262331</g:link>
+      <g:image_link>https://www.fof.dk/media/0otjbev2/foedselsflow1200x1200.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>460.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Nordvestjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Motion for gravide</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
+      <g:custom_label_2>Motion for gravide</g:custom_label_2>
+      <g:custom_label_4>Holstebro</g:custom_label_4>
+      <g:start_date>2026-11-18T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Holstebro']</g:internal_label>
+    </item>
+<item>
       <g:id>NVJ-262718</g:id>
       <g:title><![CDATA[Bæredygtig og grøn madlavning - Studieby Holstebro]]></g:title>
       <g:description><![CDATA[Lær at lave bæredygtig og grøn mad på dette nye madkursus hos FOF Nordvestjylland i Holstebro]]></g:description>
@@ -2248,27 +2269,6 @@
       <g:custom_label_4>Holstebro</g:custom_label_4>
       <g:start_date>2026-11-18T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Holstebro</g:custom_label_3>
-      <g:internal_label>['Holstebro']</g:internal_label>
-    </item>
-<item>
-      <g:id>NVJ-262331</g:id>
-      <g:title><![CDATA[FødselsFlow - motion for gravide - NYHED]]></g:title>
-      <g:description><![CDATA[Kom med til fødselsflow og forbered din gravide krop på en god og naturlig fødsel i et hyggeligt og trygt fællesskab hos FOF Nordvestjylland i Holstebro]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-nordvestjylland/foedselsflow-mejrup?holdnr=262331</g:link>
-      <g:image_link>https://www.fof.dk/media/0otjbev2/foedselsflow1200x1200.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>460.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Nordvestjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Motion for gravide</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
-      <g:custom_label_2>Motion for gravide</g:custom_label_2>
-      <g:custom_label_4>Holstebro</g:custom_label_4>
-      <g:start_date>2026-11-18T00:00:00.000Z</g:start_date>
       <g:internal_label>['Holstebro']</g:internal_label>
     </item>
 <item>
@@ -7893,28 +7893,6 @@ Kurset er hos FOF i Randers]]></g:description>
       <g:internal_label>['Nyhed','Vejle']</g:internal_label>
     </item>
 <item>
-      <g:id>SOJ-269237</g:id>
-      <g:title><![CDATA[Julesyning af genbrug]]></g:title>
-      <g:description><![CDATA[Kreativ workshop i Vejle: lær at sy julepynt på symaskine. Perfekt sykursus for begyndere og øvede. Små hold og hyggelig julestemning.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-sydoestjylland/julesyning-af-genbrug?holdnr=269237</g:link>
-      <g:image_link>https://www.fof.dk/media/smlp1ob5/julepynt-af-genbrug.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>495.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Sydøstjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Kreative kurser &gt; Syning</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Kreative kurser</g:custom_label_1>
-      <g:custom_label_2>Syning</g:custom_label_2>
-      <g:custom_label_4>Vejle</g:custom_label_4>
-      <g:start_date>2026-11-22T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Jul og nytår</g:custom_label_3>
-      <g:internal_label>['Jul og nytår','Nyhed','Vejle']</g:internal_label>
-    </item>
-<item>
       <g:id>SOJ-266702</g:id>
       <g:title><![CDATA[Dit magiske IMMUNsystem - et liv i sund balance]]></g:title>
       <g:description><![CDATA[Oplev foredrag med Bente Klarlund om immunforsvaret, sundhed og livsstil. Få forskningsbaseret viden om motion, søvn, kost og trivsel.]]></g:description>
@@ -8087,28 +8065,6 @@ Kurset er hos FOF i Randers]]></g:description>
       <g:internal_label>['Workshops','Horsens']</g:internal_label>
     </item>
 <item>
-      <g:id>SOJ-269141</g:id>
-      <g:title><![CDATA[Jule Yoga for alle]]></g:title>
-      <g:description><![CDATA[Gå til blid yoga i Vejle, Skanderborg og Hedensted. Skånsom og rolig yoga med fokus på afspænding, balance, smidighed og mental ro. Yoga for begyndere, letøvede og hensyn.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-sydoestjylland/blid-yoga?holdnr=269141</g:link>
-      <g:image_link>https://www.fof.dk/media/ewkl4hli/blid-yoga.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>375.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Sydøstjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Yoga</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Yoga</g:custom_label_2>
-      <g:custom_label_4>Vejle</g:custom_label_4>
-      <g:start_date>2026-12-02T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Jul og nytår</g:custom_label_3>
-      <g:internal_label>['Jul og nytår','Vejle']</g:internal_label>
-    </item>
-<item>
       <g:id>SOJ-265014</g:id>
       <g:title><![CDATA[Restorativ Yoga/Yoga i hvile ]]></g:title>
       <g:description><![CDATA[Oplev restorativ yoga i Horsens – blid yoga med fokus på ro, afspænding og stressreduktion. For alle niveauer. Tilmeld dig og find balance i hverdagen.]]></g:description>
@@ -8127,6 +8083,28 @@ Kurset er hos FOF i Randers]]></g:description>
       <g:custom_label_2>Yoga</g:custom_label_2>
       <g:custom_label_4>Horsens</g:custom_label_4>
       <g:start_date>2026-12-04T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Workshops</g:custom_label_3>
+      <g:internal_label>['Workshops','Horsens']</g:internal_label>
+    </item>
+<item>
+      <g:id>SOJ-265015</g:id>
+      <g:title><![CDATA[Restorativ Yoga/Yoga i hvile ]]></g:title>
+      <g:description><![CDATA[Oplev restorativ yoga i Horsens – blid yoga med fokus på ro, afspænding og stressreduktion. For alle niveauer. Tilmeld dig og find balance i hverdagen.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydoestjylland/restorativ-yoga-workshop?holdnr=265015</g:link>
+      <g:image_link>https://www.fof.dk/media/fwvbkubq/restorativ-yoga-1-fof-sydoestjylland.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>340.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydøstjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Yoga</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Horsens</g:custom_label_4>
+      <g:start_date>2026-12-05T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Workshops</g:custom_label_3>
       <g:internal_label>['Workshops','Horsens']</g:internal_label>
     </item>
@@ -8151,28 +8129,6 @@ Kurset er hos FOF i Randers]]></g:description>
       <g:start_date>2026-12-05T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Jul og nytår</g:custom_label_3>
       <g:internal_label>['Jul og nytår','Horsens']</g:internal_label>
-    </item>
-<item>
-      <g:id>SOJ-265015</g:id>
-      <g:title><![CDATA[Restorativ Yoga/Yoga i hvile ]]></g:title>
-      <g:description><![CDATA[Oplev restorativ yoga i Horsens – blid yoga med fokus på ro, afspænding og stressreduktion. For alle niveauer. Tilmeld dig og find balance i hverdagen.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-sydoestjylland/restorativ-yoga-workshop?holdnr=265015</g:link>
-      <g:image_link>https://www.fof.dk/media/fwvbkubq/restorativ-yoga-1-fof-sydoestjylland.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>340.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Sydøstjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Yoga</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Yoga</g:custom_label_2>
-      <g:custom_label_4>Horsens</g:custom_label_4>
-      <g:start_date>2026-12-05T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Workshops</g:custom_label_3>
-      <g:internal_label>['Workshops','Horsens']</g:internal_label>
     </item>
 <item>
       <g:id>SOJ-269093</g:id>
@@ -8390,6 +8346,27 @@ Kurset er hos FOF i Randers]]></g:description>
       <g:custom_label_2>Naturfag og friluftsliv</g:custom_label_2>
       <g:custom_label_4>Juelsminde</g:custom_label_4>
       <g:start_date>2027-01-10T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Juelsminde']</g:internal_label>
+    </item>
+<item>
+      <g:id>SOJ-272648</g:id>
+      <g:title><![CDATA[Sang og stemmetræning]]></g:title>
+      <g:description><![CDATA[Få sang- og stemmetræning hos FOF Sydøstjylland]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydoestjylland/sang-og-stemmetraening-henrik?holdnr=272648</g:link>
+      <g:image_link>https://www.fof.dk/media/ezdnvfvf/sang-og-stemmetraening.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>2130.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydøstjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Musik og sang &gt; Sang og stemmetræning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Musik og sang</g:custom_label_1>
+      <g:custom_label_2>Sang og stemmetræning</g:custom_label_2>
+      <g:custom_label_4>Juelsminde</g:custom_label_4>
+      <g:start_date>2027-01-11T00:00:00.000Z</g:start_date>
       <g:internal_label>['Juelsminde']</g:internal_label>
     </item>
 <item>
@@ -8652,6 +8629,27 @@ Kurset er hos FOF i Randers]]></g:description>
       <g:start_date>2027-02-01T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Prøvetime</g:custom_label_3>
       <g:internal_label>['Prøvetime','Vejle']</g:internal_label>
+    </item>
+<item>
+      <g:id>SOJ-271400</g:id>
+      <g:title><![CDATA[Slægtshistorie]]></g:title>
+      <g:description><![CDATA[Lær slægtsforskning i Skanderborg. Få introduktion til gotisk håndskrift og find dine forfædre gennem historiske kilder og arkiver.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydoestjylland/slaegtshistorie?holdnr=271400</g:link>
+      <g:image_link>https://www.fof.dk/media/rm4dcta4/slaegtsforskning-1.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1110.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydøstjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Kulturfag og samfund &gt; Slægtsforskning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Kulturfag og samfund</g:custom_label_1>
+      <g:custom_label_2>Slægtsforskning</g:custom_label_2>
+      <g:custom_label_4>Skanderborg</g:custom_label_4>
+      <g:start_date>2027-02-01T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Skanderborg']</g:internal_label>
     </item>
 <item>
       <g:id>SOJ-274630</g:id>
@@ -9705,28 +9703,6 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:internal_label>['Starter snart','Sønderborg']</g:internal_label>
     </item>
 <item>
-      <g:id>SDJ-2262220</g:id>
-      <g:title><![CDATA[Bag brød som en mesterbager]]></g:title>
-      <g:description><![CDATA[Lær at bage som en mesterbager hos FOF Sønderjylland med bagermester John Bramsen og kom hjem med lækkert hjemmebag.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-soenderjylland/bag-broed-som-en-mesterbager?holdnr=2262220</g:link>
-      <g:image_link>https://www.fof.dk/media/0rgidpfp/bagning-madlavning-soenderjylland-fof-aftenskolen.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>425.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Sønderjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Madlavning og drikkevarer &gt; Bagning og søde sager</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
-      <g:custom_label_2>Bagning og søde sager</g:custom_label_2>
-      <g:custom_label_4>Vojens</g:custom_label_4>
-      <g:start_date>2026-11-04T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Starter snart</g:custom_label_3>
-      <g:internal_label>['Starter snart','Vojens']</g:internal_label>
-    </item>
-<item>
       <g:id>SDJ-3260738</g:id>
       <g:title><![CDATA[Guitarspil]]></g:title>
       <g:description><![CDATA[Lær at spille guitar i hyggelige rammer. Akkorder, fingerspil, sange og spilleglæde – uanset erfaring. Se mere og tilmeld dig på hjemmesiden.]]></g:description>
@@ -9765,6 +9741,28 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Musik og sang</g:custom_label_1>
       <g:custom_label_2>Strengeinstrumenter</g:custom_label_2>
+      <g:custom_label_4>Vojens</g:custom_label_4>
+      <g:start_date>2026-11-04T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Starter snart</g:custom_label_3>
+      <g:internal_label>['Starter snart','Vojens']</g:internal_label>
+    </item>
+<item>
+      <g:id>SDJ-2262220</g:id>
+      <g:title><![CDATA[Bag brød som en mesterbager]]></g:title>
+      <g:description><![CDATA[Lær at bage som en mesterbager hos FOF Sønderjylland med bagermester John Bramsen og kom hjem med lækkert hjemmebag.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-soenderjylland/bag-broed-som-en-mesterbager?holdnr=2262220</g:link>
+      <g:image_link>https://www.fof.dk/media/0rgidpfp/bagning-madlavning-soenderjylland-fof-aftenskolen.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>425.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sønderjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Madlavning og drikkevarer &gt; Bagning og søde sager</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
+      <g:custom_label_2>Bagning og søde sager</g:custom_label_2>
       <g:custom_label_4>Vojens</g:custom_label_4>
       <g:start_date>2026-11-04T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Starter snart</g:custom_label_3>
@@ -11951,28 +11949,6 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:internal_label>['Starter snart','Fanø','Kreative kurser']</g:internal_label>
     </item>
 <item>
-      <g:id>SVJ-262033</g:id>
-      <g:title><![CDATA[Kaffe og rundstykke med pålæg (Kulturhøjskolen)]]></g:title>
-      <g:description><![CDATA[Oplev Kulturhøjskolen i Esbjerg med 6 inspirerende foredrag, musik og fællessang. Bliv klogere og mød andre i trygge rammer. Tilmeld dig her.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-sydvestjylland/kulturhoejskolen?holdnr=262033</g:link>
-      <g:image_link>https://www.fof.dk/media/pmnp5zmd/kulturhoejskolen-foredrag-sydvestjylland-fof-aftenskolen.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>50.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Sydvestjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Foredrag, debat og højskoler &gt; Højskoleforløb</g:product_type>
-      <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
-      <g:custom_label_1>Højskoleforløb</g:custom_label_1>
-      <g:custom_label_2></g:custom_label_2>
-      <g:custom_label_4>Esbjerg</g:custom_label_4>
-      <g:start_date>2026-10-28T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Starter snart</g:custom_label_3>
-      <g:internal_label>['Starter snart','Esbjerg']</g:internal_label>
-    </item>
-<item>
       <g:id>SVJ-262423</g:id>
       <g:title><![CDATA[Italian Regional Cooking (In English)]]></g:title>
       <g:description><![CDATA[We offer a wide range of courses taught in English, designed for both beginners and experienced learners. Grow your skills.]]></g:description>
@@ -12411,28 +12387,6 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:start_date>2027-01-26T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Fanø</g:custom_label_3>
       <g:internal_label>['Fanø','Kreative kurser']</g:internal_label>
-    </item>
-<item>
-      <g:id>SVJ-2710999</g:id>
-      <g:title><![CDATA[Se lyset i januar med Ida's berømte Nutella Cookies 😊]]></g:title>
-      <g:description><![CDATA[Oplev ESE Festival med FOF i Esbjerg. Vælg mellem to gratis bageevents med Ida's Kageri, hygge og kreativitet. Se events og tilmeld dig trygt her.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-sydvestjylland/ese-festival?holdnr=2710999</g:link>
-      <g:image_link>https://www.fof.dk/media/tz0doqsq/ese-festival-event-bag-idas-kageri-sydvestjylland-fof-aftenskolen-05.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>0.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Sydvestjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Madlavning og drikkevarer &gt; Bagning og søde sager</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
-      <g:custom_label_2>Bagning og søde sager</g:custom_label_2>
-      <g:custom_label_4>Esbjerg</g:custom_label_4>
-      <g:start_date>2027-01-27T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Esbjerg</g:custom_label_3>
-      <g:internal_label>['Esbjerg','Bagning og søde sager','Madlavning og drikkevarer']</g:internal_label>
     </item>
 <item>
       <g:id>SVJ-2710326</g:id>
@@ -13224,6 +13178,28 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:start_date>2026-10-30T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Keramik Boulevarden</g:custom_label_3>
       <g:internal_label>['Keramik Boulevarden','Kulturpas','Aalborg']</g:internal_label>
+    </item>
+<item>
+      <g:id>AAL-26205910</g:id>
+      <g:title><![CDATA[Keramik: Mal på keramik ]]></g:title>
+      <g:description><![CDATA[Mal på keramik hos FOF Aalborg. Dekorér kopper, skåle, tallerkener og fade i et hyggeligt keramikværksted. Glasur og brænding er inkluderet.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aalborg/keramik-mal-paa-keramik?holdnr=26205910</g:link>
+      <g:image_link>https://www.fof.dk/media/bdno5ovj/mal_keramik_1keramik.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>100.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aalborg</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Kreative kurser &gt; Keramik</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Kreative kurser</g:custom_label_1>
+      <g:custom_label_2>Keramik</g:custom_label_2>
+      <g:custom_label_4>Aalborg</g:custom_label_4>
+      <g:start_date>2026-11-01T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Keramik Boulevarden</g:custom_label_3>
+      <g:internal_label>['Keramik Boulevarden','Aalborg']</g:internal_label>
     </item>
 <item>
       <g:id>AAL-26205728</g:id>
@@ -14533,28 +14509,6 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:internal_label>['Foredrag','Aftenforedrag','Aalborg SV']</g:internal_label>
     </item>
 <item>
-      <g:id>AAL-26280005</g:id>
-      <g:title><![CDATA[Fra Everest til Alene i Vildmarken]]></g:title>
-      <g:description><![CDATA[Mød Rasmus Kiilerich Kragh, vinder af Alene i Vildmarken, til et personligt foredrag hos FOF Aalborg om 63 dage alene i den finske vildmark.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-aalborg/fra-everest-til-alene-i-vildmarken?holdnr=26280005</g:link>
-      <g:image_link>https://www.fof.dk/media/uuxb323g/rasmus-kragh.png?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>175.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Aalborg</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Foredrag, debat og højskoler &gt; Samfund og historie</g:product_type>
-      <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
-      <g:custom_label_1>Samfund og historie</g:custom_label_1>
-      <g:custom_label_2></g:custom_label_2>
-      <g:custom_label_4></g:custom_label_4>
-      <g:start_date>2026-11-24T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Foredrag</g:custom_label_3>
-      <g:internal_label>['Foredrag','Aftenforedrag']</g:internal_label>
-    </item>
-<item>
       <g:id>AAL-26215861</g:id>
       <g:title><![CDATA[Fotografi for begyndere]]></g:title>
       <g:description><![CDATA[Lær at tage bedre billeder med din smartphone på et fotokursus for begyndere hos FOF Aalborg. Få styr på lys, komposition, portrætter og meget mere.]]></g:description>
@@ -14575,6 +14529,28 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:start_date>2026-11-24T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Nyhed</g:custom_label_3>
       <g:internal_label>['Nyhed','Aalborg']</g:internal_label>
+    </item>
+<item>
+      <g:id>AAL-26280005</g:id>
+      <g:title><![CDATA[Fra Everest til Alene i Vildmarken]]></g:title>
+      <g:description><![CDATA[Mød Rasmus Kiilerich Kragh, vinder af Alene i Vildmarken, til et personligt foredrag hos FOF Aalborg om 63 dage alene i den finske vildmark.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aalborg/fra-everest-til-alene-i-vildmarken?holdnr=26280005</g:link>
+      <g:image_link>https://www.fof.dk/media/uuxb323g/rasmus-kragh.png?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>175.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aalborg</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Foredrag, debat og højskoler &gt; Samfund og historie</g:product_type>
+      <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
+      <g:custom_label_1>Samfund og historie</g:custom_label_1>
+      <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4></g:custom_label_4>
+      <g:start_date>2026-11-24T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Foredrag</g:custom_label_3>
+      <g:internal_label>['Foredrag','Aftenforedrag']</g:internal_label>
     </item>
 <item>
       <g:id>AAL-26220387</g:id>
@@ -16025,28 +16001,6 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:internal_label>['Starter om &lt; 14 dage','Førstehjælp til kørekort','Korte kurser','Åbyhøj']</g:internal_label>
     </item>
 <item>
-      <g:id>AAR-428972</g:id>
-      <g:title><![CDATA[Førstehjælp (hjertestop)]]></g:title>
-      <g:description><![CDATA[Lær at redde liv på et førstehjælpskursus hos FOF Aarhus. Lær at give hjertemassage, kunstigt åndedræt, bruge en hjertestarter og meget mere.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/foerstehjaelp-hjertestop?holdnr=428972</g:link>
-      <g:image_link>https://www.fof.dk/media/dsnjoxid/foerstehjaelp-bentedyhrberg-3_1200x1200-fof-aarhus.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>475.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Aarhus</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Førstehjælp</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Førstehjælp</g:custom_label_2>
-      <g:custom_label_4>Åbyhøj</g:custom_label_4>
-      <g:start_date>2026-11-03T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Korte kurser</g:custom_label_3>
-      <g:internal_label>['Korte kurser','Åbyhøj']</g:internal_label>
-    </item>
-<item>
       <g:id>AAR-426982A</g:id>
       <g:title><![CDATA[Studiepris: Jagten på liv i universet]]></g:title>
       <g:description><![CDATA[Er der liv i rummet? Kom til foredrag i Aarhus! Spørgsmålet om, hvorvidt vi er alene i det uendelige verdensrum, har fascineret mennesket i årtusinder, men aldrig har vi været tættere på et svar end netop nu. Vi inviterer til en aften, hvor vi forlader Jordens trygge rammer og rejser ud mod de fjerneste afkroge af vores galakse i søgen efter svar. I disse år gennemgår astronomien en sand revolution. Med de nyeste rumteleskoper som værktøj og avancerede robotter på overfladen af Mars er videnskaben i gang med at kortlægge de steder, hvor de fundamentale byggesten til liv kan gemme sig. Kom med bag de videnskabelige overskrifter og se nærmere på de isdækkede måner i vores eget solsystem, hvor skjulte oceaner måske vrimler med mikroorganismer, samt de fjerne exoplaneter, der ligger i den såkaldt beboelige zone omkring deres moderstjerner. Det bliver en aften, hvor benhård naturvidenskab møder de helt store eksistentielle spørgsmål, og hvor du får et unikt indblik i, hvor tæt vi reelt er på at finde "Jorden 2.0". Om Tina Ibsen Tina Ibsen er astrofysiker, forfatter til flere videnskabsbøger om rummet, videnskabsformidler og podcaster på podcasten RumSnak . Tina Ibsen har en kandidat i astrofysik fra Niels Bohr Instituttet på Københavns Universitet. Fra 2013-2018 var hun formidlingschef på Tycho Brahe Planetarium i København. Hun har siden 2019 været selvstændig med egen formidlingsvirksomhed og har specialiseret sig i at gøre svært fagstof tilgængeligt for den brede offentlighed. Arrangeret af FOF Aarhus i samarbejde med Dokk1. Se hele vores foredragskalender.]]></g:description>
@@ -17056,28 +17010,6 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:start_date>2026-11-15T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Korte kurser</g:custom_label_3>
       <g:internal_label>['Korte kurser','Aarhus C']</g:internal_label>
-    </item>
-<item>
-      <g:id>AAR-428868</g:id>
-      <g:title><![CDATA[Færdselsrelateret førstehjælp]]></g:title>
-      <g:description><![CDATA[FOF Aftenskolen Aarhus tilbyder førstehjælpskursus til dig, der er ved at tage kørekort. Praktisk-orienteret undervisning! Tilmeld dig hos FOF i dag.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/faerdselsrelateret-foerstehjaelp?holdnr=428868</g:link>
-      <g:image_link>https://www.fof.dk/media/l0zixqes/foerstehjaelp-bentedyhrberg-1_1200x1200-fof-aarhus.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>575.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Aarhus</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Førstehjælp</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Førstehjælp</g:custom_label_2>
-      <g:custom_label_4>Aarhus</g:custom_label_4>
-      <g:start_date>2026-11-15T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Førstehjælp til kørekort</g:custom_label_3>
-      <g:internal_label>['Førstehjælp til kørekort','Korte kurser','Aarhus C']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-428867</g:id>
@@ -20737,6 +20669,27 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:internal_label>['Langeskov']</g:internal_label>
     </item>
 <item>
+      <g:id>OFY-261692</g:id>
+      <g:title><![CDATA[Tango young -dance together]]></g:title>
+      <g:description><![CDATA[Hyg dig med Tango Young for unge på hele Fyn i Kerteminde hos FOF Østfyn]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-oestfyn/tango-young?holdnr=261692</g:link>
+      <g:image_link>https://www.fof.dk/media/kvvp4dfy/tango-young-1200x1200.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>125.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Østfyn</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Dans</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Dans</g:custom_label_2>
+      <g:custom_label_4>Kerteminde</g:custom_label_4>
+      <g:start_date>2026-11-20T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Kerteminde']</g:internal_label>
+    </item>
+<item>
       <g:id>OFY-261823</g:id>
       <g:title><![CDATA[Olivenoliens DNA]]></g:title>
       <g:description><![CDATA[Smag, duft og hør om olivenoliens DNA hos en virkelig kender i Dalby,lidt nord for Kerteminde hos FOF Østfyn aftenskolen]]></g:description>
@@ -21437,6 +21390,27 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:internal_label>['Frederiksberg','Debat']</g:internal_label>
     </item>
 <item>
+      <g:id>26288026</g:id>
+      <g:title><![CDATA[Billeder på computeren – på mobilen – i skyen…]]></g:title>
+      <g:description><![CDATA[Lær at organisere og gemme billeder på mobil, pc og i skyen. Få styr på backup, plads og billedhåndtering. Trygt og praktisk kursus hos FOF København og Nordsjælland. Tilmeld dig her.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/billeder-paa-computeren-paa-mobilen-i-skyen?holdnr=26288026</g:link>
+      <g:image_link>https://www.fof.dk/media/li2nc4qf/billeder-pa-computeren-fofkn-aftenskolen-it-og-foto.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>945.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; It og foto &gt; Computer og smartphone</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>It og foto</g:custom_label_1>
+      <g:custom_label_2>Computer og smartphone</g:custom_label_2>
+      <g:custom_label_4>København</g:custom_label_4>
+      <g:start_date>2026-10-29T00:00:00.000Z</g:start_date>
+      <g:internal_label>['København K']</g:internal_label>
+    </item>
+<item>
       <g:id>26200019</g:id>
       <g:title><![CDATA[De skjulte penge: Kunstverdenen, skattely og den globale elite]]></g:title>
       <g:description><![CDATA[Mød Peter Meedom, Andreas Dalsgaard og Lotte Folke til debat om de skjulte økonomier bag milliardformuer, kunstinvesteringer og demokratisk kontrol. Læs mere.]]></g:description>
@@ -21457,27 +21431,6 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:start_date>2026-10-29T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Foredrag</g:custom_label_3>
       <g:internal_label>['Foredrag','København K']</g:internal_label>
-    </item>
-<item>
-      <g:id>26288026</g:id>
-      <g:title><![CDATA[Billeder på computeren – på mobilen – i skyen…]]></g:title>
-      <g:description><![CDATA[Lær at organisere og gemme billeder på mobil, pc og i skyen. Få styr på backup, plads og billedhåndtering. Trygt og praktisk kursus hos FOF København og Nordsjælland. Tilmeld dig her.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/billeder-paa-computeren-paa-mobilen-i-skyen?holdnr=26288026</g:link>
-      <g:image_link>https://www.fof.dk/media/li2nc4qf/billeder-pa-computeren-fofkn-aftenskolen-it-og-foto.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>945.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF København og Nordsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; It og foto &gt; Computer og smartphone</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>It og foto</g:custom_label_1>
-      <g:custom_label_2>Computer og smartphone</g:custom_label_2>
-      <g:custom_label_4>København</g:custom_label_4>
-      <g:start_date>2026-10-29T00:00:00.000Z</g:start_date>
-      <g:internal_label>['København K']</g:internal_label>
     </item>
 <item>
       <g:id>26213688</g:id>
@@ -21909,27 +21862,6 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:internal_label>['Korte kurser','Charlottenlund']</g:internal_label>
     </item>
 <item>
-      <g:id>26276397</g:id>
-      <g:title><![CDATA[Trædrejning – weekend]]></g:title>
-      <g:description><![CDATA[Lær trædrejning i et lille værksted med kun seks deltagere. Få erfaring med teknikker, værktøj og drejebænk. Perfekt til nybegyndere og øvede.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/traedrejning-lille-hold?holdnr=26276397</g:link>
-      <g:image_link>https://www.fof.dk/media/2lopuqgg/traedrejning-fofkn-aftenskolen-kreative-kurser-ns-2.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1790.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF København og Nordsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Kreative kurser &gt; Træarbejde</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Kreative kurser</g:custom_label_1>
-      <g:custom_label_2>Træarbejde</g:custom_label_2>
-      <g:custom_label_4>Værløse</g:custom_label_4>
-      <g:start_date>2026-10-31T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Værløse']</g:internal_label>
-    </item>
-<item>
       <g:id>26285002</g:id>
       <g:title><![CDATA[Foto – motiv og komposition – vejen til bedre billeder]]></g:title>
       <g:description><![CDATA[Lær at tage bedre billeder med fokus på motiv og komposition. Forstå lys, linjer og det gyldne snit på et inspirerende fotokursus hos FOF.]]></g:description>
@@ -22014,7 +21946,6 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:custom_label_2>Økonomi og investering</g:custom_label_2>
       <g:custom_label_4>Charlottenlund</g:custom_label_4>
       <g:start_date>2026-10-31T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Charlottenlund']</g:internal_label>
     </item>
 <item>
       <g:id>26245286</g:id>
@@ -22059,28 +21990,6 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:internal_label>['Frederiksberg']</g:internal_label>
     </item>
 <item>
-      <g:id>26278034</g:id>
-      <g:title><![CDATA[Another View – bæredygtigt design og syning]]></g:title>
-      <g:description><![CDATA[Lær at designe og sy bæredygtigt tøj af genbrugstekstiler. Deltag på sykurset og skab dine egne unikke kreationer. Læs mere og tilmeld dig allerede i dag.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/another-view-baeredygtigt-design-og-syning?holdnr=26278034</g:link>
-      <g:image_link>https://www.fof.dk/media/4xdlaboj/another-view-upcycling-fofkn-aftenskolen-kreative-kurser-mette-groth-pedersen.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1225.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF København og Nordsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Kreative kurser &gt; Syning</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Kreative kurser</g:custom_label_1>
-      <g:custom_label_2>Syning</g:custom_label_2>
-      <g:custom_label_4>Hellerup</g:custom_label_4>
-      <g:start_date>2026-11-01T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Korte kurser</g:custom_label_3>
-      <g:internal_label>['Korte kurser','Hellerup']</g:internal_label>
-    </item>
-<item>
       <g:id>26240220</g:id>
       <g:title><![CDATA[Sundere slik]]></g:title>
       <g:description><![CDATA[Få inspiration til at lave sundt slik og lækre snacks uden raffineret sukker og ultraforarbejdede ingredienser. Tilmeld dig hos FOF København og Nordsjælland.]]></g:description>
@@ -22122,6 +22031,28 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:start_date>2026-11-01T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Ture og rundvisninger</g:custom_label_3>
       <g:internal_label>['Ture og rundvisninger','København Ø']</g:internal_label>
+    </item>
+<item>
+      <g:id>26278034</g:id>
+      <g:title><![CDATA[Another View – bæredygtigt design og syning]]></g:title>
+      <g:description><![CDATA[Lær at designe og sy bæredygtigt tøj af genbrugstekstiler. Deltag på sykurset og skab dine egne unikke kreationer. Læs mere og tilmeld dig allerede i dag.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/another-view-baeredygtigt-design-og-syning?holdnr=26278034</g:link>
+      <g:image_link>https://www.fof.dk/media/4xdlaboj/another-view-upcycling-fofkn-aftenskolen-kreative-kurser-mette-groth-pedersen.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1225.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Kreative kurser &gt; Syning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Kreative kurser</g:custom_label_1>
+      <g:custom_label_2>Syning</g:custom_label_2>
+      <g:custom_label_4>Hellerup</g:custom_label_4>
+      <g:start_date>2026-11-01T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Korte kurser</g:custom_label_3>
+      <g:internal_label>['Korte kurser','Hellerup']</g:internal_label>
     </item>
 <item>
       <g:id>26278066</g:id>
@@ -22211,28 +22142,6 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:internal_label>['Aftenskolernes Hus','Korte kurser','København NV']</g:internal_label>
     </item>
 <item>
-      <g:id>26276058</g:id>
-      <g:title><![CDATA[Familiekeramik i Tisvilde]]></g:title>
-      <g:description><![CDATA[Lav keramik med børn eller børnebørn i Tisvilde. Lær pølseteknik og glasering, og skab unikke værker i fællesskab. Inkl. materialer.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/familiekeramik-i-tisvilde?holdnr=26276058</g:link>
-      <g:image_link>https://www.fof.dk/media/r0ypb12j/keramik-fofkn-aftenskolen-kreative-kurser-stock-18.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1385.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF København og Nordsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Familie, børn og unge &gt; Kreative kurser</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Familie, børn og unge</g:custom_label_1>
-      <g:custom_label_2>Kreative kurser</g:custom_label_2>
-      <g:custom_label_4>Tisvildeleje</g:custom_label_4>
-      <g:start_date>2026-11-02T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Gribskov</g:custom_label_3>
-      <g:internal_label>['Gribskov','Familie','Tisvildeleje']</g:internal_label>
-    </item>
-<item>
       <g:id>26200009</g:id>
       <g:title><![CDATA[Ukraine – Krigen, der ændrer Europa]]></g:title>
       <g:description><![CDATA[Oplev Andrey Kazankov i et aktuelt foredrag om krigen i Ukraine, menneskerne og Europas fremtid. Få indsigt i udviklingen og perspektiver. Se hold her.]]></g:description>
@@ -22253,6 +22162,28 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:start_date>2026-11-02T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Debat</g:custom_label_3>
       <g:internal_label>['Debat','Hellerup']</g:internal_label>
+    </item>
+<item>
+      <g:id>26276058</g:id>
+      <g:title><![CDATA[Familiekeramik i Tisvilde]]></g:title>
+      <g:description><![CDATA[Lav keramik med børn eller børnebørn i Tisvilde. Lær pølseteknik og glasering, og skab unikke værker i fællesskab. Inkl. materialer.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/familiekeramik-i-tisvilde?holdnr=26276058</g:link>
+      <g:image_link>https://www.fof.dk/media/r0ypb12j/keramik-fofkn-aftenskolen-kreative-kurser-stock-18.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1385.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Familie, børn og unge &gt; Kreative kurser</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Familie, børn og unge</g:custom_label_1>
+      <g:custom_label_2>Kreative kurser</g:custom_label_2>
+      <g:custom_label_4>Tisvildeleje</g:custom_label_4>
+      <g:start_date>2026-11-02T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Gribskov</g:custom_label_3>
+      <g:internal_label>['Gribskov','Familie','Tisvildeleje']</g:internal_label>
     </item>
 <item>
       <g:id>26251242</g:id>
@@ -22599,28 +22530,6 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:internal_label>['Ture og rundvisninger','Kongens Lyngby']</g:internal_label>
     </item>
 <item>
-      <g:id>26204100</g:id>
-      <g:title><![CDATA[Vincent Hendricks: Hvad giver livet mening?]]></g:title>
-      <g:description><![CDATA[Hør Vincent F. Hendricks diskutere lykke, filosofi og livets mening. Tankevækkende foredrag hos FOF København og Nordsjælland – Book din plads her.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/vincent-hendricks-hvad-giver-livet-mening?holdnr=26204100</g:link>
-      <g:image_link>https://www.fof.dk/media/w2yasr0t/6813-vincent-f-hendricks-fofkn-aftenskolen-foredrag.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>200.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF København og Nordsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Foredrag, debat og højskoler &gt; Sundhed og eksistens</g:product_type>
-      <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
-      <g:custom_label_1>Sundhed og eksistens</g:custom_label_1>
-      <g:custom_label_2></g:custom_label_2>
-      <g:custom_label_4>Holte</g:custom_label_4>
-      <g:start_date>2026-11-04T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Debat</g:custom_label_3>
-      <g:internal_label>['Debat','Holte']</g:internal_label>
-    </item>
-<item>
       <g:id>26212532</g:id>
       <g:title><![CDATA[Metropolzonen - Danmarks eneste urbane hotspot]]></g:title>
       <g:description><![CDATA[Kom på byvandring i Københavns Metropolzone og oplev moderne byudvikling og arkitektur i verdensklasse. Book din plads på turen her.]]></g:description>
@@ -22641,6 +22550,28 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:start_date>2026-11-04T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Ture og rundvisninger</g:custom_label_3>
       <g:internal_label>['Ture og rundvisninger','København V']</g:internal_label>
+    </item>
+<item>
+      <g:id>26204100</g:id>
+      <g:title><![CDATA[Vincent Hendricks: Hvad giver livet mening?]]></g:title>
+      <g:description><![CDATA[Hør Vincent F. Hendricks diskutere lykke, filosofi og livets mening. Tankevækkende foredrag hos FOF København og Nordsjælland – Book din plads her.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/vincent-hendricks-hvad-giver-livet-mening?holdnr=26204100</g:link>
+      <g:image_link>https://www.fof.dk/media/w2yasr0t/6813-vincent-f-hendricks-fofkn-aftenskolen-foredrag.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>200.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Foredrag, debat og højskoler &gt; Sundhed og eksistens</g:product_type>
+      <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
+      <g:custom_label_1>Sundhed og eksistens</g:custom_label_1>
+      <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Holte</g:custom_label_4>
+      <g:start_date>2026-11-04T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Debat</g:custom_label_3>
+      <g:internal_label>['Debat','Holte']</g:internal_label>
     </item>
 <item>
       <g:id>26206050</g:id>
@@ -23010,28 +22941,6 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:internal_label>['Børn og unge','København K']</g:internal_label>
     </item>
 <item>
-      <g:id>26261045</g:id>
-      <g:title><![CDATA[Italiensk – begyndere – lynkursus]]></g:title>
-      <g:description><![CDATA[Boost dit italiensk på et kort lynkursus. Vi repeterer basis og træner små dialoger, så du bliver mere sikker før ferien. Et effektivt forløb for let øvede begyndere.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/italiensk-lynkursus-begyndere?holdnr=26261045</g:link>
-      <g:image_link>https://www.fof.dk/media/x5nnaqgr/italiensk-fofkn-aftenskolen-sprog-stock-193746.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>945.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF København og Nordsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Sprog &gt; Italiensk</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Sprog</g:custom_label_1>
-      <g:custom_label_2>Italiensk</g:custom_label_2>
-      <g:custom_label_4>København</g:custom_label_4>
-      <g:start_date>2026-11-07T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Sprog - begynder</g:custom_label_3>
-      <g:internal_label>['Sprog - begynder','Korte kurser','København V']</g:internal_label>
-    </item>
-<item>
       <g:id>26284022</g:id>
       <g:title><![CDATA[Cyanotypi – introduktion]]></g:title>
       <g:description><![CDATA[Få en enkel introduktion til cyanotypi og lær at blande emulsion, eksponere motiver og skabe dine egne blå tryk. Et kreativt 1-dagskursus for alle.]]></g:description>
@@ -23052,6 +22961,28 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:start_date>2026-11-07T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Korte kurser</g:custom_label_3>
       <g:internal_label>['Korte kurser','København K']</g:internal_label>
+    </item>
+<item>
+      <g:id>26261045</g:id>
+      <g:title><![CDATA[Italiensk – begyndere – lynkursus]]></g:title>
+      <g:description><![CDATA[Boost dit italiensk på et kort lynkursus. Vi repeterer basis og træner små dialoger, så du bliver mere sikker før ferien. Et effektivt forløb for let øvede begyndere.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/italiensk-lynkursus-begyndere?holdnr=26261045</g:link>
+      <g:image_link>https://www.fof.dk/media/x5nnaqgr/italiensk-fofkn-aftenskolen-sprog-stock-193746.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>945.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Sprog &gt; Italiensk</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Sprog</g:custom_label_1>
+      <g:custom_label_2>Italiensk</g:custom_label_2>
+      <g:custom_label_4>København</g:custom_label_4>
+      <g:start_date>2026-11-07T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Sprog - begynder</g:custom_label_3>
+      <g:internal_label>['Sprog - begynder','Korte kurser','København V']</g:internal_label>
     </item>
 <item>
       <g:id>26274524</g:id>
@@ -23120,27 +23051,6 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:internal_label>['Korte kurser','København V']</g:internal_label>
     </item>
 <item>
-      <g:id>26250793</g:id>
-      <g:title><![CDATA[Befri din stemme – intensiv workshop – daghold ]]></g:title>
-      <g:description><![CDATA[Genopdag din naturlige stemme og lær at bruge kroppen som lydens støtte. Et nærværende kursus i stemmefrihed, vejrtrækning og taleteknik for små hold. Læs mere.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/befri-din-stemme?holdnr=26250793</g:link>
-      <g:image_link>https://www.fof.dk/media/0h2hmkes/sangundervisning-fofkn-aftenskolen-musik-og-sang-stock-308376494.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>500.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF København og Nordsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Musik og sang &gt; Sang og stemmetræning</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Musik og sang</g:custom_label_1>
-      <g:custom_label_2>Sang og stemmetræning</g:custom_label_2>
-      <g:custom_label_4>København</g:custom_label_4>
-      <g:start_date>2026-11-07T00:00:00.000Z</g:start_date>
-      <g:internal_label>['København K']</g:internal_label>
-    </item>
-<item>
       <g:id>26260305</g:id>
       <g:title><![CDATA[Finsk – begyndere – workshop]]></g:title>
       <g:description><![CDATA[På FOF København og Nordsjællands begynderworkshop kan du lære finsk fra bunden. Lær simple fraser og få et kig ind i kasussystemet. Tilmeld dig her.]]></g:description>
@@ -23161,6 +23071,27 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:start_date>2026-11-07T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Korte kurser</g:custom_label_3>
       <g:internal_label>['Korte kurser','København K']</g:internal_label>
+    </item>
+<item>
+      <g:id>26250793</g:id>
+      <g:title><![CDATA[Befri din stemme – intensiv workshop – daghold ]]></g:title>
+      <g:description><![CDATA[Genopdag din naturlige stemme og lær at bruge kroppen som lydens støtte. Et nærværende kursus i stemmefrihed, vejrtrækning og taleteknik for små hold. Læs mere.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/befri-din-stemme?holdnr=26250793</g:link>
+      <g:image_link>https://www.fof.dk/media/0h2hmkes/sangundervisning-fofkn-aftenskolen-musik-og-sang-stock-308376494.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>500.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Musik og sang &gt; Sang og stemmetræning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Musik og sang</g:custom_label_1>
+      <g:custom_label_2>Sang og stemmetræning</g:custom_label_2>
+      <g:custom_label_4>København</g:custom_label_4>
+      <g:start_date>2026-11-07T00:00:00.000Z</g:start_date>
+      <g:internal_label>['København K']</g:internal_label>
     </item>
 <item>
       <g:id>26204039</g:id>
@@ -23207,28 +23138,6 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:internal_label>['Korte kurser','København K']</g:internal_label>
     </item>
 <item>
-      <g:id>26274091</g:id>
-      <g:title><![CDATA[Papirblomster]]></g:title>
-      <g:description><![CDATA[Lær at lave papirblomster hos FOF København og Nordsjælland. Skab farverige blomster og pynt i crepepapir med underviser Lawrence Ebelle. Læs mere her.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/papirblomster?holdnr=26274091</g:link>
-      <g:image_link>https://www.fof.dk/media/rhxb1mty/papirblomster-fofkn-aftenskolen-kreative-kurser-lawrence-ebelle.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1105.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF København og Nordsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Kreative kurser &gt; Håndværk og kunsthåndværk</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Kreative kurser</g:custom_label_1>
-      <g:custom_label_2>Håndværk og kunsthåndværk</g:custom_label_2>
-      <g:custom_label_4>København</g:custom_label_4>
-      <g:start_date>2026-11-07T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Korte kurser</g:custom_label_3>
-      <g:internal_label>['Korte kurser','København K']</g:internal_label>
-    </item>
-<item>
       <g:id>26213605</g:id>
       <g:title><![CDATA[En unik aften hos Thornæs Destilleri ]]></g:title>
       <g:description><![CDATA[Oplev Thornæs Destilleri i Nordsjælland. Rundvisning, procesindsigt og smagning af whisky og gin. En smagfuld aften fra FOF København og Nordsjælland.]]></g:description>
@@ -23249,6 +23158,28 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:start_date>2026-11-07T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Gribskov</g:custom_label_3>
       <g:internal_label>['Gribskov','Ture og rundvisninger','Helsinge']</g:internal_label>
+    </item>
+<item>
+      <g:id>26274091</g:id>
+      <g:title><![CDATA[Papirblomster]]></g:title>
+      <g:description><![CDATA[Lær at lave papirblomster hos FOF København og Nordsjælland. Skab farverige blomster og pynt i crepepapir med underviser Lawrence Ebelle. Læs mere her.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/papirblomster?holdnr=26274091</g:link>
+      <g:image_link>https://www.fof.dk/media/rhxb1mty/papirblomster-fofkn-aftenskolen-kreative-kurser-lawrence-ebelle.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1105.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Kreative kurser &gt; Håndværk og kunsthåndværk</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Kreative kurser</g:custom_label_1>
+      <g:custom_label_2>Håndværk og kunsthåndværk</g:custom_label_2>
+      <g:custom_label_4>København</g:custom_label_4>
+      <g:start_date>2026-11-07T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Korte kurser</g:custom_label_3>
+      <g:internal_label>['Korte kurser','København K']</g:internal_label>
     </item>
 <item>
       <g:id>26245289</g:id>
@@ -23360,27 +23291,6 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:internal_label>['Aftenskolernes Hus','Korte kurser','København NV']</g:internal_label>
     </item>
 <item>
-      <g:id>26250794</g:id>
-      <g:title><![CDATA[Befri din stemme – intensiv workshop – daghold ]]></g:title>
-      <g:description><![CDATA[Genopdag din naturlige stemme og lær at bruge kroppen som lydens støtte. Et nærværende kursus i stemmefrihed, vejrtrækning og taleteknik for små hold. Læs mere.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/befri-din-stemme?holdnr=26250794</g:link>
-      <g:image_link>https://www.fof.dk/media/0h2hmkes/sangundervisning-fofkn-aftenskolen-musik-og-sang-stock-308376494.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>500.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF København og Nordsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Musik og sang &gt; Sang og stemmetræning</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Musik og sang</g:custom_label_1>
-      <g:custom_label_2>Sang og stemmetræning</g:custom_label_2>
-      <g:custom_label_4>København</g:custom_label_4>
-      <g:start_date>2026-11-08T00:00:00.000Z</g:start_date>
-      <g:internal_label>['København K']</g:internal_label>
-    </item>
-<item>
       <g:id>26245213</g:id>
       <g:title><![CDATA[Sushi – voksne og børn fra 8 år]]></g:title>
       <g:description><![CDATA[Lær at lave sushi fra bunden på et hyggeligt kursus for børn og voksne. Lav makiruller, nigiri og sashimi med friske råvarer. Læs mere og book plads i dag.]]></g:description>
@@ -23401,6 +23311,27 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:start_date>2026-11-08T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Familie</g:custom_label_3>
       <g:internal_label>['Familie','København V']</g:internal_label>
+    </item>
+<item>
+      <g:id>26250794</g:id>
+      <g:title><![CDATA[Befri din stemme – intensiv workshop – daghold ]]></g:title>
+      <g:description><![CDATA[Genopdag din naturlige stemme og lær at bruge kroppen som lydens støtte. Et nærværende kursus i stemmefrihed, vejrtrækning og taleteknik for små hold. Læs mere.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/befri-din-stemme?holdnr=26250794</g:link>
+      <g:image_link>https://www.fof.dk/media/0h2hmkes/sangundervisning-fofkn-aftenskolen-musik-og-sang-stock-308376494.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>500.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Musik og sang &gt; Sang og stemmetræning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Musik og sang</g:custom_label_1>
+      <g:custom_label_2>Sang og stemmetræning</g:custom_label_2>
+      <g:custom_label_4>København</g:custom_label_4>
+      <g:start_date>2026-11-08T00:00:00.000Z</g:start_date>
+      <g:internal_label>['København K']</g:internal_label>
     </item>
 <item>
       <g:id>26204033</g:id>
@@ -23898,6 +23829,28 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:internal_label>['Foredrag','København K']</g:internal_label>
     </item>
 <item>
+      <g:id>26250049</g:id>
+      <g:title><![CDATA[Complete Vocal Technique – workshop – daghold ]]></g:title>
+      <g:description><![CDATA[Join a Complete Vocal Technique workshop and explore safe, powerful singing. Learn CVT fundamentals, practice techniques, and develop your voice. Sign up here.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/complete-vocal-technique-workshop?holdnr=26250049</g:link>
+      <g:image_link>https://www.fof.dk/media/ntwdoa0e/sangundervisning-fofkn-aftenskolen-musik-og-sang-stock-230813593.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>400.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Musik og sang &gt; Sang og stemmetræning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Musik og sang</g:custom_label_1>
+      <g:custom_label_2>Sang og stemmetræning</g:custom_label_2>
+      <g:custom_label_4>København</g:custom_label_4>
+      <g:start_date>2026-11-12T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>In English</g:custom_label_3>
+      <g:internal_label>['In English','København K']</g:internal_label>
+    </item>
+<item>
       <g:id>26272111</g:id>
       <g:title><![CDATA[Akvarel – begyndere og letøvede]]></g:title>
       <g:description><![CDATA[Lær klassiske akvarelteknikker og farvelære hos FOF København og Nordsjælland. Tegn og mal portrætter, landskaber og croquis og udvikl dit eget udtryk.]]></g:description>
@@ -23939,28 +23892,6 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:start_date>2026-11-12T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Frederiksberg</g:custom_label_3>
       <g:internal_label>['Frederiksberg']</g:internal_label>
-    </item>
-<item>
-      <g:id>26250049</g:id>
-      <g:title><![CDATA[Complete Vocal Technique – workshop – daghold ]]></g:title>
-      <g:description><![CDATA[Join a Complete Vocal Technique workshop and explore safe, powerful singing. Learn CVT fundamentals, practice techniques, and develop your voice. Sign up here.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/complete-vocal-technique-workshop?holdnr=26250049</g:link>
-      <g:image_link>https://www.fof.dk/media/ntwdoa0e/sangundervisning-fofkn-aftenskolen-musik-og-sang-stock-230813593.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>400.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF København og Nordsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Musik og sang &gt; Sang og stemmetræning</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Musik og sang</g:custom_label_1>
-      <g:custom_label_2>Sang og stemmetræning</g:custom_label_2>
-      <g:custom_label_4>København</g:custom_label_4>
-      <g:start_date>2026-11-12T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>In English</g:custom_label_3>
-      <g:internal_label>['In English','København K']</g:internal_label>
     </item>
 <item>
       <g:id>26213524</g:id>
@@ -24073,28 +24004,6 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:internal_label>['Korte kurser','København K']</g:internal_label>
     </item>
 <item>
-      <g:id>26270015</g:id>
-      <g:title><![CDATA[Lær at tegne – begyndere og letøvede]]></g:title>
-      <g:description><![CDATA[Få styr på lys, skygge og komposition på en inspirerende tegneworkshop. Lær teknikkerne fra bunden og find din kreative streg hos FOF København.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/laer-at-tegne-weekendworkshop?holdnr=26270015</g:link>
-      <g:image_link>https://www.fof.dk/media/gznf2ems/tegnekursus-fofkn-aftenskolen-kreative-kurser-tegnekursus-ns-9.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>875.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF København og Nordsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Kreative kurser &gt; Tegnekurser</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Kreative kurser</g:custom_label_1>
-      <g:custom_label_2>Tegnekurser</g:custom_label_2>
-      <g:custom_label_4>Hellerup</g:custom_label_4>
-      <g:start_date>2026-11-14T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Korte kurser</g:custom_label_3>
-      <g:internal_label>['Korte kurser','Hellerup']</g:internal_label>
-    </item>
-<item>
       <g:id>26240204</g:id>
       <g:title><![CDATA[Kinesiske madoplevelser – workshop]]></g:title>
       <g:description><![CDATA[Lær at lave kinesiske retter som dumplings, bao og supper på madlavningskurset hos FOF København og Nordsjælland. Læs mere og tilmeld dig kurset her.]]></g:description>
@@ -24135,6 +24044,28 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:custom_label_4>København</g:custom_label_4>
       <g:start_date>2026-11-14T00:00:00.000Z</g:start_date>
       <g:internal_label>['København K']</g:internal_label>
+    </item>
+<item>
+      <g:id>26270015</g:id>
+      <g:title><![CDATA[Lær at tegne – begyndere og letøvede]]></g:title>
+      <g:description><![CDATA[Få styr på lys, skygge og komposition på en inspirerende tegneworkshop. Lær teknikkerne fra bunden og find din kreative streg hos FOF København.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/laer-at-tegne-weekendworkshop?holdnr=26270015</g:link>
+      <g:image_link>https://www.fof.dk/media/gznf2ems/tegnekursus-fofkn-aftenskolen-kreative-kurser-tegnekursus-ns-9.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>875.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Kreative kurser &gt; Tegnekurser</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Kreative kurser</g:custom_label_1>
+      <g:custom_label_2>Tegnekurser</g:custom_label_2>
+      <g:custom_label_4>Hellerup</g:custom_label_4>
+      <g:start_date>2026-11-14T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Korte kurser</g:custom_label_3>
+      <g:internal_label>['Korte kurser','Hellerup']</g:internal_label>
     </item>
 <item>
       <g:id>26220930</g:id>
@@ -24700,6 +24631,27 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:internal_label>['Foredrag','Bagsværd']</g:internal_label>
     </item>
 <item>
+      <g:id>26220973</g:id>
+      <g:title><![CDATA[Aftenklang]]></g:title>
+      <g:description><![CDATA[Aftenklang er en rolig stund med blide klange, afspænding og ro. Læs mere om kurset og meld dig til hos FOF København og Nordsjælland.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/aftenklang?holdnr=26220973</g:link>
+      <g:image_link>https://www.fof.dk/media/wxxbvmun/aftenklang-kvadrat.jpeg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>290.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Mindfulness og meditation</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Mindfulness og meditation</g:custom_label_2>
+      <g:custom_label_4>Charlottenlund</g:custom_label_4>
+      <g:start_date>2026-11-18T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Charlottenlund']</g:internal_label>
+    </item>
+<item>
       <g:id>26200016</g:id>
       <g:title><![CDATA[Helle Sydendal: Lavt stofskifte – få viden, værktøjer og håb]]></g:title>
       <g:description><![CDATA[Få viden om symptomer, blodprøver og behandling af lavt stofskifte | FOF-foredrag med Helle Sydendal om T3, T4, Thyroid og vejen til mere energi og bedre livskvalitet.]]></g:description>
@@ -24720,27 +24672,6 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:start_date>2026-11-18T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Debat</g:custom_label_3>
       <g:internal_label>['Debat','Hellerup']</g:internal_label>
-    </item>
-<item>
-      <g:id>26220973</g:id>
-      <g:title><![CDATA[Aftenklang]]></g:title>
-      <g:description><![CDATA[Aftenklang er en rolig stund med blide klange, afspænding og ro. Læs mere om kurset og meld dig til hos FOF København og Nordsjælland.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/aftenklang?holdnr=26220973</g:link>
-      <g:image_link>https://www.fof.dk/media/wxxbvmun/aftenklang-kvadrat.jpeg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>290.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF København og Nordsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Mindfulness og meditation</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Mindfulness og meditation</g:custom_label_2>
-      <g:custom_label_4>Charlottenlund</g:custom_label_4>
-      <g:start_date>2026-11-18T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Charlottenlund']</g:internal_label>
     </item>
 <item>
       <g:id>26206025</g:id>
@@ -24894,28 +24825,6 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:internal_label>['Rudersdal','Holte']</g:internal_label>
     </item>
 <item>
-      <g:id>26208037</g:id>
-      <g:title><![CDATA[Store, gamle (36-56 år) og modne bordeaux-vine - fra ”lægens kælder”]]></g:title>
-      <g:description><![CDATA[Smag syv vine store, gamle og modne Bordeaux-vine fra årgang 1990-1970 til vinsmagning- og foredrag i FOF København og Nordsjællands vinklub. Tilmeld dig her.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/vinklub-5?holdnr=26208037</g:link>
-      <g:image_link>https://www.fof.dk/media/0s5mwxej/vinklub-modne-vine.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>730.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF København og Nordsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Madlavning og drikkevarer &gt; Drikkevarer</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
-      <g:custom_label_2>Drikkevarer</g:custom_label_2>
-      <g:custom_label_4>København</g:custom_label_4>
-      <g:start_date>2026-11-19T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Vinsmagning</g:custom_label_3>
-      <g:internal_label>['Vinsmagning','København V']</g:internal_label>
-    </item>
-<item>
       <g:id>26206032</g:id>
       <g:title><![CDATA[Spændende vandreture – 4 timer fra København]]></g:title>
       <g:description><![CDATA[Få tips til vandreture på svenske klippeøer tæt på København med foredrag af Maria Mellander. Læs mere og book din plads her.]]></g:description>
@@ -24956,7 +24865,28 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:custom_label_2>Økonomi og investering</g:custom_label_2>
       <g:custom_label_4>Hørsholm</g:custom_label_4>
       <g:start_date>2026-11-19T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Hørsholm']</g:internal_label>
+    </item>
+<item>
+      <g:id>26208037</g:id>
+      <g:title><![CDATA[Store, gamle (36-56 år) og modne bordeaux-vine - fra ”lægens kælder”]]></g:title>
+      <g:description><![CDATA[Smag syv vine store, gamle og modne Bordeaux-vine fra årgang 1990-1970 til vinsmagning- og foredrag i FOF København og Nordsjællands vinklub. Tilmeld dig her.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/vinklub-5?holdnr=26208037</g:link>
+      <g:image_link>https://www.fof.dk/media/0s5mwxej/vinklub-modne-vine.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>730.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Madlavning og drikkevarer &gt; Drikkevarer</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
+      <g:custom_label_2>Drikkevarer</g:custom_label_2>
+      <g:custom_label_4>København</g:custom_label_4>
+      <g:start_date>2026-11-19T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Vinsmagning</g:custom_label_3>
+      <g:internal_label>['Vinsmagning','København V']</g:internal_label>
     </item>
 <item>
       <g:id>26202040</g:id>
@@ -25155,27 +25085,6 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:internal_label>['Korte kurser','København K']</g:internal_label>
     </item>
 <item>
-      <g:id>26250795</g:id>
-      <g:title><![CDATA[Befri din stemme – intensiv workshop – daghold ]]></g:title>
-      <g:description><![CDATA[Genopdag din naturlige stemme og lær at bruge kroppen som lydens støtte. Et nærværende kursus i stemmefrihed, vejrtrækning og taleteknik for små hold. Læs mere.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/befri-din-stemme?holdnr=26250795</g:link>
-      <g:image_link>https://www.fof.dk/media/0h2hmkes/sangundervisning-fofkn-aftenskolen-musik-og-sang-stock-308376494.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>500.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF København og Nordsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Musik og sang &gt; Sang og stemmetræning</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Musik og sang</g:custom_label_1>
-      <g:custom_label_2>Sang og stemmetræning</g:custom_label_2>
-      <g:custom_label_4>København</g:custom_label_4>
-      <g:start_date>2026-11-21T00:00:00.000Z</g:start_date>
-      <g:internal_label>['København K']</g:internal_label>
-    </item>
-<item>
       <g:id>26268020</g:id>
       <g:title><![CDATA[Skuespil – lær af de professionelle på Cph Acting School]]></g:title>
       <g:description><![CDATA[Lær skuespil af professionelle fra Copenhagen Acting School. Oplev teknikker, nærvær og spilleglæde på et inspirerende kursus hos FOF København.]]></g:description>
@@ -25195,6 +25104,27 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:custom_label_4>København</g:custom_label_4>
       <g:start_date>2026-11-21T00:00:00.000Z</g:start_date>
       <g:internal_label>['København V']</g:internal_label>
+    </item>
+<item>
+      <g:id>26250795</g:id>
+      <g:title><![CDATA[Befri din stemme – intensiv workshop – daghold ]]></g:title>
+      <g:description><![CDATA[Genopdag din naturlige stemme og lær at bruge kroppen som lydens støtte. Et nærværende kursus i stemmefrihed, vejrtrækning og taleteknik for små hold. Læs mere.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/befri-din-stemme?holdnr=26250795</g:link>
+      <g:image_link>https://www.fof.dk/media/0h2hmkes/sangundervisning-fofkn-aftenskolen-musik-og-sang-stock-308376494.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>500.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Musik og sang &gt; Sang og stemmetræning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Musik og sang</g:custom_label_1>
+      <g:custom_label_2>Sang og stemmetræning</g:custom_label_2>
+      <g:custom_label_4>København</g:custom_label_4>
+      <g:start_date>2026-11-21T00:00:00.000Z</g:start_date>
+      <g:internal_label>['København K']</g:internal_label>
     </item>
 <item>
       <g:id>26240151</g:id>
@@ -25238,27 +25168,6 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:custom_label_4>Frederiksberg</g:custom_label_4>
       <g:start_date>2026-11-21T00:00:00.000Z</g:start_date>
       <g:internal_label>['Frederiksberg']</g:internal_label>
-    </item>
-<item>
-      <g:id>26274260</g:id>
-      <g:title><![CDATA[3D-smykkedesign og støbning]]></g:title>
-      <g:description><![CDATA[Lær 3D-smykkedesign hos FOF København og Nordsjælland. Design i Blender og støb dit eget sølvsmykke i sandform på et kreativt smykkekursus.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/3d-smykkedesign-og-stoebning?holdnr=26274260</g:link>
-      <g:image_link>https://www.fof.dk/media/0z2bzyp5/smykkekursus-fofkn-aftenskolen-kreative-kurser-5016-1.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1820.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF København og Nordsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Kreative kurser &gt; Smykkekurser</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Kreative kurser</g:custom_label_1>
-      <g:custom_label_2>Smykkekurser</g:custom_label_2>
-      <g:custom_label_4>København</g:custom_label_4>
-      <g:start_date>2026-11-21T00:00:00.000Z</g:start_date>
-      <g:internal_label>['København K']</g:internal_label>
     </item>
 <item>
       <g:id>26220912</g:id>
@@ -25305,6 +25214,27 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:internal_label>['Ture og rundvisninger','København K']</g:internal_label>
     </item>
 <item>
+      <g:id>26274260</g:id>
+      <g:title><![CDATA[3D-smykkedesign og støbning]]></g:title>
+      <g:description><![CDATA[Lær 3D-smykkedesign hos FOF København og Nordsjælland. Design i Blender og støb dit eget sølvsmykke i sandform på et kreativt smykkekursus.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/3d-smykkedesign-og-stoebning?holdnr=26274260</g:link>
+      <g:image_link>https://www.fof.dk/media/0z2bzyp5/smykkekursus-fofkn-aftenskolen-kreative-kurser-5016-1.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1820.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Kreative kurser &gt; Smykkekurser</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Kreative kurser</g:custom_label_1>
+      <g:custom_label_2>Smykkekurser</g:custom_label_2>
+      <g:custom_label_4>København</g:custom_label_4>
+      <g:start_date>2026-11-21T00:00:00.000Z</g:start_date>
+      <g:internal_label>['København K']</g:internal_label>
+    </item>
+<item>
       <g:id>26266008</g:id>
       <g:title><![CDATA[Fiktion og Autofiktion – et lynkursus i stærke personlige fortællinger]]></g:title>
       <g:description><![CDATA[Lær at skrive fiktion og autofiktion med fokus på karakterer, plot og sprog. Lynkursus for både begyndere og øvede. Få konkrete skriveværktøjer. Se hold her.]]></g:description>
@@ -25349,27 +25279,6 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:internal_label>['Korte kurser','København K']</g:internal_label>
     </item>
 <item>
-      <g:id>26274306</g:id>
-      <g:title><![CDATA[Glaskursus – fusing og slumping – weekendkursus]]></g:title>
-      <g:description><![CDATA[Udforsk glassets teknik og æstetik på weekendkursus i fusing og slumping hos FOF København og Nordsjælland. Lær at skære, smelte og forme glas.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/glaskursus-fusing-og-slumping-weekendkursus?holdnr=26274306</g:link>
-      <g:image_link>https://www.fof.dk/media/uhuh1a5g/glaskursus-fofkn-aftenskolen-kreative-kurser-mf-7.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1670.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF København og Nordsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Kreative kurser &gt; Håndværk og kunsthåndværk</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Kreative kurser</g:custom_label_1>
-      <g:custom_label_2>Håndværk og kunsthåndværk</g:custom_label_2>
-      <g:custom_label_4>København</g:custom_label_4>
-      <g:start_date>2026-11-21T00:00:00.000Z</g:start_date>
-      <g:internal_label>['København K']</g:internal_label>
-    </item>
-<item>
       <g:id>26245334</g:id>
       <g:title><![CDATA[Selvforsvar for far og søn 12-15 år – intro workshop]]></g:title>
       <g:description><![CDATA[Lær selvforsvar i trygge rammer hos FOF København og Nordsjælland. Få selvtillid, styrke og redskaber til at håndtere pressede situationer. Læs mere her.]]></g:description>
@@ -25391,25 +25300,25 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:internal_label>['Frederiksberg']</g:internal_label>
     </item>
 <item>
-      <g:id>26274074</g:id>
-      <g:title><![CDATA[Trædrejning]]></g:title>
-      <g:description><![CDATA[Tag på kursus i trædrejning hos FOF København og Nordsjælland. Skab fade, skåle og æsker i træ og mærk glæden ved at skabe noget selv. Tilmeld dig her.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/traedrejning?holdnr=26274074</g:link>
-      <g:image_link>https://www.fof.dk/media/r22nls1y/traedrejning-fofkn-aftenskolen-kreative-kurser-flemming-nielsen-0293.jpg?width=1200</g:image_link>
+      <g:id>26274306</g:id>
+      <g:title><![CDATA[Glaskursus – fusing og slumping – weekendkursus]]></g:title>
+      <g:description><![CDATA[Udforsk glassets teknik og æstetik på weekendkursus i fusing og slumping hos FOF København og Nordsjælland. Lær at skære, smelte og forme glas.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/glaskursus-fusing-og-slumping-weekendkursus?holdnr=26274306</g:link>
+      <g:image_link>https://www.fof.dk/media/uhuh1a5g/glaskursus-fofkn-aftenskolen-kreative-kurser-mf-7.jpg?width=1200</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:quantity>1</g:quantity>
-      <g:price>1225.00 DKK</g:price>
+      <g:price>1670.00 DKK</g:price>
       <g:condition>new</g:condition>
       <g:brand>FOF København og Nordsjælland</g:brand>
       <g:google_product_category>Education</g:google_product_category>
       <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Kreative kurser &gt; Træarbejde</g:product_type>
+      <g:product_type>Kurser &gt; Kreative kurser &gt; Håndværk og kunsthåndværk</g:product_type>
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
-      <g:custom_label_2>Træarbejde</g:custom_label_2>
-      <g:custom_label_4>Kastrup</g:custom_label_4>
+      <g:custom_label_2>Håndværk og kunsthåndværk</g:custom_label_2>
+      <g:custom_label_4>København</g:custom_label_4>
       <g:start_date>2026-11-21T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Kastrup']</g:internal_label>
+      <g:internal_label>['København K']</g:internal_label>
     </item>
 <item>
       <g:id>26210037</g:id>
@@ -25432,6 +25341,27 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:start_date>2026-11-21T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Ture og rundvisninger</g:custom_label_3>
       <g:internal_label>['Ture og rundvisninger','København N']</g:internal_label>
+    </item>
+<item>
+      <g:id>26274074</g:id>
+      <g:title><![CDATA[Trædrejning]]></g:title>
+      <g:description><![CDATA[Tag på kursus i trædrejning hos FOF København og Nordsjælland. Skab fade, skåle og æsker i træ og mærk glæden ved at skabe noget selv. Tilmeld dig her.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/traedrejning?holdnr=26274074</g:link>
+      <g:image_link>https://www.fof.dk/media/r22nls1y/traedrejning-fofkn-aftenskolen-kreative-kurser-flemming-nielsen-0293.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1225.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Kreative kurser &gt; Træarbejde</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Kreative kurser</g:custom_label_1>
+      <g:custom_label_2>Træarbejde</g:custom_label_2>
+      <g:custom_label_4>Kastrup</g:custom_label_4>
+      <g:start_date>2026-11-21T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Kastrup']</g:internal_label>
     </item>
 <item>
       <g:id>26245214</g:id>
@@ -25472,27 +25402,6 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Smykkekurser</g:custom_label_2>
-      <g:custom_label_4>København</g:custom_label_4>
-      <g:start_date>2026-11-21T00:00:00.000Z</g:start_date>
-      <g:internal_label>['København K']</g:internal_label>
-    </item>
-<item>
-      <g:id>26270007</g:id>
-      <g:title><![CDATA[Kreativt maleri – weekend]]></g:title>
-      <g:description><![CDATA[Udforsk dit billedsprog med kreativt maleri. Lær at arbejde med farver, komposition og udtryk i et inspirerende miljø med undervisning for både begyndere og øvede.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/kreativt-maleri-og-billedproces?holdnr=26270007</g:link>
-      <g:image_link>https://www.fof.dk/media/b2ufkq5e/kreativt-maleri-fofkn-aftenskolen-kreative-kurser-anne-skole-overgaard.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>945.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF København og Nordsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Kreative kurser &gt; Malekurser</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Kreative kurser</g:custom_label_1>
-      <g:custom_label_2>Malekurser</g:custom_label_2>
       <g:custom_label_4>København</g:custom_label_4>
       <g:start_date>2026-11-21T00:00:00.000Z</g:start_date>
       <g:internal_label>['København K']</g:internal_label>
@@ -25540,6 +25449,27 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:start_date>2026-11-21T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Skrivekurser</g:custom_label_3>
       <g:internal_label>['Skrivekurser','København K']</g:internal_label>
+    </item>
+<item>
+      <g:id>26270007</g:id>
+      <g:title><![CDATA[Kreativt maleri – weekend]]></g:title>
+      <g:description><![CDATA[Udforsk dit billedsprog med kreativt maleri. Lær at arbejde med farver, komposition og udtryk i et inspirerende miljø med undervisning for både begyndere og øvede.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/kreativt-maleri-og-billedproces?holdnr=26270007</g:link>
+      <g:image_link>https://www.fof.dk/media/b2ufkq5e/kreativt-maleri-fofkn-aftenskolen-kreative-kurser-anne-skole-overgaard.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>945.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Kreative kurser &gt; Malekurser</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Kreative kurser</g:custom_label_1>
+      <g:custom_label_2>Malekurser</g:custom_label_2>
+      <g:custom_label_4>København</g:custom_label_4>
+      <g:start_date>2026-11-21T00:00:00.000Z</g:start_date>
+      <g:internal_label>['København K']</g:internal_label>
     </item>
 <item>
       <g:id>26220968</g:id>
@@ -26129,28 +26059,6 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:internal_label>['Hellerup']</g:internal_label>
     </item>
 <item>
-      <g:id>26272237</g:id>
-      <g:title><![CDATA[Farver og lys i maleriet – letøvet/øvet]]></g:title>
-      <g:description><![CDATA[Arbejd med dit eget maleri og lær om farver, lys og toninger. Skab harmoni og balance i akrylfarver i et inspirerende ateliermiljø.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/farver-og-lys-i-maleriet?holdnr=26272237</g:link>
-      <g:image_link>https://www.fof.dk/media/wygh2hju/malekursus-fofkn-aftenskolen-kreative-kurser-ns-3.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>3950.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF København og Nordsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Kreative kurser &gt; Malekurser</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Kreative kurser</g:custom_label_1>
-      <g:custom_label_2>Malekurser</g:custom_label_2>
-      <g:custom_label_4>Frederiksværk</g:custom_label_4>
-      <g:start_date>2026-11-26T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Halsnæs</g:custom_label_3>
-      <g:internal_label>['Halsnæs','Frederiksværk']</g:internal_label>
-    </item>
-<item>
       <g:id>26206603</g:id>
       <g:title><![CDATA[Dronningen og Barbie – nye stemmer i moderne film]]></g:title>
       <g:description><![CDATA[Oplev Per Juul-Carlsen hos FOF og få indsigt i, hvordan nye stemmer, mangfoldighed og moderne helte forandrer filmens verden.]]></g:description>
@@ -26171,6 +26079,28 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:start_date>2026-11-26T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Foredrag</g:custom_label_3>
       <g:internal_label>['Foredrag','Hillerød']</g:internal_label>
+    </item>
+<item>
+      <g:id>26272237</g:id>
+      <g:title><![CDATA[Farver og lys i maleriet – letøvet/øvet]]></g:title>
+      <g:description><![CDATA[Arbejd med dit eget maleri og lær om farver, lys og toninger. Skab harmoni og balance i akrylfarver i et inspirerende ateliermiljø.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/farver-og-lys-i-maleriet?holdnr=26272237</g:link>
+      <g:image_link>https://www.fof.dk/media/wygh2hju/malekursus-fofkn-aftenskolen-kreative-kurser-ns-3.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>3950.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Kreative kurser &gt; Malekurser</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Kreative kurser</g:custom_label_1>
+      <g:custom_label_2>Malekurser</g:custom_label_2>
+      <g:custom_label_4>Frederiksværk</g:custom_label_4>
+      <g:start_date>2026-11-26T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Halsnæs</g:custom_label_3>
+      <g:internal_label>['Halsnæs','Frederiksværk']</g:internal_label>
     </item>
 <item>
       <g:id>26240328</g:id>
@@ -26608,28 +26538,6 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:internal_label>['Frederiksberg']</g:internal_label>
     </item>
 <item>
-      <g:id>26270058</g:id>
-      <g:title><![CDATA[Japansk tuschmaling – sumi-e]]></g:title>
-      <g:description><![CDATA[Lær sumi-e hos FOF København og Nordsjælland. Oplev japansk tuschmaling som meditativ kunstform og lær klassiske teknikker. Book din plads i dag.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/japansk-tuschmaling-sumi-e?holdnr=26270058</g:link>
-      <g:image_link>https://www.fof.dk/media/zwsl1c4f/japansk-tuschmaling-fofkn-aftenskolen-kreative-kurser-hero-2.png?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1025.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF København og Nordsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Kreative kurser &gt; Malekurser</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Kreative kurser</g:custom_label_1>
-      <g:custom_label_2>Malekurser</g:custom_label_2>
-      <g:custom_label_4>København</g:custom_label_4>
-      <g:start_date>2026-11-28T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Korte kurser</g:custom_label_3>
-      <g:internal_label>['Korte kurser','København K']</g:internal_label>
-    </item>
-<item>
       <g:id>26240219</g:id>
       <g:title><![CDATA[Bagekursus - glutenfri]]></g:title>
       <g:description><![CDATA[På dette bagekursus hos FOF København og Nordsjælland lærer du at bage glutenfrit brød, boller og kager. Læs mere og tilmeld dig her.]]></g:description>
@@ -26672,6 +26580,28 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:start_date>2026-11-28T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Familie</g:custom_label_3>
       <g:internal_label>['Familie','Jul og nytår','Korte kurser','Hillerød']</g:internal_label>
+    </item>
+<item>
+      <g:id>26270058</g:id>
+      <g:title><![CDATA[Japansk tuschmaling – sumi-e]]></g:title>
+      <g:description><![CDATA[Lær sumi-e hos FOF København og Nordsjælland. Oplev japansk tuschmaling som meditativ kunstform og lær klassiske teknikker. Book din plads i dag.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/japansk-tuschmaling-sumi-e?holdnr=26270058</g:link>
+      <g:image_link>https://www.fof.dk/media/zwsl1c4f/japansk-tuschmaling-fofkn-aftenskolen-kreative-kurser-hero-2.png?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1025.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Kreative kurser &gt; Malekurser</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Kreative kurser</g:custom_label_1>
+      <g:custom_label_2>Malekurser</g:custom_label_2>
+      <g:custom_label_4>København</g:custom_label_4>
+      <g:start_date>2026-11-28T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Korte kurser</g:custom_label_3>
+      <g:internal_label>['Korte kurser','København K']</g:internal_label>
     </item>
 <item>
       <g:id>26242204</g:id>
@@ -27282,6 +27212,27 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:internal_label>['Korte kurser','Søborg']</g:internal_label>
     </item>
 <item>
+      <g:id>26250798</g:id>
+      <g:title><![CDATA[Komplet sangteknik - workshop]]></g:title>
+      <g:description><![CDATA[Lær at mestre din stemme med Cathrine Sadolins Komplet Sangteknik. Arbejd med klang, effekter og styrke på små hold med individuel vejledning. Læs mere.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/komplet-sangteknik?holdnr=26250798</g:link>
+      <g:image_link>https://www.fof.dk/media/5wadjfw3/rytmisk-sommercamp-2018-fofkn-aftenskolen-musik-og-sang-km-dsc07732.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1000.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Musik og sang &gt; Sang og stemmetræning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Musik og sang</g:custom_label_1>
+      <g:custom_label_2>Sang og stemmetræning</g:custom_label_2>
+      <g:custom_label_4>København</g:custom_label_4>
+      <g:start_date>2026-12-05T00:00:00.000Z</g:start_date>
+      <g:internal_label>['København K']</g:internal_label>
+    </item>
+<item>
       <g:id>26220890</g:id>
       <g:title><![CDATA[Forberedt på fødslen med afsæt i kroppen – workshop med partner]]></g:title>
       <g:description><![CDATA[Praktisk fødselsforberedelse for par med teknikker, stillinger og støtteværktøjer. Skab tryghed før fødslen. Tilmeld jer hos FOF København og Nordsjælland]]></g:description>
@@ -27302,27 +27253,6 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:start_date>2026-12-05T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Korte kurser</g:custom_label_3>
       <g:internal_label>['Korte kurser','København V']</g:internal_label>
-    </item>
-<item>
-      <g:id>26250798</g:id>
-      <g:title><![CDATA[Komplet sangteknik - workshop]]></g:title>
-      <g:description><![CDATA[Lær at mestre din stemme med Cathrine Sadolins Komplet Sangteknik. Arbejd med klang, effekter og styrke på små hold med individuel vejledning. Læs mere.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/komplet-sangteknik?holdnr=26250798</g:link>
-      <g:image_link>https://www.fof.dk/media/5wadjfw3/rytmisk-sommercamp-2018-fofkn-aftenskolen-musik-og-sang-km-dsc07732.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1000.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF København og Nordsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Musik og sang &gt; Sang og stemmetræning</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Musik og sang</g:custom_label_1>
-      <g:custom_label_2>Sang og stemmetræning</g:custom_label_2>
-      <g:custom_label_4>København</g:custom_label_4>
-      <g:start_date>2026-12-05T00:00:00.000Z</g:start_date>
-      <g:internal_label>['København K']</g:internal_label>
     </item>
 <item>
       <g:id>26274003</g:id>
@@ -27739,27 +27669,6 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:internal_label>['Familie','Jul og nytår','Korte kurser','København V']</g:internal_label>
     </item>
 <item>
-      <g:id>26250799</g:id>
-      <g:title><![CDATA[Befri din stemme – intensiv workshop – daghold ]]></g:title>
-      <g:description><![CDATA[Genopdag din naturlige stemme og lær at bruge kroppen som lydens støtte. Et nærværende kursus i stemmefrihed, vejrtrækning og taleteknik for små hold. Læs mere.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/befri-din-stemme?holdnr=26250799</g:link>
-      <g:image_link>https://www.fof.dk/media/0h2hmkes/sangundervisning-fofkn-aftenskolen-musik-og-sang-stock-308376494.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>500.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF København og Nordsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Musik og sang &gt; Sang og stemmetræning</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Musik og sang</g:custom_label_1>
-      <g:custom_label_2>Sang og stemmetræning</g:custom_label_2>
-      <g:custom_label_4>København</g:custom_label_4>
-      <g:start_date>2026-12-12T00:00:00.000Z</g:start_date>
-      <g:internal_label>['København K']</g:internal_label>
-    </item>
-<item>
       <g:id>26242149</g:id>
       <g:title><![CDATA[Manga Marathon og tegneserietegning fra 9 år]]></g:title>
       <g:description><![CDATA[Manga Marathon for børn fra 9 år. Tegn figurer, manga og tegneserier i fem timer og gå hjem med en stak tegninger. Materialer er inkluderet.]]></g:description>
@@ -27804,6 +27713,27 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:internal_label>['Jul og nytår','Familie','Korte kurser','Hillerød']</g:internal_label>
     </item>
 <item>
+      <g:id>26250799</g:id>
+      <g:title><![CDATA[Befri din stemme – intensiv workshop – daghold ]]></g:title>
+      <g:description><![CDATA[Genopdag din naturlige stemme og lær at bruge kroppen som lydens støtte. Et nærværende kursus i stemmefrihed, vejrtrækning og taleteknik for små hold. Læs mere.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/befri-din-stemme?holdnr=26250799</g:link>
+      <g:image_link>https://www.fof.dk/media/0h2hmkes/sangundervisning-fofkn-aftenskolen-musik-og-sang-stock-308376494.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>500.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Musik og sang &gt; Sang og stemmetræning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Musik og sang</g:custom_label_1>
+      <g:custom_label_2>Sang og stemmetræning</g:custom_label_2>
+      <g:custom_label_4>København</g:custom_label_4>
+      <g:start_date>2026-12-12T00:00:00.000Z</g:start_date>
+      <g:internal_label>['København K']</g:internal_label>
+    </item>
+<item>
       <g:id>26230165</g:id>
       <g:title><![CDATA[Yin yoga-workshop – vinterhi med dyb hvile og refleksion]]></g:title>
       <g:description><![CDATA[Find indre ro og balance gennem Yin yogaens blide stillinger, åndedræt og refleksion – en restorativ praksis for alle niveauer. Tilmeld her!]]></g:description>
@@ -27826,27 +27756,6 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:internal_label>['Korte kurser','København V']</g:internal_label>
     </item>
 <item>
-      <g:id>26250800</g:id>
-      <g:title><![CDATA[Befri din stemme – intensiv workshop – daghold]]></g:title>
-      <g:description><![CDATA[Genopdag din naturlige stemme og lær at bruge kroppen som lydens støtte. Et nærværende kursus i stemmefrihed, vejrtrækning og taleteknik for små hold. Læs mere.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/befri-din-stemme?holdnr=26250800</g:link>
-      <g:image_link>https://www.fof.dk/media/0h2hmkes/sangundervisning-fofkn-aftenskolen-musik-og-sang-stock-308376494.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>500.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF København og Nordsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Musik og sang &gt; Sang og stemmetræning</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Musik og sang</g:custom_label_1>
-      <g:custom_label_2>Sang og stemmetræning</g:custom_label_2>
-      <g:custom_label_4>København</g:custom_label_4>
-      <g:start_date>2026-12-13T00:00:00.000Z</g:start_date>
-      <g:internal_label>['København K']</g:internal_label>
-    </item>
-<item>
       <g:id>26245216</g:id>
       <g:title><![CDATA[Julebagekursus – voksne og børn fra 8 år]]></g:title>
       <g:description><![CDATA[Bag klassiske julekager som småkager og pebernødder på et hyggeligt julebagekursus for børn og voksne – fyldt med duft, smag og julestemning. ]]></g:description>
@@ -27867,6 +27776,27 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:start_date>2026-12-13T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Familie</g:custom_label_3>
       <g:internal_label>['Familie','Jul og nytår','Korte kurser','København V']</g:internal_label>
+    </item>
+<item>
+      <g:id>26250800</g:id>
+      <g:title><![CDATA[Befri din stemme – intensiv workshop – daghold]]></g:title>
+      <g:description><![CDATA[Genopdag din naturlige stemme og lær at bruge kroppen som lydens støtte. Et nærværende kursus i stemmefrihed, vejrtrækning og taleteknik for små hold. Læs mere.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/befri-din-stemme?holdnr=26250800</g:link>
+      <g:image_link>https://www.fof.dk/media/0h2hmkes/sangundervisning-fofkn-aftenskolen-musik-og-sang-stock-308376494.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>500.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Musik og sang &gt; Sang og stemmetræning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Musik og sang</g:custom_label_1>
+      <g:custom_label_2>Sang og stemmetræning</g:custom_label_2>
+      <g:custom_label_4>København</g:custom_label_4>
+      <g:start_date>2026-12-13T00:00:00.000Z</g:start_date>
+      <g:internal_label>['København K']</g:internal_label>
     </item>
 <item>
       <g:id>26240108</g:id>
@@ -28444,6 +28374,26 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:internal_label>['København K']</g:internal_label>
     </item>
 <item>
+      <g:id>27120845</g:id>
+      <g:title><![CDATA[Børnemotorik og tumlingeleg 6-8 mdr.]]></g:title>
+      <g:description><![CDATA[Til børnemotorik og tumlingeleg hos FOF København og Nordsjælland leger, synger og bevæger vi os på børnenes præmisser og styrker motorik og nærvær.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/boernemotorik-og-tumlingeleg?holdnr=27120845</g:link>
+      <g:image_link>https://www.fof.dk/media/mwtpa2lu/tumlingeleg-fofkn-aftenskolen-gravid-og-barsel-7.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>600.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Aktiviteter med baby</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
+      <g:custom_label_2>Aktiviteter med baby</g:custom_label_2>
+      <g:custom_label_4>Charlottenlund</g:custom_label_4>
+      <g:start_date>2027-01-05T00:00:00.000Z</g:start_date>
+    </item>
+<item>
       <g:id>27151204</g:id>
       <g:title><![CDATA[Sang for brummere – daghold ]]></g:title>
       <g:description><![CDATA[Få sangglæde og tryghed i stemmen gennem enkle øvelser og legende træning. Ingen erfaring kræves. Tilmeld dig hos FOF København og Nordsjælland.]]></g:description>
@@ -28463,27 +28413,6 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:custom_label_4>København</g:custom_label_4>
       <g:start_date>2027-01-05T00:00:00.000Z</g:start_date>
       <g:internal_label>['København K']</g:internal_label>
-    </item>
-<item>
-      <g:id>27120845</g:id>
-      <g:title><![CDATA[Børnemotorik og tumlingeleg 6-8 mdr.]]></g:title>
-      <g:description><![CDATA[Til børnemotorik og tumlingeleg hos FOF København og Nordsjælland leger, synger og bevæger vi os på børnenes præmisser og styrker motorik og nærvær.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/boernemotorik-og-tumlingeleg?holdnr=27120845</g:link>
-      <g:image_link>https://www.fof.dk/media/mwtpa2lu/tumlingeleg-fofkn-aftenskolen-gravid-og-barsel-7.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>600.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF København og Nordsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Aktiviteter med baby</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
-      <g:custom_label_2>Aktiviteter med baby</g:custom_label_2>
-      <g:custom_label_4>Charlottenlund</g:custom_label_4>
-      <g:start_date>2027-01-05T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Charlottenlund']</g:internal_label>
     </item>
 <item>
       <g:id>27151208</g:id>
@@ -28533,27 +28462,6 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:description><![CDATA[Udvikl din stemme med sangundervisning i klassisk og rytmisk sang hos FOF København og Nordsjælland. Små hold med plads til dine ønsker. Læs mere her.]]></g:description>
       <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/sang-klassisk-og-rytmisk?holdnr=27151210</g:link>
       <g:image_link>https://www.fof.dk/media/qbrbhxb1/kor-fof-aftenskolen-06.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>600.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF København og Nordsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Musik og sang &gt; Sang og stemmetræning</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Musik og sang</g:custom_label_1>
-      <g:custom_label_2>Sang og stemmetræning</g:custom_label_2>
-      <g:custom_label_4>København</g:custom_label_4>
-      <g:start_date>2027-01-06T00:00:00.000Z</g:start_date>
-      <g:internal_label>['København K']</g:internal_label>
-    </item>
-<item>
-      <g:id>27151917</g:id>
-      <g:title><![CDATA[Bladsang/nodelære for korsangere]]></g:title>
-      <g:description><![CDATA[Bliv bedre til at læse noder og synge fra nodehæftet. Få styr på bladsang og hørelære med træning målrettet korsanger. Læs mere om kurset her.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/bladsangtraeningnodelaere-for-korsangere?holdnr=27151917</g:link>
-      <g:image_link>https://www.fof.dk/media/wptll3o4/korsang-sang-fofkn-aftenskolen-musik-og-sang-mf-tirsdagskoret-2-kopier.jpg?width=1200</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:quantity>1</g:quantity>
       <g:price>600.00 DKK</g:price>
@@ -28717,27 +28625,6 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:internal_label>['Charlottenlund']</g:internal_label>
     </item>
 <item>
-      <g:id>27178106</g:id>
-      <g:title><![CDATA[Syning – begyndere og letøvede]]></g:title>
-      <g:description><![CDATA[Lær at sy fra bunden. Få styr på mønstre, stoffer og teknikker, og skab tøj i dit eget design. For begyndere og let øvede.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/syning-for-begyndere-og-let-oevede?holdnr=27178106</g:link>
-      <g:image_link>https://www.fof.dk/media/a05d2ux5/syning-fof-aftenskolen-17.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>2015.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF København og Nordsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Kreative kurser &gt; Syning</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Kreative kurser</g:custom_label_1>
-      <g:custom_label_2>Syning</g:custom_label_2>
-      <g:custom_label_4>København</g:custom_label_4>
-      <g:start_date>2027-01-07T00:00:00.000Z</g:start_date>
-      <g:internal_label>['København NV']</g:internal_label>
-    </item>
-<item>
       <g:id>27151922</g:id>
       <g:title><![CDATA[Tværfløjte]]></g:title>
       <g:description><![CDATA[Lær at spille tværfløjte på små hold med plads til personlig vejledning og udvikling i eget tempo. Kurset henvender sig både til begyndere og øvede. Læs mere.]]></g:description>
@@ -28757,6 +28644,27 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:custom_label_4>København</g:custom_label_4>
       <g:start_date>2027-01-07T00:00:00.000Z</g:start_date>
       <g:internal_label>['København K']</g:internal_label>
+    </item>
+<item>
+      <g:id>27178106</g:id>
+      <g:title><![CDATA[Syning – begyndere og letøvede]]></g:title>
+      <g:description><![CDATA[Lær at sy fra bunden. Få styr på mønstre, stoffer og teknikker, og skab tøj i dit eget design. For begyndere og let øvede.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/syning-for-begyndere-og-let-oevede?holdnr=27178106</g:link>
+      <g:image_link>https://www.fof.dk/media/a05d2ux5/syning-fof-aftenskolen-17.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>2015.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Kreative kurser &gt; Syning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Kreative kurser</g:custom_label_1>
+      <g:custom_label_2>Syning</g:custom_label_2>
+      <g:custom_label_4>København</g:custom_label_4>
+      <g:start_date>2027-01-07T00:00:00.000Z</g:start_date>
+      <g:internal_label>['København NV']</g:internal_label>
     </item>
 <item>
       <g:id>27151921</g:id>
@@ -28886,6 +28794,28 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:internal_label>['In English','København K']</g:internal_label>
     </item>
 <item>
+      <g:id>27161080</g:id>
+      <g:title><![CDATA[Italiensk – niveau A1 – lynkursus]]></g:title>
+      <g:description><![CDATA[Få et hurtigt løft i dit italiensk på A1-niveau. Vi repeterer basis og træner små dialoger, så du bliver mere sikker før ferien. Tilmeld dig og lær i trygge rammer.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/italiensk-niveau-a1-lynkursus?holdnr=27161080</g:link>
+      <g:image_link>https://www.fof.dk/media/0urb1uq4/italiensk-fofkn-aftenskolen-sprog-stock-353056.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>875.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Sprog &gt; Italiensk</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Sprog</g:custom_label_1>
+      <g:custom_label_2>Italiensk</g:custom_label_2>
+      <g:custom_label_4>Hellerup</g:custom_label_4>
+      <g:start_date>2027-01-09T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Sprog - Basisniveau (A)</g:custom_label_3>
+      <g:internal_label>['Sprog - Basisniveau (A)','Korte kurser','Hellerup']</g:internal_label>
+    </item>
+<item>
       <g:id>27179572</g:id>
       <g:title><![CDATA[Lær at hækle på en lørdag]]></g:title>
       <g:description><![CDATA[Lær at hækle på en hyggelig lørdag hos FOF København og Nordsjælland. For begyndere og letøvede – voksne og børn kan deltage sammen. Læs mere her]]></g:description>
@@ -28908,26 +28838,26 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:internal_label>['Korte kurser','Espergærde']</g:internal_label>
     </item>
 <item>
-      <g:id>27161080</g:id>
-      <g:title><![CDATA[Italiensk – niveau A1 – lynkursus]]></g:title>
-      <g:description><![CDATA[Få et hurtigt løft i dit italiensk på A1-niveau. Vi repeterer basis og træner små dialoger, så du bliver mere sikker før ferien. Tilmeld dig og lær i trygge rammer.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/italiensk-niveau-a1-lynkursus?holdnr=27161080</g:link>
-      <g:image_link>https://www.fof.dk/media/0urb1uq4/italiensk-fofkn-aftenskolen-sprog-stock-353056.jpg?width=1200</g:image_link>
+      <g:id>27130506</g:id>
+      <g:title><![CDATA[Introduktion til Alexanderteknik – workshop i bedre brug af sig selv]]></g:title>
+      <g:description><![CDATA[Lær at bevæge dig med lethed og balance med Alexanderteknik. Forebyg smerter og styrk din kropsbevidsthed. Tilmeld dig hos FOF København og Nordsjælland.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/alexanderteknik?holdnr=27130506</g:link>
+      <g:image_link>https://www.fof.dk/media/4tlnqjiu/hensyntagende-motion-fofkn-aftenskolen-motion-og-sundhed-alexanderteknik-2-stock-174167552.jpg?width=1200</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:quantity>1</g:quantity>
-      <g:price>875.00 DKK</g:price>
+      <g:price>430.00 DKK</g:price>
       <g:condition>new</g:condition>
       <g:brand>FOF København og Nordsjælland</g:brand>
       <g:google_product_category>Education</g:google_product_category>
       <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Sprog &gt; Italiensk</g:product_type>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Bevægelse og afspænding</g:product_type>
       <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Sprog</g:custom_label_1>
-      <g:custom_label_2>Italiensk</g:custom_label_2>
-      <g:custom_label_4>Hellerup</g:custom_label_4>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Bevægelse og afspænding</g:custom_label_2>
+      <g:custom_label_4>Kongens Lyngby</g:custom_label_4>
       <g:start_date>2027-01-09T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Sprog - Basisniveau (A)</g:custom_label_3>
-      <g:internal_label>['Sprog - Basisniveau (A)','Korte kurser','Hellerup']</g:internal_label>
+      <g:custom_label_3>Hensyntagende</g:custom_label_3>
+      <g:internal_label>['Hensyntagende','Kongens Lyngby']</g:internal_label>
     </item>
 <item>
       <g:id>27113604</g:id>
@@ -29105,27 +29035,6 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:internal_label>['In English','Korte kurser','København V']</g:internal_label>
     </item>
 <item>
-      <g:id>27172001</g:id>
-      <g:title><![CDATA[Tegn det du ser – se det du tegner]]></g:title>
-      <g:description><![CDATA[Lær at tegne og se som en kunstner. Få styr på lys, skygge og proportioner i et kreativt fællesskab for begyndere og øvede. Tilmeld dig i dag.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/tegn-det-du-ser-se-det-du-tegner?holdnr=27172001</g:link>
-      <g:image_link>https://www.fof.dk/media/2uqejfpr/tegn-det-du-ser-fofkn-aftenskolen-kreative-kurser-anne-sophie-helger-1.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1445.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF København og Nordsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Kreative kurser &gt; Tegnekurser</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Kreative kurser</g:custom_label_1>
-      <g:custom_label_2>Tegnekurser</g:custom_label_2>
-      <g:custom_label_4>Kongens Lyngby</g:custom_label_4>
-      <g:start_date>2027-01-11T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Kongens Lyngby']</g:internal_label>
-    </item>
-<item>
       <g:id>26240216</g:id>
       <g:title><![CDATA[God hverdagsmad]]></g:title>
       <g:description><![CDATA[Få inspiration til nem, sund og nærende hverdagsmad på dette madlavningskursus hos FOF København og Nordsjælland. Tilmeld dig her.]]></g:description>
@@ -29142,6 +29051,27 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
       <g:custom_label_2>Fest- og hverdagsmad</g:custom_label_2>
+      <g:custom_label_4>Kongens Lyngby</g:custom_label_4>
+      <g:start_date>2027-01-11T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Kongens Lyngby']</g:internal_label>
+    </item>
+<item>
+      <g:id>27172001</g:id>
+      <g:title><![CDATA[Tegn det du ser – se det du tegner]]></g:title>
+      <g:description><![CDATA[Lær at tegne og se som en kunstner. Få styr på lys, skygge og proportioner i et kreativt fællesskab for begyndere og øvede. Tilmeld dig i dag.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/tegn-det-du-ser-se-det-du-tegner?holdnr=27172001</g:link>
+      <g:image_link>https://www.fof.dk/media/2uqejfpr/tegn-det-du-ser-fofkn-aftenskolen-kreative-kurser-anne-sophie-helger-1.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1445.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Kreative kurser &gt; Tegnekurser</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Kreative kurser</g:custom_label_1>
+      <g:custom_label_2>Tegnekurser</g:custom_label_2>
       <g:custom_label_4>Kongens Lyngby</g:custom_label_4>
       <g:start_date>2027-01-11T00:00:00.000Z</g:start_date>
       <g:internal_label>['Kongens Lyngby']</g:internal_label>
@@ -29255,28 +29185,6 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:internal_label>['Korte kurser','København K']</g:internal_label>
     </item>
 <item>
-      <g:id>27170011</g:id>
-      <g:title><![CDATA[Asiatisk maleteknik – vand og blæk]]></g:title>
-      <g:description><![CDATA[Lær asiatisk maleteknik hos FOF København og Nordsjælland. Udforsk ro, rytme og udtryk med vand og blæk. Book din plads og skab dit eget motiv.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/asiatisk-maleteknik-vand-og-blaek?holdnr=27170011</g:link>
-      <g:image_link>https://www.fof.dk/media/1n0bn0ym/malekurser-asiatisk-maleteknik-fofkn-aftenskolen-kreative-kurser-5.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>570.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF København og Nordsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Kreative kurser &gt; Malekurser</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Kreative kurser</g:custom_label_1>
-      <g:custom_label_2>Malekurser</g:custom_label_2>
-      <g:custom_label_4>København</g:custom_label_4>
-      <g:start_date>2027-01-16T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Aftenskolernes Hus</g:custom_label_3>
-      <g:internal_label>['Aftenskolernes Hus','Korte kurser','København NV']</g:internal_label>
-    </item>
-<item>
       <g:id>27145426</g:id>
       <g:title><![CDATA[Flødebollekursus – voksne og børn fra 8 år]]></g:title>
       <g:description><![CDATA[Lav hjemmelavede flødeboller med chokolade og skum. Et hyggeligt flødebollekursus for børn og voksne, hvor I laver søde sager sammen.]]></g:description>
@@ -29297,6 +29205,28 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:start_date>2027-01-16T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Aftenskolernes Hus</g:custom_label_3>
       <g:internal_label>['Aftenskolernes Hus','Familie','Korte kurser','København NV']</g:internal_label>
+    </item>
+<item>
+      <g:id>27170011</g:id>
+      <g:title><![CDATA[Asiatisk maleteknik – vand og blæk]]></g:title>
+      <g:description><![CDATA[Lær asiatisk maleteknik hos FOF København og Nordsjælland. Udforsk ro, rytme og udtryk med vand og blæk. Book din plads og skab dit eget motiv.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/asiatisk-maleteknik-vand-og-blaek?holdnr=27170011</g:link>
+      <g:image_link>https://www.fof.dk/media/1n0bn0ym/malekurser-asiatisk-maleteknik-fofkn-aftenskolen-kreative-kurser-5.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>570.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Kreative kurser &gt; Malekurser</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Kreative kurser</g:custom_label_1>
+      <g:custom_label_2>Malekurser</g:custom_label_2>
+      <g:custom_label_4>København</g:custom_label_4>
+      <g:start_date>2027-01-16T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Aftenskolernes Hus</g:custom_label_3>
+      <g:internal_label>['Aftenskolernes Hus','Korte kurser','København NV']</g:internal_label>
     </item>
 <item>
       <g:id>26230822</g:id>
@@ -29472,28 +29402,6 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:internal_label>['Korte kurser','Kongens Lyngby']</g:internal_label>
     </item>
 <item>
-      <g:id>26279105</g:id>
-      <g:title><![CDATA[Broderi, reparation og visible mending]]></g:title>
-      <g:description><![CDATA[Tag et kursus i broderi og visible mending hos FOF København og Nordsjælland. Dekorér og reparér tøj med kreative sting. Book din plads i dag.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/broderi-reparation-og-visible-mending?holdnr=26279105</g:link>
-      <g:image_link>https://www.fof.dk/media/nkmljkjo/broderi-fofkn-aftenskolen-kreative-kurser.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>535.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF København og Nordsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Kreative kurser &gt; Håndarbejde</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Kreative kurser</g:custom_label_1>
-      <g:custom_label_2>Håndarbejde</g:custom_label_2>
-      <g:custom_label_4>København</g:custom_label_4>
-      <g:start_date>2027-01-17T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Aftenskolernes Hus</g:custom_label_3>
-      <g:internal_label>['Aftenskolernes Hus','Korte kurser','København NV']</g:internal_label>
-    </item>
-<item>
       <g:id>27142126</g:id>
       <g:title><![CDATA[Manga og tegneserietegning – voksne og børn fra 9 år]]></g:title>
       <g:description><![CDATA[Kom med på et kreativt manga tegnekursus for voksne og børn fra 9 år. Lær at tegne figurer, fortælle historier og slip fantasien løs sammen.]]></g:description>
@@ -29535,6 +29443,28 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:custom_label_4>Søborg</g:custom_label_4>
       <g:start_date>2027-01-17T00:00:00.000Z</g:start_date>
       <g:internal_label>['Søborg']</g:internal_label>
+    </item>
+<item>
+      <g:id>26279105</g:id>
+      <g:title><![CDATA[Broderi, reparation og visible mending]]></g:title>
+      <g:description><![CDATA[Tag et kursus i broderi og visible mending hos FOF København og Nordsjælland. Dekorér og reparér tøj med kreative sting. Book din plads i dag.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/broderi-reparation-og-visible-mending?holdnr=26279105</g:link>
+      <g:image_link>https://www.fof.dk/media/nkmljkjo/broderi-fofkn-aftenskolen-kreative-kurser.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>535.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Kreative kurser &gt; Håndarbejde</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Kreative kurser</g:custom_label_1>
+      <g:custom_label_2>Håndarbejde</g:custom_label_2>
+      <g:custom_label_4>København</g:custom_label_4>
+      <g:start_date>2027-01-17T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Aftenskolernes Hus</g:custom_label_3>
+      <g:internal_label>['Aftenskolernes Hus','Korte kurser','København NV']</g:internal_label>
     </item>
 <item>
       <g:id>27120989</g:id>
@@ -29862,27 +29792,6 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:internal_label>['Korte kurser','Skrivekurser','Holte']</g:internal_label>
     </item>
 <item>
-      <g:id>27179008</g:id>
-      <g:title><![CDATA[Sy og design – to raske sydage]]></g:title>
-      <g:description><![CDATA[Lær at sy og tilrette mønstre, så tøjet passer perfekt. Få hjælp til klipning, prøvning og finish, og skab tøj med professionel stil.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/sy-og-design?holdnr=27179008</g:link>
-      <g:image_link>https://www.fof.dk/media/2tpbtdov/12.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1140.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF København og Nordsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Kreative kurser &gt; Syning</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Kreative kurser</g:custom_label_1>
-      <g:custom_label_2>Syning</g:custom_label_2>
-      <g:custom_label_4>Hellerup</g:custom_label_4>
-      <g:start_date>2027-01-23T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Hellerup']</g:internal_label>
-    </item>
-<item>
       <g:id>27151020</g:id>
       <g:title><![CDATA[Mix og mastering]]></g:title>
       <g:description><![CDATA[Tag på et kursus i musikproduktion, hvor vi arbejder med mix og mastering, så du kan få bedre styr på lyd, balance og effekter i dine produktioner. Læs mere.]]></g:description>
@@ -29902,6 +29811,27 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:custom_label_4>København</g:custom_label_4>
       <g:start_date>2027-01-23T00:00:00.000Z</g:start_date>
       <g:internal_label>['København K']</g:internal_label>
+    </item>
+<item>
+      <g:id>27179008</g:id>
+      <g:title><![CDATA[Sy og design – to raske sydage]]></g:title>
+      <g:description><![CDATA[Lær at sy og tilrette mønstre, så tøjet passer perfekt. Få hjælp til klipning, prøvning og finish, og skab tøj med professionel stil.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/sy-og-design?holdnr=27179008</g:link>
+      <g:image_link>https://www.fof.dk/media/2tpbtdov/12.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1140.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Kreative kurser &gt; Syning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Kreative kurser</g:custom_label_1>
+      <g:custom_label_2>Syning</g:custom_label_2>
+      <g:custom_label_4>Hellerup</g:custom_label_4>
+      <g:start_date>2027-01-23T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Hellerup']</g:internal_label>
     </item>
 <item>
       <g:id>27140404</g:id>
@@ -30010,6 +29940,28 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Ture og rundvisninger</g:custom_label_3>
       <g:internal_label>['Ture og rundvisninger','København V']</g:internal_label>
+    </item>
+<item>
+      <g:id>27130560</g:id>
+      <g:title><![CDATA[Yin yoga – hensyntagende]]></g:title>
+      <g:description><![CDATA[Oplev skånsom yin yoga – blide stræk, åndedræt og afspænding for ro, smidighed og velvære. For dig med behov for nænsom træning.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/hensyntagende-yin-yoga?holdnr=27130560</g:link>
+      <g:image_link>https://www.fof.dk/media/wjfm1zc1/yoga-fofkn-aftenskolen-motion-og-sundhed-stock-512203090.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1700.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Yoga</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>København</g:custom_label_4>
+      <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Hensyntagende</g:custom_label_3>
+      <g:internal_label>['Hensyntagende','København S']</g:internal_label>
     </item>
 <item>
       <g:id>27150875</g:id>
@@ -30333,27 +30285,6 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:internal_label>['Skrivekurser','København K']</g:internal_label>
     </item>
 <item>
-      <g:id>27110001</g:id>
-      <g:title><![CDATA[Oplev Copenhagen Light Festival]]></g:title>
-      <g:description><![CDATA[Oplev lyskunst i København på en guidet tur med fokus på værker og byrum. Tilmeld dig hos FOF København og Nordsjælland og se byen på en ny måde.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/oplev-copenhagen-light-festival?holdnr=27110001</g:link>
-      <g:image_link>https://www.fof.dk/media/h3hd4guy/sentinel-studio-vertigo-4.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>220.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF København og Nordsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Rejser, ture og rundvisninger &gt; Kunstudstillinger</g:product_type>
-      <g:custom_label_0>Rejser, ture og rundvisninger</g:custom_label_0>
-      <g:custom_label_1>Kunstudstillinger</g:custom_label_1>
-      <g:custom_label_2></g:custom_label_2>
-      <g:custom_label_4>København</g:custom_label_4>
-      <g:start_date>2027-01-30T00:00:00.000Z</g:start_date>
-      <g:internal_label>['København K']</g:internal_label>
-    </item>
-<item>
       <g:id>27170005</g:id>
       <g:title><![CDATA[Kreativ tegning – weekend]]></g:title>
       <g:description><![CDATA[Udforsk tegningens mange teknikker på et weekendkursus. Lær om materialer, komposition og streg og skab tegninger, der står som færdige værker.]]></g:description>
@@ -30374,6 +30305,27 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:start_date>2027-01-30T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Korte kurser</g:custom_label_3>
       <g:internal_label>['Korte kurser','København K']</g:internal_label>
+    </item>
+<item>
+      <g:id>27110001</g:id>
+      <g:title><![CDATA[Oplev Copenhagen Light Festival]]></g:title>
+      <g:description><![CDATA[Oplev lyskunst i København på en guidet tur med fokus på værker og byrum. Tilmeld dig hos FOF København og Nordsjælland og se byen på en ny måde.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/oplev-copenhagen-light-festival?holdnr=27110001</g:link>
+      <g:image_link>https://www.fof.dk/media/h3hd4guy/sentinel-studio-vertigo-4.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>220.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Rejser, ture og rundvisninger &gt; Kunstudstillinger</g:product_type>
+      <g:custom_label_0>Rejser, ture og rundvisninger</g:custom_label_0>
+      <g:custom_label_1>Kunstudstillinger</g:custom_label_1>
+      <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>København</g:custom_label_4>
+      <g:start_date>2027-01-30T00:00:00.000Z</g:start_date>
+      <g:internal_label>['København K']</g:internal_label>
     </item>
 <item>
       <g:id>27179576</g:id>
@@ -31479,27 +31431,6 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:internal_label>['Debat','Virum']</g:internal_label>
     </item>
 <item>
-      <g:id>27178071</g:id>
-      <g:title><![CDATA[Knipling]]></g:title>
-      <g:description><![CDATA[Lær at kniple smukke mønstre med tråd og kniplepinde. Udforsk klassiske og moderne teknikker i et kreativt miljø med vejledning for begyndere og øvede.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/knipling?holdnr=27178071</g:link>
-      <g:image_link>https://www.fof.dk/media/jwnfcy5y/kniplinger-fofkn-aftenskolen-kreative-kurser-stock-1496764445.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1575.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF København og Nordsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Kreative kurser &gt; Håndarbejde</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Kreative kurser</g:custom_label_1>
-      <g:custom_label_2>Håndarbejde</g:custom_label_2>
-      <g:custom_label_4>Valby</g:custom_label_4>
-      <g:start_date>2027-03-01T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Valby']</g:internal_label>
-    </item>
-<item>
       <g:id>27187020</g:id>
       <g:title><![CDATA[Hundetræning – hvalpe 9-26 uger]]></g:title>
       <g:description><![CDATA[Lær din hvalp gode vaner med positiv hundetræning hos FOF. Fokus på adfærd, lydighed og samarbejde for hvalpe 9–26 uger. Tilmeld dig i dag.]]></g:description>
@@ -31519,6 +31450,27 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:custom_label_4>København</g:custom_label_4>
       <g:start_date>2027-03-01T00:00:00.000Z</g:start_date>
       <g:internal_label>['København NV']</g:internal_label>
+    </item>
+<item>
+      <g:id>27178071</g:id>
+      <g:title><![CDATA[Knipling]]></g:title>
+      <g:description><![CDATA[Lær at kniple smukke mønstre med tråd og kniplepinde. Udforsk klassiske og moderne teknikker i et kreativt miljø med vejledning for begyndere og øvede.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/knipling?holdnr=27178071</g:link>
+      <g:image_link>https://www.fof.dk/media/jwnfcy5y/kniplinger-fofkn-aftenskolen-kreative-kurser-stock-1496764445.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1575.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Kreative kurser &gt; Håndarbejde</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Kreative kurser</g:custom_label_1>
+      <g:custom_label_2>Håndarbejde</g:custom_label_2>
+      <g:custom_label_4>Valby</g:custom_label_4>
+      <g:start_date>2027-03-01T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Valby']</g:internal_label>
     </item>
 <item>
       <g:id>27187025</g:id>
@@ -32021,7 +31973,6 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:custom_label_2>Aktiviteter med baby</g:custom_label_2>
       <g:custom_label_4>Charlottenlund</g:custom_label_4>
       <g:start_date>2027-03-08T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Charlottenlund']</g:internal_label>
     </item>
 <item>
       <g:id>27120831</g:id>
@@ -33432,6 +33383,27 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:internal_label>['Foredrag','Hillerød']</g:internal_label>
     </item>
 <item>
+      <g:id>27120697</g:id>
+      <g:title><![CDATA[Babymotorik/rytmik 7-11 mdr.]]></g:title>
+      <g:description><![CDATA[Lær at støtte din babys motoriske udvikling med sansestimulering og leg i trygge rammer. Babymotorik hos FOF København og Nordsjælland.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/babymotorik?holdnr=27120697</g:link>
+      <g:image_link>https://www.fof.dk/media/qa1epiph/rytmik-fofkn-aftenskoeln-gravid-og-barsel-stock-17720902.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>575.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Aktiviteter med baby</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
+      <g:custom_label_2>Aktiviteter med baby</g:custom_label_2>
+      <g:custom_label_4>Charlottenlund</g:custom_label_4>
+      <g:start_date>2027-04-15T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Charlottenlund']</g:internal_label>
+    </item>
+<item>
       <g:id>27110023</g:id>
       <g:title><![CDATA[Rundvisning på Politigården]]></g:title>
       <g:description><![CDATA[Kom med på en spændende guidet rundvisning på Politigården og få et indblik i arkitektur og historie. Tilmeld dig hos FOF København og Nordsjælland.]]></g:description>
@@ -33452,27 +33424,6 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:start_date>2027-04-15T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Ture og rundvisninger</g:custom_label_3>
       <g:internal_label>['Ture og rundvisninger','København V']</g:internal_label>
-    </item>
-<item>
-      <g:id>27120697</g:id>
-      <g:title><![CDATA[Babymotorik/rytmik 7-11 mdr.]]></g:title>
-      <g:description><![CDATA[Lær at støtte din babys motoriske udvikling med sansestimulering og leg i trygge rammer. Babymotorik hos FOF København og Nordsjælland.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/babymotorik?holdnr=27120697</g:link>
-      <g:image_link>https://www.fof.dk/media/qa1epiph/rytmik-fofkn-aftenskoeln-gravid-og-barsel-stock-17720902.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>575.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF København og Nordsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Aktiviteter med baby</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
-      <g:custom_label_2>Aktiviteter med baby</g:custom_label_2>
-      <g:custom_label_4>Charlottenlund</g:custom_label_4>
-      <g:start_date>2027-04-15T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Charlottenlund']</g:internal_label>
     </item>
 <item>
       <g:id>27100009</g:id>
@@ -35967,28 +35918,6 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:internal_label>['Glostrup','Starter snart','Endagskurser']</g:internal_label>
     </item>
 <item>
-      <g:id>KBO-22044</g:id>
-      <g:title><![CDATA[Seje sild på Assistens Kirkegård]]></g:title>
-      <g:description><![CDATA[Oplev byvandring på Assistens Kirkegård i København. Hør historier om seje kvinder og kendte gravsteder i smukke omgivelser.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/seje-sild-paa-assistens-kirkegaard?holdnr=22044</g:link>
-      <g:image_link>https://www.fof.dk/media/offb2bhs/kvinder-og-gudinder-paa-assistens-kirkgaard.png?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>190.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Københavns Omegn</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Rejser, ture og rundvisninger &gt; Byvandringer</g:product_type>
-      <g:custom_label_0>Rejser, ture og rundvisninger</g:custom_label_0>
-      <g:custom_label_1>Byvandringer</g:custom_label_1>
-      <g:custom_label_2></g:custom_label_2>
-      <g:custom_label_4></g:custom_label_4>
-      <g:start_date>2026-11-07T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Starter snart</g:custom_label_3>
-      <g:internal_label>['Starter snart','København','Endagskurser']</g:internal_label>
-    </item>
-<item>
       <g:id>KBO-22240</g:id>
       <g:title><![CDATA[Drejekursus - Lertøjsler og begitning]]></g:title>
       <g:description><![CDATA[For begyndere og let øvede i keramik i Glostrup. Eksklusivt keramik kursus hvor du lærer at dreje keramik på drejeskive. Din underviser er ekspert i keramik og kan lære dig keramisk drejning, centrering og formgivning på små hold med personlig vejledning undervejs. ]]></g:description>
@@ -36033,28 +35962,6 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:internal_label>['Glostrup','Starter snart']</g:internal_label>
     </item>
 <item>
-      <g:id>KBO-22083</g:id>
-      <g:title><![CDATA[Rundvisning på Vestre Kirkegård ]]></g:title>
-      <g:description><![CDATA[Tag med på en rundvisning på Vestre Kirkegård i København og oplev 150 års historie. Guidet byvandring med fortællinger om kendte personer, kultur og byens udvikling.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/rundvisning-paa-vestre-kirkegaard?holdnr=22083</g:link>
-      <g:image_link>https://www.fof.dk/media/tkznxrjr/vestre-kirkegaard.png?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>180.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Københavns Omegn</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Rejser, ture og rundvisninger &gt; Byvandringer</g:product_type>
-      <g:custom_label_0>Rejser, ture og rundvisninger</g:custom_label_0>
-      <g:custom_label_1>Byvandringer</g:custom_label_1>
-      <g:custom_label_2></g:custom_label_2>
-      <g:custom_label_4></g:custom_label_4>
-      <g:start_date>2026-11-07T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Starter snart</g:custom_label_3>
-      <g:internal_label>['Starter snart','København','Endagskurser']</g:internal_label>
-    </item>
-<item>
       <g:id>KBO-22116</g:id>
       <g:title><![CDATA[Matadorbyvandring - I Lise Nørgaards fodspor]]></g:title>
       <g:description><![CDATA[Kom på en byvandring som taget lige ud af alles yndlings tv-serie. Oplev Matadors virkelige steder på en historisk byvandring i Roskilde. Følg i Lise Nørgaards fodspor og hør de inspirerende historier bag serien.]]></g:description>
@@ -36077,28 +35984,6 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:internal_label>['Starter snart','Tur kalender','Endagskurser','Roskilde']</g:internal_label>
     </item>
 <item>
-      <g:id>KBO-22085</g:id>
-      <g:title><![CDATA[“...og hustru” - de oversete og glemte kvinder på Vestre Kirkegård]]></g:title>
-      <g:description><![CDATA[Tag med på en byvandring i København på Vestre Kirkegård og oplev historier om oversete og glemte kvinder i danmarkshistorien. En stærk og tankevækkende guidet rundvisning.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/og-hustru-de-oversete-og-glemte-kvinder-paa-vestre-kirkegaard?holdnr=22085</g:link>
-      <g:image_link>https://www.fof.dk/media/evql0uds/oversete-og-glemte-kvinder-paa-vestre-kirkegaard-1.png?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>180.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Københavns Omegn</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Rejser, ture og rundvisninger &gt; Byvandringer</g:product_type>
-      <g:custom_label_0>Rejser, ture og rundvisninger</g:custom_label_0>
-      <g:custom_label_1>Byvandringer</g:custom_label_1>
-      <g:custom_label_2></g:custom_label_2>
-      <g:custom_label_4></g:custom_label_4>
-      <g:start_date>2026-11-08T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Starter snart</g:custom_label_3>
-      <g:internal_label>['Starter snart','København','Endagskurser']</g:internal_label>
-    </item>
-<item>
       <g:id>KBO-22491</g:id>
       <g:title><![CDATA[Mandestrik - workshop for mænd]]></g:title>
       <g:description><![CDATA[Deltag i strik workshop for mænd i Taastrup hos FOF Københavns Omegn. Lær at strikke din egen hue med Mandestrik i Medborgerhuset i rolige og kreative rammer.]]></g:description>
@@ -36119,28 +36004,6 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:start_date>2026-11-08T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Taastrup</g:custom_label_3>
       <g:internal_label>['Taastrup','Endagskurser','Starter snart']</g:internal_label>
-    </item>
-<item>
-      <g:id>KBO-22081</g:id>
-      <g:title><![CDATA[Byvandring - altid på Vesterbro ]]></g:title>
-      <g:description><![CDATA[Tag med på byvandring på Vesterbro og oplev den gribende fortælling om Henry Emil Larsen. En levende historie om arbejderliv, kærlighed, flugt og kvarterets udvikling fortalt af hans oldebarn.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/byvandring-altid-paa-vesterbro?holdnr=22081</g:link>
-      <g:image_link>https://www.fof.dk/media/p4alkizn/byvandring-altid-paa-vesterbro-1.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>180.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Københavns Omegn</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Rejser, ture og rundvisninger &gt; Byvandringer</g:product_type>
-      <g:custom_label_0>Rejser, ture og rundvisninger</g:custom_label_0>
-      <g:custom_label_1>Byvandringer</g:custom_label_1>
-      <g:custom_label_2></g:custom_label_2>
-      <g:custom_label_4></g:custom_label_4>
-      <g:start_date>2026-11-08T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Starter snart</g:custom_label_3>
-      <g:internal_label>['Starter snart','København','Endagskurser']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-22199</g:id>
@@ -36251,28 +36114,6 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:start_date>2026-11-11T00:00:00.000Z</g:start_date>
       <g:custom_label_3>København</g:custom_label_3>
       <g:internal_label>['København','Endagskurser','København K']</g:internal_label>
-    </item>
-<item>
-      <g:id>KBO-22031</g:id>
-      <g:title><![CDATA[Skulpturvandring i København]]></g:title>
-      <g:description><![CDATA[Oplev en skulpturvandring i København fra Christiansborg til Nyboder. Se rytterstatuer, monumenter og hør historier om kunst og kongehus.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/skulpturvandring-i-koebenhavn?holdnr=22031</g:link>
-      <g:image_link>https://www.fof.dk/media/arzkovnf/skulpturvandring-i-koebenhavn.png?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>190.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Københavns Omegn</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Rejser, ture og rundvisninger &gt; Byvandringer</g:product_type>
-      <g:custom_label_0>Rejser, ture og rundvisninger</g:custom_label_0>
-      <g:custom_label_1>Byvandringer</g:custom_label_1>
-      <g:custom_label_2></g:custom_label_2>
-      <g:custom_label_4></g:custom_label_4>
-      <g:start_date>2026-11-12T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>København</g:custom_label_3>
-      <g:internal_label>['København','Endagskurser']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-22297</g:id>
@@ -37263,6 +37104,28 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:internal_label>['Ballerup','Taastrup']</g:internal_label>
     </item>
 <item>
+      <g:id>KBO-23295</g:id>
+      <g:title><![CDATA[Bettinas Strikkestue ]]></g:title>
+      <g:description><![CDATA[Hyggeligt strikkefællesskab i Glostrup med fokus på samvær, kreativitet og fordybelse. Bettinas Strikkestue er for alle – uanset niveau.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/bettinas-strikkestue?holdnr=23295</g:link>
+      <g:image_link>https://www.fof.dk/media/3qqmonfg/strikkekursus-fof-aftenskolen-02.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>175.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Københavns Omegn</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Kreative kurser &gt; Håndarbejde</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Kreative kurser</g:custom_label_1>
+      <g:custom_label_2>Håndarbejde</g:custom_label_2>
+      <g:custom_label_4>Glostrup</g:custom_label_4>
+      <g:start_date>2027-01-14T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Glostrup</g:custom_label_3>
+      <g:internal_label>['Glostrup']</g:internal_label>
+    </item>
+<item>
       <g:id>KBO-23530</g:id>
       <g:title><![CDATA[Yin yoga]]></g:title>
       <g:description><![CDATA[Find det perfekte yin yoga hold tæt på dig: Deltag i yin yoga i Hedehusene, Rødovre, Ballerup, Taastrup og Glostrup. Rolig yoga med fokus på stræk, ro og afspænding.]]></g:description>
@@ -37637,28 +37500,6 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:internal_label>['Glostrup']</g:internal_label>
     </item>
 <item>
-      <g:id>KBO-23330</g:id>
-      <g:title><![CDATA[Italiensk for let øvede (A2+)]]></g:title>
-      <g:description><![CDATA[Italiensk for let øvede (A2) hos FOF Københavns Omegn: Bliv mere sikker i samtaler og udvid dit ordforråd i dagligdags situationer.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/italiensk-for-let-oevede-a2?holdnr=23330</g:link>
-      <g:image_link>https://www.fof.dk/media/scohakif/italiensk-2.png?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1794.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Københavns Omegn</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Sprog &gt; Italiensk</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Sprog</g:custom_label_1>
-      <g:custom_label_2>Italiensk</g:custom_label_2>
-      <g:custom_label_4>Taastrup</g:custom_label_4>
-      <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Taastrup</g:custom_label_3>
-      <g:internal_label>['Taastrup']</g:internal_label>
-    </item>
-<item>
       <g:id>KBO-23583</g:id>
       <g:title><![CDATA[Tai Chi]]></g:title>
       <g:description><![CDATA[Deltag i Tai Chi hos FOF Københavns Omegn i Vallensbæk, Glostrup, Brøndby og Herlev. Tai Chi er en rolig og nærværende træningsform, hvor fokus er på balance, smidighed og mental ro gennem langsomme, kontrollerede bevægelser. Blid træning for alle.]]></g:description>
@@ -37679,6 +37520,28 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Vallensbæk</g:custom_label_3>
       <g:internal_label>['Vallensbæk','Glostrup','Herlev','Brøndby']</g:internal_label>
+    </item>
+<item>
+      <g:id>KBO-23330</g:id>
+      <g:title><![CDATA[Italiensk for let øvede (A2+)]]></g:title>
+      <g:description><![CDATA[Italiensk for let øvede (A2) hos FOF Københavns Omegn: Bliv mere sikker i samtaler og udvid dit ordforråd i dagligdags situationer.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/italiensk-for-let-oevede-a2?holdnr=23330</g:link>
+      <g:image_link>https://www.fof.dk/media/scohakif/italiensk-2.png?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1794.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Københavns Omegn</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Sprog &gt; Italiensk</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Sprog</g:custom_label_1>
+      <g:custom_label_2>Italiensk</g:custom_label_2>
+      <g:custom_label_4>Taastrup</g:custom_label_4>
+      <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Taastrup</g:custom_label_3>
+      <g:internal_label>['Taastrup']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23637</g:id>
@@ -38253,28 +38116,6 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:internal_label>['Herlev']</g:internal_label>
     </item>
 <item>
-      <g:id>KBO-23351</g:id>
-      <g:title><![CDATA[Spansk for begyndere - fortsættere (A1)]]></g:title>
-      <g:description><![CDATA[Start din rejse med spansk på et roligt og trygt begynderniveau (A1). Lær simple sætninger, hverdagsudtryk og basisgrammatik hos FOF Københavns Omegn.  Dette spansk kursus for begyndere i København-området er skabt til dig, der vil i gang på en tryg, overskuelig og motiverende måde.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/spansk-for-begyndere-a1?holdnr=23351</g:link>
-      <g:image_link>https://www.fof.dk/media/zt2j3ixy/spansk-2.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1612.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Københavns Omegn</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Sprog &gt; Spansk</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Sprog</g:custom_label_1>
-      <g:custom_label_2>Spansk</g:custom_label_2>
-      <g:custom_label_4>Glostrup</g:custom_label_4>
-      <g:start_date>2027-01-28T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Brøndby</g:custom_label_3>
-      <g:internal_label>['Brøndby','Glostrup','Vallensbæk']</g:internal_label>
-    </item>
-<item>
       <g:id>KBO-23527</g:id>
       <g:title><![CDATA[Yoga for seniorer]]></g:title>
       <g:description><![CDATA[Deltag i senioryoga hos FOF Københavns Omegn i Herlev, Glostrup, Albertslund og Taastrup. Gode lyse lokaler med nem adgang og gode parkeringsmuligheder. Blid yoga med fokus på balance, smidighed og ro.]]></g:description>
@@ -38297,6 +38138,28 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:internal_label>['Albertslund','Glostrup','Herlev','Taastrup']</g:internal_label>
     </item>
 <item>
+      <g:id>KBO-23351</g:id>
+      <g:title><![CDATA[Spansk for begyndere - fortsættere (A1)]]></g:title>
+      <g:description><![CDATA[Start din rejse med spansk på et roligt og trygt begynderniveau (A1). Lær simple sætninger, hverdagsudtryk og basisgrammatik hos FOF Københavns Omegn.  Dette spansk kursus for begyndere i København-området er skabt til dig, der vil i gang på en tryg, overskuelig og motiverende måde.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/spansk-for-begyndere-a1?holdnr=23351</g:link>
+      <g:image_link>https://www.fof.dk/media/zt2j3ixy/spansk-2.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1612.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Københavns Omegn</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Sprog &gt; Spansk</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Sprog</g:custom_label_1>
+      <g:custom_label_2>Spansk</g:custom_label_2>
+      <g:custom_label_4>Glostrup</g:custom_label_4>
+      <g:start_date>2027-01-28T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Brøndby</g:custom_label_3>
+      <g:internal_label>['Brøndby','Glostrup','Vallensbæk']</g:internal_label>
+    </item>
+<item>
       <g:id>KBO-23546</g:id>
       <g:title><![CDATA[Glad bevægelse]]></g:title>
       <g:description><![CDATA[Deltag i Glad bevægelse i Glostrup og Albertslund hos FOF Københavns Omegn. Sjov motion med musik, balance, styrke og fællesskab for alle. Du får: Forbedret balance og koordination, stærkere muskler og øget smidighed, bedre kropskontrol og bevægelighed]]></g:description>
@@ -38315,8 +38178,8 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:custom_label_2>Bevægelse og afspænding</g:custom_label_2>
       <g:custom_label_4>Albertslund</g:custom_label_4>
       <g:start_date>2027-01-28T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Glostrup</g:custom_label_3>
-      <g:internal_label>['Glostrup','Albertslund']</g:internal_label>
+      <g:custom_label_3>Albertslund</g:custom_label_3>
+      <g:internal_label>['Albertslund','Glostrup']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23510</g:id>
@@ -38803,28 +38666,6 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:internal_label>['Brøndby']</g:internal_label>
     </item>
 <item>
-      <g:id>KBO-23335</g:id>
-      <g:title><![CDATA[Italiensk for begyndere - fortsættere (A1)]]></g:title>
-      <g:description><![CDATA[Italiensk for begyndere: Start fra bunden og lær italiensk i selskab med med dygtig underviser på hyggeligt hold. Italiensk for begyndere er for dig der ønsker at lære italiensk uden forhåndskendskab til sproget. Du lærer at forstå og bruge enkle italienske udtryk i hverdagen, føre korte samtaler om kendte emner]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/italiensk-for-begyndere-a1?holdnr=23335</g:link>
-      <g:image_link>https://www.fof.dk/media/243h0hdu/30.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1488.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Københavns Omegn</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Sprog &gt; Italiensk</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Sprog</g:custom_label_1>
-      <g:custom_label_2>Italiensk</g:custom_label_2>
-      <g:custom_label_4>Taastrup</g:custom_label_4>
-      <g:start_date>2027-02-01T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Taastrup</g:custom_label_3>
-      <g:internal_label>['Taastrup','Brøndby']</g:internal_label>
-    </item>
-<item>
       <g:id>KBO-23793</g:id>
       <g:title><![CDATA[Guitarteori]]></g:title>
       <g:description><![CDATA[Lær guitarteori på et kursus for begyndere og let øvede. Få indsigt i akkorder, skalaer og musikkens opbygning og omsæt teorien direkte på guitaren.]]></g:description>
@@ -38845,6 +38686,28 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:start_date>2027-02-01T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Brøndby</g:custom_label_3>
       <g:internal_label>['Brøndby']</g:internal_label>
+    </item>
+<item>
+      <g:id>KBO-23335</g:id>
+      <g:title><![CDATA[Italiensk for begyndere - fortsættere (A1)]]></g:title>
+      <g:description><![CDATA[Italiensk for begyndere: Start fra bunden og lær italiensk i selskab med med dygtig underviser på hyggeligt hold. Italiensk for begyndere er for dig der ønsker at lære italiensk uden forhåndskendskab til sproget. Du lærer at forstå og bruge enkle italienske udtryk i hverdagen, føre korte samtaler om kendte emner]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/italiensk-for-begyndere-a1?holdnr=23335</g:link>
+      <g:image_link>https://www.fof.dk/media/243h0hdu/30.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1488.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Københavns Omegn</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Sprog &gt; Italiensk</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Sprog</g:custom_label_1>
+      <g:custom_label_2>Italiensk</g:custom_label_2>
+      <g:custom_label_4>Taastrup</g:custom_label_4>
+      <g:start_date>2027-02-01T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Taastrup</g:custom_label_3>
+      <g:internal_label>['Taastrup','Brøndby']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23617</g:id>
@@ -39725,28 +39588,6 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:internal_label>['Ballerup']</g:internal_label>
     </item>
 <item>
-      <g:id>KBO-23333</g:id>
-      <g:title><![CDATA[Italiensk for begyndere]]></g:title>
-      <g:description><![CDATA[Italiensk for begyndere: Start fra bunden og lær italiensk i selskab med med dygtig underviser på hyggeligt hold. Italiensk for begyndere er for dig der ønsker at lære italiensk uden forhåndskendskab til sproget. Du lærer at forstå og bruge enkle italienske udtryk i hverdagen, føre korte samtaler om kendte emner]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/italiensk-for-begyndere-a1?holdnr=23333</g:link>
-      <g:image_link>https://www.fof.dk/media/243h0hdu/30.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1364.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Københavns Omegn</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Sprog &gt; Italiensk</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Sprog</g:custom_label_1>
-      <g:custom_label_2>Italiensk</g:custom_label_2>
-      <g:custom_label_4>Brøndby Strand</g:custom_label_4>
-      <g:start_date>2027-02-23T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Brøndby</g:custom_label_3>
-      <g:internal_label>['Brøndby','Taastrup','Brøndby Strand']</g:internal_label>
-    </item>
-<item>
       <g:id>KBO-23148</g:id>
       <g:title><![CDATA[De 3 Kongelige Sopraner i Brøndby]]></g:title>
       <g:description><![CDATA[Oplev De 3 Kongelige Sopraner i Kilden i Brøndby med opera, musicalhits og danske sange. Glæd dig til en festlig koncert med charme og humor.]]></g:description>
@@ -39767,6 +39608,28 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:start_date>2027-02-23T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Foredrag kalender</g:custom_label_3>
       <g:internal_label>['Foredrag kalender','Brøndby']</g:internal_label>
+    </item>
+<item>
+      <g:id>KBO-23333</g:id>
+      <g:title><![CDATA[Italiensk for begyndere]]></g:title>
+      <g:description><![CDATA[Italiensk for begyndere: Start fra bunden og lær italiensk i selskab med med dygtig underviser på hyggeligt hold. Italiensk for begyndere er for dig der ønsker at lære italiensk uden forhåndskendskab til sproget. Du lærer at forstå og bruge enkle italienske udtryk i hverdagen, føre korte samtaler om kendte emner]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/italiensk-for-begyndere-a1?holdnr=23333</g:link>
+      <g:image_link>https://www.fof.dk/media/243h0hdu/30.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1364.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Københavns Omegn</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Sprog &gt; Italiensk</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Sprog</g:custom_label_1>
+      <g:custom_label_2>Italiensk</g:custom_label_2>
+      <g:custom_label_4>Brøndby Strand</g:custom_label_4>
+      <g:start_date>2027-02-23T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Brøndby</g:custom_label_3>
+      <g:internal_label>['Brøndby','Taastrup','Brøndby Strand']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23357</g:id>
@@ -42297,6 +42160,28 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:internal_label>['Egedal','Roskilde','Køge','Greve','Weekend','Smørum']</g:internal_label>
     </item>
 <item>
+      <g:id>KOE-50994</g:id>
+      <g:title><![CDATA[Seniorhøjskole - Ishøj]]></g:title>
+      <g:description><![CDATA[Her får du serveret spændende viden hver uge! Sammen med dit hold får du hver uge serveret et foredrag fra en enormt dygtig og vidende foredragsholder. 2026 giver dig foredrag med Jesper Steinmetz, Johannes Langkilde, Anja C. Andersen. ]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koege-bugt/seniorhoejskolen?holdnr=50994</g:link>
+      <g:image_link>https://www.fof.dk/media/xzijtnj2/seniorhoejskolen-koege-fof-aftenskolen.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>400.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Køge Bugt</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Foredrag, debat og højskoler &gt; Højskoleforløb</g:product_type>
+      <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
+      <g:custom_label_1>Højskoleforløb</g:custom_label_1>
+      <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Ishøj</g:custom_label_4>
+      <g:start_date>2026-11-16T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Solrød</g:custom_label_3>
+      <g:internal_label>['Solrød','Greve','Køge','Egedal','Roskilde','Stevns','Lejre','Ishøj']</g:internal_label>
+    </item>
+<item>
       <g:id>KOE-51977</g:id>
       <g:title><![CDATA[Slow Looking ved Labyrinths af Ibrahim Mahama]]></g:title>
       <g:description><![CDATA[Oplev Slow Looking på MAPS med værker af Ibrahim Mahama. Sænk tempoet, gå tæt på kunstværket og oplev, hvad der viser sig, når du giver dig tid.]]></g:description>
@@ -44246,28 +44131,6 @@ For begyndere med fokus på praktisk brug, værktøjer og gode prompts.]]></g:de
       <g:start_date>2026-10-30T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Kalender - Oktober</g:custom_label_3>
       <g:internal_label>['Kalender - Oktober','Slagelse','Starter snart']</g:internal_label>
-    </item>
-<item>
-      <g:id>SVS-822926</g:id>
-      <g:title><![CDATA[Efterfødselstræning]]></g:title>
-      <g:description><![CDATA[Træning efter fødslen i Slagelse og Ringsted. Genopbyg styrke, stabilitet og bækkenbund efter fødslen. Træn trygt sammen med din baby på et hold hos FOF.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-syd-og-vestsjaelland/traening-efter-foedsel?holdnr=822926</g:link>
-      <g:image_link>https://www.fof.dk/media/l0zeknsx/efterfoedselstraening-slagelse-fof-aftenskolen-02.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>575.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Syd- og Vestsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Efterfødselstræning</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
-      <g:custom_label_2>Efterfødselstræning</g:custom_label_2>
-      <g:custom_label_4>Næstved</g:custom_label_4>
-      <g:start_date>2026-10-30T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Starter snart</g:custom_label_3>
-      <g:internal_label>['Starter snart','Næstved','Kalender - Oktober']</g:internal_label>
     </item>
 <item>
       <g:id>SVS-100226</g:id>
