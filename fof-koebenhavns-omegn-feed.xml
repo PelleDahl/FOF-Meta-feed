@@ -6,50 +6,6 @@
 <description>Meta produktfeed med alle ledige hold fra FOF Københavns Omegn</description>
 <language>da-DK</language>
 <item>
-      <g:id>22352</g:id>
-      <g:title><![CDATA[Spansk for begyndere - fortsættere (A1) - små hold]]></g:title>
-      <g:description><![CDATA[Start din rejse med spansk på et roligt og trygt begynderniveau (A1). Lær simple sætninger, hverdagsudtryk og basisgrammatik hos FOF Københavns Omegn.  Dette spansk kursus for begyndere i København-området er skabt til dig, der vil i gang på en tryg, overskuelig og motiverende måde.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/spansk-for-begyndere-a1?holdnr=22352</g:link>
-      <g:image_link>https://www.fof.dk/media/zt2j3ixy/spansk-2.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1518.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Københavns Omegn</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Sprog &gt; Spansk</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Sprog</g:custom_label_1>
-      <g:custom_label_2>Spansk</g:custom_label_2>
-      <g:custom_label_4>Glostrup</g:custom_label_4>
-      <g:start_date>2026-10-26T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Glostrup</g:custom_label_3>
-      <g:internal_label>['Glostrup','Starter snart','Brøndby','Vallensbæk']</g:internal_label>
-    </item>
-<item>
-      <g:id>21197</g:id>
-      <g:title><![CDATA[Verdens brændpunkter med Simi Jan i Herlev Medborgerhus]]></g:title>
-      <g:description><![CDATA[Inspirerende foredrag i Herlev Medborgerhus med Simi Jan. Oplev stærke historier. Hør om: livet som journalist i verdens brændpunkter, møder med taleban-krigere og civile i konfliktzoner og arbejdet som korrespondent i internationale krigszoner]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/oplev-simi-jan-i-herlev-medborgerhus?holdnr=21197</g:link>
-      <g:image_link>https://www.fof.dk/media/3lligqyx/verdens-braendpunkter-med-simi-jan-i-herlev-medborgerhus.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>190.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Københavns Omegn</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Foredrag, debat og højskoler &gt; Samfund og historie</g:product_type>
-      <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
-      <g:custom_label_1>Samfund og historie</g:custom_label_1>
-      <g:custom_label_2></g:custom_label_2>
-      <g:custom_label_4>Herlev</g:custom_label_4>
-      <g:start_date>2026-10-26T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Herlev</g:custom_label_3>
-      <g:internal_label>['Herlev','Starter snart','Endagskurser']</g:internal_label>
-    </item>
-<item>
       <g:id>22111</g:id>
       <g:title><![CDATA[Din tarm - din sundhed]]></g:title>
       <g:description><![CDATA[Foredrag om tarme med charme. Lær, hvordan tarmens tilstand påvirker helbred, energi og immunforsvar, og få praktiske råd til en sund tarm og forebyggelse af sygdom og træthed.]]></g:description>
@@ -838,8 +794,8 @@
       <g:custom_label_2>Fest- og hverdagsmad</g:custom_label_2>
       <g:custom_label_4>Vallensbæk Strand</g:custom_label_4>
       <g:start_date>2026-11-10T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Vallensbæk</g:custom_label_3>
-      <g:internal_label>['Vallensbæk','Vallensbæk Strand']</g:internal_label>
+      <g:custom_label_3>Starter snart</g:custom_label_3>
+      <g:internal_label>['Starter snart','Vallensbæk','Vallensbæk Strand']</g:internal_label>
     </item>
 <item>
       <g:id>22048</g:id>
@@ -860,8 +816,8 @@
       <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4></g:custom_label_4>
       <g:start_date>2026-11-10T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>København</g:custom_label_3>
-      <g:internal_label>['København']</g:internal_label>
+      <g:custom_label_3>Starter snart</g:custom_label_3>
+      <g:internal_label>['Starter snart','København']</g:internal_label>
     </item>
 <item>
       <g:id>22087</g:id>
@@ -2226,28 +2182,6 @@
       <g:internal_label>['Albertslund','Brøndby','Glostrup','Herlev','Taastrup']</g:internal_label>
     </item>
 <item>
-      <g:id>23601</g:id>
-      <g:title><![CDATA[Ryghold]]></g:title>
-      <g:description><![CDATA[Deltag på vores populære ryghold i Glostrup Medborgerhus. Professionel undervisning, lyse lokaler, gode parkeringsmuligheder og effektiv træning for ryg, balance og bevægelighed.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/rygtraening?holdnr=23601</g:link>
-      <g:image_link>https://www.fof.dk/media/jgylzd4z/yoga-fof-aftenskolen-31.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1455.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Københavns Omegn</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Styrke- og konditionstræning</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Styrke- og konditionstræning</g:custom_label_2>
-      <g:custom_label_4>Glostrup</g:custom_label_4>
-      <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Glostrup</g:custom_label_3>
-      <g:internal_label>['Glostrup']</g:internal_label>
-    </item>
-<item>
       <g:id>23342</g:id>
       <g:title><![CDATA[Tysk for viderekomne]]></g:title>
       <g:description><![CDATA[For dig med solid erfaring i tysk, der vil styrke din flydende tale og forståelse. B2-kurset giver fordybelse, nuanceret sprog og samtaler på højt niveau. Tilmeld dig hos FOF Københavns Omegn.]]></g:description>
@@ -2268,6 +2202,28 @@
       <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Brøndby</g:custom_label_3>
       <g:internal_label>['Brøndby']</g:internal_label>
+    </item>
+<item>
+      <g:id>23601</g:id>
+      <g:title><![CDATA[Ryghold]]></g:title>
+      <g:description><![CDATA[Deltag på vores populære ryghold i Glostrup Medborgerhus. Professionel undervisning, lyse lokaler, gode parkeringsmuligheder og effektiv træning for ryg, balance og bevægelighed.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/rygtraening?holdnr=23601</g:link>
+      <g:image_link>https://www.fof.dk/media/jgylzd4z/yoga-fof-aftenskolen-31.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1455.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Københavns Omegn</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Styrke- og konditionstræning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Styrke- og konditionstræning</g:custom_label_2>
+      <g:custom_label_4>Glostrup</g:custom_label_4>
+      <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Glostrup</g:custom_label_3>
+      <g:internal_label>['Glostrup']</g:internal_label>
     </item>
 <item>
       <g:id>23330</g:id>
@@ -3830,28 +3786,6 @@
       <g:internal_label>['Glostrup']</g:internal_label>
     </item>
 <item>
-      <g:id>33501</g:id>
-      <g:title><![CDATA[Familiedans for børn 2-3 år og voksne]]></g:title>
-      <g:description><![CDATA[Dans, leg og kreativitet for børn fra 2-3 år med en voksen. Udforsk rytmer og bevægelser, og skab små koreografier sammen.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/familiedans?holdnr=33501</g:link>
-      <g:image_link>https://www.fof.dk/media/15bpt1al/familiedans.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1500.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Københavns Omegn</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Familie, børn og unge &gt; Motion, dans og drama</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Familie, børn og unge</g:custom_label_1>
-      <g:custom_label_2>Motion, dans og drama</g:custom_label_2>
-      <g:custom_label_4>Rødovre</g:custom_label_4>
-      <g:start_date>2027-02-09T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Familie</g:custom_label_3>
-      <g:internal_label>['Familie','Rødovre']</g:internal_label>
-    </item>
-<item>
       <g:id>23293</g:id>
       <g:title><![CDATA[Selvkærlig mindfulness – mere nærvær med dig selv  ]]></g:title>
       <g:description><![CDATA[Find mere ro og nærvær med selvkærlig mindfulness i Glostrup. Et 6 ugers forløb for kvinder med meditation, kropskontakt og selvomsorg.]]></g:description>
@@ -3872,6 +3806,28 @@
       <g:start_date>2027-02-09T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Glostrup</g:custom_label_3>
       <g:internal_label>['Glostrup']</g:internal_label>
+    </item>
+<item>
+      <g:id>33501</g:id>
+      <g:title><![CDATA[Familiedans for børn 2-3 år og voksne]]></g:title>
+      <g:description><![CDATA[Dans, leg og kreativitet for børn fra 2-3 år med en voksen. Udforsk rytmer og bevægelser, og skab små koreografier sammen.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/familiedans?holdnr=33501</g:link>
+      <g:image_link>https://www.fof.dk/media/15bpt1al/familiedans.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1500.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Københavns Omegn</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Familie, børn og unge &gt; Motion, dans og drama</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Familie, børn og unge</g:custom_label_1>
+      <g:custom_label_2>Motion, dans og drama</g:custom_label_2>
+      <g:custom_label_4>Rødovre</g:custom_label_4>
+      <g:start_date>2027-02-09T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Familie</g:custom_label_3>
+      <g:internal_label>['Familie','Rødovre']</g:internal_label>
     </item>
 <item>
       <g:id>23031</g:id>
