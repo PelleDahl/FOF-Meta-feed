@@ -739,10 +739,6 @@
     "ogImage": "https://www.fof.dk/media/fkabd3tj/piacallesen_1200x1200-fof-aarhus.jpg?width=1200",
     "fetchedAt": "2026-10-20T13:06:02.193Z"
   },
-  "https://www.fof.dk/aftenskolen/fof-aarhus/plida-b1-payment-for-exam-nov-18-2026": {
-    "ogImage": "https://www.fof.dk/media/irhlqemg/italiensk-plida-aarhus-fof-aftenskolen-7.jpg?width=1200",
-    "fetchedAt": "2026-10-20T13:05:56.567Z"
-  },
   "https://www.fof.dk/aftenskolen/fof-aarhus/plida-b2-payment-for-exam-nov-19-2026": {
     "ogImage": "https://www.fof.dk/media/msaj1rjg/italiensk-plida-aarhus-fof-aftenskolen-6.jpg?width=1200",
     "fetchedAt": "2026-10-20T13:05:56.782Z"
@@ -1279,6 +1275,10 @@
     "ogImage": "https://www.fof.dk/media/tmshanwl/kanalrundfart-fofkn-aftenskolen-ture-ns.jpg?width=1200",
     "fetchedAt": "2026-10-20T13:07:01.765Z"
   },
+  "https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/3d-smykkedesign-og-stoebning": {
+    "ogImage": "https://www.fof.dk/media/0z2bzyp5/smykkekursus-fofkn-aftenskolen-kreative-kurser-5016-1.jpg?width=1200",
+    "fetchedAt": "2026-10-26T09:55:37.119Z"
+  },
   "https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/aandedraettet-din-sundhed-workshop": {
     "ogImage": "https://www.fof.dk/media/kivj3zvb/smerteha-ndtering-fofkn-aftenskolen-motion-og-sundhed-ns-1.jpg?width=1200",
     "fetchedAt": "2026-10-20T13:06:23.907Z"
@@ -1634,10 +1634,6 @@
   "https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/din-sjael-dit-liv": {
     "ogImage": "https://www.fof.dk/media/1mdhyge2/din_sjael_dit_liv.jpg?width=1200",
     "fetchedAt": "2026-10-20T13:06:19.812Z"
-  },
-  "https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/din-tarm-din-sundhed": {
-    "ogImage": "https://www.fof.dk/media/1robklrs/din_tarm_din_sundhed.jpg?width=1200",
-    "fetchedAt": "2026-10-20T13:06:27.227Z"
   },
   "https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/din-vigtige-vrede": {
     "ogImage": "https://www.fof.dk/media/3hahm1r4/din_vigtige_vrede.jpg?width=1200",
@@ -2310,10 +2306,6 @@
   "https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/mental-oprydning-faa-ro-i-hovedet": {
     "ogImage": "https://www.fof.dk/media/yanfjf0a/ben-white-dkebyzgxzgk-unsplash.jpg?width=1200",
     "fetchedAt": "2026-10-20T13:06:31.900Z"
-  },
-  "https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/mere-glaede-i-hverdagen": {
-    "ogImage": "https://www.fof.dk/media/kmcduagh/frihed-fofkn-aftenskolen-foredrag.jpg?width=1200",
-    "fetchedAt": "2026-10-20T13:06:24.000Z"
   },
   "https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/metropolzonen-danmarks-eneste-urbane-hotspot": {
     "ogImage": "https://www.fof.dk/media/4iijzalh/arkitektur-koebenhavn-fofkn-aftenskolen-ture.jpg?width=1200",
@@ -3411,10 +3403,6 @@
     "ogImage": "https://www.fof.dk/media/qswlsnvy/pandekagehuse.png?width=1200",
     "fetchedAt": "2026-10-20T13:07:11.813Z"
   },
-  "https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/papirklip-i-broendby": {
-    "ogImage": "https://www.fof.dk/media/df0bqnjd/papirkunst-med-torben-jarlstroem-clausen.png?width=1200",
-    "fetchedAt": "2026-10-20T13:07:08.205Z"
-  },
   "https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/paris-i-juletiden-magi-og-juleoplevelser-i-byernes-by": {
     "ogImage": "https://www.fof.dk/media/5mkpxpsp/paris.png?width=1200",
     "fetchedAt": "2026-10-20T13:07:11.162Z"
@@ -3642,10 +3630,6 @@
   "https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/vegetarisk-3-retters-menu": {
     "ogImage": "https://www.fof.dk/media/olvfsyl1/vegetarisk-mad.png?width=1200",
     "fetchedAt": "2026-10-20T13:07:07.521Z"
-  },
-  "https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/verdenssmage-i-hverdagen-sund-og-nem-mad-for-hele-familien": {
-    "ogImage": "https://www.fof.dk/media/tv4lxkem/verdenssmage-i-hverdagen.png?width=1200",
-    "fetchedAt": "2026-10-20T13:07:07.696Z"
   },
   "https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/yin-yoga": {
     "ogImage": "https://www.fof.dk/media/jgylzd4z/yoga-fof-aftenskolen-31.jpg?width=1200",
@@ -4215,10 +4199,6 @@
     "ogImage": "https://www.fof.dk/media/lkdjc2nn/efterfodsel-mor-med-baby-umbraco-kvadrat.jpg?width=1200",
     "fetchedAt": "2026-10-20T13:05:04.779Z"
   },
-  "https://www.fof.dk/aftenskolen/fof-randers-favrskov-mariagerfjord-viborg/efteraarssankning-og-madlavning": {
-    "ogImage": "https://www.fof.dk/media/4tcn0qpl/sanketur-med-kurve-i-skoven.jpg?width=1200",
-    "fetchedAt": "2026-10-20T13:05:03.158Z"
-  },
   "https://www.fof.dk/aftenskolen/fof-randers-favrskov-mariagerfjord-viborg/faerdselsrelateret-foerstehjaelp": {
     "ogImage": "https://www.fof.dk/media/5vvf254l/faerdselsrelateret-1-hjaelp.jpg?width=1200",
     "fetchedAt": "2026-10-20T13:05:03.757Z"
@@ -4238,10 +4218,6 @@
   "https://www.fof.dk/aftenskolen/fof-randers-favrskov-mariagerfjord-viborg/giv-os-sommerfuglene-tilbage": {
     "ogImage": "https://www.fof.dk/media/vipernaj/skovperlemorssommerfugle-foto-af-michael-stoltze.jpg?width=1200",
     "fetchedAt": "2026-10-20T13:05:03.791Z"
-  },
-  "https://www.fof.dk/aftenskolen/fof-randers-favrskov-mariagerfjord-viborg/grafik": {
-    "ogImage": "https://www.fof.dk/media/cwjlczlc/grafik-kirsebaerblomst-umbarco.jpeg?width=1200",
-    "fetchedAt": "2026-10-20T13:05:03.037Z"
   },
   "https://www.fof.dk/aftenskolen/fof-randers-favrskov-mariagerfjord-viborg/graviditetstraening": {
     "ogImage": "https://www.fof.dk/media/1uydo12x/gravid-traening-siddende-2-kvinder-umbraco-kvadrat.jpg?width=1200",
@@ -4314,6 +4290,10 @@
   "https://www.fof.dk/aftenskolen/fof-randers-favrskov-mariagerfjord-viborg/ryd-op-og-skab-ro-i-dit-hjem": {
     "ogImage": "https://www.fof.dk/media/5eqlgjyf/ryd-op-i-stue-med-rod.jpg?width=1200",
     "fetchedAt": "2026-10-21T14:00:20.878Z"
+  },
+  "https://www.fof.dk/aftenskolen/fof-randers-favrskov-mariagerfjord-viborg/sansemotorik": {
+    "ogImage": "https://www.fof.dk/media/k2fbyp1f/babymotorik-med-sarah-02.jpg?width=1200",
+    "fetchedAt": "2026-10-26T09:55:28.739Z"
   },
   "https://www.fof.dk/aftenskolen/fof-randers-favrskov-mariagerfjord-viborg/selvforsvar-for-kvinder": {
     "ogImage": "https://www.fof.dk/media/stxjj14w/selfdefense1.jpeg?width=1200",
@@ -4558,10 +4538,6 @@
   "https://www.fof.dk/aftenskolen/fof-soenderjylland/pileflet": {
     "ogImage": "https://www.fof.dk/media/dnint24j/pileflet-kurve.jpg?width=1200",
     "fetchedAt": "2026-10-20T13:05:26.551Z"
-  },
-  "https://www.fof.dk/aftenskolen/fof-soenderjylland/qi-gong": {
-    "ogImage": "https://www.fof.dk/media/azffpgod/qi-gong-2.jpg?width=1200",
-    "fetchedAt": "2026-10-20T13:05:26.864Z"
   },
   "https://www.fof.dk/aftenskolen/fof-soenderjylland/qi-gong-for-alle": {
     "ogImage": "https://www.fof.dk/media/sxsk3jqy/yoga-pilates2.jpg?width=1200",
