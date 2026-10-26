@@ -133,28 +133,6 @@
       <g:internal_label>['Skanderborg']</g:internal_label>
     </item>
 <item>
-      <g:id>SOJ-265272</g:id>
-      <g:title><![CDATA[Plantebaseret mad - verden rundt ]]></g:title>
-      <g:description><![CDATA[Lær plantebaseret madlavning i Horsens. Få inspiration til sunde, proteinrige måltider og smag retter fra hele verden. Tilmeld dig i dag.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-sydoestjylland/plantebaseret-mad-verden-rundt?holdnr=265272</g:link>
-      <g:image_link>https://www.fof.dk/media/o1vdqmpo/green-bowls-good-vibes-1.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>375.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Sydøstjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Madlavning og drikkevarer &gt; Vegetarisk og vegansk</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
-      <g:custom_label_2>Vegetarisk og vegansk</g:custom_label_2>
-      <g:custom_label_4>Horsens</g:custom_label_4>
-      <g:start_date>2026-10-29T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Workshops</g:custom_label_3>
-      <g:internal_label>['Workshops','Horsens']</g:internal_label>
-    </item>
-<item>
       <g:id>SOJ-265262</g:id>
       <g:title><![CDATA[Mad med bælgfrugter – for begyndere]]></g:title>
       <g:description><![CDATA[Lær at lave mad med bælgfrugter i Horsens og Skanderborg. Madkursus med fokus på grøn, sund og bæredygtig madlavning – for begyndere.]]></g:description>
@@ -175,28 +153,6 @@
       <g:start_date>2026-10-31T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Kulturpas</g:custom_label_3>
       <g:internal_label>['Kulturpas','Gaveidéer','Horsens']</g:internal_label>
-    </item>
-<item>
-      <g:id>SOJ-265240</g:id>
-      <g:title><![CDATA[Croquis - hurtig tegning af model]]></g:title>
-      <g:description><![CDATA[Lær croquis og tegn efter levende model hos FOF Aftenskolen i Horsens. Et kreativt tegnekursus, hvor du træner øjet, hånd og frihed i stregerne. ]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-sydoestjylland/croquis-hurtigtegning-af-model?holdnr=265240</g:link>
-      <g:image_link>https://www.fof.dk/media/irhkjvma/design-uden-navn-23.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>575.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Sydøstjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Kreative kurser &gt; Tegnekurser</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Kreative kurser</g:custom_label_1>
-      <g:custom_label_2>Tegnekurser</g:custom_label_2>
-      <g:custom_label_4>Horsens</g:custom_label_4>
-      <g:start_date>2026-10-31T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Workshops</g:custom_label_3>
-      <g:internal_label>['Workshops','Horsens']</g:internal_label>
     </item>
 <item>
       <g:id>SOJ-266262</g:id>
@@ -972,6 +928,28 @@
       <g:start_date>2026-11-26T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Nyhed</g:custom_label_3>
       <g:internal_label>['Nyhed','Fængselsmuseet','Horsens']</g:internal_label>
+    </item>
+<item>
+      <g:id>SOJ-266509</g:id>
+      <g:title><![CDATA[Mindful MediYoga - Hensyn]]></g:title>
+      <g:description><![CDATA[Oplev Mindful MediYoga i Skanderborg med fokus på mindfulness, åndedræt og afspænding. Blid yoga mod stress, uro og spændinger.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydoestjylland/mindful-mediyoga-hensyn?holdnr=266509</g:link>
+      <g:image_link>https://www.fof.dk/media/ezlalcqn/mindful-medi-yoga.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>295.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydøstjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Yoga</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Skanderborg</g:custom_label_4>
+      <g:start_date>2026-11-26T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Nyhed</g:custom_label_3>
+      <g:internal_label>['Nyhed','Skanderborg']</g:internal_label>
     </item>
 <item>
       <g:id>SOJ-265229</g:id>

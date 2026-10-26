@@ -24,8 +24,8 @@
       <g:custom_label_2>Fødselsforberedelse</g:custom_label_2>
       <g:custom_label_4>Aarhus</g:custom_label_4>
       <g:start_date>2026-10-27T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Korte kurser</g:custom_label_3>
-      <g:internal_label>['Korte kurser','Graviditet og barsel','Aarhus C']</g:internal_label>
+      <g:custom_label_3>Starter om &lt; 14 dage</g:custom_label_3>
+      <g:internal_label>['Starter om &lt; 14 dage','Korte kurser','Aarhus C']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-423908</g:id>
@@ -46,8 +46,8 @@
       <g:custom_label_2>Fest- og hverdagsmad</g:custom_label_2>
       <g:custom_label_4>Aarhus</g:custom_label_4>
       <g:start_date>2026-10-27T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Korte kurser</g:custom_label_3>
-      <g:internal_label>['Korte kurser','Aarhus C']</g:internal_label>
+      <g:custom_label_3>Starter om &lt; 14 dage</g:custom_label_3>
+      <g:internal_label>['Starter om &lt; 14 dage','Korte kurser','Aarhus C']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-423565</g:id>
@@ -68,8 +68,8 @@
       <g:custom_label_2>Asiatisk mad</g:custom_label_2>
       <g:custom_label_4>Aarhus</g:custom_label_4>
       <g:start_date>2026-10-28T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Korte kurser</g:custom_label_3>
-      <g:internal_label>['Korte kurser','Verdenskøkkenet','In English','Aarhus C']</g:internal_label>
+      <g:custom_label_3>Starter om &lt; 14 dage</g:custom_label_3>
+      <g:internal_label>['Starter om &lt; 14 dage','Korte kurser','In English','Aarhus C']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-426919</g:id>
@@ -90,8 +90,8 @@
       <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4>Aarhus</g:custom_label_4>
       <g:start_date>2026-10-28T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Foredrag</g:custom_label_3>
-      <g:internal_label>['Foredrag','Samfund og historie','Aarhus C']</g:internal_label>
+      <g:custom_label_3>Starter om &lt; 14 dage</g:custom_label_3>
+      <g:internal_label>['Starter om &lt; 14 dage','Foredrag','Samfund og historie','Aarhus C']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-425072</g:id>
@@ -112,8 +112,8 @@
       <g:custom_label_2>Fødselsforberedelse</g:custom_label_2>
       <g:custom_label_4>Åbyhøj</g:custom_label_4>
       <g:start_date>2026-10-28T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Korte kurser</g:custom_label_3>
-      <g:internal_label>['Korte kurser','Graviditet og barsel','Åbyhøj']</g:internal_label>
+      <g:custom_label_3>Starter om &lt; 14 dage</g:custom_label_3>
+      <g:internal_label>['Starter om &lt; 14 dage','Korte kurser','Åbyhøj']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-423846</g:id>
@@ -134,7 +134,8 @@
       <g:custom_label_2>Fest- og hverdagsmad</g:custom_label_2>
       <g:custom_label_4>Aarhus</g:custom_label_4>
       <g:start_date>2026-10-29T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Aarhus C']</g:internal_label>
+      <g:custom_label_3>Starter om &lt; 14 dage</g:custom_label_3>
+      <g:internal_label>['Starter om &lt; 14 dage','Aarhus C']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-428933</g:id>
@@ -155,8 +156,8 @@
       <g:custom_label_2>Førstehjælp</g:custom_label_2>
       <g:custom_label_4>Åbyhøj</g:custom_label_4>
       <g:start_date>2026-10-29T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Korte kurser</g:custom_label_3>
-      <g:internal_label>['Korte kurser','Almen førstehjælp','Graviditet og barsel','Åbyhøj']</g:internal_label>
+      <g:custom_label_3>Starter om &lt; 14 dage</g:custom_label_3>
+      <g:internal_label>['Starter om &lt; 14 dage','Korte kurser','Åbyhøj']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-425063</g:id>
@@ -177,8 +178,8 @@
       <g:custom_label_2>Fødselsforberedelse</g:custom_label_2>
       <g:custom_label_4>Aarhus</g:custom_label_4>
       <g:start_date>2026-10-31T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>In English</g:custom_label_3>
-      <g:internal_label>['In English','Graviditet og barsel','Aarhus C']</g:internal_label>
+      <g:custom_label_3>Starter om &lt; 14 dage</g:custom_label_3>
+      <g:internal_label>['Starter om &lt; 14 dage','In English','Aarhus C']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-423574</g:id>
@@ -199,8 +200,8 @@
       <g:custom_label_2>Asiatisk mad</g:custom_label_2>
       <g:custom_label_4>Aarhus</g:custom_label_4>
       <g:start_date>2026-10-31T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Verdenskøkkenet</g:custom_label_3>
-      <g:internal_label>['Verdenskøkkenet','Korte kurser','Aarhus C']</g:internal_label>
+      <g:custom_label_3>Starter om &lt; 14 dage</g:custom_label_3>
+      <g:internal_label>['Starter om &lt; 14 dage','Korte kurser','Aarhus C']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-421696</g:id>
@@ -221,8 +222,8 @@
       <g:custom_label_2>Fransk</g:custom_label_2>
       <g:custom_label_4>Aarhus</g:custom_label_4>
       <g:start_date>2026-11-02T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>DELF/DALF</g:custom_label_3>
-      <g:internal_label>['DELF/DALF','Fransk','Aarhus C']</g:internal_label>
+      <g:custom_label_3>Starter om &lt; 14 dage</g:custom_label_3>
+      <g:internal_label>['Starter om &lt; 14 dage','DELF/DALF','Aarhus C']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-423839</g:id>
@@ -243,7 +244,8 @@
       <g:custom_label_2>Fest- og hverdagsmad</g:custom_label_2>
       <g:custom_label_4>Aarhus</g:custom_label_4>
       <g:start_date>2026-11-02T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Aarhus C']</g:internal_label>
+      <g:custom_label_3>Starter om &lt; 14 dage</g:custom_label_3>
+      <g:internal_label>['Starter om &lt; 14 dage','Aarhus C']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-426989</g:id>
@@ -264,8 +266,8 @@
       <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4>Aarhus</g:custom_label_4>
       <g:start_date>2026-11-02T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Foredrag</g:custom_label_3>
-      <g:internal_label>['Foredrag','Sundhed og eksistens','Aarhus C']</g:internal_label>
+      <g:custom_label_3>Starter om &lt; 14 dage</g:custom_label_3>
+      <g:internal_label>['Starter om &lt; 14 dage','Foredrag','Sundhed og eksistens','Aarhus C']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-426982</g:id>
@@ -286,8 +288,8 @@
       <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4>Aarhus</g:custom_label_4>
       <g:start_date>2026-11-03T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Foredrag</g:custom_label_3>
-      <g:internal_label>['Foredrag','Samfund og historie','Aarhus C']</g:internal_label>
+      <g:custom_label_3>Starter om &lt; 14 dage</g:custom_label_3>
+      <g:internal_label>['Starter om &lt; 14 dage','Foredrag','Samfund og historie','Aarhus C']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-425087</g:id>
@@ -308,8 +310,8 @@
       <g:custom_label_2>Motion for gravide</g:custom_label_2>
       <g:custom_label_4>Aarhus</g:custom_label_4>
       <g:start_date>2026-11-03T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Yoga</g:custom_label_3>
-      <g:internal_label>['Yoga','Graviditet og barsel','Aarhus C']</g:internal_label>
+      <g:custom_label_3>Starter om &lt; 14 dage</g:custom_label_3>
+      <g:internal_label>['Starter om &lt; 14 dage','Aarhus C']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-428861</g:id>
@@ -330,8 +332,8 @@
       <g:custom_label_2>Førstehjælp</g:custom_label_2>
       <g:custom_label_4>Åbyhøj</g:custom_label_4>
       <g:start_date>2026-11-03T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Førstehjælp til kørekort</g:custom_label_3>
-      <g:internal_label>['Førstehjælp til kørekort','Korte kurser','Åbyhøj']</g:internal_label>
+      <g:custom_label_3>Starter om &lt; 14 dage</g:custom_label_3>
+      <g:internal_label>['Starter om &lt; 14 dage','Førstehjælp til kørekort','Korte kurser','Åbyhøj']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-428972</g:id>
@@ -353,7 +355,7 @@
       <g:custom_label_4>Åbyhøj</g:custom_label_4>
       <g:start_date>2026-11-03T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Korte kurser</g:custom_label_3>
-      <g:internal_label>['Korte kurser','Almen førstehjælp','Åbyhøj']</g:internal_label>
+      <g:internal_label>['Korte kurser','Åbyhøj']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-426982A</g:id>
@@ -396,8 +398,8 @@
       <g:custom_label_2>Fest- og hverdagsmad</g:custom_label_2>
       <g:custom_label_4>Aarhus</g:custom_label_4>
       <g:start_date>2026-11-03T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Korte kurser</g:custom_label_3>
-      <g:internal_label>['Korte kurser','Aarhus C']</g:internal_label>
+      <g:custom_label_3>Starter om &lt; 14 dage</g:custom_label_3>
+      <g:internal_label>['Starter om &lt; 14 dage','Korte kurser','Aarhus C']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-423964</g:id>
@@ -418,7 +420,8 @@
       <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4>Aarhus</g:custom_label_4>
       <g:start_date>2026-11-03T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Aarhus C']</g:internal_label>
+      <g:custom_label_3>Starter om &lt; 14 dage</g:custom_label_3>
+      <g:internal_label>['Starter om &lt; 14 dage','Aarhus C']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-425012</g:id>
@@ -439,8 +442,8 @@
       <g:custom_label_2>Fødselsforberedelse</g:custom_label_2>
       <g:custom_label_4>Åbyhøj</g:custom_label_4>
       <g:start_date>2026-11-04T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Korte kurser</g:custom_label_3>
-      <g:internal_label>['Korte kurser','Graviditet og barsel','Åbyhøj']</g:internal_label>
+      <g:custom_label_3>Starter om &lt; 14 dage</g:custom_label_3>
+      <g:internal_label>['Starter om &lt; 14 dage','Korte kurser','Åbyhøj']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-425151</g:id>
@@ -461,8 +464,8 @@
       <g:custom_label_2>Efterfødselstræning</g:custom_label_2>
       <g:custom_label_4>Aarhus</g:custom_label_4>
       <g:start_date>2026-11-04T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Graviditet og barsel</g:custom_label_3>
-      <g:internal_label>['Graviditet og barsel','Aarhus C']</g:internal_label>
+      <g:custom_label_3>Starter om &lt; 14 dage</g:custom_label_3>
+      <g:internal_label>['Starter om &lt; 14 dage','Aarhus C']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-426901</g:id>
@@ -483,8 +486,8 @@
       <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4>Aarhus</g:custom_label_4>
       <g:start_date>2026-11-04T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Foredrag</g:custom_label_3>
-      <g:internal_label>['Foredrag','True crime','Aarhus C']</g:internal_label>
+      <g:custom_label_3>Starter om &lt; 14 dage</g:custom_label_3>
+      <g:internal_label>['Starter om &lt; 14 dage','Foredrag','True crime','Aarhus C']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-426901A</g:id>
@@ -527,8 +530,8 @@
       <g:custom_label_2>Verdenskøkkenet</g:custom_label_2>
       <g:custom_label_4>Aarhus</g:custom_label_4>
       <g:start_date>2026-11-04T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Verdenskøkkenet</g:custom_label_3>
-      <g:internal_label>['Verdenskøkkenet','Aarhus C']</g:internal_label>
+      <g:custom_label_3>Starter om &lt; 14 dage</g:custom_label_3>
+      <g:internal_label>['Starter om &lt; 14 dage','Aarhus C']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-426926</g:id>
@@ -549,8 +552,8 @@
       <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4>Aarhus</g:custom_label_4>
       <g:start_date>2026-11-05T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Foredrag</g:custom_label_3>
-      <g:internal_label>['Foredrag','Samfund og historie','Aarhus C']</g:internal_label>
+      <g:custom_label_3>Starter om &lt; 14 dage</g:custom_label_3>
+      <g:internal_label>['Starter om &lt; 14 dage','Foredrag','Samfund og historie','Aarhus C']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-423812</g:id>
@@ -571,8 +574,8 @@
       <g:custom_label_2>Aktiviteter med baby</g:custom_label_2>
       <g:custom_label_4>Aarhus</g:custom_label_4>
       <g:start_date>2026-11-05T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Korte kurser</g:custom_label_3>
-      <g:internal_label>['Korte kurser','Graviditet og barsel','Aarhus C']</g:internal_label>
+      <g:custom_label_3>Starter om &lt; 14 dage</g:custom_label_3>
+      <g:internal_label>['Starter om &lt; 14 dage','Korte kurser','Aarhus C']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-422905</g:id>
@@ -593,7 +596,8 @@
       <g:custom_label_2>Håndværk og kunsthåndværk</g:custom_label_2>
       <g:custom_label_4>Åbyhøj</g:custom_label_4>
       <g:start_date>2026-11-05T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Åbyhøj']</g:internal_label>
+      <g:custom_label_3>Starter om &lt; 14 dage</g:custom_label_3>
+      <g:internal_label>['Starter om &lt; 14 dage','Åbyhøj']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-421695</g:id>
@@ -614,8 +618,8 @@
       <g:custom_label_2>Fransk</g:custom_label_2>
       <g:custom_label_4>Aarhus</g:custom_label_4>
       <g:start_date>2026-11-05T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>DELF/DALF</g:custom_label_3>
-      <g:internal_label>['DELF/DALF','Fransk','Aarhus C']</g:internal_label>
+      <g:custom_label_3>Starter om &lt; 14 dage</g:custom_label_3>
+      <g:internal_label>['Starter om &lt; 14 dage','DELF/DALF','Aarhus C']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-426078</g:id>
@@ -637,8 +641,8 @@
       <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4>Aarhus</g:custom_label_4>
       <g:start_date>2026-11-06T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Højskole</g:custom_label_3>
-      <g:internal_label>['Højskole','Foredrag','Aarhus C']</g:internal_label>
+      <g:custom_label_3>Starter om &lt; 14 dage</g:custom_label_3>
+      <g:internal_label>['Starter om &lt; 14 dage','Højskole','Foredrag','Aarhus C']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-422122</g:id>
@@ -659,8 +663,8 @@
       <g:custom_label_2>Tegnekurser</g:custom_label_2>
       <g:custom_label_4>Åbyhøj</g:custom_label_4>
       <g:start_date>2026-11-06T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Tegnekurser</g:custom_label_3>
-      <g:internal_label>['Tegnekurser','Åbyhøj']</g:internal_label>
+      <g:custom_label_3>Starter om &lt; 14 dage</g:custom_label_3>
+      <g:internal_label>['Starter om &lt; 14 dage','Åbyhøj']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-423617</g:id>
@@ -681,8 +685,8 @@
       <g:custom_label_2>Asiatisk mad</g:custom_label_2>
       <g:custom_label_4>Lystrup</g:custom_label_4>
       <g:start_date>2026-11-07T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Verdenskøkkenet</g:custom_label_3>
-      <g:internal_label>['Verdenskøkkenet','Korte kurser','Lystrup']</g:internal_label>
+      <g:custom_label_3>Starter om &lt; 14 dage</g:custom_label_3>
+      <g:internal_label>['Starter om &lt; 14 dage','Korte kurser','Lystrup']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-423800</g:id>
@@ -703,8 +707,8 @@
       <g:custom_label_2>Drikkevarer</g:custom_label_2>
       <g:custom_label_4>Aarhus</g:custom_label_4>
       <g:start_date>2026-11-07T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Korte kurser</g:custom_label_3>
-      <g:internal_label>['Korte kurser','Aarhus V']</g:internal_label>
+      <g:custom_label_3>Starter om &lt; 14 dage</g:custom_label_3>
+      <g:internal_label>['Starter om &lt; 14 dage','Korte kurser','Aarhus V']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-422833</g:id>
@@ -725,8 +729,8 @@
       <g:custom_label_2>Hjemmeside og it-programmer</g:custom_label_2>
       <g:custom_label_4>Aarhus</g:custom_label_4>
       <g:start_date>2026-11-07T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Korte kurser</g:custom_label_3>
-      <g:internal_label>['Korte kurser','Aarhus N']</g:internal_label>
+      <g:custom_label_3>Starter om &lt; 14 dage</g:custom_label_3>
+      <g:internal_label>['Starter om &lt; 14 dage','Korte kurser','Aarhus N']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-422914</g:id>
@@ -747,7 +751,8 @@
       <g:custom_label_2>Håndværk og kunsthåndværk</g:custom_label_2>
       <g:custom_label_4>Aarhus</g:custom_label_4>
       <g:start_date>2026-11-07T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Aarhus C']</g:internal_label>
+      <g:custom_label_3>Starter om &lt; 14 dage</g:custom_label_3>
+      <g:internal_label>['Starter om &lt; 14 dage','Aarhus C']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-422165</g:id>
@@ -768,8 +773,8 @@
       <g:custom_label_2>Malekurser</g:custom_label_2>
       <g:custom_label_4>Åbyhøj</g:custom_label_4>
       <g:start_date>2026-11-07T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Malekurser og akvarel</g:custom_label_3>
-      <g:internal_label>['Malekurser og akvarel','Korte kurser','Åbyhøj']</g:internal_label>
+      <g:custom_label_3>Starter om &lt; 14 dage</g:custom_label_3>
+      <g:internal_label>['Starter om &lt; 14 dage','Korte kurser','Åbyhøj']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-423213</g:id>
@@ -790,8 +795,8 @@
       <g:custom_label_2>Håndarbejde</g:custom_label_2>
       <g:custom_label_4>Aarhus</g:custom_label_4>
       <g:start_date>2026-11-07T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Korte kurser</g:custom_label_3>
-      <g:internal_label>['Korte kurser','Håndarbejdskurser','Aarhus C']</g:internal_label>
+      <g:custom_label_3>Starter om &lt; 14 dage</g:custom_label_3>
+      <g:internal_label>['Starter om &lt; 14 dage','Korte kurser','Aarhus C']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-423219</g:id>
@@ -812,8 +817,8 @@
       <g:custom_label_2>Håndarbejde</g:custom_label_2>
       <g:custom_label_4>Aarhus</g:custom_label_4>
       <g:start_date>2026-11-07T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Håndarbejdskurser</g:custom_label_3>
-      <g:internal_label>['Håndarbejdskurser','Korte kurser','Aarhus C']</g:internal_label>
+      <g:custom_label_3>Starter om &lt; 14 dage</g:custom_label_3>
+      <g:internal_label>['Starter om &lt; 14 dage','Korte kurser','Aarhus C']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-423627</g:id>
@@ -834,8 +839,8 @@
       <g:custom_label_2>Vegetarisk og vegansk</g:custom_label_2>
       <g:custom_label_4>Aarhus</g:custom_label_4>
       <g:start_date>2026-11-08T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Korte kurser</g:custom_label_3>
-      <g:internal_label>['Korte kurser','Aarhus C']</g:internal_label>
+      <g:custom_label_3>Starter om &lt; 14 dage</g:custom_label_3>
+      <g:internal_label>['Starter om &lt; 14 dage','Korte kurser','Aarhus C']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-423212</g:id>
@@ -856,8 +861,8 @@
       <g:custom_label_2>Håndarbejde</g:custom_label_2>
       <g:custom_label_4>Aarhus</g:custom_label_4>
       <g:start_date>2026-11-08T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Håndarbejdskurser</g:custom_label_3>
-      <g:internal_label>['Håndarbejdskurser','Korte kurser','Aarhus C']</g:internal_label>
+      <g:custom_label_3>Starter om &lt; 14 dage</g:custom_label_3>
+      <g:internal_label>['Starter om &lt; 14 dage','Korte kurser','Aarhus C']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-423590</g:id>
@@ -878,8 +883,8 @@
       <g:custom_label_2>Vegetarisk og vegansk</g:custom_label_2>
       <g:custom_label_4>Aarhus</g:custom_label_4>
       <g:start_date>2026-11-09T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Korte kurser</g:custom_label_3>
-      <g:internal_label>['Korte kurser','Aarhus C']</g:internal_label>
+      <g:custom_label_3>Starter om &lt; 14 dage</g:custom_label_3>
+      <g:internal_label>['Starter om &lt; 14 dage','Korte kurser','Aarhus C']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-422803</g:id>
@@ -900,8 +905,8 @@
       <g:custom_label_2>Kunstig intelligens - AI</g:custom_label_2>
       <g:custom_label_4>Aarhus</g:custom_label_4>
       <g:start_date>2026-11-09T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Korte kurser</g:custom_label_3>
-      <g:internal_label>['Korte kurser','Aarhus C']</g:internal_label>
+      <g:custom_label_3>Starter om &lt; 14 dage</g:custom_label_3>
+      <g:internal_label>['Starter om &lt; 14 dage','Korte kurser','Aarhus C']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-424013</g:id>
@@ -922,7 +927,8 @@
       <g:custom_label_2>Sang og stemmetræning</g:custom_label_2>
       <g:custom_label_4>Åbyhøj</g:custom_label_4>
       <g:start_date>2026-11-09T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Åbyhøj']</g:internal_label>
+      <g:custom_label_3>Starter om &lt; 14 dage</g:custom_label_3>
+      <g:internal_label>['Starter om &lt; 14 dage','Åbyhøj']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-426927</g:id>
@@ -943,8 +949,8 @@
       <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4>Aarhus</g:custom_label_4>
       <g:start_date>2026-11-09T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Foredrag</g:custom_label_3>
-      <g:internal_label>['Foredrag','Musik og koncerter','Aarhus C']</g:internal_label>
+      <g:custom_label_3>Starter om &lt; 14 dage</g:custom_label_3>
+      <g:internal_label>['Starter om &lt; 14 dage','Foredrag','Musik og koncerter','Aarhus C']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-424015</g:id>
@@ -965,11 +971,12 @@
       <g:custom_label_2>Sang og stemmetræning</g:custom_label_2>
       <g:custom_label_4>Åbyhøj</g:custom_label_4>
       <g:start_date>2026-11-09T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Åbyhøj']</g:internal_label>
+      <g:custom_label_3>Starter om &lt; 14 dage</g:custom_label_3>
+      <g:internal_label>['Starter om &lt; 14 dage','Åbyhøj']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-426965</g:id>
-      <g:title><![CDATA[Marianne Vihøj: Kvalitetssikring i uddannelse - hvor kom den idé fra?]]></g:title>
+      <g:title><![CDATA[Marianne Vihøj: Kvalitetssikring i uddannelse]]></g:title>
       <g:description><![CDATA[Oplev et aktuelt foredrag i Aarhus med Marianne Vihøj om kvalitetssikring i uddannelse, skolereformen og hvordan kvalitetsbegrebet har udviklet sig fra industrien til folkeskolen.]]></g:description>
       <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/marianne-vihoej-kvalitetssikring-i-uddannelse-hvor-kom-den-ide-fra?holdnr=426965</g:link>
       <g:image_link>https://www.fof.dk/media/y0gj1t4v/m-vihoej-foto-david-binzer-sdu_1200x1200-fof-aarhus.jpg?width=1200</g:image_link>
@@ -986,8 +993,8 @@
       <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4>Aarhus</g:custom_label_4>
       <g:start_date>2026-11-10T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Samfund og historie</g:custom_label_3>
-      <g:internal_label>['Samfund og historie','Foredrag','Aarhus C']</g:internal_label>
+      <g:custom_label_3>Starter om &lt; 14 dage</g:custom_label_3>
+      <g:internal_label>['Starter om &lt; 14 dage','Samfund og historie','Foredrag','Aarhus C']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-428935</g:id>
@@ -1008,8 +1015,8 @@
       <g:custom_label_2>Førstehjælp</g:custom_label_2>
       <g:custom_label_4>Åbyhøj</g:custom_label_4>
       <g:start_date>2026-11-10T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Korte kurser</g:custom_label_3>
-      <g:internal_label>['Korte kurser','Almen førstehjælp','Graviditet og barsel','Åbyhøj']</g:internal_label>
+      <g:custom_label_3>Starter om &lt; 14 dage</g:custom_label_3>
+      <g:internal_label>['Starter om &lt; 14 dage','Korte kurser','Åbyhøj']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-424019</g:id>
@@ -1030,7 +1037,8 @@
       <g:custom_label_2>Sang og stemmetræning</g:custom_label_2>
       <g:custom_label_4>Åbyhøj</g:custom_label_4>
       <g:start_date>2026-11-10T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Åbyhøj']</g:internal_label>
+      <g:custom_label_3>Starter om &lt; 14 dage</g:custom_label_3>
+      <g:internal_label>['Starter om &lt; 14 dage','Åbyhøj']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-423910</g:id>
@@ -1051,8 +1059,8 @@
       <g:custom_label_2>Fest- og hverdagsmad</g:custom_label_2>
       <g:custom_label_4>Aarhus</g:custom_label_4>
       <g:start_date>2026-11-10T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Korte kurser</g:custom_label_3>
-      <g:internal_label>['Korte kurser','Aarhus C']</g:internal_label>
+      <g:custom_label_3>Starter om &lt; 14 dage</g:custom_label_3>
+      <g:internal_label>['Starter om &lt; 14 dage','Korte kurser','Aarhus C']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-426998</g:id>
@@ -1073,8 +1081,8 @@
       <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4>Aarhus</g:custom_label_4>
       <g:start_date>2026-11-10T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Foredrag</g:custom_label_3>
-      <g:internal_label>['Foredrag','Aarhus C']</g:internal_label>
+      <g:custom_label_3>Starter om &lt; 14 dage</g:custom_label_3>
+      <g:internal_label>['Starter om &lt; 14 dage','Foredrag','Aarhus C']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-427112</g:id>
@@ -1095,8 +1103,8 @@
       <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4>Aarhus</g:custom_label_4>
       <g:start_date>2026-11-10T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Foredrag</g:custom_label_3>
-      <g:internal_label>['Foredrag','Samfund og historie','Aarhus C']</g:internal_label>
+      <g:custom_label_3>Starter om &lt; 14 dage</g:custom_label_3>
+      <g:internal_label>['Starter om &lt; 14 dage','Foredrag','Samfund og historie','Aarhus C']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-423955</g:id>
@@ -1117,7 +1125,8 @@
       <g:custom_label_2>Fest- og hverdagsmad</g:custom_label_2>
       <g:custom_label_4>Aarhus</g:custom_label_4>
       <g:start_date>2026-11-10T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Aarhus C']</g:internal_label>
+      <g:custom_label_3>Starter om &lt; 14 dage</g:custom_label_3>
+      <g:internal_label>['Starter om &lt; 14 dage','Aarhus C']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-422920</g:id>
@@ -1182,7 +1191,7 @@
       <g:custom_label_4>Åbyhøj</g:custom_label_4>
       <g:start_date>2026-11-12T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Korte kurser</g:custom_label_3>
-      <g:internal_label>['Korte kurser','Almen førstehjælp','Graviditet og barsel','Åbyhøj']</g:internal_label>
+      <g:internal_label>['Korte kurser','Åbyhøj']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-426908</g:id>
@@ -1248,7 +1257,7 @@
       <g:custom_label_4>Aarhus</g:custom_label_4>
       <g:start_date>2026-11-12T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Korte kurser</g:custom_label_3>
-      <g:internal_label>['Korte kurser','Graviditet og barsel','Aarhus C']</g:internal_label>
+      <g:internal_label>['Korte kurser','Aarhus C']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-423847</g:id>
@@ -1290,8 +1299,8 @@
       <g:custom_label_2>Syning</g:custom_label_2>
       <g:custom_label_4>Aarhus</g:custom_label_4>
       <g:start_date>2026-11-14T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Sykurser</g:custom_label_3>
-      <g:internal_label>['Sykurser','Korte kurser','Aarhus C']</g:internal_label>
+      <g:custom_label_3>Korte kurser</g:custom_label_3>
+      <g:internal_label>['Korte kurser','Aarhus C']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-423585</g:id>
@@ -1356,8 +1365,8 @@
       <g:custom_label_2>Asiatisk mad</g:custom_label_2>
       <g:custom_label_4>Aarhus</g:custom_label_4>
       <g:start_date>2026-11-15T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Verdenskøkkenet</g:custom_label_3>
-      <g:internal_label>['Verdenskøkkenet','Korte kurser','Aarhus C']</g:internal_label>
+      <g:custom_label_3>Korte kurser</g:custom_label_3>
+      <g:internal_label>['Korte kurser','Aarhus C']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-428868</g:id>
@@ -1444,8 +1453,7 @@
       <g:custom_label_2>Italiensk</g:custom_label_2>
       <g:custom_label_4>Aarhus</g:custom_label_4>
       <g:start_date>2026-11-16T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Italiensk</g:custom_label_3>
-      <g:internal_label>['Italiensk','Aarhus C']</g:internal_label>
+      <g:internal_label>['Aarhus C']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-426921</g:id>
@@ -1531,8 +1539,7 @@
       <g:custom_label_2>Motion for gravide</g:custom_label_2>
       <g:custom_label_4>Aarhus</g:custom_label_4>
       <g:start_date>2026-11-17T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Yoga</g:custom_label_3>
-      <g:internal_label>['Yoga','Graviditet og barsel','Aarhus C']</g:internal_label>
+      <g:internal_label>['Aarhus C']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-426991</g:id>
@@ -1620,7 +1627,7 @@
       <g:custom_label_4>Åbyhøj</g:custom_label_4>
       <g:start_date>2026-11-18T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Korte kurser</g:custom_label_3>
-      <g:internal_label>['Korte kurser','Graviditet og barsel','Åbyhøj']</g:internal_label>
+      <g:internal_label>['Korte kurser','Åbyhøj']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-426928</g:id>
@@ -1663,8 +1670,7 @@
       <g:custom_label_2>Motion for gravide</g:custom_label_2>
       <g:custom_label_4>Aarhus</g:custom_label_4>
       <g:start_date>2026-11-19T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Yoga</g:custom_label_3>
-      <g:internal_label>['Yoga','Graviditet og barsel','Aarhus C']</g:internal_label>
+      <g:internal_label>['Aarhus C']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-421876</g:id>
@@ -1728,7 +1734,7 @@
       <g:custom_label_4>Aarhus</g:custom_label_4>
       <g:start_date>2026-11-19T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Korte kurser</g:custom_label_3>
-      <g:internal_label>['Korte kurser','Kor og fællessang','Aarhus C']</g:internal_label>
+      <g:internal_label>['Korte kurser','Aarhus C']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-428934</g:id>
@@ -1750,7 +1756,7 @@
       <g:custom_label_4>Åbyhøj</g:custom_label_4>
       <g:start_date>2026-11-19T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Korte kurser</g:custom_label_3>
-      <g:internal_label>['Korte kurser','Almen førstehjælp','Graviditet og barsel','Åbyhøj']</g:internal_label>
+      <g:internal_label>['Korte kurser','Åbyhøj']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-426080</g:id>
@@ -1795,7 +1801,7 @@
       <g:custom_label_4>Åbyhøj</g:custom_label_4>
       <g:start_date>2026-11-21T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Korte kurser</g:custom_label_3>
-      <g:internal_label>['Korte kurser','Almen førstehjælp','Åbyhøj']</g:internal_label>
+      <g:internal_label>['Korte kurser','Åbyhøj']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-422344</g:id>
@@ -1816,8 +1822,8 @@
       <g:custom_label_2>Keramik</g:custom_label_2>
       <g:custom_label_4>Åbyhøj</g:custom_label_4>
       <g:start_date>2026-11-21T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Keramikkurser</g:custom_label_3>
-      <g:internal_label>['Keramikkurser','Jul og nytår','Korte kurser','Åbyhøj']</g:internal_label>
+      <g:custom_label_3>Jul og nytår</g:custom_label_3>
+      <g:internal_label>['Jul og nytår','Korte kurser','Åbyhøj']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-428956</g:id>
@@ -1839,7 +1845,7 @@
       <g:custom_label_4>Åbyhøj</g:custom_label_4>
       <g:start_date>2026-11-21T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Korte kurser</g:custom_label_3>
-      <g:internal_label>['Korte kurser','Almen førstehjælp','Åbyhøj']</g:internal_label>
+      <g:internal_label>['Korte kurser','Åbyhøj']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-422148</g:id>
@@ -1860,8 +1866,8 @@
       <g:custom_label_2>Tegnekurser</g:custom_label_2>
       <g:custom_label_4>Åbyhøj</g:custom_label_4>
       <g:start_date>2026-11-21T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Tegnekurser</g:custom_label_3>
-      <g:internal_label>['Tegnekurser','Korte kurser','Åbyhøj']</g:internal_label>
+      <g:custom_label_3>Korte kurser</g:custom_label_3>
+      <g:internal_label>['Korte kurser','Åbyhøj']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-422828</g:id>
@@ -1905,7 +1911,7 @@
       <g:custom_label_4>Åbyhøj</g:custom_label_4>
       <g:start_date>2026-11-22T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Korte kurser</g:custom_label_3>
-      <g:internal_label>['Korte kurser','Jul og nytår','Håndarbejdskurser','Åbyhøj']</g:internal_label>
+      <g:internal_label>['Korte kurser','Jul og nytår','Åbyhøj']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-428871</g:id>
@@ -1949,7 +1955,7 @@
       <g:custom_label_4>Åbyhøj</g:custom_label_4>
       <g:start_date>2026-11-23T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Korte kurser</g:custom_label_3>
-      <g:internal_label>['Korte kurser','Almen førstehjælp','Åbyhøj']</g:internal_label>
+      <g:internal_label>['Korte kurser','Åbyhøj']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-423593</g:id>
@@ -2037,7 +2043,7 @@
       <g:custom_label_4>Aarhus</g:custom_label_4>
       <g:start_date>2026-11-23T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Korte kurser</g:custom_label_3>
-      <g:internal_label>['Korte kurser','Graviditet og barsel','Aarhus C']</g:internal_label>
+      <g:internal_label>['Korte kurser','Aarhus C']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-422805</g:id>
@@ -2146,7 +2152,7 @@
       <g:custom_label_4>Åbyhøj</g:custom_label_4>
       <g:start_date>2026-11-25T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Korte kurser</g:custom_label_3>
-      <g:internal_label>['Korte kurser','Graviditet og barsel','Åbyhøj']</g:internal_label>
+      <g:internal_label>['Korte kurser','Åbyhøj']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-425103</g:id>
@@ -2167,8 +2173,7 @@
       <g:custom_label_2>Efterfødselstræning</g:custom_label_2>
       <g:custom_label_4>Åbyhøj</g:custom_label_4>
       <g:start_date>2026-11-25T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Graviditet og barsel</g:custom_label_3>
-      <g:internal_label>['Graviditet og barsel','Åbyhøj']</g:internal_label>
+      <g:internal_label>['Åbyhøj']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-426955A</g:id>
@@ -2211,8 +2216,7 @@
       <g:custom_label_2>Efterfødselstræning</g:custom_label_2>
       <g:custom_label_4>Åbyhøj</g:custom_label_4>
       <g:start_date>2026-11-25T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Graviditet og barsel</g:custom_label_3>
-      <g:internal_label>['Graviditet og barsel','Åbyhøj']</g:internal_label>
+      <g:internal_label>['Åbyhøj']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-426955</g:id>
@@ -2299,7 +2303,7 @@
       <g:custom_label_4>Aarhus</g:custom_label_4>
       <g:start_date>2026-11-27T00:00:00.000Z</g:start_date>
       <g:custom_label_3>In English</g:custom_label_3>
-      <g:internal_label>['In English','Verdenskøkkenet','Korte kurser','Aarhus C']</g:internal_label>
+      <g:internal_label>['In English','Korte kurser','Aarhus C']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-425015</g:id>
@@ -2321,7 +2325,7 @@
       <g:custom_label_4>Aarhus</g:custom_label_4>
       <g:start_date>2026-11-28T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Korte kurser</g:custom_label_3>
-      <g:internal_label>['Korte kurser','Graviditet og barsel','Aarhus C']</g:internal_label>
+      <g:internal_label>['Korte kurser','Aarhus C']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-423801</g:id>
@@ -2365,7 +2369,7 @@
       <g:custom_label_4>Aarhus</g:custom_label_4>
       <g:start_date>2026-11-28T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Korte kurser</g:custom_label_3>
-      <g:internal_label>['Korte kurser','Jul og nytår','Kor og fællessang','Aarhus C']</g:internal_label>
+      <g:internal_label>['Korte kurser','Jul og nytår','Aarhus C']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-425052</g:id>
@@ -2387,7 +2391,7 @@
       <g:custom_label_4>Aarhus</g:custom_label_4>
       <g:start_date>2026-11-28T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Korte kurser</g:custom_label_3>
-      <g:internal_label>['Korte kurser','In English','Graviditet og barsel','Aarhus C']</g:internal_label>
+      <g:internal_label>['Korte kurser','In English','Aarhus C']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-426985</g:id>
@@ -2474,7 +2478,7 @@
       <g:custom_label_4>Åbyhøj</g:custom_label_4>
       <g:start_date>2026-12-01T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Korte kurser</g:custom_label_3>
-      <g:internal_label>['Korte kurser','Almen førstehjælp','Åbyhøj']</g:internal_label>
+      <g:internal_label>['Korte kurser','Åbyhøj']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-428878</g:id>
@@ -2518,7 +2522,7 @@
       <g:custom_label_4>Åbyhøj</g:custom_label_4>
       <g:start_date>2026-12-01T00:00:00.000Z</g:start_date>
       <g:custom_label_3>In English</g:custom_label_3>
-      <g:internal_label>['In English','Graviditet og barsel','Almen førstehjælp','Åbyhøj']</g:internal_label>
+      <g:internal_label>['In English','Åbyhøj']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-426938</g:id>
@@ -2606,7 +2610,7 @@
       <g:custom_label_4>Åbyhøj</g:custom_label_4>
       <g:start_date>2026-12-02T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Korte kurser</g:custom_label_3>
-      <g:internal_label>['Korte kurser','Graviditet og barsel','Åbyhøj']</g:internal_label>
+      <g:internal_label>['Korte kurser','Åbyhøj']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-426969</g:id>
@@ -2650,7 +2654,7 @@
       <g:custom_label_4>Aarhus</g:custom_label_4>
       <g:start_date>2026-12-03T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Korte kurser</g:custom_label_3>
-      <g:internal_label>['Korte kurser','Graviditet og barsel','Aarhus C']</g:internal_label>
+      <g:internal_label>['Korte kurser','Aarhus C']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-426082</g:id>
@@ -2694,8 +2698,7 @@
       <g:custom_label_2>Tegnekurser</g:custom_label_2>
       <g:custom_label_4>Åbyhøj</g:custom_label_4>
       <g:start_date>2026-12-04T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Tegnekurser</g:custom_label_3>
-      <g:internal_label>['Tegnekurser','Åbyhøj']</g:internal_label>
+      <g:internal_label>['Åbyhøj']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-428937</g:id>
@@ -2717,7 +2720,7 @@
       <g:custom_label_4>Åbyhøj</g:custom_label_4>
       <g:start_date>2026-12-05T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Korte kurser</g:custom_label_3>
-      <g:internal_label>['Korte kurser','Almen førstehjælp','Graviditet og barsel','Åbyhøj']</g:internal_label>
+      <g:internal_label>['Korte kurser','Åbyhøj']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-426937</g:id>
@@ -2870,7 +2873,7 @@
       <g:custom_label_4>Åbyhøj</g:custom_label_4>
       <g:start_date>2026-12-09T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Korte kurser</g:custom_label_3>
-      <g:internal_label>['Korte kurser','Graviditet og barsel','Åbyhøj']</g:internal_label>
+      <g:internal_label>['Korte kurser','Åbyhøj']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-423849</g:id>
@@ -3022,7 +3025,7 @@
       <g:custom_label_4>Åbyhøj</g:custom_label_4>
       <g:start_date>2026-12-16T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Korte kurser</g:custom_label_3>
-      <g:internal_label>['Korte kurser','Graviditet og barsel','Åbyhøj']</g:internal_label>
+      <g:internal_label>['Korte kurser','Åbyhøj']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-425018</g:id>
@@ -3044,7 +3047,7 @@
       <g:custom_label_4>Aarhus</g:custom_label_4>
       <g:start_date>2026-12-17T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Korte kurser</g:custom_label_3>
-      <g:internal_label>['Korte kurser','Graviditet og barsel','Aarhus C']</g:internal_label>
+      <g:internal_label>['Korte kurser','Aarhus C']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-423819</g:id>
@@ -3066,7 +3069,7 @@
       <g:custom_label_4>Aarhus</g:custom_label_4>
       <g:start_date>2026-12-17T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Korte kurser</g:custom_label_3>
-      <g:internal_label>['Korte kurser','Graviditet og barsel','Aarhus C']</g:internal_label>
+      <g:internal_label>['Korte kurser','Aarhus C']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-424071</g:id>
@@ -3088,7 +3091,7 @@
       <g:custom_label_4>Aarhus</g:custom_label_4>
       <g:start_date>2026-12-17T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Korte kurser</g:custom_label_3>
-      <g:internal_label>['Korte kurser','Kor og fællessang','Aarhus C']</g:internal_label>
+      <g:internal_label>['Korte kurser','Aarhus C']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-428887</g:id>
@@ -3239,8 +3242,7 @@
       <g:custom_label_2>Håndarbejde</g:custom_label_2>
       <g:custom_label_4>Brabrand</g:custom_label_4>
       <g:start_date>2027-01-13T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Håndarbejdskurser</g:custom_label_3>
-      <g:internal_label>['Håndarbejdskurser','Brabrand']</g:internal_label>
+      <g:internal_label>['Brabrand']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-434597</g:id>
@@ -3282,8 +3284,8 @@
       <g:custom_label_2>Syning</g:custom_label_2>
       <g:custom_label_4>Aarhus</g:custom_label_4>
       <g:start_date>2027-01-16T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Sykurser</g:custom_label_3>
-      <g:internal_label>['Sykurser','Korte kurser','Aarhus C']</g:internal_label>
+      <g:custom_label_3>Korte kurser</g:custom_label_3>
+      <g:internal_label>['Korte kurser','Aarhus C']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-423851</g:id>
@@ -3811,6 +3813,28 @@
       <g:internal_label>['Foredrag','Samfund og historie','Aarhus C']</g:internal_label>
     </item>
 <item>
+      <g:id>AAR-437000</g:id>
+      <g:title><![CDATA[Hvad er autisme? En familieguide]]></g:title>
+      <g:description><![CDATA[Bliv klogere på autisme til foredrag i Aarhus med Dorthe Hölck. Få nuanceret viden og brugbare perspektiver på livet med ASF. Stil spørgsmål og få indsigt. Book din plads i dag.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/hvad-er-autisme-en-familieguide?holdnr=437000</g:link>
+      <g:image_link>https://www.fof.dk/media/sxido2cc/dorhte-hoelck.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>150.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Foredrag, debat og højskoler &gt; Sundhed og eksistens</g:product_type>
+      <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
+      <g:custom_label_1>Sundhed og eksistens</g:custom_label_1>
+      <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Aarhus</g:custom_label_4>
+      <g:start_date>2027-03-17T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Foredrag</g:custom_label_3>
+      <g:internal_label>['Foredrag','Sundhed og eksistens','Aarhus C']</g:internal_label>
+    </item>
+<item>
       <g:id>AAR-436832</g:id>
       <g:title><![CDATA[Antiskrøbelig - sund og stærk hele livet]]></g:title>
       <g:description><![CDATA[Kom til foredrag med Martin Kreutzer i FOF Aarhus og få opskriften på, hvordan du holder dig sund, stærk og fuld af energi – hele livet. ]]></g:description>
@@ -4072,6 +4096,28 @@
       <g:start_date>2027-04-29T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Aarhus</g:custom_label_3>
       <g:internal_label>['Aarhus','Aarhus C']</g:internal_label>
+    </item>
+<item>
+      <g:id>AAR-436892</g:id>
+      <g:title><![CDATA[Musik og vin – en fransk aften ]]></g:title>
+      <g:description><![CDATA[Tag med til en fransk aften i FOF Aarhus med vinsmagning, levende musik og stemningsfulde fortællinger. Tilmeld dig nu.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/musik-og-vin-en-fransk-aften?holdnr=436892</g:link>
+      <g:image_link>https://www.fof.dk/media/orggehz0/musik-vin-aarhus-fof-aftenskolen.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>425.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Foredrag, debat og højskoler &gt; Musik og koncerter</g:product_type>
+      <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
+      <g:custom_label_1>Musik og koncerter</g:custom_label_1>
+      <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Aarhus</g:custom_label_4>
+      <g:start_date>2027-04-29T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Foredrag</g:custom_label_3>
+      <g:internal_label>['Foredrag','Aarhus C']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-436834</g:id>
