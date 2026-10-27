@@ -1131,6 +1131,10 @@
     "ogImage": "https://www.fof.dk/media/cg4fun1y/strik-dit-eget-kunstvaerk-fof-aftenskolen-fyn-fredericia.jpg?width=1200",
     "fetchedAt": "2026-10-27T14:48:20.937Z"
   },
+  "https://www.fof.dk/aftenskolen/fof-fyn-fredericia/syning-for-alle": {
+    "ogImage": "https://www.fof.dk/media/bjvpbrxa/syning-for-alle-fyn-fof-aftenskolen.jpg?width=1200",
+    "fetchedAt": "2026-10-27T20:49:44.882Z"
+  },
   "https://www.fof.dk/aftenskolen/fof-fyn-fredericia/weekendforkaelelse": {
     "ogImage": "https://www.fof.dk/media/cl4bxfd4/yoga-fof-aftenskolen-16.jpg?width=1200",
     "fetchedAt": "2026-10-27T14:48:20.028Z"
@@ -1282,6 +1286,10 @@
   "https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/24-arkitekturperler-paa-2-timer-havnerundfart": {
     "ogImage": "https://www.fof.dk/media/tmshanwl/kanalrundfart-fofkn-aftenskolen-ture-ns.jpg?width=1200",
     "fetchedAt": "2026-10-27T14:49:19.739Z"
+  },
+  "https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/3d-smykkedesign-og-stoebning": {
+    "ogImage": "https://www.fof.dk/media/0z2bzyp5/smykkekursus-fofkn-aftenskolen-kreative-kurser-5016-1.jpg?width=1200",
+    "fetchedAt": "2026-10-27T20:49:47.915Z"
   },
   "https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/aandedraettet-din-sundhed-workshop": {
     "ogImage": "https://www.fof.dk/media/kivj3zvb/smerteha-ndtering-fofkn-aftenskolen-motion-og-sundhed-ns-1.jpg?width=1200",
@@ -1782,10 +1790,6 @@
   "https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/find-din-egen-stemme-og-skriv-frit": {
     "ogImage": "https://www.fof.dk/media/gnzisagk/skrive-skrivecafe-fofkn-aftenskolen-kultur-og-samfund.jpg?width=1200",
     "fetchedAt": "2026-10-27T14:49:07.661Z"
-  },
-  "https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/finsk-begyndere-workshop": {
-    "ogImage": "https://www.fof.dk/media/i3sarta0/finsk-fofkn-aftenskolen-sprog-stock-gbe78a9bfa-1280-nature.jpg?width=1200",
-    "fetchedAt": "2026-10-27T14:48:38.078Z"
   },
   "https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/floedebollekursus-hjemmelavet-luksus": {
     "ogImage": "https://www.fof.dk/media/t2ghstft/floedeboller-fofkn-aftenskolen-madlavning.jpg?width=1200",
@@ -2509,7 +2513,7 @@
   },
   "https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/qigong-buddistisk": {
     "ogImage": "https://www.fof.dk/media/igip3kor/qi-gong-fofkn-aftenskolen-motion-og-sundhed-ns-1.jpg?width=1200",
-    "fetchedAt": "2026-10-20T20:04:06.878Z"
+    "fetchedAt": "2026-10-27T20:49:47.982Z"
   },
   "https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/qigong-og-bindevaev-workshop": {
     "ogImage": "https://www.fof.dk/media/4jdk1jdy/qigong-fofkn-aftenskolen-motion-og-sundhed-stock-26582276.png?width=1200",
@@ -2755,6 +2759,10 @@
     "ogImage": "https://www.fof.dk/media/r22nls1y/traedrejning-fofkn-aftenskolen-kreative-kurser-flemming-nielsen-0293.jpg?width=1200",
     "fetchedAt": "2026-10-27T14:48:50.822Z"
   },
+  "https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/traedrejning-lille-hold": {
+    "ogImage": "https://www.fof.dk/media/2lopuqgg/traedrejning-fofkn-aftenskolen-kreative-kurser-ns-2.jpg?width=1200",
+    "fetchedAt": "2026-10-27T20:49:47.950Z"
+  },
   "https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/traek-stikket-og-styrk-din-hjerne": {
     "ogImage": "https://www.fof.dk/media/rzwb201j/troels-kjaer-akkr-jacob-nielsen-3.jpg?width=1200",
     "fetchedAt": "2026-10-27T14:48:55.431Z"
@@ -2834,10 +2842,6 @@
   "https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/wordpress-introduktion": {
     "ogImage": "https://www.fof.dk/media/u0md2qgm/it-kurser-wordpress-fofkn-aftenskolen-it-og-foto-265132.jpg?width=1200",
     "fetchedAt": "2026-10-27T14:48:40.318Z"
-  },
-  "https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/yin-yoga": {
-    "ogImage": "https://www.fof.dk/media/trip2vyi/yoga-fof-aftenskolen-11.jpg?width=1200",
-    "fetchedAt": "2026-10-27T14:48:30.669Z"
   },
   "https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/yin-yoga-med-tid-til-ro-og-fordybelse": {
     "ogImage": "https://www.fof.dk/media/ehtllxzt/yoga-fofkn-aftenskolen-motion-og-sundhed-stock-8015932-1.jpg?width=1200",
@@ -3431,6 +3435,10 @@
     "ogImage": "https://www.fof.dk/media/zhmh3vu1/porcelaenshaven-frederiksberg-koebenhavns-omegn-fof-aftenskolen.jpg?width=1200",
     "fetchedAt": "2026-10-27T14:49:45.318Z"
   },
+  "https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/puls-og-styrke-i-varmt-vand": {
+    "ogImage": "https://www.fof.dk/media/2zekd1g3/fof-koebenhavns-omegn-stemning-20.jpg?width=1200",
+    "fetchedAt": "2026-10-27T20:49:50.089Z"
+  },
   "https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/pusle-helmuth-fra-barnestjerne-til-vild-med-dans": {
     "ogImage": "https://www.fof.dk/media/rdogl3xl/pusle-helmuth-fra-barnestjerne-til-vild-med-dans.png?width=1200",
     "fetchedAt": "2026-10-27T14:49:43.818Z"
@@ -3570,6 +3578,10 @@
   "https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/tolk": {
     "ogImage": "https://www.fof.dk/media/ryufdwes/tolkens-verden.png?width=1200",
     "fetchedAt": "2026-10-21T14:00:32.524Z"
+  },
+  "https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/traening-i-vand": {
+    "ogImage": "https://www.fof.dk/media/03cfqayw/motion-i-vand.jpg?width=1200",
+    "fetchedAt": "2026-10-27T20:49:50.083Z"
   },
   "https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/tranedans-i-kristianstad-ved-pulken-sydskaane": {
     "ogImage": "https://www.fof.dk/media/d1bns0tl/2-dages-bustur-til-tranerne.jpg?width=1200",
@@ -3930,6 +3942,10 @@
   "https://www.fof.dk/aftenskolen/fof-koege-bugt/yin-yoga": {
     "ogImage": "https://www.fof.dk/media/343nexsv/yoga-fof-aftenskolen-13.jpg?width=1200",
     "fetchedAt": "2026-10-27T14:49:52.269Z"
+  },
+  "https://www.fof.dk/aftenskolen/fof-nordvestjylland/aftenro-restorativ-yoga-lyd-guidet-ro": {
+    "ogImage": "https://www.fof.dk/media/uplj3cix/rikkelydhealing1200x1200.jpg?width=1200",
+    "fetchedAt": "2026-10-27T20:49:38.660Z"
   },
   "https://www.fof.dk/aftenskolen/fof-nordvestjylland/aftenro-restorativ-yogaworkshop": {
     "ogImage": "https://www.fof.dk/media/uplj3cix/rikkelydhealing1200x1200.jpg?width=1200",
@@ -4361,7 +4377,7 @@
   },
   "https://www.fof.dk/aftenskolen/fof-randers-favrskov-mariagerfjord-viborg/yoga-for-boern": {
     "ogImage": "https://www.fof.dk/media/oi0anmff/boerne-yoga-foto-af-to-glade-boern-sidestraek-web.jpg?width=1200",
-    "fetchedAt": "2026-10-20T20:03:59.745Z"
+    "fetchedAt": "2026-10-27T20:49:40.533Z"
   },
   "https://www.fof.dk/aftenskolen/fof-randers-favrskov-mariagerfjord-viborg/yoga-lige-foer-jul": {
     "ogImage": "https://www.fof.dk/media/vfybeljq/yoga-vivi-terkildsens-billede.jpg?width=1200",
@@ -5522,10 +5538,6 @@
   "https://www.fof.dk/aftenskolen/fof-sydoestjylland/linoliumstryk-faengslet": {
     "ogImage": "https://www.fof.dk/media/22gbp5bk/linoleumstryk-fof.jpg?width=1200",
     "fetchedAt": "2026-10-27T14:47:26.550Z"
-  },
-  "https://www.fof.dk/aftenskolen/fof-sydoestjylland/loeget-gospelkor": {
-    "ogImage": "https://www.fof.dk/media/ezmiaj41/kor.jpg?width=1200",
-    "fetchedAt": "2026-10-21T20:16:15.372Z"
   },
   "https://www.fof.dk/aftenskolen/fof-sydoestjylland/loeget-gospelkor-proevetime": {
     "ogImage": "https://www.fof.dk/media/3rwlwirh/proevetimer-gospelkor.jpg?width=1200",
