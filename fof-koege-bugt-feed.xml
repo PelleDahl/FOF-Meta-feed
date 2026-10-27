@@ -400,7 +400,7 @@
       <g:custom_label_4>Køge</g:custom_label_4>
       <g:start_date>2026-11-11T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Køge</g:custom_label_3>
-      <g:internal_label>['Køge','Weekend']</g:internal_label>
+      <g:internal_label>['Køge','Starter snart','Weekend']</g:internal_label>
     </item>
 <item>
       <g:id>KOE-51419</g:id>
@@ -422,7 +422,7 @@
       <g:custom_label_4>Køge</g:custom_label_4>
       <g:start_date>2026-11-11T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Køge</g:custom_label_3>
-      <g:internal_label>['Køge']</g:internal_label>
+      <g:internal_label>['Køge','Starter snart']</g:internal_label>
     </item>
 <item>
       <g:id>KOE-51932</g:id>

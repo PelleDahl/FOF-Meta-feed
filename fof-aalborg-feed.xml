@@ -1686,28 +1686,6 @@
       <g:internal_label>['Nyhed','Aalborg SV']</g:internal_label>
     </item>
 <item>
-      <g:id>AAL-26205714</g:id>
-      <g:title><![CDATA[Keramik: Åbent keramikværksted]]></g:title>
-      <g:description><![CDATA[Arbejd frit med keramik i FOF Aalborgs åbne keramikværksted. For øvede med kendskab til keramik. Adgang til værksted, brænding og glasur.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-aalborg/keramik-aabent-keramikvaerksted?holdnr=26205714</g:link>
-      <g:image_link>https://www.fof.dk/media/3wjdisl4/1-f8b9f4a9.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>195.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Aalborg</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Kreative kurser &gt; Keramik</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Kreative kurser</g:custom_label_1>
-      <g:custom_label_2>Keramik</g:custom_label_2>
-      <g:custom_label_4>Aalborg</g:custom_label_4>
-      <g:start_date>2026-11-27T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Keramik Boulevarden</g:custom_label_3>
-      <g:internal_label>['Keramik Boulevarden','Kulturpas','Aalborg']</g:internal_label>
-    </item>
-<item>
       <g:id>AAL-26205646</g:id>
       <g:title><![CDATA[Keramik & Bobler]]></g:title>
       <g:description><![CDATA[Kom til Keramik & Bobler hos FOF Aalborg og start weekenden kreativt. Form dine egne keramikprojekter, nyd et glas bobler og oplev hyggeligt fællesskab i Aalborg.]]></g:description>
@@ -1728,6 +1706,28 @@
       <g:start_date>2026-11-27T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Keramik Boulevarden</g:custom_label_3>
       <g:internal_label>['Keramik Boulevarden','Kreative kurser','Aalborg']</g:internal_label>
+    </item>
+<item>
+      <g:id>AAL-26205714</g:id>
+      <g:title><![CDATA[Keramik: Åbent keramikværksted]]></g:title>
+      <g:description><![CDATA[Arbejd frit med keramik i FOF Aalborgs åbne keramikværksted. For øvede med kendskab til keramik. Adgang til værksted, brænding og glasur.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aalborg/keramik-aabent-keramikvaerksted?holdnr=26205714</g:link>
+      <g:image_link>https://www.fof.dk/media/3wjdisl4/1-f8b9f4a9.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>195.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aalborg</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Kreative kurser &gt; Keramik</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Kreative kurser</g:custom_label_1>
+      <g:custom_label_2>Keramik</g:custom_label_2>
+      <g:custom_label_4>Aalborg</g:custom_label_4>
+      <g:start_date>2026-11-27T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Keramik Boulevarden</g:custom_label_3>
+      <g:internal_label>['Keramik Boulevarden','Kulturpas','Aalborg']</g:internal_label>
     </item>
 <item>
       <g:id>AAL-26205764</g:id>

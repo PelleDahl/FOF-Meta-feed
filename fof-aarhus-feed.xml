@@ -6,50 +6,6 @@
 <description>Meta produktfeed med alle ledige hold fra FOF Aarhus</description>
 <language>da-DK</language>
 <item>
-      <g:id>AAR-425011</g:id>
-      <g:title><![CDATA[Ve-træning]]></g:title>
-      <g:description><![CDATA[Tag til ve-træning ved FOF Aftenskolen Aarhus og forbered dig på fødslen ved at lære at tackle dine veer. ]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/ve-traening?holdnr=425011</g:link>
-      <g:image_link>https://www.fof.dk/media/tinlo44g/vetraening_5_1200x1200-aarhus.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>195.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Aarhus</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Fødselsforberedelse</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
-      <g:custom_label_2>Fødselsforberedelse</g:custom_label_2>
-      <g:custom_label_4>Aarhus</g:custom_label_4>
-      <g:start_date>2026-10-27T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Starter om &lt; 14 dage</g:custom_label_3>
-      <g:internal_label>['Starter om &lt; 14 dage','Korte kurser','Aarhus C']</g:internal_label>
-    </item>
-<item>
-      <g:id>AAR-423908</g:id>
-      <g:title><![CDATA[Food Maker]]></g:title>
-      <g:description><![CDATA[Her samler vi ung madglæde, hyggeligt samvær og lækre retter i FOF Aarhus' køkken i midtbyen!]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/food-maker?holdnr=423908</g:link>
-      <g:image_link>https://www.fof.dk/media/cdmlt0km/food_maker_madlavningskursus_fof_aarhus_1200x1200.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>50.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Aarhus</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Madlavning og drikkevarer &gt; Fest- og hverdagsmad</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
-      <g:custom_label_2>Fest- og hverdagsmad</g:custom_label_2>
-      <g:custom_label_4>Aarhus</g:custom_label_4>
-      <g:start_date>2026-10-27T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Starter om &lt; 14 dage</g:custom_label_3>
-      <g:internal_label>['Starter om &lt; 14 dage','Korte kurser','Aarhus C']</g:internal_label>
-    </item>
-<item>
       <g:id>AAR-423565</g:id>
       <g:title><![CDATA[Noodles in Japan]]></g:title>
       <g:description><![CDATA[Beyond ramen lies a world of Japanese noodles waiting to be explored. Learn how to prepare udon, soba, and more in this engaging course at FOF Aarhus.]]></g:description>
@@ -1125,8 +1081,8 @@
       <g:custom_label_2>Håndværk og kunsthåndværk</g:custom_label_2>
       <g:custom_label_4>Åbyhøj</g:custom_label_4>
       <g:start_date>2026-11-11T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Korte kurser</g:custom_label_3>
-      <g:internal_label>['Korte kurser','Åbyhøj']</g:internal_label>
+      <g:custom_label_3>Starter om &lt; 14 dage</g:custom_label_3>
+      <g:internal_label>['Starter om &lt; 14 dage','Korte kurser','Åbyhøj']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-426975</g:id>
@@ -1147,7 +1103,8 @@
       <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4>Aarhus</g:custom_label_4>
       <g:start_date>2026-11-11T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Aarhus C']</g:internal_label>
+      <g:custom_label_3>Starter om &lt; 14 dage</g:custom_label_3>
+      <g:internal_label>['Starter om &lt; 14 dage','Aarhus C']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-428938</g:id>

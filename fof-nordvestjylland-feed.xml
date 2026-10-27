@@ -6,27 +6,6 @@
 <description>Meta produktfeed med alle ledige hold fra FOF Nordvestjylland</description>
 <language>da-DK</language>
 <item>
-      <g:id>NVJ-262007</g:id>
-      <g:title><![CDATA["Verdens tilstand i praksis" - Wivel og Tvernø]]></g:title>
-      <g:description><![CDATA[Verdens tilstand i praksis, samtaleforedrag med Thomas Wivel og Jan Tvernø, der tager temperaturen på verdens tilstand med humor hos FOF Nordvestjylland i Struer]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-nordvestjylland/verdens-tilstand-i-praksis-foredrag?holdnr=262007</g:link>
-      <g:image_link>https://www.fof.dk/media/nwulf4xy/jttw1200x1200.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>125.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Nordvestjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Foredrag, debat og højskoler &gt; Samfund og historie</g:product_type>
-      <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
-      <g:custom_label_1>Samfund og historie</g:custom_label_1>
-      <g:custom_label_2></g:custom_label_2>
-      <g:custom_label_4>Struer</g:custom_label_4>
-      <g:start_date>2026-10-27T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Struer']</g:internal_label>
-    </item>
-<item>
       <g:id>NVJ-262183</g:id>
       <g:title><![CDATA[Kundalini yoga - Klitmøller]]></g:title>
       <g:description><![CDATA[Kom med til kundalini yoga og gør noget godt for din krop og sjæl hos FOF Nordvestjylland, Thisted/Klitmøller]]></g:description>
@@ -535,27 +514,6 @@
       <g:internal_label>['Hanstholm']</g:internal_label>
     </item>
 <item>
-      <g:id>NVJ-262331</g:id>
-      <g:title><![CDATA[FødselsFlow - motion for gravide - NYHED]]></g:title>
-      <g:description><![CDATA[Kom med til fødselsflow og forbered din gravide krop på en god og naturlig fødsel i et hyggeligt og trygt fællesskab hos FOF Nordvestjylland i Holstebro]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-nordvestjylland/foedselsflow-mejrup?holdnr=262331</g:link>
-      <g:image_link>https://www.fof.dk/media/0otjbev2/foedselsflow1200x1200.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>460.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Nordvestjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Motion for gravide</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
-      <g:custom_label_2>Motion for gravide</g:custom_label_2>
-      <g:custom_label_4>Holstebro</g:custom_label_4>
-      <g:start_date>2026-11-18T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Holstebro']</g:internal_label>
-    </item>
-<item>
       <g:id>NVJ-262718</g:id>
       <g:title><![CDATA[Bæredygtig og grøn madlavning - Studieby Holstebro]]></g:title>
       <g:description><![CDATA[Lær at lave bæredygtig og grøn mad på dette nye madkursus hos FOF Nordvestjylland i Holstebro]]></g:description>
@@ -575,6 +533,27 @@
       <g:custom_label_4>Holstebro</g:custom_label_4>
       <g:start_date>2026-11-18T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Holstebro</g:custom_label_3>
+      <g:internal_label>['Holstebro']</g:internal_label>
+    </item>
+<item>
+      <g:id>NVJ-262331</g:id>
+      <g:title><![CDATA[FødselsFlow - motion for gravide - NYHED]]></g:title>
+      <g:description><![CDATA[Kom med til fødselsflow og forbered din gravide krop på en god og naturlig fødsel i et hyggeligt og trygt fællesskab hos FOF Nordvestjylland i Holstebro]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-nordvestjylland/foedselsflow-mejrup?holdnr=262331</g:link>
+      <g:image_link>https://www.fof.dk/media/0otjbev2/foedselsflow1200x1200.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>460.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Nordvestjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Motion for gravide</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
+      <g:custom_label_2>Motion for gravide</g:custom_label_2>
+      <g:custom_label_4>Holstebro</g:custom_label_4>
+      <g:start_date>2026-11-18T00:00:00.000Z</g:start_date>
       <g:internal_label>['Holstebro']</g:internal_label>
     </item>
 <item>
