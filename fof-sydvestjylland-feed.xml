@@ -157,7 +157,7 @@
       <g:custom_label_4>Esbjerg</g:custom_label_4>
       <g:start_date>2026-11-10T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Starter snart</g:custom_label_3>
-      <g:internal_label>['Starter snart','Fanø','Madlavning og drikkevarer','Esbjerg']</g:internal_label>
+      <g:internal_label>['Starter snart','Madlavning og drikkevarer','Esbjerg']</g:internal_label>
     </item>
 <item>
       <g:id>SVJ-262429</g:id>
@@ -424,6 +424,28 @@
       <g:internal_label>['Sprog','Esbjerg']</g:internal_label>
     </item>
 <item>
+      <g:id>SVJ-2710422</g:id>
+      <g:title><![CDATA[Pasta making - In English, for adults]]></g:title>
+      <g:description><![CDATA[Learn to make authentic fresh pasta from scratch and bring classic Italian techniques into your own kitchen. Register now]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydvestjylland/pasta-making-in-english?holdnr=2710422</g:link>
+      <g:image_link>https://www.fof.dk/media/vjrjxzid/madlaving-pastamaking-in-english-adult-children-fof-aftenskolen-sydvestjylland-03.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>275.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydvestjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Madlavning og drikkevarer &gt; Verdenskøkkenet</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
+      <g:custom_label_2>Verdenskøkkenet</g:custom_label_2>
+      <g:custom_label_4>Esbjerg</g:custom_label_4>
+      <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Esbjerg</g:custom_label_3>
+      <g:internal_label>['Esbjerg','In English','Fanø','Madlavning og drikkevarer']</g:internal_label>
+    </item>
+<item>
       <g:id>SVJ-2710301</g:id>
       <g:title><![CDATA[Kunstworkshop: Er du vild med farven blå?]]></g:title>
       <g:description><![CDATA[Udforsk kroppen i kunsten med tegning, collage og skulptur. Et kreativt kursus med fordybelse, materialer og kunstblik i trygge rammer hos FOF. Tilmeld dig her.]]></g:description>
@@ -444,6 +466,28 @@
       <g:start_date>2027-01-26T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Fanø</g:custom_label_3>
       <g:internal_label>['Fanø','Kreative kurser']</g:internal_label>
+    </item>
+<item>
+      <g:id>SVJ-2710439</g:id>
+      <g:title><![CDATA[Master the art of the Italian FOCACCIA - In English]]></g:title>
+      <g:description><![CDATA[Master authentic Italian focaccia baking. Learn regional recipes, techniques and traditions in a hands-on course. Join and bake with confidence.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydvestjylland/master-the-art-of-the-italian-focaccia-in-english?holdnr=2710439</g:link>
+      <g:image_link>https://www.fof.dk/media/lpvdnoiu/madlaving-italian-cooking-course-in-english-fof-aftenskolen-sydvestjylland.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>275.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydvestjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Madlavning og drikkevarer &gt; Bagning og søde sager</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
+      <g:custom_label_2>Bagning og søde sager</g:custom_label_2>
+      <g:custom_label_4>Esbjerg</g:custom_label_4>
+      <g:start_date>2027-01-28T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>In English</g:custom_label_3>
+      <g:internal_label>['In English','Esbjerg','Bagning og søde sager','Madlavning og drikkevarer']</g:internal_label>
     </item>
 <item>
       <g:id>SVJ-2710326</g:id>
@@ -600,6 +644,28 @@
       <g:internal_label>['Kreative kurser','Fanø']</g:internal_label>
     </item>
 <item>
+      <g:id>SVJ-2710423</g:id>
+      <g:title><![CDATA[Pasta making level 2 - In English, for adults]]></g:title>
+      <g:description><![CDATA[Learn to make authentic fresh pasta from scratch and bring classic Italian techniques into your own kitchen. Register now]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydvestjylland/pasta-making-in-english?holdnr=2710423</g:link>
+      <g:image_link>https://www.fof.dk/media/vjrjxzid/madlaving-pastamaking-in-english-adult-children-fof-aftenskolen-sydvestjylland-03.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>275.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydvestjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Madlavning og drikkevarer &gt; Verdenskøkkenet</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
+      <g:custom_label_2>Verdenskøkkenet</g:custom_label_2>
+      <g:custom_label_4>Esbjerg</g:custom_label_4>
+      <g:start_date>2027-02-09T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Esbjerg</g:custom_label_3>
+      <g:internal_label>['Esbjerg','In English','Fanø','Madlavning og drikkevarer']</g:internal_label>
+    </item>
+<item>
       <g:id>SVJ-2710003</g:id>
       <g:title><![CDATA[Kan man tænke sig rask?]]></g:title>
       <g:description><![CDATA[Oplev Thomas Breinholts foredrag om sindets kraft og selvhelbredelse. Forskning, indsigt og inspiration til et stærkere helbred. Køb billet her.]]></g:description>
@@ -641,7 +707,7 @@
       <g:custom_label_4>Varde</g:custom_label_4>
       <g:start_date>2027-02-23T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Madlavning og drikkevarer</g:custom_label_3>
-      <g:internal_label>['Madlavning og drikkevarer','Esbjerg','Varde']</g:internal_label>
+      <g:internal_label>['Madlavning og drikkevarer','Esbjerg','Varde','Ribe']</g:internal_label>
     </item>
 <item>
       <g:id>SVJ-2710302</g:id>
@@ -664,6 +730,28 @@
       <g:start_date>2027-02-23T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Fanø</g:custom_label_3>
       <g:internal_label>['Fanø','Kreative kurser']</g:internal_label>
+    </item>
+<item>
+      <g:id>SVJ-2710424</g:id>
+      <g:title><![CDATA[Italian Regional Cooking (In English)]]></g:title>
+      <g:description><![CDATA[We offer a wide range of courses taught in English, designed for both beginners and experienced learners. Grow your skills.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydvestjylland/italian-regional-cooking-in-english?holdnr=2710424</g:link>
+      <g:image_link>https://www.fof.dk/media/lpvdnoiu/madlaving-italian-cooking-course-in-english-fof-aftenskolen-sydvestjylland.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>755.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydvestjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Madlavning og drikkevarer &gt; Verdenskøkkenet</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
+      <g:custom_label_2>Verdenskøkkenet</g:custom_label_2>
+      <g:custom_label_4>Esbjerg</g:custom_label_4>
+      <g:start_date>2027-02-26T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Varde</g:custom_label_3>
+      <g:internal_label>['Varde','Esbjerg','In English','Madlavning og drikkevarer']</g:internal_label>
     </item>
 <item>
       <g:id>SVJ-2710311</g:id>
@@ -752,6 +840,28 @@
       <g:start_date>2027-03-09T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Fanø</g:custom_label_3>
       <g:internal_label>['Fanø','Madlavning og drikkevarer','Esbjerg']</g:internal_label>
+    </item>
+<item>
+      <g:id>SVJ-2710449</g:id>
+      <g:title><![CDATA[Workshop: Tapashapsere II]]></g:title>
+      <g:description><![CDATA[Lær at lave 8 lækre tapas-hapsere til fest og hverdag. Få inspiration til salte og søde småretter i hyggelige rammer. Alle kan være med. Tilmeld dig hos FOF.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydvestjylland/workshop-tapashapsere-ii?holdnr=2710449</g:link>
+      <g:image_link>https://www.fof.dk/media/xnda2kq0/kurser-madlavning-og-drikkevarer-workshop-tapashapsere2-sydvestjylland-fof-aftenskolen-02.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>275.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydvestjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Madlavning og drikkevarer &gt; Verdenskøkkenet</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
+      <g:custom_label_2>Verdenskøkkenet</g:custom_label_2>
+      <g:custom_label_4>Varde</g:custom_label_4>
+      <g:start_date>2027-03-10T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Esbjerg</g:custom_label_3>
+      <g:internal_label>['Esbjerg','Nyhed','Madlavning og drikkevarer','Varde']</g:internal_label>
     </item>
 <item>
       <g:id>SVJ-2710001</g:id>
@@ -886,6 +996,28 @@
       <g:internal_label>['Esbjerg']</g:internal_label>
     </item>
 <item>
+      <g:id>SVJ-2710455</g:id>
+      <g:title><![CDATA[Workshop: 3-retters menu - uden sved på panden]]></g:title>
+      <g:description><![CDATA[Lær at lave en lækker 3-retters festmenu og vegetarisk festmad. Få opskrifter, gode tips og tryg vejledning, så du kan nyde dine gæster. Tilmeld dig her.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydvestjylland/workshop-3-retters-menu-uden-sved-paa-panden?holdnr=2710455</g:link>
+      <g:image_link>https://www.fof.dk/media/yijlcf0b/kurser-madlavning-og-drikkevarer-3-retters-festmenu-sydvestjylland-fof-aftenskolen-01.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>275.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydvestjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Madlavning og drikkevarer &gt; Fest- og hverdagsmad</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
+      <g:custom_label_2>Fest- og hverdagsmad</g:custom_label_2>
+      <g:custom_label_4>Varde</g:custom_label_4>
+      <g:start_date>2027-04-06T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Varde</g:custom_label_3>
+      <g:internal_label>['Varde','Nyhed','Madlavning og drikkevarer']</g:internal_label>
+    </item>
+<item>
       <g:id>SVJ-2710523</g:id>
       <g:title><![CDATA[Efterfødselstræning]]></g:title>
       <g:description><![CDATA[Kom i form efter fødslen med blid træning for mave, ryg og bækkenbund. Efterfødselshold med plads til både mor og baby. Tilmeld dig her.]]></g:description>
@@ -927,7 +1059,7 @@
       <g:custom_label_4>Ribe</g:custom_label_4>
       <g:start_date>2027-04-10T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Madlavning og drikkevarer</g:custom_label_3>
-      <g:internal_label>['Madlavning og drikkevarer','Esbjerg','Ribe']</g:internal_label>
+      <g:internal_label>['Madlavning og drikkevarer','Esbjerg','Varde','Ribe']</g:internal_label>
     </item>
 <item>
       <g:id>SVJ-2710303</g:id>
@@ -996,6 +1128,28 @@
       <g:internal_label>['Esbjerg','In English','Fanø','Varde','Nyhed','Madlavning og drikkevarer']</g:internal_label>
     </item>
 <item>
+      <g:id>SVJ-2710452</g:id>
+      <g:title><![CDATA[Workshop: Latinamerikansk streetfood - Empanadas]]></g:title>
+      <g:description><![CDATA[Lær at lave empanadas med fire slags fyld og tre lækre dips. Få tips og inspiration på et hyggeligt madlavningskursus hos FOF. Tilmeld dig her.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydvestjylland/workshop-latinamerikansk-streetfood-empanadas?holdnr=2710452</g:link>
+      <g:image_link>https://www.fof.dk/media/denmpbuz/kurser-1.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>275.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydvestjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Madlavning og drikkevarer &gt; Verdenskøkkenet</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
+      <g:custom_label_2>Verdenskøkkenet</g:custom_label_2>
+      <g:custom_label_4>Varde</g:custom_label_4>
+      <g:start_date>2027-04-27T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Varde</g:custom_label_3>
+      <g:internal_label>['Varde','Esbjerg','Fanø','Nyhed','Madlavning og drikkevarer']</g:internal_label>
+    </item>
+<item>
       <g:id>SVJ-2710448</g:id>
       <g:title><![CDATA[Workshop: Tapashapsere I]]></g:title>
       <g:description><![CDATA[Lær at lave 8 lækre tapas-hapsere med dips og tilbehør. Få inspiration til fest og hverdag på et hyggeligt madlavningskursus hos FOF. Tilmeld dig trygt her i dag!]]></g:description>
@@ -1015,7 +1169,29 @@
       <g:custom_label_4>Esbjerg</g:custom_label_4>
       <g:start_date>2027-05-04T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Madlavning og drikkevarer</g:custom_label_3>
-      <g:internal_label>['Madlavning og drikkevarer','Esbjerg']</g:internal_label>
+      <g:internal_label>['Madlavning og drikkevarer','Esbjerg','Varde','Ribe']</g:internal_label>
+    </item>
+<item>
+      <g:id>SVJ-2710450</g:id>
+      <g:title><![CDATA[Workshop: Tapashapsere II]]></g:title>
+      <g:description><![CDATA[Lær at lave 8 lækre tapas-hapsere til fest og hverdag. Få inspiration til salte og søde småretter i hyggelige rammer. Alle kan være med. Tilmeld dig hos FOF.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydvestjylland/workshop-tapashapsere-ii?holdnr=2710450</g:link>
+      <g:image_link>https://www.fof.dk/media/xnda2kq0/kurser-madlavning-og-drikkevarer-workshop-tapashapsere2-sydvestjylland-fof-aftenskolen-02.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>275.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydvestjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Madlavning og drikkevarer &gt; Verdenskøkkenet</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
+      <g:custom_label_2>Verdenskøkkenet</g:custom_label_2>
+      <g:custom_label_4>Esbjerg</g:custom_label_4>
+      <g:start_date>2027-05-18T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Esbjerg</g:custom_label_3>
+      <g:internal_label>['Esbjerg','Nyhed','Madlavning og drikkevarer','Varde']</g:internal_label>
     </item>
 <item>
       <g:id>SVJ-2710332</g:id>
@@ -1082,6 +1258,28 @@
       <g:start_date>2027-05-31T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Ribe</g:custom_label_3>
       <g:internal_label>['Ribe','Malekurser','Kreative kurser']</g:internal_label>
+    </item>
+<item>
+      <g:id>SVJ-2710453</g:id>
+      <g:title><![CDATA[Workshop: Latinamerikansk streetfood - Empanadas]]></g:title>
+      <g:description><![CDATA[Lær at lave empanadas med fire slags fyld og tre lækre dips. Få tips og inspiration på et hyggeligt madlavningskursus hos FOF. Tilmeld dig her.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydvestjylland/workshop-latinamerikansk-streetfood-empanadas?holdnr=2710453</g:link>
+      <g:image_link>https://www.fof.dk/media/denmpbuz/kurser-1.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>275.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydvestjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Madlavning og drikkevarer &gt; Verdenskøkkenet</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
+      <g:custom_label_2>Verdenskøkkenet</g:custom_label_2>
+      <g:custom_label_4>Esbjerg</g:custom_label_4>
+      <g:start_date>2027-06-01T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Varde</g:custom_label_3>
+      <g:internal_label>['Varde','Esbjerg','Fanø','Nyhed','Madlavning og drikkevarer']</g:internal_label>
     </item>
 </channel>
 </rss>
