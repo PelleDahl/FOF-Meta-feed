@@ -652,28 +652,6 @@
       <g:internal_label>['Nyhed','Vejle']</g:internal_label>
     </item>
 <item>
-      <g:id>SOJ-269237</g:id>
-      <g:title><![CDATA[Julesyning af genbrug]]></g:title>
-      <g:description><![CDATA[Kreativ workshop i Vejle: lær at sy julepynt på symaskine. Perfekt sykursus for begyndere og øvede. Små hold og hyggelig julestemning.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-sydoestjylland/julesyning-af-genbrug?holdnr=269237</g:link>
-      <g:image_link>https://www.fof.dk/media/smlp1ob5/julepynt-af-genbrug.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>495.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Sydøstjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Kreative kurser &gt; Syning</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Kreative kurser</g:custom_label_1>
-      <g:custom_label_2>Syning</g:custom_label_2>
-      <g:custom_label_4>Vejle</g:custom_label_4>
-      <g:start_date>2026-11-22T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Jul og nytår</g:custom_label_3>
-      <g:internal_label>['Jul og nytår','Nyhed','Vejle']</g:internal_label>
-    </item>
-<item>
       <g:id>SOJ-266702</g:id>
       <g:title><![CDATA[Dit magiske IMMUNsystem - et liv i sund balance]]></g:title>
       <g:description><![CDATA[Oplev foredrag med Bente Klarlund om immunforsvaret, sundhed og livsstil. Få forskningsbaseret viden om motion, søvn, kost og trivsel.]]></g:description>
@@ -1326,28 +1304,6 @@
       <g:internal_label>['Nyhed','Horsens']</g:internal_label>
     </item>
 <item>
-      <g:id>SOJ-270266</g:id>
-      <g:title><![CDATA[Sæt dit aftryk - Linoleumstryk ]]></g:title>
-      <g:description><![CDATA[Oplev en kreativ voksen/barn-workshop på Fængselsmuseet i Horsens. Lær linoleumstryk, udforsk fængslets historie, og skab jeres egne unikke tryk sammen. ]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-sydoestjylland/linoliumstryk-faengslet?holdnr=270266</g:link>
-      <g:image_link>https://www.fof.dk/media/22gbp5bk/linoleumstryk-fof.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>230.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Sydøstjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Familie, børn og unge &gt; Kreative kurser</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Familie, børn og unge</g:custom_label_1>
-      <g:custom_label_2>Kreative kurser</g:custom_label_2>
-      <g:custom_label_4>Horsens</g:custom_label_4>
-      <g:start_date>2027-01-30T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Nyhed</g:custom_label_3>
-      <g:internal_label>['Nyhed','Fængselsmuseet','Horsens']</g:internal_label>
-    </item>
-<item>
       <g:id>SOJ-270202</g:id>
       <g:title><![CDATA[Pileflet]]></g:title>
       <g:description><![CDATA[Lær pileflet og skab kurve, kranse og plantestativer. Udfold din kreativitet med naturens materiale på et hyggeligt kursus hos FOF.]]></g:description>
@@ -1368,6 +1324,28 @@
       <g:start_date>2027-01-30T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Workshops</g:custom_label_3>
       <g:internal_label>['Workshops','Horsens']</g:internal_label>
+    </item>
+<item>
+      <g:id>SOJ-270266</g:id>
+      <g:title><![CDATA[Sæt dit aftryk - Linoleumstryk ]]></g:title>
+      <g:description><![CDATA[Oplev en kreativ voksen/barn-workshop på Fængselsmuseet i Horsens. Lær linoleumstryk, udforsk fængslets historie, og skab jeres egne unikke tryk sammen. ]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydoestjylland/linoliumstryk-faengslet?holdnr=270266</g:link>
+      <g:image_link>https://www.fof.dk/media/22gbp5bk/linoleumstryk-fof.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>230.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydøstjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Familie, børn og unge &gt; Kreative kurser</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Familie, børn og unge</g:custom_label_1>
+      <g:custom_label_2>Kreative kurser</g:custom_label_2>
+      <g:custom_label_4>Horsens</g:custom_label_4>
+      <g:start_date>2027-01-30T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Nyhed</g:custom_label_3>
+      <g:internal_label>['Nyhed','Fængselsmuseet','Horsens']</g:internal_label>
     </item>
 <item>
       <g:id>SOJ-274338</g:id>
@@ -1563,6 +1541,28 @@
       <g:internal_label>['Gaveidéer','Vejle']</g:internal_label>
     </item>
 <item>
+      <g:id>SOJ-274629</g:id>
+      <g:title><![CDATA[Løget Gospelkor - gratis prøvetime]]></g:title>
+      <g:description><![CDATA[Prøv gospelkor gratis i Vejle. Kom til prøvetime i Løget Gospel Kor og oplev sangglæde, fællesskab og masser af musikalsk energi.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydoestjylland/loeget-gospelkor-proevetime?holdnr=274629</g:link>
+      <g:image_link>https://www.fof.dk/media/3rwlwirh/proevetimer-gospelkor.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>0.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydøstjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Musik og sang &gt; Kor og fællessang</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Musik og sang</g:custom_label_1>
+      <g:custom_label_2>Kor og fællessang</g:custom_label_2>
+      <g:custom_label_4>Vejle</g:custom_label_4>
+      <g:start_date>2027-02-08T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Prøvetime</g:custom_label_3>
+      <g:internal_label>['Prøvetime','Vejle']</g:internal_label>
+    </item>
+<item>
       <g:id>SOJ-272800</g:id>
       <g:title><![CDATA[VHF/DSC - skibsradio til SRC-certifikat]]></g:title>
       <g:description><![CDATA[Tag et VHF/DSC-skibsradiokursus i Hedensted. Bliv forberedt til SRC-certifikatet på 3 mødedage: én mandag og to lørdage.]]></g:description>
@@ -1583,6 +1583,27 @@
       <g:start_date>2027-02-22T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Nyhed</g:custom_label_3>
       <g:internal_label>['Nyhed','Juelsminde']</g:internal_label>
+    </item>
+<item>
+      <g:id>SOJ-270700</g:id>
+      <g:title><![CDATA[Når mørket ruller ind]]></g:title>
+      <g:description><![CDATA[Oplev Sandie Westh i Horsens med et ærligt og nærværende foredrag om sorg og tab. Få indsigt i sorgen, sårbarheden og livet efter et stort tab.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydoestjylland/naar-moerket-ruller-ind?holdnr=270700</g:link>
+      <g:image_link>https://www.fof.dk/media/qf5n03vm/sandie-west.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>175.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydøstjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Foredrag, debat og højskoler &gt; Kultur og livsfortællinger</g:product_type>
+      <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
+      <g:custom_label_1>Kultur og livsfortællinger</g:custom_label_1>
+      <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Horsens</g:custom_label_4>
+      <g:start_date>2027-02-23T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Horsens']</g:internal_label>
     </item>
 <item>
       <g:id>SOJ-274216</g:id>

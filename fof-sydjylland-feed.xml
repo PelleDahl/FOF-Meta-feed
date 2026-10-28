@@ -223,7 +223,7 @@
       <g:custom_label_4>Vejen</g:custom_label_4>
       <g:start_date>2026-11-04T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Vejen</g:custom_label_3>
-      <g:internal_label>['Vejen','Starter snart','Familie']</g:internal_label>
+      <g:internal_label>['Vejen','Starter snart','Hold til under 200 kr','Familie']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2626286</g:id>
@@ -248,6 +248,28 @@
       <g:internal_label>['Vejen','Starter snart','Krea','Tegning']</g:internal_label>
     </item>
 <item>
+      <g:id>SJY-2624903</g:id>
+      <g:title><![CDATA[For dig der allerede hjemmepasser dine børn]]></g:title>
+      <g:description><![CDATA[Få inspiration til at skabe et hjemmeliv, hvor både børnene og din egen trivsel får plads. Se mere og tilmeld dig workshoppen i Kolding, Haderslev, Vejen, Aabenraa eller Tønder.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydjylland/for-dig-der-hjemmepasser?holdnr=2624903</g:link>
+      <g:image_link>https://www.fof.dk/media/lgwcrbft/for-dig-der-hjemmepasser-1.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>195.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Forældreskab</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
+      <g:custom_label_2>Forældreskab</g:custom_label_2>
+      <g:custom_label_4>Vejen</g:custom_label_4>
+      <g:start_date>2026-11-04T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Vejen</g:custom_label_3>
+      <g:internal_label>['Vejen','Starter snart','Hold til under 200 kr','Familie']</g:internal_label>
+    </item>
+<item>
       <g:id>SJY-2625921</g:id>
       <g:title><![CDATA[Mavedans for begyndere]]></g:title>
       <g:description><![CDATA[Lær mavedans fra bunden i et trygt fællesskab. Få motion, styrk kroppen og oplev danseglæde med fokus på bevægelse og kultur. Se mere og tilmeld dig]]></g:description>
@@ -270,28 +292,6 @@
       <g:internal_label>['Kolding','Starter snart','Motion og sundhed','Dans']</g:internal_label>
     </item>
 <item>
-      <g:id>SJY-2624903</g:id>
-      <g:title><![CDATA[For dig der allerede hjemmepasser dine børn]]></g:title>
-      <g:description><![CDATA[Få inspiration til at skabe et hjemmeliv, hvor både børnene og din egen trivsel får plads. Se mere og tilmeld dig workshoppen i Kolding, Haderslev, Vejen, Aabenraa eller Tønder.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-sydjylland/for-dig-der-hjemmepasser?holdnr=2624903</g:link>
-      <g:image_link>https://www.fof.dk/media/lgwcrbft/for-dig-der-hjemmepasser-1.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>195.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Sydjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Forældreskab</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
-      <g:custom_label_2>Forældreskab</g:custom_label_2>
-      <g:custom_label_4>Vejen</g:custom_label_4>
-      <g:start_date>2026-11-04T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Vejen</g:custom_label_3>
-      <g:internal_label>['Vejen','Starter snart','Familie']</g:internal_label>
-    </item>
-<item>
       <g:id>SJY-2624908</g:id>
       <g:title><![CDATA[Overvejer du hjemmepasning af dine børn?]]></g:title>
       <g:description><![CDATA[Få indblik i hvordan hjemmepasning af børn kan se ud i praksis. Få bl.a. viden om økonomi, hverdagsliv og tvivl i et trygt rum med plads til refleksion. Se mere og tilmeld dig workshoppen.]]></g:description>
@@ -311,7 +311,7 @@
       <g:custom_label_4>Vejen</g:custom_label_4>
       <g:start_date>2026-11-04T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Vejen</g:custom_label_3>
-      <g:internal_label>['Vejen','Starter snart','Familie']</g:internal_label>
+      <g:internal_label>['Vejen','Starter snart','Hold til under 200 kr','Familie']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2626291</g:id>
@@ -355,7 +355,7 @@
       <g:custom_label_4>Rødding</g:custom_label_4>
       <g:start_date>2026-11-04T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Foredrag</g:custom_label_3>
-      <g:internal_label>['Foredrag','Vejen','Starter snart','Rødding']</g:internal_label>
+      <g:internal_label>['Foredrag','Vejen','Starter snart','Hold til under 200 kr','Rødding']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2625925</g:id>
@@ -443,7 +443,7 @@
       <g:custom_label_4>Aabenraa</g:custom_label_4>
       <g:start_date>2026-11-05T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Aabenraa</g:custom_label_3>
-      <g:internal_label>['Aabenraa','Starter snart','Familie']</g:internal_label>
+      <g:internal_label>['Aabenraa','Starter snart','Hold til under 200 kr','Familie']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2624904</g:id>
@@ -465,7 +465,7 @@
       <g:custom_label_4>Aabenraa</g:custom_label_4>
       <g:start_date>2026-11-05T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Aabenraa</g:custom_label_3>
-      <g:internal_label>['Aabenraa','Starter snart','Familie']</g:internal_label>
+      <g:internal_label>['Aabenraa','Starter snart','Hold til under 200 kr','Familie']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2623704</g:id>
@@ -509,7 +509,7 @@
       <g:custom_label_4>Aabenraa</g:custom_label_4>
       <g:start_date>2026-11-05T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Aabenraa</g:custom_label_3>
-      <g:internal_label>['Aabenraa','Starter snart','Familie']</g:internal_label>
+      <g:internal_label>['Aabenraa','Starter snart','Hold til under 200 kr','Familie']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2620305</g:id>
@@ -531,7 +531,7 @@
       <g:custom_label_4>Kolding</g:custom_label_4>
       <g:start_date>2026-11-06T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Efterår</g:custom_label_3>
-      <g:internal_label>['Efterår','Kolding','Starter snart']</g:internal_label>
+      <g:internal_label>['Efterår','Kolding','Starter snart','Hold til under 200 kr']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2629436</g:id>
@@ -688,28 +688,6 @@
       <g:internal_label>['Haderslev','Starter snart','Sprog','Græsk','Sprog niveau - Begyndere og fortsættere']</g:internal_label>
     </item>
 <item>
-      <g:id>SJY-2625777</g:id>
-      <g:title><![CDATA[Pilates for let øvede og øvede]]></g:title>
-      <g:description><![CDATA[Vi bygger videre på fundamentet fra det du lærte på tidligere hold og tempoet øges, så du får en endnu mere dynamisk og udfordrende træning. Se mere og tilmeld dig.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-sydjylland/pilates-for-let-oevede-og-oevede?holdnr=2625777</g:link>
-      <g:image_link>https://www.fof.dk/media/pdzlw5sz/pilates-1.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1050.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Sydjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Pilates</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Pilates</g:custom_label_2>
-      <g:custom_label_4>Aabenraa</g:custom_label_4>
-      <g:start_date>2026-11-10T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Aabenraa</g:custom_label_3>
-      <g:internal_label>['Aabenraa','Starter snart','Motion og sundhed','Pilates']</g:internal_label>
-    </item>
-<item>
       <g:id>SJY-2624116</g:id>
       <g:title><![CDATA[Mor træning og babytummel]]></g:title>
       <g:description><![CDATA[Kom i form efter fødslen sammen med din baby. Træning for mødre med styrkeøvelser, babytummel og hyggeligt fællesskab. Se mere og tilmeld dig.]]></g:description>
@@ -730,6 +708,28 @@
       <g:start_date>2026-11-10T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Vejen</g:custom_label_3>
       <g:internal_label>['Vejen','Starter snart','Graviditet og barsel']</g:internal_label>
+    </item>
+<item>
+      <g:id>SJY-2625777</g:id>
+      <g:title><![CDATA[Pilates for let øvede og øvede]]></g:title>
+      <g:description><![CDATA[Vi bygger videre på fundamentet fra det du lærte på tidligere hold og tempoet øges, så du får en endnu mere dynamisk og udfordrende træning. Se mere og tilmeld dig.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydjylland/pilates-for-let-oevede-og-oevede?holdnr=2625777</g:link>
+      <g:image_link>https://www.fof.dk/media/pdzlw5sz/pilates-1.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1050.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Pilates</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Pilates</g:custom_label_2>
+      <g:custom_label_4>Aabenraa</g:custom_label_4>
+      <g:start_date>2026-11-10T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Aabenraa</g:custom_label_3>
+      <g:internal_label>['Aabenraa','Starter snart','Motion og sundhed','Pilates']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2625931</g:id>
@@ -820,28 +820,6 @@
       <g:internal_label>['Kolding','Starter snart','Motion og sundhed','Hensyntagende','Dans']</g:internal_label>
     </item>
 <item>
-      <g:id>SJY-2625783</g:id>
-      <g:title><![CDATA[Pilates for let øvede]]></g:title>
-      <g:description><![CDATA[Vi bygger videre på fundamentet fra begynderholdet, og tempoet øges, så du får en mere dynamisk og udfordrende træning. Se mere og tilmeld dig.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-sydjylland/pilates-for-let-oevede?holdnr=2625783</g:link>
-      <g:image_link>https://www.fof.dk/media/lx3hwfsn/pilates-3.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1050.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Sydjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Pilates</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Pilates</g:custom_label_2>
-      <g:custom_label_4>Aabenraa</g:custom_label_4>
-      <g:start_date>2026-11-12T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Aabenraa</g:custom_label_3>
-      <g:internal_label>['Aabenraa','Starter snart','Motion og sundhed','Pilates']</g:internal_label>
-    </item>
-<item>
       <g:id>SJY-2628243</g:id>
       <g:title><![CDATA[ELDOA™ - Øvelser for led og bindevæv]]></g:title>
       <g:description><![CDATA[Lær øvelser der giver forbedret mobilitet i leddene og afbalancerer kroppen. Se mere og tilmeld dig.]]></g:description>
@@ -862,6 +840,28 @@
       <g:start_date>2026-11-12T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Haderslev</g:custom_label_3>
       <g:internal_label>['Haderslev','Starter snart','Motion og sundhed','Hensyntagende','Bevægelse og afspænding','Vojens']</g:internal_label>
+    </item>
+<item>
+      <g:id>SJY-2625783</g:id>
+      <g:title><![CDATA[Pilates for let øvede]]></g:title>
+      <g:description><![CDATA[Vi bygger videre på fundamentet fra begynderholdet, og tempoet øges, så du får en mere dynamisk og udfordrende træning. Se mere og tilmeld dig.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydjylland/pilates-for-let-oevede?holdnr=2625783</g:link>
+      <g:image_link>https://www.fof.dk/media/lx3hwfsn/pilates-3.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1050.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Pilates</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Pilates</g:custom_label_2>
+      <g:custom_label_4>Aabenraa</g:custom_label_4>
+      <g:start_date>2026-11-12T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Aabenraa</g:custom_label_3>
+      <g:internal_label>['Aabenraa','Starter snart','Motion og sundhed','Pilates']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2625781</g:id>
@@ -993,7 +993,7 @@
       <g:custom_label_4>Rødding</g:custom_label_4>
       <g:start_date>2026-11-18T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Foredrag</g:custom_label_3>
-      <g:internal_label>['Foredrag','Vejen','Rødding']</g:internal_label>
+      <g:internal_label>['Foredrag','Vejen','Hold til under 200 kr','Rødding']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2620030</g:id>
@@ -1015,7 +1015,7 @@
       <g:custom_label_4>Tønder</g:custom_label_4>
       <g:start_date>2026-11-18T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Foredrag</g:custom_label_3>
-      <g:internal_label>['Foredrag','Tønder']</g:internal_label>
+      <g:internal_label>['Foredrag','Tønder','Hold til under 200 kr']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2624102</g:id>
@@ -1081,7 +1081,7 @@
       <g:custom_label_4>Kolding</g:custom_label_4>
       <g:start_date>2026-11-20T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Efterår</g:custom_label_3>
-      <g:internal_label>['Efterår','Kolding']</g:internal_label>
+      <g:internal_label>['Efterår','Kolding','Hold til under 200 kr']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2623991</g:id>
@@ -1301,7 +1301,7 @@
       <g:custom_label_4>Aabenraa</g:custom_label_4>
       <g:start_date>2026-11-25T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Aabenraa</g:custom_label_3>
-      <g:internal_label>['Aabenraa','Foredrag']</g:internal_label>
+      <g:internal_label>['Aabenraa','Hold til under 200 kr','Foredrag']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2625291</g:id>
@@ -1345,7 +1345,7 @@
       <g:custom_label_4>Kolding</g:custom_label_4>
       <g:start_date>2026-11-27T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Efterår</g:custom_label_3>
-      <g:internal_label>['Efterår','Kolding']</g:internal_label>
+      <g:internal_label>['Efterår','Kolding','Hold til under 200 kr']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2624561</g:id>
@@ -1433,7 +1433,7 @@
       <g:custom_label_4>Rødding</g:custom_label_4>
       <g:start_date>2026-12-02T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Foredrag</g:custom_label_3>
-      <g:internal_label>['Foredrag','Vejen','Rødding']</g:internal_label>
+      <g:internal_label>['Foredrag','Vejen','Hold til under 200 kr','Rødding']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2625962</g:id>
@@ -1543,7 +1543,7 @@
       <g:custom_label_4>Kolding</g:custom_label_4>
       <g:start_date>2026-12-18T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Kolding</g:custom_label_3>
-      <g:internal_label>['Kolding','Dans','Motion og sundhed']</g:internal_label>
+      <g:internal_label>['Kolding','Hold til under 200 kr','Dans','Motion og sundhed']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2718452</g:id>
@@ -1631,7 +1631,7 @@
       <g:custom_label_4>Rødding</g:custom_label_4>
       <g:start_date>2027-01-06T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Foredrag</g:custom_label_3>
-      <g:internal_label>['Foredrag','Vejen','Rødding']</g:internal_label>
+      <g:internal_label>['Foredrag','Vejen','Hold til under 200 kr','Rødding']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2718444</g:id>
@@ -1829,7 +1829,7 @@
       <g:custom_label_4>Kolding</g:custom_label_4>
       <g:start_date>2027-01-15T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Kolding</g:custom_label_3>
-      <g:internal_label>['Kolding','Dans','Motion og sundhed']</g:internal_label>
+      <g:internal_label>['Kolding','Hold til under 200 kr','Dans','Motion og sundhed']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2714552</g:id>
@@ -2049,7 +2049,7 @@
       <g:custom_label_4>Rødding</g:custom_label_4>
       <g:start_date>2027-01-20T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Foredrag</g:custom_label_3>
-      <g:internal_label>['Foredrag','Vejen','Rødding']</g:internal_label>
+      <g:internal_label>['Foredrag','Vejen','Hold til under 200 kr','Rødding']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2714285</g:id>
@@ -2335,7 +2335,7 @@
       <g:custom_label_4>Kolding</g:custom_label_4>
       <g:start_date>2027-01-29T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Kolding</g:custom_label_3>
-      <g:internal_label>['Kolding','Dans','Motion og sundhed']</g:internal_label>
+      <g:internal_label>['Kolding','Hold til under 200 kr','Dans','Motion og sundhed']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2710001</g:id>
@@ -2357,7 +2357,7 @@
       <g:custom_label_4>Kolding</g:custom_label_4>
       <g:start_date>2027-02-01T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Foredrag</g:custom_label_3>
-      <g:internal_label>['Foredrag','Kolding']</g:internal_label>
+      <g:internal_label>['Foredrag','Kolding','Hold til under 200 kr']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2710411</g:id>
@@ -2379,7 +2379,7 @@
       <g:custom_label_4>Rødding</g:custom_label_4>
       <g:start_date>2027-02-03T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Foredrag</g:custom_label_3>
-      <g:internal_label>['Foredrag','Vejen','Rødding']</g:internal_label>
+      <g:internal_label>['Foredrag','Vejen','Hold til under 200 kr','Rødding']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2714101</g:id>
@@ -2489,7 +2489,7 @@
       <g:custom_label_4>Rødding</g:custom_label_4>
       <g:start_date>2027-02-10T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Foredrag</g:custom_label_3>
-      <g:internal_label>['Foredrag','Vejen','Rødding']</g:internal_label>
+      <g:internal_label>['Foredrag','Vejen','Hold til under 200 kr','Rødding']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2715942</g:id>
@@ -2511,7 +2511,7 @@
       <g:custom_label_4>Kolding</g:custom_label_4>
       <g:start_date>2027-02-12T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Kolding</g:custom_label_3>
-      <g:internal_label>['Kolding','Dans','Motion og sundhed']</g:internal_label>
+      <g:internal_label>['Kolding','Hold til under 200 kr','Dans','Motion og sundhed']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2710551</g:id>
@@ -2555,7 +2555,7 @@
       <g:custom_label_4>Rødding</g:custom_label_4>
       <g:start_date>2027-02-24T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Foredrag</g:custom_label_3>
-      <g:internal_label>['Foredrag','Vejen','Rødding']</g:internal_label>
+      <g:internal_label>['Foredrag','Vejen','Hold til under 200 kr','Rødding']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2715990</g:id>
@@ -2599,7 +2599,7 @@
       <g:custom_label_4>Kolding</g:custom_label_4>
       <g:start_date>2027-02-26T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Kolding</g:custom_label_3>
-      <g:internal_label>['Kolding','Dans','Motion og sundhed']</g:internal_label>
+      <g:internal_label>['Kolding','Hold til under 200 kr','Dans','Motion og sundhed']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2716691</g:id>
@@ -2709,7 +2709,7 @@
       <g:custom_label_4>Rødding</g:custom_label_4>
       <g:start_date>2027-03-10T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Foredrag</g:custom_label_3>
-      <g:internal_label>['Foredrag','Vejen','Rødding']</g:internal_label>
+      <g:internal_label>['Foredrag','Vejen','Hold til under 200 kr','Rødding']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2710120</g:id>
@@ -2731,7 +2731,7 @@
       <g:custom_label_4>Rødding</g:custom_label_4>
       <g:start_date>2027-03-10T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Foredrag</g:custom_label_3>
-      <g:internal_label>['Foredrag','Vejen','Rødding']</g:internal_label>
+      <g:internal_label>['Foredrag','Vejen','Hold til under 200 kr','Rødding']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2716503</g:id>
@@ -2753,7 +2753,7 @@
       <g:custom_label_4>Kolding</g:custom_label_4>
       <g:start_date>2027-03-13T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Kolding</g:custom_label_3>
-      <g:internal_label>['Kolding','Håndværk og kunsthåndværk (Kunsthåndværk og DIY)','Krea']</g:internal_label>
+      <g:internal_label>['Kolding','Hold til under 200 kr','Håndværk og kunsthåndværk (Kunsthåndværk og DIY)','Krea']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2714286</g:id>
@@ -2797,7 +2797,7 @@
       <g:custom_label_4>Kolding</g:custom_label_4>
       <g:start_date>2027-03-19T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Kolding</g:custom_label_3>
-      <g:internal_label>['Kolding','Dans','Motion og sundhed']</g:internal_label>
+      <g:internal_label>['Kolding','Hold til under 200 kr','Dans','Motion og sundhed']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2710415</g:id>
@@ -2819,7 +2819,7 @@
       <g:custom_label_4>Rødding</g:custom_label_4>
       <g:start_date>2027-03-31T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Foredrag</g:custom_label_3>
-      <g:internal_label>['Foredrag','Vejen','Rødding']</g:internal_label>
+      <g:internal_label>['Foredrag','Vejen','Hold til under 200 kr','Rødding']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2715945</g:id>
@@ -2841,7 +2841,7 @@
       <g:custom_label_4>Kolding</g:custom_label_4>
       <g:start_date>2027-04-02T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Kolding</g:custom_label_3>
-      <g:internal_label>['Kolding','Dans','Motion og sundhed']</g:internal_label>
+      <g:internal_label>['Kolding','Hold til under 200 kr','Dans','Motion og sundhed']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2710000</g:id>
@@ -2929,7 +2929,7 @@
       <g:custom_label_4>Kolding</g:custom_label_4>
       <g:start_date>2027-04-16T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Kolding</g:custom_label_3>
-      <g:internal_label>['Kolding','Dans','Motion og sundhed']</g:internal_label>
+      <g:internal_label>['Kolding','Hold til under 200 kr','Dans','Motion og sundhed']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2716504</g:id>
@@ -2951,7 +2951,7 @@
       <g:custom_label_4>Kolding</g:custom_label_4>
       <g:start_date>2027-04-24T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Kolding</g:custom_label_3>
-      <g:internal_label>['Kolding','Håndværk og kunsthåndværk (Kunsthåndværk og DIY)','Krea']</g:internal_label>
+      <g:internal_label>['Kolding','Hold til under 200 kr','Håndværk og kunsthåndværk (Kunsthåndværk og DIY)','Krea']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2712603</g:id>
@@ -2995,7 +2995,7 @@
       <g:custom_label_4>Kolding</g:custom_label_4>
       <g:start_date>2027-05-14T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Kolding</g:custom_label_3>
-      <g:internal_label>['Kolding','Dans','Motion og sundhed']</g:internal_label>
+      <g:internal_label>['Kolding','Hold til under 200 kr','Dans','Motion og sundhed']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2715948</g:id>
@@ -3017,7 +3017,7 @@
       <g:custom_label_4>Kolding</g:custom_label_4>
       <g:start_date>2027-05-21T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Kolding</g:custom_label_3>
-      <g:internal_label>['Kolding','Dans','Motion og sundhed']</g:internal_label>
+      <g:internal_label>['Kolding','Hold til under 200 kr','Dans','Motion og sundhed']</g:internal_label>
     </item>
 </channel>
 </rss>

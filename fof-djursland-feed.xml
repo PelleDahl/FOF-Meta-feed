@@ -336,28 +336,6 @@
       <g:internal_label>['Mols','Vrinners','Korte kurser','Kreative fag','Male- og tegnekurser','Knebel']</g:internal_label>
     </item>
 <item>
-      <g:id>DJU-262349</g:id>
-      <g:title><![CDATA[Sov godt - Ørsted]]></g:title>
-      <g:description><![CDATA[Skab bedre søvn med blid yoga, yin og restorative øvelser. Find ro i kroppen, slip spændinger og lær åndedræt, der beroliger. Trygt og guidet forløb hos FOF Djursland]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-djursland/sov-godt-oersted?holdnr=262349</g:link>
-      <g:image_link>https://www.fof.dk/media/wkubh1jg/sov-godt-yoga-oersted-fof-djursland.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>305.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Djursland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Yoga</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Yoga</g:custom_label_2>
-      <g:custom_label_4>Ørsted</g:custom_label_4>
-      <g:start_date>2026-11-25T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Ørsted</g:custom_label_3>
-      <g:internal_label>['Ørsted','Auning','Korte kurser','Hensyntagende','Bevægelse','Yoga']</g:internal_label>
-    </item>
-<item>
       <g:id>DJU-273960</g:id>
       <g:title><![CDATA[Kompenserende Pilates - Hornslet]]></g:title>
       <g:description><![CDATA[Skab bevægeglæde og oplev mindre smerte med alsidig træning. Fokus på smidighed, styrke, balance og åndedræt for mere energi i hverdagen. For borgere i Syddjurs Kommune med særlige behov]]></g:description>
@@ -400,6 +378,28 @@
       <g:start_date>2027-01-08T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Mørke</g:custom_label_3>
       <g:internal_label>['Mørke','Hensyntagende','Bevægelse','Yoga']</g:internal_label>
+    </item>
+<item>
+      <g:id>DJU-273305</g:id>
+      <g:title><![CDATA[Hensyntagende kropsbevidsthed og afspænding - Hornslet]]></g:title>
+      <g:description><![CDATA[Dyk ned i en beroligende oplevelse af kropsbevidsthed og afspænding med vores skånsomme aktiviteter hos FOF Djursland. Du bliver guidet igennem øvelser, der fremmer velvære og indre ro, med fokus på din komfort og trivsel.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-djursland/hensyntagende-kropsbevidsthed-og-afspaending-hornslet?holdnr=273305</g:link>
+      <g:image_link>https://www.fof.dk/media/j01f5ohj/hensyntagende-kropsbevidsthed-afspaending-hornslet-fof-djursland.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>955.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Djursland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Bevægelse og afspænding</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Bevægelse og afspænding</g:custom_label_2>
+      <g:custom_label_4>Hornslet</g:custom_label_4>
+      <g:start_date>2027-01-11T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Hornslet</g:custom_label_3>
+      <g:internal_label>['Hornslet','Bevægelse','Bevægelse og afspænding','Hensyntagende']</g:internal_label>
     </item>
 <item>
       <g:id>DJU-273899</g:id>
@@ -576,6 +576,28 @@
       <g:start_date>2027-02-10T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Grenaa</g:custom_label_3>
       <g:internal_label>['Grenaa','Nyhed','Hensyntagende','Bevægelse','Qigong']</g:internal_label>
+    </item>
+<item>
+      <g:id>DJU-273308</g:id>
+      <g:title><![CDATA[Qigong - Kolind]]></g:title>
+      <g:description><![CDATA[Prøv en dybdegående træning med Qigong hos FOF Djursland og opnå indre ro og balance gennem harmoniske bevægelser og åndedrætsøvelser. Tag del i vores Qi gong hold i Kolind eller Feldballe og find velvære i krop og sind.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-djursland/qigong-kolind-feldballe?holdnr=273308</g:link>
+      <g:image_link>https://www.fof.dk/media/fbgalbeo/qigong-kolind-feldballe-fof-djursland.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>955.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Djursland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Tai Chi og Qi Gong</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Tai Chi og Qi Gong</g:custom_label_2>
+      <g:custom_label_4>Kolind</g:custom_label_4>
+      <g:start_date>2027-02-23T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Feldballe</g:custom_label_3>
+      <g:internal_label>['Feldballe','Kolind','Mols','Bevægelse','Qigong']</g:internal_label>
     </item>
 <item>
       <g:id>DJU-273441</g:id>
