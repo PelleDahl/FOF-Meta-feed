@@ -535,27 +535,6 @@
       <g:internal_label>['Hanstholm']</g:internal_label>
     </item>
 <item>
-      <g:id>NVJ-262331</g:id>
-      <g:title><![CDATA[FødselsFlow - motion for gravide - NYHED]]></g:title>
-      <g:description><![CDATA[Kom med til fødselsflow og forbered din gravide krop på en god og naturlig fødsel i et hyggeligt og trygt fællesskab hos FOF Nordvestjylland i Holstebro]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-nordvestjylland/foedselsflow-mejrup?holdnr=262331</g:link>
-      <g:image_link>https://www.fof.dk/media/0otjbev2/foedselsflow1200x1200.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>460.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Nordvestjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Motion for gravide</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
-      <g:custom_label_2>Motion for gravide</g:custom_label_2>
-      <g:custom_label_4>Holstebro</g:custom_label_4>
-      <g:start_date>2026-11-18T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Holstebro']</g:internal_label>
-    </item>
-<item>
       <g:id>NVJ-262718</g:id>
       <g:title><![CDATA[Bæredygtig og grøn madlavning - Studieby Holstebro]]></g:title>
       <g:description><![CDATA[Lær at lave bæredygtig og grøn mad på dette nye madkursus hos FOF Nordvestjylland i Holstebro]]></g:description>
@@ -575,6 +554,27 @@
       <g:custom_label_4>Holstebro</g:custom_label_4>
       <g:start_date>2026-11-18T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Holstebro</g:custom_label_3>
+      <g:internal_label>['Holstebro']</g:internal_label>
+    </item>
+<item>
+      <g:id>NVJ-262331</g:id>
+      <g:title><![CDATA[FødselsFlow - motion for gravide - NYHED]]></g:title>
+      <g:description><![CDATA[Kom med til fødselsflow og forbered din gravide krop på en god og naturlig fødsel i et hyggeligt og trygt fællesskab hos FOF Nordvestjylland i Holstebro]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-nordvestjylland/foedselsflow-mejrup?holdnr=262331</g:link>
+      <g:image_link>https://www.fof.dk/media/0otjbev2/foedselsflow1200x1200.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>460.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Nordvestjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Motion for gravide</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
+      <g:custom_label_2>Motion for gravide</g:custom_label_2>
+      <g:custom_label_4>Holstebro</g:custom_label_4>
+      <g:start_date>2026-11-18T00:00:00.000Z</g:start_date>
       <g:internal_label>['Holstebro']</g:internal_label>
     </item>
 <item>
@@ -726,11 +726,11 @@
       <g:internal_label>['Holstebro']</g:internal_label>
     </item>
 <item>
-      <g:id>NVJ-262448</g:id>
-      <g:title><![CDATA[Babysvømning 0-6 måneder]]></g:title>
+      <g:id>NVJ-262446</g:id>
+      <g:title><![CDATA[Babysvømning 6-12 måneder]]></g:title>
       <g:description><![CDATA[Babysvømning, leg og bevægelse i vand for dig og din baby hos FOF Nordvestjylland, Holstebro]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-nordvestjylland/babysvoemning-0-6-maaneder?holdnr=262448</g:link>
-      <g:image_link>https://www.fof.dk/media/vl5lraun/babysvoemning1200x1200-1.jpg?width=1200</g:image_link>
+      <g:link>https://www.fof.dk/aftenskolen/fof-nordvestjylland/babysvoemning-6-12-maaneder?holdnr=262446</g:link>
+      <g:image_link>https://www.fof.dk/media/yrlfr21a/babysvoemning1200x1200.jpg?width=1200</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:quantity>1</g:quantity>
       <g:price>275.00 DKK</g:price>
@@ -747,11 +747,11 @@
       <g:internal_label>['Holstebro']</g:internal_label>
     </item>
 <item>
-      <g:id>NVJ-262446</g:id>
-      <g:title><![CDATA[Babysvømning 6-12 måneder]]></g:title>
+      <g:id>NVJ-262448</g:id>
+      <g:title><![CDATA[Babysvømning 0-6 måneder]]></g:title>
       <g:description><![CDATA[Babysvømning, leg og bevægelse i vand for dig og din baby hos FOF Nordvestjylland, Holstebro]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-nordvestjylland/babysvoemning-6-12-maaneder?holdnr=262446</g:link>
-      <g:image_link>https://www.fof.dk/media/yrlfr21a/babysvoemning1200x1200.jpg?width=1200</g:image_link>
+      <g:link>https://www.fof.dk/aftenskolen/fof-nordvestjylland/babysvoemning-0-6-maaneder?holdnr=262448</g:link>
+      <g:image_link>https://www.fof.dk/media/vl5lraun/babysvoemning1200x1200-1.jpg?width=1200</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:quantity>1</g:quantity>
       <g:price>275.00 DKK</g:price>
@@ -810,27 +810,6 @@
       <g:internal_label>['Holstebro']</g:internal_label>
     </item>
 <item>
-      <g:id>NVJ-262126</g:id>
-      <g:title><![CDATA[AftenRo - restorativ yogaworkshop]]></g:title>
-      <g:description><![CDATA[Kom med til denne restorative yogaworkshop og bliv guidet til aftenro hos FOF Nordvestjylland i Holstebro]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-nordvestjylland/aftenro-restorativ-yogaworkshop?holdnr=262126</g:link>
-      <g:image_link>https://www.fof.dk/media/uplj3cix/rikkelydhealing1200x1200.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>75.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Nordvestjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Yoga</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Yoga</g:custom_label_2>
-      <g:custom_label_4>Holstebro</g:custom_label_4>
-      <g:start_date>2026-12-02T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Holstebro']</g:internal_label>
-    </item>
-<item>
       <g:id>NVJ-262212</g:id>
       <g:title><![CDATA[Tysk til Oktoberfest - Studieby Holstebro]]></g:title>
       <g:description><![CDATA[Tysk til oktoberfest, lær brugbare vendinger og få indblik i oktoberfests historie og betydning på dette kursus for nye studerende i Holstebro, FOF Nordvestjylland, Holstebro]]></g:description>
@@ -850,6 +829,27 @@
       <g:custom_label_4>Holstebro</g:custom_label_4>
       <g:start_date>2026-12-02T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Holstebro</g:custom_label_3>
+      <g:internal_label>['Holstebro']</g:internal_label>
+    </item>
+<item>
+      <g:id>NVJ-262126</g:id>
+      <g:title><![CDATA[AftenRo - restorativ yogaworkshop]]></g:title>
+      <g:description><![CDATA[Kom med til denne restorative yogaworkshop og bliv guidet til aftenro hos FOF Nordvestjylland i Holstebro]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-nordvestjylland/aftenro-restorativ-yogaworkshop?holdnr=262126</g:link>
+      <g:image_link>https://www.fof.dk/media/uplj3cix/rikkelydhealing1200x1200.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>75.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Nordvestjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Yoga</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Holstebro</g:custom_label_4>
+      <g:start_date>2026-12-02T00:00:00.000Z</g:start_date>
       <g:internal_label>['Holstebro']</g:internal_label>
     </item>
 <item>

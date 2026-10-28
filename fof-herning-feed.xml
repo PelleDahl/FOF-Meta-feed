@@ -538,6 +538,28 @@
       <g:internal_label>['Skjern']</g:internal_label>
     </item>
 <item>
+      <g:id>HER-49804</g:id>
+      <g:title><![CDATA[Surdejskursus - Bag lækkert og sundt brød]]></g:title>
+      <g:description><![CDATA[Vil du mestre surdej? Deltag i surdejskursus i Herning og lær at bage sprødt, luftigt og smagfuldt brød. Praktisk undervisning for alle niveauer.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-herning/surdejskursus-bag-laekkert-og-sundt-broed?holdnr=49804</g:link>
+      <g:image_link>https://www.fof.dk/media/s20bjgzv/surdej-herning-fof-aftenskolen.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>542.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Herning</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Madlavning og drikkevarer &gt; Bagning og søde sager</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
+      <g:custom_label_2>Bagning og søde sager</g:custom_label_2>
+      <g:custom_label_4>Herning</g:custom_label_4>
+      <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Madkurser</g:custom_label_3>
+      <g:internal_label>['Madkurser','Herning']</g:internal_label>
+    </item>
+<item>
       <g:id>HER-49853</g:id>
       <g:title><![CDATA[Chokoladekursus]]></g:title>
       <g:description><![CDATA[Deltag i chokoladekursus i Herning og lær temperering, teknikker og fyldte chokolader. Smag undervejs og tag dine hjemmelavede mesterværker med hjem.]]></g:description>
@@ -599,6 +621,28 @@
       <g:custom_label_4>Herning</g:custom_label_4>
       <g:start_date>2027-02-09T00:00:00.000Z</g:start_date>
       <g:internal_label>['Herning']</g:internal_label>
+    </item>
+<item>
+      <g:id>HER-49890</g:id>
+      <g:title><![CDATA[Trykhenkogning og henkogning]]></g:title>
+      <g:description><![CDATA[Lær trykhenkogning i Herning hos FOF Herning. Madlavningskursus for begyndere og let øvede med fokus på konservering og smag.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-herning/trykhenkogning?holdnr=49890</g:link>
+      <g:image_link>https://www.fof.dk/media/bz4jp21l/trykhenkogning-herning-fof-aftenskolen.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>542.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Herning</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Madlavning og drikkevarer &gt; Madteknikker</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
+      <g:custom_label_2>Madteknikker</g:custom_label_2>
+      <g:custom_label_4>Herning</g:custom_label_4>
+      <g:start_date>2027-02-10T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Madkurser</g:custom_label_3>
+      <g:internal_label>['Madkurser','Herning']</g:internal_label>
     </item>
 <item>
       <g:id>HER-49893</g:id>
@@ -750,6 +794,50 @@
       <g:internal_label>['Foredrag','Herning']</g:internal_label>
     </item>
 <item>
+      <g:id>HER-49808</g:id>
+      <g:title><![CDATA[Surdejskursus - Bag lækkert og sundt brød]]></g:title>
+      <g:description><![CDATA[Vil du mestre surdej? Deltag i surdejskursus i Herning og lær at bage sprødt, luftigt og smagfuldt brød. Praktisk undervisning for alle niveauer.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-herning/surdejskursus-bag-laekkert-og-sundt-broed?holdnr=49808</g:link>
+      <g:image_link>https://www.fof.dk/media/s20bjgzv/surdej-herning-fof-aftenskolen.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>542.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Herning</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Madlavning og drikkevarer &gt; Bagning og søde sager</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
+      <g:custom_label_2>Bagning og søde sager</g:custom_label_2>
+      <g:custom_label_4>Herning</g:custom_label_4>
+      <g:start_date>2027-03-10T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Madkurser</g:custom_label_3>
+      <g:internal_label>['Madkurser','Herning']</g:internal_label>
+    </item>
+<item>
+      <g:id>HER-49803</g:id>
+      <g:title><![CDATA[Surdejskursus - Bag lækkert og sundt brød]]></g:title>
+      <g:description><![CDATA[Vil du mestre surdej? Deltag i surdejskursus i Herning og lær at bage sprødt, luftigt og smagfuldt brød. Praktisk undervisning for alle niveauer.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-herning/surdejskursus-bag-laekkert-og-sundt-broed?holdnr=49803</g:link>
+      <g:image_link>https://www.fof.dk/media/s20bjgzv/surdej-herning-fof-aftenskolen.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>542.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Herning</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Madlavning og drikkevarer &gt; Bagning og søde sager</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
+      <g:custom_label_2>Bagning og søde sager</g:custom_label_2>
+      <g:custom_label_4>Herning</g:custom_label_4>
+      <g:start_date>2027-03-19T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Madkurser</g:custom_label_3>
+      <g:internal_label>['Madkurser','Herning']</g:internal_label>
+    </item>
+<item>
       <g:id>HER-49001</g:id>
       <g:title><![CDATA[Chris MacDonald]]></g:title>
       <g:description><![CDATA[Oplev Chris MacDonald foredrag hos FOF Herning – OS – Betydningen af relationer. Inspirerende foredrag om trivsel, fællesskab, motivation og mental sundhed.]]></g:description>
@@ -801,7 +889,7 @@
       <g:image_link>https://www.fof.dk/media/krgpzxjw/permakultur-herning-fof-aftenskolen.jpg?width=1200</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:quantity>1</g:quantity>
-      <g:price>263.00 DKK</g:price>
+      <g:price>301.00 DKK</g:price>
       <g:condition>new</g:condition>
       <g:brand>FOF Herning</g:brand>
       <g:google_product_category>Education</g:google_product_category>
