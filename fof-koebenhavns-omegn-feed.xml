@@ -6,50 +6,6 @@
 <description>Meta produktfeed med alle ledige hold fra FOF Københavns Omegn</description>
 <language>da-DK</language>
 <item>
-      <g:id>KBO-22203</g:id>
-      <g:title><![CDATA[Gourmet flødeboller]]></g:title>
-      <g:description><![CDATA[Deltag i flødebolle kursus i Taastrup og lær at lave flødeboller fra bunden. Hyggelig workshop nær København med chokolade, skum og gode teknikker.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/floedeboller?holdnr=22203</g:link>
-      <g:image_link>https://www.fof.dk/media/4jbpt3iz/gourmet-floedeboller.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>375.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Københavns Omegn</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Madlavning og drikkevarer &gt; Bagning og søde sager</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
-      <g:custom_label_2>Bagning og søde sager</g:custom_label_2>
-      <g:custom_label_4>Taastrup</g:custom_label_4>
-      <g:start_date>2026-10-28T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Taastrup</g:custom_label_3>
-      <g:internal_label>['Taastrup','Starter snart','Endagskurser']</g:internal_label>
-    </item>
-<item>
-      <g:id>KBO-22101</g:id>
-      <g:title><![CDATA[Foredrag med hofreporter Trine Larsen i Taastrup]]></g:title>
-      <g:description><![CDATA[Oplev foredrag i Taastrup med hofreporter Trine Larsen. Få historier fra kongehuset, royale begivenheder og møder med kendte. Underholdende, lærerigt og eksklusivt.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/foredrag-med-hofreporter-trine-larsen-i-taastrup?holdnr=22101</g:link>
-      <g:image_link>https://www.fof.dk/media/ffnghdhh/trine-larsen.png?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>50.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Københavns Omegn</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Foredrag, debat og højskoler &gt; Samfund og historie</g:product_type>
-      <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
-      <g:custom_label_1>Samfund og historie</g:custom_label_1>
-      <g:custom_label_2></g:custom_label_2>
-      <g:custom_label_4>Taastrup</g:custom_label_4>
-      <g:start_date>2026-10-28T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Taastrup</g:custom_label_3>
-      <g:internal_label>['Taastrup','Starter snart','Endagskurser']</g:internal_label>
-    </item>
-<item>
       <g:id>KBO-22522</g:id>
       <g:title><![CDATA[Aqua pilates og afspænding i varmt vand]]></g:title>
       <g:description><![CDATA[Træn i varmtvandsbassin på Herlev Hospital hos FOF Københavns Omegn. Aqua Pilates, balance og afspænding med erfarne fysioterapeuter og skånsom træning.]]></g:description>
@@ -354,8 +310,8 @@
       <g:custom_label_2>Keramik</g:custom_label_2>
       <g:custom_label_4>Hedehusene</g:custom_label_4>
       <g:start_date>2026-11-07T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Glostrup</g:custom_label_3>
-      <g:internal_label>['Glostrup','Hedehusene']</g:internal_label>
+      <g:custom_label_3>Starter snart</g:custom_label_3>
+      <g:internal_label>['Starter snart','Glostrup','Hedehusene']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-22436</g:id>
@@ -553,7 +509,7 @@
       <g:custom_label_4>Brøndby</g:custom_label_4>
       <g:start_date>2026-11-12T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Brøndby</g:custom_label_3>
-      <g:internal_label>['Brøndby','Endagskurser']</g:internal_label>
+      <g:internal_label>['Brøndby','Endagskurser','Starter snart']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-22026</g:id>
@@ -574,8 +530,8 @@
       <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4></g:custom_label_4>
       <g:start_date>2026-11-12T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>København</g:custom_label_3>
-      <g:internal_label>['København','Endagskurser']</g:internal_label>
+      <g:custom_label_3>Starter snart</g:custom_label_3>
+      <g:internal_label>['Starter snart','København','Endagskurser']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-22221</g:id>
@@ -596,8 +552,8 @@
       <g:custom_label_2>Fest- og hverdagsmad</g:custom_label_2>
       <g:custom_label_4>Vallensbæk Strand</g:custom_label_4>
       <g:start_date>2026-11-12T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Vallensbæk</g:custom_label_3>
-      <g:internal_label>['Vallensbæk','Vallensbæk Strand']</g:internal_label>
+      <g:custom_label_3>Starter snart</g:custom_label_3>
+      <g:internal_label>['Starter snart','Vallensbæk','Vallensbæk Strand']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-22209</g:id>
@@ -619,7 +575,7 @@
       <g:custom_label_4>Brøndby</g:custom_label_4>
       <g:start_date>2026-11-12T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Brøndby</g:custom_label_3>
-      <g:internal_label>['Brøndby']</g:internal_label>
+      <g:internal_label>['Brøndby','Starter snart']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-32308</g:id>
@@ -1870,8 +1826,8 @@
       <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4>København</g:custom_label_4>
       <g:start_date>2027-01-24T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Starter snart</g:custom_label_3>
-      <g:internal_label>['Starter snart','København','Endagskurser','København K']</g:internal_label>
+      <g:custom_label_3>København</g:custom_label_3>
+      <g:internal_label>['København','Endagskurser','København K']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23820</g:id>
@@ -2490,28 +2446,6 @@
       <g:internal_label>['Ballerup','Herlev']</g:internal_label>
     </item>
 <item>
-      <g:id>KBO-23828</g:id>
-      <g:title><![CDATA[Styrketræning med fokus på osteoporose]]></g:title>
-      <g:description><![CDATA[For dig med knogleskørhed/osteoporose. Skånsom og målrettet træning for dig med osteoporose. Fokus på styrke, balance og tryg bevægelse i rolige rammer med professionel vejledning.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/osteoporosetraening?holdnr=23828</g:link>
-      <g:image_link>https://www.fof.dk/media/koib4ksf/23.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1365.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Københavns Omegn</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Styrke- og konditionstræning</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Styrke- og konditionstræning</g:custom_label_2>
-      <g:custom_label_4>Brøndby</g:custom_label_4>
-      <g:start_date>2027-01-27T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Brøndby</g:custom_label_3>
-      <g:internal_label>['Brøndby','Herlev']</g:internal_label>
-    </item>
-<item>
       <g:id>KBO-23461</g:id>
       <g:title><![CDATA[Smykkekursus]]></g:title>
       <g:description><![CDATA[Forær dig selv gaven der bliver ved med at give: Kreativt smykkekursus i Ballerup hos FOF Københavns Omegn. Lær smykkedesign, sølvarbejde og håndlavede teknikker på inspirerende smykkekursus i Ballerup. Flere datoer]]></g:description>
@@ -2532,6 +2466,28 @@
       <g:start_date>2027-01-27T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Ballerup</g:custom_label_3>
       <g:internal_label>['Ballerup']</g:internal_label>
+    </item>
+<item>
+      <g:id>KBO-23828</g:id>
+      <g:title><![CDATA[Styrketræning med fokus på osteoporose]]></g:title>
+      <g:description><![CDATA[For dig med knogleskørhed/osteoporose. Skånsom og målrettet træning for dig med osteoporose. Fokus på styrke, balance og tryg bevægelse i rolige rammer med professionel vejledning.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/osteoporosetraening?holdnr=23828</g:link>
+      <g:image_link>https://www.fof.dk/media/koib4ksf/23.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1365.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Københavns Omegn</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Styrke- og konditionstræning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Styrke- og konditionstræning</g:custom_label_2>
+      <g:custom_label_4>Brøndby</g:custom_label_4>
+      <g:start_date>2027-01-27T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Brøndby</g:custom_label_3>
+      <g:internal_label>['Brøndby','Herlev']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23947</g:id>
@@ -3106,28 +3062,6 @@
       <g:internal_label>['Herlev','Taastrup','Rødovre']</g:internal_label>
     </item>
 <item>
-      <g:id>KBO-23792</g:id>
-      <g:title><![CDATA[Spil guitar – udvid med teori (begyndere)]]></g:title>
-      <g:description><![CDATA[Lær at spille guitar på et kursus for alle niveauer. Få undervisning i teknik, akkorder og rytme – med mulighed for ekstra teori om skalaer og musikforståelse.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/spil-guitar-udvid-med-teori-begyndere?holdnr=23792</g:link>
-      <g:image_link>https://www.fof.dk/media/tkkeavsd/spil-guitar-udvid-med-teori-begyndere.png?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1550.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Københavns Omegn</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Musik og sang &gt; Strengeinstrumenter</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Musik og sang</g:custom_label_1>
-      <g:custom_label_2>Strengeinstrumenter</g:custom_label_2>
-      <g:custom_label_4>Brøndby</g:custom_label_4>
-      <g:start_date>2027-02-01T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Brøndby</g:custom_label_3>
-      <g:internal_label>['Brøndby']</g:internal_label>
-    </item>
-<item>
       <g:id>KBO-23686</g:id>
       <g:title><![CDATA[Zumba Gold]]></g:title>
       <g:description><![CDATA[Her får du pulsen op, mens du har det sjovt – og du mærker næsten ikke, at du træner. Deltag i Zumba i Herlev Hallen og Kilden i Brøndby hos FOF Københavns Omegn. Sjov, energisk og effektiv træning til latinamerikanske rytmer. | Sjov dansetræning hos FOF Københavns Omegn]]></g:description>
@@ -3148,6 +3082,28 @@
       <g:start_date>2027-02-01T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Herlev</g:custom_label_3>
       <g:internal_label>['Herlev','Brøndby','Taastrup']</g:internal_label>
+    </item>
+<item>
+      <g:id>KBO-23792</g:id>
+      <g:title><![CDATA[Spil guitar – udvid med teori (begyndere)]]></g:title>
+      <g:description><![CDATA[Lær at spille guitar på et kursus for alle niveauer. Få undervisning i teknik, akkorder og rytme – med mulighed for ekstra teori om skalaer og musikforståelse.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/spil-guitar-udvid-med-teori-begyndere?holdnr=23792</g:link>
+      <g:image_link>https://www.fof.dk/media/tkkeavsd/spil-guitar-udvid-med-teori-begyndere.png?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1550.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Københavns Omegn</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Musik og sang &gt; Strengeinstrumenter</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Musik og sang</g:custom_label_1>
+      <g:custom_label_2>Strengeinstrumenter</g:custom_label_2>
+      <g:custom_label_4>Brøndby</g:custom_label_4>
+      <g:start_date>2027-02-01T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Brøndby</g:custom_label_3>
+      <g:internal_label>['Brøndby']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23335</g:id>

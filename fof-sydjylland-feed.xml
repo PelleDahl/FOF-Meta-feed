@@ -6,28 +6,6 @@
 <description>Meta produktfeed med alle ledige hold fra FOF Sydjylland</description>
 <language>da-DK</language>
 <item>
-      <g:id>SJY-2627600</g:id>
-      <g:title><![CDATA[Det grønne italienske køkken]]></g:title>
-      <g:description><![CDATA[Lær at bruge sæsonens friske og farverige råvarer - i kombination med klassiske italienske elementer fra det italienske køkken. Kom med på et inspirerende madlavningskursus i Kolding. Se mere og tilmeld dig.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-sydjylland/groen-italiensk-madlavning?holdnr=2627600</g:link>
-      <g:image_link>https://www.fof.dk/media/pbpd24x4/det-groenne-italienske-koekken-2.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1359.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Sydjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Madlavning og drikkevarer &gt; Vegetarisk og vegansk</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
-      <g:custom_label_2>Vegetarisk og vegansk</g:custom_label_2>
-      <g:custom_label_4>Kolding</g:custom_label_4>
-      <g:start_date>2026-10-28T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Kolding</g:custom_label_3>
-      <g:internal_label>['Kolding','Starter snart','Madlavning']</g:internal_label>
-    </item>
-<item>
       <g:id>SJY-2624293</g:id>
       <g:title><![CDATA[Babytummel (5-9 måneder)]]></g:title>
       <g:description><![CDATA[Her træner vi babys grovmotorik og sansestimulering med leg, stjernestunder og kvalitets tid. Se mere og glæd jer.]]></g:description>
@@ -710,28 +688,6 @@
       <g:internal_label>['Haderslev','Starter snart','Sprog','Græsk','Sprog niveau - Begyndere og fortsættere']</g:internal_label>
     </item>
 <item>
-      <g:id>SJY-2624116</g:id>
-      <g:title><![CDATA[Mor træning og babytummel]]></g:title>
-      <g:description><![CDATA[Kom i form efter fødslen sammen med din baby. Træning for mødre med styrkeøvelser, babytummel og hyggeligt fællesskab. Se mere og tilmeld dig.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-sydjylland/mor-traening-og-babytummel?holdnr=2624116</g:link>
-      <g:image_link>https://www.fof.dk/media/3ykmehco/efterfoedselstraening-3.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>589.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Sydjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Efterfødselstræning</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
-      <g:custom_label_2>Efterfødselstræning</g:custom_label_2>
-      <g:custom_label_4>Vejen</g:custom_label_4>
-      <g:start_date>2026-11-10T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Vejen</g:custom_label_3>
-      <g:internal_label>['Vejen','Starter snart','Graviditet og barsel']</g:internal_label>
-    </item>
-<item>
       <g:id>SJY-2625777</g:id>
       <g:title><![CDATA[Pilates for let øvede og øvede]]></g:title>
       <g:description><![CDATA[Vi bygger videre på fundamentet fra det du lærte på tidligere hold og tempoet øges, så du får en endnu mere dynamisk og udfordrende træning. Se mere og tilmeld dig.]]></g:description>
@@ -752,6 +708,28 @@
       <g:start_date>2026-11-10T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Aabenraa</g:custom_label_3>
       <g:internal_label>['Aabenraa','Starter snart','Motion og sundhed','Pilates']</g:internal_label>
+    </item>
+<item>
+      <g:id>SJY-2624116</g:id>
+      <g:title><![CDATA[Mor træning og babytummel]]></g:title>
+      <g:description><![CDATA[Kom i form efter fødslen sammen med din baby. Træning for mødre med styrkeøvelser, babytummel og hyggeligt fællesskab. Se mere og tilmeld dig.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydjylland/mor-traening-og-babytummel?holdnr=2624116</g:link>
+      <g:image_link>https://www.fof.dk/media/3ykmehco/efterfoedselstraening-3.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>589.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Efterfødselstræning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
+      <g:custom_label_2>Efterfødselstræning</g:custom_label_2>
+      <g:custom_label_4>Vejen</g:custom_label_4>
+      <g:start_date>2026-11-10T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Vejen</g:custom_label_3>
+      <g:internal_label>['Vejen','Starter snart','Graviditet og barsel']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2625931</g:id>
@@ -861,7 +839,7 @@
       <g:custom_label_4>Aabenraa</g:custom_label_4>
       <g:start_date>2026-11-12T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Aabenraa</g:custom_label_3>
-      <g:internal_label>['Aabenraa','Motion og sundhed','Pilates']</g:internal_label>
+      <g:internal_label>['Aabenraa','Starter snart','Motion og sundhed','Pilates']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2628243</g:id>
@@ -883,7 +861,7 @@
       <g:custom_label_4>Vojens</g:custom_label_4>
       <g:start_date>2026-11-12T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Haderslev</g:custom_label_3>
-      <g:internal_label>['Haderslev','Motion og sundhed','Hensyntagende','Bevægelse og afspænding','Vojens']</g:internal_label>
+      <g:internal_label>['Haderslev','Starter snart','Motion og sundhed','Hensyntagende','Bevægelse og afspænding','Vojens']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2625781</g:id>
@@ -905,7 +883,7 @@
       <g:custom_label_4>Aabenraa</g:custom_label_4>
       <g:start_date>2026-11-12T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Aabenraa</g:custom_label_3>
-      <g:internal_label>['Aabenraa','Pilates','Motion og sundhed']</g:internal_label>
+      <g:internal_label>['Aabenraa','Starter snart','Pilates','Motion og sundhed']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2628132</g:id>
@@ -992,8 +970,8 @@
       <g:custom_label_2>Kunstig intelligens - AI</g:custom_label_2>
       <g:custom_label_4>Haderslev</g:custom_label_4>
       <g:start_date>2026-11-17T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>It og foto</g:custom_label_3>
-      <g:internal_label>['It og foto','Haderslev']</g:internal_label>
+      <g:custom_label_3>Haderslev</g:custom_label_3>
+      <g:internal_label>['Haderslev','It og foto']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2620407</g:id>
@@ -1850,8 +1828,8 @@
       <g:custom_label_2>Dans</g:custom_label_2>
       <g:custom_label_4>Kolding</g:custom_label_4>
       <g:start_date>2027-01-15T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Dans</g:custom_label_3>
-      <g:internal_label>['Dans','Motion og sundhed','Kolding']</g:internal_label>
+      <g:custom_label_3>Kolding</g:custom_label_3>
+      <g:internal_label>['Kolding','Dans','Motion og sundhed']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2714552</g:id>
@@ -2356,8 +2334,8 @@
       <g:custom_label_2>Dans</g:custom_label_2>
       <g:custom_label_4>Kolding</g:custom_label_4>
       <g:start_date>2027-01-29T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Dans</g:custom_label_3>
-      <g:internal_label>['Dans','Motion og sundhed','Kolding']</g:internal_label>
+      <g:custom_label_3>Kolding</g:custom_label_3>
+      <g:internal_label>['Kolding','Dans','Motion og sundhed']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2710001</g:id>
@@ -2532,8 +2510,8 @@
       <g:custom_label_2>Dans</g:custom_label_2>
       <g:custom_label_4>Kolding</g:custom_label_4>
       <g:start_date>2027-02-12T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Dans</g:custom_label_3>
-      <g:internal_label>['Dans','Motion og sundhed','Kolding']</g:internal_label>
+      <g:custom_label_3>Kolding</g:custom_label_3>
+      <g:internal_label>['Kolding','Dans','Motion og sundhed']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2710551</g:id>
@@ -2620,8 +2598,8 @@
       <g:custom_label_2>Dans</g:custom_label_2>
       <g:custom_label_4>Kolding</g:custom_label_4>
       <g:start_date>2027-02-26T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Dans</g:custom_label_3>
-      <g:internal_label>['Dans','Motion og sundhed','Kolding']</g:internal_label>
+      <g:custom_label_3>Kolding</g:custom_label_3>
+      <g:internal_label>['Kolding','Dans','Motion og sundhed']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2716691</g:id>
@@ -2818,8 +2796,8 @@
       <g:custom_label_2>Dans</g:custom_label_2>
       <g:custom_label_4>Kolding</g:custom_label_4>
       <g:start_date>2027-03-19T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Dans</g:custom_label_3>
-      <g:internal_label>['Dans','Motion og sundhed','Kolding']</g:internal_label>
+      <g:custom_label_3>Kolding</g:custom_label_3>
+      <g:internal_label>['Kolding','Dans','Motion og sundhed']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2710415</g:id>
@@ -2862,8 +2840,8 @@
       <g:custom_label_2>Dans</g:custom_label_2>
       <g:custom_label_4>Kolding</g:custom_label_4>
       <g:start_date>2027-04-02T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Dans</g:custom_label_3>
-      <g:internal_label>['Dans','Motion og sundhed','Kolding']</g:internal_label>
+      <g:custom_label_3>Kolding</g:custom_label_3>
+      <g:internal_label>['Kolding','Dans','Motion og sundhed']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2710000</g:id>
@@ -2950,8 +2928,8 @@
       <g:custom_label_2>Dans</g:custom_label_2>
       <g:custom_label_4>Kolding</g:custom_label_4>
       <g:start_date>2027-04-16T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Dans</g:custom_label_3>
-      <g:internal_label>['Dans','Motion og sundhed','Kolding']</g:internal_label>
+      <g:custom_label_3>Kolding</g:custom_label_3>
+      <g:internal_label>['Kolding','Dans','Motion og sundhed']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2716504</g:id>
@@ -3016,8 +2994,8 @@
       <g:custom_label_2>Dans</g:custom_label_2>
       <g:custom_label_4>Kolding</g:custom_label_4>
       <g:start_date>2027-05-14T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Dans</g:custom_label_3>
-      <g:internal_label>['Dans','Motion og sundhed','Kolding']</g:internal_label>
+      <g:custom_label_3>Kolding</g:custom_label_3>
+      <g:internal_label>['Kolding','Dans','Motion og sundhed']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2715948</g:id>
@@ -3038,8 +3016,8 @@
       <g:custom_label_2>Dans</g:custom_label_2>
       <g:custom_label_4>Kolding</g:custom_label_4>
       <g:start_date>2027-05-21T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Dans</g:custom_label_3>
-      <g:internal_label>['Dans','Motion og sundhed','Kolding']</g:internal_label>
+      <g:custom_label_3>Kolding</g:custom_label_3>
+      <g:internal_label>['Kolding','Dans','Motion og sundhed']</g:internal_label>
     </item>
 </channel>
 </rss>

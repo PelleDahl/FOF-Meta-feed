@@ -68,8 +68,8 @@
       <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4>Esbjerg</g:custom_label_4>
       <g:start_date>2026-11-03T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Starter snart</g:custom_label_3>
-      <g:internal_label>['Starter snart','Esbjerg']</g:internal_label>
+      <g:custom_label_3>Esbjerg</g:custom_label_3>
+      <g:internal_label>['Esbjerg']</g:internal_label>
     </item>
 <item>
       <g:id>SVJ-262015</g:id>
@@ -90,8 +90,8 @@
       <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4>Esbjerg</g:custom_label_4>
       <g:start_date>2026-11-04T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Starter snart</g:custom_label_3>
-      <g:internal_label>['Starter snart','Esbjerg']</g:internal_label>
+      <g:custom_label_3>Esbjerg</g:custom_label_3>
+      <g:internal_label>['Esbjerg']</g:internal_label>
     </item>
 <item>
       <g:id>SVJ-262031</g:id>
@@ -178,8 +178,8 @@
       <g:custom_label_2>Drikkevarer</g:custom_label_2>
       <g:custom_label_4>Esbjerg</g:custom_label_4>
       <g:start_date>2026-11-13T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Esbjerg</g:custom_label_3>
-      <g:internal_label>['Esbjerg','Madlavning og drikkevarer']</g:internal_label>
+      <g:custom_label_3>Starter snart</g:custom_label_3>
+      <g:internal_label>['Starter snart','Esbjerg','Madlavning og drikkevarer']</g:internal_label>
     </item>
 <item>
       <g:id>SVJ-262413</g:id>
