@@ -116,28 +116,6 @@
       <g:internal_label>['Esbjerg']</g:internal_label>
     </item>
 <item>
-      <g:id>SVJ-262358</g:id>
-      <g:title><![CDATA[Lørdagssyning - Marianne Schmidt]]></g:title>
-      <g:description><![CDATA[Lær at sy dit eget tøj på et hyggeligt sykursus hos FOF. For begyndere og øvede – få vejledning, inspiration og kreativt fællesskab. Se mere her.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-sydvestjylland/sykursus-for-alle?holdnr=262358</g:link>
-      <g:image_link>https://www.fof.dk/media/2p2hxvcg/syning-fof-aftenskolen-13.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>400.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Sydvestjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Kreative kurser &gt; Syning</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Kreative kurser</g:custom_label_1>
-      <g:custom_label_2>Syning</g:custom_label_2>
-      <g:custom_label_4>Esbjerg</g:custom_label_4>
-      <g:start_date>2026-11-08T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Starter snart</g:custom_label_3>
-      <g:internal_label>['Starter snart','Fanø','Syning','Kreative kurser','Esbjerg']</g:internal_label>
-    </item>
-<item>
       <g:id>SVJ-262416</g:id>
       <g:title><![CDATA[Antiinflammatorisk kost]]></g:title>
       <g:description><![CDATA[Lær antiinflammatorisk mad, der dæmper symptomer og giver mere energi. Få viden og inspiration til sunde retter. Trygt kursus for alle – tilmeld dig hos FOF.]]></g:description>
@@ -862,6 +840,28 @@
       <g:start_date>2027-02-27T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Esbjerg</g:custom_label_3>
       <g:internal_label>['Esbjerg','Malekurser','Kreative kurser']</g:internal_label>
+    </item>
+<item>
+      <g:id>SVJ-2710459</g:id>
+      <g:title><![CDATA[Kagekursus med bælgfrugter og rodfrugter]]></g:title>
+      <g:description><![CDATA[Lær at bage lækre kager og muffins med bælgfrugter og rodfrugter. Få opskrifter, inspiration og tryg vejledning på et kagekursus hos FOF. Tilmeld dig i dag!]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydvestjylland/kagekursus-med-baelgfrugter-og-rodfrugter?holdnr=2710459</g:link>
+      <g:image_link>https://www.fof.dk/media/lltnuktl/kurser-madlavning-og-drikkevarer-kagekursus-med-baelgfrugter-og-rodfrugter-sydvestjylland-fof-aftenskolen.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>275.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydvestjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Madlavning og drikkevarer &gt; Bagning og søde sager</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
+      <g:custom_label_2>Bagning og søde sager</g:custom_label_2>
+      <g:custom_label_4>Esbjerg</g:custom_label_4>
+      <g:start_date>2027-03-04T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Madlavning og drikkevarer</g:custom_label_3>
+      <g:internal_label>['Madlavning og drikkevarer','Bagning og søde sager','Esbjerg','Nyhed']</g:internal_label>
     </item>
 <item>
       <g:id>SVJ-2710401</g:id>
