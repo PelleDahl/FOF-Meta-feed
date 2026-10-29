@@ -6,28 +6,6 @@
 <description>Meta produktfeed med alle ledige hold fra FOF Syd- og Vestsjælland</description>
 <language>da-DK</language>
 <item>
-      <g:id>SVS-670126</g:id>
-      <g:title><![CDATA[Spansk 1]]></g:title>
-      <g:description><![CDATA[Lær spansk fra bunden eller genopfrisk sproget. Tryg spanskundervisning i Slagelse, Sorø, Ringsted, Korsør og Næstved – tilmeld dig hos FOF.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-syd-og-vestsjaelland/spansk?holdnr=670126</g:link>
-      <g:image_link>https://www.fof.dk/media/p5vbbqbq/spansk-undervisning-fof-aftenskolen-01.png?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1760.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Syd- og Vestsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Sprog &gt; Spansk</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Sprog</g:custom_label_1>
-      <g:custom_label_2>Spansk</g:custom_label_2>
-      <g:custom_label_4>Ringsted</g:custom_label_4>
-      <g:start_date>2026-10-29T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Starter snart</g:custom_label_3>
-      <g:internal_label>['Starter snart','Ringsted','Kalender - Oktober']</g:internal_label>
-    </item>
-<item>
       <g:id>SVS-152426</g:id>
       <g:title><![CDATA[Hatha Yoga]]></g:title>
       <g:description><![CDATA[Dyrk Hatha Yoga i Slagelse, Næstved, Ringsted, Korsør og Skælskør. Skab balance i krop og sind med blide og styrkende øvelser. For både begyndere og øvede.]]></g:description>
@@ -795,7 +773,7 @@
       <g:custom_label_4>Næstved</g:custom_label_4>
       <g:start_date>2026-11-21T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Kalender - November</g:custom_label_3>
-      <g:internal_label>['Kalender - November','Næstved','Endagskurser','Nyhed']</g:internal_label>
+      <g:internal_label>['Kalender - November','Næstved','Starter snart','Endagskurser','Nyhed']</g:internal_label>
     </item>
 <item>
       <g:id>SVS-181426</g:id>
@@ -817,7 +795,7 @@
       <g:custom_label_4>Slagelse</g:custom_label_4>
       <g:start_date>2026-11-21T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Kalender - November</g:custom_label_3>
-      <g:internal_label>['Kalender - November','Slagelse']</g:internal_label>
+      <g:internal_label>['Kalender - November','Slagelse','Starter snart']</g:internal_label>
     </item>
 <item>
       <g:id>SVS-163426</g:id>
@@ -839,7 +817,7 @@
       <g:custom_label_4>Sorø</g:custom_label_4>
       <g:start_date>2026-11-21T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Kalender - November</g:custom_label_3>
-      <g:internal_label>['Kalender - November','Sorø','Endagskurser','Nyhed','Jul og nytår']</g:internal_label>
+      <g:internal_label>['Kalender - November','Sorø','Starter snart','Endagskurser','Nyhed','Jul og nytår']</g:internal_label>
     </item>
 <item>
       <g:id>SVS-181826</g:id>
@@ -861,7 +839,7 @@
       <g:custom_label_4>Slagelse</g:custom_label_4>
       <g:start_date>2026-11-21T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Kalender - November</g:custom_label_3>
-      <g:internal_label>['Kalender - November','Slagelse','Familie']</g:internal_label>
+      <g:internal_label>['Kalender - November','Slagelse','Familie','Starter snart']</g:internal_label>
     </item>
 <item>
       <g:id>SVS-660726</g:id>
@@ -883,7 +861,7 @@
       <g:custom_label_4>Ringsted</g:custom_label_4>
       <g:start_date>2026-11-21T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Kalender - November</g:custom_label_3>
-      <g:internal_label>['Kalender - November','Ringsted','Endagskurser']</g:internal_label>
+      <g:internal_label>['Kalender - November','Ringsted','Starter snart','Endagskurser']</g:internal_label>
     </item>
 <item>
       <g:id>SVS-862026</g:id>

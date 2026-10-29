@@ -6,50 +6,6 @@
 <description>Meta produktfeed med alle ledige hold fra FOF Aarhus</description>
 <language>da-DK</language>
 <item>
-      <g:id>AAR-423846</g:id>
-      <g:title><![CDATA[Madglad 60+ på Møllestien hold 2]]></g:title>
-      <g:description><![CDATA[Oplev glæden ved at lave mad og dele måltider med Madglad 60+, et samarbejde mellem FOF Aarhus og GENLYD. Dette initiativ bringer aarhusianere over 60 år sammen omkring gryderne for at udforske nye smagsoplevelser og skabe varige venskaber. Uanset om du er nybegynder eller erfaren i køkkenet, er der plads til dig i dette madfællesskab, hvor fællesskab og madglæde er i centrum.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/madglad-60plus-paa-moellestien?holdnr=423846</g:link>
-      <g:image_link>https://www.fof.dk/media/cqro4uex/madglad60_2_1200x1200_aarhus.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>65.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Aarhus</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Madlavning og drikkevarer &gt; Fest- og hverdagsmad</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
-      <g:custom_label_2>Fest- og hverdagsmad</g:custom_label_2>
-      <g:custom_label_4>Aarhus</g:custom_label_4>
-      <g:start_date>2026-10-29T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Starter om &lt; 14 dage</g:custom_label_3>
-      <g:internal_label>['Starter om &lt; 14 dage','Aarhus C']</g:internal_label>
-    </item>
-<item>
-      <g:id>AAR-428933</g:id>
-      <g:title><![CDATA[Førstehjælp til babyer]]></g:title>
-      <g:description><![CDATA[Er du blevet forældre, og har brug for at lære førstehjælp til babyer? Hos FOF Aarhus kan du lære førstehjælp til små børn på et af vores kurser | FOF Aftenskolen Aarhus]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/foerstehjaelp-til-babyer?holdnr=428933</g:link>
-      <g:image_link>https://www.fof.dk/media/cijdpa3t/foerstehjaelp-baby_1200x1200-fof-aarhus.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>250.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Aarhus</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Førstehjælp</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Førstehjælp</g:custom_label_2>
-      <g:custom_label_4>Åbyhøj</g:custom_label_4>
-      <g:start_date>2026-10-29T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Starter om &lt; 14 dage</g:custom_label_3>
-      <g:internal_label>['Starter om &lt; 14 dage','Korte kurser','Åbyhøj']</g:internal_label>
-    </item>
-<item>
       <g:id>AAR-425063</g:id>
       <g:title><![CDATA[Breathing techniques for contractions and childbirth (couples class)]]></g:title>
       <g:description><![CDATA[Join this childbirth class in Aarhus for couples, taught in English. Learn effective breathing, contraction techniques, birthing positions, and partner support to feel fully prepared for birth.]]></g:description>
@@ -398,7 +354,8 @@
       <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4>Aarhus</g:custom_label_4>
       <g:start_date>2026-11-04T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Aarhus C']</g:internal_label>
+      <g:custom_label_3>Starter om &lt; 14 dage</g:custom_label_3>
+      <g:internal_label>['Starter om &lt; 14 dage','Aarhus C']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-426926</g:id>
@@ -993,7 +950,7 @@
       <g:custom_label_4>Åbyhøj</g:custom_label_4>
       <g:start_date>2026-11-11T00:00:00.000Z</g:start_date>
       <g:custom_label_3>In English</g:custom_label_3>
-      <g:internal_label>['In English','Åbyhøj']</g:internal_label>
+      <g:internal_label>['In English','Starter om &lt; 14 dage','Åbyhøj']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-422920</g:id>
@@ -1366,6 +1323,27 @@
       <g:internal_label>['Aarhus C']</g:internal_label>
     </item>
 <item>
+      <g:id>AAR-426991</g:id>
+      <g:title><![CDATA[John Coltrane - fra hardbop til ekspressiv spiritualitet]]></g:title>
+      <g:description><![CDATA[Kom til foredrag i Aarhus med can.mag., foredragsholder og podcastvært Jens Rasmussen, der vil fortælle om John Coltranes karriere og hans utrolige udtryks- og kraftfulde spillestil. ]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/john-coltrane-fra-hardbop-til-ekspressiv-spiritualitet?holdnr=426991</g:link>
+      <g:image_link>https://www.fof.dk/media/1hvlv0zv/john_coltrane_foredrag_med_jens_rasmussen.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>100.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Foredrag, debat og højskoler &gt; Musik og koncerter</g:product_type>
+      <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
+      <g:custom_label_1>Musik og koncerter</g:custom_label_1>
+      <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Aarhus</g:custom_label_4>
+      <g:start_date>2026-11-17T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Aarhus C']</g:internal_label>
+    </item>
+<item>
       <g:id>AAR-425331</g:id>
       <g:title><![CDATA[ADHD i hverdagen - konkrete redskaber til forælder (workshop)]]></g:title>
       <g:description><![CDATA[Få konkrete redskaber til hverdagen med et barn med ADHD. Lær at skabe ro, struktur og færre konflikter. Workshop med tryg sparring. Tilmeld dig i dag!]]></g:description>
@@ -1386,27 +1364,6 @@
       <g:start_date>2026-11-17T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Familie</g:custom_label_3>
       <g:internal_label>['Familie','Korte kurser','Aarhus C']</g:internal_label>
-    </item>
-<item>
-      <g:id>AAR-426991</g:id>
-      <g:title><![CDATA[John Coltrane - fra hardbop til ekspressiv spiritualitet]]></g:title>
-      <g:description><![CDATA[Kom til foredrag i Aarhus med can.mag., foredragsholder og podcastvært Jens Rasmussen, der vil fortælle om John Coltranes karriere og hans utrolige udtryks- og kraftfulde spillestil. ]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/john-coltrane-fra-hardbop-til-ekspressiv-spiritualitet?holdnr=426991</g:link>
-      <g:image_link>https://www.fof.dk/media/1hvlv0zv/john_coltrane_foredrag_med_jens_rasmussen.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>100.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Aarhus</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Foredrag, debat og højskoler &gt; Musik og koncerter</g:product_type>
-      <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
-      <g:custom_label_1>Musik og koncerter</g:custom_label_1>
-      <g:custom_label_2></g:custom_label_2>
-      <g:custom_label_4>Aarhus</g:custom_label_4>
-      <g:start_date>2026-11-17T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Aarhus C']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-423911</g:id>
@@ -2318,7 +2275,7 @@
       <g:custom_label_4>Åbyhøj</g:custom_label_4>
       <g:start_date>2026-12-01T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Førstehjælp til kørekort</g:custom_label_3>
-      <g:internal_label>['Førstehjælp til kørekort','Korte kurser','Starter om &lt; 14 dage','Åbyhøj']</g:internal_label>
+      <g:internal_label>['Førstehjælp til kørekort','Korte kurser','Åbyhøj']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-428953</g:id>

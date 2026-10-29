@@ -6,50 +6,6 @@
 <description>Meta produktfeed med alle ledige hold fra FOF Køge Bugt</description>
 <language>da-DK</language>
 <item>
-      <g:id>KOE-51053</g:id>
-      <g:title><![CDATA[Skulpturelt portræt og selvportræt - buster i ler]]></g:title>
-      <g:description><![CDATA[Unikt keramikkursus i Køge: Lær at skulpturere dit eget portræt i ler. Philip Adamsen lærer dig, hvordan du former et skulpturelt portræt over 7 kursusgange på Ellemarkskolen]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koege-bugt/keramik-skulpturelt-portraet-og-selvportraet?holdnr=51053</g:link>
-      <g:image_link>https://www.fof.dk/media/1avpevwu/selvportraet-i-keramik-fof-koege-bugt.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1027.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Køge Bugt</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Kreative kurser &gt; Keramik</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Kreative kurser</g:custom_label_1>
-      <g:custom_label_2>Keramik</g:custom_label_2>
-      <g:custom_label_4>Køge</g:custom_label_4>
-      <g:start_date>2026-10-29T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Starter snart</g:custom_label_3>
-      <g:internal_label>['Starter snart','Køge']</g:internal_label>
-    </item>
-<item>
-      <g:id>KOE-51054</g:id>
-      <g:title><![CDATA[Abstrakt skulptur - skulptur i bevægelse]]></g:title>
-      <g:description><![CDATA[Arbejd med form, balance og bevægelse i ler. I stedet for det figurative undersøger vi rytme, spænding  og komposition i rummet. Et eksperimenterende skulpturkursus for både begyndere og let øvede.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koege-bugt/abstrakt-skulptur-skulptur-i-bevaegelse?holdnr=51054</g:link>
-      <g:image_link>https://www.fof.dk/media/4syb2bpy/keramik-fof-aftenskolen-10.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>675.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Køge Bugt</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Kreative kurser &gt; Keramik</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Kreative kurser</g:custom_label_1>
-      <g:custom_label_2>Keramik</g:custom_label_2>
-      <g:custom_label_4>Køge</g:custom_label_4>
-      <g:start_date>2026-10-29T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Køge</g:custom_label_3>
-      <g:internal_label>['Køge','Starter snart']</g:internal_label>
-    </item>
-<item>
       <g:id>KOE-50473</g:id>
       <g:title><![CDATA[Yin Yoga og åndedræt - workshop]]></g:title>
       <g:description><![CDATA[En ugentlig times forkælelse med dygtige undervisere og trygge hold.. Vi har plads til alle kroppe og niveauer. Du kan gå til yin yoga i Roskilde, Køge. Greve, Egedal, Stevns og Ishøj.]]></g:description>
@@ -466,7 +422,7 @@
       <g:custom_label_4>Roskilde</g:custom_label_4>
       <g:start_date>2026-11-13T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Roskilde</g:custom_label_3>
-      <g:internal_label>['Roskilde']</g:internal_label>
+      <g:internal_label>['Roskilde','Starter snart']</g:internal_label>
     </item>
 <item>
       <g:id>KOE-50754</g:id>
@@ -1470,8 +1426,8 @@
       <g:custom_label_2>Malekurser</g:custom_label_2>
       <g:custom_label_4>Køge</g:custom_label_4>
       <g:start_date>2027-02-13T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Greve</g:custom_label_3>
-      <g:internal_label>['Greve','Egedal','Roskilde','Køge','Weekend']</g:internal_label>
+      <g:custom_label_3>Forår</g:custom_label_3>
+      <g:internal_label>['Forår','Greve','Egedal','Roskilde','Køge','Weekend']</g:internal_label>
     </item>
 <item>
       <g:id>KOE-53858</g:id>
@@ -1580,8 +1536,8 @@
       <g:custom_label_2>Keramik</g:custom_label_2>
       <g:custom_label_4>Greve</g:custom_label_4>
       <g:start_date>2027-03-01T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Greve</g:custom_label_3>
-      <g:internal_label>['Greve']</g:internal_label>
+      <g:custom_label_3>Forår</g:custom_label_3>
+      <g:internal_label>['Forår','Greve']</g:internal_label>
     </item>
 <item>
       <g:id>KOE-53011</g:id>
@@ -1602,8 +1558,8 @@
       <g:custom_label_2>Keramik</g:custom_label_2>
       <g:custom_label_4>Greve</g:custom_label_4>
       <g:start_date>2027-03-01T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Greve</g:custom_label_3>
-      <g:internal_label>['Greve']</g:internal_label>
+      <g:custom_label_3>Forår</g:custom_label_3>
+      <g:internal_label>['Forår','Greve']</g:internal_label>
     </item>
 <item>
       <g:id>KOE-53014</g:id>
@@ -1624,8 +1580,8 @@
       <g:custom_label_2>Keramik</g:custom_label_2>
       <g:custom_label_4>Greve</g:custom_label_4>
       <g:start_date>2027-03-02T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Greve</g:custom_label_3>
-      <g:internal_label>['Greve']</g:internal_label>
+      <g:custom_label_3>Forår</g:custom_label_3>
+      <g:internal_label>['Forår','Greve']</g:internal_label>
     </item>
 <item>
       <g:id>KOE-53013</g:id>
@@ -1646,8 +1602,8 @@
       <g:custom_label_2>Keramik</g:custom_label_2>
       <g:custom_label_4>Greve</g:custom_label_4>
       <g:start_date>2027-03-02T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Greve</g:custom_label_3>
-      <g:internal_label>['Greve']</g:internal_label>
+      <g:custom_label_3>Forår</g:custom_label_3>
+      <g:internal_label>['Forår','Greve']</g:internal_label>
     </item>
 <item>
       <g:id>KOE-52203</g:id>
@@ -1866,8 +1822,8 @@
       <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4></g:custom_label_4>
       <g:start_date>2027-03-13T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Weekend</g:custom_label_3>
-      <g:internal_label>['Weekend']</g:internal_label>
+      <g:custom_label_3>Forår</g:custom_label_3>
+      <g:internal_label>['Forår','Weekend']</g:internal_label>
     </item>
 <item>
       <g:id>KOE-52884</g:id>
@@ -1932,8 +1888,8 @@
       <g:custom_label_2>Malekurser</g:custom_label_2>
       <g:custom_label_4>Køge</g:custom_label_4>
       <g:start_date>2027-03-16T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Greve</g:custom_label_3>
-      <g:internal_label>['Greve','Egedal','Roskilde','Køge','Weekend']</g:internal_label>
+      <g:custom_label_3>Forår</g:custom_label_3>
+      <g:internal_label>['Forår','Greve','Egedal','Roskilde','Køge','Weekend']</g:internal_label>
     </item>
 <item>
       <g:id>KOE-52877</g:id>
@@ -2218,8 +2174,8 @@
       <g:custom_label_2>Keramik</g:custom_label_2>
       <g:custom_label_4>Greve</g:custom_label_4>
       <g:start_date>2027-04-26T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Greve</g:custom_label_3>
-      <g:internal_label>['Greve']</g:internal_label>
+      <g:custom_label_3>Forår</g:custom_label_3>
+      <g:internal_label>['Forår','Greve']</g:internal_label>
     </item>
 <item>
       <g:id>KOE-53016</g:id>
@@ -2240,8 +2196,8 @@
       <g:custom_label_2>Keramik</g:custom_label_2>
       <g:custom_label_4>Greve</g:custom_label_4>
       <g:start_date>2027-04-26T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Greve</g:custom_label_3>
-      <g:internal_label>['Greve']</g:internal_label>
+      <g:custom_label_3>Forår</g:custom_label_3>
+      <g:internal_label>['Forår','Greve']</g:internal_label>
     </item>
 <item>
       <g:id>KOE-53401</g:id>
@@ -2284,8 +2240,8 @@
       <g:custom_label_2>Keramik</g:custom_label_2>
       <g:custom_label_4>Greve</g:custom_label_4>
       <g:start_date>2027-04-27T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Greve</g:custom_label_3>
-      <g:internal_label>['Greve']</g:internal_label>
+      <g:custom_label_3>Forår</g:custom_label_3>
+      <g:internal_label>['Forår','Greve']</g:internal_label>
     </item>
 <item>
       <g:id>KOE-53018</g:id>
@@ -2306,8 +2262,8 @@
       <g:custom_label_2>Keramik</g:custom_label_2>
       <g:custom_label_4>Greve</g:custom_label_4>
       <g:start_date>2027-04-27T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Greve</g:custom_label_3>
-      <g:internal_label>['Greve']</g:internal_label>
+      <g:custom_label_3>Forår</g:custom_label_3>
+      <g:internal_label>['Forår','Greve']</g:internal_label>
     </item>
 <item>
       <g:id>KOE-53862</g:id>
@@ -2504,8 +2460,8 @@
       <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4></g:custom_label_4>
       <g:start_date>2027-06-19T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Weekend</g:custom_label_3>
-      <g:internal_label>['Weekend']</g:internal_label>
+      <g:custom_label_3>Forår</g:custom_label_3>
+      <g:internal_label>['Forår','Weekend']</g:internal_label>
     </item>
 </channel>
 </rss>
