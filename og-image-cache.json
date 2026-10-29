@@ -739,10 +739,6 @@
     "ogImage": "https://www.fof.dk/media/fkabd3tj/piacallesen_1200x1200-fof-aarhus.jpg?width=1200",
     "fetchedAt": "2026-10-27T14:48:13.200Z"
   },
-  "https://www.fof.dk/aftenskolen/fof-aarhus/plida-b1-payment-for-exam-nov-18-2026": {
-    "ogImage": "https://www.fof.dk/media/irhlqemg/italiensk-plida-aarhus-fof-aftenskolen-7.jpg?width=1200",
-    "fetchedAt": "2026-10-27T14:48:06.802Z"
-  },
   "https://www.fof.dk/aftenskolen/fof-aarhus/plida-b2-payment-for-exam-nov-19-2026": {
     "ogImage": "https://www.fof.dk/media/msaj1rjg/italiensk-plida-aarhus-fof-aftenskolen-6.jpg?width=1200",
     "fetchedAt": "2026-10-27T14:48:06.914Z"
@@ -950,6 +946,10 @@
   "https://www.fof.dk/aftenskolen/fof-djursland/floedeboller-til-slikmunde-1-dages-kursus-grenaa": {
     "ogImage": "https://www.fof.dk/media/2jlkqojo/floedebollekursus-grenaa-fof-djursland.jpg?width=1200",
     "fetchedAt": "2026-10-27T14:46:41.417Z"
+  },
+  "https://www.fof.dk/aftenskolen/fof-djursland/glaskunst-1-dages-kursus-ebeltoft": {
+    "ogImage": "https://www.fof.dk/media/i5iddoix/glaskursus-fof-djursland.jpg?width=1200",
+    "fetchedAt": "2026-10-29T21:16:56.579Z"
   },
   "https://www.fof.dk/aftenskolen/fof-djursland/henrik-duer-foredrag-ikke-flere-kostraad-tak": {
     "ogImage": "https://www.fof.dk/media/tmenxjs4/henrik-duer-foredrag-ikke-flere-kostraad-tak-kolind-fof-djursland.jpg?width=1200",
@@ -2011,10 +2011,6 @@
     "ogImage": "https://www.fof.dk/media/4hvnotb1/snedaekket-mothsgaarden-beskaaret_rudersdal-museer.jpg?width=1200",
     "fetchedAt": "2026-10-27T14:48:57.562Z"
   },
-  "https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/historien-bid-for-bid-raadvad-kro": {
-    "ogImage": "https://www.fof.dk/media/cu5hyfdi/raadvad-kro-indendoers_credit-raadvad-kro.jpg?width=1200",
-    "fetchedAt": "2026-10-27T14:48:36.030Z"
-  },
   "https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/hjernen-og-alzheimers": {
     "ogImage": "https://www.fof.dk/media/t3qevodj/josee-fofkn-aftenskolen-foredrag-og-debat-1.png?width=1200",
     "fetchedAt": "2026-10-27T14:49:10.264Z"
@@ -2747,6 +2743,10 @@
     "ogImage": "https://www.fof.dk/media/a05d2ux5/syning-fof-aftenskolen-17.jpg?width=1200",
     "fetchedAt": "2026-10-27T14:48:31.448Z"
   },
+  "https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/tag-styring-over-dine-egne-investeringer": {
+    "ogImage": "https://www.fof.dk/media/mnpfwyew/oekonomi-aktier-1-fofkn-aftenskolen-foredrag-ns.jpg?width=1200",
+    "fetchedAt": "2026-10-29T21:17:05.830Z"
+  },
   "https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/taghaverne-og-sydhavn-nordens-venedig": {
     "ogImage": "https://www.fof.dk/media/sgyfxnlm/sydhavn-fofkn-aftenskolen-ture-ns-maria-sattrup-wonderful-copenhagen.jpg?width=1200",
     "fetchedAt": "2026-10-27T14:49:17.282Z"
@@ -3211,6 +3211,10 @@
     "ogImage": "https://www.fof.dk/media/lznh1zi1/hjernetraening.jpg?width=1200",
     "fetchedAt": "2026-10-27T14:49:34.593Z"
   },
+  "https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/hjertetraening": {
+    "ogImage": "https://www.fof.dk/media/ldydtkuj/hjertetraening-puls-og-cardio.jpg?width=1200",
+    "fetchedAt": "2026-10-29T21:17:07.745Z"
+  },
   "https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/hoej-livskvalitet-med-positiv-psykologi-som-livsstil": {
     "ogImage": "https://www.fof.dk/media/ga0isak4/aane-marie-og-thomas.jpg?width=1200",
     "fetchedAt": "2026-10-27T14:49:43.861Z"
@@ -3546,6 +3550,10 @@
   "https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/stolegymnastik": {
     "ogImage": "https://www.fof.dk/media/vdbomxtp/stolemotion-eget-billede.png?width=1200",
     "fetchedAt": "2026-10-28T15:18:11.893Z"
+  },
+  "https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/styrke-og-balancetraening": {
+    "ogImage": "https://www.fof.dk/media/azjaeojc/styrke-og-balancetraening.png?width=1200",
+    "fetchedAt": "2026-10-29T21:17:08.050Z"
   },
   "https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/supermaane-vandring": {
     "ogImage": "https://www.fof.dk/media/quljf2yg/supermaane-vandring-natvandring.png?width=1200",
@@ -4399,6 +4407,10 @@
     "ogImage": "https://www.fof.dk/media/ht1anyew/1-voyager_2-copywidth-1320.jpg?width=1200",
     "fetchedAt": "2026-10-27T14:47:01.109Z"
   },
+  "https://www.fof.dk/aftenskolen/fof-randers-favrskov-mariagerfjord-viborg/weekend-yoga-retreats": {
+    "ogImage": "https://www.fof.dk/media/udtj1oit/yoga-straek-paa-lilla-maatte-umbraco.jpg?width=1200",
+    "fetchedAt": "2026-10-29T21:16:58.879Z"
+  },
   "https://www.fof.dk/aftenskolen/fof-randers-favrskov-mariagerfjord-viborg/yoga-for-boern": {
     "ogImage": "https://www.fof.dk/media/oi0anmff/boerne-yoga-foto-af-to-glade-boern-sidestraek-web.jpg?width=1200",
     "fetchedAt": "2026-10-27T20:49:40.533Z"
@@ -4666,6 +4678,10 @@
   "https://www.fof.dk/aftenskolen/fof-soenderjylland/tilbage-til-maanen": {
     "ogImage": "https://www.fof.dk/media/fdhddudz/foredrag-maanen-soenderjylland-fof-aftenskolen.png?width=1200",
     "fetchedAt": "2026-10-27T14:47:31.403Z"
+  },
+  "https://www.fof.dk/aftenskolen/fof-soenderjylland/traditional-eastern-mediterranean-cooking": {
+    "ogImage": "https://www.fof.dk/media/s1rg3jip/traditional-eastern-mediterranean-cooking-soenderjylland-fof-aftenskolen.jpg?width=1200",
+    "fetchedAt": "2026-10-29T21:17:00.973Z"
   },
   "https://www.fof.dk/aftenskolen/fof-soenderjylland/trumps-toldmure-og-verdens-oekonomiske-situation": {
     "ogImage": "https://www.fof.dk/media/b2ghx2h2/donald-trump-toldmure-verdens-oekonomi-foredrag-soenderjylland-fof-aftenskolen.jpg?width=1200",
@@ -5366,10 +5382,6 @@
   "https://www.fof.dk/aftenskolen/fof-sydoestjylland/dit-magiske-immunsystem-et-liv-i-balance": {
     "ogImage": "https://www.fof.dk/media/awzfjg13/proevetimer-72.jpg?width=1200",
     "fetchedAt": "2026-10-27T14:47:23.879Z"
-  },
-  "https://www.fof.dk/aftenskolen/fof-sydoestjylland/efterfoedselstraening-med-yoga": {
-    "ogImage": "https://www.fof.dk/media/lhtblvhp/efterfoedselstraening-yoga.jpg?width=1200",
-    "fetchedAt": "2026-10-29T15:22:31.110Z"
   },
   "https://www.fof.dk/aftenskolen/fof-sydoestjylland/eksperimenterende-akvarel": {
     "ogImage": "https://www.fof.dk/media/f2gfqfd0/eksperimenterende-akvarel-1.jpg?width=1200",

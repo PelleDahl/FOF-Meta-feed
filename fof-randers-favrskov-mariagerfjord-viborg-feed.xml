@@ -1505,6 +1505,28 @@ Kurset er hos FOF i Randers]]></g:description>
       <g:internal_label>['Randers C']</g:internal_label>
     </item>
 <item>
+      <g:id>RFMV-711414</g:id>
+      <g:title><![CDATA[Yoga retreat - Forår]]></g:title>
+      <g:description><![CDATA[Kom til et Weekend yoga retreat hos FOF Randers uden at rejse langt væk. Du laver yoga i nærheden af dit hjem over to dage i Randers, et frirum fra din hverdag.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-randers-favrskov-mariagerfjord-viborg/weekend-yoga-retreats?holdnr=711414</g:link>
+      <g:image_link>https://www.fof.dk/media/udtj1oit/yoga-straek-paa-lilla-maatte-umbraco.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>595.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Randers-Favrskov-Mariagerfjord-Viborg</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Yoga</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Randers</g:custom_label_4>
+      <g:start_date>2027-04-10T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Weekend</g:custom_label_3>
+      <g:internal_label>['Weekend','Randers C']</g:internal_label>
+    </item>
+<item>
       <g:id>RFMV-711526</g:id>
       <g:title><![CDATA[Fantastiske fermenteringer]]></g:title>
       <g:description><![CDATA[Tag med på dette smagsfulde fermenteringskursus i Randers. Du får en god grundlæggende viden om håndværket og dets sundhedsmæssige fordele. Tilmeld dig hos FOF.]]></g:description>
@@ -1567,6 +1589,28 @@ Kurset er hos FOF i Randers]]></g:description>
       <g:start_date>2027-04-27T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Nyhed</g:custom_label_3>
       <g:internal_label>['Nyhed','Randers SØ']</g:internal_label>
+    </item>
+<item>
+      <g:id>RFMV-721414</g:id>
+      <g:title><![CDATA[Yoga retreat - Efterår]]></g:title>
+      <g:description><![CDATA[Kom til et Weekend yoga retreat hos FOF Randers uden at rejse langt væk. Du laver yoga i nærheden af dit hjem over to dage i Randers, et frirum fra din hverdag.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-randers-favrskov-mariagerfjord-viborg/weekend-yoga-retreats?holdnr=721414</g:link>
+      <g:image_link>https://www.fof.dk/media/udtj1oit/yoga-straek-paa-lilla-maatte-umbraco.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>595.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Randers-Favrskov-Mariagerfjord-Viborg</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Yoga</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Randers</g:custom_label_4>
+      <g:start_date>2027-10-02T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Weekend</g:custom_label_3>
+      <g:internal_label>['Weekend','Randers C']</g:internal_label>
     </item>
 </channel>
 </rss>
