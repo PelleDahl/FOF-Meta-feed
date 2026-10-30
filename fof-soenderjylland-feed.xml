@@ -6,28 +6,6 @@
 <description>Meta produktfeed med alle ledige hold fra FOF Sønderjylland</description>
 <language>da-DK</language>
 <item>
-      <g:id>SDJ-3262005</g:id>
-      <g:title><![CDATA[Revysangens genklang]]></g:title>
-      <g:description><![CDATA[Tag med på en stemningsfuld rejse gennem mere end 100 års dansk revyhistorie. Den danske revytradition rummer et væld af sange, der gennem generationer har fået os til både at le, tænke og synge med.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-soenderjylland/revysangens-genklang?holdnr=3262005</g:link>
-      <g:image_link>https://www.fof.dk/media/m0nde210/foredrag-revysangens-genklang-haderslev-soenderborg-fof-aftenskolen.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>145.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Sønderjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Foredrag, debat og højskoler &gt; Kultur og livsfortællinger</g:product_type>
-      <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
-      <g:custom_label_1>Kultur og livsfortællinger</g:custom_label_1>
-      <g:custom_label_2></g:custom_label_2>
-      <g:custom_label_4>Haderslev</g:custom_label_4>
-      <g:start_date>2026-10-30T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Starter snart</g:custom_label_3>
-      <g:internal_label>['Starter snart','Haderslev','Sønderborg']</g:internal_label>
-    </item>
-<item>
       <g:id>SDJ-1262046</g:id>
       <g:title><![CDATA[Hva synnejysk ka bruches te]]></g:title>
       <g:description><![CDATA[Æ sproch – levende fortællinger på sønderjysk. 
@@ -532,8 +510,8 @@ Foredragsholder, Asta Kjær, fortæller om sin egen vej gennem livet og om bruge
       <g:custom_label_2>Naturfag og friluftsliv</g:custom_label_2>
       <g:custom_label_4>Sønderborg</g:custom_label_4>
       <g:start_date>2026-11-15T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Bæredygtig</g:custom_label_3>
-      <g:internal_label>['Bæredygtig','Sønderborg']</g:internal_label>
+      <g:custom_label_3>Starter snart</g:custom_label_3>
+      <g:internal_label>['Starter snart','Bæredygtig','Sønderborg']</g:internal_label>
     </item>
 <item>
       <g:id>SDJ-1262903</g:id>
@@ -575,8 +553,7 @@ Foredragsholder, Asta Kjær, fortæller om sin egen vej gennem livet og om bruge
       <g:custom_label_2>Strengeinstrumenter</g:custom_label_2>
       <g:custom_label_4>Sønderborg</g:custom_label_4>
       <g:start_date>2026-11-17T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Starter snart</g:custom_label_3>
-      <g:internal_label>['Starter snart','Sønderborg']</g:internal_label>
+      <g:internal_label>['Sønderborg']</g:internal_label>
     </item>
 <item>
       <g:id>SDJ-1262722</g:id>
@@ -641,8 +618,7 @@ Foredragsholder, Asta Kjær, fortæller om sin egen vej gennem livet og om bruge
       <g:custom_label_2>Strengeinstrumenter</g:custom_label_2>
       <g:custom_label_4>Sønderborg</g:custom_label_4>
       <g:start_date>2026-11-17T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Starter snart</g:custom_label_3>
-      <g:internal_label>['Starter snart','Sønderborg']</g:internal_label>
+      <g:internal_label>['Sønderborg']</g:internal_label>
     </item>
 <item>
       <g:id>SDJ-2262518</g:id>
@@ -796,7 +772,7 @@ Vi bruger tiden hver eneste dag. Vi måler den, planlægger efter den, mangler d
       <g:custom_label_4>Aabenraa</g:custom_label_4>
       <g:start_date>2026-11-26T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Aabenraa</g:custom_label_3>
-      <g:internal_label>['Aabenraa','Motion']</g:internal_label>
+      <g:internal_label>['Aabenraa','Bjerggade','Motion']</g:internal_label>
     </item>
 <item>
       <g:id>SDJ-1262005</g:id>
@@ -1077,7 +1053,7 @@ Vi bruger tiden hver eneste dag. Vi måler den, planlægger efter den, mangler d
       <g:custom_label_4>Aabenraa</g:custom_label_4>
       <g:start_date>2026-12-17T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Aabenraa</g:custom_label_3>
-      <g:internal_label>['Aabenraa','Motion']</g:internal_label>
+      <g:internal_label>['Aabenraa','Bjerggade','Motion']</g:internal_label>
     </item>
 <item>
       <g:id>SDJ-3262717</g:id>

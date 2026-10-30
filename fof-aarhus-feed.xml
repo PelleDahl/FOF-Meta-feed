@@ -178,8 +178,8 @@
       <g:custom_label_2>Førstehjælp</g:custom_label_2>
       <g:custom_label_4>Åbyhøj</g:custom_label_4>
       <g:start_date>2026-11-03T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Starter om &lt; 14 dage</g:custom_label_3>
-      <g:internal_label>['Starter om &lt; 14 dage','Førstehjælp til kørekort','Korte kurser','Åbyhøj']</g:internal_label>
+      <g:custom_label_3>Førstehjælp til kørekort</g:custom_label_3>
+      <g:internal_label>['Førstehjælp til kørekort','Korte kurser','Starter om &lt; 14 dage','Åbyhøj']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-426982A</g:id>
@@ -1082,7 +1082,7 @@
       <g:custom_label_4>Aarhus</g:custom_label_4>
       <g:start_date>2026-11-14T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Korte kurser</g:custom_label_3>
-      <g:internal_label>['Korte kurser','Aarhus C']</g:internal_label>
+      <g:internal_label>['Korte kurser','Starter om &lt; 14 dage','Aarhus C']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-423585</g:id>
@@ -1104,7 +1104,7 @@
       <g:custom_label_4>Aarhus</g:custom_label_4>
       <g:start_date>2026-11-14T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Jul og nytår</g:custom_label_3>
-      <g:internal_label>['Jul og nytår','Korte kurser','Aarhus C']</g:internal_label>
+      <g:internal_label>['Jul og nytår','Korte kurser','Starter om &lt; 14 dage','Aarhus C']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-426016</g:id>
@@ -1126,7 +1126,7 @@
       <g:custom_label_4>Aarhus</g:custom_label_4>
       <g:start_date>2026-11-14T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Korte kurser</g:custom_label_3>
-      <g:internal_label>['Korte kurser','Aarhus C']</g:internal_label>
+      <g:internal_label>['Korte kurser','Starter om &lt; 14 dage','Aarhus C']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-423577</g:id>
@@ -2210,7 +2210,7 @@
       <g:custom_label_4>Åbyhøj</g:custom_label_4>
       <g:start_date>2026-12-01T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Korte kurser</g:custom_label_3>
-      <g:internal_label>['Korte kurser','Starter om &lt; 14 dage','Åbyhøj']</g:internal_label>
+      <g:internal_label>['Korte kurser','Åbyhøj']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-428878</g:id>
@@ -2232,7 +2232,7 @@
       <g:custom_label_4>Åbyhøj</g:custom_label_4>
       <g:start_date>2026-12-01T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Førstehjælp til kørekort</g:custom_label_3>
-      <g:internal_label>['Førstehjælp til kørekort','Korte kurser','Åbyhøj']</g:internal_label>
+      <g:internal_label>['Førstehjælp til kørekort','Korte kurser','Starter om &lt; 14 dage','Åbyhøj']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-428953</g:id>
@@ -2428,8 +2428,7 @@
       <g:custom_label_2>Tegnekurser</g:custom_label_2>
       <g:custom_label_4>Åbyhøj</g:custom_label_4>
       <g:start_date>2026-12-04T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Starter om &lt; 14 dage</g:custom_label_3>
-      <g:internal_label>['Starter om &lt; 14 dage','Åbyhøj']</g:internal_label>
+      <g:internal_label>['Åbyhøj']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-428937</g:id>
@@ -3673,27 +3672,6 @@
       <g:internal_label>['Aarhus C']</g:internal_label>
     </item>
 <item>
-      <g:id>AAR-436870</g:id>
-      <g:title><![CDATA[Ditte Young: Hvad kan vi lære af neurodivergente børn og unge?]]></g:title>
-      <g:description><![CDATA[Kom med til dette tankevækkende og inspirerende foredrag i FOF Aarhus, hvor Ditte Young åbner for nye perspektiver på neurodivergens hos børn og unge og sætter fokus på de ressourcer, styrker og potentialer, som ofte overses. | Tilmeld dig nu!]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/ditte-young-hvad-kan-vi-laere-af-neurodivergente-boern-og-unge?holdnr=436870</g:link>
-      <g:image_link>https://www.fof.dk/media/j2ffv5uz/ditteyoung_1200x1200-fof-aarhus.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>200.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Aarhus</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Foredrag, debat og højskoler &gt; Sundhed og eksistens</g:product_type>
-      <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
-      <g:custom_label_1>Sundhed og eksistens</g:custom_label_1>
-      <g:custom_label_2></g:custom_label_2>
-      <g:custom_label_4>Aarhus</g:custom_label_4>
-      <g:start_date>2027-03-31T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Aarhus C']</g:internal_label>
-    </item>
-<item>
       <g:id>AAR-436889</g:id>
       <g:title><![CDATA[Vejen til en selvforsynende have]]></g:title>
       <g:description><![CDATA[Mød Lotte og Per, indehavere af Permahaven Bakkely, til et foredrag i FOF Aarhus om den selvforsynende køkkenhave | Tilmeld dig og bliv klogere]]></g:description>
@@ -3709,6 +3687,27 @@
       <g:product_type>Foredrag, debat og højskoler &gt; Natur og haver</g:product_type>
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Natur og haver</g:custom_label_1>
+      <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Aarhus</g:custom_label_4>
+      <g:start_date>2027-03-31T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Aarhus C']</g:internal_label>
+    </item>
+<item>
+      <g:id>AAR-436870</g:id>
+      <g:title><![CDATA[Ditte Young: Hvad kan vi lære af neurodivergente børn og unge?]]></g:title>
+      <g:description><![CDATA[Kom med til dette tankevækkende og inspirerende foredrag i FOF Aarhus, hvor Ditte Young åbner for nye perspektiver på neurodivergens hos børn og unge og sætter fokus på de ressourcer, styrker og potentialer, som ofte overses. | Tilmeld dig nu!]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/ditte-young-hvad-kan-vi-laere-af-neurodivergente-boern-og-unge?holdnr=436870</g:link>
+      <g:image_link>https://www.fof.dk/media/j2ffv5uz/ditteyoung_1200x1200-fof-aarhus.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>200.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Foredrag, debat og højskoler &gt; Sundhed og eksistens</g:product_type>
+      <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
+      <g:custom_label_1>Sundhed og eksistens</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4>Aarhus</g:custom_label_4>
       <g:start_date>2027-03-31T00:00:00.000Z</g:start_date>
