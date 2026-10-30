@@ -6,6 +6,28 @@
 <description>Meta produktfeed med alle ledige hold fra FOF Aarhus</description>
 <language>da-DK</language>
 <item>
+      <g:id>AAR-425064</g:id>
+      <g:title><![CDATA[Fødselsvejrtrækning & ve-træning (parhold)]]></g:title>
+      <g:description><![CDATA[Lær om veer og fødselsvejrtrækning  sammen med din fødselspartner i FOF Aftenskolen Aarhus. ]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/foedselsvejrtraekning-ve-traening-parhold?holdnr=425064</g:link>
+      <g:image_link>https://www.fof.dk/media/ak1hwuer/vetraening_2_1200x1200-aarhus.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1560.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Fødselsforberedelse</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
+      <g:custom_label_2>Fødselsforberedelse</g:custom_label_2>
+      <g:custom_label_4>Åbyhøj</g:custom_label_4>
+      <g:start_date>2026-10-31T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Korte kurser</g:custom_label_3>
+      <g:internal_label>['Korte kurser','Åbyhøj']</g:internal_label>
+    </item>
+<item>
       <g:id>AAR-425063</g:id>
       <g:title><![CDATA[Breathing techniques for contractions and childbirth (couples class)]]></g:title>
       <g:description><![CDATA[Join this childbirth class in Aarhus for couples, taught in English. Learn effective breathing, contraction techniques, birthing positions, and partner support to feel fully prepared for birth.]]></g:description>
@@ -535,28 +557,6 @@
       <g:internal_label>['Starter om &lt; 14 dage','Aarhus C']</g:internal_label>
     </item>
 <item>
-      <g:id>AAR-422165</g:id>
-      <g:title><![CDATA[Collage – weekendkursus]]></g:title>
-      <g:description><![CDATA[Tag med på collagekursus, og lær at mestre teknikker og materialer | Skab collagekunst på et weekendkursus i FOF Aahus ]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/collage-weekendkursus?holdnr=422165</g:link>
-      <g:image_link>https://www.fof.dk/media/op4h21eq/collagekursus-pia-frank-fof-aarhus-11.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>955.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Aarhus</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Kreative kurser &gt; Malekurser</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Kreative kurser</g:custom_label_1>
-      <g:custom_label_2>Malekurser</g:custom_label_2>
-      <g:custom_label_4>Åbyhøj</g:custom_label_4>
-      <g:start_date>2026-11-07T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Starter om &lt; 14 dage</g:custom_label_3>
-      <g:internal_label>['Starter om &lt; 14 dage','Korte kurser','Åbyhøj']</g:internal_label>
-    </item>
-<item>
       <g:id>AAR-423213</g:id>
       <g:title><![CDATA[Frit broderi - letøvede/øvede]]></g:title>
       <g:description><![CDATA[Genopfrisk dine broderisting og kom videre med dine egne projekter på et kreativt kursus i FOF Aarhus. Du får individuel vejledning, inspiration og ro til fordybelse. ]]></g:description>
@@ -577,6 +577,28 @@
       <g:start_date>2026-11-07T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Starter om &lt; 14 dage</g:custom_label_3>
       <g:internal_label>['Starter om &lt; 14 dage','Korte kurser','Aarhus C']</g:internal_label>
+    </item>
+<item>
+      <g:id>AAR-422165</g:id>
+      <g:title><![CDATA[Collage – weekendkursus]]></g:title>
+      <g:description><![CDATA[Tag med på collagekursus, og lær at mestre teknikker og materialer | Skab collagekunst på et weekendkursus i FOF Aahus ]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/collage-weekendkursus?holdnr=422165</g:link>
+      <g:image_link>https://www.fof.dk/media/op4h21eq/collagekursus-pia-frank-fof-aarhus-11.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>955.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Kreative kurser &gt; Malekurser</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Kreative kurser</g:custom_label_1>
+      <g:custom_label_2>Malekurser</g:custom_label_2>
+      <g:custom_label_4>Åbyhøj</g:custom_label_4>
+      <g:start_date>2026-11-07T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Starter om &lt; 14 dage</g:custom_label_3>
+      <g:internal_label>['Starter om &lt; 14 dage','Korte kurser','Åbyhøj']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-423219</g:id>
@@ -975,6 +997,28 @@
       <g:internal_label>['Starter om &lt; 14 dage','Aarhus C']</g:internal_label>
     </item>
 <item>
+      <g:id>AAR-425330</g:id>
+      <g:title><![CDATA[ADHD og studiestøtte - en god start på studielivet (workshop)]]></g:title>
+      <g:description><![CDATA[For mange unge med ADHD kan det være svært at få studiehverdagen til at hænge sammen. Kom med på en workshop i Aarhus, hvor du får konkrete strategier til at organisere studiet. Tilmeld dig nu!]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/adhd-og-studiestoette-en-god-start-paa-studielivet-workshop?holdnr=425330</g:link>
+      <g:image_link>https://www.fof.dk/media/sxkhwyrt/adhd-studerende_1200x1200_fof-aarhus.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>295.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Livsstil og trivsel &gt; Mental trivsel</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Livsstil og trivsel</g:custom_label_1>
+      <g:custom_label_2>Mental trivsel</g:custom_label_2>
+      <g:custom_label_4>Åbyhøj</g:custom_label_4>
+      <g:start_date>2026-11-12T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Korte kurser</g:custom_label_3>
+      <g:internal_label>['Korte kurser','Starter om &lt; 14 dage','Åbyhøj']</g:internal_label>
+    </item>
+<item>
       <g:id>AAR-428938</g:id>
       <g:title><![CDATA[Førstehjælp til babyer]]></g:title>
       <g:description><![CDATA[Er du blevet forældre, og har brug for at lære førstehjælp til babyer? Hos FOF Aarhus kan du lære førstehjælp til små børn på et af vores kurser | FOF Aftenskolen Aarhus]]></g:description>
@@ -1017,28 +1061,6 @@
       <g:start_date>2026-11-12T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Starter om &lt; 14 dage</g:custom_label_3>
       <g:internal_label>['Starter om &lt; 14 dage','Aarhus C']</g:internal_label>
-    </item>
-<item>
-      <g:id>AAR-425330</g:id>
-      <g:title><![CDATA[ADHD og studiestøtte - en god start på studielivet (workshop)]]></g:title>
-      <g:description><![CDATA[For mange unge med ADHD kan det være svært at få studiehverdagen til at hænge sammen. Kom med på en workshop i Aarhus, hvor du får konkrete strategier til at organisere studiet. Tilmeld dig nu!]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/adhd-og-studiestoette-en-god-start-paa-studielivet-workshop?holdnr=425330</g:link>
-      <g:image_link>https://www.fof.dk/media/sxkhwyrt/adhd-studerende_1200x1200_fof-aarhus.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>295.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Aarhus</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Livsstil og trivsel &gt; Mental trivsel</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Livsstil og trivsel</g:custom_label_1>
-      <g:custom_label_2>Mental trivsel</g:custom_label_2>
-      <g:custom_label_4>Åbyhøj</g:custom_label_4>
-      <g:start_date>2026-11-12T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Korte kurser</g:custom_label_3>
-      <g:internal_label>['Korte kurser','Starter om &lt; 14 dage','Åbyhøj']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-425013</g:id>
@@ -2213,28 +2235,6 @@
       <g:internal_label>['Korte kurser','Åbyhøj']</g:internal_label>
     </item>
 <item>
-      <g:id>AAR-428878</g:id>
-      <g:title><![CDATA[Færdselsrelateret førstehjælp (2-dages kursus)]]></g:title>
-      <g:description><![CDATA[Kom med på 2-dages førstehjælpskursus til kørekort. Praktisk-orienteret undervisning hos FOF Aftenskolen Aarhus.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/faerdselsrelateret-foerstehjaelp-2-dages-kursus?holdnr=428878</g:link>
-      <g:image_link>https://www.fof.dk/media/k2zfhdjj/foerstehjaelp-bentedyhrberg-2_1200x1200-fof-aarhus.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>575.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Aarhus</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Førstehjælp</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Førstehjælp</g:custom_label_2>
-      <g:custom_label_4>Åbyhøj</g:custom_label_4>
-      <g:start_date>2026-12-01T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Førstehjælp til kørekort</g:custom_label_3>
-      <g:internal_label>['Førstehjælp til kørekort','Korte kurser','Starter om &lt; 14 dage','Åbyhøj']</g:internal_label>
-    </item>
-<item>
       <g:id>AAR-428953</g:id>
       <g:title><![CDATA[First aid - babies (English)]]></g:title>
       <g:description><![CDATA[Learn first aid for babies at FOF Aarhus. We offer courses in English. Sign up today.]]></g:description>
@@ -2255,6 +2255,28 @@
       <g:start_date>2026-12-01T00:00:00.000Z</g:start_date>
       <g:custom_label_3>In English</g:custom_label_3>
       <g:internal_label>['In English','Åbyhøj']</g:internal_label>
+    </item>
+<item>
+      <g:id>AAR-428878</g:id>
+      <g:title><![CDATA[Færdselsrelateret førstehjælp (2-dages kursus)]]></g:title>
+      <g:description><![CDATA[Kom med på 2-dages førstehjælpskursus til kørekort. Praktisk-orienteret undervisning hos FOF Aftenskolen Aarhus.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/faerdselsrelateret-foerstehjaelp-2-dages-kursus?holdnr=428878</g:link>
+      <g:image_link>https://www.fof.dk/media/k2zfhdjj/foerstehjaelp-bentedyhrberg-2_1200x1200-fof-aarhus.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>575.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Førstehjælp</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Førstehjælp</g:custom_label_2>
+      <g:custom_label_4>Åbyhøj</g:custom_label_4>
+      <g:start_date>2026-12-01T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Førstehjælp til kørekort</g:custom_label_3>
+      <g:internal_label>['Førstehjælp til kørekort','Korte kurser','Starter om &lt; 14 dage','Åbyhøj']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-426938</g:id>
@@ -3968,7 +3990,7 @@
     </item>
 <item>
       <g:id>AAR-436891</g:id>
-      <g:title><![CDATA[Alexander Holm: Mennesker og resten af naturen - en utaknemmelig relation]]></g:title>
+      <g:title><![CDATA[Alexander Holm: Mennesker og resten af naturen – en utaknemmelig relation]]></g:title>
       <g:description><![CDATA[Oplev biolog og naturformidler Alexander holm til foredrag i FOF Aarhus om menneskets forhold til naturen | Tilmeld dig og bliv klogere]]></g:description>
       <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/alexander-holm-mennesker-og-resten-af-naturen-en-utaknemmelig-relation?holdnr=436891</g:link>
       <g:image_link>https://www.fof.dk/media/s4ydn5z0/alexander_holm_foredrag_fof_aarhus_1200x1200.jpg?width=1200</g:image_link>
