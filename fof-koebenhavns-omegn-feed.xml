@@ -556,28 +556,6 @@
       <g:internal_label>['Starter snart','Endagskurser']</g:internal_label>
     </item>
 <item>
-      <g:id>KBO-32606</g:id>
-      <g:title><![CDATA[Grøn mad for familier]]></g:title>
-      <g:description><![CDATA[Lær at lave grøn mad på familiekursus i Rødovre. Få inspiration til nemme, lækre retter uden kød, som hele familien vil elske.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/groen-mad-for-familier?holdnr=32606</g:link>
-      <g:image_link>https://www.fof.dk/media/kjmn04o0/groen-mad-for-familier.png?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>600.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Københavns Omegn</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Familie, børn og unge &gt; Madlavning</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Familie, børn og unge</g:custom_label_1>
-      <g:custom_label_2>Madlavning</g:custom_label_2>
-      <g:custom_label_4>Rødovre</g:custom_label_4>
-      <g:start_date>2026-11-15T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Starter snart</g:custom_label_3>
-      <g:internal_label>['Starter snart','Familie','Rødovre','Endagskurser']</g:internal_label>
-    </item>
-<item>
       <g:id>KBO-22058</g:id>
       <g:title><![CDATA[Byvandring i Søren Kierkegaards København ]]></g:title>
       <g:description><![CDATA[Tag med på en byvandring i København i Søren Kierkegaards fodspor. Guidet tur gennem Indre By med historie, filosofi og fortællinger om en af Danmarks største tænkere.]]></g:description>
@@ -598,6 +576,28 @@
       <g:start_date>2026-11-15T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Starter snart</g:custom_label_3>
       <g:internal_label>['Starter snart','København','Endagskurser','København K']</g:internal_label>
+    </item>
+<item>
+      <g:id>KBO-32606</g:id>
+      <g:title><![CDATA[Grøn mad for familier]]></g:title>
+      <g:description><![CDATA[Lær at lave grøn mad på familiekursus i Rødovre. Få inspiration til nemme, lækre retter uden kød, som hele familien vil elske.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/groen-mad-for-familier?holdnr=32606</g:link>
+      <g:image_link>https://www.fof.dk/media/kjmn04o0/groen-mad-for-familier.png?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>600.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Københavns Omegn</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Familie, børn og unge &gt; Madlavning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Familie, børn og unge</g:custom_label_1>
+      <g:custom_label_2>Madlavning</g:custom_label_2>
+      <g:custom_label_4>Rødovre</g:custom_label_4>
+      <g:start_date>2026-11-15T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Starter snart</g:custom_label_3>
+      <g:internal_label>['Starter snart','Familie','Rødovre','Endagskurser']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-22117</g:id>
@@ -2336,28 +2336,6 @@
       <g:internal_label>['Ballerup']</g:internal_label>
     </item>
 <item>
-      <g:id>KBO-23947</g:id>
-      <g:title><![CDATA[Motion i varmt vand]]></g:title>
-      <g:description><![CDATA[Deltag i varmtvandstræning i Herlev og Ballerup hos FOF Københavns Omegn. Skånsom motion med fysioterapeutisk vejledning i varmt vand. Find dit hold blandt mange mulige tider.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/motion-i-varmt-vand?holdnr=23947</g:link>
-      <g:image_link>https://www.fof.dk/media/btej5r1f/varmtvandstraening-for-gigtramte.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1520.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Københavns Omegn</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Træning i vand</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Træning i vand</g:custom_label_2>
-      <g:custom_label_4>Herlev</g:custom_label_4>
-      <g:start_date>2027-01-27T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Herlev</g:custom_label_3>
-      <g:internal_label>['Herlev','Ballerup','Glostrup']</g:internal_label>
-    </item>
-<item>
       <g:id>KBO-23828</g:id>
       <g:title><![CDATA[Styrketræning med fokus på osteoporose]]></g:title>
       <g:description><![CDATA[For dig med knogleskørhed/osteoporose. Skånsom og målrettet træning for dig med osteoporose. Fokus på styrke, balance og tryg bevægelse i rolige rammer med professionel vejledning.]]></g:description>
@@ -2378,6 +2356,28 @@
       <g:start_date>2027-01-27T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Brøndby</g:custom_label_3>
       <g:internal_label>['Brøndby','Herlev']</g:internal_label>
+    </item>
+<item>
+      <g:id>KBO-23947</g:id>
+      <g:title><![CDATA[Motion i varmt vand]]></g:title>
+      <g:description><![CDATA[Deltag i varmtvandstræning i Herlev og Ballerup hos FOF Københavns Omegn. Skånsom motion med fysioterapeutisk vejledning i varmt vand. Find dit hold blandt mange mulige tider.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/motion-i-varmt-vand?holdnr=23947</g:link>
+      <g:image_link>https://www.fof.dk/media/btej5r1f/varmtvandstraening-for-gigtramte.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1520.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Københavns Omegn</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Træning i vand</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Træning i vand</g:custom_label_2>
+      <g:custom_label_4>Herlev</g:custom_label_4>
+      <g:start_date>2027-01-27T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Herlev</g:custom_label_3>
+      <g:internal_label>['Herlev','Ballerup','Glostrup']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23922</g:id>
@@ -3414,26 +3414,6 @@
       <g:internal_label>['Vallensbæk','Glostrup','Herlev','Brøndby','Rødovre']</g:internal_label>
     </item>
 <item>
-      <g:id>KBO-23310</g:id>
-      <g:title><![CDATA[Ungarsk for let øvede (A2) - ONLINE]]></g:title>
-      <g:description><![CDATA[Udvid dit ungarske på let øvet niveau (A2). Lær at forstå længere ytringer, føre simple samtaler og skrive korte beskeder med større sikkerhed.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/ungarsk-for-let-oevede-a2?holdnr=23310</g:link>
-      <g:image_link>https://www.fof.dk/media/mpja0l0k/laer-ungarnsk-hos-fof-aftenskolen.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1632.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Københavns Omegn</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Sprog &gt; Ungarsk</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Sprog</g:custom_label_1>
-      <g:custom_label_2>Ungarsk</g:custom_label_2>
-      <g:custom_label_4></g:custom_label_4>
-      <g:start_date>2027-02-04T00:00:00.000Z</g:start_date>
-    </item>
-<item>
       <g:id>KBO-23531</g:id>
       <g:title><![CDATA[Pilates]]></g:title>
       <g:description><![CDATA[Pilates i Rødovre, Herlev og Taastrup. Skånsom fysioterapeutisk træning på Lindehøjskolen og Taastrup Kulturcenter med fokus på styrke og balance.]]></g:description>
@@ -3454,6 +3434,26 @@
       <g:start_date>2027-02-04T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Taastrup</g:custom_label_3>
       <g:internal_label>['Taastrup','Rødovre','Herlev']</g:internal_label>
+    </item>
+<item>
+      <g:id>KBO-23310</g:id>
+      <g:title><![CDATA[Ungarsk for let øvede (A2) - ONLINE]]></g:title>
+      <g:description><![CDATA[Udvid dit ungarske på let øvet niveau (A2). Lær at forstå længere ytringer, føre simple samtaler og skrive korte beskeder med større sikkerhed.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/ungarsk-for-let-oevede-a2?holdnr=23310</g:link>
+      <g:image_link>https://www.fof.dk/media/mpja0l0k/laer-ungarnsk-hos-fof-aftenskolen.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1632.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Københavns Omegn</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Sprog &gt; Ungarsk</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Sprog</g:custom_label_1>
+      <g:custom_label_2>Ungarsk</g:custom_label_2>
+      <g:custom_label_4></g:custom_label_4>
+      <g:start_date>2027-02-04T00:00:00.000Z</g:start_date>
     </item>
 <item>
       <g:id>KBO-23030</g:id>
