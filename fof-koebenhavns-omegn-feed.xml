@@ -6,28 +6,6 @@
 <description>Meta produktfeed med alle ledige hold fra FOF Københavns Omegn</description>
 <language>da-DK</language>
 <item>
-      <g:id>KBO-22143</g:id>
-      <g:title><![CDATA[AI kursus – lær ChatGPT i praksis]]></g:title>
-      <g:description><![CDATA[AI kursus i Taastrup Kulturcenter. Lær ChatGPT, prompts og kunstig intelligens fra bunden. Praktisk kursus for begyndere, der vil bruge AI på arbejde og i hverdagen.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/ai-kursus-laer-chatgpt-i-praksis?holdnr=22143</g:link>
-      <g:image_link>https://www.fof.dk/media/qchkq4k5/ai-kursus.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>325.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Københavns Omegn</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; It og foto &gt; Kunstig intelligens - AI</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>It og foto</g:custom_label_1>
-      <g:custom_label_2>Kunstig intelligens - AI</g:custom_label_2>
-      <g:custom_label_4>Taastrup</g:custom_label_4>
-      <g:start_date>2026-10-31T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Taastrup</g:custom_label_3>
-      <g:internal_label>['Taastrup','Starter snart','Endagskurser']</g:internal_label>
-    </item>
-<item>
       <g:id>KBO-22230</g:id>
       <g:title><![CDATA[Vegetarisk 3-retters menu]]></g:title>
       <g:description><![CDATA[Lær vegetarisk madlavning i Taastrup. Madkursus med bælgfrugter, grøn madlavning og smagfuld 3-retters menu hos FOF Københavns Omegn.]]></g:description>
@@ -574,8 +552,8 @@
       <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4></g:custom_label_4>
       <g:start_date>2026-11-15T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Endagskurser</g:custom_label_3>
-      <g:internal_label>['Endagskurser']</g:internal_label>
+      <g:custom_label_3>Starter snart</g:custom_label_3>
+      <g:internal_label>['Starter snart','Endagskurser']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-32606</g:id>
@@ -596,8 +574,8 @@
       <g:custom_label_2>Madlavning</g:custom_label_2>
       <g:custom_label_4>Rødovre</g:custom_label_4>
       <g:start_date>2026-11-15T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Familie</g:custom_label_3>
-      <g:internal_label>['Familie','Rødovre','Endagskurser']</g:internal_label>
+      <g:custom_label_3>Starter snart</g:custom_label_3>
+      <g:internal_label>['Starter snart','Familie','Rødovre','Endagskurser']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-22058</g:id>
@@ -618,8 +596,8 @@
       <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4>København</g:custom_label_4>
       <g:start_date>2026-11-15T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>København</g:custom_label_3>
-      <g:internal_label>['København','Endagskurser','København K']</g:internal_label>
+      <g:custom_label_3>Starter snart</g:custom_label_3>
+      <g:internal_label>['Starter snart','København','Endagskurser','København K']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-22117</g:id>
@@ -1764,28 +1742,6 @@
       <g:internal_label>['Glostrup']</g:internal_label>
     </item>
 <item>
-      <g:id>KBO-23583</g:id>
-      <g:title><![CDATA[Tai Chi]]></g:title>
-      <g:description><![CDATA[Deltag i Tai Chi hos FOF Københavns Omegn i Vallensbæk, Glostrup, Brøndby og Herlev. Tai Chi er en rolig og nærværende træningsform, hvor fokus er på balance, smidighed og mental ro gennem langsomme, kontrollerede bevægelser. Blid træning for alle.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/tai-chi?holdnr=23583</g:link>
-      <g:image_link>https://www.fof.dk/media/fm3htpft/tai-chi-ballerup.png?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1925.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Københavns Omegn</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Tai Chi og Qi Gong</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Tai Chi og Qi Gong</g:custom_label_2>
-      <g:custom_label_4>Brøndby</g:custom_label_4>
-      <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Vallensbæk</g:custom_label_3>
-      <g:internal_label>['Vallensbæk','Glostrup','Herlev','Brøndby']</g:internal_label>
-    </item>
-<item>
       <g:id>KBO-23330</g:id>
       <g:title><![CDATA[Italiensk for let øvede (A2+)]]></g:title>
       <g:description><![CDATA[Italiensk for let øvede (A2) hos FOF Københavns Omegn: Bliv mere sikker i samtaler og udvid dit ordforråd i dagligdags situationer.]]></g:description>
@@ -1806,6 +1762,28 @@
       <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Taastrup</g:custom_label_3>
       <g:internal_label>['Taastrup']</g:internal_label>
+    </item>
+<item>
+      <g:id>KBO-23583</g:id>
+      <g:title><![CDATA[Tai Chi]]></g:title>
+      <g:description><![CDATA[Deltag i Tai Chi hos FOF Københavns Omegn i Vallensbæk, Glostrup, Brøndby og Herlev. Tai Chi er en rolig og nærværende træningsform, hvor fokus er på balance, smidighed og mental ro gennem langsomme, kontrollerede bevægelser. Blid træning for alle.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/tai-chi?holdnr=23583</g:link>
+      <g:image_link>https://www.fof.dk/media/fm3htpft/tai-chi-ballerup.png?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1925.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Københavns Omegn</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Tai Chi og Qi Gong</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Tai Chi og Qi Gong</g:custom_label_2>
+      <g:custom_label_4>Brøndby</g:custom_label_4>
+      <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Vallensbæk</g:custom_label_3>
+      <g:internal_label>['Vallensbæk','Glostrup','Herlev','Brøndby']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23637</g:id>
@@ -3216,28 +3194,6 @@
       <g:internal_label>['Albertslund','Glostrup','Herlev','Taastrup']</g:internal_label>
     </item>
 <item>
-      <g:id>KBO-23553</g:id>
-      <g:title><![CDATA[Hatha yoga for mænd]]></g:title>
-      <g:description><![CDATA[Deltag i Hatha yoga for mænd i Taastrup og Rødovre hos FOF Københavns Omegn. Rolig yoga med fokus på styrke, smidighed og færre spændinger.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/hatha-yoga-for-maend?holdnr=23553</g:link>
-      <g:image_link>https://www.fof.dk/media/jm4b03hn/hatha-yoga-for-maend.png?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1375.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Københavns Omegn</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Yoga</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Yoga</g:custom_label_2>
-      <g:custom_label_4>Rødovre</g:custom_label_4>
-      <g:start_date>2027-02-02T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Taastrup</g:custom_label_3>
-      <g:internal_label>['Taastrup','Rødovre']</g:internal_label>
-    </item>
-<item>
       <g:id>KBO-23543</g:id>
       <g:title><![CDATA[Yoga for seniorer]]></g:title>
       <g:description><![CDATA[Deltag i senioryoga hos FOF Københavns Omegn i Herlev, Glostrup, Albertslund og Taastrup. Gode lyse lokaler med nem adgang og gode parkeringsmuligheder. Blid yoga med fokus på balance, smidighed og ro.]]></g:description>
@@ -3258,6 +3214,28 @@
       <g:start_date>2027-02-02T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Albertslund</g:custom_label_3>
       <g:internal_label>['Albertslund','Glostrup','Herlev','Taastrup']</g:internal_label>
+    </item>
+<item>
+      <g:id>KBO-23553</g:id>
+      <g:title><![CDATA[Hatha yoga for mænd]]></g:title>
+      <g:description><![CDATA[Deltag i Hatha yoga for mænd i Taastrup og Rødovre hos FOF Københavns Omegn. Rolig yoga med fokus på styrke, smidighed og færre spændinger.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/hatha-yoga-for-maend?holdnr=23553</g:link>
+      <g:image_link>https://www.fof.dk/media/jm4b03hn/hatha-yoga-for-maend.png?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1375.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Københavns Omegn</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Yoga</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Rødovre</g:custom_label_4>
+      <g:start_date>2027-02-02T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Taastrup</g:custom_label_3>
+      <g:internal_label>['Taastrup','Rødovre']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23599</g:id>
@@ -3436,6 +3414,26 @@
       <g:internal_label>['Vallensbæk','Glostrup','Herlev','Brøndby','Rødovre']</g:internal_label>
     </item>
 <item>
+      <g:id>KBO-23310</g:id>
+      <g:title><![CDATA[Ungarsk for let øvede (A2) - ONLINE]]></g:title>
+      <g:description><![CDATA[Udvid dit ungarske på let øvet niveau (A2). Lær at forstå længere ytringer, føre simple samtaler og skrive korte beskeder med større sikkerhed.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/ungarsk-for-let-oevede-a2?holdnr=23310</g:link>
+      <g:image_link>https://www.fof.dk/media/mpja0l0k/laer-ungarnsk-hos-fof-aftenskolen.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1632.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Københavns Omegn</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Sprog &gt; Ungarsk</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Sprog</g:custom_label_1>
+      <g:custom_label_2>Ungarsk</g:custom_label_2>
+      <g:custom_label_4></g:custom_label_4>
+      <g:start_date>2027-02-04T00:00:00.000Z</g:start_date>
+    </item>
+<item>
       <g:id>KBO-23531</g:id>
       <g:title><![CDATA[Pilates]]></g:title>
       <g:description><![CDATA[Pilates i Rødovre, Herlev og Taastrup. Skånsom fysioterapeutisk træning på Lindehøjskolen og Taastrup Kulturcenter med fokus på styrke og balance.]]></g:description>
@@ -3456,26 +3454,6 @@
       <g:start_date>2027-02-04T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Taastrup</g:custom_label_3>
       <g:internal_label>['Taastrup','Rødovre','Herlev']</g:internal_label>
-    </item>
-<item>
-      <g:id>KBO-23310</g:id>
-      <g:title><![CDATA[Ungarsk for let øvede (A2) - ONLINE]]></g:title>
-      <g:description><![CDATA[Udvid dit ungarske på let øvet niveau (A2). Lær at forstå længere ytringer, føre simple samtaler og skrive korte beskeder med større sikkerhed.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/ungarsk-for-let-oevede-a2?holdnr=23310</g:link>
-      <g:image_link>https://www.fof.dk/media/mpja0l0k/laer-ungarnsk-hos-fof-aftenskolen.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1632.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Københavns Omegn</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Sprog &gt; Ungarsk</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Sprog</g:custom_label_1>
-      <g:custom_label_2>Ungarsk</g:custom_label_2>
-      <g:custom_label_4></g:custom_label_4>
-      <g:start_date>2027-02-04T00:00:00.000Z</g:start_date>
     </item>
 <item>
       <g:id>KBO-23030</g:id>
@@ -3720,28 +3698,6 @@
       <g:internal_label>['Glostrup']</g:internal_label>
     </item>
 <item>
-      <g:id>KBO-23293</g:id>
-      <g:title><![CDATA[Selvkærlig mindfulness – mere nærvær med dig selv  ]]></g:title>
-      <g:description><![CDATA[Find mere ro og nærvær med selvkærlig mindfulness i Glostrup. Et 6 ugers forløb for kvinder med meditation, kropskontakt og selvomsorg.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/selvkaerlig-mindfulness-mere-naervaer-med-dig-selv?holdnr=23293</g:link>
-      <g:image_link>https://www.fof.dk/media/wualdg3o/vagusnerven-og-stress-foredrag.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>725.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Københavns Omegn</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Livsstil og trivsel &gt; Personlig udvikling</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Livsstil og trivsel</g:custom_label_1>
-      <g:custom_label_2>Personlig udvikling</g:custom_label_2>
-      <g:custom_label_4>Glostrup</g:custom_label_4>
-      <g:start_date>2027-02-09T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Glostrup</g:custom_label_3>
-      <g:internal_label>['Glostrup']</g:internal_label>
-    </item>
-<item>
       <g:id>KBO-33501</g:id>
       <g:title><![CDATA[Familiedans for børn 2-3 år og voksne]]></g:title>
       <g:description><![CDATA[Dans, leg og kreativitet for børn fra 2-3 år med en voksen. Udforsk rytmer og bevægelser, og skab små koreografier sammen.]]></g:description>
@@ -3762,6 +3718,28 @@
       <g:start_date>2027-02-09T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Familie</g:custom_label_3>
       <g:internal_label>['Familie','Rødovre']</g:internal_label>
+    </item>
+<item>
+      <g:id>KBO-23293</g:id>
+      <g:title><![CDATA[Selvkærlig mindfulness – mere nærvær med dig selv  ]]></g:title>
+      <g:description><![CDATA[Find mere ro og nærvær med selvkærlig mindfulness i Glostrup. Et 6 ugers forløb for kvinder med meditation, kropskontakt og selvomsorg.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/selvkaerlig-mindfulness-mere-naervaer-med-dig-selv?holdnr=23293</g:link>
+      <g:image_link>https://www.fof.dk/media/wualdg3o/vagusnerven-og-stress-foredrag.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>725.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Københavns Omegn</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Livsstil og trivsel &gt; Personlig udvikling</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Livsstil og trivsel</g:custom_label_1>
+      <g:custom_label_2>Personlig udvikling</g:custom_label_2>
+      <g:custom_label_4>Glostrup</g:custom_label_4>
+      <g:start_date>2027-02-09T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Glostrup</g:custom_label_3>
+      <g:internal_label>['Glostrup']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23523</g:id>

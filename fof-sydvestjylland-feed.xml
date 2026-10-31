@@ -6,28 +6,6 @@
 <description>Meta produktfeed med alle ledige hold fra FOF Sydvestjylland</description>
 <language>da-DK</language>
 <item>
-      <g:id>SVJ-262306</g:id>
-      <g:title><![CDATA[Workshop: "Dotteriet" - Vi juler med kugler]]></g:title>
-      <g:description><![CDATA[Prøv dotting på en kreativ workshop med Tracy Holm. Lær teknikkerne, slap af og skab dit eget mønster – ingen erfaring nødvendig. Tilmeld dig.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-sydvestjylland/workshop-med-dotteriet?holdnr=262306</g:link>
-      <g:image_link>https://www.fof.dk/media/0uvjqenv/malekurser-workshop-med-dotteriet02-sydvestjylland-fof-aftenskolen.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>265.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Sydvestjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Kreative kurser &gt; Malekurser</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Kreative kurser</g:custom_label_1>
-      <g:custom_label_2>Malekurser</g:custom_label_2>
-      <g:custom_label_4>Esbjerg</g:custom_label_4>
-      <g:start_date>2026-10-31T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Starter snart</g:custom_label_3>
-      <g:internal_label>['Starter snart','Esbjerg','Malekurser','Kreative kurser']</g:internal_label>
-    </item>
-<item>
       <g:id>SVJ-262001</g:id>
       <g:title><![CDATA[Følg dine drømme]]></g:title>
       <g:description><![CDATA[Bliv inspireret af Lene og Anders Beiers fortælling om mod, livsdrømme og store valg. Et foredrag der giver perspektiv og handlekraft. Køb billet her.]]></g:description>
@@ -46,28 +24,6 @@
       <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4>Esbjerg</g:custom_label_4>
       <g:start_date>2026-11-03T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Esbjerg</g:custom_label_3>
-      <g:internal_label>['Esbjerg']</g:internal_label>
-    </item>
-<item>
-      <g:id>SVJ-262015</g:id>
-      <g:title><![CDATA[Ølsmagning - en lommefuld solskin fra nær og fjern]]></g:title>
-      <g:description><![CDATA[Ølsmagning med Torben Mathews på Restaurant Dronning Louise. En hyggelig ølsmagning leveret med humor. Køb billetter her.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-sydvestjylland/oelsmagning?holdnr=262015</g:link>
-      <g:image_link>https://www.fof.dk/media/dgckvvpv/foredrag-oelsmagning-vest-fof-aftenskolen.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>375.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Sydvestjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Foredrag, debat og højskoler &gt; Samfund og historie</g:product_type>
-      <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
-      <g:custom_label_1>Samfund og historie</g:custom_label_1>
-      <g:custom_label_2></g:custom_label_2>
-      <g:custom_label_4>Esbjerg</g:custom_label_4>
-      <g:start_date>2026-11-04T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Esbjerg</g:custom_label_3>
       <g:internal_label>['Esbjerg']</g:internal_label>
     </item>
