@@ -579,28 +579,6 @@
       <g:internal_label>['Starter om &lt; 14 dage','Korte kurser','Aarhus C']</g:internal_label>
     </item>
 <item>
-      <g:id>AAR-422803</g:id>
-      <g:title><![CDATA[AI for begyndere]]></g:title>
-      <g:description><![CDATA[Kom godt i gang med AI i FOF Aarhus. Lær at bruge ChatGPT, Gemini og Claude til hverdagens opgaver på et kursus for begyndere.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/ai-for-begyndere?holdnr=422803</g:link>
-      <g:image_link>https://www.fof.dk/media/jnudgjxc/ai_for_begyndere_it_kursus_fof_aarhus_1200x1200_ai_genereret_billede.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>475.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Aarhus</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; It og foto &gt; Kunstig intelligens - AI</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>It og foto</g:custom_label_1>
-      <g:custom_label_2>Kunstig intelligens - AI</g:custom_label_2>
-      <g:custom_label_4>Aarhus</g:custom_label_4>
-      <g:start_date>2026-11-09T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Starter om &lt; 14 dage</g:custom_label_3>
-      <g:internal_label>['Starter om &lt; 14 dage','Korte kurser','Aarhus C']</g:internal_label>
-    </item>
-<item>
       <g:id>AAR-424013</g:id>
       <g:title><![CDATA["Jeg kan ikke synge"]]></g:title>
       <g:description><![CDATA[Føler du, at du ikke kan synge? Frygt ikke! I FOF Aarhus kan du gå på et sangkursus med andre og lære at synge. Tilmeld dig i dag.]]></g:description>
@@ -1172,27 +1150,6 @@
       <g:internal_label>['Aarhus C']</g:internal_label>
     </item>
 <item>
-      <g:id>AAR-426991</g:id>
-      <g:title><![CDATA[John Coltrane - fra hardbop til ekspressiv spiritualitet]]></g:title>
-      <g:description><![CDATA[Kom til foredrag i Aarhus med can.mag., foredragsholder og podcastvært Jens Rasmussen, der vil fortælle om John Coltranes karriere og hans utrolige udtryks- og kraftfulde spillestil. ]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/john-coltrane-fra-hardbop-til-ekspressiv-spiritualitet?holdnr=426991</g:link>
-      <g:image_link>https://www.fof.dk/media/1hvlv0zv/john_coltrane_foredrag_med_jens_rasmussen.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>100.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Aarhus</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Foredrag, debat og højskoler &gt; Musik og koncerter</g:product_type>
-      <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
-      <g:custom_label_1>Musik og koncerter</g:custom_label_1>
-      <g:custom_label_2></g:custom_label_2>
-      <g:custom_label_4>Aarhus</g:custom_label_4>
-      <g:start_date>2026-11-17T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Aarhus C']</g:internal_label>
-    </item>
-<item>
       <g:id>AAR-425331</g:id>
       <g:title><![CDATA[ADHD i hverdagen - konkrete redskaber til forælder (workshop)]]></g:title>
       <g:description><![CDATA[Få konkrete redskaber til hverdagen med et barn med ADHD. Lær at skabe ro, struktur og færre konflikter. Workshop med tryg sparring. Tilmeld dig i dag!]]></g:description>
@@ -1213,6 +1170,27 @@
       <g:start_date>2026-11-17T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Familie</g:custom_label_3>
       <g:internal_label>['Familie','Korte kurser','Aarhus C']</g:internal_label>
+    </item>
+<item>
+      <g:id>AAR-426991</g:id>
+      <g:title><![CDATA[John Coltrane - fra hardbop til ekspressiv spiritualitet]]></g:title>
+      <g:description><![CDATA[Kom til foredrag i Aarhus med can.mag., foredragsholder og podcastvært Jens Rasmussen, der vil fortælle om John Coltranes karriere og hans utrolige udtryks- og kraftfulde spillestil. ]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/john-coltrane-fra-hardbop-til-ekspressiv-spiritualitet?holdnr=426991</g:link>
+      <g:image_link>https://www.fof.dk/media/1hvlv0zv/john_coltrane_foredrag_med_jens_rasmussen.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>100.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Foredrag, debat og højskoler &gt; Musik og koncerter</g:product_type>
+      <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
+      <g:custom_label_1>Musik og koncerter</g:custom_label_1>
+      <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Aarhus</g:custom_label_4>
+      <g:start_date>2026-11-17T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Aarhus C']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-423911</g:id>
@@ -1760,27 +1738,6 @@
       <g:internal_label>['Korte kurser','Åbyhøj']</g:internal_label>
     </item>
 <item>
-      <g:id>AAR-425103</g:id>
-      <g:title><![CDATA[Efterfødselstræning]]></g:title>
-      <g:description><![CDATA[Efterfødselstræning ved FOF Aarhus til dig som har født for 2-12 uger siden (v. kejsersnit 5-12 uger) | FOF Aftenskolen Aarhus]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/efterfoedselstraening?holdnr=425103</g:link>
-      <g:image_link>https://www.fof.dk/media/jhghjyqe/ef80d0-1.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1365.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Aarhus</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Efterfødselstræning</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
-      <g:custom_label_2>Efterfødselstræning</g:custom_label_2>
-      <g:custom_label_4>Åbyhøj</g:custom_label_4>
-      <g:start_date>2026-11-25T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Åbyhøj']</g:internal_label>
-    </item>
-<item>
       <g:id>AAR-426955A</g:id>
       <g:title><![CDATA[Studiepris: Glenn Bech om parforhold og klasse]]></g:title>
       <g:description><![CDATA[Glenn Bech gæster FOF Aarhus , og sætter ord på parforholdets svære vilkår, når man er opvokset med svigt. Kan alle mennesker lære at tage imod kærlighed? I forfatter og psykolog Glenn Bechs seneste roman, Jeg er ikke færdig med dig (2025), følger vi Lasse og hans forsøg på at forene en turbulent opvækst med et nutidigt kæresteforhold til den evigt rummelige Emil. For hvordan håndterer man følelserne voksent, når rollemodellerne i ens barndom svigtede? Hvordan sænker man paraderne og bliver mindre vagtsom, når livet hidtil har været præget af overlevelse, kaos og undtagelsestilstand? Hvordan gør et menneske - med traumet som ballast - sig overhovedet forståelig for den anden? Hvordan kommunikerer man ærligt og sårbart, når ethvert svaghedstegn gav anledning til hån og ydmygelse? De seneste års debat om mønsterbrydere har ofte fokuseret på ydre omstændigheder som social baggrund og karriere, men hvad taber den, der forlader sin familie for at “vinde i livet?” Komikeren Dirch Passer optrådte ofte i beruset tilstand, anglende efter klapsalver og anerkendelse, mens toppolitikeren Inge Fischer Møller opgav, da offentligheden og kollegerne heller ikke gav hende, hvad hun manglede som lille. Med hvad så med Lasse og Emil? Hvor dybt kan den ene tillade sig at falde, og hvor længe skal den anden stå klar med åbne arme? Alt dette berører Glenn Bech i sit foredrag på Dokk1. Forsiden på Glenn Bechs seneste roman "Jeg er ikke færdig med dig" (2025). Om Glenn Bech Glenn Bech debuterede som forfatter i 2021 med Farskibet . Den autofiktive erindringsbog, der tager form som løsrevne dialoger, afskrift, lyrik og henvendelser, bearbejder en hård barndom og forsøger at rive traumerne op med rode. Manifestet Jeg anerkender ikke længere jeres autoritet fra 2022 fortsætter det vrede opgør med homofobi, klassesamfundet og de privilegieblindes overskud. I september 2025 udkom Jeg er ikke færdig med dig , hvor Glenn Bech tager et skridt mod en mere traditionel form for fiktion uden at forlade sine gennemgående temaer som giftig maskulinitet, klasseskel, seksualitet, overgreb og mindreværd. For Farskibet har Glenn Bech modtaget Blixenprisen 2022 i kategorien ”Årets roman” og debutantprisen Munch-Christensens Kulturlegat. Romanen var shortlistet til Bogforums Debutantpris 2021 og indstillet til Weekendavisens Litteraturpris 2021. Derudover har Glenn Bech modtaget Albert Dams Mindelegat 2021, der tildeles en talentfuld dansk forfatter. For Jeg anerkender ikke længere jeres autoritet modtog Glenn Bech i marts 2023 Politikens Litteraturpris 2022. Udover sit litterære virke har Glenn Bech de seneste år haft en stor tilstedeværelse på landets biblioteker, festivaler og kulturhuse som foredragsholder og debattør. Glenn, som er født i Horsens i 1991, er uddannet psykolog fra Aarhus Universitet i 2017 og blev færdig på Forfatterskolen i 2019. Nysgerrig på mere? Se hele vores foredragskalender her . Foredraget er arrangeret i samarbejde med Dokk1.]]></g:description>
@@ -1801,6 +1758,27 @@
       <g:start_date>2026-11-25T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Studierabat - studiemessen 2026</g:custom_label_3>
       <g:internal_label>['Studierabat - studiemessen 2026','Aarhus C']</g:internal_label>
+    </item>
+<item>
+      <g:id>AAR-425103</g:id>
+      <g:title><![CDATA[Efterfødselstræning]]></g:title>
+      <g:description><![CDATA[Efterfødselstræning ved FOF Aarhus til dig som har født for 2-12 uger siden (v. kejsersnit 5-12 uger) | FOF Aftenskolen Aarhus]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/efterfoedselstraening?holdnr=425103</g:link>
+      <g:image_link>https://www.fof.dk/media/jhghjyqe/ef80d0-1.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1365.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Efterfødselstræning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
+      <g:custom_label_2>Efterfødselstræning</g:custom_label_2>
+      <g:custom_label_4>Åbyhøj</g:custom_label_4>
+      <g:start_date>2026-11-25T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Åbyhøj']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-425115</g:id>
@@ -2084,28 +2062,6 @@
       <g:internal_label>['Korte kurser','Åbyhøj']</g:internal_label>
     </item>
 <item>
-      <g:id>AAR-428878</g:id>
-      <g:title><![CDATA[Færdselsrelateret førstehjælp (2-dages kursus)]]></g:title>
-      <g:description><![CDATA[Kom med på 2-dages førstehjælpskursus til kørekort. Praktisk-orienteret undervisning hos FOF Aftenskolen Aarhus.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/faerdselsrelateret-foerstehjaelp-2-dages-kursus?holdnr=428878</g:link>
-      <g:image_link>https://www.fof.dk/media/k2zfhdjj/foerstehjaelp-bentedyhrberg-2_1200x1200-fof-aarhus.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>575.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Aarhus</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Førstehjælp</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Førstehjælp</g:custom_label_2>
-      <g:custom_label_4>Åbyhøj</g:custom_label_4>
-      <g:start_date>2026-12-01T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Førstehjælp til kørekort</g:custom_label_3>
-      <g:internal_label>['Førstehjælp til kørekort','Korte kurser','Starter om &lt; 14 dage','Åbyhøj']</g:internal_label>
-    </item>
-<item>
       <g:id>AAR-428953</g:id>
       <g:title><![CDATA[First aid - babies (English)]]></g:title>
       <g:description><![CDATA[Learn first aid for babies at FOF Aarhus. We offer courses in English. Sign up today.]]></g:description>
@@ -2126,6 +2082,28 @@
       <g:start_date>2026-12-01T00:00:00.000Z</g:start_date>
       <g:custom_label_3>In English</g:custom_label_3>
       <g:internal_label>['In English','Åbyhøj']</g:internal_label>
+    </item>
+<item>
+      <g:id>AAR-428878</g:id>
+      <g:title><![CDATA[Færdselsrelateret førstehjælp (2-dages kursus)]]></g:title>
+      <g:description><![CDATA[Kom med på 2-dages førstehjælpskursus til kørekort. Praktisk-orienteret undervisning hos FOF Aftenskolen Aarhus.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/faerdselsrelateret-foerstehjaelp-2-dages-kursus?holdnr=428878</g:link>
+      <g:image_link>https://www.fof.dk/media/k2zfhdjj/foerstehjaelp-bentedyhrberg-2_1200x1200-fof-aarhus.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>575.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Førstehjælp</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Førstehjælp</g:custom_label_2>
+      <g:custom_label_4>Åbyhøj</g:custom_label_4>
+      <g:start_date>2026-12-01T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Førstehjælp til kørekort</g:custom_label_3>
+      <g:internal_label>['Førstehjælp til kørekort','Korte kurser','Starter om &lt; 14 dage','Åbyhøj']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-426938</g:id>
@@ -3543,27 +3521,6 @@
       <g:internal_label>['Aarhus C']</g:internal_label>
     </item>
 <item>
-      <g:id>AAR-436870</g:id>
-      <g:title><![CDATA[Ditte Young: Hvad kan vi lære af neurodivergente børn og unge?]]></g:title>
-      <g:description><![CDATA[Kom med til dette tankevækkende og inspirerende foredrag i FOF Aarhus, hvor Ditte Young åbner for nye perspektiver på neurodivergens hos børn og unge og sætter fokus på de ressourcer, styrker og potentialer, som ofte overses. | Tilmeld dig nu!]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/ditte-young-hvad-kan-vi-laere-af-neurodivergente-boern-og-unge?holdnr=436870</g:link>
-      <g:image_link>https://www.fof.dk/media/j2ffv5uz/ditteyoung_1200x1200-fof-aarhus.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>200.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Aarhus</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Foredrag, debat og højskoler &gt; Sundhed og eksistens</g:product_type>
-      <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
-      <g:custom_label_1>Sundhed og eksistens</g:custom_label_1>
-      <g:custom_label_2></g:custom_label_2>
-      <g:custom_label_4>Aarhus</g:custom_label_4>
-      <g:start_date>2027-03-31T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Aarhus C']</g:internal_label>
-    </item>
-<item>
       <g:id>AAR-436889</g:id>
       <g:title><![CDATA[Vejen til en selvforsynende have]]></g:title>
       <g:description><![CDATA[Mød Lotte og Per, indehavere af Permahaven Bakkely, til et foredrag i FOF Aarhus om den selvforsynende køkkenhave | Tilmeld dig og bliv klogere]]></g:description>
@@ -3579,6 +3536,27 @@
       <g:product_type>Foredrag, debat og højskoler &gt; Natur og haver</g:product_type>
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Natur og haver</g:custom_label_1>
+      <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Aarhus</g:custom_label_4>
+      <g:start_date>2027-03-31T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Aarhus C']</g:internal_label>
+    </item>
+<item>
+      <g:id>AAR-436870</g:id>
+      <g:title><![CDATA[Ditte Young: Hvad kan vi lære af neurodivergente børn og unge?]]></g:title>
+      <g:description><![CDATA[Kom med til dette tankevækkende og inspirerende foredrag i FOF Aarhus, hvor Ditte Young åbner for nye perspektiver på neurodivergens hos børn og unge og sætter fokus på de ressourcer, styrker og potentialer, som ofte overses. | Tilmeld dig nu!]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/ditte-young-hvad-kan-vi-laere-af-neurodivergente-boern-og-unge?holdnr=436870</g:link>
+      <g:image_link>https://www.fof.dk/media/j2ffv5uz/ditteyoung_1200x1200-fof-aarhus.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>200.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Foredrag, debat og højskoler &gt; Sundhed og eksistens</g:product_type>
+      <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
+      <g:custom_label_1>Sundhed og eksistens</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4>Aarhus</g:custom_label_4>
       <g:start_date>2027-03-31T00:00:00.000Z</g:start_date>

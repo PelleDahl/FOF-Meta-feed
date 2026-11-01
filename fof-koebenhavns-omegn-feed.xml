@@ -116,28 +116,6 @@
       <g:internal_label>['Herlev','Starter snart']</g:internal_label>
     </item>
 <item>
-      <g:id>KBO-22292</g:id>
-      <g:title><![CDATA[Slægtsforskning - let øvede]]></g:title>
-      <g:description><![CDATA[Slægtsforskning for let øvede i Brøndby på Kilden. Lær avanceret arkivsøgning, kirkebøger og udbyg dit stamtræ med nye metoder.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/slaegtsforskning-let-oevede?holdnr=22292</g:link>
-      <g:image_link>https://www.fof.dk/media/im0f5iq4/slaegtsforskning-4.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>780.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Københavns Omegn</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Kulturfag og samfund &gt; Slægtsforskning</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Kulturfag og samfund</g:custom_label_1>
-      <g:custom_label_2>Slægtsforskning</g:custom_label_2>
-      <g:custom_label_4>Brøndby</g:custom_label_4>
-      <g:start_date>2026-11-07T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Brøndby</g:custom_label_3>
-      <g:internal_label>['Brøndby','Starter snart']</g:internal_label>
-    </item>
-<item>
       <g:id>KBO-22160</g:id>
       <g:title><![CDATA[Dyr med superkræfter - et foredrag for hele familien]]></g:title>
       <g:description><![CDATA[Oplev et familieforedrag i Taastrup om dyr med superkræfter. Naturfotograf Henrik Egede-Lassen viser fascinerende dyr, biologi og vilde historier for hele familien.]]></g:description>
@@ -158,6 +136,28 @@
       <g:start_date>2026-11-07T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Taastrup</g:custom_label_3>
       <g:internal_label>['Taastrup','Starter snart','Familie','Endagskurser']</g:internal_label>
+    </item>
+<item>
+      <g:id>KBO-22292</g:id>
+      <g:title><![CDATA[Slægtsforskning - let øvede]]></g:title>
+      <g:description><![CDATA[Slægtsforskning for let øvede i Brøndby på Kilden. Lær avanceret arkivsøgning, kirkebøger og udbyg dit stamtræ med nye metoder.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/slaegtsforskning-let-oevede?holdnr=22292</g:link>
+      <g:image_link>https://www.fof.dk/media/im0f5iq4/slaegtsforskning-4.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>780.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Københavns Omegn</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Kulturfag og samfund &gt; Slægtsforskning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Kulturfag og samfund</g:custom_label_1>
+      <g:custom_label_2>Slægtsforskning</g:custom_label_2>
+      <g:custom_label_4>Brøndby</g:custom_label_4>
+      <g:start_date>2026-11-07T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Brøndby</g:custom_label_3>
+      <g:internal_label>['Brøndby','Starter snart']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-22490</g:id>
@@ -1346,28 +1346,6 @@
       <g:internal_label>['Glostrup','Ballerup','Brøndby','Rødovre','Taastrup']</g:internal_label>
     </item>
 <item>
-      <g:id>KBO-23910</g:id>
-      <g:title><![CDATA[Aqua Mindfulness for kvinder]]></g:title>
-      <g:description><![CDATA[Træn i varmtvandsbassin på Herlev Hospital hos FOF Københavns Omegn. Aqua Pilates, balance og afspænding med erfarne fysioterapeuter og skånsom træning.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/aquapilates-i-varmt-vand?holdnr=23910</g:link>
-      <g:image_link>https://www.fof.dk/media/alsndcrp/puls-og-styrke-herlev-bassin-egne-billeder.png?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>950.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Københavns Omegn</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Træning i vand</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Træning i vand</g:custom_label_2>
-      <g:custom_label_4>Herlev</g:custom_label_4>
-      <g:start_date>2027-01-16T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Herlev</g:custom_label_3>
-      <g:internal_label>['Herlev','Glostrup']</g:internal_label>
-    </item>
-<item>
       <g:id>KBO-23815</g:id>
       <g:title><![CDATA[Osteoporose – styrke, balance og bevægelse]]></g:title>
       <g:description><![CDATA[For dig med knogleskørhed/osteoporose. Skånsom og målrettet træning for dig med osteoporose. Fokus på styrke, balance og tryg bevægelse i rolige rammer med professionel vejledning.]]></g:description>
@@ -2292,28 +2270,6 @@
       <g:internal_label>['Ballerup','Herlev']</g:internal_label>
     </item>
 <item>
-      <g:id>KBO-23828</g:id>
-      <g:title><![CDATA[Styrketræning med fokus på osteoporose]]></g:title>
-      <g:description><![CDATA[For dig med knogleskørhed/osteoporose. Skånsom og målrettet træning for dig med osteoporose. Fokus på styrke, balance og tryg bevægelse i rolige rammer med professionel vejledning.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/osteoporosetraening?holdnr=23828</g:link>
-      <g:image_link>https://www.fof.dk/media/koib4ksf/23.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1365.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Københavns Omegn</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Styrke- og konditionstræning</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Styrke- og konditionstræning</g:custom_label_2>
-      <g:custom_label_4>Brøndby</g:custom_label_4>
-      <g:start_date>2027-01-27T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Brøndby</g:custom_label_3>
-      <g:internal_label>['Brøndby','Herlev']</g:internal_label>
-    </item>
-<item>
       <g:id>KBO-23461</g:id>
       <g:title><![CDATA[Smykkekursus]]></g:title>
       <g:description><![CDATA[Forær dig selv gaven der bliver ved med at give: Kreativt smykkekursus i Ballerup hos FOF Københavns Omegn. Lær smykkedesign, sølvarbejde og håndlavede teknikker på inspirerende smykkekursus i Ballerup. Flere datoer]]></g:description>
@@ -2356,6 +2312,28 @@
       <g:start_date>2027-01-27T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Herlev</g:custom_label_3>
       <g:internal_label>['Herlev','Ballerup','Glostrup']</g:internal_label>
+    </item>
+<item>
+      <g:id>KBO-23828</g:id>
+      <g:title><![CDATA[Styrketræning med fokus på osteoporose]]></g:title>
+      <g:description><![CDATA[For dig med knogleskørhed/osteoporose. Skånsom og målrettet træning for dig med osteoporose. Fokus på styrke, balance og tryg bevægelse i rolige rammer med professionel vejledning.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/osteoporosetraening?holdnr=23828</g:link>
+      <g:image_link>https://www.fof.dk/media/koib4ksf/23.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1365.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Københavns Omegn</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Styrke- og konditionstræning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Styrke- og konditionstræning</g:custom_label_2>
+      <g:custom_label_4>Brøndby</g:custom_label_4>
+      <g:start_date>2027-01-27T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Brøndby</g:custom_label_3>
+      <g:internal_label>['Brøndby','Herlev']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23922</g:id>
@@ -2446,28 +2424,6 @@
       <g:internal_label>['Albertslund','Glostrup']</g:internal_label>
     </item>
 <item>
-      <g:id>KBO-23290</g:id>
-      <g:title><![CDATA[Introduktion til slægtsforskning]]></g:title>
-      <g:description><![CDATA[Slægtsforskningskursus i Kilden i Brøndby. Lær at finde dine aner i kirkebøger, folketællinger og online databaser. For begyndere – kom godt i gang med din slægtshistorie.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/introduktion-til-slaegtsforskning?holdnr=23290</g:link>
-      <g:image_link>https://www.fof.dk/media/w0ld23m2/introduktion-til-slaegtsforskning.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>370.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Københavns Omegn</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Kulturfag og samfund &gt; Slægtsforskning</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Kulturfag og samfund</g:custom_label_1>
-      <g:custom_label_2>Slægtsforskning</g:custom_label_2>
-      <g:custom_label_4>Taastrup</g:custom_label_4>
-      <g:start_date>2027-01-28T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Brøndby</g:custom_label_3>
-      <g:internal_label>['Brøndby','Taastrup']</g:internal_label>
-    </item>
-<item>
       <g:id>KBO-23928</g:id>
       <g:title><![CDATA[Motion i vand]]></g:title>
       <g:description><![CDATA[Træning i vand er skånsom og effektiv helkropstræning. Forbedr styrke, smidighed og kondition med sjov motion i vand hos FOF.]]></g:description>
@@ -2510,6 +2466,28 @@
       <g:start_date>2027-01-28T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Vallensbæk</g:custom_label_3>
       <g:internal_label>['Vallensbæk','Taastrup','Rødovre','Herlev','Ballerup','Glostrup','Albertslund']</g:internal_label>
+    </item>
+<item>
+      <g:id>KBO-23290</g:id>
+      <g:title><![CDATA[Introduktion til slægtsforskning]]></g:title>
+      <g:description><![CDATA[Slægtsforskningskursus i Kilden i Brøndby. Lær at finde dine aner i kirkebøger, folketællinger og online databaser. For begyndere – kom godt i gang med din slægtshistorie.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/introduktion-til-slaegtsforskning?holdnr=23290</g:link>
+      <g:image_link>https://www.fof.dk/media/w0ld23m2/introduktion-til-slaegtsforskning.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>370.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Københavns Omegn</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Kulturfag og samfund &gt; Slægtsforskning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Kulturfag og samfund</g:custom_label_1>
+      <g:custom_label_2>Slægtsforskning</g:custom_label_2>
+      <g:custom_label_4>Taastrup</g:custom_label_4>
+      <g:start_date>2027-01-28T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Brøndby</g:custom_label_3>
+      <g:internal_label>['Brøndby','Taastrup']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23812</g:id>
