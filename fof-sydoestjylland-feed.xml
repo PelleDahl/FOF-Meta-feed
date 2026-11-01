@@ -420,7 +420,8 @@
       <g:custom_label_2>Yoga</g:custom_label_2>
       <g:custom_label_4>Skanderborg</g:custom_label_4>
       <g:start_date>2026-11-16T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Skanderborg']</g:internal_label>
+      <g:custom_label_3>Starter snart</g:custom_label_3>
+      <g:internal_label>['Starter snart','Skanderborg']</g:internal_label>
     </item>
 <item>
       <g:id>SOJ-268277</g:id>
@@ -441,8 +442,8 @@
       <g:custom_label_2>Bagning og søde sager</g:custom_label_2>
       <g:custom_label_4>Grindsted</g:custom_label_4>
       <g:start_date>2026-11-16T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Jul og nytår</g:custom_label_3>
-      <g:internal_label>['Jul og nytår','Nyhed','Grindsted']</g:internal_label>
+      <g:custom_label_3>Starter snart</g:custom_label_3>
+      <g:internal_label>['Starter snart','Jul og nytår','Nyhed','Grindsted']</g:internal_label>
     </item>
 <item>
       <g:id>SOJ-269246</g:id>

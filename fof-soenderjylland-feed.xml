@@ -554,7 +554,8 @@ Foredragsholder, Asta Kjær, fortæller om sin egen vej gennem livet og om bruge
       <g:custom_label_2>Strengeinstrumenter</g:custom_label_2>
       <g:custom_label_4>Sønderborg</g:custom_label_4>
       <g:start_date>2026-11-17T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Sønderborg']</g:internal_label>
+      <g:custom_label_3>Starter snart</g:custom_label_3>
+      <g:internal_label>['Starter snart','Sønderborg']</g:internal_label>
     </item>
 <item>
       <g:id>SDJ-1262722</g:id>
@@ -575,8 +576,8 @@ Foredragsholder, Asta Kjær, fortæller om sin egen vej gennem livet og om bruge
       <g:custom_label_2>Kor og fællessang</g:custom_label_2>
       <g:custom_label_4>Sønderborg</g:custom_label_4>
       <g:start_date>2026-11-17T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Sangcentret</g:custom_label_3>
-      <g:internal_label>['Sangcentret','Sønderborg']</g:internal_label>
+      <g:custom_label_3>Starter snart</g:custom_label_3>
+      <g:internal_label>['Starter snart','Sangcentret','Sønderborg']</g:internal_label>
     </item>
 <item>
       <g:id>SDJ-1262723</g:id>
@@ -597,8 +598,8 @@ Foredragsholder, Asta Kjær, fortæller om sin egen vej gennem livet og om bruge
       <g:custom_label_2>Kor og fællessang</g:custom_label_2>
       <g:custom_label_4>Sønderborg</g:custom_label_4>
       <g:start_date>2026-11-17T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Sangcentret</g:custom_label_3>
-      <g:internal_label>['Sangcentret','Sønderborg']</g:internal_label>
+      <g:custom_label_3>Starter snart</g:custom_label_3>
+      <g:internal_label>['Starter snart','Sangcentret','Sønderborg']</g:internal_label>
     </item>
 <item>
       <g:id>SDJ-1260738</g:id>
@@ -619,7 +620,8 @@ Foredragsholder, Asta Kjær, fortæller om sin egen vej gennem livet og om bruge
       <g:custom_label_2>Strengeinstrumenter</g:custom_label_2>
       <g:custom_label_4>Sønderborg</g:custom_label_4>
       <g:start_date>2026-11-17T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Sønderborg']</g:internal_label>
+      <g:custom_label_3>Starter snart</g:custom_label_3>
+      <g:internal_label>['Starter snart','Sønderborg']</g:internal_label>
     </item>
 <item>
       <g:id>SDJ-2262518</g:id>

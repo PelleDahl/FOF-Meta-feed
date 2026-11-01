@@ -1104,7 +1104,7 @@
       <g:custom_label_4>Aarhus</g:custom_label_4>
       <g:start_date>2026-11-16T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Korte kurser</g:custom_label_3>
-      <g:internal_label>['Korte kurser','Aarhus C']</g:internal_label>
+      <g:internal_label>['Korte kurser','Starter om &lt; 14 dage','Aarhus C']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-421801</g:id>
@@ -1125,7 +1125,8 @@
       <g:custom_label_2>Italiensk</g:custom_label_2>
       <g:custom_label_4>Aarhus</g:custom_label_4>
       <g:start_date>2026-11-16T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Aarhus C']</g:internal_label>
+      <g:custom_label_3>Starter om &lt; 14 dage</g:custom_label_3>
+      <g:internal_label>['Starter om &lt; 14 dage','Aarhus C']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-426921</g:id>
@@ -1146,7 +1147,8 @@
       <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4>Aarhus</g:custom_label_4>
       <g:start_date>2026-11-16T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Aarhus C']</g:internal_label>
+      <g:custom_label_3>Starter om &lt; 14 dage</g:custom_label_3>
+      <g:internal_label>['Starter om &lt; 14 dage','Aarhus C']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-423840</g:id>
@@ -1189,7 +1191,8 @@
       <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4>Aarhus</g:custom_label_4>
       <g:start_date>2026-11-16T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Aarhus C']</g:internal_label>
+      <g:custom_label_3>Starter om &lt; 14 dage</g:custom_label_3>
+      <g:internal_label>['Starter om &lt; 14 dage','Aarhus C']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-425094</g:id>

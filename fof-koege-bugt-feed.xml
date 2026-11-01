@@ -6,28 +6,6 @@
 <description>Meta produktfeed med alle ledige hold fra FOF Køge Bugt</description>
 <language>da-DK</language>
 <item>
-      <g:id>KOE-51276</g:id>
-      <g:title><![CDATA[Flødebollekursus for børn og voksne]]></g:title>
-      <g:description><![CDATA[Lær at fremstille hjemmelavet slik og chokolade med det helt rigtige knæk på kursus i chokolade i Køge. Populært lige nu: Flødeboller for børn og voksne! Velbekomme!]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koege-bugt/slik-og-chokolade?holdnr=51276</g:link>
-      <g:image_link>https://www.fof.dk/media/i1ejl5pe/floedeboller-koege-fof-aftenskolen.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>351.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Køge Bugt</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Madlavning og drikkevarer &gt; Bagning og søde sager</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
-      <g:custom_label_2>Bagning og søde sager</g:custom_label_2>
-      <g:custom_label_4>Rønne</g:custom_label_4>
-      <g:start_date>2026-11-01T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Bornholm</g:custom_label_3>
-      <g:internal_label>['Bornholm','Starter snart','Endagskurser','Weekend','Rønne']</g:internal_label>
-    </item>
-<item>
       <g:id>KOE-51940</g:id>
       <g:title><![CDATA[Rigsarkivet indefra: rundvisning i Danmarks fælles hukommelse]]></g:title>
       <g:description><![CDATA[Populær og eksklusiv særrundvisning: FOF Køge Bugt tager dig ind bag facaden i Rigsarkivet i København. Se de dokumenter, kort og fotografier, som har formet Danmarks historie. Denne rundvisning plejer at blive udsolgt hurtigt!
@@ -400,7 +378,7 @@
       <g:custom_label_4>Ishøj</g:custom_label_4>
       <g:start_date>2026-11-16T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Ishøj</g:custom_label_3>
-      <g:internal_label>['Ishøj']</g:internal_label>
+      <g:internal_label>['Ishøj','Starter snart']</g:internal_label>
     </item>
 <item>
       <g:id>KOE-51977</g:id>

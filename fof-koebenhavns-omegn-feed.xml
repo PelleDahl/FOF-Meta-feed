@@ -6,28 +6,6 @@
 <description>Meta produktfeed med alle ledige hold fra FOF Københavns Omegn</description>
 <language>da-DK</language>
 <item>
-      <g:id>KBO-22230</g:id>
-      <g:title><![CDATA[Vegetarisk 3-retters menu]]></g:title>
-      <g:description><![CDATA[Lær vegetarisk madlavning i Taastrup. Madkursus med bælgfrugter, grøn madlavning og smagfuld 3-retters menu hos FOF Københavns Omegn.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/vegetarisk-3-retters-menu?holdnr=22230</g:link>
-      <g:image_link>https://www.fof.dk/media/olvfsyl1/vegetarisk-mad.png?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>495.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Københavns Omegn</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Madlavning og drikkevarer &gt; Vegetarisk og vegansk</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
-      <g:custom_label_2>Vegetarisk og vegansk</g:custom_label_2>
-      <g:custom_label_4>Taastrup</g:custom_label_4>
-      <g:start_date>2026-11-01T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Taastrup</g:custom_label_3>
-      <g:internal_label>['Taastrup','Starter snart','Endagskurser']</g:internal_label>
-    </item>
-<item>
       <g:id>KBO-22113</g:id>
       <g:title><![CDATA["Lev dig ung" – kunsten at holde sig ung langt op i årene]]></g:title>
       <g:description><![CDATA[Foredrag med Heidi Maria Schönberg: Få indsigt i, hvordan du styrker krop, sind og livskvalitet. Lær om regenerering, søvn, kost, bevægelse og mental trivsel for et liv med energi og vitalitet.]]></g:description>
@@ -619,7 +597,7 @@
       <g:custom_label_4>Taastrup</g:custom_label_4>
       <g:start_date>2026-11-16T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Taastrup</g:custom_label_3>
-      <g:internal_label>['Taastrup','Endagskurser']</g:internal_label>
+      <g:internal_label>['Taastrup','Starter snart','Endagskurser']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-22045</g:id>
@@ -1742,28 +1720,6 @@
       <g:internal_label>['Glostrup']</g:internal_label>
     </item>
 <item>
-      <g:id>KBO-23330</g:id>
-      <g:title><![CDATA[Italiensk for let øvede (A2+)]]></g:title>
-      <g:description><![CDATA[Italiensk for let øvede (A2) hos FOF Københavns Omegn: Bliv mere sikker i samtaler og udvid dit ordforråd i dagligdags situationer.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/italiensk-for-let-oevede-a2?holdnr=23330</g:link>
-      <g:image_link>https://www.fof.dk/media/scohakif/italiensk-2.png?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1794.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Københavns Omegn</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Sprog &gt; Italiensk</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Sprog</g:custom_label_1>
-      <g:custom_label_2>Italiensk</g:custom_label_2>
-      <g:custom_label_4>Taastrup</g:custom_label_4>
-      <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Taastrup</g:custom_label_3>
-      <g:internal_label>['Taastrup']</g:internal_label>
-    </item>
-<item>
       <g:id>KBO-23583</g:id>
       <g:title><![CDATA[Tai Chi]]></g:title>
       <g:description><![CDATA[Deltag i Tai Chi hos FOF Københavns Omegn i Vallensbæk, Glostrup, Brøndby og Herlev. Tai Chi er en rolig og nærværende træningsform, hvor fokus er på balance, smidighed og mental ro gennem langsomme, kontrollerede bevægelser. Blid træning for alle.]]></g:description>
@@ -1784,6 +1740,28 @@
       <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Vallensbæk</g:custom_label_3>
       <g:internal_label>['Vallensbæk','Glostrup','Herlev','Brøndby']</g:internal_label>
+    </item>
+<item>
+      <g:id>KBO-23330</g:id>
+      <g:title><![CDATA[Italiensk for let øvede (A2+)]]></g:title>
+      <g:description><![CDATA[Italiensk for let øvede (A2) hos FOF Københavns Omegn: Bliv mere sikker i samtaler og udvid dit ordforråd i dagligdags situationer.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/italiensk-for-let-oevede-a2?holdnr=23330</g:link>
+      <g:image_link>https://www.fof.dk/media/scohakif/italiensk-2.png?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1794.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Københavns Omegn</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Sprog &gt; Italiensk</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Sprog</g:custom_label_1>
+      <g:custom_label_2>Italiensk</g:custom_label_2>
+      <g:custom_label_4>Taastrup</g:custom_label_4>
+      <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Taastrup</g:custom_label_3>
+      <g:internal_label>['Taastrup']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23637</g:id>
@@ -1808,28 +1786,6 @@
       <g:internal_label>['Vallensbæk','Glostrup','Herlev','Brøndby']</g:internal_label>
     </item>
 <item>
-      <g:id>KBO-23821</g:id>
-      <g:title><![CDATA[Osteoporoseafspænding]]></g:title>
-      <g:description><![CDATA[For dig med knogleskørhed/osteoporose. Skånsom og målrettet træning for dig med osteoporose. Fokus på styrke, balance og tryg bevægelse i rolige rammer med professionel vejledning.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/osteoporosetraening?holdnr=23821</g:link>
-      <g:image_link>https://www.fof.dk/media/koib4ksf/23.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1600.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Københavns Omegn</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Styrke- og konditionstræning</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Styrke- og konditionstræning</g:custom_label_2>
-      <g:custom_label_4>Herlev</g:custom_label_4>
-      <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Herlev</g:custom_label_3>
-      <g:internal_label>['Herlev','Brøndby']</g:internal_label>
-    </item>
-<item>
       <g:id>KBO-23594</g:id>
       <g:title><![CDATA[Hatha yoga]]></g:title>
       <g:description><![CDATA[Kom med på holdet i hatha yoga i Hedehusene, Herlev, Vallensbæk, Albertslund, Glostrup, Rødovre og Taastrup. Små hold med plads til alle kropstyper og niveauer. Find et hold tæt på dig og kom i gang med en god vane.]]></g:description>
@@ -1850,6 +1806,28 @@
       <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Vallensbæk</g:custom_label_3>
       <g:internal_label>['Vallensbæk','Taastrup','Rødovre','Herlev','Ballerup','Glostrup','Albertslund','Skovlunde']</g:internal_label>
+    </item>
+<item>
+      <g:id>KBO-23821</g:id>
+      <g:title><![CDATA[Osteoporoseafspænding]]></g:title>
+      <g:description><![CDATA[For dig med knogleskørhed/osteoporose. Skånsom og målrettet træning for dig med osteoporose. Fokus på styrke, balance og tryg bevægelse i rolige rammer med professionel vejledning.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/osteoporosetraening?holdnr=23821</g:link>
+      <g:image_link>https://www.fof.dk/media/koib4ksf/23.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1600.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Københavns Omegn</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Styrke- og konditionstræning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Styrke- og konditionstræning</g:custom_label_2>
+      <g:custom_label_4>Herlev</g:custom_label_4>
+      <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Herlev</g:custom_label_3>
+      <g:internal_label>['Herlev','Brøndby']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23550</g:id>
@@ -3414,6 +3392,26 @@
       <g:internal_label>['Vallensbæk','Glostrup','Herlev','Brøndby','Rødovre']</g:internal_label>
     </item>
 <item>
+      <g:id>KBO-23310</g:id>
+      <g:title><![CDATA[Ungarsk for let øvede (A2) - ONLINE]]></g:title>
+      <g:description><![CDATA[Udvid dit ungarske på let øvet niveau (A2). Lær at forstå længere ytringer, føre simple samtaler og skrive korte beskeder med større sikkerhed.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/ungarsk-for-let-oevede-a2?holdnr=23310</g:link>
+      <g:image_link>https://www.fof.dk/media/mpja0l0k/laer-ungarnsk-hos-fof-aftenskolen.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1632.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Københavns Omegn</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Sprog &gt; Ungarsk</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Sprog</g:custom_label_1>
+      <g:custom_label_2>Ungarsk</g:custom_label_2>
+      <g:custom_label_4></g:custom_label_4>
+      <g:start_date>2027-02-04T00:00:00.000Z</g:start_date>
+    </item>
+<item>
       <g:id>KBO-23531</g:id>
       <g:title><![CDATA[Pilates]]></g:title>
       <g:description><![CDATA[Pilates i Rødovre, Herlev og Taastrup. Skånsom fysioterapeutisk træning på Lindehøjskolen og Taastrup Kulturcenter med fokus på styrke og balance.]]></g:description>
@@ -3434,26 +3432,6 @@
       <g:start_date>2027-02-04T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Taastrup</g:custom_label_3>
       <g:internal_label>['Taastrup','Rødovre','Herlev']</g:internal_label>
-    </item>
-<item>
-      <g:id>KBO-23310</g:id>
-      <g:title><![CDATA[Ungarsk for let øvede (A2) - ONLINE]]></g:title>
-      <g:description><![CDATA[Udvid dit ungarske på let øvet niveau (A2). Lær at forstå længere ytringer, føre simple samtaler og skrive korte beskeder med større sikkerhed.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/ungarsk-for-let-oevede-a2?holdnr=23310</g:link>
-      <g:image_link>https://www.fof.dk/media/mpja0l0k/laer-ungarnsk-hos-fof-aftenskolen.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1632.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Københavns Omegn</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Sprog &gt; Ungarsk</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Sprog</g:custom_label_1>
-      <g:custom_label_2>Ungarsk</g:custom_label_2>
-      <g:custom_label_4></g:custom_label_4>
-      <g:start_date>2027-02-04T00:00:00.000Z</g:start_date>
     </item>
 <item>
       <g:id>KBO-23030</g:id>
