@@ -377,7 +377,7 @@
       <g:custom_label_4>Varde</g:custom_label_4>
       <g:start_date>2027-01-20T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Esbjerg</g:custom_label_3>
-      <g:internal_label>['Esbjerg','In English','Fanø','Madlavning og drikkevarer','Varde']</g:internal_label>
+      <g:internal_label>['Esbjerg','In English','Fanø','Madlavning og drikkevarer','Ribe','Varde']</g:internal_label>
     </item>
 <item>
       <g:id>SVJ-2710422</g:id>
@@ -399,7 +399,7 @@
       <g:custom_label_4>Esbjerg</g:custom_label_4>
       <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Esbjerg</g:custom_label_3>
-      <g:internal_label>['Esbjerg','In English','Fanø','Madlavning og drikkevarer']</g:internal_label>
+      <g:internal_label>['Esbjerg','In English','Fanø','Madlavning og drikkevarer','Ribe']</g:internal_label>
     </item>
 <item>
       <g:id>SVJ-2710301</g:id>
@@ -641,7 +641,7 @@
       <g:custom_label_4>Esbjerg</g:custom_label_4>
       <g:start_date>2027-02-09T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Esbjerg</g:custom_label_3>
-      <g:internal_label>['Esbjerg','In English','Fanø','Madlavning og drikkevarer']</g:internal_label>
+      <g:internal_label>['Esbjerg','In English','Fanø','Madlavning og drikkevarer','Ribe']</g:internal_label>
     </item>
 <item>
       <g:id>SVJ-2710003</g:id>
@@ -794,8 +794,8 @@
       <g:custom_label_2>Malekurser</g:custom_label_2>
       <g:custom_label_4>Esbjerg</g:custom_label_4>
       <g:start_date>2027-02-27T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Esbjerg</g:custom_label_3>
-      <g:internal_label>['Esbjerg','Malekurser','Kreative kurser']</g:internal_label>
+      <g:custom_label_3>Malekurser</g:custom_label_3>
+      <g:internal_label>['Malekurser','Kreative kurser','Esbjerg']</g:internal_label>
     </item>
 <item>
       <g:id>SVJ-2710433</g:id>
@@ -817,7 +817,7 @@
       <g:custom_label_4>Varde</g:custom_label_4>
       <g:start_date>2027-03-03T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Esbjerg</g:custom_label_3>
-      <g:internal_label>['Esbjerg','In English','Fanø','Madlavning og drikkevarer','Varde']</g:internal_label>
+      <g:internal_label>['Esbjerg','In English','Fanø','Madlavning og drikkevarer','Ribe','Varde']</g:internal_label>
     </item>
 <item>
       <g:id>SVJ-2710459</g:id>
@@ -1476,8 +1476,8 @@
       <g:custom_label_2>Malekurser</g:custom_label_2>
       <g:custom_label_4>Esbjerg</g:custom_label_4>
       <g:start_date>2027-05-22T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Esbjerg</g:custom_label_3>
-      <g:internal_label>['Esbjerg','Malekurser','Kreative kurser']</g:internal_label>
+      <g:custom_label_3>Malekurser</g:custom_label_3>
+      <g:internal_label>['Malekurser','Kreative kurser','Esbjerg']</g:internal_label>
     </item>
 <item>
       <g:id>SVJ-2710006</g:id>
