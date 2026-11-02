@@ -6,51 +6,6 @@
 <description>Meta produktfeed med alle ledige hold fra FOF Køge Bugt</description>
 <language>da-DK</language>
 <item>
-      <g:id>KOE-51940</g:id>
-      <g:title><![CDATA[Rigsarkivet indefra: rundvisning i Danmarks fælles hukommelse]]></g:title>
-      <g:description><![CDATA[Populær og eksklusiv særrundvisning: FOF Køge Bugt tager dig ind bag facaden i Rigsarkivet i København. Se de dokumenter, kort og fotografier, som har formet Danmarks historie. Denne rundvisning plejer at blive udsolgt hurtigt!
-]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koege-bugt/rundvisning-i-rigsarkivet?holdnr=51940</g:link>
-      <g:image_link>https://www.fof.dk/media/igifhovq/rigsarkivet-koege-fof-aftenskolen-2.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>325.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Køge Bugt</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Rejser, ture og rundvisninger &gt; Rundvisninger</g:product_type>
-      <g:custom_label_0>Rejser, ture og rundvisninger</g:custom_label_0>
-      <g:custom_label_1>Rundvisninger</g:custom_label_1>
-      <g:custom_label_2></g:custom_label_2>
-      <g:custom_label_4></g:custom_label_4>
-      <g:start_date>2026-11-02T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Starter snart</g:custom_label_3>
-      <g:internal_label>['Starter snart','Endagskurser']</g:internal_label>
-    </item>
-<item>
-      <g:id>KOE-51279</g:id>
-      <g:title><![CDATA[Sund, økonomisk hverdagsmad]]></g:title>
-      <g:description><![CDATA[Lær at bruge flere grøntsager, bønner og bælgfrugter i din mad.  På vores kurser lærer du at tilberede lækre, mættende og farverige retter, der både er gode for dig, for din økonomi, og for klimaet. ]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koege-bugt/sund-hverdagsmad?holdnr=51279</g:link>
-      <g:image_link>https://www.fof.dk/media/y4sa4vqp/det-groenne-koekken.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>195.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Køge Bugt</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Madlavning og drikkevarer &gt; Fest- og hverdagsmad</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
-      <g:custom_label_2>Fest- og hverdagsmad</g:custom_label_2>
-      <g:custom_label_4>Rønne</g:custom_label_4>
-      <g:start_date>2026-11-02T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Bornholm</g:custom_label_3>
-      <g:internal_label>['Bornholm','Starter snart','Rønne']</g:internal_label>
-    </item>
-<item>
       <g:id>KOE-50307</g:id>
       <g:title><![CDATA[Hensyntagende stolegymnastik og afspænding - Chr. Have Plejecenter]]></g:title>
       <g:description><![CDATA[FOF Køge Bugt og Solrød Kommune tilbyder sammen et stolegymnastikhold på Chr. Have Plejecenter for centrets beboere. Alle beboere på Chr. Have Plejecenter kan deltage. Undervisningen er skræddersyet til dine individuelle behov og udfordringer.]]></g:description>
@@ -400,7 +355,7 @@
       <g:custom_label_4>Køge</g:custom_label_4>
       <g:start_date>2026-11-17T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Endagskurser</g:custom_label_3>
-      <g:internal_label>['Endagskurser','Køge']</g:internal_label>
+      <g:internal_label>['Endagskurser','Køge','Starter snart']</g:internal_label>
     </item>
 <item>
       <g:id>KOE-51947</g:id>
@@ -422,7 +377,7 @@
       <g:custom_label_4></g:custom_label_4>
       <g:start_date>2026-11-17T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Endagskurser</g:custom_label_3>
-      <g:internal_label>['Endagskurser']</g:internal_label>
+      <g:internal_label>['Endagskurser','Starter snart']</g:internal_label>
     </item>
 <item>
       <g:id>KOE-51980</g:id>

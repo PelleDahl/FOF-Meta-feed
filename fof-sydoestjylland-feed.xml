@@ -464,7 +464,8 @@
       <g:custom_label_2>Syning</g:custom_label_2>
       <g:custom_label_4>Vejle</g:custom_label_4>
       <g:start_date>2026-11-17T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Vejle']</g:internal_label>
+      <g:custom_label_3>Starter snart</g:custom_label_3>
+      <g:internal_label>['Starter snart','Vejle']</g:internal_label>
     </item>
 <item>
       <g:id>SOJ-265277</g:id>
