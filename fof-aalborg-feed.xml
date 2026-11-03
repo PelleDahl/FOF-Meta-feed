@@ -28,28 +28,6 @@
       <g:internal_label>['Foredrag','Aalborg SV']</g:internal_label>
     </item>
 <item>
-      <g:id>AAL-26205612</g:id>
-      <g:title><![CDATA[Keramik og Kreativ fordybelse]]></g:title>
-      <g:description><![CDATA[Lær keramik hos FOF Aalborg. På vores keramik kursus i Aalborg arbejder du med stentøjsler, glasur, drejning og modellering. For både begyndere og øvede.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-aalborg/keramik-og-kreativ-fordybelse?holdnr=26205612</g:link>
-      <g:image_link>https://www.fof.dk/media/q4qljirj/img_8016.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1330.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Aalborg</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Kreative kurser &gt; Keramik</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Kreative kurser</g:custom_label_1>
-      <g:custom_label_2>Keramik</g:custom_label_2>
-      <g:custom_label_4>Aalborg</g:custom_label_4>
-      <g:start_date>2026-11-04T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Keramik Boulevarden</g:custom_label_3>
-      <g:internal_label>['Keramik Boulevarden','Aalborg']</g:internal_label>
-    </item>
-<item>
       <g:id>AAL-26205557</g:id>
       <g:title><![CDATA[Pileflet: Juleflet]]></g:title>
       <g:description><![CDATA[Deltag i juleflet kursus hos FOF Aalborg og lær at lave smukt julepynt i pil og naturmaterialer. Kreativ juleaktivitet for alle niveauer.]]></g:description>
@@ -1035,28 +1013,6 @@
       <g:internal_label>['Bevægelse','Aalborg SV']</g:internal_label>
     </item>
 <item>
-      <g:id>AAL-26205870</g:id>
-      <g:title><![CDATA[Figurtegning: Mennesket som form]]></g:title>
-      <g:description><![CDATA[Lær figurtegning hos FOF Aalborg. Et tegnekursus for begyndere og øvede med grundformer, proportioner, lys, skygge og tegning efter croquismodel.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-aalborg/figurtegning-mennesket-som-form?holdnr=26205870</g:link>
-      <g:image_link>https://www.fof.dk/media/gyloxs4t/figurtegning.png?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>970.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Aalborg</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Kreative kurser &gt; Tegnekurser</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Kreative kurser</g:custom_label_1>
-      <g:custom_label_2>Tegnekurser</g:custom_label_2>
-      <g:custom_label_4>Aalborg</g:custom_label_4>
-      <g:start_date>2026-11-25T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Nyhed</g:custom_label_3>
-      <g:internal_label>['Nyhed','Kreativ Boulevarden','Aalborg']</g:internal_label>
-    </item>
-<item>
       <g:id>AAL-26220482</g:id>
       <g:title><![CDATA[Workshop: Yin & afspænding]]></g:title>
       <g:description><![CDATA[Find ro og større bevægelighed med massage og afspænding hos FOF Aalborg. Arbejd med muskelspændinger, åndedræt, bindevæv og kropsbevidsthed.]]></g:description>
@@ -1077,6 +1033,28 @@
       <g:start_date>2026-11-25T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Gratis kurser</g:custom_label_3>
       <g:internal_label>['Gratis kurser','Nyhed','Aalborg SV']</g:internal_label>
+    </item>
+<item>
+      <g:id>AAL-26205870</g:id>
+      <g:title><![CDATA[Figurtegning: Mennesket som form]]></g:title>
+      <g:description><![CDATA[Lær figurtegning hos FOF Aalborg. Et tegnekursus for begyndere og øvede med grundformer, proportioner, lys, skygge og tegning efter croquismodel.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aalborg/figurtegning-mennesket-som-form?holdnr=26205870</g:link>
+      <g:image_link>https://www.fof.dk/media/gyloxs4t/figurtegning.png?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>970.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aalborg</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Kreative kurser &gt; Tegnekurser</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Kreative kurser</g:custom_label_1>
+      <g:custom_label_2>Tegnekurser</g:custom_label_2>
+      <g:custom_label_4>Aalborg</g:custom_label_4>
+      <g:start_date>2026-11-25T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Nyhed</g:custom_label_3>
+      <g:internal_label>['Nyhed','Kreativ Boulevarden','Aalborg']</g:internal_label>
     </item>
 <item>
       <g:id>AAL-26220352</g:id>
@@ -1211,28 +1189,6 @@
       <g:internal_label>['Nyhed','Aalborg SV']</g:internal_label>
     </item>
 <item>
-      <g:id>AAL-26205714</g:id>
-      <g:title><![CDATA[Keramik: Åbent keramikværksted]]></g:title>
-      <g:description><![CDATA[Arbejd frit med keramik i FOF Aalborgs åbne keramikværksted. For øvede med kendskab til keramik. Adgang til værksted, brænding og glasur.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-aalborg/keramik-aabent-keramikvaerksted?holdnr=26205714</g:link>
-      <g:image_link>https://www.fof.dk/media/3wjdisl4/1-f8b9f4a9.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>195.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Aalborg</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Kreative kurser &gt; Keramik</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Kreative kurser</g:custom_label_1>
-      <g:custom_label_2>Keramik</g:custom_label_2>
-      <g:custom_label_4>Aalborg</g:custom_label_4>
-      <g:start_date>2026-11-27T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Keramik Boulevarden</g:custom_label_3>
-      <g:internal_label>['Keramik Boulevarden','Kulturpas','Aalborg']</g:internal_label>
-    </item>
-<item>
       <g:id>AAL-26205646</g:id>
       <g:title><![CDATA[Keramik & Bobler]]></g:title>
       <g:description><![CDATA[Kom til Keramik & Bobler hos FOF Aalborg og start weekenden kreativt. Form dine egne keramikprojekter, nyd et glas bobler og oplev hyggeligt fællesskab i Aalborg.]]></g:description>
@@ -1253,6 +1209,28 @@
       <g:start_date>2026-11-27T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Keramik Boulevarden</g:custom_label_3>
       <g:internal_label>['Keramik Boulevarden','Kreative kurser','Aalborg']</g:internal_label>
+    </item>
+<item>
+      <g:id>AAL-26205714</g:id>
+      <g:title><![CDATA[Keramik: Åbent keramikværksted]]></g:title>
+      <g:description><![CDATA[Arbejd frit med keramik i FOF Aalborgs åbne keramikværksted. For øvede med kendskab til keramik. Adgang til værksted, brænding og glasur.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aalborg/keramik-aabent-keramikvaerksted?holdnr=26205714</g:link>
+      <g:image_link>https://www.fof.dk/media/3wjdisl4/1-f8b9f4a9.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>195.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aalborg</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Kreative kurser &gt; Keramik</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Kreative kurser</g:custom_label_1>
+      <g:custom_label_2>Keramik</g:custom_label_2>
+      <g:custom_label_4>Aalborg</g:custom_label_4>
+      <g:start_date>2026-11-27T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Keramik Boulevarden</g:custom_label_3>
+      <g:internal_label>['Keramik Boulevarden','Kulturpas','Aalborg']</g:internal_label>
     </item>
 <item>
       <g:id>AAL-26205764</g:id>
@@ -1452,28 +1430,6 @@
       <g:internal_label>['Foredrag','Aalborg SV']</g:internal_label>
     </item>
 <item>
-      <g:id>AAL-26205715</g:id>
-      <g:title><![CDATA[Keramik: Åbent keramikværksted]]></g:title>
-      <g:description><![CDATA[Arbejd frit med keramik i FOF Aalborgs åbne keramikværksted. For øvede med kendskab til keramik. Adgang til værksted, brænding og glasur.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-aalborg/keramik-aabent-keramikvaerksted?holdnr=26205715</g:link>
-      <g:image_link>https://www.fof.dk/media/3wjdisl4/1-f8b9f4a9.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>195.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Aalborg</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Kreative kurser &gt; Keramik</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Kreative kurser</g:custom_label_1>
-      <g:custom_label_2>Keramik</g:custom_label_2>
-      <g:custom_label_4>Aalborg</g:custom_label_4>
-      <g:start_date>2026-12-04T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Keramik Boulevarden</g:custom_label_3>
-      <g:internal_label>['Keramik Boulevarden','Kulturpas','Aalborg']</g:internal_label>
-    </item>
-<item>
       <g:id>AAL-26205765</g:id>
       <g:title><![CDATA[Keramik: Mal på keramik ]]></g:title>
       <g:description><![CDATA[Mal på keramik hos FOF Aalborg. Dekorér kopper, skåle, tallerkener og fade i et hyggeligt keramikværksted. Glasur og brænding er inkluderet.]]></g:description>
@@ -1496,14 +1452,14 @@
       <g:internal_label>['Keramik Boulevarden','Aalborg']</g:internal_label>
     </item>
 <item>
-      <g:id>AAL-26205647</g:id>
-      <g:title><![CDATA[Keramik & Bobler]]></g:title>
-      <g:description><![CDATA[Kom til Keramik & Bobler hos FOF Aalborg og start weekenden kreativt. Form dine egne keramikprojekter, nyd et glas bobler og oplev hyggeligt fællesskab i Aalborg.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-aalborg/keramik-bobler?holdnr=26205647</g:link>
-      <g:image_link>https://www.fof.dk/media/hq2l01oo/keramik-og-bobler.png?width=1200</g:image_link>
+      <g:id>AAL-26205715</g:id>
+      <g:title><![CDATA[Keramik: Åbent keramikværksted]]></g:title>
+      <g:description><![CDATA[Arbejd frit med keramik i FOF Aalborgs åbne keramikværksted. For øvede med kendskab til keramik. Adgang til værksted, brænding og glasur.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aalborg/keramik-aabent-keramikvaerksted?holdnr=26205715</g:link>
+      <g:image_link>https://www.fof.dk/media/3wjdisl4/1-f8b9f4a9.jpg?width=1200</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:quantity>1</g:quantity>
-      <g:price>305.00 DKK</g:price>
+      <g:price>195.00 DKK</g:price>
       <g:condition>new</g:condition>
       <g:brand>FOF Aalborg</g:brand>
       <g:google_product_category>Education</g:google_product_category>
@@ -1515,7 +1471,7 @@
       <g:custom_label_4>Aalborg</g:custom_label_4>
       <g:start_date>2026-12-04T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Keramik Boulevarden</g:custom_label_3>
-      <g:internal_label>['Keramik Boulevarden','Kreative kurser','Aalborg']</g:internal_label>
+      <g:internal_label>['Keramik Boulevarden','Kulturpas','Aalborg']</g:internal_label>
     </item>
 <item>
       <g:id>AAL-26225071</g:id>

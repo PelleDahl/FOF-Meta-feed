@@ -112,7 +112,8 @@
       <g:custom_label_2>Yoga</g:custom_label_2>
       <g:custom_label_4>Vejle</g:custom_label_4>
       <g:start_date>2026-11-09T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Vejle']</g:internal_label>
+      <g:custom_label_3>Starter snart</g:custom_label_3>
+      <g:internal_label>['Starter snart','Vejle']</g:internal_label>
     </item>
 <item>
       <g:id>SOJ-267004</g:id>
@@ -419,29 +420,8 @@
       <g:custom_label_2>Bagning og søde sager</g:custom_label_2>
       <g:custom_label_4>Horsens</g:custom_label_4>
       <g:start_date>2026-11-18T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Jul og nytår</g:custom_label_3>
-      <g:internal_label>['Jul og nytår','Nyhed','Horsens']</g:internal_label>
-    </item>
-<item>
-      <g:id>SOJ-265162</g:id>
-      <g:title><![CDATA[Bassintræning for gravide]]></g:title>
-      <g:description><![CDATA[Gå til bassintræning for gravide i Forum Horsens. Skånsom motion i varmtvandsbassin med fokus på bækken, balance, velvære og fødselsforberedelse.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-sydoestjylland/bevaegelse-i-vand-for-gravide?holdnr=265162</g:link>
-      <g:image_link>https://www.fof.dk/media/t01jly3m/bassintraening-gravide-fof-sydoestjylland.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>350.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Sydøstjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Motion for gravide</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
-      <g:custom_label_2>Motion for gravide</g:custom_label_2>
-      <g:custom_label_4>Horsens</g:custom_label_4>
-      <g:start_date>2026-11-18T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Horsens']</g:internal_label>
+      <g:custom_label_3>Starter snart</g:custom_label_3>
+      <g:internal_label>['Starter snart','Jul og nytår','Nyhed','Horsens']</g:internal_label>
     </item>
 <item>
       <g:id>SOJ-269247</g:id>
@@ -1006,25 +986,26 @@
       <g:internal_label>['Skanderborg']</g:internal_label>
     </item>
 <item>
-      <g:id>SOJ-270629</g:id>
-      <g:title><![CDATA[Harmonika - 3-mandshold, rutinerede]]></g:title>
-      <g:description><![CDATA[Udvikl dit harmonikaspil med rytmer som samba og mambo. Sammenspil for øvede hos FOF Sydøstjyllland i Horsens med Helle Asmild.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-sydoestjylland/harmonika-3-mandshold-rutinerede?holdnr=270629</g:link>
-      <g:image_link>https://www.fof.dk/media/q0icm5ol/harmonika.jpg?width=1200</g:image_link>
+      <g:id>SOJ-270720</g:id>
+      <g:title><![CDATA[En aften med højskolesange - Sascha Dupont]]></g:title>
+      <g:description><![CDATA[Oplev en aften med FOF Sydøstjylland i Horsens, hvor vi inviterer dig til en hjertevarm sangaften, der hylder den danske sangtradition. Kom og vær med, når vi samles i fællesskab omkring Højskolesangbogen på Horsens VUC og lad os sammen skabe en aften fyldt med musik og fællesskab.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydoestjylland/sangaftner-med-sascha-dupont?holdnr=270720</g:link>
+      <g:image_link>https://www.fof.dk/media/geuaqjol/proevetimer-65.jpg?width=1200</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:quantity>1</g:quantity>
-      <g:price>1545.00 DKK</g:price>
+      <g:price>70.00 DKK</g:price>
       <g:condition>new</g:condition>
       <g:brand>FOF Sydøstjylland</g:brand>
       <g:google_product_category>Education</g:google_product_category>
       <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Musik og sang &gt; Klaver og harmonika</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Musik og sang</g:custom_label_1>
-      <g:custom_label_2>Klaver og harmonika</g:custom_label_2>
+      <g:product_type>Foredrag, debat og højskoler &gt; Musik og koncerter</g:product_type>
+      <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
+      <g:custom_label_1>Musik og koncerter</g:custom_label_1>
+      <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4>Horsens</g:custom_label_4>
       <g:start_date>2027-01-13T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Horsens']</g:internal_label>
+      <g:custom_label_3>Gaveidéer</g:custom_label_3>
+      <g:internal_label>['Gaveidéer','Horsens']</g:internal_label>
     </item>
 <item>
       <g:id>SOJ-274256</g:id>
@@ -1628,6 +1609,28 @@
       <g:internal_label>['Prøvetime','Vejle']</g:internal_label>
     </item>
 <item>
+      <g:id>SOJ-270280</g:id>
+      <g:title><![CDATA[Knæk koden til den perfekte surdej]]></g:title>
+      <g:description><![CDATA[Kom med på surdejskursus i Horsens, og lær mere om fodring af surdej, surdejsbrød, boller, focaccia og forskellige afbagningsteknikker.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydoestjylland/kom-i-gang-med-surdej?holdnr=270280</g:link>
+      <g:image_link>https://www.fof.dk/media/ah5peey2/surdej.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>430.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydøstjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Madlavning og drikkevarer &gt; Bagning og søde sager</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
+      <g:custom_label_2>Bagning og søde sager</g:custom_label_2>
+      <g:custom_label_4>Horsens</g:custom_label_4>
+      <g:start_date>2027-02-09T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Nyhed</g:custom_label_3>
+      <g:internal_label>['Nyhed','Horsens']</g:internal_label>
+    </item>
+<item>
       <g:id>SOJ-272800</g:id>
       <g:title><![CDATA[VHF/DSC - skibsradio til SRC-certifikat]]></g:title>
       <g:description><![CDATA[Tag et VHF/DSC-skibsradiokursus i Hedensted. Bliv forberedt til SRC-certifikatet på 3 mødedage: én mandag og to lørdage.]]></g:description>
@@ -1669,6 +1672,28 @@
       <g:custom_label_4>Horsens</g:custom_label_4>
       <g:start_date>2027-02-23T00:00:00.000Z</g:start_date>
       <g:internal_label>['Horsens']</g:internal_label>
+    </item>
+<item>
+      <g:id>SOJ-270721</g:id>
+      <g:title><![CDATA[En aften med højskolesange - Sascha Dupont]]></g:title>
+      <g:description><![CDATA[Oplev en aften med FOF Sydøstjylland i Horsens, hvor vi inviterer dig til en hjertevarm sangaften, der hylder den danske sangtradition. Kom og vær med, når vi samles i fællesskab omkring Højskolesangbogen på Horsens VUC og lad os sammen skabe en aften fyldt med musik og fællesskab.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydoestjylland/sangaftner-med-sascha-dupont?holdnr=270721</g:link>
+      <g:image_link>https://www.fof.dk/media/geuaqjol/proevetimer-65.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>70.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydøstjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Foredrag, debat og højskoler &gt; Musik og koncerter</g:product_type>
+      <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
+      <g:custom_label_1>Musik og koncerter</g:custom_label_1>
+      <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Horsens</g:custom_label_4>
+      <g:start_date>2027-02-24T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Gaveidéer</g:custom_label_3>
+      <g:internal_label>['Gaveidéer','Horsens']</g:internal_label>
     </item>
 <item>
       <g:id>SOJ-274216</g:id>
@@ -1954,6 +1979,28 @@
       <g:internal_label>['Nyhed','Horsens']</g:internal_label>
     </item>
 <item>
+      <g:id>SOJ-270281</g:id>
+      <g:title><![CDATA[Knæk koden til den perfekte surdej]]></g:title>
+      <g:description><![CDATA[Kom med på surdejskursus i Horsens, og lær mere om fodring af surdej, surdejsbrød, boller, focaccia og forskellige afbagningsteknikker.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydoestjylland/kom-i-gang-med-surdej?holdnr=270281</g:link>
+      <g:image_link>https://www.fof.dk/media/ah5peey2/surdej.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>430.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydøstjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Madlavning og drikkevarer &gt; Bagning og søde sager</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
+      <g:custom_label_2>Bagning og søde sager</g:custom_label_2>
+      <g:custom_label_4>Horsens</g:custom_label_4>
+      <g:start_date>2027-03-16T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Nyhed</g:custom_label_3>
+      <g:internal_label>['Nyhed','Horsens']</g:internal_label>
+    </item>
+<item>
       <g:id>SOJ-270705</g:id>
       <g:title><![CDATA[Mord, Oxford og genial deduktion]]></g:title>
       <g:description><![CDATA[Oplev et spændende foredrag i Horsens om Colin Dexter, Inspector Morse og Lewis. For krimielskere, litteraturinteresserede og fans af britisk krimi.]]></g:description>
@@ -2015,6 +2062,28 @@
       <g:custom_label_4>Skanderborg</g:custom_label_4>
       <g:start_date>2027-03-30T00:00:00.000Z</g:start_date>
       <g:internal_label>['Skanderborg']</g:internal_label>
+    </item>
+<item>
+      <g:id>SOJ-270722</g:id>
+      <g:title><![CDATA[En aften med højskolesange - Sascha Dupont]]></g:title>
+      <g:description><![CDATA[Oplev en aften med FOF Sydøstjylland i Horsens, hvor vi inviterer dig til en hjertevarm sangaften, der hylder den danske sangtradition. Kom og vær med, når vi samles i fællesskab omkring Højskolesangbogen på Horsens VUC og lad os sammen skabe en aften fyldt med musik og fællesskab.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydoestjylland/sangaftner-med-sascha-dupont?holdnr=270722</g:link>
+      <g:image_link>https://www.fof.dk/media/geuaqjol/proevetimer-65.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>70.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydøstjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Foredrag, debat og højskoler &gt; Musik og koncerter</g:product_type>
+      <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
+      <g:custom_label_1>Musik og koncerter</g:custom_label_1>
+      <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Horsens</g:custom_label_4>
+      <g:start_date>2027-03-31T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Gaveidéer</g:custom_label_3>
+      <g:internal_label>['Gaveidéer','Horsens']</g:internal_label>
     </item>
 <item>
       <g:id>SOJ-274631</g:id>

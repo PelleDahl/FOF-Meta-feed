@@ -50,28 +50,6 @@
       <g:internal_label>['Grenaa','Foredrag']</g:internal_label>
     </item>
 <item>
-      <g:id>DJU-262667</g:id>
-      <g:title><![CDATA[Julesmåkager til kaffen - Grenaa]]></g:title>
-      <g:description><![CDATA[Bag klassiske julesmåkager i Grenaa, bagekursus hos FOF Djursland]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-djursland/julesmaakager-til-kaffen-1-dages-kursus-i-grenaa?holdnr=262667</g:link>
-      <g:image_link>https://www.fof.dk/media/jobdpjfj/julesmaakager-til-kaffen-grenaa-fof-djursland.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>370.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Djursland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Madlavning og drikkevarer &gt; Bagning og søde sager</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
-      <g:custom_label_2>Bagning og søde sager</g:custom_label_2>
-      <g:custom_label_4>Grenaa</g:custom_label_4>
-      <g:start_date>2026-11-07T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Grenaa</g:custom_label_3>
-      <g:internal_label>['Grenaa','Nyhed','Korte kurser','Madlavning']</g:internal_label>
-    </item>
-<item>
       <g:id>DJU-262668</g:id>
       <g:title><![CDATA[Bag croissants til morgenbordet - Grenaa]]></g:title>
       <g:description><![CDATA[Lær at bage sprøde croissanter fra bunden i Grenaa. Bagekursus med teknikker, smørdej og friskbagt hygge hos FOF Djursland]]></g:description>
@@ -378,6 +356,28 @@
       <g:start_date>2027-01-18T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Rønde</g:custom_label_3>
       <g:internal_label>['Rønde','Bevægelse','Bevægelse og afspænding','Dans']</g:internal_label>
+    </item>
+<item>
+      <g:id>DJU-271650</g:id>
+      <g:title><![CDATA[Madlavning for mænd - Grenaa]]></g:title>
+      <g:description><![CDATA[Lær at lave klassiske retter fra bunden på Madlavning for mænd. Hyggeligt fællesskab, god smag og tryg undervisning. Madhold hos FOF Djursland]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-djursland/madlavning-for-maend-grenaa?holdnr=271650</g:link>
+      <g:image_link>https://www.fof.dk/media/mayjxpre/madlavning-for-maend-grenaa-fof-djursland.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1050.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Djursland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Madlavning og drikkevarer &gt; Fest- og hverdagsmad</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
+      <g:custom_label_2>Fest- og hverdagsmad</g:custom_label_2>
+      <g:custom_label_4>Grenaa</g:custom_label_4>
+      <g:start_date>2027-01-19T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Grenaa</g:custom_label_3>
+      <g:internal_label>['Grenaa','Madlavning','Herrehold']</g:internal_label>
     </item>
 <item>
       <g:id>DJU-271211</g:id>

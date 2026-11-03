@@ -6,49 +6,6 @@
 <description>Meta produktfeed med alle ledige hold fra FOF Herning</description>
 <language>da-DK</language>
 <item>
-      <g:id>HER-48806</g:id>
-      <g:title><![CDATA[Grøn mad med rødbeder]]></g:title>
-      <g:description><![CDATA[Lær at lave grøn mad med rødbeder på madlavningskursus i Herning. Få opskrifter, teknikker og inspiration til sunde, smagfulde retter.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-herning/groen-mad-med-roedbeder-1?holdnr=48806</g:link>
-      <g:image_link>https://www.fof.dk/media/uk1pbkn5/madlavning-herning-fof-aftenskolen-roedbeder-1.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>301.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Herning</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Madlavning og drikkevarer &gt; Vegetarisk og vegansk</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
-      <g:custom_label_2>Vegetarisk og vegansk</g:custom_label_2>
-      <g:custom_label_4>Herning</g:custom_label_4>
-      <g:start_date>2026-11-05T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Madkurser</g:custom_label_3>
-      <g:internal_label>['Madkurser','Herning']</g:internal_label>
-    </item>
-<item>
-      <g:id>HER-48321</g:id>
-      <g:title><![CDATA[NYHED - Workshop - De 10 mest brugte essentielle olier]]></g:title>
-      <g:description><![CDATA[Lær at bruge de 10 mest populære essentielle olier fra doTERRA til velvære, ro og egenomsorg. Inspirerende temaaften i Herning hos FOF Herning for begyndere og nysgerrige.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-herning/de-10-mest-brugte-essentielle-olier?holdnr=48321</g:link>
-      <g:image_link>https://www.fof.dk/media/y5wiav5h/essentielle-olier.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>244.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Herning</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Livsstil og trivsel &gt; Kropspleje</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Livsstil og trivsel</g:custom_label_1>
-      <g:custom_label_2>Kropspleje</g:custom_label_2>
-      <g:custom_label_4>Herning</g:custom_label_4>
-      <g:start_date>2026-11-07T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Herning']</g:internal_label>
-    </item>
-<item>
       <g:id>HER-48825</g:id>
       <g:title><![CDATA[NYHED - Pastakursus for børn og voksne]]></g:title>
       <g:description><![CDATA[Lær at lave frisk pasta fra bunden på hyggeligt italiensk madkursus for børn og voksne i Herning. En smagfuld familieoplevelse med italienske traditioner og fællesskab.]]></g:description>

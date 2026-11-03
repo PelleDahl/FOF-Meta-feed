@@ -6,28 +6,6 @@
 <description>Meta produktfeed med alle ledige hold fra FOF Aarhus</description>
 <language>da-DK</language>
 <item>
-      <g:id>AAR-425012</g:id>
-      <g:title><![CDATA[Ve-træning]]></g:title>
-      <g:description><![CDATA[Tag til ve-træning ved FOF Aftenskolen Aarhus og forbered dig på fødslen ved at lære at tackle dine veer. ]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/ve-traening?holdnr=425012</g:link>
-      <g:image_link>https://www.fof.dk/media/tinlo44g/vetraening_5_1200x1200-aarhus.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>195.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Aarhus</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Fødselsforberedelse</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
-      <g:custom_label_2>Fødselsforberedelse</g:custom_label_2>
-      <g:custom_label_4>Åbyhøj</g:custom_label_4>
-      <g:start_date>2026-11-04T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Starter om &lt; 14 dage</g:custom_label_3>
-      <g:internal_label>['Starter om &lt; 14 dage','Korte kurser','Åbyhøj']</g:internal_label>
-    </item>
-<item>
       <g:id>AAR-425151</g:id>
       <g:title><![CDATA[Mistet spædbarn (efterfødselstræning)]]></g:title>
       <g:description><![CDATA[Kurset sigter mod at støtte dig i at være i sorgen og få den nye hverdag til at fungere både fysisk og psykisk | FOF Aftenskolen Aarhus]]></g:description>
@@ -48,6 +26,28 @@
       <g:start_date>2026-11-04T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Starter om &lt; 14 dage</g:custom_label_3>
       <g:internal_label>['Starter om &lt; 14 dage','Aarhus C']</g:internal_label>
+    </item>
+<item>
+      <g:id>AAR-425012</g:id>
+      <g:title><![CDATA[Ve-træning]]></g:title>
+      <g:description><![CDATA[Tag til ve-træning ved FOF Aftenskolen Aarhus og forbered dig på fødslen ved at lære at tackle dine veer. ]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/ve-traening?holdnr=425012</g:link>
+      <g:image_link>https://www.fof.dk/media/tinlo44g/vetraening_5_1200x1200-aarhus.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>195.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Fødselsforberedelse</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
+      <g:custom_label_2>Fødselsforberedelse</g:custom_label_2>
+      <g:custom_label_4>Åbyhøj</g:custom_label_4>
+      <g:start_date>2026-11-04T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Starter om &lt; 14 dage</g:custom_label_3>
+      <g:internal_label>['Starter om &lt; 14 dage','Korte kurser','Åbyhøj']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-426901</g:id>
@@ -535,28 +535,6 @@
       <g:internal_label>['Starter om &lt; 14 dage','Korte kurser','Aarhus C']</g:internal_label>
     </item>
 <item>
-      <g:id>AAR-426998</g:id>
-      <g:title><![CDATA[Bibelen fra A til Å]]></g:title>
-      <g:description><![CDATA[Deltag i temadag om Bibelen fra A til Å i FOF Aftenskolen Aarhus. Vi dykker ned i Bibelens tekster, både de velkendte og de mere farverige fortællinger, der sjældent nævnes. Tilmeld dig i dag.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/bibelen-fra-a-til-aa?holdnr=426998</g:link>
-      <g:image_link>https://www.fof.dk/media/du1ff3hk/luther-praediker-1200x1200-fof-aarhus.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1250.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Aarhus</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Foredrag, debat og højskoler &gt; Foredragsrækker</g:product_type>
-      <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
-      <g:custom_label_1>Foredragsrækker</g:custom_label_1>
-      <g:custom_label_2></g:custom_label_2>
-      <g:custom_label_4>Aarhus</g:custom_label_4>
-      <g:start_date>2026-11-10T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Starter om &lt; 14 dage</g:custom_label_3>
-      <g:internal_label>['Starter om &lt; 14 dage','Aarhus C']</g:internal_label>
-    </item>
-<item>
       <g:id>AAR-427112</g:id>
       <g:title><![CDATA[Trump i terapi – med Surrugue og 2 x Lasse]]></g:title>
       <g:description><![CDATA[Bliv klogere på Trump, USA og verdenspolitikken i Aarhus med Surrugue, Engelbrecht og Berg. Aktuelt, skarpt og underholdende. Tilmeld dig i dag.]]></g:description>
@@ -575,7 +553,8 @@
       <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4>Aarhus</g:custom_label_4>
       <g:start_date>2026-11-10T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Aarhus C']</g:internal_label>
+      <g:custom_label_3>Starter om &lt; 14 dage</g:custom_label_3>
+      <g:internal_label>['Starter om &lt; 14 dage','Aarhus C']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-423955</g:id>
@@ -1058,7 +1037,8 @@
       <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4>Aarhus</g:custom_label_4>
       <g:start_date>2026-11-18T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Aarhus C']</g:internal_label>
+      <g:custom_label_3>Starter om &lt; 14 dage</g:custom_label_3>
+      <g:internal_label>['Starter om &lt; 14 dage','Aarhus C']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-425095</g:id>
@@ -1455,27 +1435,6 @@
       <g:internal_label>['Korte kurser','Starter om &lt; 14 dage','Aarhus C']</g:internal_label>
     </item>
 <item>
-      <g:id>AAR-426931</g:id>
-      <g:title><![CDATA[Nadia Mansour: Arven fra Palæstina]]></g:title>
-      <g:description><![CDATA[Oplev Nadia Mansour i FOF Aarhus til en aften om identitet, familiearv og det usagte i fortællinger fra "Palæstinenseren". Hør personlige historier, stil spørgsmål og bliv klogere på, hvordan fortiden former nutiden.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/arven-fra-palaestina?holdnr=426931</g:link>
-      <g:image_link>https://www.fof.dk/media/ht4f2dth/nadia_mansour_foredrag_fof_aarhus_1200x1200.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>155.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Aarhus</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Foredrag, debat og højskoler &gt; Samfund og historie</g:product_type>
-      <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
-      <g:custom_label_1>Samfund og historie</g:custom_label_1>
-      <g:custom_label_2></g:custom_label_2>
-      <g:custom_label_4>Aarhus</g:custom_label_4>
-      <g:start_date>2026-11-24T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Aarhus C']</g:internal_label>
-    </item>
-<item>
       <g:id>AAR-423956</g:id>
       <g:title><![CDATA[Madglad 60+]]></g:title>
       <g:description><![CDATA[Tag med på en kulinarisk rejse og styrk fællesskabet med Madglad 60+, et samarbejde mellem FOF Aarhus og GENLYD. Uanset om du er ny i køkkenet eller en erfaren kok, er dette fællesskab åbent for alle over 60, der deler glæden ved madlavning og samvær. ]]></g:description>
@@ -1863,7 +1822,7 @@
       <g:custom_label_4>Åbyhøj</g:custom_label_4>
       <g:start_date>2026-12-01T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Førstehjælp til kørekort</g:custom_label_3>
-      <g:internal_label>['Førstehjælp til kørekort','Korte kurser','Starter om &lt; 14 dage','Åbyhøj']</g:internal_label>
+      <g:internal_label>['Førstehjælp til kørekort','Korte kurser','Åbyhøj']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-428953</g:id>
@@ -2520,6 +2479,27 @@
       <g:internal_label>['Sommer','In English','Aarhus C']</g:internal_label>
     </item>
 <item>
+      <g:id>AAR-434546</g:id>
+      <g:title><![CDATA[Klassisk sang - letøvede]]></g:title>
+      <g:description><![CDATA[Tag med på kursus i klassisk sang for dig, der har erfaring med at synge. Vi synger bl.a. arier og viser og arbejder med sangteknik, klang og fortolkning. Kom med.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/klassisk-sang-letoevede?holdnr=434546</g:link>
+      <g:image_link>https://www.fof.dk/media/1behmbpi/klassisk-sang-kursus-aarhus-fof-aftenskolen.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>500.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type></g:product_type>
+      <g:custom_label_0></g:custom_label_0>
+      <g:custom_label_1></g:custom_label_1>
+      <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Åbyhøj</g:custom_label_4>
+      <g:start_date>2027-01-05T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Åbyhøj']</g:internal_label>
+    </item>
+<item>
       <g:id>AAR-423850</g:id>
       <g:title><![CDATA[Madglad 60+ på Møllestien hold 2]]></g:title>
       <g:description><![CDATA[Oplev glæden ved at lave mad og dele måltider med Madglad 60+, et samarbejde mellem FOF Aarhus og GENLYD. Dette initiativ bringer aarhusianere over 60 år sammen omkring gryderne for at udforske nye smagsoplevelser og skabe varige venskaber. Uanset om du er nybegynder eller erfaren i køkkenet, er der plads til dig i dette madfællesskab, hvor fællesskab og madglæde er i centrum.]]></g:description>
@@ -2859,6 +2839,26 @@
       <g:custom_label_4>Aarhus</g:custom_label_4>
       <g:start_date>2027-02-01T00:00:00.000Z</g:start_date>
       <g:internal_label>['Aarhus C']</g:internal_label>
+    </item>
+<item>
+      <g:id>AAR-434545</g:id>
+      <g:title><![CDATA[Musical sanghold - letøvede/øvede]]></g:title>
+      <g:description><![CDATA[Elsker du musicals? Syng musicalhits på et lille sanghold i Aarhus. Arbejd med sangteknik, fortolkning og performance i et hyggeligt fællesskab. Tilmeld dig i dag.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/musical-sanghold-letoevedeoevede?holdnr=434545</g:link>
+      <g:image_link>https://www.fof.dk/media/0jqlruvt/syng-dig-glad-fof-aftenskolen-aarhus-4.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>685.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Musik og sang &gt; Sang og stemmetræning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Musik og sang</g:custom_label_1>
+      <g:custom_label_2>Sang og stemmetræning</g:custom_label_2>
+      <g:custom_label_4></g:custom_label_4>
+      <g:start_date>2027-02-02T00:00:00.000Z</g:start_date>
     </item>
 <item>
       <g:id>AAR-436890</g:id>
@@ -3367,27 +3367,6 @@
       <g:internal_label>['Aarhus C']</g:internal_label>
     </item>
 <item>
-      <g:id>AAR-436889</g:id>
-      <g:title><![CDATA[Vejen til en selvforsynende have]]></g:title>
-      <g:description><![CDATA[Mød Lotte og Per, indehavere af Permahaven Bakkely, til et foredrag i FOF Aarhus om den selvforsynende køkkenhave | Tilmeld dig og bliv klogere]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/vejen-til-en-selvforsynende-have?holdnr=436889</g:link>
-      <g:image_link>https://www.fof.dk/media/j15bc1n0/lotte_og_per_foredrag_selvforsynende_fof_aarhus_1200x1200.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>195.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Aarhus</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Foredrag, debat og højskoler &gt; Natur og haver</g:product_type>
-      <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
-      <g:custom_label_1>Natur og haver</g:custom_label_1>
-      <g:custom_label_2></g:custom_label_2>
-      <g:custom_label_4>Aarhus</g:custom_label_4>
-      <g:start_date>2027-03-31T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Aarhus C']</g:internal_label>
-    </item>
-<item>
       <g:id>AAR-436870</g:id>
       <g:title><![CDATA[Ditte Young: Hvad kan vi lære af neurodivergente børn og unge?]]></g:title>
       <g:description><![CDATA[Kom med til dette tankevækkende og inspirerende foredrag i FOF Aarhus, hvor Ditte Young åbner for nye perspektiver på neurodivergens hos børn og unge og sætter fokus på de ressourcer, styrker og potentialer, som ofte overses. | Tilmeld dig nu!]]></g:description>
@@ -3403,6 +3382,27 @@
       <g:product_type>Foredrag, debat og højskoler &gt; Sundhed og eksistens</g:product_type>
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Sundhed og eksistens</g:custom_label_1>
+      <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Aarhus</g:custom_label_4>
+      <g:start_date>2027-03-31T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Aarhus C']</g:internal_label>
+    </item>
+<item>
+      <g:id>AAR-436889</g:id>
+      <g:title><![CDATA[Vejen til en selvforsynende have]]></g:title>
+      <g:description><![CDATA[Mød Lotte og Per, indehavere af Permahaven Bakkely, til et foredrag i FOF Aarhus om den selvforsynende køkkenhave | Tilmeld dig og bliv klogere]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/vejen-til-en-selvforsynende-have?holdnr=436889</g:link>
+      <g:image_link>https://www.fof.dk/media/j15bc1n0/lotte_og_per_foredrag_selvforsynende_fof_aarhus_1200x1200.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>195.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Foredrag, debat og højskoler &gt; Natur og haver</g:product_type>
+      <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
+      <g:custom_label_1>Natur og haver</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4>Aarhus</g:custom_label_4>
       <g:start_date>2027-03-31T00:00:00.000Z</g:start_date>
@@ -3617,6 +3617,27 @@
       <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4>Aarhus</g:custom_label_4>
       <g:start_date>2027-04-20T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Aarhus C']</g:internal_label>
+    </item>
+<item>
+      <g:id>AAR-437036</g:id>
+      <g:title><![CDATA[Maren Uthaug: Er du klar til den sidste procent?]]></g:title>
+      <g:description><![CDATA[Kom med i det vilde univers bag bestsellertrilogien af Maren Uthaug, hvor mænd næsten er forsvundet, og kvinder har skabt deres eget samfund | Kom til foredrag i FOF Aarhus]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/maren-uthaug-er-du-klar-til-den-sidste-procent?holdnr=437036</g:link>
+      <g:image_link>https://www.fof.dk/media/vuhfqu2x/maren_uthaug_foredrag_fof_aarhus_1200x1200.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>200.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Foredrag, debat og højskoler &gt; Kultur og livsfortællinger</g:product_type>
+      <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
+      <g:custom_label_1>Kultur og livsfortællinger</g:custom_label_1>
+      <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Aarhus</g:custom_label_4>
+      <g:start_date>2027-04-23T00:00:00.000Z</g:start_date>
       <g:internal_label>['Aarhus C']</g:internal_label>
     </item>
 <item>

@@ -248,28 +248,6 @@
       <g:internal_label>['Starter snart','Haderslev']</g:internal_label>
     </item>
 <item>
-      <g:id>SDJ-1262132</g:id>
-      <g:title><![CDATA[Svampetur for begyndere]]></g:title>
-      <g:description><![CDATA[Tag med på svampetur med Rima og lær at genkende og bruge vilde spiselige svampe. Max 12. personer på et hold. Se mere på hjemmesiden. ]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-soenderjylland/svampetur-for-begyndere?holdnr=1262132</g:link>
-      <g:image_link>https://www.fof.dk/media/gjepx5kr/ud-i-naturen-fra-sitecore-redigeret.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>255.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Sønderjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Natur og udeliv &gt; Naturfag og friluftsliv</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Natur og udeliv</g:custom_label_1>
-      <g:custom_label_2>Naturfag og friluftsliv</g:custom_label_2>
-      <g:custom_label_4>Sønderborg</g:custom_label_4>
-      <g:start_date>2026-11-08T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Starter snart</g:custom_label_3>
-      <g:internal_label>['Starter snart','Bæredygtig','Sønderborg']</g:internal_label>
-    </item>
-<item>
       <g:id>SDJ-3270847</g:id>
       <g:title><![CDATA[Mensendieck]]></g:title>
       <g:description><![CDATA[Lær Mensendieck på små hold med fokus på holdning, styrke, smidighed og kropsbevidsthed. Start din træning i dag. Se mere og tilmeld dig i dag. ]]></g:description>
@@ -531,7 +509,7 @@
       <g:custom_label_4>Sønderborg</g:custom_label_4>
       <g:start_date>2026-11-17T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Starter snart</g:custom_label_3>
-      <g:internal_label>['Starter snart','Sangcentret','Sønderborg']</g:internal_label>
+      <g:internal_label>['Starter snart','Jul','Sangcentret','Sønderborg']</g:internal_label>
     </item>
 <item>
       <g:id>SDJ-1262723</g:id>
@@ -553,7 +531,7 @@
       <g:custom_label_4>Sønderborg</g:custom_label_4>
       <g:start_date>2026-11-17T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Starter snart</g:custom_label_3>
-      <g:internal_label>['Starter snart','Sangcentret','Sønderborg']</g:internal_label>
+      <g:internal_label>['Starter snart','Jul','Sangcentret','Sønderborg']</g:internal_label>
     </item>
 <item>
       <g:id>SDJ-1260738</g:id>
@@ -619,7 +597,7 @@
       <g:custom_label_4>Aabenraa</g:custom_label_4>
       <g:start_date>2026-11-19T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Aabenraa</g:custom_label_3>
-      <g:internal_label>['Aabenraa','Aftenforedrag']</g:internal_label>
+      <g:internal_label>['Aabenraa','Starter snart','Aftenforedrag']</g:internal_label>
     </item>
 <item>
       <g:id>SDJ-2262562</g:id>
@@ -821,7 +799,7 @@ Vi bruger tiden hver eneste dag. Vi måler den, planlægger efter den, mangler d
 <item>
       <g:id>SDJ-1262225</g:id>
       <g:title><![CDATA[Julebag - traditioner med et twist]]></g:title>
-      <g:description><![CDATA[Kom i julestemning hos FOF Sønderjylland. Her for traditionen et twist, bliv inspireret til julebagning og tag lækre hjemmebagte småkager med hjem. Se mere på hjemmesiden]]></g:description>
+      <g:description><![CDATA[Elsker du duften af julekrydderier og smagen af friskbagte småkager? Kom i julestemning i Sønderborg på dette bage kursus, hvor du kan bage klassiske og moderne julesmåkager i hyggeligt selskab – og tage både opskrifter og smagsprøver med hjem. ]]></g:description>
       <g:link>https://www.fof.dk/aftenskolen/fof-soenderjylland/julebag-traditioner-med-et-twist?holdnr=1262225</g:link>
       <g:image_link>https://www.fof.dk/media/tsed52fo/julekager-madlavning-soenderjylland-fof-aftenskolen.jpg?width=1200</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -837,7 +815,8 @@ Vi bruger tiden hver eneste dag. Vi måler den, planlægger efter den, mangler d
       <g:custom_label_2>Bagning og søde sager</g:custom_label_2>
       <g:custom_label_4>Sønderborg</g:custom_label_4>
       <g:start_date>2026-12-01T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Sønderborg']</g:internal_label>
+      <g:custom_label_3>Jul</g:custom_label_3>
+      <g:internal_label>['Jul','Sønderborg']</g:internal_label>
     </item>
 <item>
       <g:id>SDJ-1260736</g:id>
@@ -900,7 +879,8 @@ Vi bruger tiden hver eneste dag. Vi måler den, planlægger efter den, mangler d
       <g:custom_label_2>Håndarbejde</g:custom_label_2>
       <g:custom_label_4>Sønderborg</g:custom_label_4>
       <g:start_date>2026-12-01T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Sønderborg']</g:internal_label>
+      <g:custom_label_3>Jul</g:custom_label_3>
+      <g:internal_label>['Jul','Sønderborg']</g:internal_label>
     </item>
 <item>
       <g:id>SDJ-3270849</g:id>
@@ -1031,8 +1011,8 @@ Vi bruger tiden hver eneste dag. Vi måler den, planlægger efter den, mangler d
       <g:custom_label_2>Kor og fællessang</g:custom_label_2>
       <g:custom_label_4>Haderslev</g:custom_label_4>
       <g:start_date>2026-12-17T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Nyhed</g:custom_label_3>
-      <g:internal_label>['Nyhed','Haderslev']</g:internal_label>
+      <g:custom_label_3>Jul</g:custom_label_3>
+      <g:internal_label>['Jul','Nyhed','Haderslev']</g:internal_label>
     </item>
 <item>
       <g:id>SDJ-2271480</g:id>
@@ -1510,14 +1490,14 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:internal_label>['Bjerggade','Aabenraa']</g:internal_label>
     </item>
 <item>
-      <g:id>SDJ-2271315</g:id>
-      <g:title><![CDATA[Meditativ Yin Yoga]]></g:title>
-      <g:description><![CDATA[I en verden, der ofte bevæger sig hurtigt, inviterer meditativ Yin Yoga dig til at sætte tempoet ned og lande i kroppen.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-soenderjylland/meditativ-yin-yoga?holdnr=2271315</g:link>
-      <g:image_link>https://www.fof.dk/media/ju3afm4b/yin-yoga-soenderjylland-fof-aftenskolen.jpg?width=1200</g:image_link>
+      <g:id>SDJ-2271472</g:id>
+      <g:title><![CDATA[Stoleyoga]]></g:title>
+      <g:description><![CDATA[Stoleyoga i Aabenraa er for dig, som har udfordringer med at lave yogaøvelser på en yogamåtte. Du vil blive guidet igennem et program med både dynamiske øvelser, stræk for hele kroppen og en meditation.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-soenderjylland/stoleyoga-1?holdnr=2271472</g:link>
+      <g:image_link>https://www.fof.dk/media/djtbvzue/stole-yoga-soenderjylland-fof-aftenskolen.jpg?width=1200</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:quantity>1</g:quantity>
-      <g:price>1115.00 DKK</g:price>
+      <g:price>625.00 DKK</g:price>
       <g:condition>new</g:condition>
       <g:brand>FOF Sønderjylland</g:brand>
       <g:google_product_category>Education</g:google_product_category>
@@ -1532,14 +1512,14 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:internal_label>['Bjerggade','Aabenraa']</g:internal_label>
     </item>
 <item>
-      <g:id>SDJ-2271472</g:id>
-      <g:title><![CDATA[Stoleyoga]]></g:title>
-      <g:description><![CDATA[Stoleyoga i Aabenraa er for dig, som har udfordringer med at lave yogaøvelser på en yogamåtte. Du vil blive guidet igennem et program med både dynamiske øvelser, stræk for hele kroppen og en meditation.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-soenderjylland/stoleyoga-1?holdnr=2271472</g:link>
-      <g:image_link>https://www.fof.dk/media/djtbvzue/stole-yoga-soenderjylland-fof-aftenskolen.jpg?width=1200</g:image_link>
+      <g:id>SDJ-2271315</g:id>
+      <g:title><![CDATA[Meditativ Yin Yoga]]></g:title>
+      <g:description><![CDATA[I en verden, der ofte bevæger sig hurtigt, inviterer meditativ Yin Yoga dig til at sætte tempoet ned og lande i kroppen.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-soenderjylland/meditativ-yin-yoga?holdnr=2271315</g:link>
+      <g:image_link>https://www.fof.dk/media/ju3afm4b/yin-yoga-soenderjylland-fof-aftenskolen.jpg?width=1200</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:quantity>1</g:quantity>
-      <g:price>625.00 DKK</g:price>
+      <g:price>1115.00 DKK</g:price>
       <g:condition>new</g:condition>
       <g:brand>FOF Sønderjylland</g:brand>
       <g:google_product_category>Education</g:google_product_category>
@@ -1663,6 +1643,28 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:internal_label>['Bjerggade','Aabenraa']</g:internal_label>
     </item>
 <item>
+      <g:id>SDJ-2271418</g:id>
+      <g:title><![CDATA[Pilates for alle]]></g:title>
+      <g:description><![CDATA[Træn klassisk matwork pilates. Få stærkere ryg, bedre balance og mere frihed i kroppen gennem kontrollerede øvelser. Alle niveauer er velkomne. Se alle hold her. ]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-soenderjylland/pilates?holdnr=2271418</g:link>
+      <g:image_link>https://www.fof.dk/media/anejkuc3/pilates-soenderjylland-fof-aftenskolen.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>795.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sønderjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Pilates</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Pilates</g:custom_label_2>
+      <g:custom_label_4>Aabenraa</g:custom_label_4>
+      <g:start_date>2027-01-22T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Bjerggade</g:custom_label_3>
+      <g:internal_label>['Bjerggade','Aabenraa','Motion']</g:internal_label>
+    </item>
+<item>
       <g:id>SDJ-2271427</g:id>
       <g:title><![CDATA[Stole Pilates]]></g:title>
       <g:description><![CDATA[ Dyrk stolepilates hos FOF Sønderjylland. Skånsom træning for hele kroppen, hvor øvelserne tilpasses dig. Bliv stærkere, smidigere og få bedre balance – uden at skulle ned på gulvet.]]></g:description>
@@ -1705,28 +1707,6 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:start_date>2027-01-22T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Bjerggade</g:custom_label_3>
       <g:internal_label>['Bjerggade','Aabenraa']</g:internal_label>
-    </item>
-<item>
-      <g:id>SDJ-2271418</g:id>
-      <g:title><![CDATA[Pilates for alle]]></g:title>
-      <g:description><![CDATA[Træn klassisk matwork pilates. Få stærkere ryg, bedre balance og mere frihed i kroppen gennem kontrollerede øvelser. Alle niveauer er velkomne. Se alle hold her. ]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-soenderjylland/pilates?holdnr=2271418</g:link>
-      <g:image_link>https://www.fof.dk/media/anejkuc3/pilates-soenderjylland-fof-aftenskolen.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>795.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Sønderjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Pilates</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Pilates</g:custom_label_2>
-      <g:custom_label_4>Aabenraa</g:custom_label_4>
-      <g:start_date>2027-01-22T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Bjerggade</g:custom_label_3>
-      <g:internal_label>['Bjerggade','Aabenraa','Motion']</g:internal_label>
     </item>
 <item>
       <g:id>SDJ-2271419</g:id>
