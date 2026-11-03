@@ -599,11 +599,11 @@
       <g:internal_label>['Holstebro']</g:internal_label>
     </item>
 <item>
-      <g:id>NVJ-262446</g:id>
-      <g:title><![CDATA[Babysvømning 6-12 måneder]]></g:title>
+      <g:id>NVJ-262448</g:id>
+      <g:title><![CDATA[Babysvømning 0-6 måneder]]></g:title>
       <g:description><![CDATA[Babysvømning, leg og bevægelse i vand for dig og din baby hos FOF Nordvestjylland, Holstebro]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-nordvestjylland/babysvoemning-6-12-maaneder?holdnr=262446</g:link>
-      <g:image_link>https://www.fof.dk/media/yrlfr21a/babysvoemning1200x1200.jpg?width=1200</g:image_link>
+      <g:link>https://www.fof.dk/aftenskolen/fof-nordvestjylland/babysvoemning-0-6-maaneder?holdnr=262448</g:link>
+      <g:image_link>https://www.fof.dk/media/vl5lraun/babysvoemning1200x1200-1.jpg?width=1200</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:quantity>1</g:quantity>
       <g:price>275.00 DKK</g:price>
@@ -620,11 +620,11 @@
       <g:internal_label>['Holstebro']</g:internal_label>
     </item>
 <item>
-      <g:id>NVJ-262448</g:id>
-      <g:title><![CDATA[Babysvømning 0-6 måneder]]></g:title>
+      <g:id>NVJ-262446</g:id>
+      <g:title><![CDATA[Babysvømning 6-12 måneder]]></g:title>
       <g:description><![CDATA[Babysvømning, leg og bevægelse i vand for dig og din baby hos FOF Nordvestjylland, Holstebro]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-nordvestjylland/babysvoemning-0-6-maaneder?holdnr=262448</g:link>
-      <g:image_link>https://www.fof.dk/media/vl5lraun/babysvoemning1200x1200-1.jpg?width=1200</g:image_link>
+      <g:link>https://www.fof.dk/aftenskolen/fof-nordvestjylland/babysvoemning-6-12-maaneder?holdnr=262446</g:link>
+      <g:image_link>https://www.fof.dk/media/yrlfr21a/babysvoemning1200x1200.jpg?width=1200</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:quantity>1</g:quantity>
       <g:price>275.00 DKK</g:price>
@@ -683,26 +683,26 @@
       <g:internal_label>['Holstebro']</g:internal_label>
     </item>
 <item>
-      <g:id>NVJ-262212</g:id>
-      <g:title><![CDATA[Tysk til Oktoberfest - Studieby Holstebro]]></g:title>
-      <g:description><![CDATA[Tysk til oktoberfest, lær brugbare vendinger og få indblik i oktoberfests historie og betydning på dette kursus for nye studerende i Holstebro, FOF Nordvestjylland, Holstebro]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-nordvestjylland/tysk-til-oktoberfest-studieby-holstebro?holdnr=262212</g:link>
-      <g:image_link>https://www.fof.dk/media/bnxpjvj5/oktoberfest1200x1200.jpg?width=1200</g:image_link>
+      <g:id>NVJ-262264</g:id>
+      <g:title><![CDATA[Dansk for tysktalende, letøvede]]></g:title>
+      <g:description><![CDATA[Kan du allerede noget dansk, men vil gerne forbedre dit niveau, så kom med til dansk for tysktalende hos FOF Nordvestjylland i Holstebro]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-nordvestjylland/dansk-for-tysktalende-letoevede?holdnr=262264</g:link>
+      <g:image_link>https://www.fof.dk/media/3ftle0uf/dansk21200x1200.jpg?width=1200</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:quantity>1</g:quantity>
-      <g:price>95.00 DKK</g:price>
+      <g:price>215.00 DKK</g:price>
       <g:condition>new</g:condition>
       <g:brand>FOF Nordvestjylland</g:brand>
       <g:google_product_category>Education</g:google_product_category>
       <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Sprog &gt; Tysk</g:product_type>
+      <g:product_type>Kurser &gt; Sprog &gt; Dansk - Danish</g:product_type>
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Sprog</g:custom_label_1>
-      <g:custom_label_2>Tysk</g:custom_label_2>
+      <g:custom_label_2>Dansk - Danish</g:custom_label_2>
       <g:custom_label_4>Holstebro</g:custom_label_4>
-      <g:start_date>2026-12-02T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Holstebro</g:custom_label_3>
-      <g:internal_label>['Holstebro']</g:internal_label>
+      <g:start_date>2026-11-30T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Sprog</g:custom_label_3>
+      <g:internal_label>['Sprog','Holstebro']</g:internal_label>
     </item>
 <item>
       <g:id>NVJ-262126</g:id>
@@ -723,6 +723,28 @@
       <g:custom_label_2>Yoga</g:custom_label_2>
       <g:custom_label_4>Holstebro</g:custom_label_4>
       <g:start_date>2026-12-02T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Holstebro']</g:internal_label>
+    </item>
+<item>
+      <g:id>NVJ-262212</g:id>
+      <g:title><![CDATA[Tysk til Oktoberfest - Studieby Holstebro]]></g:title>
+      <g:description><![CDATA[Tysk til oktoberfest, lær brugbare vendinger og få indblik i oktoberfests historie og betydning på dette kursus for nye studerende i Holstebro, FOF Nordvestjylland, Holstebro]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-nordvestjylland/tysk-til-oktoberfest-studieby-holstebro?holdnr=262212</g:link>
+      <g:image_link>https://www.fof.dk/media/bnxpjvj5/oktoberfest1200x1200.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>95.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Nordvestjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Sprog &gt; Tysk</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Sprog</g:custom_label_1>
+      <g:custom_label_2>Tysk</g:custom_label_2>
+      <g:custom_label_4>Holstebro</g:custom_label_4>
+      <g:start_date>2026-12-02T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Holstebro</g:custom_label_3>
       <g:internal_label>['Holstebro']</g:internal_label>
     </item>
 <item>
@@ -1020,27 +1042,6 @@
       <g:internal_label>['Holstebro']</g:internal_label>
     </item>
 <item>
-      <g:id>NVJ-271122</g:id>
-      <g:title><![CDATA[AftenRo - Restorativ yoga, lyd & guidet ro]]></g:title>
-      <g:description><![CDATA[Kom med til restorativ yoga, hvor du oplever, ro gennem afstressende yoga øvelser, lyd og guidet ro, FOF Nordvestjylland, Holstebro]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-nordvestjylland/aftenro-restorativ-yoga-lyd-guidet-ro?holdnr=271122</g:link>
-      <g:image_link>https://www.fof.dk/media/uplj3cix/rikkelydhealing1200x1200.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>430.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Nordvestjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Yoga</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Yoga</g:custom_label_2>
-      <g:custom_label_4>Holstebro</g:custom_label_4>
-      <g:start_date>2027-01-06T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Holstebro']</g:internal_label>
-    </item>
-<item>
       <g:id>NVJ-271331</g:id>
       <g:title><![CDATA[EfterfødselsYoga - NYHED]]></g:title>
       <g:description><![CDATA[Tag din baby med til efterfødselsyoga ved jordemoder og gør noget godt for din krop, styrk relationen til din baby og nyd fællesskabet med andre nybagte mødre hos FOF Nordvestjylland i Holstebro]]></g:description>
@@ -1057,6 +1058,27 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
       <g:custom_label_2>Efterfødselstræning</g:custom_label_2>
+      <g:custom_label_4>Holstebro</g:custom_label_4>
+      <g:start_date>2027-01-06T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Holstebro']</g:internal_label>
+    </item>
+<item>
+      <g:id>NVJ-271122</g:id>
+      <g:title><![CDATA[AftenRo - Restorativ yoga, lyd & guidet ro]]></g:title>
+      <g:description><![CDATA[Kom med til restorativ yoga, hvor du oplever, ro gennem afstressende yoga øvelser, lyd og guidet ro, FOF Nordvestjylland, Holstebro]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-nordvestjylland/aftenro-restorativ-yoga-lyd-guidet-ro?holdnr=271122</g:link>
+      <g:image_link>https://www.fof.dk/media/uplj3cix/rikkelydhealing1200x1200.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>430.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Nordvestjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Yoga</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Yoga</g:custom_label_2>
       <g:custom_label_4>Holstebro</g:custom_label_4>
       <g:start_date>2027-01-06T00:00:00.000Z</g:start_date>
       <g:internal_label>['Holstebro']</g:internal_label>
@@ -1459,6 +1481,27 @@
       <g:custom_label_4>Holstebro</g:custom_label_4>
       <g:start_date>2027-02-25T00:00:00.000Z</g:start_date>
       <g:internal_label>['Holstebro']</g:internal_label>
+    </item>
+<item>
+      <g:id>NVJ-271021</g:id>
+      <g:title><![CDATA[Revysalon - Struer]]></g:title>
+      <g:description><![CDATA[Kom med til revysalon i Folkets Hus og nyd med på kendte revysange, en aften med højt humor og fest og farver hos FOF i Struer]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-nordvestjylland/revysalon-struer?holdnr=271021</g:link>
+      <g:image_link>https://www.fof.dk/media/0atpghvh/revysalon-struer.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>175.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Nordvestjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Foredrag, debat og højskoler &gt; Musik og koncerter</g:product_type>
+      <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
+      <g:custom_label_1>Musik og koncerter</g:custom_label_1>
+      <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Struer</g:custom_label_4>
+      <g:start_date>2027-03-16T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Struer']</g:internal_label>
     </item>
 <item>
       <g:id>NVJ-271333</g:id>

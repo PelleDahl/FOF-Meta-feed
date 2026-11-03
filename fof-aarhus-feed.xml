@@ -6,28 +6,6 @@
 <description>Meta produktfeed med alle ledige hold fra FOF Aarhus</description>
 <language>da-DK</language>
 <item>
-      <g:id>AAR-425151</g:id>
-      <g:title><![CDATA[Mistet spædbarn (efterfødselstræning)]]></g:title>
-      <g:description><![CDATA[Kurset sigter mod at støtte dig i at være i sorgen og få den nye hverdag til at fungere både fysisk og psykisk | FOF Aftenskolen Aarhus]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/mistet-spaedbarn-efterfoedselstraening?holdnr=425151</g:link>
-      <g:image_link>https://www.fof.dk/media/1e0bli0p/aebleblomst-2_1200x1200-aarhus.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1865.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Aarhus</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Efterfødselstræning</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
-      <g:custom_label_2>Efterfødselstræning</g:custom_label_2>
-      <g:custom_label_4>Aarhus</g:custom_label_4>
-      <g:start_date>2026-11-04T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Starter om &lt; 14 dage</g:custom_label_3>
-      <g:internal_label>['Starter om &lt; 14 dage','Aarhus C']</g:internal_label>
-    </item>
-<item>
       <g:id>AAR-425012</g:id>
       <g:title><![CDATA[Ve-træning]]></g:title>
       <g:description><![CDATA[Tag til ve-træning ved FOF Aftenskolen Aarhus og forbered dig på fødslen ved at lære at tackle dine veer. ]]></g:description>
@@ -48,6 +26,28 @@
       <g:start_date>2026-11-04T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Starter om &lt; 14 dage</g:custom_label_3>
       <g:internal_label>['Starter om &lt; 14 dage','Korte kurser','Åbyhøj']</g:internal_label>
+    </item>
+<item>
+      <g:id>AAR-425151</g:id>
+      <g:title><![CDATA[Mistet spædbarn (efterfødselstræning)]]></g:title>
+      <g:description><![CDATA[Kurset sigter mod at støtte dig i at være i sorgen og få den nye hverdag til at fungere både fysisk og psykisk | FOF Aftenskolen Aarhus]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/mistet-spaedbarn-efterfoedselstraening?holdnr=425151</g:link>
+      <g:image_link>https://www.fof.dk/media/1e0bli0p/aebleblomst-2_1200x1200-aarhus.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1865.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Efterfødselstræning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
+      <g:custom_label_2>Efterfødselstræning</g:custom_label_2>
+      <g:custom_label_4>Aarhus</g:custom_label_4>
+      <g:start_date>2026-11-04T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Starter om &lt; 14 dage</g:custom_label_3>
+      <g:internal_label>['Starter om &lt; 14 dage','Aarhus C']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-426901</g:id>
@@ -995,28 +995,6 @@
       <g:start_date>2026-11-17T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Korte kurser</g:custom_label_3>
       <g:internal_label>['Korte kurser','Starter om &lt; 14 dage','Aarhus C']</g:internal_label>
-    </item>
-<item>
-      <g:id>AAR-425014</g:id>
-      <g:title><![CDATA[Ve-træning]]></g:title>
-      <g:description><![CDATA[Tag til ve-træning ved FOF Aftenskolen Aarhus og forbered dig på fødslen ved at lære at tackle dine veer. ]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/ve-traening?holdnr=425014</g:link>
-      <g:image_link>https://www.fof.dk/media/tinlo44g/vetraening_5_1200x1200-aarhus.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>195.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Aarhus</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Fødselsforberedelse</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
-      <g:custom_label_2>Fødselsforberedelse</g:custom_label_2>
-      <g:custom_label_4>Åbyhøj</g:custom_label_4>
-      <g:start_date>2026-11-18T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Korte kurser</g:custom_label_3>
-      <g:internal_label>['Korte kurser','Starter om &lt; 14 dage','Åbyhøj']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-426928</g:id>
@@ -2841,26 +2819,6 @@
       <g:internal_label>['Aarhus C']</g:internal_label>
     </item>
 <item>
-      <g:id>AAR-434545</g:id>
-      <g:title><![CDATA[Musical sanghold - letøvede/øvede]]></g:title>
-      <g:description><![CDATA[Elsker du musicals? Syng musicalhits på et lille sanghold i Aarhus. Arbejd med sangteknik, fortolkning og performance i et hyggeligt fællesskab. Tilmeld dig i dag.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/musical-sanghold-letoevedeoevede?holdnr=434545</g:link>
-      <g:image_link>https://www.fof.dk/media/0jqlruvt/syng-dig-glad-fof-aftenskolen-aarhus-4.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>685.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Aarhus</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Musik og sang &gt; Sang og stemmetræning</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Musik og sang</g:custom_label_1>
-      <g:custom_label_2>Sang og stemmetræning</g:custom_label_2>
-      <g:custom_label_4></g:custom_label_4>
-      <g:start_date>2027-02-02T00:00:00.000Z</g:start_date>
-    </item>
-<item>
       <g:id>AAR-436890</g:id>
       <g:title><![CDATA[Niels Ulrik Drescher: Hvordan hygger man sig alene i 40 dage?]]></g:title>
       <g:description><![CDATA[Kom tæt på Niels Ulrik Dreschers oplevelser fra Alene i Vildmarken og hør, hvad mødet med naturens udfordringer kan lære os om at klare os selv.]]></g:description>
@@ -2902,6 +2860,26 @@
       <g:start_date>2027-02-04T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Starter om &lt; 14 dage</g:custom_label_3>
       <g:internal_label>['Starter om &lt; 14 dage','Aarhus C']</g:internal_label>
+    </item>
+<item>
+      <g:id>AAR-434577</g:id>
+      <g:title><![CDATA[Aarhus Musicalkor]]></g:title>
+      <g:description><![CDATA[Syng musicalhits og Disneysange i et musicalkor i Aarhus. Arbejd med klang, sangteknik og flerstemmig korsang sammen med andre musicalglade sangere. Kom med!]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/aarhus-musicalkor?holdnr=434577</g:link>
+      <g:image_link>https://www.fof.dk/media/iuqbxz0r/glade-amatoerers-kor-fof-aarhus-17.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>575.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Musik og sang &gt; Kor og fællessang</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Musik og sang</g:custom_label_1>
+      <g:custom_label_2>Kor og fællessang</g:custom_label_2>
+      <g:custom_label_4></g:custom_label_4>
+      <g:start_date>2027-02-04T00:00:00.000Z</g:start_date>
     </item>
 <item>
       <g:id>AAR-436821</g:id>
@@ -2964,6 +2942,27 @@
       <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4>Aarhus</g:custom_label_4>
       <g:start_date>2027-02-09T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Aarhus C']</g:internal_label>
+    </item>
+<item>
+      <g:id>AAR-433612</g:id>
+      <g:title><![CDATA[Smag på Asien – lær at lave dine nye livretter]]></g:title>
+      <g:description><![CDATA[Træd ind i en skatkiste af smagsoplevelser fra det fjerne østen. Vi udforsker komplekse aspekter af thailandsk madlavning og lærer traditionelle opskrifter fra forskellige regioner | Kursus i FOF Aarhus]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/thaimad-fortsaettere?holdnr=433612</g:link>
+      <g:image_link>https://www.fof.dk/media/edxd2gd1/thai-ret-med-kylling_1200x1200_aarhus.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>925.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Madlavning og drikkevarer &gt; Asiatisk mad</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
+      <g:custom_label_2>Asiatisk mad</g:custom_label_2>
+      <g:custom_label_4>Aarhus</g:custom_label_4>
+      <g:start_date>2027-02-10T00:00:00.000Z</g:start_date>
       <g:internal_label>['Aarhus C']</g:internal_label>
     </item>
 <item>
