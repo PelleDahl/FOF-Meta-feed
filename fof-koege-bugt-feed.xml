@@ -94,28 +94,6 @@
       <g:internal_label>['Starter snart','Endagskurser','København V']</g:internal_label>
     </item>
 <item>
-      <g:id>KOE-51439</g:id>
-      <g:title><![CDATA[Slægtsforskning for viderekomne - Dyk dybere i dine rødder]]></g:title>
-      <g:description><![CDATA[Kom med på vores populære slægtsforskning kursus. Lær at undersøge din families historie, og bliv klogere på hvad du kommer fra. Du kan gå til slægtsforskning i Greve og Køge.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koege-bugt/slaegtsforskning?holdnr=51439</g:link>
-      <g:image_link>https://www.fof.dk/media/qxyppyif/slaegtsforskning.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>480.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Køge Bugt</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Kulturfag og samfund &gt; Slægtsforskning</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Kulturfag og samfund</g:custom_label_1>
-      <g:custom_label_2>Slægtsforskning</g:custom_label_2>
-      <g:custom_label_4>Greve</g:custom_label_4>
-      <g:start_date>2026-11-12T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Greve</g:custom_label_3>
-      <g:internal_label>['Greve','Starter snart']</g:internal_label>
-    </item>
-<item>
       <g:id>KOE-51979</g:id>
       <g:title><![CDATA[Slow Looking i The Story of Public Art, DABOLI ]]></g:title>
       <g:description><![CDATA[Oplev Slow Looking på MAPS med værker af Ibrahim Mahama. Sænk tempoet, gå tæt på kunstværket og oplev, hvad der viser sig, når du giver dig tid.]]></g:description>
@@ -355,7 +333,29 @@
       <g:custom_label_4>Stenløse</g:custom_label_4>
       <g:start_date>2026-11-19T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Egedal</g:custom_label_3>
-      <g:internal_label>['Egedal','Endagskurser','Stenløse']</g:internal_label>
+      <g:internal_label>['Egedal','Endagskurser','Starter snart','Stenløse']</g:internal_label>
+    </item>
+<item>
+      <g:id>KOE-51424</g:id>
+      <g:title><![CDATA[Makeup workshop - Lær at lægge naturlig makeup]]></g:title>
+      <g:description><![CDATA[Forkæl dig selv for en aften. Lær at lægge makeup og hav det lækkert imens! Hyggelig og inspirerende makeup kursus på små hold. Makeup kursus i Roskilde, Hvalsø, Stenløse og Solrød. ]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koege-bugt/makeup-workshop?holdnr=51424</g:link>
+      <g:image_link>https://www.fof.dk/media/wz1dwo3o/makeup-workshop-koegebugt-fof-aftenskolen.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>301.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Køge Bugt</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Livsstil og trivsel &gt; Kropspleje</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Livsstil og trivsel</g:custom_label_1>
+      <g:custom_label_2>Kropspleje</g:custom_label_2>
+      <g:custom_label_4>Køge</g:custom_label_4>
+      <g:start_date>2026-11-21T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Weekend</g:custom_label_3>
+      <g:internal_label>['Weekend','Køge']</g:internal_label>
     </item>
 <item>
       <g:id>KOE-51248</g:id>
@@ -926,8 +926,8 @@
       <g:custom_label_2>Malekurser</g:custom_label_2>
       <g:custom_label_4>Køge</g:custom_label_4>
       <g:start_date>2027-01-21T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Weekend</g:custom_label_3>
-      <g:internal_label>['Weekend','Køge']</g:internal_label>
+      <g:custom_label_3>Køge</g:custom_label_3>
+      <g:internal_label>['Køge','Weekend']</g:internal_label>
     </item>
 <item>
       <g:id>KOE-52801</g:id>
@@ -1458,6 +1458,27 @@
       <g:internal_label>['Egedal','Forår','Smørum']</g:internal_label>
     </item>
 <item>
+      <g:id>KOE-53879</g:id>
+      <g:title><![CDATA[Mød Danmarks første certificerede brødsommelier]]></g:title>
+      <g:description><![CDATA[Oplev et sanseligt foredrag med brødsommelier Marcus Sennefelder. Smag på forskellige brød, udforsk aromaer og bliv klogere på brødets verden.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koege-bugt/bliv-klog-paa-broed-danmarks-foerste-certificerede-broedsommelier?holdnr=53879</g:link>
+      <g:image_link>https://www.fof.dk/media/x3mhr2jr/foredrag-broedsommelier-koege-fof-aftenskolen.png?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>95.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Køge Bugt</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Foredrag, debat og højskoler &gt; Sundhed og eksistens</g:product_type>
+      <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
+      <g:custom_label_1>Sundhed og eksistens</g:custom_label_1>
+      <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Køge</g:custom_label_4>
+      <g:start_date>2027-03-03T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Køge']</g:internal_label>
+    </item>
+<item>
       <g:id>KOE-52876</g:id>
       <g:title><![CDATA[Mindful akvarel - Find indre ro]]></g:title>
       <g:description><![CDATA[Giv dig selv en kreativ hobby som gave og mal akvarel: En smuk, vandbaseret farve, du kan tage med dig alle steder.  FOF Køge Bugt har akvarelhold i Køge, Greve, Roskilde og Smørum, så du kan dykke ned i akvarelteknikker og få mange gode akvareltimer. ]]></g:description>
@@ -1894,8 +1915,8 @@
       <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4></g:custom_label_4>
       <g:start_date>2027-04-15T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Weekend</g:custom_label_3>
-      <g:internal_label>['Weekend']</g:internal_label>
+      <g:custom_label_3>Forår</g:custom_label_3>
+      <g:internal_label>['Forår','Endagskurser','Weekend']</g:internal_label>
     </item>
 <item>
       <g:id>KOE-52879</g:id>
@@ -2048,6 +2069,8 @@
       <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4></g:custom_label_4>
       <g:start_date>2027-04-27T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Forår</g:custom_label_3>
+      <g:internal_label>['Forår','Endagskurser']</g:internal_label>
     </item>
 <item>
       <g:id>KOE-53401</g:id>

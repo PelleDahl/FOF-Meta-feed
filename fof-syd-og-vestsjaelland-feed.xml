@@ -68,8 +68,8 @@
       <g:custom_label_2>Vegetarisk og vegansk</g:custom_label_2>
       <g:custom_label_4>Ringsted</g:custom_label_4>
       <g:start_date>2026-11-06T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Sund mad</g:custom_label_3>
-      <g:internal_label>['Sund mad','Tema - Bæredygtighed','Ringsted']</g:internal_label>
+      <g:custom_label_3>Starter snart</g:custom_label_3>
+      <g:internal_label>['Starter snart','Ringsted','Kalender - November','Sund mad','Tema - Bæredygtighed']</g:internal_label>
     </item>
 <item>
       <g:id>SVS-861326</g:id>
@@ -597,7 +597,7 @@
       <g:custom_label_4>Slagelse</g:custom_label_4>
       <g:start_date>2026-11-27T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Kalender - November</g:custom_label_3>
-      <g:internal_label>['Kalender - November','Slagelse']</g:internal_label>
+      <g:internal_label>['Kalender - November','Slagelse','Starter snart']</g:internal_label>
     </item>
 <item>
       <g:id>SVS-700426</g:id>

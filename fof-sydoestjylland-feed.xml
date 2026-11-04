@@ -94,6 +94,27 @@
       <g:internal_label>['Starter snart','Kulturpas','Vejle']</g:internal_label>
     </item>
 <item>
+      <g:id>SOJ-269201</g:id>
+      <g:title><![CDATA[Pileflet]]></g:title>
+      <g:description><![CDATA[Lær pileflet i Horsens og Vejle. Kreativt kursus med naturmaterialer for begyndere og øvede. Tilmeld dig pileflet workshop i dag.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydoestjylland/pileflet-efteraar?holdnr=269201</g:link>
+      <g:image_link>https://www.fof.dk/media/thjp4i5k/pileflet.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>465.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydøstjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Kreative kurser &gt; Håndværk og kunsthåndværk</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Kreative kurser</g:custom_label_1>
+      <g:custom_label_2>Håndværk og kunsthåndværk</g:custom_label_2>
+      <g:custom_label_4>Vejle</g:custom_label_4>
+      <g:start_date>2026-11-08T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Vejle']</g:internal_label>
+    </item>
+<item>
       <g:id>SOJ-269071</g:id>
       <g:title><![CDATA[Blid Yoga for alle - Prøvetime]]></g:title>
       <g:description><![CDATA[Gå til blid yoga i Vejle, Skanderborg og Hedensted. Skånsom og rolig yoga med fokus på afspænding, balance, smidighed og mental ro. Yoga for begyndere, letøvede og hensyn.]]></g:description>
@@ -442,7 +463,8 @@
       <g:custom_label_2>Syning</g:custom_label_2>
       <g:custom_label_4>Vejle</g:custom_label_4>
       <g:start_date>2026-11-19T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Vejle']</g:internal_label>
+      <g:custom_label_3>Starter snart</g:custom_label_3>
+      <g:internal_label>['Starter snart','Vejle']</g:internal_label>
     </item>
 <item>
       <g:id>SOJ-269248</g:id>
@@ -463,7 +485,8 @@
       <g:custom_label_2>Syning</g:custom_label_2>
       <g:custom_label_4>Vejle</g:custom_label_4>
       <g:start_date>2026-11-19T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Vejle']</g:internal_label>
+      <g:custom_label_3>Starter snart</g:custom_label_3>
+      <g:internal_label>['Starter snart','Vejle']</g:internal_label>
     </item>
 <item>
       <g:id>SOJ-269081</g:id>
@@ -768,6 +791,28 @@
       <g:start_date>2026-12-06T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Workshops</g:custom_label_3>
       <g:internal_label>['Workshops','Nyhed','Vejle']</g:internal_label>
+    </item>
+<item>
+      <g:id>SOJ-269074</g:id>
+      <g:title><![CDATA[Yoga - Twist og drejninger]]></g:title>
+      <g:description><![CDATA[Kom til workshop i Vejle med fokus på ryg- og skuldertræning, mobilitet og bevægelighed. Løsne op for spændinger med gode twist- og drejeøvelser.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydoestjylland/twist-og-drejninger?holdnr=269074</g:link>
+      <g:image_link>https://www.fof.dk/media/psehwhuc/twist-og-drejninger.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>165.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydøstjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Styrke- og konditionstræning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Styrke- og konditionstræning</g:custom_label_2>
+      <g:custom_label_4>Vejle</g:custom_label_4>
+      <g:start_date>2026-12-07T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Jul og nytår</g:custom_label_3>
+      <g:internal_label>['Jul og nytår','Vejle']</g:internal_label>
     </item>
 <item>
       <g:id>SOJ-265716</g:id>
@@ -1326,8 +1371,28 @@
       <g:custom_label_2>Strengeinstrumenter</g:custom_label_2>
       <g:custom_label_4>Vejle</g:custom_label_4>
       <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Nyhed</g:custom_label_3>
-      <g:internal_label>['Nyhed','Vejle']</g:internal_label>
+      <g:internal_label>['Vejle']</g:internal_label>
+    </item>
+<item>
+      <g:id>SOJ-274661</g:id>
+      <g:title><![CDATA[Bas]]></g:title>
+      <g:description><![CDATA[Lær at spille bas i Vejle på et baskursus for begyndere og øvede. Få basundervisning tilpasset dit niveau med fokus på teknik, rytme, groove og sammenspil.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydoestjylland/bas?holdnr=274661</g:link>
+      <g:image_link>https://www.fof.dk/media/x5glexw0/bas-efteraar.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>2130.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydøstjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Musik og sang &gt; Strengeinstrumenter</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Musik og sang</g:custom_label_1>
+      <g:custom_label_2>Strengeinstrumenter</g:custom_label_2>
+      <g:custom_label_4>Vejle</g:custom_label_4>
+      <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Vejle']</g:internal_label>
     </item>
 <item>
       <g:id>SOJ-270232</g:id>
@@ -1433,8 +1498,7 @@
       <g:custom_label_2>Strengeinstrumenter</g:custom_label_2>
       <g:custom_label_4>Vejle</g:custom_label_4>
       <g:start_date>2027-01-27T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Nyhed</g:custom_label_3>
-      <g:internal_label>['Nyhed','Vejle']</g:internal_label>
+      <g:internal_label>['Vejle']</g:internal_label>
     </item>
 <item>
       <g:id>SOJ-270266</g:id>
@@ -1868,6 +1932,27 @@
       <g:internal_label>['Gaveidéer','Workshops','Vejle']</g:internal_label>
     </item>
 <item>
+      <g:id>SOJ-274235</g:id>
+      <g:title><![CDATA[Re-design af herreskjorter ]]></g:title>
+      <g:description><![CDATA[Sykursus i Vejle med fokus på upcycling og genbrug. Lær at redesigne herreskjorter på kreativ workshop. For begyndere og øvede.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydoestjylland/upcycling-og-re-design-af-herreskjorter-workshop?holdnr=274235</g:link>
+      <g:image_link>https://www.fof.dk/media/yxcjeswh/re-design-herreskjorter.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>635.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydøstjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Kreative kurser &gt; Syning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Kreative kurser</g:custom_label_1>
+      <g:custom_label_2>Syning</g:custom_label_2>
+      <g:custom_label_4>Vejle</g:custom_label_4>
+      <g:start_date>2027-02-26T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Vejle']</g:internal_label>
+    </item>
+<item>
       <g:id>SOJ-270203</g:id>
       <g:title><![CDATA[Pileflet]]></g:title>
       <g:description><![CDATA[Lær pileflet og skab kurve, kranse og plantestativer. Udfold din kreativitet med naturens materiale på et hyggeligt kursus hos FOF.]]></g:description>
@@ -2126,6 +2211,28 @@
       <g:start_date>2027-03-13T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Workshops</g:custom_label_3>
       <g:internal_label>['Workshops','Horsens']</g:internal_label>
+    </item>
+<item>
+      <g:id>SOJ-274234</g:id>
+      <g:title><![CDATA[Pojagi inspireret workshop]]></g:title>
+      <g:description><![CDATA[1-dags sykursus i Vejle. Lær at sy på symaskine med pojagi teknik. Perfekt for begyndere og let øvede. Små hold og personlig vejledning.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydoestjylland/pojagi-teknik-workshop?holdnr=274234</g:link>
+      <g:image_link>https://www.fof.dk/media/bhplm0os/pojagi-inspireret-workshop-1.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>635.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydøstjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Kreative kurser &gt; Syning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Kreative kurser</g:custom_label_1>
+      <g:custom_label_2>Syning</g:custom_label_2>
+      <g:custom_label_4>Vejle</g:custom_label_4>
+      <g:start_date>2027-03-14T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Workshops</g:custom_label_3>
+      <g:internal_label>['Workshops','Vejle']</g:internal_label>
     </item>
 <item>
       <g:id>SOJ-270233</g:id>
@@ -2405,6 +2512,28 @@
       <g:internal_label>['Horsens']</g:internal_label>
     </item>
 <item>
+      <g:id>SOJ-274236</g:id>
+      <g:title><![CDATA[Sy børnetøj af genbrugsmaterialer]]></g:title>
+      <g:description><![CDATA[Sykursus i Vejle: lær at sy børnetøj af genbrugstekstiler. Kreativ workshop med fokus på upcycling. For begyndere og øvede.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydoestjylland/sy-boernetoej-af-genbrugsmaterialer?holdnr=274236</g:link>
+      <g:image_link>https://www.fof.dk/media/4dhdu3ba/sy-boernetoej-af-genbrug-1.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>635.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydøstjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Kreative kurser &gt; Syning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Kreative kurser</g:custom_label_1>
+      <g:custom_label_2>Syning</g:custom_label_2>
+      <g:custom_label_4>Vejle</g:custom_label_4>
+      <g:start_date>2027-04-23T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Nyhed</g:custom_label_3>
+      <g:internal_label>['Nyhed','Workshops','Gaveidéer','Vejle']</g:internal_label>
+    </item>
+<item>
       <g:id>SOJ-272451</g:id>
       <g:title><![CDATA[Natur og mental sundhed ved bålet]]></g:title>
       <g:description><![CDATA[Oplev naturens ro med bål, sansning og refleksion. Få ny energi og styrk din mentale trivsel i trygge rammer. Inkl. aftensmad – tilmeld dig i dag hos FOF Hedensted]]></g:description>
@@ -2425,6 +2554,48 @@
       <g:start_date>2027-04-26T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Workshops</g:custom_label_3>
       <g:internal_label>['Workshops','Juelsminde']</g:internal_label>
+    </item>
+<item>
+      <g:id>SOJ-274246</g:id>
+      <g:title><![CDATA[Syning - ulige uger]]></g:title>
+      <g:description><![CDATA[Sykursus i Vejle med fokus på kreativ syning, genbrug og upcycling. Lær at sy dit eget tøj med personlig vejledning. For begyndere og øvede.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydoestjylland/sy-og-design-begyndere-og-letoevede?holdnr=274246</g:link>
+      <g:image_link>https://www.fof.dk/media/u5cj1g51/syning.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>965.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydøstjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Kreative kurser &gt; Syning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Kreative kurser</g:custom_label_1>
+      <g:custom_label_2>Syning</g:custom_label_2>
+      <g:custom_label_4>Vejle</g:custom_label_4>
+      <g:start_date>2027-04-27T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Vejle']</g:internal_label>
+    </item>
+<item>
+      <g:id>SOJ-274248</g:id>
+      <g:title><![CDATA[Syning - ulige uger]]></g:title>
+      <g:description><![CDATA[Sykursus i Vejle med fokus på kreativ syning, genbrug og upcycling. Lær at sy dit eget tøj med personlig vejledning. For begyndere og øvede.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydoestjylland/sy-og-design-begyndere-og-letoevede?holdnr=274248</g:link>
+      <g:image_link>https://www.fof.dk/media/u5cj1g51/syning.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>965.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydøstjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Kreative kurser &gt; Syning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Kreative kurser</g:custom_label_1>
+      <g:custom_label_2>Syning</g:custom_label_2>
+      <g:custom_label_4>Vejle</g:custom_label_4>
+      <g:start_date>2027-04-29T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Vejle']</g:internal_label>
     </item>
 <item>
       <g:id>SOJ-270230</g:id>

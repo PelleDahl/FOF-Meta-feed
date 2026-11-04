@@ -178,8 +178,8 @@
       <g:custom_label_2>Håndværk og kunsthåndværk</g:custom_label_2>
       <g:custom_label_4>Esbjerg</g:custom_label_4>
       <g:start_date>2026-11-28T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Esbjerg</g:custom_label_3>
-      <g:internal_label>['Esbjerg','Kreative kurser']</g:internal_label>
+      <g:custom_label_3>Kreative kurser</g:custom_label_3>
+      <g:internal_label>['Kreative kurser','Esbjerg']</g:internal_label>
     </item>
 <item>
       <g:id>SVJ-262002</g:id>
@@ -226,6 +226,28 @@
       <g:internal_label>['Esbjerg','Madlavning og drikkevarer']</g:internal_label>
     </item>
 <item>
+      <g:id>SVJ-2710533</g:id>
+      <g:title><![CDATA[Efterfødsel med barn - Bente Løkke Klemmensen]]></g:title>
+      <g:description><![CDATA[Nænsom efterfødselstræning hos FOF. Træn med din baby og styrk bækkenbund, balance og fællesskab. Tilmeld dig her]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydvestjylland/blid-efterfoedselstraening-for-mor-og-barn?holdnr=2710533</g:link>
+      <g:image_link>https://www.fof.dk/media/ju4btgvh/graviditet-foedsel-barsel-efterfoedsels-med-barn-sydvestjylland-fof-aftenskolen.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1215.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydvestjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Efterfødselstræning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
+      <g:custom_label_2>Efterfødselstræning</g:custom_label_2>
+      <g:custom_label_4>Varde</g:custom_label_4>
+      <g:start_date>2027-01-05T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Graviditet og barsel</g:custom_label_3>
+      <g:internal_label>['Graviditet og barsel','Varde']</g:internal_label>
+    </item>
+<item>
       <g:id>SVJ-2710509</g:id>
       <g:title><![CDATA[Vinyasa Yoga - Bevægelse, styrke og ro]]></g:title>
       <g:description><![CDATA[Vinyasa yoga for alle niveauer med fokus på styrke, smidighed, balance og ro. Du guides trygt gennem flow, stræk og afspænding.  Læs mere her.]]></g:description>
@@ -268,6 +290,28 @@
       <g:start_date>2027-01-07T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Madlavning og drikkevarer</g:custom_label_3>
       <g:internal_label>['Madlavning og drikkevarer','Esbjerg']</g:internal_label>
+    </item>
+<item>
+      <g:id>SVJ-2710464</g:id>
+      <g:title><![CDATA[Fermenteringskursus]]></g:title>
+      <g:description><![CDATA[Lær fermentering og mælkesyregæring fra bunden. Få praktisk erfaring, nye smage og inspiration til dit køkken. Tilmeld dig i dag nu.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydvestjylland/fermenteringskursus?holdnr=2710464</g:link>
+      <g:image_link>https://www.fof.dk/media/ggmbvgng/kurser-madlavning-madteknikker-fermenteringskursus-fanoe-sydvestjylland-fof-aftenskolen-hero.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>275.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydvestjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Madlavning og drikkevarer &gt; Madteknikker</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
+      <g:custom_label_2>Madteknikker</g:custom_label_2>
+      <g:custom_label_4>Ribe</g:custom_label_4>
+      <g:start_date>2027-01-14T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Fanø</g:custom_label_3>
+      <g:internal_label>['Fanø','Madlavning og drikkevarer','Esbjerg','Ribe']</g:internal_label>
     </item>
 <item>
       <g:id>SVJ-2710522</g:id>
@@ -354,8 +398,8 @@
       <g:custom_label_2>Verdenskøkkenet</g:custom_label_2>
       <g:custom_label_4>Varde</g:custom_label_4>
       <g:start_date>2027-01-20T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Esbjerg</g:custom_label_3>
-      <g:internal_label>['Esbjerg','In English','Fanø','Madlavning og drikkevarer','Ribe','Varde']</g:internal_label>
+      <g:custom_label_3>In English</g:custom_label_3>
+      <g:internal_label>['In English','Fanø','Madlavning og drikkevarer','Ribe','Varde']</g:internal_label>
     </item>
 <item>
       <g:id>SVJ-2710422</g:id>
@@ -376,8 +420,8 @@
       <g:custom_label_2>Verdenskøkkenet</g:custom_label_2>
       <g:custom_label_4>Esbjerg</g:custom_label_4>
       <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Esbjerg</g:custom_label_3>
-      <g:internal_label>['Esbjerg','In English','Fanø','Madlavning og drikkevarer','Ribe']</g:internal_label>
+      <g:custom_label_3>In English</g:custom_label_3>
+      <g:internal_label>['In English','Fanø','Madlavning og drikkevarer','Ribe','Esbjerg']</g:internal_label>
     </item>
 <item>
       <g:id>SVJ-2710301</g:id>
@@ -618,8 +662,8 @@
       <g:custom_label_2>Verdenskøkkenet</g:custom_label_2>
       <g:custom_label_4>Esbjerg</g:custom_label_4>
       <g:start_date>2027-02-09T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Esbjerg</g:custom_label_3>
-      <g:internal_label>['Esbjerg','In English','Fanø','Madlavning og drikkevarer','Ribe']</g:internal_label>
+      <g:custom_label_3>In English</g:custom_label_3>
+      <g:internal_label>['In English','Fanø','Madlavning og drikkevarer','Ribe','Esbjerg']</g:internal_label>
     </item>
 <item>
       <g:id>SVJ-2710003</g:id>
@@ -776,6 +820,50 @@
       <g:internal_label>['Malekurser','Kreative kurser','Esbjerg']</g:internal_label>
     </item>
 <item>
+      <g:id>SVJ-2710200</g:id>
+      <g:title><![CDATA[Kvinde, kend din ladcykel ]]></g:title>
+      <g:description><![CDATA[Bliv tryg ved din ladcykel på Fanø. Lær at lappe dæk, justere bremser og vedligeholde cyklen i roligt tempo. Tilmeld dig hos FOF i dag. ]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydvestjylland/kvinde-kend-din-ladcykel-et-praktisk-kursus-for-alle?holdnr=2710200</g:link>
+      <g:image_link>https://www.fof.dk/media/23nlet1o/kursus-kvinde-kend-din-ladcykel-sydvestjylland-fof-aftenskolen-02.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>535.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydvestjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Kreative kurser &gt; Håndværk og kunsthåndværk</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Kreative kurser</g:custom_label_1>
+      <g:custom_label_2>Håndværk og kunsthåndværk</g:custom_label_2>
+      <g:custom_label_4></g:custom_label_4>
+      <g:start_date>2027-02-28T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Fanø</g:custom_label_3>
+      <g:internal_label>['Fanø','Kreative kurser']</g:internal_label>
+    </item>
+<item>
+      <g:id>SVJ-2710531</g:id>
+      <g:title><![CDATA[Efterfødsel med barn - Bente Løkke Klemmensen]]></g:title>
+      <g:description><![CDATA[Nænsom efterfødselstræning hos FOF. Træn med din baby og styrk bækkenbund, balance og fællesskab. Tilmeld dig her]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydvestjylland/blid-efterfoedselstraening-for-mor-og-barn?holdnr=2710531</g:link>
+      <g:image_link>https://www.fof.dk/media/ju4btgvh/graviditet-foedsel-barsel-efterfoedsels-med-barn-sydvestjylland-fof-aftenskolen.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1215.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydvestjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Efterfødselstræning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
+      <g:custom_label_2>Efterfødselstræning</g:custom_label_2>
+      <g:custom_label_4>Varde</g:custom_label_4>
+      <g:start_date>2027-03-02T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Graviditet og barsel</g:custom_label_3>
+      <g:internal_label>['Graviditet og barsel','Varde']</g:internal_label>
+    </item>
+<item>
       <g:id>SVJ-2710433</g:id>
       <g:title><![CDATA[Pasta making - In English, for adults]]></g:title>
       <g:description><![CDATA[Learn to make authentic fresh pasta from scratch and bring classic Italian techniques into your own kitchen. Register now]]></g:description>
@@ -794,8 +882,8 @@
       <g:custom_label_2>Verdenskøkkenet</g:custom_label_2>
       <g:custom_label_4>Varde</g:custom_label_4>
       <g:start_date>2027-03-03T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Esbjerg</g:custom_label_3>
-      <g:internal_label>['Esbjerg','In English','Fanø','Madlavning og drikkevarer','Ribe','Varde']</g:internal_label>
+      <g:custom_label_3>In English</g:custom_label_3>
+      <g:internal_label>['In English','Fanø','Madlavning og drikkevarer','Ribe','Varde']</g:internal_label>
     </item>
 <item>
       <g:id>SVJ-2710459</g:id>
@@ -860,8 +948,8 @@
       <g:custom_label_2>Verdenskøkkenet</g:custom_label_2>
       <g:custom_label_4>Esbjerg</g:custom_label_4>
       <g:start_date>2027-03-08T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Esbjerg</g:custom_label_3>
-      <g:internal_label>['Esbjerg','Varde','Madlavning og drikkevarer','Nyhed']</g:internal_label>
+      <g:custom_label_3>Varde</g:custom_label_3>
+      <g:internal_label>['Varde','Madlavning og drikkevarer','Nyhed','Esbjerg']</g:internal_label>
     </item>
 <item>
       <g:id>SVJ-2710438</g:id>
@@ -948,8 +1036,8 @@
       <g:custom_label_2>Verdenskøkkenet</g:custom_label_2>
       <g:custom_label_4>Varde</g:custom_label_4>
       <g:start_date>2027-03-17T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Esbjerg</g:custom_label_3>
-      <g:internal_label>['Esbjerg','Varde','Madlavning og drikkevarer','Nyhed']</g:internal_label>
+      <g:custom_label_3>Varde</g:custom_label_3>
+      <g:internal_label>['Varde','Madlavning og drikkevarer','Nyhed']</g:internal_label>
     </item>
 <item>
       <g:id>SVJ-2710001</g:id>
@@ -1168,8 +1256,8 @@
       <g:custom_label_2>Verdenskøkkenet</g:custom_label_2>
       <g:custom_label_4>Ribe</g:custom_label_4>
       <g:start_date>2027-04-08T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Esbjerg</g:custom_label_3>
-      <g:internal_label>['Esbjerg','In English','Fanø','Madlavning og drikkevarer','Ribe']</g:internal_label>
+      <g:custom_label_3>In English</g:custom_label_3>
+      <g:internal_label>['In English','Fanø','Madlavning og drikkevarer','Ribe']</g:internal_label>
     </item>
 <item>
       <g:id>SVJ-2710523</g:id>
@@ -1236,6 +1324,28 @@
       <g:start_date>2027-04-20T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Fanø</g:custom_label_3>
       <g:internal_label>['Fanø','Kreative kurser']</g:internal_label>
+    </item>
+<item>
+      <g:id>SVJ-2710534</g:id>
+      <g:title><![CDATA[Efterfødsel med barn - Bente Løkke Klemmensen]]></g:title>
+      <g:description><![CDATA[Nænsom efterfødselstræning hos FOF. Træn med din baby og styrk bækkenbund, balance og fællesskab. Tilmeld dig her]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydvestjylland/blid-efterfoedselstraening-for-mor-og-barn?holdnr=2710534</g:link>
+      <g:image_link>https://www.fof.dk/media/ju4btgvh/graviditet-foedsel-barsel-efterfoedsels-med-barn-sydvestjylland-fof-aftenskolen.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1215.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydvestjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Efterfødselstræning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
+      <g:custom_label_2>Efterfødselstræning</g:custom_label_2>
+      <g:custom_label_4>Varde</g:custom_label_4>
+      <g:start_date>2027-04-20T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Graviditet og barsel</g:custom_label_3>
+      <g:internal_label>['Graviditet og barsel','Varde']</g:internal_label>
     </item>
 <item>
       <g:id>SVJ-2710458</g:id>
@@ -1344,8 +1454,8 @@
       <g:custom_label_2>Verdenskøkkenet</g:custom_label_2>
       <g:custom_label_4>Ribe</g:custom_label_4>
       <g:start_date>2027-04-29T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Esbjerg</g:custom_label_3>
-      <g:internal_label>['Esbjerg','In English','Fanø','Madlavning og drikkevarer','Ribe']</g:internal_label>
+      <g:custom_label_3>In English</g:custom_label_3>
+      <g:internal_label>['In English','Fanø','Madlavning og drikkevarer','Ribe']</g:internal_label>
     </item>
 <item>
       <g:id>SVJ-2710448</g:id>
@@ -1522,6 +1632,50 @@
       <g:start_date>2027-06-01T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Varde</g:custom_label_3>
       <g:internal_label>['Varde','Esbjerg','Fanø','Nyhed','Madlavning og drikkevarer']</g:internal_label>
+    </item>
+<item>
+      <g:id>SVJ-2710532</g:id>
+      <g:title><![CDATA[Efterfødsel med barn - Bente Løkke Klemmensen]]></g:title>
+      <g:description><![CDATA[Nænsom efterfødselstræning hos FOF. Træn med din baby og styrk bækkenbund, balance og fællesskab. Tilmeld dig her]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydvestjylland/blid-efterfoedselstraening-for-mor-og-barn?holdnr=2710532</g:link>
+      <g:image_link>https://www.fof.dk/media/ju4btgvh/graviditet-foedsel-barsel-efterfoedsels-med-barn-sydvestjylland-fof-aftenskolen.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1215.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydvestjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Efterfødselstræning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
+      <g:custom_label_2>Efterfødselstræning</g:custom_label_2>
+      <g:custom_label_4>Varde</g:custom_label_4>
+      <g:start_date>2027-06-01T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Graviditet og barsel</g:custom_label_3>
+      <g:internal_label>['Graviditet og barsel','Varde']</g:internal_label>
+    </item>
+<item>
+      <g:id>SVJ-2720500</g:id>
+      <g:title><![CDATA[Efterfødsel med barn - Bente Løkke Klemmensen]]></g:title>
+      <g:description><![CDATA[Nænsom efterfødselstræning hos FOF. Træn med din baby og styrk bækkenbund, balance og fællesskab. Tilmeld dig her]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydvestjylland/blid-efterfoedselstraening-for-mor-og-barn?holdnr=2720500</g:link>
+      <g:image_link>https://www.fof.dk/media/ju4btgvh/graviditet-foedsel-barsel-efterfoedsels-med-barn-sydvestjylland-fof-aftenskolen.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1215.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydvestjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Efterfødselstræning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
+      <g:custom_label_2>Efterfødselstræning</g:custom_label_2>
+      <g:custom_label_4>Varde</g:custom_label_4>
+      <g:start_date>2027-08-10T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Graviditet og barsel</g:custom_label_3>
+      <g:internal_label>['Graviditet og barsel','Varde']</g:internal_label>
     </item>
 </channel>
 </rss>
