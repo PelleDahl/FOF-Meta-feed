@@ -51,6 +51,16 @@ const SCHOOL_FEED_SCHOOLS = new Set(SCHOOLS);
 // Skolerne her bruger det rå holdnummer uden præfiks. Formatet er det samme i skolefeeds og i det samlede feed.
 const UNPREFIXED_ID_SCHOOLS = new Set(['fof-koebenhavn-og-nordsjaelland']);
 
+// Værn mod tomme og stærkt reducerede feeds: et feed overskrives ikke, hvis det mister mere end andelen her i forhold til
+// filen på disk. Et fald under MIN_ITEMS_LOST_TO_BLOCK hold blokerer aldrig, da små skoler (f.eks. Odder med ét hold) kan
+// tømmes naturligt, og et brud stopper opdateringen af alle feeds i GitHub Actions.
+const MAX_SCHOOL_DROP_RATIO = 0.5;
+const MAX_MERGED_DROP_RATIO = 0.3;
+const MIN_ITEMS_LOST_TO_BLOCK = 10;
+
+// Filnavne, der midlertidigt må falde ubegrænset, når et stort fald er ægte (f.eks. 'fof-aarhus-feed.xml'). Tom i daglig drift.
+const ALLOWED_FEED_DROPS = new Set();
+
 function schoolFeedMeta(slug, items) {
   const brandMatch = items.map((item) => item.match(/<g:brand>([\s\S]*?)<\/g:brand>/i)).find(Boolean);
   const name = brandMatch ? decodeXmlEntities(brandMatch[1].trim()) : slug;
@@ -650,6 +660,29 @@ function buildFeedXml(items, meta) {
   ].join('\n');
 }
 
+function countExistingItems(file) {
+  if (!fs.existsSync(file)) {
+    return 0;
+  }
+  return (fs.readFileSync(file, 'utf8').match(/<item>/g) || []).length;
+}
+
+// Returnerer en beskrivelse af problemet, hvis feedet falder urimeligt meget i forhold til filen på disk, ellers null.
+function feedDropProblem(file, newCount, maxDropRatio) {
+  const oldCount = countExistingItems(file);
+  const lost = oldCount - newCount;
+  if (lost < MIN_ITEMS_LOST_TO_BLOCK || lost / oldCount <= maxDropRatio) {
+    return null;
+  }
+
+  const problem = `item count would fall from ${oldCount} to ${newCount} (limit: ${Math.round(maxDropRatio * 100)} % drop)`;
+  if (ALLOWED_FEED_DROPS.has(path.basename(file))) {
+    logError(`[WARN] ${path.basename(file)}: ${problem} – allowed by ALLOWED_FEED_DROPS`);
+    return null;
+  }
+  return problem;
+}
+
 async function mergeFeeds() {
   const allItems = [];
   const usedIds = new Set();
@@ -690,6 +723,10 @@ async function mergeFeeds() {
       if (SCHOOL_FEED_SCHOOLS.has(slug)) {
         const schoolFeed = schoolFeedMeta(slug, items);
         const schoolFile = path.join(process.cwd(), schoolFeed.file);
+        const dropProblem = feedDropProblem(schoolFile, items.length, MAX_SCHOOL_DROP_RATIO);
+        if (dropProblem) {
+          throw new Error(dropProblem);
+        }
         fs.writeFileSync(schoolFile, buildFeedXml(items, schoolFeed), 'utf8');
         logInfo(`[OK] ${slug}: saved school feed ${schoolFile}`);
       }
@@ -709,8 +746,11 @@ async function mergeFeeds() {
     }
   }
 
-  // Ryd cachede kursussider, der ikke længere er i feedet – men kun hvis alle skoler blev bygget.
-  if (failedSchools.size === 0) {
+  const mergedDropProblem =
+    failedSchools.size === 0 ? feedDropProblem(OUTPUT_FILE, allItems.length, MAX_MERGED_DROP_RATIO) : null;
+
+  // Ryd cachede kursussider, der ikke længere er i feedet – men kun hvis alle skoler blev bygget, og faldet er rimeligt.
+  if (failedSchools.size === 0 && !mergedDropProblem) {
     for (const pageUrl of Object.keys(ogImageCache)) {
       if (!seenOgPages.has(pageUrl)) {
         delete ogImageCache[pageUrl];
@@ -725,6 +765,9 @@ async function mergeFeeds() {
   // Et samlet feed uden en af skolerne må ikke erstatte det forrige; kørslen fejler, så workflowen prøver igen.
   if (failedSchools.size > 0) {
     logError(`[ERROR] Merged feed not updated – failed schools: ${[...failedSchools].join(', ')}`);
+    process.exitCode = 1;
+  } else if (mergedDropProblem) {
+    logError(`[ERROR] Merged feed not updated – ${mergedDropProblem}`);
     process.exitCode = 1;
   } else {
     fs.writeFileSync(OUTPUT_FILE, buildFeedXml(allItems, MERGED_FEED_META), 'utf8');

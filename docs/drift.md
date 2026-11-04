@@ -76,6 +76,7 @@ Tjek i denne rækkefølge:
 | `[FATAL] AZURE_SEARCH_API_KEY is not set` | Secret mangler | Sæt secret'en |
 | `HTTP 403` fra søgeindekset | Nøglen er ugyldig eller slettet | Skift nøgle |
 | `[ERROR] <skole>: …` på alle tre forsøg | Indeksfejl eller ændret slug | Se fejlbeskeden. Intet committes, så Meta bevarer gamle data. |
+| `[ERROR] <skole>: item count would fall from X to Y` eller `[ERROR] Merged feed not updated – item count would fall …` | Værnet mod store fald: indeksfejl eller et ægte fald | Se [Værnet mod store fald](#værnet-mod-store-fald). Intet committes, så Meta bevarer gamle data. |
 | `[WARN] og:image could not be fetched` | Kursusside utilgængelig | Som regel harmløst. Falder tilbage til cache eller herobillede. |
 | Mange billeder afvises af Meta | fof.dk ændrer billed-URL'er | Tjek `g:image_link` i feedet i en browser |
 | Mange produkter forsvinder i Meta | Tomt feed eller ændret id-format | Tjek antal `<item>` og seneste ikke-bot-commit |
@@ -89,11 +90,23 @@ Find seneste gode commit, og gendan filen. Næste kørsel overskriver den igen, 
 git checkout <commit> -- fof-alle-skoler-feed.xml
 ```
 
+### Værnet mod store fald
+
+Værnet stopper en kørsel, hvis et skolefeed mister over 50 % af holdene, eller det samlede feed mister over 30 %, og feedet samtidig mister mindst 10 hold. Grænserne er beskrevet i [arkitektur.md](arkitektur.md#fejlhåndtering). Så længe værnet er brudt, opdateres **ingen** feeds i GitHub Actions.
+
+1. Find `[ERROR]`-linjen i kørslens log. Den viser feedet og antallet før og efter.
+2. Tjek, om faldet er ægte: er holdene væk fra `fof-courses-production`, eller opfylder de ikke længere [reglerne](feed-format.md#hvilke-hold-kommer-med)?
+3. **Er det en indeksfejl,** så ret eller afvent indekset. Næste kørsel går igennem af sig selv, når antallet er normalt igen.
+4. **Er faldet ægte,** så tilføj filnavnet til `ALLOWED_FEED_DROPS` i `merge-fof-feeds.js`, f.eks. `'fof-aarhus-feed.xml'`. Tilføj også `'fof-alle-skoler-feed.xml'`, hvis det samlede feed falder over grænsen. Push til `main`, og tjek, at kørslen er grøn.
+5. Fjern filnavnene igen, og push. Ellers er feedet uden værn, indtil de er fjernet.
+
 ## Kendte risici
 
 | Risiko | Konsekvens | Status |
 |---|---|---|
-| **Intet værn mod tomme feeds.** Returnerer indekset 0 hold uden fejl, committes et tomt feed. | Meta kan fjerne produkterne fra kataloget, og produktsæt og annoncer rammes. | Åben. Bør have en grænse for, hvor meget et feed må falde. |
+| **Værnet dækker ikke små fald og små skoler.** Et feed, der mister færre end 10 hold, skrives altid, også hvis det ender på 0. Det gælder pt. kun fof-odder, da de øvrige skoler har mindst 20 hold. | Meta kan fjerne op til 9 produkter fra en skole ved en fejl i indekset. | Bevidst valg, så en lille skole, der naturligt tømmes, ikke stopper alle feeds. |
+| **Fald sammenlignes kun med den seneste kørsel.** Et gradvist fald over flere kørsler stoppes ikke. | Et fald, der sker i mindre trin, når ud til Meta. | Bevidst valg, så almindelige sæsonudsving ikke stopper feeds. |
+| **Et ægte stort fald stopper alle feeds,** indtil nogen griber ind. Der er ikke sat alarmer op. | Feedene bliver ikke opdateret, og data ældes, men forsvinder ikke. | Kendt. Se [Værnet mod store fald](#værnet-mod-store-fald). |
 | **Node 20 har nået end-of-life** (april 2026). | Ingen akut fejl, men ingen sikkerhedsopdateringer. | Åben. Hæv `node-version` i workflowet. Scriptet bruger kun indbyggede moduler. |
 | **Repoet ligger på en personlig GitHub-konto.** Adgang og URL'er følger `PelleDahl`. | En flytning til en organisation ændrer alle feed-URL'er og kræver opdatering af alle kataloger i Meta. | Kendt. Planlæg det som en samlet flytning. |
 | **Én skole, der fejler, blokerer alle skoler** i GitHub Actions. | Feedene bliver ikke opdateret, før fejlen er væk. Data ældes, men forsvinder ikke. | Bevidst valg. |
