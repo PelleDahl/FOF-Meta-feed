@@ -1998,6 +1998,8 @@
       <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4>København</g:custom_label_4>
       <g:start_date>2026-11-21T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Ture og rundvisninger</g:custom_label_3>
+      <g:internal_label>['Ture og rundvisninger','København K']</g:internal_label>
     </item>
 <item>
       <g:id>26274260</g:id>
@@ -2106,6 +2108,28 @@
       <g:custom_label_4>København</g:custom_label_4>
       <g:start_date>2026-11-21T00:00:00.000Z</g:start_date>
       <g:internal_label>['København K']</g:internal_label>
+    </item>
+<item>
+      <g:id>26210037</g:id>
+      <g:title><![CDATA[Panum, Riget og Mærsktårnet]]></g:title>
+      <g:description><![CDATA[Se kunst og arkitektur i verdensklasse på byvandring i Copenhagen Science City og oplev udsigten fra Mærsk Tårnet. Tilmeld dig her.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/panum-riget-og-maersk-taarnet?holdnr=26210037</g:link>
+      <g:image_link>https://www.fof.dk/media/jkeotmce/maersk-taarnet_cfmoeller_adam-moerk.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>200.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Rejser, ture og rundvisninger &gt; Byvandringer</g:product_type>
+      <g:custom_label_0>Rejser, ture og rundvisninger</g:custom_label_0>
+      <g:custom_label_1>Byvandringer</g:custom_label_1>
+      <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>København</g:custom_label_4>
+      <g:start_date>2026-11-21T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Ture og rundvisninger</g:custom_label_3>
+      <g:internal_label>['Ture og rundvisninger','København N']</g:internal_label>
     </item>
 <item>
       <g:id>26274074</g:id>
@@ -2847,6 +2871,28 @@
       <g:internal_label>['Halsnæs','Frederiksværk']</g:internal_label>
     </item>
 <item>
+      <g:id>26240328</g:id>
+      <g:title><![CDATA[Gourmet for begyndere]]></g:title>
+      <g:description><![CDATA[Lær at lave lækre gourmetretter med fokus på årstidens friske råvarer og enkle teknikker. Kurset er for begyndere, der vil have mere erfaring i køkkenet.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/gourmet-for-begyndere?holdnr=26240328</g:link>
+      <g:image_link>https://www.fof.dk/media/daolmhef/anretning-mad-fofkn-aftenskolen-madlavning.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>535.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Madlavning og drikkevarer &gt; Fest- og hverdagsmad</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
+      <g:custom_label_2>Fest- og hverdagsmad</g:custom_label_2>
+      <g:custom_label_4>Snekkersten</g:custom_label_4>
+      <g:start_date>2026-11-26T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Korte kurser</g:custom_label_3>
+      <g:internal_label>['Korte kurser','Snekkersten']</g:internal_label>
+    </item>
+<item>
       <g:id>26245299</g:id>
       <g:title><![CDATA[Førstehjælp – til babyer og små børn]]></g:title>
       <g:description><![CDATA[Lær førstehjælp til babyer og små børn. Et roligt og praktisk kursus om forbrænding, forgiftning og feberkramper – også for gravide.]]></g:description>
@@ -2889,28 +2935,6 @@
       <g:start_date>2026-11-26T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Korte kurser</g:custom_label_3>
       <g:internal_label>['Korte kurser','København V']</g:internal_label>
-    </item>
-<item>
-      <g:id>26240328</g:id>
-      <g:title><![CDATA[Gourmet for begyndere]]></g:title>
-      <g:description><![CDATA[Lær at lave lækre gourmetretter med fokus på årstidens friske råvarer og enkle teknikker. Kurset er for begyndere, der vil have mere erfaring i køkkenet.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/gourmet-for-begyndere?holdnr=26240328</g:link>
-      <g:image_link>https://www.fof.dk/media/daolmhef/anretning-mad-fofkn-aftenskolen-madlavning.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>535.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF København og Nordsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Madlavning og drikkevarer &gt; Fest- og hverdagsmad</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
-      <g:custom_label_2>Fest- og hverdagsmad</g:custom_label_2>
-      <g:custom_label_4>Snekkersten</g:custom_label_4>
-      <g:start_date>2026-11-26T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Korte kurser</g:custom_label_3>
-      <g:internal_label>['Korte kurser','Snekkersten']</g:internal_label>
     </item>
 <item>
       <g:id>26250077</g:id>
@@ -3545,27 +3569,6 @@
       <g:internal_label>['Ture og rundvisninger','Historien – bid for bid','Holte']</g:internal_label>
     </item>
 <item>
-      <g:id>26230669</g:id>
-      <g:title><![CDATA[Aqua fit for gravide]]></g:title>
-      <g:description><![CDATA[Træn kroppen trygt under graviditeten. Aqua fit for gravide giver styrke, smidighed og energi i vandets vægtløshed – skånsomt og sjovt.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/aqua-fit-for-gravide?holdnr=26230669</g:link>
-      <g:image_link>https://www.fof.dk/media/saaprhbc/vandgymnastik-fofkn-aftenskolen-gravid-og-barsel-km-2.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1030.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF København og Nordsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Motion for gravide</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
-      <g:custom_label_2>Motion for gravide</g:custom_label_2>
-      <g:custom_label_4>København</g:custom_label_4>
-      <g:start_date>2026-12-01T00:00:00.000Z</g:start_date>
-      <g:internal_label>['København V']</g:internal_label>
-    </item>
-<item>
       <g:id>26207065</g:id>
       <g:title><![CDATA[Mit Frankrig - Montmartre og det store oh là là!]]></g:title>
       <g:description><![CDATA[Bliv klogere på fransk kultur i denne foredragsrække hos FOF København og Nordsjælland. Foredragene foregår på letforståeligt fransk. Tilmeld dig her.]]></g:description>
@@ -3911,28 +3914,6 @@
       <g:start_date>2026-12-05T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Skrivekurser</g:custom_label_3>
       <g:internal_label>['Skrivekurser','København K']</g:internal_label>
-    </item>
-<item>
-      <g:id>26270067</g:id>
-      <g:title><![CDATA[Tegning i stort format – weekend]]></g:title>
-      <g:description><![CDATA[Tegnekursus i stort format med fokus på teknik, krop og udtryk. Arbejd med store tegninger og udvikl dit personlige udtryk. Tegnekursus hos FOF. Se hold her.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/tegning-i-stort-format-weekendkursus?holdnr=26270067</g:link>
-      <g:image_link>https://www.fof.dk/media/2ekiduhl/ashley-byrd-_e819cp2y_q-unsplash.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>945.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF København og Nordsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Kreative kurser &gt; Tegnekurser</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Kreative kurser</g:custom_label_1>
-      <g:custom_label_2>Tegnekurser</g:custom_label_2>
-      <g:custom_label_4>København</g:custom_label_4>
-      <g:start_date>2026-12-05T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Korte kurser</g:custom_label_3>
-      <g:internal_label>['Korte kurser','København K']</g:internal_label>
     </item>
 <item>
       <g:id>26270020</g:id>
@@ -4825,27 +4806,6 @@
       <g:internal_label>['København K']</g:internal_label>
     </item>
 <item>
-      <g:id>27120849</g:id>
-      <g:title><![CDATA[Babysvømning 6-12 mdr.]]></g:title>
-      <g:description><![CDATA[Gå til babysvømning hos FOF København og Nordsjælland og styrk dit barns motorik, balance og sanser i varmt vand. Læs mere og tilmeld dig her.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/babysvoemning?holdnr=27120849</g:link>
-      <g:image_link>https://www.fof.dk/media/53zpit5g/babysvoemning-fofkn-aftenskolen-gravid-og-barsel-2.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1155.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF København og Nordsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Aktiviteter med baby</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
-      <g:custom_label_2>Aktiviteter med baby</g:custom_label_2>
-      <g:custom_label_4>Charlottenlund</g:custom_label_4>
-      <g:start_date>2027-01-04T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Charlottenlund']</g:internal_label>
-    </item>
-<item>
       <g:id>27151911</g:id>
       <g:title><![CDATA[Sang – klassisk og rytmisk]]></g:title>
       <g:description><![CDATA[Udvikl din stemme med sangundervisning i klassisk og rytmisk sang hos FOF København og Nordsjælland. Små hold med plads til dine ønsker. Læs mere her.]]></g:description>
@@ -4865,6 +4825,27 @@
       <g:custom_label_4>København</g:custom_label_4>
       <g:start_date>2027-01-04T00:00:00.000Z</g:start_date>
       <g:internal_label>['København K']</g:internal_label>
+    </item>
+<item>
+      <g:id>27120849</g:id>
+      <g:title><![CDATA[Babysvømning 6-12 mdr.]]></g:title>
+      <g:description><![CDATA[Gå til babysvømning hos FOF København og Nordsjælland og styrk dit barns motorik, balance og sanser i varmt vand. Læs mere og tilmeld dig her.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/babysvoemning?holdnr=27120849</g:link>
+      <g:image_link>https://www.fof.dk/media/53zpit5g/babysvoemning-fofkn-aftenskolen-gravid-og-barsel-2.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1155.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Aktiviteter med baby</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
+      <g:custom_label_2>Aktiviteter med baby</g:custom_label_2>
+      <g:custom_label_4>Charlottenlund</g:custom_label_4>
+      <g:start_date>2027-01-04T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Charlottenlund']</g:internal_label>
     </item>
 <item>
       <g:id>27151909</g:id>
@@ -4968,8 +4949,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Musik og sang</g:custom_label_1>
       <g:custom_label_2>Strengeinstrumenter</g:custom_label_2>
-      <g:custom_label_4></g:custom_label_4>
+      <g:custom_label_4>Græsted</g:custom_label_4>
       <g:start_date>2027-01-05T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Græsted']</g:internal_label>
     </item>
 <item>
       <g:id>27150395</g:id>
@@ -4988,8 +4970,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Musik og sang</g:custom_label_1>
       <g:custom_label_2>Strengeinstrumenter</g:custom_label_2>
-      <g:custom_label_4></g:custom_label_4>
+      <g:custom_label_4>Græsted</g:custom_label_4>
       <g:start_date>2027-01-05T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Græsted']</g:internal_label>
     </item>
 <item>
       <g:id>27151207</g:id>
@@ -5817,6 +5800,28 @@
       <g:internal_label>['Hensyntagende','Kongens Lyngby']</g:internal_label>
     </item>
 <item>
+      <g:id>26270067</g:id>
+      <g:title><![CDATA[Tegning i stort format – weekend]]></g:title>
+      <g:description><![CDATA[Tegnekursus i stort format med fokus på teknik, krop og udtryk. Arbejd med store tegninger og udvikl dit personlige udtryk. Tegnekursus hos FOF. Se hold her.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/tegning-i-stort-format-weekendkursus?holdnr=26270067</g:link>
+      <g:image_link>https://www.fof.dk/media/2ekiduhl/ashley-byrd-_e819cp2y_q-unsplash.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>945.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Kreative kurser &gt; Tegnekurser</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Kreative kurser</g:custom_label_1>
+      <g:custom_label_2>Tegnekurser</g:custom_label_2>
+      <g:custom_label_4>København</g:custom_label_4>
+      <g:start_date>2027-01-09T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Korte kurser</g:custom_label_3>
+      <g:internal_label>['Korte kurser','København K']</g:internal_label>
+    </item>
+<item>
       <g:id>27113604</g:id>
       <g:title><![CDATA[Frederik X nye kongeportræt]]></g:title>
       <g:description><![CDATA[Oplev Frederik X's nye kongeportræt på Frederiksborg Slot på rundvisning. Kom tæt på det nye værk og hør om kunstnerens arbejde med portrættet. Tilmeld dig her.]]></g:description>
@@ -6334,27 +6339,6 @@
       <g:start_date>2027-01-16T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Aftenskolernes Hus</g:custom_label_3>
       <g:internal_label>['Aftenskolernes Hus','Korte kurser','København NV']</g:internal_label>
-    </item>
-<item>
-      <g:id>26230822</g:id>
-      <g:title><![CDATA[Selvforsvar for kvinder – weekendkursus]]></g:title>
-      <g:description><![CDATA[Lær selvforsvar på én weekend. Få styrke og selvtillid med praktiske teknikker og mentale redskaber, der styrker både krop og sind.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/selvforsvar-for-kvinder-weekendkursus?holdnr=26230822</g:link>
-      <g:image_link>https://www.fof.dk/media/5gnhmtjz/selvforsvar-kvinder-fofkn-aftenskolen-motion-og-sundhed.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>875.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF København og Nordsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Styrke- og konditionstræning</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Styrke- og konditionstræning</g:custom_label_2>
-      <g:custom_label_4>Søborg</g:custom_label_4>
-      <g:start_date>2027-01-16T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Søborg']</g:internal_label>
     </item>
 <item>
       <g:id>27120932</g:id>
@@ -7301,27 +7285,6 @@
       <g:internal_label>['Ture og rundvisninger','Hillerød']</g:internal_label>
     </item>
 <item>
-      <g:id>27150308</g:id>
-      <g:title><![CDATA[Klaver]]></g:title>
-      <g:description><![CDATA[Lær at spille klaver på små hold med personlig vejledning. Flere lokationer i København og Nordsjælland. For voksne – begyndere og øvede. Find dit hold her.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/klaver?holdnr=27150308</g:link>
-      <g:image_link>https://www.fof.dk/media/fynlom0m/25.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>2795.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF København og Nordsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Musik og sang &gt; Klaver og harmonika</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Musik og sang</g:custom_label_1>
-      <g:custom_label_2>Klaver og harmonika</g:custom_label_2>
-      <g:custom_label_4>Charlottenlund</g:custom_label_4>
-      <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Charlottenlund']</g:internal_label>
-    </item>
-<item>
       <g:id>27151069</g:id>
       <g:title><![CDATA[Klaver]]></g:title>
       <g:description><![CDATA[Lær at spille klaver på små hold med personlig vejledning. Flere lokationer i København og Nordsjælland. For voksne – begyndere og øvede. Find dit hold her.]]></g:description>
@@ -7426,6 +7389,27 @@
       <g:custom_label_4>København</g:custom_label_4>
       <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
       <g:internal_label>['København K']</g:internal_label>
+    </item>
+<item>
+      <g:id>27150308</g:id>
+      <g:title><![CDATA[Klaver]]></g:title>
+      <g:description><![CDATA[Lær at spille klaver på små hold med personlig vejledning. Flere lokationer i København og Nordsjælland. For voksne – begyndere og øvede. Find dit hold her.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/klaver?holdnr=27150308</g:link>
+      <g:image_link>https://www.fof.dk/media/fynlom0m/25.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>2795.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Musik og sang &gt; Klaver og harmonika</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Musik og sang</g:custom_label_1>
+      <g:custom_label_2>Klaver og harmonika</g:custom_label_2>
+      <g:custom_label_4>Charlottenlund</g:custom_label_4>
+      <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Charlottenlund']</g:internal_label>
     </item>
 <item>
       <g:id>27150220</g:id>
@@ -7536,27 +7520,6 @@
       <g:internal_label>['Aftenskolernes Hus','København NV']</g:internal_label>
     </item>
 <item>
-      <g:id>27150351</g:id>
-      <g:title><![CDATA[Operasang – daghold]]></g:title>
-      <g:description><![CDATA[Udforsk din stemme til operaundervisning. Kurset er en masterclass med få deltagere, og du arbejder bl.a. med klang, teknik og fortolkning. Tilmeld dig her.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/operasang?holdnr=27150351</g:link>
-      <g:image_link>https://www.fof.dk/media/gnufjoln/sangundervisning-fofkn-aftenskolen-musik-og-sang-stock-169496540-1.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>2995.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF København og Nordsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Musik og sang &gt; Sang og stemmetræning</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Musik og sang</g:custom_label_1>
-      <g:custom_label_2>Sang og stemmetræning</g:custom_label_2>
-      <g:custom_label_4>København</g:custom_label_4>
-      <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
-      <g:internal_label>['København K']</g:internal_label>
-    </item>
-<item>
       <g:id>27150921</g:id>
       <g:title><![CDATA[Trommer – daghold ]]></g:title>
       <g:description><![CDATA[Gå til trommer hos FOF København og Nordsjælland og lær at spille med teknik, rytme og groove. Undervisning på små hold med plads til dig. Tilmeld dig her.]]></g:description>
@@ -7576,6 +7539,27 @@
       <g:custom_label_4>København</g:custom_label_4>
       <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
       <g:internal_label>['København N']</g:internal_label>
+    </item>
+<item>
+      <g:id>27150351</g:id>
+      <g:title><![CDATA[Operasang – daghold]]></g:title>
+      <g:description><![CDATA[Udforsk din stemme til operaundervisning. Kurset er en masterclass med få deltagere, og du arbejder bl.a. med klang, teknik og fortolkning. Tilmeld dig her.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/operasang?holdnr=27150351</g:link>
+      <g:image_link>https://www.fof.dk/media/gnufjoln/sangundervisning-fofkn-aftenskolen-musik-og-sang-stock-169496540-1.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>2995.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Musik og sang &gt; Sang og stemmetræning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Musik og sang</g:custom_label_1>
+      <g:custom_label_2>Sang og stemmetræning</g:custom_label_2>
+      <g:custom_label_4>København</g:custom_label_4>
+      <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
+      <g:internal_label>['København K']</g:internal_label>
     </item>
 <item>
       <g:id>27110020</g:id>
@@ -7620,27 +7604,6 @@
       <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Aftenskolernes Hus</g:custom_label_3>
       <g:internal_label>['Aftenskolernes Hus','København NV']</g:internal_label>
-    </item>
-<item>
-      <g:id>27150862</g:id>
-      <g:title><![CDATA[Saxofon – begyndere og letøvede]]></g:title>
-      <g:description><![CDATA[Lær at spille saxofon fra bunden eller finpuds teknik, rytmik og musikalitet til saxofonundervisning hos FOF København og Nordsjælland. Tilmeld dig her.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/saxofon?holdnr=27150862</g:link>
-      <g:image_link>https://www.fof.dk/media/fumnia31/blaeseinstrumenter-fofkn-aftenskolen-musik-og-sang-2.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>2995.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF København og Nordsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Musik og sang &gt; Blæsere</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Musik og sang</g:custom_label_1>
-      <g:custom_label_2>Blæsere</g:custom_label_2>
-      <g:custom_label_4>København</g:custom_label_4>
-      <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
-      <g:internal_label>['København K']</g:internal_label>
     </item>
 <item>
       <g:id>27150657</g:id>
@@ -7704,6 +7667,27 @@
       <g:custom_label_4>København</g:custom_label_4>
       <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
       <g:internal_label>['København N']</g:internal_label>
+    </item>
+<item>
+      <g:id>27150862</g:id>
+      <g:title><![CDATA[Saxofon – begyndere og letøvede]]></g:title>
+      <g:description><![CDATA[Lær at spille saxofon fra bunden eller finpuds teknik, rytmik og musikalitet til saxofonundervisning hos FOF København og Nordsjælland. Tilmeld dig her.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/saxofon?holdnr=27150862</g:link>
+      <g:image_link>https://www.fof.dk/media/fumnia31/blaeseinstrumenter-fofkn-aftenskolen-musik-og-sang-2.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>2995.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Musik og sang &gt; Blæsere</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Musik og sang</g:custom_label_1>
+      <g:custom_label_2>Blæsere</g:custom_label_2>
+      <g:custom_label_4>København</g:custom_label_4>
+      <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
+      <g:internal_label>['København K']</g:internal_label>
     </item>
 <item>
       <g:id>27130569</g:id>
@@ -7897,11 +7881,11 @@
       <g:internal_label>['Familie']</g:internal_label>
     </item>
 <item>
-      <g:id>27150085</g:id>
-      <g:title><![CDATA[Klassisk klaver]]></g:title>
-      <g:description><![CDATA[Lær at spille klaver på små hold med personlig vejledning. Flere lokationer i København og Nordsjælland. For voksne – begyndere og øvede. Find dit hold her.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/klaver?holdnr=27150085</g:link>
-      <g:image_link>https://www.fof.dk/media/fynlom0m/25.jpg?width=1200</g:image_link>
+      <g:id>27151105</g:id>
+      <g:title><![CDATA[Rytmisk sang]]></g:title>
+      <g:description><![CDATA[Udvikl din stemme med sangundervisning i klassisk og rytmisk sang hos FOF København og Nordsjælland. Små hold med plads til dine ønsker. Læs mere her.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/sang-klassisk-og-rytmisk?holdnr=27151105</g:link>
+      <g:image_link>https://www.fof.dk/media/qbrbhxb1/kor-fof-aftenskolen-06.jpg?width=1200</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:quantity>1</g:quantity>
       <g:price>2995.00 DKK</g:price>
@@ -7909,13 +7893,56 @@
       <g:brand>FOF København og Nordsjælland</g:brand>
       <g:google_product_category>Education</g:google_product_category>
       <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Musik og sang &gt; Klaver og harmonika</g:product_type>
+      <g:product_type>Kurser &gt; Musik og sang &gt; Sang og stemmetræning</g:product_type>
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Musik og sang</g:custom_label_1>
-      <g:custom_label_2>Klaver og harmonika</g:custom_label_2>
+      <g:custom_label_2>Sang og stemmetræning</g:custom_label_2>
       <g:custom_label_4>København</g:custom_label_4>
       <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
-      <g:internal_label>['København NV']</g:internal_label>
+      <g:custom_label_3>Aftenskolernes Hus</g:custom_label_3>
+      <g:internal_label>['Aftenskolernes Hus','København NV']</g:internal_label>
+    </item>
+<item>
+      <g:id>27150707</g:id>
+      <g:title><![CDATA[Tværfløjte]]></g:title>
+      <g:description><![CDATA[Lær at spille tværfløjte på små hold med plads til personlig vejledning og udvikling i eget tempo. Kurset henvender sig både til begyndere og øvede. Læs mere.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/tvaerfloejte?holdnr=27150707</g:link>
+      <g:image_link>https://www.fof.dk/media/xagb01lf/tvaerfloejte-fofkn-aftenskolen-musik-og-sang.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>2995.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Musik og sang &gt; Blæsere</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Musik og sang</g:custom_label_1>
+      <g:custom_label_2>Blæsere</g:custom_label_2>
+      <g:custom_label_4>København</g:custom_label_4>
+      <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
+      <g:internal_label>['København K']</g:internal_label>
+    </item>
+<item>
+      <g:id>27150915</g:id>
+      <g:title><![CDATA[Almen perkussion – daghold ]]></g:title>
+      <g:description><![CDATA[Lær sydamerikanske og caribiske rytmer på små hold. Tilmeld dig hos FOF København og Nordsjælland.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/almen-perkussion?holdnr=27150915</g:link>
+      <g:image_link>https://www.fof.dk/media/vwungmfc/cajon-fofkn-aftenskolen-musik-og-sang-1229692843.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>2995.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Musik og sang &gt; Trommer og percussion</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Musik og sang</g:custom_label_1>
+      <g:custom_label_2>Trommer og percussion</g:custom_label_2>
+      <g:custom_label_4>København</g:custom_label_4>
+      <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
+      <g:internal_label>['København N']</g:internal_label>
     </item>
 <item>
       <g:id>27150194</g:id>
@@ -8024,6 +8051,27 @@
       <g:internal_label>['København K']</g:internal_label>
     </item>
 <item>
+      <g:id>27150085</g:id>
+      <g:title><![CDATA[Klassisk klaver]]></g:title>
+      <g:description><![CDATA[Lær at spille klaver på små hold med personlig vejledning. Flere lokationer i København og Nordsjælland. For voksne – begyndere og øvede. Find dit hold her.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/klaver?holdnr=27150085</g:link>
+      <g:image_link>https://www.fof.dk/media/fynlom0m/25.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>2995.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Musik og sang &gt; Klaver og harmonika</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Musik og sang</g:custom_label_1>
+      <g:custom_label_2>Klaver og harmonika</g:custom_label_2>
+      <g:custom_label_4>København</g:custom_label_4>
+      <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
+      <g:internal_label>['København NV']</g:internal_label>
+    </item>
+<item>
       <g:id>27151155</g:id>
       <g:title><![CDATA[Classical Singing]]></g:title>
       <g:description><![CDATA[Learn classical singing, stage training and personal vocal development. For all levels. Join FOF København og Nordsjælland.]]></g:description>
@@ -8086,70 +8134,6 @@
       <g:custom_label_4>København</g:custom_label_4>
       <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
       <g:internal_label>['København K']</g:internal_label>
-    </item>
-<item>
-      <g:id>27151105</g:id>
-      <g:title><![CDATA[Rytmisk sang]]></g:title>
-      <g:description><![CDATA[Udvikl din stemme med sangundervisning i klassisk og rytmisk sang hos FOF København og Nordsjælland. Små hold med plads til dine ønsker. Læs mere her.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/sang-klassisk-og-rytmisk?holdnr=27151105</g:link>
-      <g:image_link>https://www.fof.dk/media/qbrbhxb1/kor-fof-aftenskolen-06.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>2995.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF København og Nordsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Musik og sang &gt; Sang og stemmetræning</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Musik og sang</g:custom_label_1>
-      <g:custom_label_2>Sang og stemmetræning</g:custom_label_2>
-      <g:custom_label_4>København</g:custom_label_4>
-      <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Aftenskolernes Hus</g:custom_label_3>
-      <g:internal_label>['Aftenskolernes Hus','København NV']</g:internal_label>
-    </item>
-<item>
-      <g:id>27150707</g:id>
-      <g:title><![CDATA[Tværfløjte]]></g:title>
-      <g:description><![CDATA[Lær at spille tværfløjte på små hold med plads til personlig vejledning og udvikling i eget tempo. Kurset henvender sig både til begyndere og øvede. Læs mere.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/tvaerfloejte?holdnr=27150707</g:link>
-      <g:image_link>https://www.fof.dk/media/xagb01lf/tvaerfloejte-fofkn-aftenskolen-musik-og-sang.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>2995.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF København og Nordsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Musik og sang &gt; Blæsere</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Musik og sang</g:custom_label_1>
-      <g:custom_label_2>Blæsere</g:custom_label_2>
-      <g:custom_label_4>København</g:custom_label_4>
-      <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
-      <g:internal_label>['København K']</g:internal_label>
-    </item>
-<item>
-      <g:id>27150915</g:id>
-      <g:title><![CDATA[Almen perkussion – daghold ]]></g:title>
-      <g:description><![CDATA[Lær sydamerikanske og caribiske rytmer på små hold. Tilmeld dig hos FOF København og Nordsjælland.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/almen-perkussion?holdnr=27150915</g:link>
-      <g:image_link>https://www.fof.dk/media/vwungmfc/cajon-fofkn-aftenskolen-musik-og-sang-1229692843.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>2995.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF København og Nordsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Musik og sang &gt; Trommer og percussion</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Musik og sang</g:custom_label_1>
-      <g:custom_label_2>Trommer og percussion</g:custom_label_2>
-      <g:custom_label_4>København</g:custom_label_4>
-      <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
-      <g:internal_label>['København N']</g:internal_label>
     </item>
 <item>
       <g:id>27130560</g:id>
@@ -8364,27 +8348,6 @@
       <g:internal_label>['København K']</g:internal_label>
     </item>
 <item>
-      <g:id>27151050</g:id>
-      <g:title><![CDATA[Saxofon – lige uger]]></g:title>
-      <g:description><![CDATA[Lær at spille saxofon fra bunden eller finpuds teknik, rytmik og musikalitet til saxofonundervisning hos FOF København og Nordsjælland. Tilmeld dig her.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/saxofon?holdnr=27151050</g:link>
-      <g:image_link>https://www.fof.dk/media/fumnia31/blaeseinstrumenter-fofkn-aftenskolen-musik-og-sang-2.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>2795.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF København og Nordsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Musik og sang &gt; Blæsere</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Musik og sang</g:custom_label_1>
-      <g:custom_label_2>Blæsere</g:custom_label_2>
-      <g:custom_label_4>Hellerup</g:custom_label_4>
-      <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Hellerup']</g:internal_label>
-    </item>
-<item>
       <g:id>27150655</g:id>
       <g:title><![CDATA[Klassisk sang – daghold]]></g:title>
       <g:description><![CDATA[Gå til klassisk sangundervisning hos FOF København og Nordsjælland – for begyndere og øvede. Træn teknik, klang og fortolkning med erfarne undervisere.]]></g:description>
@@ -8404,6 +8367,27 @@
       <g:custom_label_4>København</g:custom_label_4>
       <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
       <g:internal_label>['København K']</g:internal_label>
+    </item>
+<item>
+      <g:id>27151050</g:id>
+      <g:title><![CDATA[Saxofon – lige uger]]></g:title>
+      <g:description><![CDATA[Lær at spille saxofon fra bunden eller finpuds teknik, rytmik og musikalitet til saxofonundervisning hos FOF København og Nordsjælland. Tilmeld dig her.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/saxofon?holdnr=27151050</g:link>
+      <g:image_link>https://www.fof.dk/media/fumnia31/blaeseinstrumenter-fofkn-aftenskolen-musik-og-sang-2.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>2795.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Musik og sang &gt; Blæsere</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Musik og sang</g:custom_label_1>
+      <g:custom_label_2>Blæsere</g:custom_label_2>
+      <g:custom_label_4>Hellerup</g:custom_label_4>
+      <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Hellerup']</g:internal_label>
     </item>
 <item>
       <g:id>27150062</g:id>
@@ -8467,70 +8451,6 @@
       <g:custom_label_4>København</g:custom_label_4>
       <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
       <g:internal_label>['København V']</g:internal_label>
-    </item>
-<item>
-      <g:id>27150565</g:id>
-      <g:title><![CDATA[Classical Singing]]></g:title>
-      <g:description><![CDATA[Learn classical singing, stage training and personal vocal development. For all levels. Join FOF København og Nordsjælland.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/classic-singing?holdnr=27150565</g:link>
-      <g:image_link>https://www.fof.dk/media/5txbt04s/leila-sherzai-fofkn-aftenskolen-musik-og-sang-2.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>2995.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF København og Nordsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Musik og sang &gt; Sang og stemmetræning</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Musik og sang</g:custom_label_1>
-      <g:custom_label_2>Sang og stemmetræning</g:custom_label_2>
-      <g:custom_label_4>København</g:custom_label_4>
-      <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>In English</g:custom_label_3>
-      <g:internal_label>['In English','København K']</g:internal_label>
-    </item>
-<item>
-      <g:id>27150710</g:id>
-      <g:title><![CDATA[Sang – klassisk og rytmisk]]></g:title>
-      <g:description><![CDATA[Udvikl din stemme med sangundervisning i klassisk og rytmisk sang hos FOF København og Nordsjælland. Små hold med plads til dine ønsker. Læs mere her.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/sang-klassisk-og-rytmisk?holdnr=27150710</g:link>
-      <g:image_link>https://www.fof.dk/media/qbrbhxb1/kor-fof-aftenskolen-06.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>2995.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF København og Nordsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Musik og sang &gt; Sang og stemmetræning</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Musik og sang</g:custom_label_1>
-      <g:custom_label_2>Sang og stemmetræning</g:custom_label_2>
-      <g:custom_label_4>København</g:custom_label_4>
-      <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
-      <g:internal_label>['København K']</g:internal_label>
-    </item>
-<item>
-      <g:id>27150858</g:id>
-      <g:title><![CDATA[Saxofon – begyndere og letøvede]]></g:title>
-      <g:description><![CDATA[Lær at spille saxofon fra bunden eller finpuds teknik, rytmik og musikalitet til saxofonundervisning hos FOF København og Nordsjælland. Tilmeld dig her.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/saxofon?holdnr=27150858</g:link>
-      <g:image_link>https://www.fof.dk/media/fumnia31/blaeseinstrumenter-fofkn-aftenskolen-musik-og-sang-2.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>2995.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF København og Nordsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Musik og sang &gt; Blæsere</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Musik og sang</g:custom_label_1>
-      <g:custom_label_2>Blæsere</g:custom_label_2>
-      <g:custom_label_4>København</g:custom_label_4>
-      <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
-      <g:internal_label>['København K']</g:internal_label>
     </item>
 <item>
       <g:id>27150648</g:id>
@@ -8617,6 +8537,70 @@
       <g:internal_label>['København N']</g:internal_label>
     </item>
 <item>
+      <g:id>27150565</g:id>
+      <g:title><![CDATA[Classical Singing]]></g:title>
+      <g:description><![CDATA[Learn classical singing, stage training and personal vocal development. For all levels. Join FOF København og Nordsjælland.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/classic-singing?holdnr=27150565</g:link>
+      <g:image_link>https://www.fof.dk/media/5txbt04s/leila-sherzai-fofkn-aftenskolen-musik-og-sang-2.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>2995.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Musik og sang &gt; Sang og stemmetræning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Musik og sang</g:custom_label_1>
+      <g:custom_label_2>Sang og stemmetræning</g:custom_label_2>
+      <g:custom_label_4>København</g:custom_label_4>
+      <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>In English</g:custom_label_3>
+      <g:internal_label>['In English','København K']</g:internal_label>
+    </item>
+<item>
+      <g:id>27150710</g:id>
+      <g:title><![CDATA[Sang – klassisk og rytmisk]]></g:title>
+      <g:description><![CDATA[Udvikl din stemme med sangundervisning i klassisk og rytmisk sang hos FOF København og Nordsjælland. Små hold med plads til dine ønsker. Læs mere her.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/sang-klassisk-og-rytmisk?holdnr=27150710</g:link>
+      <g:image_link>https://www.fof.dk/media/qbrbhxb1/kor-fof-aftenskolen-06.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>2995.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Musik og sang &gt; Sang og stemmetræning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Musik og sang</g:custom_label_1>
+      <g:custom_label_2>Sang og stemmetræning</g:custom_label_2>
+      <g:custom_label_4>København</g:custom_label_4>
+      <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
+      <g:internal_label>['København K']</g:internal_label>
+    </item>
+<item>
+      <g:id>27150858</g:id>
+      <g:title><![CDATA[Saxofon – begyndere og letøvede]]></g:title>
+      <g:description><![CDATA[Lær at spille saxofon fra bunden eller finpuds teknik, rytmik og musikalitet til saxofonundervisning hos FOF København og Nordsjælland. Tilmeld dig her.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/saxofon?holdnr=27150858</g:link>
+      <g:image_link>https://www.fof.dk/media/fumnia31/blaeseinstrumenter-fofkn-aftenskolen-musik-og-sang-2.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>2995.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Musik og sang &gt; Blæsere</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Musik og sang</g:custom_label_1>
+      <g:custom_label_2>Blæsere</g:custom_label_2>
+      <g:custom_label_4>København</g:custom_label_4>
+      <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
+      <g:internal_label>['København K']</g:internal_label>
+    </item>
+<item>
       <g:id>27150352</g:id>
       <g:title><![CDATA[Jazzguitar]]></g:title>
       <g:description><![CDATA[Lær jazzguitar med udvidede akkorder, melodispil og improvisation ud fra The Real Book. For let øvede til meget øvede. Tilmeld dig hos FOF København og Nordsjælland.]]></g:description>
@@ -8657,6 +8641,27 @@
       <g:custom_label_4>København</g:custom_label_4>
       <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
       <g:internal_label>['København K']</g:internal_label>
+    </item>
+<item>
+      <g:id>27150087</g:id>
+      <g:title><![CDATA[Klassisk klaver]]></g:title>
+      <g:description><![CDATA[Lær at spille klaver på små hold med personlig vejledning. Flere lokationer i København og Nordsjælland. For voksne – begyndere og øvede. Find dit hold her.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/klaver?holdnr=27150087</g:link>
+      <g:image_link>https://www.fof.dk/media/fynlom0m/25.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>2995.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Musik og sang &gt; Klaver og harmonika</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Musik og sang</g:custom_label_1>
+      <g:custom_label_2>Klaver og harmonika</g:custom_label_2>
+      <g:custom_label_4>København</g:custom_label_4>
+      <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
+      <g:internal_label>['København NV']</g:internal_label>
     </item>
 <item>
       <g:id>27150515</g:id>
@@ -8743,6 +8748,27 @@
       <g:internal_label>['København V']</g:internal_label>
     </item>
 <item>
+      <g:id>27150041</g:id>
+      <g:title><![CDATA[Sang – mødre på barsel – daghold ]]></g:title>
+      <g:description><![CDATA[Syng, bevæg dig og find energi i fællesskab med andre mødre hos FOF København og Nordsjælland. Rytmisk sang for barslende skaber glæde, ro og nærvær, også for baby.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/rytmisk-sang-for-moedre-paa-barsel?holdnr=27150041</g:link>
+      <g:image_link>https://www.fof.dk/media/jwsmdvxm/sang-pa-barsel-fofkn-aftenskolen-gravid-og-barsel-stock-18266186.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1370.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Aktiviteter med baby</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
+      <g:custom_label_2>Aktiviteter med baby</g:custom_label_2>
+      <g:custom_label_4>København</g:custom_label_4>
+      <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
+      <g:internal_label>['København V']</g:internal_label>
+    </item>
+<item>
       <g:id>27150730</g:id>
       <g:title><![CDATA[Klaver – daghold]]></g:title>
       <g:description><![CDATA[Lær at spille klaver på små hold med personlig vejledning. Flere lokationer i København og Nordsjælland. For voksne – begyndere og øvede. Find dit hold her.]]></g:description>
@@ -8806,27 +8832,6 @@
       <g:internal_label>['Birkerød']</g:internal_label>
     </item>
 <item>
-      <g:id>27150041</g:id>
-      <g:title><![CDATA[Sang – mødre på barsel – daghold ]]></g:title>
-      <g:description><![CDATA[Syng, bevæg dig og find energi i fællesskab med andre mødre hos FOF København og Nordsjælland. Rytmisk sang for barslende skaber glæde, ro og nærvær, også for baby.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/rytmisk-sang-for-moedre-paa-barsel?holdnr=27150041</g:link>
-      <g:image_link>https://www.fof.dk/media/jwsmdvxm/sang-pa-barsel-fofkn-aftenskolen-gravid-og-barsel-stock-18266186.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1370.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF København og Nordsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Aktiviteter med baby</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
-      <g:custom_label_2>Aktiviteter med baby</g:custom_label_2>
-      <g:custom_label_4>København</g:custom_label_4>
-      <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
-      <g:internal_label>['København V']</g:internal_label>
-    </item>
-<item>
       <g:id>27150483</g:id>
       <g:title><![CDATA[Syng som du er]]></g:title>
       <g:description><![CDATA[Syng frit uden krav om at være ”god”. En 7-ugers workshop for dig, der vil bruge stemmen uden pres og finde sangglæden. Tilmeld dig hos FOF København og Nordsjælland.]]></g:description>
@@ -8846,26 +8851,6 @@
       <g:custom_label_4>Kongens Lyngby</g:custom_label_4>
       <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
       <g:internal_label>['Kongens Lyngby']</g:internal_label>
-    </item>
-<item>
-      <g:id>27150020</g:id>
-      <g:title><![CDATA[Klaver]]></g:title>
-      <g:description><![CDATA[Lær at spille klaver på små hold med personlig vejledning. Flere lokationer i København og Nordsjælland. For voksne – begyndere og øvede. Find dit hold her.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/klaver?holdnr=27150020</g:link>
-      <g:image_link>https://www.fof.dk/media/fynlom0m/25.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>2995.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF København og Nordsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Musik og sang &gt; Klaver og harmonika</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Musik og sang</g:custom_label_1>
-      <g:custom_label_2>Klaver og harmonika</g:custom_label_2>
-      <g:custom_label_4></g:custom_label_4>
-      <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
     </item>
 <item>
       <g:id>27150727</g:id>
@@ -8931,6 +8916,26 @@
       <g:internal_label>['København K']</g:internal_label>
     </item>
 <item>
+      <g:id>27150020</g:id>
+      <g:title><![CDATA[Klaver]]></g:title>
+      <g:description><![CDATA[Lær at spille klaver på små hold med personlig vejledning. Flere lokationer i København og Nordsjælland. For voksne – begyndere og øvede. Find dit hold her.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/klaver?holdnr=27150020</g:link>
+      <g:image_link>https://www.fof.dk/media/fynlom0m/25.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>2995.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Musik og sang &gt; Klaver og harmonika</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Musik og sang</g:custom_label_1>
+      <g:custom_label_2>Klaver og harmonika</g:custom_label_2>
+      <g:custom_label_4></g:custom_label_4>
+      <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
+    </item>
+<item>
       <g:id>27150609</g:id>
       <g:title><![CDATA[Rytmisk klaver – daghold ]]></g:title>
       <g:description><![CDATA[Spil rytmisk klaver hos FOF København og Nordsjælland. Lær blues, jazz og pop, forbedr din teknik og udforsk improvisation i små hold. Læs mere...]]></g:description>
@@ -8968,6 +8973,48 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Musik og sang</g:custom_label_1>
       <g:custom_label_2>Sang og stemmetræning</g:custom_label_2>
+      <g:custom_label_4>København</g:custom_label_4>
+      <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
+      <g:internal_label>['København K']</g:internal_label>
+    </item>
+<item>
+      <g:id>27150711</g:id>
+      <g:title><![CDATA[Sang – klassisk og rytmisk]]></g:title>
+      <g:description><![CDATA[Udvikl din stemme med sangundervisning i klassisk og rytmisk sang hos FOF København og Nordsjælland. Små hold med plads til dine ønsker. Læs mere her.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/sang-klassisk-og-rytmisk?holdnr=27150711</g:link>
+      <g:image_link>https://www.fof.dk/media/qbrbhxb1/kor-fof-aftenskolen-06.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>2995.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Musik og sang &gt; Sang og stemmetræning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Musik og sang</g:custom_label_1>
+      <g:custom_label_2>Sang og stemmetræning</g:custom_label_2>
+      <g:custom_label_4>København</g:custom_label_4>
+      <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
+      <g:internal_label>['København K']</g:internal_label>
+    </item>
+<item>
+      <g:id>27150195</g:id>
+      <g:title><![CDATA[Akustisk og rytmisk guitar]]></g:title>
+      <g:description><![CDATA[Lær at spille akustisk eller elektrisk guitar på guitarkursus hos FOF København og Nordsjælland. Styrk din teknik og spilleglæde på små hold. Tilmeld dig her.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/guitar?holdnr=27150195</g:link>
+      <g:image_link>https://www.fof.dk/media/xodgwjqb/akustisk-guitar-fofkn-aftenskolen-musik-og-sang.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>2995.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Musik og sang &gt; Strengeinstrumenter</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Musik og sang</g:custom_label_1>
+      <g:custom_label_2>Strengeinstrumenter</g:custom_label_2>
       <g:custom_label_4>København</g:custom_label_4>
       <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
       <g:internal_label>['København K']</g:internal_label>
@@ -9015,48 +9062,6 @@
       <g:internal_label>['København NV']</g:internal_label>
     </item>
 <item>
-      <g:id>27150195</g:id>
-      <g:title><![CDATA[Akustisk og rytmisk guitar]]></g:title>
-      <g:description><![CDATA[Lær at spille akustisk eller elektrisk guitar på guitarkursus hos FOF København og Nordsjælland. Styrk din teknik og spilleglæde på små hold. Tilmeld dig her.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/guitar?holdnr=27150195</g:link>
-      <g:image_link>https://www.fof.dk/media/xodgwjqb/akustisk-guitar-fofkn-aftenskolen-musik-og-sang.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>2995.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF København og Nordsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Musik og sang &gt; Strengeinstrumenter</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Musik og sang</g:custom_label_1>
-      <g:custom_label_2>Strengeinstrumenter</g:custom_label_2>
-      <g:custom_label_4>København</g:custom_label_4>
-      <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
-      <g:internal_label>['København K']</g:internal_label>
-    </item>
-<item>
-      <g:id>27150711</g:id>
-      <g:title><![CDATA[Sang – klassisk og rytmisk]]></g:title>
-      <g:description><![CDATA[Udvikl din stemme med sangundervisning i klassisk og rytmisk sang hos FOF København og Nordsjælland. Små hold med plads til dine ønsker. Læs mere her.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/sang-klassisk-og-rytmisk?holdnr=27150711</g:link>
-      <g:image_link>https://www.fof.dk/media/qbrbhxb1/kor-fof-aftenskolen-06.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>2995.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF København og Nordsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Musik og sang &gt; Sang og stemmetræning</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Musik og sang</g:custom_label_1>
-      <g:custom_label_2>Sang og stemmetræning</g:custom_label_2>
-      <g:custom_label_4>København</g:custom_label_4>
-      <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
-      <g:internal_label>['København K']</g:internal_label>
-    </item>
-<item>
       <g:id>27150656</g:id>
       <g:title><![CDATA[Klassisk sang – daghold]]></g:title>
       <g:description><![CDATA[Gå til klassisk sangundervisning hos FOF København og Nordsjælland – for begyndere og øvede. Træn teknik, klang og fortolkning med erfarne undervisere.]]></g:description>
@@ -9099,26 +9104,6 @@
       <g:internal_label>['København N']</g:internal_label>
     </item>
 <item>
-      <g:id>27150001</g:id>
-      <g:title><![CDATA[Klaver – daghold ]]></g:title>
-      <g:description><![CDATA[Lær at spille klaver på små hold med personlig vejledning. Flere lokationer i København og Nordsjælland. For voksne – begyndere og øvede. Find dit hold her.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/klaver?holdnr=27150001</g:link>
-      <g:image_link>https://www.fof.dk/media/fynlom0m/25.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>2995.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF København og Nordsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Musik og sang &gt; Klaver og harmonika</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Musik og sang</g:custom_label_1>
-      <g:custom_label_2>Klaver og harmonika</g:custom_label_2>
-      <g:custom_label_4></g:custom_label_4>
-      <g:start_date>2027-01-26T00:00:00.000Z</g:start_date>
-    </item>
-<item>
       <g:id>27151100</g:id>
       <g:title><![CDATA[Klaver – daghold ]]></g:title>
       <g:description><![CDATA[Lær at spille klaver på små hold med personlig vejledning. Flere lokationer i København og Nordsjælland. For voksne – begyndere og øvede. Find dit hold her.]]></g:description>
@@ -9138,6 +9123,26 @@
       <g:custom_label_4>Kongens Lyngby</g:custom_label_4>
       <g:start_date>2027-01-26T00:00:00.000Z</g:start_date>
       <g:internal_label>['Kongens Lyngby']</g:internal_label>
+    </item>
+<item>
+      <g:id>27150001</g:id>
+      <g:title><![CDATA[Klaver – daghold ]]></g:title>
+      <g:description><![CDATA[Lær at spille klaver på små hold med personlig vejledning. Flere lokationer i København og Nordsjælland. For voksne – begyndere og øvede. Find dit hold her.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/klaver?holdnr=27150001</g:link>
+      <g:image_link>https://www.fof.dk/media/fynlom0m/25.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>2995.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Musik og sang &gt; Klaver og harmonika</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Musik og sang</g:custom_label_1>
+      <g:custom_label_2>Klaver og harmonika</g:custom_label_2>
+      <g:custom_label_4></g:custom_label_4>
+      <g:start_date>2027-01-26T00:00:00.000Z</g:start_date>
     </item>
 <item>
       <g:id>27150378</g:id>
@@ -9290,27 +9295,6 @@
       <g:internal_label>['Hellerup']</g:internal_label>
     </item>
 <item>
-      <g:id>27150231</g:id>
-      <g:title><![CDATA[Komplet sangteknik – daghold]]></g:title>
-      <g:description><![CDATA[Lær at mestre din stemme med Cathrine Sadolins Komplet Sangteknik. Arbejd med klang, effekter og styrke på små hold med individuel vejledning. Læs mere.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/komplet-sangteknik?holdnr=27150231</g:link>
-      <g:image_link>https://www.fof.dk/media/5wadjfw3/rytmisk-sommercamp-2018-fofkn-aftenskolen-musik-og-sang-km-dsc07732.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>2995.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF København og Nordsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Musik og sang &gt; Sang og stemmetræning</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Musik og sang</g:custom_label_1>
-      <g:custom_label_2>Sang og stemmetræning</g:custom_label_2>
-      <g:custom_label_4>Kongens Lyngby</g:custom_label_4>
-      <g:start_date>2027-01-26T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Kongens Lyngby']</g:internal_label>
-    </item>
-<item>
       <g:id>27151196</g:id>
       <g:title><![CDATA[Mix og mastering]]></g:title>
       <g:description><![CDATA[Tag på et kursus i musikproduktion, hvor vi arbejder med mix og mastering, så du kan få bedre styr på lyd, balance og effekter i dine produktioner. Læs mere.]]></g:description>
@@ -9394,6 +9378,27 @@
       <g:start_date>2027-01-26T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Aftenskolernes Hus</g:custom_label_3>
       <g:internal_label>['Aftenskolernes Hus','In English','København NV']</g:internal_label>
+    </item>
+<item>
+      <g:id>27150231</g:id>
+      <g:title><![CDATA[Komplet sangteknik – daghold]]></g:title>
+      <g:description><![CDATA[Lær at mestre din stemme med Cathrine Sadolins Komplet Sangteknik. Arbejd med klang, effekter og styrke på små hold med individuel vejledning. Læs mere.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/komplet-sangteknik?holdnr=27150231</g:link>
+      <g:image_link>https://www.fof.dk/media/5wadjfw3/rytmisk-sommercamp-2018-fofkn-aftenskolen-musik-og-sang-km-dsc07732.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>2995.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Musik og sang &gt; Sang og stemmetræning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Musik og sang</g:custom_label_1>
+      <g:custom_label_2>Sang og stemmetræning</g:custom_label_2>
+      <g:custom_label_4>Kongens Lyngby</g:custom_label_4>
+      <g:start_date>2027-01-26T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Kongens Lyngby']</g:internal_label>
     </item>
 <item>
       <g:id>27150376</g:id>
@@ -9568,6 +9573,27 @@
       <g:internal_label>['København K']</g:internal_label>
     </item>
 <item>
+      <g:id>27150661</g:id>
+      <g:title><![CDATA[Klassisk sang – daghold]]></g:title>
+      <g:description><![CDATA[Gå til klassisk sangundervisning hos FOF København og Nordsjælland – for begyndere og øvede. Træn teknik, klang og fortolkning med erfarne undervisere.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/klassisk-sang?holdnr=27150661</g:link>
+      <g:image_link>https://www.fof.dk/media/gnufjoln/sangundervisning-fofkn-aftenskolen-musik-og-sang-stock-169496540-1.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>2995.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Musik og sang &gt; Sang og stemmetræning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Musik og sang</g:custom_label_1>
+      <g:custom_label_2>Sang og stemmetræning</g:custom_label_2>
+      <g:custom_label_4>København</g:custom_label_4>
+      <g:start_date>2027-01-26T00:00:00.000Z</g:start_date>
+      <g:internal_label>['København K']</g:internal_label>
+    </item>
+<item>
       <g:id>27150222</g:id>
       <g:title><![CDATA[Sang for brummere – daghold]]></g:title>
       <g:description><![CDATA[Få sangglæde og tryghed i stemmen gennem enkle øvelser og legende træning. Ingen erfaring kræves. Tilmeld dig hos FOF København og Nordsjælland.]]></g:description>
@@ -9672,48 +9698,6 @@
       <g:internal_label>['Hellerup']</g:internal_label>
     </item>
 <item>
-      <g:id>27150661</g:id>
-      <g:title><![CDATA[Klassisk sang – daghold]]></g:title>
-      <g:description><![CDATA[Gå til klassisk sangundervisning hos FOF København og Nordsjælland – for begyndere og øvede. Træn teknik, klang og fortolkning med erfarne undervisere.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/klassisk-sang?holdnr=27150661</g:link>
-      <g:image_link>https://www.fof.dk/media/gnufjoln/sangundervisning-fofkn-aftenskolen-musik-og-sang-stock-169496540-1.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>2995.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF København og Nordsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Musik og sang &gt; Sang og stemmetræning</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Musik og sang</g:custom_label_1>
-      <g:custom_label_2>Sang og stemmetræning</g:custom_label_2>
-      <g:custom_label_4>København</g:custom_label_4>
-      <g:start_date>2027-01-26T00:00:00.000Z</g:start_date>
-      <g:internal_label>['København K']</g:internal_label>
-    </item>
-<item>
-      <g:id>27151053</g:id>
-      <g:title><![CDATA[Rytmisk sang]]></g:title>
-      <g:description><![CDATA[Udvikl din stemme med sangundervisning i klassisk og rytmisk sang hos FOF København og Nordsjælland. Små hold med plads til dine ønsker. Læs mere her.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/sang-klassisk-og-rytmisk?holdnr=27151053</g:link>
-      <g:image_link>https://www.fof.dk/media/qbrbhxb1/kor-fof-aftenskolen-06.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>2795.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF København og Nordsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Musik og sang &gt; Sang og stemmetræning</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Musik og sang</g:custom_label_1>
-      <g:custom_label_2>Sang og stemmetræning</g:custom_label_2>
-      <g:custom_label_4>København</g:custom_label_4>
-      <g:start_date>2027-01-26T00:00:00.000Z</g:start_date>
-      <g:internal_label>['København K']</g:internal_label>
-    </item>
-<item>
       <g:id>27150946</g:id>
       <g:title><![CDATA[Akustisk og rytmisk guitar]]></g:title>
       <g:description><![CDATA[Lær at spille akustisk eller elektrisk guitar på guitarkursus hos FOF København og Nordsjælland. Styrk din teknik og spilleglæde på små hold. Tilmeld dig her.]]></g:description>
@@ -9751,6 +9735,27 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Musik og sang</g:custom_label_1>
       <g:custom_label_2>Strengeinstrumenter</g:custom_label_2>
+      <g:custom_label_4>København</g:custom_label_4>
+      <g:start_date>2027-01-26T00:00:00.000Z</g:start_date>
+      <g:internal_label>['København K']</g:internal_label>
+    </item>
+<item>
+      <g:id>27151053</g:id>
+      <g:title><![CDATA[Rytmisk sang]]></g:title>
+      <g:description><![CDATA[Udvikl din stemme med sangundervisning i klassisk og rytmisk sang hos FOF København og Nordsjælland. Små hold med plads til dine ønsker. Læs mere her.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/sang-klassisk-og-rytmisk?holdnr=27151053</g:link>
+      <g:image_link>https://www.fof.dk/media/qbrbhxb1/kor-fof-aftenskolen-06.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>2795.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Musik og sang &gt; Sang og stemmetræning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Musik og sang</g:custom_label_1>
+      <g:custom_label_2>Sang og stemmetræning</g:custom_label_2>
       <g:custom_label_4>København</g:custom_label_4>
       <g:start_date>2027-01-26T00:00:00.000Z</g:start_date>
       <g:internal_label>['København K']</g:internal_label>
@@ -9798,27 +9803,6 @@
       <g:internal_label>['København NV']</g:internal_label>
     </item>
 <item>
-      <g:id>27150233</g:id>
-      <g:title><![CDATA[Komplet sangteknik]]></g:title>
-      <g:description><![CDATA[Lær at mestre din stemme med Cathrine Sadolins Komplet Sangteknik. Arbejd med klang, effekter og styrke på små hold med individuel vejledning. Læs mere.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/komplet-sangteknik?holdnr=27150233</g:link>
-      <g:image_link>https://www.fof.dk/media/5wadjfw3/rytmisk-sommercamp-2018-fofkn-aftenskolen-musik-og-sang-km-dsc07732.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>2995.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF København og Nordsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Musik og sang &gt; Sang og stemmetræning</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Musik og sang</g:custom_label_1>
-      <g:custom_label_2>Sang og stemmetræning</g:custom_label_2>
-      <g:custom_label_4>Kongens Lyngby</g:custom_label_4>
-      <g:start_date>2027-01-26T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Kongens Lyngby']</g:internal_label>
-    </item>
-<item>
       <g:id>27150801</g:id>
       <g:title><![CDATA[Mundharpe (Diatonisk/Kromatisk)]]></g:title>
       <g:description><![CDATA[Kom til mundharpeundervisning for begyndere hos FOF København og Nordsjælland – uanset om du spiller kromatisk eller diatonisk mundharpe. Tilmeld dig her.]]></g:description>
@@ -9838,6 +9822,27 @@
       <g:custom_label_4>København</g:custom_label_4>
       <g:start_date>2027-01-26T00:00:00.000Z</g:start_date>
       <g:internal_label>['København K']</g:internal_label>
+    </item>
+<item>
+      <g:id>27150233</g:id>
+      <g:title><![CDATA[Komplet sangteknik]]></g:title>
+      <g:description><![CDATA[Lær at mestre din stemme med Cathrine Sadolins Komplet Sangteknik. Arbejd med klang, effekter og styrke på små hold med individuel vejledning. Læs mere.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/komplet-sangteknik?holdnr=27150233</g:link>
+      <g:image_link>https://www.fof.dk/media/5wadjfw3/rytmisk-sommercamp-2018-fofkn-aftenskolen-musik-og-sang-km-dsc07732.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>2995.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Musik og sang &gt; Sang og stemmetræning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Musik og sang</g:custom_label_1>
+      <g:custom_label_2>Sang og stemmetræning</g:custom_label_2>
+      <g:custom_label_4>Kongens Lyngby</g:custom_label_4>
+      <g:start_date>2027-01-26T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Kongens Lyngby']</g:internal_label>
     </item>
 <item>
       <g:id>27151052</g:id>
@@ -9903,6 +9908,27 @@
       <g:internal_label>['København K']</g:internal_label>
     </item>
 <item>
+      <g:id>27151030</g:id>
+      <g:title><![CDATA[Klassisk sang – daghold]]></g:title>
+      <g:description><![CDATA[Gå til klassisk sangundervisning hos FOF København og Nordsjælland – for begyndere og øvede. Træn teknik, klang og fortolkning med erfarne undervisere.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/klassisk-sang?holdnr=27151030</g:link>
+      <g:image_link>https://www.fof.dk/media/gnufjoln/sangundervisning-fofkn-aftenskolen-musik-og-sang-stock-169496540-1.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>2995.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Musik og sang &gt; Sang og stemmetræning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Musik og sang</g:custom_label_1>
+      <g:custom_label_2>Sang og stemmetræning</g:custom_label_2>
+      <g:custom_label_4>København</g:custom_label_4>
+      <g:start_date>2027-01-26T00:00:00.000Z</g:start_date>
+      <g:internal_label>['København K']</g:internal_label>
+    </item>
+<item>
       <g:id>27150620</g:id>
       <g:title><![CDATA[Brugsklaver og akkompagnement]]></g:title>
       <g:description><![CDATA[Lær at akkompagnere med sikkert becifringsspil. Fokus på teknik og musikalsk udtryk i små hold. Tilmeld dig hos FOF København og Nordsjælland.]]></g:description>
@@ -9932,27 +9958,6 @@
       <g:availability>in_stock</g:availability>
       <g:quantity>1</g:quantity>
       <g:price>2795.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF København og Nordsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Musik og sang &gt; Sang og stemmetræning</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Musik og sang</g:custom_label_1>
-      <g:custom_label_2>Sang og stemmetræning</g:custom_label_2>
-      <g:custom_label_4>København</g:custom_label_4>
-      <g:start_date>2027-01-26T00:00:00.000Z</g:start_date>
-      <g:internal_label>['København K']</g:internal_label>
-    </item>
-<item>
-      <g:id>27151030</g:id>
-      <g:title><![CDATA[Klassisk sang – daghold]]></g:title>
-      <g:description><![CDATA[Gå til klassisk sangundervisning hos FOF København og Nordsjælland – for begyndere og øvede. Træn teknik, klang og fortolkning med erfarne undervisere.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/klassisk-sang?holdnr=27151030</g:link>
-      <g:image_link>https://www.fof.dk/media/gnufjoln/sangundervisning-fofkn-aftenskolen-musik-og-sang-stock-169496540-1.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>2995.00 DKK</g:price>
       <g:condition>new</g:condition>
       <g:brand>FOF København og Nordsjælland</g:brand>
       <g:google_product_category>Education</g:google_product_category>
@@ -10051,6 +10056,49 @@
       <g:internal_label>['København N']</g:internal_label>
     </item>
 <item>
+      <g:id>27150495</g:id>
+      <g:title><![CDATA[Guitar – barn og voksen]]></g:title>
+      <g:description><![CDATA[Lær guitar sammen med dit barn eller barnebarn. Spil børnesange, pop og akustisk musik på et hyggeligt hold hos FOF København og Nordsjælland.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/guitar-voksne-og-boern-fra-6-aar?holdnr=27150495</g:link>
+      <g:image_link>https://www.fof.dk/media/3qjhdtpv/guitar-fofkn-aftenskolen-familie-stock-243988525.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>4050.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Familie, børn og unge &gt; Musik og sang</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Familie, børn og unge</g:custom_label_1>
+      <g:custom_label_2>Musik og sang</g:custom_label_2>
+      <g:custom_label_4>København</g:custom_label_4>
+      <g:start_date>2027-01-26T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Familie</g:custom_label_3>
+      <g:internal_label>['Familie','København K']</g:internal_label>
+    </item>
+<item>
+      <g:id>27150065</g:id>
+      <g:title><![CDATA[Sang for brummere – daghold ]]></g:title>
+      <g:description><![CDATA[Få sangglæde og tryghed i stemmen gennem enkle øvelser og legende træning. Ingen erfaring kræves. Tilmeld dig hos FOF København og Nordsjælland.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/sang-for-brummere?holdnr=27150065</g:link>
+      <g:image_link>https://www.fof.dk/media/qdfjurvy/korsang-fofkn-aftenskolen-musik-og-sang-km-img-6139.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1400.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Musik og sang &gt; Sang og stemmetræning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Musik og sang</g:custom_label_1>
+      <g:custom_label_2>Sang og stemmetræning</g:custom_label_2>
+      <g:custom_label_4>København</g:custom_label_4>
+      <g:start_date>2027-01-26T00:00:00.000Z</g:start_date>
+      <g:internal_label>['København K']</g:internal_label>
+    </item>
+<item>
       <g:id>27150964</g:id>
       <g:title><![CDATA[Cello – lige uger]]></g:title>
       <g:description><![CDATA[Lær cello fra bunden eller udvikl dit spil. Fokus på teknik, klang og musikalsk udtryk. Tilmeld dig hos FOF København og Nordsjælland.]]></g:description>
@@ -10133,7 +10181,6 @@
       <g:custom_label_2>Strengeinstrumenter</g:custom_label_2>
       <g:custom_label_4>København</g:custom_label_4>
       <g:start_date>2027-01-26T00:00:00.000Z</g:start_date>
-      <g:internal_label>['København K']</g:internal_label>
     </item>
 <item>
       <g:id>27151018</g:id>
@@ -10240,27 +10287,6 @@
       <g:internal_label>['København K']</g:internal_label>
     </item>
 <item>
-      <g:id>27150490</g:id>
-      <g:title><![CDATA[Akustisk og rytmisk guitar]]></g:title>
-      <g:description><![CDATA[Lær at spille akustisk eller elektrisk guitar på guitarkursus hos FOF København og Nordsjælland. Styrk din teknik og spilleglæde på små hold. Tilmeld dig her.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/guitar?holdnr=27150490</g:link>
-      <g:image_link>https://www.fof.dk/media/xodgwjqb/akustisk-guitar-fofkn-aftenskolen-musik-og-sang.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>2995.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF København og Nordsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Musik og sang &gt; Strengeinstrumenter</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Musik og sang</g:custom_label_1>
-      <g:custom_label_2>Strengeinstrumenter</g:custom_label_2>
-      <g:custom_label_4>København</g:custom_label_4>
-      <g:start_date>2027-01-26T00:00:00.000Z</g:start_date>
-      <g:internal_label>['København K']</g:internal_label>
-    </item>
-<item>
       <g:id>27150799</g:id>
       <g:title><![CDATA[Mundharmonika og bluesharpe – daghold]]></g:title>
       <g:description><![CDATA[Lær at spille mundharmonika og bluesharpe! Få styr på teknik, rytme og improvisation på et kursus for både begyndere og øvede. Tilmeld dig i dag.]]></g:description>
@@ -10301,6 +10327,27 @@
       <g:custom_label_4>København</g:custom_label_4>
       <g:start_date>2027-01-26T00:00:00.000Z</g:start_date>
       <g:internal_label>['København S']</g:internal_label>
+    </item>
+<item>
+      <g:id>27150490</g:id>
+      <g:title><![CDATA[Akustisk og rytmisk guitar]]></g:title>
+      <g:description><![CDATA[Lær at spille akustisk eller elektrisk guitar på guitarkursus hos FOF København og Nordsjælland. Styrk din teknik og spilleglæde på små hold. Tilmeld dig her.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/guitar?holdnr=27150490</g:link>
+      <g:image_link>https://www.fof.dk/media/xodgwjqb/akustisk-guitar-fofkn-aftenskolen-musik-og-sang.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>2995.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Musik og sang &gt; Strengeinstrumenter</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Musik og sang</g:custom_label_1>
+      <g:custom_label_2>Strengeinstrumenter</g:custom_label_2>
+      <g:custom_label_4>København</g:custom_label_4>
+      <g:start_date>2027-01-26T00:00:00.000Z</g:start_date>
+      <g:internal_label>['København K']</g:internal_label>
     </item>
 <item>
       <g:id>27150152</g:id>
@@ -10409,27 +10456,6 @@
       <g:internal_label>['Familie']</g:internal_label>
     </item>
 <item>
-      <g:id>27150091</g:id>
-      <g:title><![CDATA[Klassisk klaver]]></g:title>
-      <g:description><![CDATA[Lær at spille klaver på små hold med personlig vejledning. Flere lokationer i København og Nordsjælland. For voksne – begyndere og øvede. Find dit hold her.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/klaver?holdnr=27150091</g:link>
-      <g:image_link>https://www.fof.dk/media/fynlom0m/25.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>2995.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF København og Nordsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Musik og sang &gt; Klaver og harmonika</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Musik og sang</g:custom_label_1>
-      <g:custom_label_2>Klaver og harmonika</g:custom_label_2>
-      <g:custom_label_4>København</g:custom_label_4>
-      <g:start_date>2027-01-26T00:00:00.000Z</g:start_date>
-      <g:internal_label>['København NV']</g:internal_label>
-    </item>
-<item>
       <g:id>27150566</g:id>
       <g:title><![CDATA[Classical Singing]]></g:title>
       <g:description><![CDATA[Learn classical singing, stage training and personal vocal development. For all levels. Join FOF København og Nordsjælland.]]></g:description>
@@ -10472,6 +10498,27 @@
       <g:start_date>2027-01-26T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Aftenskolernes Hus</g:custom_label_3>
       <g:internal_label>['Aftenskolernes Hus','In English','København NV']</g:internal_label>
+    </item>
+<item>
+      <g:id>27150091</g:id>
+      <g:title><![CDATA[Klassisk klaver]]></g:title>
+      <g:description><![CDATA[Lær at spille klaver på små hold med personlig vejledning. Flere lokationer i København og Nordsjælland. For voksne – begyndere og øvede. Find dit hold her.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/klaver?holdnr=27150091</g:link>
+      <g:image_link>https://www.fof.dk/media/fynlom0m/25.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>2995.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Musik og sang &gt; Klaver og harmonika</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Musik og sang</g:custom_label_1>
+      <g:custom_label_2>Klaver og harmonika</g:custom_label_2>
+      <g:custom_label_4>København</g:custom_label_4>
+      <g:start_date>2027-01-26T00:00:00.000Z</g:start_date>
+      <g:internal_label>['København NV']</g:internal_label>
     </item>
 <item>
       <g:id>27150658</g:id>
@@ -10559,27 +10606,6 @@
       <g:internal_label>['København V']</g:internal_label>
     </item>
 <item>
-      <g:id>27150327</g:id>
-      <g:title><![CDATA[Klassisk klaver]]></g:title>
-      <g:description><![CDATA[Lær at spille klaver på små hold med personlig vejledning. Flere lokationer i København og Nordsjælland. For voksne – begyndere og øvede. Find dit hold her.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/klaver?holdnr=27150327</g:link>
-      <g:image_link>https://www.fof.dk/media/fynlom0m/25.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>2395.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF København og Nordsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Musik og sang &gt; Klaver og harmonika</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Musik og sang</g:custom_label_1>
-      <g:custom_label_2>Klaver og harmonika</g:custom_label_2>
-      <g:custom_label_4>Helsingør</g:custom_label_4>
-      <g:start_date>2027-01-26T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Helsingør']</g:internal_label>
-    </item>
-<item>
       <g:id>27151099</g:id>
       <g:title><![CDATA[Klaver – daghold ]]></g:title>
       <g:description><![CDATA[Lær at spille klaver på små hold med personlig vejledning. Flere lokationer i København og Nordsjælland. For voksne – begyndere og øvede. Find dit hold her.]]></g:description>
@@ -10599,6 +10625,27 @@
       <g:custom_label_4>Kongens Lyngby</g:custom_label_4>
       <g:start_date>2027-01-26T00:00:00.000Z</g:start_date>
       <g:internal_label>['Kongens Lyngby']</g:internal_label>
+    </item>
+<item>
+      <g:id>27150327</g:id>
+      <g:title><![CDATA[Klassisk klaver]]></g:title>
+      <g:description><![CDATA[Lær at spille klaver på små hold med personlig vejledning. Flere lokationer i København og Nordsjælland. For voksne – begyndere og øvede. Find dit hold her.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/klaver?holdnr=27150327</g:link>
+      <g:image_link>https://www.fof.dk/media/fynlom0m/25.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>2395.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Musik og sang &gt; Klaver og harmonika</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Musik og sang</g:custom_label_1>
+      <g:custom_label_2>Klaver og harmonika</g:custom_label_2>
+      <g:custom_label_4>Helsingør</g:custom_label_4>
+      <g:start_date>2027-01-26T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Helsingør']</g:internal_label>
     </item>
 <item>
       <g:id>27150810</g:id>
@@ -10643,27 +10690,6 @@
       <g:internal_label>['København S']</g:internal_label>
     </item>
 <item>
-      <g:id>27151171</g:id>
-      <g:title><![CDATA[Elektronisk musikproduktion]]></g:title>
-      <g:description><![CDATA[Tag et kursus i elektronisk musikproduktion hos FOF København og Nordsjælland. Arbejd med lyd, sampling, mixing og workflow i din foretrukne DAW. Læs mere her.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/elektronisk-musikproduktion?holdnr=27151171</g:link>
-      <g:image_link>https://www.fof.dk/media/uzac5x5w/elektronisk-musikproduktion-fofkn-aftenskolen-musik-og-sang-7-km.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1795.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF København og Nordsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Musik og sang &gt; Musikteori og -produktion</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Musik og sang</g:custom_label_1>
-      <g:custom_label_2>Musikteori og -produktion</g:custom_label_2>
-      <g:custom_label_4>København</g:custom_label_4>
-      <g:start_date>2027-01-27T00:00:00.000Z</g:start_date>
-      <g:internal_label>['København K']</g:internal_label>
-    </item>
-<item>
       <g:id>27150428</g:id>
       <g:title><![CDATA[Knap- og pianoharmonika]]></g:title>
       <g:description><![CDATA[Lær at spille harmonika i dit eget tempo. Undervisning i knap- og pianoharmonika for både begyndere og øvede. Tilmeld dig hos FOF København og Nordsjælland.]]></g:description>
@@ -10683,6 +10709,27 @@
       <g:custom_label_4>Hellerup</g:custom_label_4>
       <g:start_date>2027-01-27T00:00:00.000Z</g:start_date>
       <g:internal_label>['Hellerup']</g:internal_label>
+    </item>
+<item>
+      <g:id>27151171</g:id>
+      <g:title><![CDATA[Elektronisk musikproduktion]]></g:title>
+      <g:description><![CDATA[Tag et kursus i elektronisk musikproduktion hos FOF København og Nordsjælland. Arbejd med lyd, sampling, mixing og workflow i din foretrukne DAW. Læs mere her.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/elektronisk-musikproduktion?holdnr=27151171</g:link>
+      <g:image_link>https://www.fof.dk/media/uzac5x5w/elektronisk-musikproduktion-fofkn-aftenskolen-musik-og-sang-7-km.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1795.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Musik og sang &gt; Musikteori og -produktion</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Musik og sang</g:custom_label_1>
+      <g:custom_label_2>Musikteori og -produktion</g:custom_label_2>
+      <g:custom_label_4>København</g:custom_label_4>
+      <g:start_date>2027-01-27T00:00:00.000Z</g:start_date>
+      <g:internal_label>['København K']</g:internal_label>
     </item>
 <item>
       <g:id>27151060</g:id>
@@ -10814,28 +10861,6 @@
       <g:internal_label>['København K']</g:internal_label>
     </item>
 <item>
-      <g:id>27113509</g:id>
-      <g:title><![CDATA[Kvinder på Borgen – repræsentation i politik og kunst]]></g:title>
-      <g:description><![CDATA[Kom på rundvisning i Folketinget og oplev Mie Mørkebergs portræt af 30 kvindelige politikere. Få et unikt indblik i kvinders rolle i politik. Tilmeld dig her.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/kvinder-paa-borgen-repraesentation-i-politik-og-kunst?holdnr=27113509</g:link>
-      <g:image_link>https://www.fof.dk/media/f2xbfszf/kvinderne-pa-borgen-fofkn-aftenskolen-ture.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>75.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF København og Nordsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Rejser, ture og rundvisninger &gt; Rundvisninger</g:product_type>
-      <g:custom_label_0>Rejser, ture og rundvisninger</g:custom_label_0>
-      <g:custom_label_1>Rundvisninger</g:custom_label_1>
-      <g:custom_label_2></g:custom_label_2>
-      <g:custom_label_4>København</g:custom_label_4>
-      <g:start_date>2027-01-27T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Ture og rundvisninger</g:custom_label_3>
-      <g:internal_label>['Ture og rundvisninger','København K']</g:internal_label>
-    </item>
-<item>
       <g:id>27150682</g:id>
       <g:title><![CDATA[Tværfløjte – daghold ]]></g:title>
       <g:description><![CDATA[Lær at spille tværfløjte på små hold med plads til personlig vejledning og udvikling i eget tempo. Kurset henvender sig både til begyndere og øvede. Læs mere.]]></g:description>
@@ -10876,6 +10901,28 @@
       <g:custom_label_4>København</g:custom_label_4>
       <g:start_date>2027-01-27T00:00:00.000Z</g:start_date>
       <g:internal_label>['København K']</g:internal_label>
+    </item>
+<item>
+      <g:id>27113509</g:id>
+      <g:title><![CDATA[Kvinder på Borgen – repræsentation i politik og kunst]]></g:title>
+      <g:description><![CDATA[Kom på rundvisning i Folketinget og oplev Mie Mørkebergs portræt af 30 kvindelige politikere. Få et unikt indblik i kvinders rolle i politik. Tilmeld dig her.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/kvinder-paa-borgen-repraesentation-i-politik-og-kunst?holdnr=27113509</g:link>
+      <g:image_link>https://www.fof.dk/media/f2xbfszf/kvinderne-pa-borgen-fofkn-aftenskolen-ture.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>75.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Rejser, ture og rundvisninger &gt; Rundvisninger</g:product_type>
+      <g:custom_label_0>Rejser, ture og rundvisninger</g:custom_label_0>
+      <g:custom_label_1>Rundvisninger</g:custom_label_1>
+      <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>København</g:custom_label_4>
+      <g:start_date>2027-01-27T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Ture og rundvisninger</g:custom_label_3>
+      <g:internal_label>['Ture og rundvisninger','København K']</g:internal_label>
     </item>
 <item>
       <g:id>27150605</g:id>
@@ -11004,48 +11051,6 @@
       <g:internal_label>['København K']</g:internal_label>
     </item>
 <item>
-      <g:id>27150491</g:id>
-      <g:title><![CDATA[Akustisk og rytmisk guitar]]></g:title>
-      <g:description><![CDATA[Lær at spille akustisk eller elektrisk guitar på guitarkursus hos FOF København og Nordsjælland. Styrk din teknik og spilleglæde på små hold. Tilmeld dig her.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/guitar?holdnr=27150491</g:link>
-      <g:image_link>https://www.fof.dk/media/xodgwjqb/akustisk-guitar-fofkn-aftenskolen-musik-og-sang.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>2995.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF København og Nordsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Musik og sang &gt; Strengeinstrumenter</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Musik og sang</g:custom_label_1>
-      <g:custom_label_2>Strengeinstrumenter</g:custom_label_2>
-      <g:custom_label_4>København</g:custom_label_4>
-      <g:start_date>2027-01-27T00:00:00.000Z</g:start_date>
-      <g:internal_label>['København K']</g:internal_label>
-    </item>
-<item>
-      <g:id>27150073</g:id>
-      <g:title><![CDATA[Sang – klassisk og rytmisk – daghold]]></g:title>
-      <g:description><![CDATA[Udvikl din stemme med sangundervisning i klassisk og rytmisk sang hos FOF København og Nordsjælland. Små hold med plads til dine ønsker. Læs mere her.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/sang-klassisk-og-rytmisk?holdnr=27150073</g:link>
-      <g:image_link>https://www.fof.dk/media/qbrbhxb1/kor-fof-aftenskolen-06.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1400.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF København og Nordsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Musik og sang &gt; Sang og stemmetræning</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Musik og sang</g:custom_label_1>
-      <g:custom_label_2>Sang og stemmetræning</g:custom_label_2>
-      <g:custom_label_4>København</g:custom_label_4>
-      <g:start_date>2027-01-27T00:00:00.000Z</g:start_date>
-      <g:internal_label>['København K']</g:internal_label>
-    </item>
-<item>
       <g:id>27151031</g:id>
       <g:title><![CDATA[Klassisk sang – daghold]]></g:title>
       <g:description><![CDATA[Gå til klassisk sangundervisning hos FOF København og Nordsjælland – for begyndere og øvede. Træn teknik, klang og fortolkning med erfarne undervisere.]]></g:description>
@@ -11075,6 +11080,48 @@
       <g:availability>in_stock</g:availability>
       <g:quantity>1</g:quantity>
       <g:price>2995.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Musik og sang &gt; Sang og stemmetræning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Musik og sang</g:custom_label_1>
+      <g:custom_label_2>Sang og stemmetræning</g:custom_label_2>
+      <g:custom_label_4>København</g:custom_label_4>
+      <g:start_date>2027-01-27T00:00:00.000Z</g:start_date>
+      <g:internal_label>['København K']</g:internal_label>
+    </item>
+<item>
+      <g:id>27150491</g:id>
+      <g:title><![CDATA[Akustisk og rytmisk guitar]]></g:title>
+      <g:description><![CDATA[Lær at spille akustisk eller elektrisk guitar på guitarkursus hos FOF København og Nordsjælland. Styrk din teknik og spilleglæde på små hold. Tilmeld dig her.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/guitar?holdnr=27150491</g:link>
+      <g:image_link>https://www.fof.dk/media/xodgwjqb/akustisk-guitar-fofkn-aftenskolen-musik-og-sang.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>2995.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Musik og sang &gt; Strengeinstrumenter</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Musik og sang</g:custom_label_1>
+      <g:custom_label_2>Strengeinstrumenter</g:custom_label_2>
+      <g:custom_label_4>København</g:custom_label_4>
+      <g:start_date>2027-01-27T00:00:00.000Z</g:start_date>
+      <g:internal_label>['København K']</g:internal_label>
+    </item>
+<item>
+      <g:id>27150073</g:id>
+      <g:title><![CDATA[Sang – klassisk og rytmisk – daghold]]></g:title>
+      <g:description><![CDATA[Udvikl din stemme med sangundervisning i klassisk og rytmisk sang hos FOF København og Nordsjælland. Små hold med plads til dine ønsker. Læs mere her.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/sang-klassisk-og-rytmisk?holdnr=27150073</g:link>
+      <g:image_link>https://www.fof.dk/media/qbrbhxb1/kor-fof-aftenskolen-06.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1400.00 DKK</g:price>
       <g:condition>new</g:condition>
       <g:brand>FOF København og Nordsjælland</g:brand>
       <g:google_product_category>Education</g:google_product_category>
@@ -11317,27 +11364,6 @@
       <g:internal_label>['København K']</g:internal_label>
     </item>
 <item>
-      <g:id>27150197</g:id>
-      <g:title><![CDATA[Akustisk og rytmisk guitar – daghold ]]></g:title>
-      <g:description><![CDATA[Lær at spille akustisk eller elektrisk guitar på guitarkursus hos FOF København og Nordsjælland. Styrk din teknik og spilleglæde på små hold. Tilmeld dig her.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/guitar?holdnr=27150197</g:link>
-      <g:image_link>https://www.fof.dk/media/xodgwjqb/akustisk-guitar-fofkn-aftenskolen-musik-og-sang.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>2995.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF København og Nordsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Musik og sang &gt; Strengeinstrumenter</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Musik og sang</g:custom_label_1>
-      <g:custom_label_2>Strengeinstrumenter</g:custom_label_2>
-      <g:custom_label_4>København</g:custom_label_4>
-      <g:start_date>2027-01-27T00:00:00.000Z</g:start_date>
-      <g:internal_label>['København K']</g:internal_label>
-    </item>
-<item>
       <g:id>27151032</g:id>
       <g:title><![CDATA[Klassisk sang – daghold]]></g:title>
       <g:description><![CDATA[Gå til klassisk sangundervisning hos FOF København og Nordsjælland – for begyndere og øvede. Træn teknik, klang og fortolkning med erfarne undervisere.]]></g:description>
@@ -11401,6 +11427,69 @@
       <g:internal_label>['København S']</g:internal_label>
     </item>
 <item>
+      <g:id>27150197</g:id>
+      <g:title><![CDATA[Akustisk og rytmisk guitar – daghold ]]></g:title>
+      <g:description><![CDATA[Lær at spille akustisk eller elektrisk guitar på guitarkursus hos FOF København og Nordsjælland. Styrk din teknik og spilleglæde på små hold. Tilmeld dig her.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/guitar?holdnr=27150197</g:link>
+      <g:image_link>https://www.fof.dk/media/xodgwjqb/akustisk-guitar-fofkn-aftenskolen-musik-og-sang.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>2995.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Musik og sang &gt; Strengeinstrumenter</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Musik og sang</g:custom_label_1>
+      <g:custom_label_2>Strengeinstrumenter</g:custom_label_2>
+      <g:custom_label_4>København</g:custom_label_4>
+      <g:start_date>2027-01-27T00:00:00.000Z</g:start_date>
+      <g:internal_label>['København K']</g:internal_label>
+    </item>
+<item>
+      <g:id>27150736</g:id>
+      <g:title><![CDATA[Klaver]]></g:title>
+      <g:description><![CDATA[Lær at spille klaver på små hold med personlig vejledning. Flere lokationer i København og Nordsjælland. For voksne – begyndere og øvede. Find dit hold her.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/klaver?holdnr=27150736</g:link>
+      <g:image_link>https://www.fof.dk/media/fynlom0m/25.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>2795.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Musik og sang &gt; Klaver og harmonika</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Musik og sang</g:custom_label_1>
+      <g:custom_label_2>Klaver og harmonika</g:custom_label_2>
+      <g:custom_label_4>Kongens Lyngby</g:custom_label_4>
+      <g:start_date>2027-01-27T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Kongens Lyngby']</g:internal_label>
+    </item>
+<item>
+      <g:id>27150163</g:id>
+      <g:title><![CDATA[Elguitar]]></g:title>
+      <g:description><![CDATA[Lær at spille akustisk eller elektrisk guitar på guitarkursus hos FOF København og Nordsjælland. Styrk din teknik og spilleglæde på små hold. Tilmeld dig her.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/guitar?holdnr=27150163</g:link>
+      <g:image_link>https://www.fof.dk/media/xodgwjqb/akustisk-guitar-fofkn-aftenskolen-musik-og-sang.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>2995.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Musik og sang &gt; Strengeinstrumenter</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Musik og sang</g:custom_label_1>
+      <g:custom_label_2>Strengeinstrumenter</g:custom_label_2>
+      <g:custom_label_4>København</g:custom_label_4>
+      <g:start_date>2027-01-27T00:00:00.000Z</g:start_date>
+      <g:internal_label>['København K']</g:internal_label>
+    </item>
+<item>
       <g:id>27150717</g:id>
       <g:title><![CDATA[Bladsang/nodelære for korsangere]]></g:title>
       <g:description><![CDATA[Bliv bedre til at læse noder og synge fra nodehæftet. Få styr på bladsang og hørelære med træning målrettet korsanger. Læs mere om kurset her.]]></g:description>
@@ -11419,7 +11508,6 @@
       <g:custom_label_2>Sang og stemmetræning</g:custom_label_2>
       <g:custom_label_4>København</g:custom_label_4>
       <g:start_date>2027-01-27T00:00:00.000Z</g:start_date>
-      <g:internal_label>['København K']</g:internal_label>
     </item>
 <item>
       <g:id>27150199</g:id>
@@ -11529,6 +11617,27 @@
       <g:internal_label>['Aftenskolernes Hus','København NV']</g:internal_label>
     </item>
 <item>
+      <g:id>27150461</g:id>
+      <g:title><![CDATA[Harmonika]]></g:title>
+      <g:description><![CDATA[Lær at spille harmonika i dit eget tempo. Undervisning i knap- og pianoharmonika for både begyndere og øvede. Tilmeld dig hos FOF København og Nordsjælland.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/harmonika?holdnr=27150461</g:link>
+      <g:image_link>https://www.fof.dk/media/reqja30v/harmonika-fofkn-aftenskolen-musik-og-sang-1-ns.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>2395.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Musik og sang &gt; Klaver og harmonika</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Musik og sang</g:custom_label_1>
+      <g:custom_label_2>Klaver og harmonika</g:custom_label_2>
+      <g:custom_label_4>Charlottenlund</g:custom_label_4>
+      <g:start_date>2027-01-27T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Charlottenlund']</g:internal_label>
+    </item>
+<item>
       <g:id>27150624</g:id>
       <g:title><![CDATA[Klaver]]></g:title>
       <g:description><![CDATA[Lær at spille klaver på små hold med personlig vejledning. Flere lokationer i København og Nordsjælland. For voksne – begyndere og øvede. Find dit hold her.]]></g:description>
@@ -11569,27 +11678,6 @@
       <g:custom_label_4>København</g:custom_label_4>
       <g:start_date>2027-01-27T00:00:00.000Z</g:start_date>
       <g:internal_label>['København K']</g:internal_label>
-    </item>
-<item>
-      <g:id>27150461</g:id>
-      <g:title><![CDATA[Harmonika]]></g:title>
-      <g:description><![CDATA[Lær at spille harmonika i dit eget tempo. Undervisning i knap- og pianoharmonika for både begyndere og øvede. Tilmeld dig hos FOF København og Nordsjælland.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/harmonika?holdnr=27150461</g:link>
-      <g:image_link>https://www.fof.dk/media/reqja30v/harmonika-fofkn-aftenskolen-musik-og-sang-1-ns.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>2395.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF København og Nordsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Musik og sang &gt; Klaver og harmonika</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Musik og sang</g:custom_label_1>
-      <g:custom_label_2>Klaver og harmonika</g:custom_label_2>
-      <g:custom_label_4>Charlottenlund</g:custom_label_4>
-      <g:start_date>2027-01-27T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Charlottenlund']</g:internal_label>
     </item>
 <item>
       <g:id>27150695</g:id>
@@ -12016,27 +12104,6 @@
       <g:internal_label>['Værløse']</g:internal_label>
     </item>
 <item>
-      <g:id>27150548</g:id>
-      <g:title><![CDATA[Stemme, krop og sind]]></g:title>
-      <g:description><![CDATA[Udforsk din stemme og styrk forbindelsen til dig selv og andre. På kurset arbejder vi med sang, improvisation og bevægelse i et trygt fællesskab. Læs mere.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/stemme-krop-og-sind?holdnr=27150548</g:link>
-      <g:image_link>https://www.fof.dk/media/s1bnnzmm/stemme-krop-og-sind-stock-pexels.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>2230.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF København og Nordsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Musik og sang &gt; Sang og stemmetræning</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Musik og sang</g:custom_label_1>
-      <g:custom_label_2>Sang og stemmetræning</g:custom_label_2>
-      <g:custom_label_4>København</g:custom_label_4>
-      <g:start_date>2027-01-28T00:00:00.000Z</g:start_date>
-      <g:internal_label>['København V']</g:internal_label>
-    </item>
-<item>
       <g:id>27150130</g:id>
       <g:title><![CDATA[Klaver for begyndere]]></g:title>
       <g:description><![CDATA[Lær at spille klaver på FOF København og Nordsjællands kurser i klaver for begyndere. Små hold med 2-3 deltagere og plads til personlig udvikling. Læs mere.]]></g:description>
@@ -12058,25 +12125,25 @@
       <g:internal_label>['København S']</g:internal_label>
     </item>
 <item>
-      <g:id>27150931</g:id>
-      <g:title><![CDATA[Klaver – daghold ]]></g:title>
-      <g:description><![CDATA[Lær at spille klaver på små hold med personlig vejledning. Flere lokationer i København og Nordsjælland. For voksne – begyndere og øvede. Find dit hold her.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/klaver?holdnr=27150931</g:link>
-      <g:image_link>https://www.fof.dk/media/fynlom0m/25.jpg?width=1200</g:image_link>
+      <g:id>27150548</g:id>
+      <g:title><![CDATA[Stemme, krop og sind]]></g:title>
+      <g:description><![CDATA[Udforsk din stemme og styrk forbindelsen til dig selv og andre. På kurset arbejder vi med sang, improvisation og bevægelse i et trygt fællesskab. Læs mere.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/stemme-krop-og-sind?holdnr=27150548</g:link>
+      <g:image_link>https://www.fof.dk/media/s1bnnzmm/stemme-krop-og-sind-stock-pexels.jpg?width=1200</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:quantity>1</g:quantity>
-      <g:price>2995.00 DKK</g:price>
+      <g:price>2230.00 DKK</g:price>
       <g:condition>new</g:condition>
       <g:brand>FOF København og Nordsjælland</g:brand>
       <g:google_product_category>Education</g:google_product_category>
       <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Musik og sang &gt; Klaver og harmonika</g:product_type>
+      <g:product_type>Kurser &gt; Musik og sang &gt; Sang og stemmetræning</g:product_type>
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Musik og sang</g:custom_label_1>
-      <g:custom_label_2>Klaver og harmonika</g:custom_label_2>
-      <g:custom_label_4>Kongens Lyngby</g:custom_label_4>
+      <g:custom_label_2>Sang og stemmetræning</g:custom_label_2>
+      <g:custom_label_4>København</g:custom_label_4>
       <g:start_date>2027-01-28T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Kongens Lyngby']</g:internal_label>
+      <g:internal_label>['København V']</g:internal_label>
     </item>
 <item>
       <g:id>27151040</g:id>
@@ -12119,6 +12186,27 @@
       <g:custom_label_4>København</g:custom_label_4>
       <g:start_date>2027-01-28T00:00:00.000Z</g:start_date>
       <g:internal_label>['København K']</g:internal_label>
+    </item>
+<item>
+      <g:id>27150931</g:id>
+      <g:title><![CDATA[Klaver – daghold ]]></g:title>
+      <g:description><![CDATA[Lær at spille klaver på små hold med personlig vejledning. Flere lokationer i København og Nordsjælland. For voksne – begyndere og øvede. Find dit hold her.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/klaver?holdnr=27150931</g:link>
+      <g:image_link>https://www.fof.dk/media/fynlom0m/25.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>2995.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Musik og sang &gt; Klaver og harmonika</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Musik og sang</g:custom_label_1>
+      <g:custom_label_2>Klaver og harmonika</g:custom_label_2>
+      <g:custom_label_4>Kongens Lyngby</g:custom_label_4>
+      <g:start_date>2027-01-28T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Kongens Lyngby']</g:internal_label>
     </item>
 <item>
       <g:id>27151148</g:id>
@@ -12205,49 +12293,6 @@
       <g:internal_label>['Charlottenlund']</g:internal_label>
     </item>
 <item>
-      <g:id>27150241</g:id>
-      <g:title><![CDATA[Sang – klassisk og rytmisk – daghold ]]></g:title>
-      <g:description><![CDATA[Udvikl din stemme med sangundervisning i klassisk og rytmisk sang hos FOF København og Nordsjælland. Små hold med plads til dine ønsker. Læs mere her.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/sang-klassisk-og-rytmisk?holdnr=27150241</g:link>
-      <g:image_link>https://www.fof.dk/media/qbrbhxb1/kor-fof-aftenskolen-06.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>2995.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF København og Nordsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Musik og sang &gt; Sang og stemmetræning</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Musik og sang</g:custom_label_1>
-      <g:custom_label_2>Sang og stemmetræning</g:custom_label_2>
-      <g:custom_label_4>København</g:custom_label_4>
-      <g:start_date>2027-01-28T00:00:00.000Z</g:start_date>
-      <g:internal_label>['København K']</g:internal_label>
-    </item>
-<item>
-      <g:id>27150775</g:id>
-      <g:title><![CDATA[Komplet sangteknik]]></g:title>
-      <g:description><![CDATA[Lær at mestre din stemme med Cathrine Sadolins Komplet Sangteknik. Arbejd med klang, effekter og styrke på små hold med individuel vejledning. Læs mere.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/komplet-sangteknik?holdnr=27150775</g:link>
-      <g:image_link>https://www.fof.dk/media/5wadjfw3/rytmisk-sommercamp-2018-fofkn-aftenskolen-musik-og-sang-km-dsc07732.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1600.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF København og Nordsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Musik og sang &gt; Sang og stemmetræning</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Musik og sang</g:custom_label_1>
-      <g:custom_label_2>Sang og stemmetræning</g:custom_label_2>
-      <g:custom_label_4>Frederiksberg</g:custom_label_4>
-      <g:start_date>2027-01-28T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Frederiksberg</g:custom_label_3>
-      <g:internal_label>['Frederiksberg']</g:internal_label>
-    </item>
-<item>
       <g:id>27151039</g:id>
       <g:title><![CDATA[Klassisk sang – daghold]]></g:title>
       <g:description><![CDATA[Gå til klassisk sangundervisning hos FOF København og Nordsjælland – for begyndere og øvede. Træn teknik, klang og fortolkning med erfarne undervisere.]]></g:description>
@@ -12291,6 +12336,91 @@
       <g:internal_label>['Gribskov','Helsinge']</g:internal_label>
     </item>
 <item>
+      <g:id>27150241</g:id>
+      <g:title><![CDATA[Sang – klassisk og rytmisk – daghold ]]></g:title>
+      <g:description><![CDATA[Udvikl din stemme med sangundervisning i klassisk og rytmisk sang hos FOF København og Nordsjælland. Små hold med plads til dine ønsker. Læs mere her.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/sang-klassisk-og-rytmisk?holdnr=27150241</g:link>
+      <g:image_link>https://www.fof.dk/media/qbrbhxb1/kor-fof-aftenskolen-06.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>2995.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Musik og sang &gt; Sang og stemmetræning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Musik og sang</g:custom_label_1>
+      <g:custom_label_2>Sang og stemmetræning</g:custom_label_2>
+      <g:custom_label_4>København</g:custom_label_4>
+      <g:start_date>2027-01-28T00:00:00.000Z</g:start_date>
+      <g:internal_label>['København K']</g:internal_label>
+    </item>
+<item>
+      <g:id>27150775</g:id>
+      <g:title><![CDATA[Komplet sangteknik]]></g:title>
+      <g:description><![CDATA[Lær at mestre din stemme med Cathrine Sadolins Komplet Sangteknik. Arbejd med klang, effekter og styrke på små hold med individuel vejledning. Læs mere.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/komplet-sangteknik?holdnr=27150775</g:link>
+      <g:image_link>https://www.fof.dk/media/5wadjfw3/rytmisk-sommercamp-2018-fofkn-aftenskolen-musik-og-sang-km-dsc07732.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1600.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Musik og sang &gt; Sang og stemmetræning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Musik og sang</g:custom_label_1>
+      <g:custom_label_2>Sang og stemmetræning</g:custom_label_2>
+      <g:custom_label_4>Frederiksberg</g:custom_label_4>
+      <g:start_date>2027-01-28T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Frederiksberg</g:custom_label_3>
+      <g:internal_label>['Frederiksberg']</g:internal_label>
+    </item>
+<item>
+      <g:id>27150930</g:id>
+      <g:title><![CDATA[Klaver – daghold ]]></g:title>
+      <g:description><![CDATA[Lær at spille klaver på små hold med personlig vejledning. Flere lokationer i København og Nordsjælland. For voksne – begyndere og øvede. Find dit hold her.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/klaver?holdnr=27150930</g:link>
+      <g:image_link>https://www.fof.dk/media/fynlom0m/25.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>2995.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Musik og sang &gt; Klaver og harmonika</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Musik og sang</g:custom_label_1>
+      <g:custom_label_2>Klaver og harmonika</g:custom_label_2>
+      <g:custom_label_4>Kongens Lyngby</g:custom_label_4>
+      <g:start_date>2027-01-28T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Kongens Lyngby']</g:internal_label>
+    </item>
+<item>
+      <g:id>27150863</g:id>
+      <g:title><![CDATA[Saxofon]]></g:title>
+      <g:description><![CDATA[Lær at spille saxofon fra bunden eller finpuds teknik, rytmik og musikalitet til saxofonundervisning hos FOF København og Nordsjælland. Tilmeld dig her.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/saxofon?holdnr=27150863</g:link>
+      <g:image_link>https://www.fof.dk/media/fumnia31/blaeseinstrumenter-fofkn-aftenskolen-musik-og-sang-2.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>2795.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Musik og sang &gt; Blæsere</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Musik og sang</g:custom_label_1>
+      <g:custom_label_2>Blæsere</g:custom_label_2>
+      <g:custom_label_4>Kongens Lyngby</g:custom_label_4>
+      <g:start_date>2027-01-28T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Kongens Lyngby']</g:internal_label>
+    </item>
+<item>
       <g:id>27150126</g:id>
       <g:title><![CDATA[Tværfløjte og blokfløjte – lige uger]]></g:title>
       <g:description><![CDATA[Lær at spille tværfløjte på små hold med plads til personlig vejledning og udvikling i eget tempo. Kurset henvender sig både til begyndere og øvede. Læs mere.]]></g:description>
@@ -12331,7 +12461,6 @@
       <g:custom_label_2>Strengeinstrumenter</g:custom_label_2>
       <g:custom_label_4>København</g:custom_label_4>
       <g:start_date>2027-01-28T00:00:00.000Z</g:start_date>
-      <g:internal_label>['København K']</g:internal_label>
     </item>
 <item>
       <g:id>27150132</g:id>
@@ -12374,27 +12503,6 @@
       <g:custom_label_4>Helsingør</g:custom_label_4>
       <g:start_date>2027-01-28T00:00:00.000Z</g:start_date>
       <g:internal_label>['Helsingør']</g:internal_label>
-    </item>
-<item>
-      <g:id>27150865</g:id>
-      <g:title><![CDATA[Saxofon]]></g:title>
-      <g:description><![CDATA[Lær at spille saxofon fra bunden eller finpuds teknik, rytmik og musikalitet til saxofonundervisning hos FOF København og Nordsjælland. Tilmeld dig her.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/saxofon?holdnr=27150865</g:link>
-      <g:image_link>https://www.fof.dk/media/fumnia31/blaeseinstrumenter-fofkn-aftenskolen-musik-og-sang-2.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>2795.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF København og Nordsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Musik og sang &gt; Blæsere</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Musik og sang</g:custom_label_1>
-      <g:custom_label_2>Blæsere</g:custom_label_2>
-      <g:custom_label_4>Kongens Lyngby</g:custom_label_4>
-      <g:start_date>2027-01-28T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Kongens Lyngby']</g:internal_label>
     </item>
 <item>
       <g:id>27151037</g:id>
@@ -12458,6 +12566,27 @@
       <g:custom_label_4>København</g:custom_label_4>
       <g:start_date>2027-01-28T00:00:00.000Z</g:start_date>
       <g:internal_label>['København K']</g:internal_label>
+    </item>
+<item>
+      <g:id>27150865</g:id>
+      <g:title><![CDATA[Saxofon]]></g:title>
+      <g:description><![CDATA[Lær at spille saxofon fra bunden eller finpuds teknik, rytmik og musikalitet til saxofonundervisning hos FOF København og Nordsjælland. Tilmeld dig her.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/saxofon?holdnr=27150865</g:link>
+      <g:image_link>https://www.fof.dk/media/fumnia31/blaeseinstrumenter-fofkn-aftenskolen-musik-og-sang-2.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>2795.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Musik og sang &gt; Blæsere</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Musik og sang</g:custom_label_1>
+      <g:custom_label_2>Blæsere</g:custom_label_2>
+      <g:custom_label_4>Kongens Lyngby</g:custom_label_4>
+      <g:start_date>2027-01-28T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Kongens Lyngby']</g:internal_label>
     </item>
 <item>
       <g:id>27120009</g:id>
@@ -12589,6 +12718,48 @@
       <g:internal_label>['Foredrag','København V']</g:internal_label>
     </item>
 <item>
+      <g:id>27150530</g:id>
+      <g:title><![CDATA[Kreativt sangskriver-flow i studiet – øvede – daghold]]></g:title>
+      <g:description><![CDATA[Få kreativt flow i studiet. Lær sangskrivning, arrangement og indspilning i professionelt setup hos FOF København og Nordsjælland. Læs mere her.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/kreativt-sangskriver-flow-i-studiet?holdnr=27150530</g:link>
+      <g:image_link>https://www.fof.dk/media/rcemvka1/sangskrivning-computer-guitar.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>2095.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Musik og sang &gt; Musikteori og -produktion</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Musik og sang</g:custom_label_1>
+      <g:custom_label_2>Musikteori og -produktion</g:custom_label_2>
+      <g:custom_label_4>Hellerup</g:custom_label_4>
+      <g:start_date>2027-01-28T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Hellerup']</g:internal_label>
+    </item>
+<item>
+      <g:id>27150246</g:id>
+      <g:title><![CDATA[Sang – klassisk og rytmisk]]></g:title>
+      <g:description><![CDATA[Udvikl din stemme med sangundervisning i klassisk og rytmisk sang hos FOF København og Nordsjælland. Små hold med plads til dine ønsker. Læs mere her.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/sang-klassisk-og-rytmisk?holdnr=27150246</g:link>
+      <g:image_link>https://www.fof.dk/media/qbrbhxb1/kor-fof-aftenskolen-06.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>2995.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Musik og sang &gt; Sang og stemmetræning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Musik og sang</g:custom_label_1>
+      <g:custom_label_2>Sang og stemmetræning</g:custom_label_2>
+      <g:custom_label_4>København</g:custom_label_4>
+      <g:start_date>2027-01-28T00:00:00.000Z</g:start_date>
+      <g:internal_label>['København K']</g:internal_label>
+    </item>
+<item>
       <g:id>27150774</g:id>
       <g:title><![CDATA[Komplet sangteknik]]></g:title>
       <g:description><![CDATA[Lær at mestre din stemme med Cathrine Sadolins Komplet Sangteknik. Arbejd med klang, effekter og styrke på små hold med individuel vejledning. Læs mere.]]></g:description>
@@ -12630,48 +12801,6 @@
       <g:custom_label_4>Kongens Lyngby</g:custom_label_4>
       <g:start_date>2027-01-28T00:00:00.000Z</g:start_date>
       <g:internal_label>['Kongens Lyngby']</g:internal_label>
-    </item>
-<item>
-      <g:id>27150530</g:id>
-      <g:title><![CDATA[Kreativt sangskriver-flow i studiet – øvede – daghold]]></g:title>
-      <g:description><![CDATA[Få kreativt flow i studiet. Lær sangskrivning, arrangement og indspilning i professionelt setup hos FOF København og Nordsjælland. Læs mere her.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/kreativt-sangskriver-flow-i-studiet?holdnr=27150530</g:link>
-      <g:image_link>https://www.fof.dk/media/rcemvka1/sangskrivning-computer-guitar.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>2095.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF København og Nordsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Musik og sang &gt; Musikteori og -produktion</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Musik og sang</g:custom_label_1>
-      <g:custom_label_2>Musikteori og -produktion</g:custom_label_2>
-      <g:custom_label_4>Hellerup</g:custom_label_4>
-      <g:start_date>2027-01-28T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Hellerup']</g:internal_label>
-    </item>
-<item>
-      <g:id>27150246</g:id>
-      <g:title><![CDATA[Sang – klassisk og rytmisk]]></g:title>
-      <g:description><![CDATA[Udvikl din stemme med sangundervisning i klassisk og rytmisk sang hos FOF København og Nordsjælland. Små hold med plads til dine ønsker. Læs mere her.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/sang-klassisk-og-rytmisk?holdnr=27150246</g:link>
-      <g:image_link>https://www.fof.dk/media/qbrbhxb1/kor-fof-aftenskolen-06.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>2995.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF København og Nordsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Musik og sang &gt; Sang og stemmetræning</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Musik og sang</g:custom_label_1>
-      <g:custom_label_2>Sang og stemmetræning</g:custom_label_2>
-      <g:custom_label_4>København</g:custom_label_4>
-      <g:start_date>2027-01-28T00:00:00.000Z</g:start_date>
-      <g:internal_label>['København K']</g:internal_label>
     </item>
 <item>
       <g:id>27151036</g:id>
@@ -12779,27 +12908,6 @@
       <g:internal_label>['København K']</g:internal_label>
     </item>
 <item>
-      <g:id>27150943</g:id>
-      <g:title><![CDATA[Akustisk/elektrisk guitar]]></g:title>
-      <g:description><![CDATA[Lær at spille akustisk eller elektrisk guitar på guitarkursus hos FOF København og Nordsjælland. Styrk din teknik og spilleglæde på små hold. Tilmeld dig her.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/guitar?holdnr=27150943</g:link>
-      <g:image_link>https://www.fof.dk/media/xodgwjqb/akustisk-guitar-fofkn-aftenskolen-musik-og-sang.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>2995.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF København og Nordsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Musik og sang &gt; Strengeinstrumenter</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Musik og sang</g:custom_label_1>
-      <g:custom_label_2>Strengeinstrumenter</g:custom_label_2>
-      <g:custom_label_4>København</g:custom_label_4>
-      <g:start_date>2027-01-29T00:00:00.000Z</g:start_date>
-      <g:internal_label>['København V']</g:internal_label>
-    </item>
-<item>
       <g:id>27150631</g:id>
       <g:title><![CDATA[Jazz- og blues klaver – daghold ]]></g:title>
       <g:description><![CDATA[Løft dit jazz- og bluesklaver med skalaer, akkorder og rytmiske teknikker. For let øvede og øvede. Tilmeld dig hos FOF København og Nordsjælland.]]></g:description>
@@ -12819,6 +12927,27 @@
       <g:custom_label_4>København</g:custom_label_4>
       <g:start_date>2027-01-29T00:00:00.000Z</g:start_date>
       <g:internal_label>['København K']</g:internal_label>
+    </item>
+<item>
+      <g:id>27150943</g:id>
+      <g:title><![CDATA[Akustisk/elektrisk guitar]]></g:title>
+      <g:description><![CDATA[Lær at spille akustisk eller elektrisk guitar på guitarkursus hos FOF København og Nordsjælland. Styrk din teknik og spilleglæde på små hold. Tilmeld dig her.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/guitar?holdnr=27150943</g:link>
+      <g:image_link>https://www.fof.dk/media/xodgwjqb/akustisk-guitar-fofkn-aftenskolen-musik-og-sang.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>2995.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Musik og sang &gt; Strengeinstrumenter</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Musik og sang</g:custom_label_1>
+      <g:custom_label_2>Strengeinstrumenter</g:custom_label_2>
+      <g:custom_label_4>København</g:custom_label_4>
+      <g:start_date>2027-01-29T00:00:00.000Z</g:start_date>
+      <g:internal_label>['København V']</g:internal_label>
     </item>
 <item>
       <g:id>27140074</g:id>
@@ -12886,27 +13015,6 @@
       <g:internal_label>['København K']</g:internal_label>
     </item>
 <item>
-      <g:id>27151248</g:id>
-      <g:title><![CDATA[Fredagssang]]></g:title>
-      <g:description><![CDATA[Udvikl din stemme med sangundervisning i klassisk og rytmisk sang hos FOF København og Nordsjælland. Små hold med plads til dine ønsker. Læs mere her.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/sang-klassisk-og-rytmisk?holdnr=27151248</g:link>
-      <g:image_link>https://www.fof.dk/media/qbrbhxb1/kor-fof-aftenskolen-06.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1400.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF København og Nordsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Musik og sang &gt; Sang og stemmetræning</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Musik og sang</g:custom_label_1>
-      <g:custom_label_2>Sang og stemmetræning</g:custom_label_2>
-      <g:custom_label_4>København</g:custom_label_4>
-      <g:start_date>2027-01-29T00:00:00.000Z</g:start_date>
-      <g:internal_label>['København K']</g:internal_label>
-    </item>
-<item>
       <g:id>27151093</g:id>
       <g:title><![CDATA[Akustisk/elektrisk guitar]]></g:title>
       <g:description><![CDATA[Lær at spille akustisk eller elektrisk guitar på guitarkursus hos FOF København og Nordsjælland. Styrk din teknik og spilleglæde på små hold. Tilmeld dig her.]]></g:description>
@@ -12926,6 +13034,27 @@
       <g:custom_label_4>København</g:custom_label_4>
       <g:start_date>2027-01-29T00:00:00.000Z</g:start_date>
       <g:internal_label>['København V']</g:internal_label>
+    </item>
+<item>
+      <g:id>27151248</g:id>
+      <g:title><![CDATA[Fredagssang]]></g:title>
+      <g:description><![CDATA[Udvikl din stemme med sangundervisning i klassisk og rytmisk sang hos FOF København og Nordsjælland. Små hold med plads til dine ønsker. Læs mere her.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/sang-klassisk-og-rytmisk?holdnr=27151248</g:link>
+      <g:image_link>https://www.fof.dk/media/qbrbhxb1/kor-fof-aftenskolen-06.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1400.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Musik og sang &gt; Sang og stemmetræning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Musik og sang</g:custom_label_1>
+      <g:custom_label_2>Sang og stemmetræning</g:custom_label_2>
+      <g:custom_label_4>København</g:custom_label_4>
+      <g:start_date>2027-01-29T00:00:00.000Z</g:start_date>
+      <g:internal_label>['København K']</g:internal_label>
     </item>
 <item>
       <g:id>27150630</g:id>
@@ -13054,27 +13183,6 @@
       <g:internal_label>['København V']</g:internal_label>
     </item>
 <item>
-      <g:id>27150679</g:id>
-      <g:title><![CDATA[Klassisk sang – begyndere og øvede]]></g:title>
-      <g:description><![CDATA[Gå til klassisk sangundervisning hos FOF København og Nordsjælland – for begyndere og øvede. Træn teknik, klang og fortolkning med erfarne undervisere.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/klassisk-sang?holdnr=27150679</g:link>
-      <g:image_link>https://www.fof.dk/media/gnufjoln/sangundervisning-fofkn-aftenskolen-musik-og-sang-stock-169496540-1.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>2995.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF København og Nordsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Musik og sang &gt; Sang og stemmetræning</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Musik og sang</g:custom_label_1>
-      <g:custom_label_2>Sang og stemmetræning</g:custom_label_2>
-      <g:custom_label_4>København</g:custom_label_4>
-      <g:start_date>2027-01-29T00:00:00.000Z</g:start_date>
-      <g:internal_label>['København V']</g:internal_label>
-    </item>
-<item>
       <g:id>27150647</g:id>
       <g:title><![CDATA[Italiensk for operasangere – Italian for Opera Singers]]></g:title>
       <g:description><![CDATA[Lær italiensk målrettet opera og musik hos FOF København og Nordsjælland. For sangere, musikstuderende og kunstnere i den kreative branche.]]></g:description>
@@ -13115,6 +13223,48 @@
       <g:custom_label_4>København</g:custom_label_4>
       <g:start_date>2027-01-29T00:00:00.000Z</g:start_date>
       <g:internal_label>['København K']</g:internal_label>
+    </item>
+<item>
+      <g:id>27150549</g:id>
+      <g:title><![CDATA[Ableton Live]]></g:title>
+      <g:description><![CDATA[Kom godt i gang med at producere din egen musik på et Ableton kursus hos FOF København og Nordsjælland. Lær bl.a. at skabe beats og bruge sampler. Læs mere.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/ableton?holdnr=27150549</g:link>
+      <g:image_link>https://www.fof.dk/media/ok3bai40/elektronisk-fofkn-aftenskolen-musik-og-sang-5-km.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1200.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Musik og sang &gt; Musikteori og -produktion</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Musik og sang</g:custom_label_1>
+      <g:custom_label_2>Musikteori og -produktion</g:custom_label_2>
+      <g:custom_label_4>København</g:custom_label_4>
+      <g:start_date>2027-01-29T00:00:00.000Z</g:start_date>
+      <g:internal_label>['København K']</g:internal_label>
+    </item>
+<item>
+      <g:id>27150679</g:id>
+      <g:title><![CDATA[Klassisk sang – begyndere og øvede]]></g:title>
+      <g:description><![CDATA[Gå til klassisk sangundervisning hos FOF København og Nordsjælland – for begyndere og øvede. Træn teknik, klang og fortolkning med erfarne undervisere.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/klassisk-sang?holdnr=27150679</g:link>
+      <g:image_link>https://www.fof.dk/media/gnufjoln/sangundervisning-fofkn-aftenskolen-musik-og-sang-stock-169496540-1.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>2995.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Musik og sang &gt; Sang og stemmetræning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Musik og sang</g:custom_label_1>
+      <g:custom_label_2>Sang og stemmetræning</g:custom_label_2>
+      <g:custom_label_4>København</g:custom_label_4>
+      <g:start_date>2027-01-29T00:00:00.000Z</g:start_date>
+      <g:internal_label>['København V']</g:internal_label>
     </item>
 <item>
       <g:id>27150023</g:id>
@@ -13772,27 +13922,6 @@
       <g:internal_label>['København N']</g:internal_label>
     </item>
 <item>
-      <g:id>27150734</g:id>
-      <g:title><![CDATA[Saxofon – ulige uger]]></g:title>
-      <g:description><![CDATA[Lær at spille saxofon fra bunden eller finpuds teknik, rytmik og musikalitet til saxofonundervisning hos FOF København og Nordsjælland. Tilmeld dig her.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/saxofon?holdnr=27150734</g:link>
-      <g:image_link>https://www.fof.dk/media/fumnia31/blaeseinstrumenter-fofkn-aftenskolen-musik-og-sang-2.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>2795.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF København og Nordsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Musik og sang &gt; Blæsere</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Musik og sang</g:custom_label_1>
-      <g:custom_label_2>Blæsere</g:custom_label_2>
-      <g:custom_label_4>Hellerup</g:custom_label_4>
-      <g:start_date>2027-02-01T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Hellerup']</g:internal_label>
-    </item>
-<item>
       <g:id>27150924</g:id>
       <g:title><![CDATA[Trommer – ulige uger]]></g:title>
       <g:description><![CDATA[Gå til trommer hos FOF København og Nordsjælland og lær at spille med teknik, rytme og groove. Undervisning på små hold med plads til dig. Tilmeld dig her.]]></g:description>
@@ -13814,6 +13943,27 @@
       <g:internal_label>['København N']</g:internal_label>
     </item>
 <item>
+      <g:id>27150734</g:id>
+      <g:title><![CDATA[Saxofon – ulige uger]]></g:title>
+      <g:description><![CDATA[Lær at spille saxofon fra bunden eller finpuds teknik, rytmik og musikalitet til saxofonundervisning hos FOF København og Nordsjælland. Tilmeld dig her.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/saxofon?holdnr=27150734</g:link>
+      <g:image_link>https://www.fof.dk/media/fumnia31/blaeseinstrumenter-fofkn-aftenskolen-musik-og-sang-2.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>2795.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Musik og sang &gt; Blæsere</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Musik og sang</g:custom_label_1>
+      <g:custom_label_2>Blæsere</g:custom_label_2>
+      <g:custom_label_4>Hellerup</g:custom_label_4>
+      <g:start_date>2027-02-01T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Hellerup']</g:internal_label>
+    </item>
+<item>
       <g:id>27150926</g:id>
       <g:title><![CDATA[Bas/trommer – ulige uger]]></g:title>
       <g:description><![CDATA[Lær at styrke samspillet mellem bas og trommer. Fokus på groove, swing og dit repertoire. Tilmeld dig hos FOF København og Nordsjælland.]]></g:description>
@@ -13833,6 +13983,27 @@
       <g:custom_label_4>København</g:custom_label_4>
       <g:start_date>2027-02-01T00:00:00.000Z</g:start_date>
       <g:internal_label>['København N']</g:internal_label>
+    </item>
+<item>
+      <g:id>27150733</g:id>
+      <g:title><![CDATA[Saxofon – ulige uger]]></g:title>
+      <g:description><![CDATA[Lær at spille saxofon fra bunden eller finpuds teknik, rytmik og musikalitet til saxofonundervisning hos FOF København og Nordsjælland. Tilmeld dig her.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/saxofon?holdnr=27150733</g:link>
+      <g:image_link>https://www.fof.dk/media/fumnia31/blaeseinstrumenter-fofkn-aftenskolen-musik-og-sang-2.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>2795.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Musik og sang &gt; Blæsere</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Musik og sang</g:custom_label_1>
+      <g:custom_label_2>Blæsere</g:custom_label_2>
+      <g:custom_label_4>Hellerup</g:custom_label_4>
+      <g:start_date>2027-02-01T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Hellerup']</g:internal_label>
     </item>
 <item>
       <g:id>27150927</g:id>
@@ -14127,6 +14298,7 @@
       <g:custom_label_2>Yoga</g:custom_label_2>
       <g:custom_label_4>København</g:custom_label_4>
       <g:start_date>2027-02-04T00:00:00.000Z</g:start_date>
+      <g:internal_label>['København V']</g:internal_label>
     </item>
 <item>
       <g:id>27151932</g:id>
@@ -14924,6 +15096,8 @@
       <g:custom_label_2>Sang og stemmetræning</g:custom_label_2>
       <g:custom_label_4>København</g:custom_label_4>
       <g:start_date>2027-02-20T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Vinter</g:custom_label_3>
+      <g:internal_label>['Vinter','København K']</g:internal_label>
     </item>
 <item>
       <g:id>27110010</g:id>
@@ -15122,28 +15296,6 @@
       <g:internal_label>['Ture og rundvisninger','Helsingør']</g:internal_label>
     </item>
 <item>
-      <g:id>27100005</g:id>
-      <g:title><![CDATA[Mirco Reimer-Elster: Fra supermagt til shitshow]]></g:title>
-      <g:description><![CDATA[Forstå de politiske, økonomiske og kulturelle forskydninger, der banede vejen for Trump. Mirco Reimer-Elster analyserer USA’s udvikling og deroute | FOF.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/mirco-reimer-elster-fra-supermagt-til-shitshow?holdnr=27100005</g:link>
-      <g:image_link>https://www.fof.dk/media/y3qguzzf/mirco-reimer-elster-ulrich-tv2-original.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>180.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF København og Nordsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Foredrag, debat og højskoler &gt; Samfund og historie</g:product_type>
-      <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
-      <g:custom_label_1>Samfund og historie</g:custom_label_1>
-      <g:custom_label_2></g:custom_label_2>
-      <g:custom_label_4>København</g:custom_label_4>
-      <g:start_date>2027-02-25T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Debat</g:custom_label_3>
-      <g:internal_label>['Debat','København K']</g:internal_label>
-    </item>
-<item>
       <g:id>27113618</g:id>
       <g:title><![CDATA[Frederik X nye kongeportræt]]></g:title>
       <g:description><![CDATA[Oplev Frederik X's nye kongeportræt på Frederiksborg Slot på rundvisning. Kom tæt på det nye værk og hør om kunstnerens arbejde med portrættet. Tilmeld dig her.]]></g:description>
@@ -15164,6 +15316,28 @@
       <g:start_date>2027-02-25T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Ture og rundvisninger</g:custom_label_3>
       <g:internal_label>['Ture og rundvisninger','Hillerød']</g:internal_label>
+    </item>
+<item>
+      <g:id>27100005</g:id>
+      <g:title><![CDATA[Mirco Reimer-Elster: Fra supermagt til shitshow]]></g:title>
+      <g:description><![CDATA[Forstå de politiske, økonomiske og kulturelle forskydninger, der banede vejen for Trump. Mirco Reimer-Elster analyserer USA’s udvikling og deroute | FOF.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/mirco-reimer-elster-fra-supermagt-til-shitshow?holdnr=27100005</g:link>
+      <g:image_link>https://www.fof.dk/media/y3qguzzf/mirco-reimer-elster-ulrich-tv2-original.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>180.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Foredrag, debat og højskoler &gt; Samfund og historie</g:product_type>
+      <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
+      <g:custom_label_1>Samfund og historie</g:custom_label_1>
+      <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>København</g:custom_label_4>
+      <g:start_date>2027-02-25T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Debat</g:custom_label_3>
+      <g:internal_label>['Debat','København K']</g:internal_label>
     </item>
 <item>
       <g:id>27150777</g:id>
@@ -15318,27 +15492,6 @@
       <g:internal_label>['Korte kurser','København K']</g:internal_label>
     </item>
 <item>
-      <g:id>27187103</g:id>
-      <g:title><![CDATA[Design din drømmehave – det store overblik]]></g:title>
-      <g:description><![CDATA[Lær at designe din drømmehave med en professionel havearkitekt. Skab struktur, stemning og harmoni i din have på et inspirerende kursus hos FOF.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/design-din-droemmehave-det-store-overblik?holdnr=27187103</g:link>
-      <g:image_link>https://www.fof.dk/media/4x5al0rv/droemmehave-fofkn-aftenskolen-udeliv-1.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1440.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF København og Nordsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Natur og udeliv &gt; Havekurser</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Natur og udeliv</g:custom_label_1>
-      <g:custom_label_2>Havekurser</g:custom_label_2>
-      <g:custom_label_4>København</g:custom_label_4>
-      <g:start_date>2027-02-27T00:00:00.000Z</g:start_date>
-      <g:internal_label>['København V']</g:internal_label>
-    </item>
-<item>
       <g:id>27166010</g:id>
       <g:title><![CDATA[Intuitiv skrivning]]></g:title>
       <g:description><![CDATA[Lær at skrive med intuition og flow. Få inspiration, øvelser og værktøjer til at styrke din kreativitet på et trygt skrivekursus hos FOF.]]></g:description>
@@ -15359,6 +15512,27 @@
       <g:start_date>2027-02-27T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Skrivekurser</g:custom_label_3>
       <g:internal_label>['Skrivekurser','København V']</g:internal_label>
+    </item>
+<item>
+      <g:id>27187103</g:id>
+      <g:title><![CDATA[Design din drømmehave – det store overblik]]></g:title>
+      <g:description><![CDATA[Lær at designe din drømmehave med en professionel havearkitekt. Skab struktur, stemning og harmoni i din have på et inspirerende kursus hos FOF.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/design-din-droemmehave-det-store-overblik?holdnr=27187103</g:link>
+      <g:image_link>https://www.fof.dk/media/4x5al0rv/droemmehave-fofkn-aftenskolen-udeliv-1.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1440.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Natur og udeliv &gt; Havekurser</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Natur og udeliv</g:custom_label_1>
+      <g:custom_label_2>Havekurser</g:custom_label_2>
+      <g:custom_label_4>København</g:custom_label_4>
+      <g:start_date>2027-02-27T00:00:00.000Z</g:start_date>
+      <g:internal_label>['København V']</g:internal_label>
     </item>
 <item>
       <g:id>27150788</g:id>
@@ -15661,10 +15835,10 @@
       <g:internal_label>['Foredrag','København V']</g:internal_label>
     </item>
 <item>
-      <g:id>27202005</g:id>
+      <g:id>27102005</g:id>
       <g:title><![CDATA[Mai Mercado - om kræft og livet bagefter]]></g:title>
       <g:description><![CDATA[Mai Mercado fortæller personligt om sit forløb med brystkræft og om livet bagefter – med frygt, senfølger, arbejdsliv, sårbarhed og håb | FOF]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/mai-mercado-om-kraeft-og-livet-bagefter?holdnr=27202005</g:link>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/mai-mercado-om-kraeft-og-livet-bagefter?holdnr=27102005</g:link>
       <g:image_link>https://www.fof.dk/media/tzefob1c/mai-mercado2.jpg?width=1200</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:quantity>1</g:quantity>
@@ -15721,10 +15895,10 @@
       <g:custom_label_0>Rejser, ture og rundvisninger</g:custom_label_0>
       <g:custom_label_1>Rundvisninger</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
-      <g:custom_label_4></g:custom_label_4>
+      <g:custom_label_4>Frederiksberg</g:custom_label_4>
       <g:start_date>2027-03-02T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Ture og rundvisninger</g:custom_label_3>
-      <g:internal_label>['Ture og rundvisninger']</g:internal_label>
+      <g:internal_label>['Ture og rundvisninger','Frederiksberg']</g:internal_label>
     </item>
 <item>
       <g:id>27104025</g:id>
@@ -15813,6 +15987,28 @@
       <g:start_date>2027-03-03T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Debat</g:custom_label_3>
       <g:internal_label>['Debat','Kongens Lyngby']</g:internal_label>
+    </item>
+<item>
+      <g:id>27166006</g:id>
+      <g:title><![CDATA[Forfatterværksted]]></g:title>
+      <g:description><![CDATA[Udvikl dine tekster på forfatterværkstedet hos FOF København og Nordsjælland. Lær om plot, sprog og dramaturgi i et inspirerende skrivefællesskab.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/forfattervaerksted?holdnr=27166006</g:link>
+      <g:image_link>https://www.fof.dk/media/itbpcuk5/skrivekurser-fofkn-aftenskolen-kultur-og-samfund-stock-183304802.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>2005.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Kommunikation og drama &gt; Skrivekurser</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Kommunikation og drama</g:custom_label_1>
+      <g:custom_label_2>Skrivekurser</g:custom_label_2>
+      <g:custom_label_4>København</g:custom_label_4>
+      <g:start_date>2027-03-03T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Skrivekurser</g:custom_label_3>
+      <g:internal_label>['Skrivekurser','København K']</g:internal_label>
     </item>
 <item>
       <g:id>27105058</g:id>
@@ -16360,6 +16556,28 @@
       <g:internal_label>['Charlottenlund']</g:internal_label>
     </item>
 <item>
+      <g:id>27113519</g:id>
+      <g:title><![CDATA[Besøg i Københavns Stadsarkiv]]></g:title>
+      <g:description><![CDATA[Kom med på en særlig omvisning i Københavns Stadsarkiv under rådhuset. Oplev forgyldte bøger, gamle dokumenter og fortællinger fra Københavns historie | FOF]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/besoeg-i-koebenhavns-stadsarkiv?holdnr=27113519</g:link>
+      <g:image_link>https://www.fof.dk/media/vz1jkdt2/koebenhavns-stadsarkiv_kbhmuseum-333573-full.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>125.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Rejser, ture og rundvisninger &gt; Rundvisninger</g:product_type>
+      <g:custom_label_0>Rejser, ture og rundvisninger</g:custom_label_0>
+      <g:custom_label_1>Rundvisninger</g:custom_label_1>
+      <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>København</g:custom_label_4>
+      <g:start_date>2027-03-09T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Ture og rundvisninger</g:custom_label_3>
+      <g:internal_label>['Ture og rundvisninger','København V']</g:internal_label>
+    </item>
+<item>
       <g:id>27120847</g:id>
       <g:title><![CDATA[Børnemotorik og tumlingeleg 8-12 mdr.]]></g:title>
       <g:description><![CDATA[Til børnemotorik og tumlingeleg hos FOF København og Nordsjælland leger, synger og bevæger vi os på børnenes præmisser og styrker motorik og nærvær.]]></g:description>
@@ -16379,28 +16597,6 @@
       <g:custom_label_4>Charlottenlund</g:custom_label_4>
       <g:start_date>2027-03-09T00:00:00.000Z</g:start_date>
       <g:internal_label>['Charlottenlund']</g:internal_label>
-    </item>
-<item>
-      <g:id>27113519</g:id>
-      <g:title><![CDATA[Besøg i Københavns Stadsarkiv]]></g:title>
-      <g:description><![CDATA[Kom med på en særlig omvisning i Københavns Stadsarkiv under rådhuset. Oplev forgyldte bøger, gamle dokumenter og fortællinger fra Københavns historie | FOF]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/besoeg-i-koebenhavns-stadsarkiv?holdnr=27113519</g:link>
-      <g:image_link>https://www.fof.dk/media/vz1jkdt2/koebenhavns-stadsarkiv_kbhmuseum-333573-full.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>125.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF København og Nordsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Rejser, ture og rundvisninger &gt; Rundvisninger</g:product_type>
-      <g:custom_label_0>Rejser, ture og rundvisninger</g:custom_label_0>
-      <g:custom_label_1>Rundvisninger</g:custom_label_1>
-      <g:custom_label_2></g:custom_label_2>
-      <g:custom_label_4></g:custom_label_4>
-      <g:start_date>2027-03-09T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Ture og rundvisninger</g:custom_label_3>
-      <g:internal_label>['Ture og rundvisninger']</g:internal_label>
     </item>
 <item>
       <g:id>27120844</g:id>
@@ -17007,6 +17203,7 @@
       <g:custom_label_2>Sang og stemmetræning</g:custom_label_2>
       <g:custom_label_4>København</g:custom_label_4>
       <g:start_date>2027-03-20T00:00:00.000Z</g:start_date>
+      <g:internal_label>['København K']</g:internal_label>
     </item>
 <item>
       <g:id>27113507</g:id>
@@ -17161,6 +17358,27 @@
       <g:internal_label>['Charlottenlund']</g:internal_label>
     </item>
 <item>
+      <g:id>27151184</g:id>
+      <g:title><![CDATA[Sang for brummere – daghold ]]></g:title>
+      <g:description><![CDATA[Få sangglæde og tryghed i stemmen gennem enkle øvelser og legende træning. Ingen erfaring kræves. Tilmeld dig hos FOF København og Nordsjælland.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/sang-for-brummere?holdnr=27151184</g:link>
+      <g:image_link>https://www.fof.dk/media/qdfjurvy/korsang-fofkn-aftenskolen-musik-og-sang-km-img-6139.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1400.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Musik og sang &gt; Sang og stemmetræning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Musik og sang</g:custom_label_1>
+      <g:custom_label_2>Sang og stemmetræning</g:custom_label_2>
+      <g:custom_label_4>København</g:custom_label_4>
+      <g:start_date>2027-03-30T00:00:00.000Z</g:start_date>
+      <g:internal_label>['København K']</g:internal_label>
+    </item>
+<item>
       <g:id>27104023</g:id>
       <g:title><![CDATA[Mødet med Mælkevejen - fotoforedrag]]></g:title>
       <g:description><![CDATA[Kom til fotoforedrag med en af Danmarks førende astrofotografer og oplev spektakulære billeder af universet, solsystemet og Mælkevejen. Book din plads her.]]></g:description>
@@ -17181,27 +17399,6 @@
       <g:start_date>2027-03-30T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Foredrag</g:custom_label_3>
       <g:internal_label>['Foredrag','Søborg']</g:internal_label>
-    </item>
-<item>
-      <g:id>27151184</g:id>
-      <g:title><![CDATA[Sang for brummere – daghold ]]></g:title>
-      <g:description><![CDATA[Få sangglæde og tryghed i stemmen gennem enkle øvelser og legende træning. Ingen erfaring kræves. Tilmeld dig hos FOF København og Nordsjælland.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/sang-for-brummere?holdnr=27151184</g:link>
-      <g:image_link>https://www.fof.dk/media/qdfjurvy/korsang-fofkn-aftenskolen-musik-og-sang-km-img-6139.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1400.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF København og Nordsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Musik og sang &gt; Sang og stemmetræning</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Musik og sang</g:custom_label_1>
-      <g:custom_label_2>Sang og stemmetræning</g:custom_label_2>
-      <g:custom_label_4>København</g:custom_label_4>
-      <g:start_date>2027-03-30T00:00:00.000Z</g:start_date>
-      <g:internal_label>['København K']</g:internal_label>
     </item>
 <item>
       <g:id>27104020</g:id>
@@ -17497,10 +17694,10 @@
       <g:custom_label_0>Rejser, ture og rundvisninger</g:custom_label_0>
       <g:custom_label_1>Rundvisninger</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
-      <g:custom_label_4></g:custom_label_4>
+      <g:custom_label_4>København</g:custom_label_4>
       <g:start_date>2027-04-03T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Ture og rundvisninger</g:custom_label_3>
-      <g:internal_label>['Ture og rundvisninger']</g:internal_label>
+      <g:internal_label>['Ture og rundvisninger','København K']</g:internal_label>
     </item>
 <item>
       <g:id>27150878</g:id>
@@ -17652,6 +17849,27 @@
       <g:start_date>2027-04-05T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Foredrag</g:custom_label_3>
       <g:internal_label>['Foredrag','Kongens Lyngby']</g:internal_label>
+    </item>
+<item>
+      <g:id>27130917</g:id>
+      <g:title><![CDATA[Hatha yoga efter fødslen]]></g:title>
+      <g:description><![CDATA[Genopbyg kroppen med hatha yoga efter fødslen. Blid træning med fokus på bækkenbund, styrke og ry. Baby er selvfølgelig velkommen. Læs mere her.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/hatha-yoga-efter-foedslen?holdnr=27130917</g:link>
+      <g:image_link>https://www.fof.dk/media/bedb4agv/motion-og-yoga-med-baby-hos-fof-koebenhavn.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1090.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Efterfødselstræning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
+      <g:custom_label_2>Efterfødselstræning</g:custom_label_2>
+      <g:custom_label_4>Holte</g:custom_label_4>
+      <g:start_date>2027-04-05T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Holte']</g:internal_label>
     </item>
 <item>
       <g:id>27166007</g:id>
@@ -17849,7 +18067,7 @@
     </item>
 <item>
       <g:id>27102010</g:id>
-      <g:title><![CDATA[Venskab - fra Aristoteles til digitale fællesskaber]]></g:title>
+      <g:title><![CDATA[Venskaber - fra Aristoteles til digitale fællesskaber]]></g:title>
       <g:description><![CDATA[Bliv klogere på venskab med Marie-Elisabeth Lei Pihl. Hør om Aristoteles, nære relationer, sociale medier og kunstig intelligens | FOF]]></g:description>
       <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/venskab-fra-aristoteles-til-digitale-faellesskaber?holdnr=27102010</g:link>
       <g:image_link>https://www.fof.dk/media/oavhxi2x/pihl2.jpg?width=1200</g:image_link>
@@ -18928,10 +19146,10 @@
       <g:custom_label_0>Rejser, ture og rundvisninger</g:custom_label_0>
       <g:custom_label_1>Byvandringer</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
-      <g:custom_label_4></g:custom_label_4>
+      <g:custom_label_4>København</g:custom_label_4>
       <g:start_date>2027-04-23T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Ture og rundvisninger</g:custom_label_3>
-      <g:internal_label>['Ture og rundvisninger']</g:internal_label>
+      <g:internal_label>['Ture og rundvisninger','København N']</g:internal_label>
     </item>
 <item>
       <g:id>27108500</g:id>
@@ -19215,6 +19433,28 @@
       <g:internal_label>['Debat','Farum']</g:internal_label>
     </item>
 <item>
+      <g:id>27106131</g:id>
+      <g:title><![CDATA[Odysséen - Verdens bedste fortælling]]></g:title>
+      <g:description><![CDATA[Oplev Homers Odysséen med Martin Herbst. Bliv klogere på Odysseus’ rejse fra Troja til Ithaka, græsk mytologi og værkets tidløse temaer | FOF]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/odysseen-verdens-bedste-fortaelling?holdnr=27106131</g:link>
+      <g:image_link>https://www.fof.dk/media/lghf2pc1/ulysses_and_the_sirens_by_l%C3%A9on_belly.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>150.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Foredrag, debat og højskoler &gt; Samfund og historie</g:product_type>
+      <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
+      <g:custom_label_1>Samfund og historie</g:custom_label_1>
+      <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Allerød</g:custom_label_4>
+      <g:start_date>2027-04-28T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Foredrag</g:custom_label_3>
+      <g:internal_label>['Foredrag','Allerød']</g:internal_label>
+    </item>
+<item>
       <g:id>27113510</g:id>
       <g:title><![CDATA[Kvinder på Borgen – repræsentation i politik og kunst]]></g:title>
       <g:description><![CDATA[Kom på rundvisning i Folketinget og oplev Mie Mørkebergs portræt af 30 kvindelige politikere. Få et unikt indblik i kvinders rolle i politik. Tilmeld dig her.]]></g:description>
@@ -19341,10 +19581,10 @@
       <g:custom_label_0>Rejser, ture og rundvisninger</g:custom_label_0>
       <g:custom_label_1>Byvandringer</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
-      <g:custom_label_4></g:custom_label_4>
+      <g:custom_label_4>København</g:custom_label_4>
       <g:start_date>2027-04-30T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Ture og rundvisninger</g:custom_label_3>
-      <g:internal_label>['Ture og rundvisninger']</g:internal_label>
+      <g:internal_label>['Ture og rundvisninger','København K']</g:internal_label>
     </item>
 <item>
       <g:id>27120890</g:id>
@@ -19732,10 +19972,10 @@
       <g:custom_label_0>Rejser, ture og rundvisninger</g:custom_label_0>
       <g:custom_label_1>Rundvisninger</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
-      <g:custom_label_4></g:custom_label_4>
+      <g:custom_label_4>København</g:custom_label_4>
       <g:start_date>2027-05-11T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Ture og rundvisninger</g:custom_label_3>
-      <g:internal_label>['Ture og rundvisninger']</g:internal_label>
+      <g:internal_label>['Ture og rundvisninger','København K']</g:internal_label>
     </item>
 <item>
       <g:id>27120984</g:id>
@@ -19970,6 +20210,8 @@
       <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4>København</g:custom_label_4>
       <g:start_date>2027-05-19T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Ture og rundvisninger</g:custom_label_3>
+      <g:internal_label>['Ture og rundvisninger','København K']</g:internal_label>
     </item>
 <item>
       <g:id>27104013</g:id>
@@ -20097,10 +20339,10 @@
       <g:custom_label_0>Rejser, ture og rundvisninger</g:custom_label_0>
       <g:custom_label_1>Rundvisninger</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
-      <g:custom_label_4></g:custom_label_4>
+      <g:custom_label_4>Klampenborg</g:custom_label_4>
       <g:start_date>2027-05-20T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Ture og rundvisninger</g:custom_label_3>
-      <g:internal_label>['Ture og rundvisninger','Historien – bid for bid']</g:internal_label>
+      <g:internal_label>['Ture og rundvisninger','Historien – bid for bid','Klampenborg']</g:internal_label>
     </item>
 <item>
       <g:id>27113522</g:id>
@@ -20248,10 +20490,10 @@
       <g:custom_label_0>Rejser, ture og rundvisninger</g:custom_label_0>
       <g:custom_label_1>Byvandringer</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
-      <g:custom_label_4></g:custom_label_4>
+      <g:custom_label_4>København</g:custom_label_4>
       <g:start_date>2027-05-22T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Ture og rundvisninger</g:custom_label_3>
-      <g:internal_label>['Ture og rundvisninger']</g:internal_label>
+      <g:internal_label>['Ture og rundvisninger','København K']</g:internal_label>
     </item>
 <item>
       <g:id>27150675</g:id>
@@ -20618,10 +20860,10 @@
       <g:custom_label_0>Rejser, ture og rundvisninger</g:custom_label_0>
       <g:custom_label_1>Byvandringer</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
-      <g:custom_label_4></g:custom_label_4>
+      <g:custom_label_4>København</g:custom_label_4>
       <g:start_date>2027-05-28T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Ture og rundvisninger</g:custom_label_3>
-      <g:internal_label>['Ture og rundvisninger']</g:internal_label>
+      <g:internal_label>['Ture og rundvisninger','København N']</g:internal_label>
     </item>
 <item>
       <g:id>27150040</g:id>
@@ -21254,6 +21496,8 @@
       <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4>København</g:custom_label_4>
       <g:start_date>2027-06-17T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Ture og rundvisninger</g:custom_label_3>
+      <g:internal_label>['Ture og rundvisninger','København K']</g:internal_label>
     </item>
 <item>
       <g:id>27110028</g:id>
@@ -21318,6 +21562,8 @@
       <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4>Greve</g:custom_label_4>
       <g:start_date>2027-06-19T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Ture og rundvisninger</g:custom_label_3>
+      <g:internal_label>['Ture og rundvisninger','Greve']</g:internal_label>
     </item>
 <item>
       <g:id>27112526</g:id>

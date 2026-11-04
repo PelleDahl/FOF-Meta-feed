@@ -95,28 +95,6 @@
       <g:internal_label>['Starter om &lt; 14 dage','Korte kurser','Lystrup']</g:internal_label>
     </item>
 <item>
-      <g:id>AAR-422833</g:id>
-      <g:title><![CDATA[Adobe Photoshop Elements]]></g:title>
-      <g:description><![CDATA[Lær billedredigering i Adobe Photoshop Elements. Få styr på organisering, redigering, lag og smarte AI-funktioner – for både begyndere og letøvede i FOF Aarhus.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/adobe-photoshop-elements?holdnr=422833</g:link>
-      <g:image_link>https://www.fof.dk/media/kmfmiokz/adobe_photoshop_elements_it_programmer_fof_aarhus_1200x1200.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1435.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Aarhus</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; It og foto &gt; Hjemmeside og it-programmer</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>It og foto</g:custom_label_1>
-      <g:custom_label_2>Hjemmeside og it-programmer</g:custom_label_2>
-      <g:custom_label_4>Aarhus</g:custom_label_4>
-      <g:start_date>2026-11-07T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Starter om &lt; 14 dage</g:custom_label_3>
-      <g:internal_label>['Starter om &lt; 14 dage','Korte kurser','Aarhus N']</g:internal_label>
-    </item>
-<item>
       <g:id>AAR-422165</g:id>
       <g:title><![CDATA[Collage – weekendkursus]]></g:title>
       <g:description><![CDATA[Tag med på collagekursus, og lær at mestre teknikker og materialer | Skab collagekunst på et weekendkursus i FOF Aahus ]]></g:description>
@@ -309,28 +287,6 @@
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Samfund og historie</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
-      <g:custom_label_4>Aarhus</g:custom_label_4>
-      <g:start_date>2026-11-10T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Starter om &lt; 14 dage</g:custom_label_3>
-      <g:internal_label>['Starter om &lt; 14 dage','Aarhus C']</g:internal_label>
-    </item>
-<item>
-      <g:id>AAR-423955</g:id>
-      <g:title><![CDATA[Madglad 60+]]></g:title>
-      <g:description><![CDATA[Tag med på en kulinarisk rejse og styrk fællesskabet med Madglad 60+, et samarbejde mellem FOF Aarhus og GENLYD. Uanset om du er ny i køkkenet eller en erfaren kok, er dette fællesskab åbent for alle over 60, der deler glæden ved madlavning og samvær. ]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/madglad-60plus?holdnr=423955</g:link>
-      <g:image_link>https://www.fof.dk/media/o31j50ol/madglad60-f22_1200x1200_aarhus.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>65.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Aarhus</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Madlavning og drikkevarer &gt; Fest- og hverdagsmad</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
-      <g:custom_label_2>Fest- og hverdagsmad</g:custom_label_2>
       <g:custom_label_4>Aarhus</g:custom_label_4>
       <g:start_date>2026-11-10T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Starter om &lt; 14 dage</g:custom_label_3>
@@ -1584,6 +1540,28 @@
       <g:internal_label>['Aarhus C']</g:internal_label>
     </item>
 <item>
+      <g:id>AAR-423955</g:id>
+      <g:title><![CDATA[Madglad 60+]]></g:title>
+      <g:description><![CDATA[Tag med på en kulinarisk rejse og styrk fællesskabet med Madglad 60+, et samarbejde mellem FOF Aarhus og GENLYD. Uanset om du er ny i køkkenet eller en erfaren kok, er dette fællesskab åbent for alle over 60, der deler glæden ved madlavning og samvær. ]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/madglad-60plus?holdnr=423955</g:link>
+      <g:image_link>https://www.fof.dk/media/o31j50ol/madglad60-f22_1200x1200_aarhus.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>65.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Madlavning og drikkevarer &gt; Fest- og hverdagsmad</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
+      <g:custom_label_2>Fest- og hverdagsmad</g:custom_label_2>
+      <g:custom_label_4>Aarhus</g:custom_label_4>
+      <g:start_date>2026-12-01T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Starter om &lt; 14 dage</g:custom_label_3>
+      <g:internal_label>['Starter om &lt; 14 dage','Aarhus C']</g:internal_label>
+    </item>
+<item>
       <g:id>AAR-423913</g:id>
       <g:title><![CDATA[Food Maker]]></g:title>
       <g:description><![CDATA[Her samler vi ung madglæde, hyggeligt samvær og lækre retter i FOF Aarhus' køkken i midtbyen!]]></g:description>
@@ -2767,14 +2745,14 @@
       <g:internal_label>['Aarhus C']</g:internal_label>
     </item>
 <item>
-      <g:id>AAR-436822</g:id>
-      <g:title><![CDATA[Stine Pilgaard – om hverdagslivet, humoren og litteraturen]]></g:title>
-      <g:description><![CDATA[Oplev Stine Pilgaard i Musikhuset Aarhus, hvor hun fortæller om livet, kærligheden og litteraturen med humor og sproglig skarphed. Kom med til en særlig aften.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/stine-pilgaard-om-hverdagslivet-humoren-og-litteraturen?holdnr=436822</g:link>
-      <g:image_link>https://www.fof.dk/media/lxjjyfqa/stine-pilgaard-foredrag-aarhus_foto-alexander-banck-petersen.jpg?width=1200</g:image_link>
+      <g:id>AAR-436885</g:id>
+      <g:title><![CDATA[Kunsten at investere i kunst]]></g:title>
+      <g:description><![CDATA[Kom til foredrag med direktør og auktionsleder i Bruun Rasmussen Kasper Nielsen om kunst og kunsthandlens fascinerende verden | FOF Aarhus | Tilmeld dig nu]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/kunsten-at-investere-i-kunst?holdnr=436885</g:link>
+      <g:image_link>https://www.fof.dk/media/ljzjzrzl/kasper_nielsen_foredrag_fof_aarhus_1200x1200.jpg?width=1200</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:quantity>1</g:quantity>
-      <g:price>250.00 DKK</g:price>
+      <g:price>185.00 DKK</g:price>
       <g:condition>new</g:condition>
       <g:brand>FOF Aarhus</g:brand>
       <g:google_product_category>Education</g:google_product_category>
@@ -2788,14 +2766,14 @@
       <g:internal_label>['Aarhus C']</g:internal_label>
     </item>
 <item>
-      <g:id>AAR-436885</g:id>
-      <g:title><![CDATA[Kunsten at investere i kunst]]></g:title>
-      <g:description><![CDATA[Kom til foredrag med direktør og auktionsleder i Bruun Rasmussen Kasper Nielsen om kunst og kunsthandlens fascinerende verden | FOF Aarhus | Tilmeld dig nu]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/kunsten-at-investere-i-kunst?holdnr=436885</g:link>
-      <g:image_link>https://www.fof.dk/media/ljzjzrzl/kasper_nielsen_foredrag_fof_aarhus_1200x1200.jpg?width=1200</g:image_link>
+      <g:id>AAR-436822</g:id>
+      <g:title><![CDATA[Stine Pilgaard – om hverdagslivet, humoren og litteraturen]]></g:title>
+      <g:description><![CDATA[Oplev Stine Pilgaard i Musikhuset Aarhus, hvor hun fortæller om livet, kærligheden og litteraturen med humor og sproglig skarphed. Kom med til en særlig aften.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/stine-pilgaard-om-hverdagslivet-humoren-og-litteraturen?holdnr=436822</g:link>
+      <g:image_link>https://www.fof.dk/media/lxjjyfqa/stine-pilgaard-foredrag-aarhus_foto-alexander-banck-petersen.jpg?width=1200</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:quantity>1</g:quantity>
-      <g:price>185.00 DKK</g:price>
+      <g:price>250.00 DKK</g:price>
       <g:condition>new</g:condition>
       <g:brand>FOF Aarhus</g:brand>
       <g:google_product_category>Education</g:google_product_category>
