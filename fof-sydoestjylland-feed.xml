@@ -1032,6 +1032,27 @@
       <g:internal_label>['Juelsminde']</g:internal_label>
     </item>
 <item>
+      <g:id>SOJ-270325</g:id>
+      <g:title><![CDATA[Tysk A2 - Genstart dit tysk]]></g:title>
+      <g:description><![CDATA[Lær tysk A2 i Horsens. Tysk kursus for letøvede med fokus på samtale, grammatik og hverdagssprog. Bliv mere sikker i tysk.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydoestjylland/tysk-a2?holdnr=270325</g:link>
+      <g:image_link>https://www.fof.dk/media/5zydndm5/tysk-for-nybegyndere.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1305.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydøstjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Sprog &gt; Tysk</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Sprog</g:custom_label_1>
+      <g:custom_label_2>Tysk</g:custom_label_2>
+      <g:custom_label_4>Horsens</g:custom_label_4>
+      <g:start_date>2027-01-12T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Horsens']</g:internal_label>
+    </item>
+<item>
       <g:id>SOJ-270622</g:id>
       <g:title><![CDATA[Harmonika ]]></g:title>
       <g:description><![CDATA[Få harmonikaundervisning i Horsens for begyndere og let øvede. Individuel undervisning i dit eget tempo med fokus på teknik og musikglæde.]]></g:description>
@@ -1246,7 +1267,7 @@
     </item>
 <item>
       <g:id>SOJ-270456</g:id>
-      <g:title><![CDATA[Slægtsforskning trin 1]]></g:title>
+      <g:title><![CDATA[Find dine aner - introduktion t.slægtsforskning]]></g:title>
       <g:description><![CDATA[Lær slægtsforskning i Horsens hos FOF. Kursus for begyndere hvor du lærer at finde dine forfædre, bruge kirkebøger, folketællinger og online databaser.]]></g:description>
       <g:link>https://www.fof.dk/aftenskolen/fof-sydoestjylland/find-dine-aner-introduktion-til-slaegtsforskning?holdnr=270456</g:link>
       <g:image_link>https://www.fof.dk/media/dbqaugvh/slaegtsforskning.jpg?width=1200</g:image_link>
@@ -2080,7 +2101,8 @@
       <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4>Vejle</g:custom_label_4>
       <g:start_date>2027-03-04T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Vejle']</g:internal_label>
+      <g:custom_label_3>Gaveidéer</g:custom_label_3>
+      <g:internal_label>['Gaveidéer','Vejle']</g:internal_label>
     </item>
 <item>
       <g:id>SOJ-274396</g:id>
@@ -2321,6 +2343,28 @@
       <g:internal_label>['Vejle']</g:internal_label>
     </item>
 <item>
+      <g:id>SOJ-270272</g:id>
+      <g:title><![CDATA[Plantebaseret madlavning]]></g:title>
+      <g:description><![CDATA[Lær plantebaseret madlavning i Horsens. Få inspiration til sunde, proteinrige måltider og smag retter fra hele verden. Tilmeld dig i dag.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydoestjylland/plantebaseret-mad-verden-rundt?holdnr=270272</g:link>
+      <g:image_link>https://www.fof.dk/media/o1vdqmpo/green-bowls-good-vibes-1.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>385.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydøstjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Madlavning og drikkevarer &gt; Vegetarisk og vegansk</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
+      <g:custom_label_2>Vegetarisk og vegansk</g:custom_label_2>
+      <g:custom_label_4>Horsens</g:custom_label_4>
+      <g:start_date>2027-03-17T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Workshops</g:custom_label_3>
+      <g:internal_label>['Workshops','Horsens']</g:internal_label>
+    </item>
+<item>
       <g:id>SOJ-274245</g:id>
       <g:title><![CDATA[Syning - ulige uger]]></g:title>
       <g:description><![CDATA[Sykursus i Vejle med fokus på kreativ syning, genbrug og upcycling. Lær at sy dit eget tøj med personlig vejledning. For begyndere og øvede.]]></g:description>
@@ -2361,6 +2405,27 @@
       <g:custom_label_4>Vejle</g:custom_label_4>
       <g:start_date>2027-03-18T00:00:00.000Z</g:start_date>
       <g:internal_label>['Vejle']</g:internal_label>
+    </item>
+<item>
+      <g:id>SOJ-270708</g:id>
+      <g:title><![CDATA[Gør din pension til dit frie valg ]]></g:title>
+      <g:description><![CDATA[Inspirerende foredrag om pension i Billund. Få konkrete værktøjer til pensionsopsparing, økonomisk frihed og muligheden for selv at vælge din pensionsalder.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydoestjylland/goer-din-pension-til-dit-frie-valg?holdnr=270708</g:link>
+      <g:image_link>https://www.fof.dk/media/1vup5vhs/proevetimer-78.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>125.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydøstjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Foredrag, debat og højskoler &gt; Samfund og historie</g:product_type>
+      <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
+      <g:custom_label_1>Samfund og historie</g:custom_label_1>
+      <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Horsens</g:custom_label_4>
+      <g:start_date>2027-03-30T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Horsens']</g:internal_label>
     </item>
 <item>
       <g:id>SOJ-270623</g:id>
@@ -2509,7 +2574,8 @@
       <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4>Horsens</g:custom_label_4>
       <g:start_date>2027-04-13T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Horsens']</g:internal_label>
+      <g:custom_label_3>Gaveidéer</g:custom_label_3>
+      <g:internal_label>['Gaveidéer','Horsens']</g:internal_label>
     </item>
 <item>
       <g:id>SOJ-274236</g:id>
@@ -2616,6 +2682,28 @@
       <g:custom_label_2>Malekurser</g:custom_label_2>
       <g:custom_label_4>Horsens</g:custom_label_4>
       <g:start_date>2027-05-02T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Workshops</g:custom_label_3>
+      <g:internal_label>['Workshops','Horsens']</g:internal_label>
+    </item>
+<item>
+      <g:id>SOJ-270270</g:id>
+      <g:title><![CDATA[Plantebaseret madlavning]]></g:title>
+      <g:description><![CDATA[Lær plantebaseret madlavning i Horsens. Få inspiration til sunde, proteinrige måltider og smag retter fra hele verden. Tilmeld dig i dag.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydoestjylland/plantebaseret-mad-verden-rundt?holdnr=270270</g:link>
+      <g:image_link>https://www.fof.dk/media/o1vdqmpo/green-bowls-good-vibes-1.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>385.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydøstjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Madlavning og drikkevarer &gt; Vegetarisk og vegansk</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
+      <g:custom_label_2>Vegetarisk og vegansk</g:custom_label_2>
+      <g:custom_label_4>Horsens</g:custom_label_4>
+      <g:start_date>2027-05-19T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Workshops</g:custom_label_3>
       <g:internal_label>['Workshops','Horsens']</g:internal_label>
     </item>

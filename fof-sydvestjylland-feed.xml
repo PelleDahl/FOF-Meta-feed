@@ -355,7 +355,7 @@
       <g:custom_label_4>Fanø</g:custom_label_4>
       <g:start_date>2027-01-16T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Fanø</g:custom_label_3>
-      <g:internal_label>['Fanø','Madlavning og drikkevarer','Esbjerg']</g:internal_label>
+      <g:internal_label>['Fanø','Madlavning og drikkevarer','Esbjerg','Ribe']</g:internal_label>
     </item>
 <item>
       <g:id>SVJ-2710803</g:id>
@@ -836,7 +836,7 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Håndværk og kunsthåndværk</g:custom_label_2>
-      <g:custom_label_4></g:custom_label_4>
+      <g:custom_label_4>Fanø</g:custom_label_4>
       <g:start_date>2027-02-28T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Fanø</g:custom_label_3>
       <g:internal_label>['Fanø','Kreative kurser']</g:internal_label>
@@ -971,7 +971,7 @@
       <g:custom_label_4>Esbjerg</g:custom_label_4>
       <g:start_date>2027-03-09T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Fanø</g:custom_label_3>
-      <g:internal_label>['Fanø','Madlavning og drikkevarer','Esbjerg']</g:internal_label>
+      <g:internal_label>['Fanø','Madlavning og drikkevarer','Esbjerg','Ribe']</g:internal_label>
     </item>
 <item>
       <g:id>SVJ-2710449</g:id>
@@ -1304,28 +1304,6 @@
       <g:internal_label>['Madlavning og drikkevarer','Esbjerg','Varde','Ribe','Fanø']</g:internal_label>
     </item>
 <item>
-      <g:id>SVJ-2710303</g:id>
-      <g:title><![CDATA[Kunstworkshop: Tegning på kryds og tværs og på hovedet]]></g:title>
-      <g:description><![CDATA[Udforsk kroppen i kunsten med tegning, collage og skulptur. Et kreativt kursus med fordybelse, materialer og kunstblik i trygge rammer hos FOF. Tilmeld dig her.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-sydvestjylland/billedkunst?holdnr=2710303</g:link>
-      <g:image_link>https://www.fof.dk/media/w2nlkksq/kurser-kreative-kurser-kunsthaandvaerk-og-diy-billedkunst-paa-fanoe-fof-aftenskolen-sydvestjylland.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>870.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Sydvestjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Kreative kurser &gt; Håndværk og kunsthåndværk</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Kreative kurser</g:custom_label_1>
-      <g:custom_label_2>Håndværk og kunsthåndværk</g:custom_label_2>
-      <g:custom_label_4>Fanø</g:custom_label_4>
-      <g:start_date>2027-04-20T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Fanø</g:custom_label_3>
-      <g:internal_label>['Fanø','Kreative kurser']</g:internal_label>
-    </item>
-<item>
       <g:id>SVJ-2710534</g:id>
       <g:title><![CDATA[Efterfødsel med barn - Bente Løkke Klemmensen]]></g:title>
       <g:description><![CDATA[Nænsom efterfødselstræning hos FOF. Træn med din baby og styrk bækkenbund, balance og fællesskab. Tilmeld dig her]]></g:description>
@@ -1346,6 +1324,28 @@
       <g:start_date>2027-04-20T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Graviditet og barsel</g:custom_label_3>
       <g:internal_label>['Graviditet og barsel','Varde']</g:internal_label>
+    </item>
+<item>
+      <g:id>SVJ-2710303</g:id>
+      <g:title><![CDATA[Kunstworkshop: Tegning på kryds og tværs og på hovedet]]></g:title>
+      <g:description><![CDATA[Udforsk kroppen i kunsten med tegning, collage og skulptur. Et kreativt kursus med fordybelse, materialer og kunstblik i trygge rammer hos FOF. Tilmeld dig her.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydvestjylland/billedkunst?holdnr=2710303</g:link>
+      <g:image_link>https://www.fof.dk/media/w2nlkksq/kurser-kreative-kurser-kunsthaandvaerk-og-diy-billedkunst-paa-fanoe-fof-aftenskolen-sydvestjylland.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>870.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydvestjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Kreative kurser &gt; Håndværk og kunsthåndværk</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Kreative kurser</g:custom_label_1>
+      <g:custom_label_2>Håndværk og kunsthåndværk</g:custom_label_2>
+      <g:custom_label_4>Fanø</g:custom_label_4>
+      <g:start_date>2027-04-20T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Fanø</g:custom_label_3>
+      <g:internal_label>['Fanø','Kreative kurser']</g:internal_label>
     </item>
 <item>
       <g:id>SVJ-2710458</g:id>
