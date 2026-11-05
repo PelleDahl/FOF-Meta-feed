@@ -622,6 +622,28 @@
       <g:internal_label>['Køge']</g:internal_label>
     </item>
 <item>
+      <g:id>KOE-53501</g:id>
+      <g:title><![CDATA[Styrke og balancetræning med støtte]]></g:title>
+      <g:description><![CDATA[Føler du dig mere og mere usikker på benene? Vores erfarne underviser hjælper dig med at få bedre balance og øge din styrke. Det er ikke for sent at komme i gang, faktisk er det helt på tide. Køge: Træn din balance og styrketræning i aftenskolen.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koege-bugt/balance-og-styrketraening?holdnr=53501</g:link>
+      <g:image_link>https://www.fof.dk/media/fxpclrsn/yoga-fof-aftenskolen-09.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>769.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Køge Bugt</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Styrke- og konditionstræning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Styrke- og konditionstræning</g:custom_label_2>
+      <g:custom_label_4>Hårlev</g:custom_label_4>
+      <g:start_date>2027-01-05T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Hensyntagende</g:custom_label_3>
+      <g:internal_label>['Hensyntagende','Partnerskab','Hårlev']</g:internal_label>
+    </item>
+<item>
       <g:id>KOE-53008</g:id>
       <g:title><![CDATA[Keramik - eksklusivt drejekursus]]></g:title>
       <g:description><![CDATA[Keramik Greve: På vores drejekursus bliver du en haj til at dreje keramik på en drejeskive. Vores eksklusive drejekurser foregår i Greve hvor du på helt små hold får vejledning til at komme i gang med at dreje keramik]]></g:description>
@@ -1348,26 +1370,26 @@
       <g:internal_label>['Forår','Greve']</g:internal_label>
     </item>
 <item>
-      <g:id>KOE-52203</g:id>
-      <g:title><![CDATA[Yin yoga]]></g:title>
-      <g:description><![CDATA[En ugentlig times forkælelse med dygtige undervisere og trygge hold.. Vi har plads til alle kroppe og niveauer. Du kan gå til yin yoga i Roskilde, Køge. Greve, Egedal, Stevns og Ishøj.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koege-bugt/yin-yoga?holdnr=52203</g:link>
-      <g:image_link>https://www.fof.dk/media/343nexsv/yoga-fof-aftenskolen-13.jpg?width=1200</g:image_link>
+      <g:id>KOE-52891</g:id>
+      <g:title><![CDATA[8-ugers kursus i akvarelmaleri]]></g:title>
+      <g:description><![CDATA[Giv dig selv en kreativ hobby som gave og mal akvarel: En smuk, vandbaseret farve, du kan tage med dig alle steder.  FOF Køge Bugt har akvarelhold i Køge, Greve, Roskilde og Smørum, så du kan dykke ned i akvarelteknikker og få mange gode akvareltimer. ]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koege-bugt/akvarel?holdnr=52891</g:link>
+      <g:image_link>https://www.fof.dk/media/z5vfoph0/akvarel-fof-aftenskolen.jpg?width=1200</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:quantity>1</g:quantity>
-      <g:price>895.00 DKK</g:price>
+      <g:price>1384.00 DKK</g:price>
       <g:condition>new</g:condition>
       <g:brand>FOF Køge Bugt</g:brand>
       <g:google_product_category>Education</g:google_product_category>
       <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Yoga</g:product_type>
+      <g:product_type>Kurser &gt; Kreative kurser &gt; Malekurser</g:product_type>
       <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Yoga</g:custom_label_2>
-      <g:custom_label_4>Smørum</g:custom_label_4>
-      <g:start_date>2027-03-03T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Egedal</g:custom_label_3>
-      <g:internal_label>['Egedal','Forår','Weekend','Smørum']</g:internal_label>
+      <g:custom_label_1>Kreative kurser</g:custom_label_1>
+      <g:custom_label_2>Malekurser</g:custom_label_2>
+      <g:custom_label_4>Køge</g:custom_label_4>
+      <g:start_date>2027-03-02T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Weekend</g:custom_label_3>
+      <g:internal_label>['Weekend','Køge']</g:internal_label>
     </item>
 <item>
       <g:id>KOE-52202</g:id>
@@ -1392,6 +1414,28 @@
       <g:internal_label>['Egedal','Forår','Smørum']</g:internal_label>
     </item>
 <item>
+      <g:id>KOE-52203</g:id>
+      <g:title><![CDATA[Yin yoga]]></g:title>
+      <g:description><![CDATA[En ugentlig times forkælelse med dygtige undervisere og trygge hold.. Vi har plads til alle kroppe og niveauer. Du kan gå til yin yoga i Roskilde, Køge. Greve, Egedal, Stevns og Ishøj.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koege-bugt/yin-yoga?holdnr=52203</g:link>
+      <g:image_link>https://www.fof.dk/media/343nexsv/yoga-fof-aftenskolen-13.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>895.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Køge Bugt</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Yoga</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Smørum</g:custom_label_4>
+      <g:start_date>2027-03-03T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Egedal</g:custom_label_3>
+      <g:internal_label>['Egedal','Forår','Weekend','Smørum']</g:internal_label>
+    </item>
+<item>
       <g:id>KOE-53879</g:id>
       <g:title><![CDATA[Mød Danmarks første certificerede brødsommelier]]></g:title>
       <g:description><![CDATA[Oplev et sanseligt foredrag med brødsommelier Marcus Sennefelder. Smag på forskellige brød, udforsk aromaer og bliv klogere på brødets verden.]]></g:description>
@@ -1411,6 +1455,28 @@
       <g:custom_label_4>Køge</g:custom_label_4>
       <g:start_date>2027-03-03T00:00:00.000Z</g:start_date>
       <g:internal_label>['Køge']</g:internal_label>
+    </item>
+<item>
+      <g:id>KOE-52888</g:id>
+      <g:title><![CDATA[Lys i landskabet - weekendworkshop med akvarel]]></g:title>
+      <g:description><![CDATA[Giv dig selv en kreativ hobby som gave og mal akvarel: En smuk, vandbaseret farve, du kan tage med dig alle steder.  FOF Køge Bugt har akvarelhold i Køge, Greve, Roskilde og Smørum, så du kan dykke ned i akvarelteknikker og få mange gode akvareltimer. ]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koege-bugt/akvarel?holdnr=52888</g:link>
+      <g:image_link>https://www.fof.dk/media/z5vfoph0/akvarel-fof-aftenskolen.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>799.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Køge Bugt</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Kreative kurser &gt; Malekurser</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Kreative kurser</g:custom_label_1>
+      <g:custom_label_2>Malekurser</g:custom_label_2>
+      <g:custom_label_4>Køge</g:custom_label_4>
+      <g:start_date>2027-03-06T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Weekend</g:custom_label_3>
+      <g:internal_label>['Weekend','Køge']</g:internal_label>
     </item>
 <item>
       <g:id>KOE-52876</g:id>
@@ -1655,6 +1721,26 @@
       <g:internal_label>['Forår','Køge','Weekend']</g:internal_label>
     </item>
 <item>
+      <g:id>KOE-53880</g:id>
+      <g:title><![CDATA[Kom ind bag murene - besøg Københavns politigård ]]></g:title>
+      <g:description><![CDATA[Spændende rundvisning i politigården med intern rundviser . Besøg Politigården med FOF Køge Bugt 15/4]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koege-bugt/kom-ind-bag-murene-besoeg-koebenhavns-politigaard?holdnr=53880</g:link>
+      <g:image_link>https://www.fof.dk/media/hz5hxhbs/politigaarden-koege-fof-aftenskolen.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>245.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Køge Bugt</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Rejser, ture og rundvisninger &gt; Rundvisninger</g:product_type>
+      <g:custom_label_0>Rejser, ture og rundvisninger</g:custom_label_0>
+      <g:custom_label_1>Rundvisninger</g:custom_label_1>
+      <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4></g:custom_label_4>
+      <g:start_date>2027-03-18T00:00:00.000Z</g:start_date>
+    </item>
+<item>
       <g:id>KOE-52877</g:id>
       <g:title><![CDATA[Akvarel - vi maler blomster - forårsmotiver]]></g:title>
       <g:description><![CDATA[Giv dig selv en kreativ hobby som gave og mal akvarel: En smuk, vandbaseret farve, du kan tage med dig alle steder.  FOF Køge Bugt har akvarelhold i Køge, Greve, Roskilde og Smørum, så du kan dykke ned i akvarelteknikker og få mange gode akvareltimer. ]]></g:description>
@@ -1719,6 +1805,26 @@
       <g:start_date>2027-04-03T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Forår</g:custom_label_3>
       <g:internal_label>['Forår','Greve','Endagskurser','Weekend']</g:internal_label>
+    </item>
+<item>
+      <g:id>KOE-53881</g:id>
+      <g:title><![CDATA[Kom ind bag murene - besøg Københavns politigård ]]></g:title>
+      <g:description><![CDATA[Spændende rundvisning i politigården med intern rundviser . Besøg Politigården med FOF Køge Bugt 15/4]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koege-bugt/kom-ind-bag-murene-besoeg-koebenhavns-politigaard?holdnr=53881</g:link>
+      <g:image_link>https://www.fof.dk/media/hz5hxhbs/politigaarden-koege-fof-aftenskolen.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>245.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Køge Bugt</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Rejser, ture og rundvisninger &gt; Rundvisninger</g:product_type>
+      <g:custom_label_0>Rejser, ture og rundvisninger</g:custom_label_0>
+      <g:custom_label_1>Rundvisninger</g:custom_label_1>
+      <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4></g:custom_label_4>
+      <g:start_date>2027-04-06T00:00:00.000Z</g:start_date>
     </item>
 <item>
       <g:id>KOE-53861</g:id>
@@ -1807,6 +1913,26 @@
       <g:start_date>2027-04-14T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Forår</g:custom_label_3>
       <g:internal_label>['Forår','Greve','Endagskurser','Weekend']</g:internal_label>
+    </item>
+<item>
+      <g:id>KOE-53407</g:id>
+      <g:title><![CDATA[Fotowalk i Roskilde - Find ro og fokus gennem dit kamera]]></g:title>
+      <g:description><![CDATA[Kom på en gåtur gennem Roskilde, du sent vil glemme. Lær at fotografere og find ro og fokus gennem dit kamera den 30. september. Fotowalk i Roskilde med fotografering for begyndere og øvede.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koege-bugt/fotowalk-i-roskilde-find-ro-og-fokus-gennem-dit-kamera?holdnr=53407</g:link>
+      <g:image_link>https://www.fof.dk/media/xxipa0us/fotowalk-koege-fof-aftenskolen.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>351.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Køge Bugt</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; It og foto &gt; Foto og video</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>It og foto</g:custom_label_1>
+      <g:custom_label_2>Foto og video</g:custom_label_2>
+      <g:custom_label_4></g:custom_label_4>
+      <g:start_date>2027-04-14T00:00:00.000Z</g:start_date>
     </item>
 <item>
       <g:id>KOE-53855</g:id>
@@ -2269,6 +2395,28 @@
       <g:internal_label>['Forår','Endagskurser']</g:internal_label>
     </item>
 <item>
+      <g:id>KOE-52889</g:id>
+      <g:title><![CDATA[Blomster og farver - weekendworkshop med akvarel]]></g:title>
+      <g:description><![CDATA[Giv dig selv en kreativ hobby som gave og mal akvarel: En smuk, vandbaseret farve, du kan tage med dig alle steder.  FOF Køge Bugt har akvarelhold i Køge, Greve, Roskilde og Smørum, så du kan dykke ned i akvarelteknikker og få mange gode akvareltimer. ]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koege-bugt/akvarel?holdnr=52889</g:link>
+      <g:image_link>https://www.fof.dk/media/z5vfoph0/akvarel-fof-aftenskolen.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>747.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Køge Bugt</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Kreative kurser &gt; Malekurser</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Kreative kurser</g:custom_label_1>
+      <g:custom_label_2>Malekurser</g:custom_label_2>
+      <g:custom_label_4>Roskilde</g:custom_label_4>
+      <g:start_date>2027-06-05T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Weekend</g:custom_label_3>
+      <g:internal_label>['Weekend','Roskilde']</g:internal_label>
+    </item>
+<item>
       <g:id>KOE-53875</g:id>
       <g:title><![CDATA[Rundt om Børsen - et handelshus af format]]></g:title>
       <g:description><![CDATA[Rundvisning med FOF: Børsen rundvisning på Slotsholmen med Marianne Bentzen. Guidet tur om handelshistorie, branden i 2024 og den aktuelle genopbygning med besøg i udstillingen om Københavns ikoniske bygning.]]></g:description>
@@ -2289,6 +2437,28 @@
       <g:start_date>2027-06-19T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Forår</g:custom_label_3>
       <g:internal_label>['Forår','Endagskurser','Weekend']</g:internal_label>
+    </item>
+<item>
+      <g:id>KOE-52890</g:id>
+      <g:title><![CDATA[Blomster og landskaber: 3-dages sommerkursus med akvarel]]></g:title>
+      <g:description><![CDATA[Giv dig selv en kreativ hobby som gave og mal akvarel: En smuk, vandbaseret farve, du kan tage med dig alle steder.  FOF Køge Bugt har akvarelhold i Køge, Greve, Roskilde og Smørum, så du kan dykke ned i akvarelteknikker og få mange gode akvareltimer. ]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koege-bugt/akvarel?holdnr=52890</g:link>
+      <g:image_link>https://www.fof.dk/media/z5vfoph0/akvarel-fof-aftenskolen.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>981.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Køge Bugt</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Kreative kurser &gt; Malekurser</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Kreative kurser</g:custom_label_1>
+      <g:custom_label_2>Malekurser</g:custom_label_2>
+      <g:custom_label_4>Køge</g:custom_label_4>
+      <g:start_date>2027-06-29T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Weekend</g:custom_label_3>
+      <g:internal_label>['Weekend','Køge']</g:internal_label>
     </item>
 </channel>
 </rss>

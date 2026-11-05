@@ -967,10 +967,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Bevægelse og afspænding</g:custom_label_2>
-      <g:custom_label_4></g:custom_label_4>
+      <g:custom_label_4>Aabenraa</g:custom_label_4>
       <g:start_date>2027-01-12T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Motion og sundhed</g:custom_label_3>
-      <g:internal_label>['Motion og sundhed','Hensyntagende','Bevægelse og afspænding']</g:internal_label>
+      <g:internal_label>['Motion og sundhed','Hensyntagende','Bevægelse og afspænding','Aabenraa']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2714200</g:id>
@@ -1216,10 +1216,10 @@
     </item>
 <item>
       <g:id>SJY-2715900</g:id>
-      <g:title><![CDATA[Balletskolen]]></g:title>
-      <g:description><![CDATA[Lær klassisk ballet i trygge rammer. Udvikl styrke, smidighed og kropsbevidsthed gennem dans, leg og fællesskab. Tilmeld dig i dag.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-sydjylland/balletskolen-6-16-aar?holdnr=2715900</g:link>
-      <g:image_link>https://www.fof.dk/media/2ptdhkia/balletskolen-i-kolding-5.jpg?width=1200</g:image_link>
+      <g:title><![CDATA[Balletskolen for let øvede]]></g:title>
+      <g:description><![CDATA[For børn og unge med ballet-erfaring i Kolding. Styrk teknik, smidighed og kropskontrol gennem klassisk ballet i trygge og inspirerende rammer.. Se mere og tilmeld dig.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydjylland/balletskolen-for-let-oevede-8-16-aar?holdnr=2715900</g:link>
+      <g:image_link>https://www.fof.dk/media/q1kctimm/balletskolen-i-kolding-4.jpg?width=1200</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:quantity>1</g:quantity>
       <g:price>1709.00 DKK</g:price>
@@ -1671,32 +1671,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Sprog</g:custom_label_1>
       <g:custom_label_2>Dansk - Danish</g:custom_label_2>
-      <g:custom_label_4></g:custom_label_4>
+      <g:custom_label_4>Bredebro</g:custom_label_4>
       <g:start_date>2027-01-28T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Sprog</g:custom_label_3>
-      <g:internal_label>['Sprog','Dansk - Danish','Sprog niveau - Begyndere og fortsættere']</g:internal_label>
-    </item>
-<item>
-      <g:id>SJY-2712652</g:id>
-      <g:title><![CDATA[Dansk for fortsættere]]></g:title>
-      <g:description><![CDATA[For dig, der allerede kan snakke lidt dansk. Styrk både det grammatiske og hverdagssproget i hyggelige rammer - helt lokalt. Se mere og tilmeld dig.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-sydjylland/dansk-for-fortsaettere?holdnr=2712652</g:link>
-      <g:image_link>https://www.fof.dk/media/fkuluwls/dansk-251.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>875.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Sydjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Sprog &gt; Dansk - Danish</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Sprog</g:custom_label_1>
-      <g:custom_label_2>Dansk - Danish</g:custom_label_2>
-      <g:custom_label_4></g:custom_label_4>
-      <g:start_date>2027-01-28T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Sprog</g:custom_label_3>
-      <g:internal_label>['Sprog','Dansk - Danish','Sprog niveau - Begyndere og fortsættere']</g:internal_label>
+      <g:internal_label>['Sprog','Dansk - Danish','Sprog niveau - Begyndere og fortsættere','Bredebro']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2712401</g:id>
@@ -1719,6 +1697,28 @@
       <g:start_date>2027-01-28T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Sprog</g:custom_label_3>
       <g:internal_label>['Sprog','Kinesisk','Sprog niveau - Begyndere og fortsættere','Kolding']</g:internal_label>
+    </item>
+<item>
+      <g:id>SJY-2712652</g:id>
+      <g:title><![CDATA[Dansk for fortsættere]]></g:title>
+      <g:description><![CDATA[For dig, der allerede kan snakke lidt dansk. Styrk både det grammatiske og hverdagssproget i hyggelige rammer - helt lokalt. Se mere og tilmeld dig.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydjylland/dansk-for-fortsaettere?holdnr=2712652</g:link>
+      <g:image_link>https://www.fof.dk/media/fkuluwls/dansk-251.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>875.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Sprog &gt; Dansk - Danish</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Sprog</g:custom_label_1>
+      <g:custom_label_2>Dansk - Danish</g:custom_label_2>
+      <g:custom_label_4>Bredebro</g:custom_label_4>
+      <g:start_date>2027-01-28T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Sprog</g:custom_label_3>
+      <g:internal_label>['Sprog','Dansk - Danish','Sprog niveau - Begyndere og fortsættere','Bredebro']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2716400</g:id>

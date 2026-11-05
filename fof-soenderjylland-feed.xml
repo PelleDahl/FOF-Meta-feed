@@ -708,28 +708,6 @@ Vi bruger tiden hver eneste dag. Vi måler den, planlægger efter den, mangler d
       <g:internal_label>['Jul','Nyhed','Haderslev']</g:internal_label>
     </item>
 <item>
-      <g:id>SDJ-2271480</g:id>
-      <g:title><![CDATA[MediYoga]]></g:title>
-      <g:description><![CDATA[Oplev velværen og roen med MediYoga i Aabenraa og Haderslev. Holistisk yoga med fokus på åndedræt, meditation og tilpassede øvelser for alle niveauer. Se mere og tilmeld dig i dag.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-soenderjylland/mediyoga?holdnr=2271480</g:link>
-      <g:image_link>https://www.fof.dk/media/pehnsmnm/yoga-pilates.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1125.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Sønderjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Yoga</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Yoga</g:custom_label_2>
-      <g:custom_label_4>Aabenraa</g:custom_label_4>
-      <g:start_date>2027-01-04T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Bjerggade</g:custom_label_3>
-      <g:internal_label>['Bjerggade','Aabenraa','Motion','Hensyntagende']</g:internal_label>
-    </item>
-<item>
       <g:id>SDJ-10500</g:id>
       <g:title><![CDATA[Gavekort 500 kr.]]></g:title>
       <g:description><![CDATA[Med et gavekort til FOF Sønderjylland kan modtageren vælge mellem sprog, madlavning, kunst, kultur, motion og meget mere – præcis det, der passer bedst til interesser og ønsker. Køb i dag.]]></g:description>
@@ -935,6 +913,28 @@ Vi bruger tiden hver eneste dag. Vi måler den, planlægger efter den, mangler d
       <g:start_date>2027-01-09T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Sangcentret</g:custom_label_3>
       <g:internal_label>['Sangcentret','Sønderborg']</g:internal_label>
+    </item>
+<item>
+      <g:id>SDJ-2271480</g:id>
+      <g:title><![CDATA[MediYoga]]></g:title>
+      <g:description><![CDATA[Oplev velværen og roen med MediYoga i Aabenraa og Haderslev. Holistisk yoga med fokus på åndedræt, meditation og tilpassede øvelser for alle niveauer. Se mere og tilmeld dig i dag.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-soenderjylland/mediyoga?holdnr=2271480</g:link>
+      <g:image_link>https://www.fof.dk/media/pehnsmnm/yoga-pilates.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1125.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sønderjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Yoga</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Aabenraa</g:custom_label_4>
+      <g:start_date>2027-01-11T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Bjerggade</g:custom_label_3>
+      <g:internal_label>['Bjerggade','Aabenraa','Motion','Hensyntagende']</g:internal_label>
     </item>
 <item>
       <g:id>SDJ-2271563</g:id>
