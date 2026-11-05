@@ -6,28 +6,6 @@
 <description>Meta produktfeed med alle ledige hold fra FOF Aalborg</description>
 <language>da-DK</language>
 <item>
-      <g:id>AAL-26270205</g:id>
-      <g:title><![CDATA[EU-beredskab – er Europa klar, når krisen rammer?]]></g:title>
-      <g:description><![CDATA[Bliv klogere på EU’s beredskab, krisehåndtering og Danmarks rolle. Oplev et aktuelt foredrag om Europas kriseberedskab hos FOF Aalborg.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-aalborg/eu-beredskab-er-europa-klar-naar-krisen-rammer?holdnr=26270205</g:link>
-      <g:image_link>https://www.fof.dk/media/vqojbclj/eu-beredskab.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>75.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Aalborg</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Foredrag, debat og højskoler &gt; Samfund og historie</g:product_type>
-      <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
-      <g:custom_label_1>Samfund og historie</g:custom_label_1>
-      <g:custom_label_2></g:custom_label_2>
-      <g:custom_label_4>Aalborg</g:custom_label_4>
-      <g:start_date>2026-11-05T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Foredrag</g:custom_label_3>
-      <g:internal_label>['Foredrag','Aalborg SV']</g:internal_label>
-    </item>
-<item>
       <g:id>AAL-26205645</g:id>
       <g:title><![CDATA[Keramik & Bobler]]></g:title>
       <g:description><![CDATA[Kom til Keramik & Bobler hos FOF Aalborg og start weekenden kreativt. Form dine egne keramikprojekter, nyd et glas bobler og oplev hyggeligt fællesskab i Aalborg.]]></g:description>
@@ -861,28 +839,6 @@
       <g:internal_label>['Foredrag','Aftenforedrag','Aalborg SV']</g:internal_label>
     </item>
 <item>
-      <g:id>AAL-26280005</g:id>
-      <g:title><![CDATA[Fra Everest til Alene i Vildmarken]]></g:title>
-      <g:description><![CDATA[Mød Rasmus Kiilerich Kragh, vinder af Alene i Vildmarken, til et personligt foredrag hos FOF Aalborg om 63 dage alene i den finske vildmark.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-aalborg/fra-everest-til-alene-i-vildmarken?holdnr=26280005</g:link>
-      <g:image_link>https://www.fof.dk/media/uuxb323g/rasmus-kragh.png?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>175.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Aalborg</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Foredrag, debat og højskoler &gt; Samfund og historie</g:product_type>
-      <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
-      <g:custom_label_1>Samfund og historie</g:custom_label_1>
-      <g:custom_label_2></g:custom_label_2>
-      <g:custom_label_4>Aalborg</g:custom_label_4>
-      <g:start_date>2026-11-24T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Foredrag</g:custom_label_3>
-      <g:internal_label>['Foredrag','Aftenforedrag','Aalborg SV']</g:internal_label>
-    </item>
-<item>
       <g:id>AAL-26215861</g:id>
       <g:title><![CDATA[Fotografi for begyndere]]></g:title>
       <g:description><![CDATA[Lær at tage bedre billeder med din smartphone på et fotokursus for begyndere hos FOF Aalborg. Få styr på lys, komposition, portrætter og meget mere.]]></g:description>
@@ -903,6 +859,28 @@
       <g:start_date>2026-11-24T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Nyhed</g:custom_label_3>
       <g:internal_label>['Nyhed','Aalborg']</g:internal_label>
+    </item>
+<item>
+      <g:id>AAL-26280005</g:id>
+      <g:title><![CDATA[Fra Everest til Alene i Vildmarken]]></g:title>
+      <g:description><![CDATA[Mød Rasmus Kiilerich Kragh, vinder af Alene i Vildmarken, til et personligt foredrag hos FOF Aalborg om 63 dage alene i den finske vildmark.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aalborg/fra-everest-til-alene-i-vildmarken?holdnr=26280005</g:link>
+      <g:image_link>https://www.fof.dk/media/uuxb323g/rasmus-kragh.png?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>175.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aalborg</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Foredrag, debat og højskoler &gt; Samfund og historie</g:product_type>
+      <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
+      <g:custom_label_1>Samfund og historie</g:custom_label_1>
+      <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Aalborg</g:custom_label_4>
+      <g:start_date>2026-11-24T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Foredrag</g:custom_label_3>
+      <g:internal_label>['Foredrag','Aftenforedrag','Aalborg SV']</g:internal_label>
     </item>
 <item>
       <g:id>AAL-26220387</g:id>
