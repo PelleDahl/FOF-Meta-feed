@@ -47,7 +47,7 @@
       <g:custom_label_4>Randers</g:custom_label_4>
       <g:start_date>2026-11-08T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Nyhed</g:custom_label_3>
-      <g:internal_label>['Nyhed','Weekend','Randers C']</g:internal_label>
+      <g:internal_label>['Nyhed','Weekend','1 dags kursus','Randers C']</g:internal_label>
     </item>
 <item>
       <g:id>RFMV-620758</g:id>
@@ -69,7 +69,7 @@
       <g:custom_label_4>Randers</g:custom_label_4>
       <g:start_date>2026-11-09T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Weekend</g:custom_label_3>
-      <g:internal_label>['Weekend','Nyhed','Randers C']</g:internal_label>
+      <g:internal_label>['Weekend','Nyhed','1 dags kursus','Randers C']</g:internal_label>
     </item>
 <item>
       <g:id>RFMV-621610</g:id>
@@ -90,7 +90,8 @@
       <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4>Mariager</g:custom_label_4>
       <g:start_date>2026-11-10T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Mariager']</g:internal_label>
+      <g:custom_label_3>Mariagerfjord</g:custom_label_3>
+      <g:internal_label>['Mariagerfjord','1 dags kursus','Foredrag','Mariager']</g:internal_label>
     </item>
 <item>
       <g:id>RFMV-625507</g:id>
@@ -134,29 +135,7 @@
       <g:custom_label_4>Randers</g:custom_label_4>
       <g:start_date>2026-11-12T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Nyhed</g:custom_label_3>
-      <g:internal_label>['Nyhed','Randers','Randers C']</g:internal_label>
-    </item>
-<item>
-      <g:id>RFMV-626605</g:id>
-      <g:title><![CDATA[Portrættegning 2]]></g:title>
-      <g:description><![CDATA[Dette hold i portrættegning er for dig der allerede kender det grundlæggende om at tegne ansigter. Måske har du allerede deltaget i en workshop i Portrættegning med Bojan Milic. Tilmeld dig hos FOF i Randers.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-randers-favrskov-mariagerfjord-viborg/portraettegning-2?holdnr=626605</g:link>
-      <g:image_link>https://www.fof.dk/media/5npfec22/tegning-med-bojan-kursister-i-gang.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>215.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Randers-Favrskov-Mariagerfjord-Viborg</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Kreative kurser &gt; Tegnekurser</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Kreative kurser</g:custom_label_1>
-      <g:custom_label_2>Tegnekurser</g:custom_label_2>
-      <g:custom_label_4>Randers</g:custom_label_4>
-      <g:start_date>2026-11-14T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Nyhed</g:custom_label_3>
-      <g:internal_label>['Nyhed','Weekend','Randers C']</g:internal_label>
+      <g:internal_label>['Nyhed','Randers','1 dags kursus','Randers C']</g:internal_label>
     </item>
 <item>
       <g:id>RFMV-620757</g:id>
@@ -178,7 +157,7 @@
       <g:custom_label_4>Randers</g:custom_label_4>
       <g:start_date>2026-11-14T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Weekend</g:custom_label_3>
-      <g:internal_label>['Weekend','Nyhed','Randers C']</g:internal_label>
+      <g:internal_label>['Weekend','Nyhed','1 dags kursus','Randers C']</g:internal_label>
     </item>
 <item>
       <g:id>RFMV-620554</g:id>
@@ -221,7 +200,7 @@
       <g:custom_label_4>Viborg</g:custom_label_4>
       <g:start_date>2026-11-15T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Viborg</g:custom_label_3>
-      <g:internal_label>['Viborg']</g:internal_label>
+      <g:internal_label>['Viborg','1 dags kursus']</g:internal_label>
     </item>
 <item>
       <g:id>RFMV-620271</g:id>
@@ -286,7 +265,8 @@
       <g:custom_label_2>Håndarbejde</g:custom_label_2>
       <g:custom_label_4>Randers</g:custom_label_4>
       <g:start_date>2026-11-19T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Randers C']</g:internal_label>
+      <g:custom_label_3>1 dags kursus</g:custom_label_3>
+      <g:internal_label>['1 dags kursus','Randers C']</g:internal_label>
     </item>
 <item>
       <g:id>RFMV-6221857</g:id>
@@ -371,8 +351,8 @@
       <g:custom_label_2>Skrivekurser</g:custom_label_2>
       <g:custom_label_4>Hobro</g:custom_label_4>
       <g:start_date>2026-11-21T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Weekend</g:custom_label_3>
-      <g:internal_label>['Weekend','Nyhed','Hobro']</g:internal_label>
+      <g:custom_label_3>Mariagerfjord</g:custom_label_3>
+      <g:internal_label>['Mariagerfjord','Weekend','Nyhed','1 dags kursus','Hobro']</g:internal_label>
     </item>
 <item>
       <g:id>RFMV-626613</g:id>
@@ -394,7 +374,8 @@ Kurset er hos FOF i Randers]]></g:description>
       <g:custom_label_2>Malekurser</g:custom_label_2>
       <g:custom_label_4>Randers</g:custom_label_4>
       <g:start_date>2026-11-21T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Randers C']</g:internal_label>
+      <g:custom_label_3>1 dags kursus</g:custom_label_3>
+      <g:internal_label>['1 dags kursus','Randers C']</g:internal_label>
     </item>
 <item>
       <g:id>RFMV-620564</g:id>
@@ -416,28 +397,7 @@ Kurset er hos FOF i Randers]]></g:description>
       <g:custom_label_4>Randers</g:custom_label_4>
       <g:start_date>2026-11-22T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Nyhed</g:custom_label_3>
-      <g:internal_label>['Nyhed','Randers','Randers C']</g:internal_label>
-    </item>
-<item>
-      <g:id>RFMV-621852</g:id>
-      <g:title><![CDATA[Babymotorik 3-6 måneder]]></g:title>
-      <g:description><![CDATA[Få nye idéer til leg der er gode for dit barns sanser og motorik og hav det hyggeligt sammen med andre forældre på barsel. Fødselsterapeut Sarah har hold for både de helt små i alderen 3-6 måneder og børn på 6-10 måneder med mor eller far.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-randers-favrskov-mariagerfjord-viborg/babymotorik?holdnr=621852</g:link>
-      <g:image_link>https://www.fof.dk/media/0zcbwnjy/babyrytmik-baby-kigger-kvadrat-web.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>175.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Randers-Favrskov-Mariagerfjord-Viborg</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Aktiviteter med baby</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
-      <g:custom_label_2>Aktiviteter med baby</g:custom_label_2>
-      <g:custom_label_4>Randers</g:custom_label_4>
-      <g:start_date>2026-11-23T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Randers C']</g:internal_label>
+      <g:internal_label>['Nyhed','Randers','1 dags kursus','Randers C']</g:internal_label>
     </item>
 <item>
       <g:id>RFMV-621853</g:id>
@@ -480,28 +440,7 @@ Kurset er hos FOF i Randers]]></g:description>
       <g:custom_label_4>Randers</g:custom_label_4>
       <g:start_date>2026-11-24T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Nyhed</g:custom_label_3>
-      <g:internal_label>['Nyhed','Randers C']</g:internal_label>
-    </item>
-<item>
-      <g:id>RFMV-628830</g:id>
-      <g:title><![CDATA[Smilets Ambassadør]]></g:title>
-      <g:description><![CDATA[Oplev Jesper Grønkjær – Smilets Ambassadør – i et inspirerende foredrag fyldt med eventyr, humor og stærke historier fra 25 års rejser verden rundt, når han besøger FOF i Viborg den 25/11-26. Læs mere på hjemmesiden, hvor du også finder tilmelding.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-randers-favrskov-mariagerfjord-viborg/smilets-ambassadoer?holdnr=628830</g:link>
-      <g:image_link>https://www.fof.dk/media/upifwze5/jesper-groenkjaer-screenshot.png?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>125.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Randers-Favrskov-Mariagerfjord-Viborg</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Foredrag, debat og højskoler &gt; Kultur og livsfortællinger</g:product_type>
-      <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
-      <g:custom_label_1>Kultur og livsfortællinger</g:custom_label_1>
-      <g:custom_label_2></g:custom_label_2>
-      <g:custom_label_4>Viborg</g:custom_label_4>
-      <g:start_date>2026-11-24T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Viborg']</g:internal_label>
+      <g:internal_label>['Nyhed','Foredrag','Randers C']</g:internal_label>
     </item>
 <item>
       <g:id>RFMV-621855</g:id>
@@ -543,7 +482,8 @@ Kurset er hos FOF i Randers]]></g:description>
       <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4>Randers</g:custom_label_4>
       <g:start_date>2026-11-25T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Randers C']</g:internal_label>
+      <g:custom_label_3>Foredrag</g:custom_label_3>
+      <g:internal_label>['Foredrag','Randers C']</g:internal_label>
     </item>
 <item>
       <g:id>RFMV-626607</g:id>
@@ -565,7 +505,7 @@ Kurset er hos FOF i Randers]]></g:description>
       <g:custom_label_4>Randers</g:custom_label_4>
       <g:start_date>2026-11-28T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Weekend</g:custom_label_3>
-      <g:internal_label>['Weekend','Randers C']</g:internal_label>
+      <g:internal_label>['Weekend','1 dags kursus','Randers C']</g:internal_label>
     </item>
 <item>
       <g:id>RFMV-628832</g:id>
@@ -587,7 +527,7 @@ Kurset er hos FOF i Randers]]></g:description>
       <g:custom_label_4>Viborg</g:custom_label_4>
       <g:start_date>2026-11-29T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Viborg</g:custom_label_3>
-      <g:internal_label>['Viborg']</g:internal_label>
+      <g:internal_label>['Viborg','1 dags kursus']</g:internal_label>
     </item>
 <item>
       <g:id>RFMV-620759</g:id>
@@ -609,7 +549,7 @@ Kurset er hos FOF i Randers]]></g:description>
       <g:custom_label_4>Randers</g:custom_label_4>
       <g:start_date>2026-11-30T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Weekend</g:custom_label_3>
-      <g:internal_label>['Weekend','Nyhed','Randers C']</g:internal_label>
+      <g:internal_label>['Weekend','Nyhed','1 dags kursus','Randers C']</g:internal_label>
     </item>
 <item>
       <g:id>RFMV-620562</g:id>
@@ -631,7 +571,7 @@ Kurset er hos FOF i Randers]]></g:description>
       <g:custom_label_4>Randers</g:custom_label_4>
       <g:start_date>2026-12-03T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Nyhed</g:custom_label_3>
-      <g:internal_label>['Nyhed','Randers','Randers C']</g:internal_label>
+      <g:internal_label>['Nyhed','Randers','1 dags kursus','Randers C']</g:internal_label>
     </item>
 <item>
       <g:id>RFMV-628809</g:id>
@@ -652,7 +592,8 @@ Kurset er hos FOF i Randers]]></g:description>
       <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4>Viborg</g:custom_label_4>
       <g:start_date>2026-12-03T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Viborg']</g:internal_label>
+      <g:custom_label_3>Foredrag</g:custom_label_3>
+      <g:internal_label>['Foredrag','Viborg']</g:internal_label>
     </item>
 <item>
       <g:id>RFMV-621417</g:id>
@@ -696,7 +637,7 @@ Kurset er hos FOF i Randers]]></g:description>
       <g:custom_label_4>Randers</g:custom_label_4>
       <g:start_date>2026-12-18T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Nyhed</g:custom_label_3>
-      <g:internal_label>['Nyhed','Randers C']</g:internal_label>
+      <g:internal_label>['Nyhed','1 dags kursus','Randers C']</g:internal_label>
     </item>
 <item>
       <g:id>RFMV-621111</g:id>
@@ -718,7 +659,7 @@ Kurset er hos FOF i Randers]]></g:description>
       <g:custom_label_4>Randers</g:custom_label_4>
       <g:start_date>2026-12-19T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Viborg</g:custom_label_3>
-      <g:internal_label>['Viborg','Randers C']</g:internal_label>
+      <g:internal_label>['Viborg','1 dags kursus','Randers C']</g:internal_label>
     </item>
 <item>
       <g:id>RFMV-628819</g:id>
@@ -740,7 +681,7 @@ Kurset er hos FOF i Randers]]></g:description>
       <g:custom_label_4>Viborg</g:custom_label_4>
       <g:start_date>2026-12-20T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Viborg</g:custom_label_3>
-      <g:internal_label>['Viborg']</g:internal_label>
+      <g:internal_label>['Viborg','1 dags kursus']</g:internal_label>
     </item>
 <item>
       <g:id>RFMV-711471</g:id>
@@ -784,7 +725,7 @@ Kurset er hos FOF i Randers]]></g:description>
       <g:custom_label_4>Viborg</g:custom_label_4>
       <g:start_date>2027-01-09T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Weekend</g:custom_label_3>
-      <g:internal_label>['Weekend','Viborg']</g:internal_label>
+      <g:internal_label>['Weekend','Viborg','1 dags kursus']</g:internal_label>
     </item>
 <item>
       <g:id>RFMV-711417</g:id>
@@ -893,8 +834,8 @@ Kurset er hos FOF i Randers]]></g:description>
       <g:custom_label_2>Dans</g:custom_label_2>
       <g:custom_label_4>Hobro</g:custom_label_4>
       <g:start_date>2027-01-13T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Nyhed</g:custom_label_3>
-      <g:internal_label>['Nyhed','Hobro']</g:internal_label>
+      <g:custom_label_3>Mariagerfjord</g:custom_label_3>
+      <g:internal_label>['Mariagerfjord','Nyhed','Hobro']</g:internal_label>
     </item>
 <item>
       <g:id>RFMV-710560</g:id>
@@ -916,7 +857,7 @@ Kurset er hos FOF i Randers]]></g:description>
       <g:custom_label_4>Randers</g:custom_label_4>
       <g:start_date>2027-01-14T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Nyhed</g:custom_label_3>
-      <g:internal_label>['Nyhed','Randers','Randers C']</g:internal_label>
+      <g:internal_label>['Nyhed','Randers','1 dags kursus','Randers C']</g:internal_label>
     </item>
 <item>
       <g:id>RFMV-710529</g:id>
@@ -937,7 +878,8 @@ Kurset er hos FOF i Randers]]></g:description>
       <g:custom_label_2>Syning</g:custom_label_2>
       <g:custom_label_4>Randers</g:custom_label_4>
       <g:start_date>2027-01-16T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Randers C']</g:internal_label>
+      <g:custom_label_3>1 dags kursus</g:custom_label_3>
+      <g:internal_label>['1 dags kursus','Randers C']</g:internal_label>
     </item>
 <item>
       <g:id>RFMV-711601</g:id>
@@ -959,7 +901,7 @@ Kurset er hos FOF i Randers]]></g:description>
       <g:custom_label_4>Randers</g:custom_label_4>
       <g:start_date>2027-01-20T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Nyhed</g:custom_label_3>
-      <g:internal_label>['Nyhed','Randers C']</g:internal_label>
+      <g:internal_label>['Nyhed','Foredrag','Randers C']</g:internal_label>
     </item>
 <item>
       <g:id>RFMV-711441</g:id>
@@ -982,7 +924,7 @@ Kurset er hos FOF i Randers]]></g:description>
       <g:custom_label_4>Randers</g:custom_label_4>
       <g:start_date>2027-01-23T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Nyhed</g:custom_label_3>
-      <g:internal_label>['Nyhed','Weekend','Randers C']</g:internal_label>
+      <g:internal_label>['Nyhed','Weekend','1 dags kursus','Randers C']</g:internal_label>
     </item>
 <item>
       <g:id>RFMV-710555</g:id>
@@ -1048,7 +990,7 @@ Kurset er hos FOF i Randers]]></g:description>
       <g:custom_label_4>Randers</g:custom_label_4>
       <g:start_date>2027-01-28T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Nyhed</g:custom_label_3>
-      <g:internal_label>['Nyhed','Randers SØ']</g:internal_label>
+      <g:internal_label>['Nyhed','1 dags kursus','Randers SØ']</g:internal_label>
     </item>
 <item>
       <g:id>RFMV-710784</g:id>
@@ -1069,7 +1011,8 @@ Kurset er hos FOF i Randers]]></g:description>
       <g:custom_label_2>Pilates</g:custom_label_2>
       <g:custom_label_4>Randers</g:custom_label_4>
       <g:start_date>2027-01-29T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Randers C']</g:internal_label>
+      <g:custom_label_3>1 dags kursus</g:custom_label_3>
+      <g:internal_label>['1 dags kursus','Randers C']</g:internal_label>
     </item>
 <item>
       <g:id>RFMV-710783</g:id>
@@ -1090,7 +1033,8 @@ Kurset er hos FOF i Randers]]></g:description>
       <g:custom_label_2>Pilates</g:custom_label_2>
       <g:custom_label_4>Randers</g:custom_label_4>
       <g:start_date>2027-01-30T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Randers C']</g:internal_label>
+      <g:custom_label_3>1 dags kursus</g:custom_label_3>
+      <g:internal_label>['1 dags kursus','Randers C']</g:internal_label>
     </item>
 <item>
       <g:id>RFMV-711522</g:id>
@@ -1111,7 +1055,8 @@ Kurset er hos FOF i Randers]]></g:description>
       <g:custom_label_2>Madteknikker</g:custom_label_2>
       <g:custom_label_4>Randers</g:custom_label_4>
       <g:start_date>2027-02-02T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Randers SØ']</g:internal_label>
+      <g:custom_label_3>1 dags kursus</g:custom_label_3>
+      <g:internal_label>['1 dags kursus','Randers SØ']</g:internal_label>
     </item>
 <item>
       <g:id>RFMV-711604</g:id>
@@ -1133,7 +1078,7 @@ Kurset er hos FOF i Randers]]></g:description>
       <g:custom_label_4>Gjerlev J</g:custom_label_4>
       <g:start_date>2027-02-03T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Nyhed</g:custom_label_3>
-      <g:internal_label>['Nyhed','Gjerlev J']</g:internal_label>
+      <g:internal_label>['Nyhed','Foredrag','Gjerlev J']</g:internal_label>
     </item>
 <item>
       <g:id>RFMV-710561</g:id>
@@ -1155,7 +1100,7 @@ Kurset er hos FOF i Randers]]></g:description>
       <g:custom_label_4>Randers</g:custom_label_4>
       <g:start_date>2027-02-04T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Nyhed</g:custom_label_3>
-      <g:internal_label>['Nyhed','Randers','Randers C']</g:internal_label>
+      <g:internal_label>['Nyhed','Randers','1 dags kursus','Randers C']</g:internal_label>
     </item>
 <item>
       <g:id>RFMV-710534</g:id>
@@ -1199,7 +1144,7 @@ Kurset er hos FOF i Randers]]></g:description>
       <g:custom_label_4>Randers</g:custom_label_4>
       <g:start_date>2027-02-09T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Nyhed</g:custom_label_3>
-      <g:internal_label>['Nyhed','Randers C']</g:internal_label>
+      <g:internal_label>['Nyhed','Foredrag','Randers C']</g:internal_label>
     </item>
 <item>
       <g:id>RFMV-712304</g:id>
@@ -1221,8 +1166,8 @@ Du lærer at lave dine egne mønstre]]></g:description>
       <g:custom_label_2>Håndarbejde</g:custom_label_2>
       <g:custom_label_4>Mariager</g:custom_label_4>
       <g:start_date>2027-02-23T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Nyhed</g:custom_label_3>
-      <g:internal_label>['Nyhed','Mariagerfjord','Randers','Mariager']</g:internal_label>
+      <g:custom_label_3>Mariagerfjord</g:custom_label_3>
+      <g:internal_label>['Mariagerfjord','Nyhed','Randers','1 dags kursus','Mariager']</g:internal_label>
     </item>
 <item>
       <g:id>RFMV-718801</g:id>
@@ -1243,7 +1188,8 @@ Du lærer at lave dine egne mønstre]]></g:description>
       <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4>Viborg</g:custom_label_4>
       <g:start_date>2027-02-23T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Viborg']</g:internal_label>
+      <g:custom_label_3>Foredrag</g:custom_label_3>
+      <g:internal_label>['Foredrag','Viborg']</g:internal_label>
     </item>
 <item>
       <g:id>RFMV-711602</g:id>
@@ -1265,7 +1211,7 @@ Du lærer at lave dine egne mønstre]]></g:description>
       <g:custom_label_4>Randers</g:custom_label_4>
       <g:start_date>2027-02-24T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Nyhed</g:custom_label_3>
-      <g:internal_label>['Nyhed','Randers C']</g:internal_label>
+      <g:internal_label>['Nyhed','Foredrag','Randers C']</g:internal_label>
     </item>
 <item>
       <g:id>RFMV-712303</g:id>
@@ -1288,7 +1234,7 @@ Du lærer at lave dine egne mønstre]]></g:description>
       <g:custom_label_4>Arden</g:custom_label_4>
       <g:start_date>2027-02-25T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Nyhed</g:custom_label_3>
-      <g:internal_label>['Nyhed','Mariagerfjord','Randers','Arden']</g:internal_label>
+      <g:internal_label>['Nyhed','Mariagerfjord','Randers','1 dags kursus','Arden']</g:internal_label>
     </item>
 <item>
       <g:id>RFMV-711523</g:id>
@@ -1309,7 +1255,8 @@ Du lærer at lave dine egne mønstre]]></g:description>
       <g:custom_label_2>Madteknikker</g:custom_label_2>
       <g:custom_label_4>Randers</g:custom_label_4>
       <g:start_date>2027-02-25T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Randers SØ']</g:internal_label>
+      <g:custom_label_3>1 dags kursus</g:custom_label_3>
+      <g:internal_label>['1 dags kursus','Randers SØ']</g:internal_label>
     </item>
 <item>
       <g:id>RFMV-711153</g:id>
@@ -1353,7 +1300,7 @@ Du lærer at lave dine egne mønstre]]></g:description>
       <g:custom_label_4>Randers</g:custom_label_4>
       <g:start_date>2027-03-02T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Nyhed</g:custom_label_3>
-      <g:internal_label>['Nyhed','Randers SØ']</g:internal_label>
+      <g:internal_label>['Nyhed','1 dags kursus','Randers SØ']</g:internal_label>
     </item>
 <item>
       <g:id>RFMV-710330</g:id>
@@ -1395,7 +1342,8 @@ Du lærer at lave dine egne mønstre]]></g:description>
       <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4>Gjerlev J</g:custom_label_4>
       <g:start_date>2027-03-03T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Gjerlev J']</g:internal_label>
+      <g:custom_label_3>Foredrag</g:custom_label_3>
+      <g:internal_label>['Foredrag','Gjerlev J']</g:internal_label>
     </item>
 <item>
       <g:id>RFMV-710304</g:id>
@@ -1417,7 +1365,7 @@ Du lærer at lave dine egne mønstre]]></g:description>
       <g:custom_label_4>Randers</g:custom_label_4>
       <g:start_date>2027-03-06T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Nyhed</g:custom_label_3>
-      <g:internal_label>['Nyhed','Weekend','Randers C']</g:internal_label>
+      <g:internal_label>['Nyhed','Weekend','1 dags kursus','Randers C']</g:internal_label>
     </item>
 <item>
       <g:id>RFMV-711650</g:id>
@@ -1439,7 +1387,7 @@ Du lærer at lave dine egne mønstre]]></g:description>
       <g:custom_label_4>Randers</g:custom_label_4>
       <g:start_date>2027-03-11T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Nyhed</g:custom_label_3>
-      <g:internal_label>['Nyhed','Randers C']</g:internal_label>
+      <g:internal_label>['Nyhed','Foredrag','Randers C']</g:internal_label>
     </item>
 <item>
       <g:id>RFMV-711603</g:id>
@@ -1461,7 +1409,7 @@ Du lærer at lave dine egne mønstre]]></g:description>
       <g:custom_label_4>Randers</g:custom_label_4>
       <g:start_date>2027-03-17T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Nyhed</g:custom_label_3>
-      <g:internal_label>['Nyhed','Randers C']</g:internal_label>
+      <g:internal_label>['Nyhed','Foredrag','Randers C']</g:internal_label>
     </item>
 <item>
       <g:id>RFMV-712305</g:id>
@@ -1526,7 +1474,8 @@ Du lærer at lave dine egne mønstre]]></g:description>
       <g:custom_label_2>Havekurser</g:custom_label_2>
       <g:custom_label_4>Randers</g:custom_label_4>
       <g:start_date>2027-04-06T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Randers C']</g:internal_label>
+      <g:custom_label_3>1 dags kursus</g:custom_label_3>
+      <g:internal_label>['1 dags kursus','Randers C']</g:internal_label>
     </item>
 <item>
       <g:id>RFMV-711414</g:id>
@@ -1590,7 +1539,8 @@ Du lærer at lave dine egne mønstre]]></g:description>
       <g:custom_label_2>Madteknikker</g:custom_label_2>
       <g:custom_label_4>Randers</g:custom_label_4>
       <g:start_date>2027-04-13T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Randers SØ']</g:internal_label>
+      <g:custom_label_3>1 dags kursus</g:custom_label_3>
+      <g:internal_label>['1 dags kursus','Randers SØ']</g:internal_label>
     </item>
 <item>
       <g:id>RFMV-710501</g:id>
@@ -1613,7 +1563,7 @@ Du lærer at lave dine egne mønstre]]></g:description>
       <g:custom_label_4>Randers</g:custom_label_4>
       <g:start_date>2027-04-17T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Nyhed</g:custom_label_3>
-      <g:internal_label>['Nyhed','Mariagerfjord','Randers','Randers C']</g:internal_label>
+      <g:internal_label>['Nyhed','Mariagerfjord','Randers','1 dags kursus','Randers C']</g:internal_label>
     </item>
 <item>
       <g:id>RFMV-711527</g:id>
@@ -1634,7 +1584,8 @@ Du lærer at lave dine egne mønstre]]></g:description>
       <g:custom_label_2>Havekurser</g:custom_label_2>
       <g:custom_label_4>Randers</g:custom_label_4>
       <g:start_date>2027-04-20T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Randers C']</g:internal_label>
+      <g:custom_label_3>1 dags kursus</g:custom_label_3>
+      <g:internal_label>['1 dags kursus','Randers C']</g:internal_label>
     </item>
 <item>
       <g:id>RFMV-711528</g:id>
@@ -1656,7 +1607,7 @@ Du lærer at lave dine egne mønstre]]></g:description>
       <g:custom_label_4>Randers</g:custom_label_4>
       <g:start_date>2027-04-27T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Nyhed</g:custom_label_3>
-      <g:internal_label>['Nyhed','Randers SØ']</g:internal_label>
+      <g:internal_label>['Nyhed','1 dags kursus','Randers SØ']</g:internal_label>
     </item>
 <item>
       <g:id>RFMV-711636</g:id>
@@ -1677,8 +1628,8 @@ Du lærer at lave dine egne mønstre]]></g:description>
       <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4>Mariager</g:custom_label_4>
       <g:start_date>2027-04-27T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Nyhed</g:custom_label_3>
-      <g:internal_label>['Nyhed','Mariager']</g:internal_label>
+      <g:custom_label_3>Mariagerfjord</g:custom_label_3>
+      <g:internal_label>['Mariagerfjord','Nyhed','Foredrag','Mariager']</g:internal_label>
     </item>
 <item>
       <g:id>RFMV-721414</g:id>
