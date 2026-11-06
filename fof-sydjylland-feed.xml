@@ -6,28 +6,6 @@
 <description>Meta produktfeed med alle ledige hold fra FOF Sydjylland</description>
 <language>da-DK</language>
 <item>
-      <g:id>SJY-2620305</g:id>
-      <g:title><![CDATA[Karen Blixen storytelling - Johannes Rosendahl og Staldgården]]></g:title>
-      <g:description><![CDATA[Kom tæt på Karen Blixen og Johannes Rosendahls venskab. Et levende foredrag med Anne Lilballe i Kolding med nærvær og humor. Se mere og tilmeld dig.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-sydjylland/karen-blixen-og-johannes-rosendahl-fh?holdnr=2620305</g:link>
-      <g:image_link>https://www.fof.dk/media/l4snfypt/karen-blixen-anne-lilballe-1659.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>165.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Sydjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Foredrag, debat og højskoler &gt; Kultur og livsfortællinger</g:product_type>
-      <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
-      <g:custom_label_1>Kultur og livsfortællinger</g:custom_label_1>
-      <g:custom_label_2></g:custom_label_2>
-      <g:custom_label_4>Kolding</g:custom_label_4>
-      <g:start_date>2026-11-06T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Efterår</g:custom_label_3>
-      <g:internal_label>['Efterår','Kolding','Starter snart','Hold til under 200 kr']</g:internal_label>
-    </item>
-<item>
       <g:id>SJY-2626252</g:id>
       <g:title><![CDATA[Lynkursus i maleri - Weekend]]></g:title>
       <g:description><![CDATA[Kom på et koncentreret weekend kursus for begyndere og mere erfarne malere. Vi arbejder med billedet fra starten - og eksperimenterer. Se mere og tilmeld dig.]]></g:description>
@@ -311,7 +289,7 @@
       <g:custom_label_4>Haderslev</g:custom_label_4>
       <g:start_date>2026-11-21T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Haderslev</g:custom_label_3>
-      <g:internal_label>['Haderslev','Krea','Håndværk og kunsthåndværk (Kunsthåndværk og DIY)']</g:internal_label>
+      <g:internal_label>['Haderslev','Starter snart','Krea','Håndværk og kunsthåndværk (Kunsthåndværk og DIY)']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2626086</g:id>
@@ -333,7 +311,7 @@
       <g:custom_label_4>Kolding</g:custom_label_4>
       <g:start_date>2026-11-21T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Kolding</g:custom_label_3>
-      <g:internal_label>['Kolding','Krea','Håndarbejde']</g:internal_label>
+      <g:internal_label>['Kolding','Starter snart','Krea','Håndarbejde']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2626087</g:id>
@@ -355,7 +333,7 @@
       <g:custom_label_4>Kolding</g:custom_label_4>
       <g:start_date>2026-11-21T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Kolding</g:custom_label_3>
-      <g:internal_label>['Kolding','Krea','Håndarbejde']</g:internal_label>
+      <g:internal_label>['Kolding','Starter snart','Krea','Håndarbejde']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2627863</g:id>
@@ -377,7 +355,7 @@
       <g:custom_label_4>Gram</g:custom_label_4>
       <g:start_date>2026-11-21T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Haderslev</g:custom_label_3>
-      <g:internal_label>['Haderslev','Madlavning','Gram']</g:internal_label>
+      <g:internal_label>['Haderslev','Starter snart','Madlavning','Gram']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2627912</g:id>
@@ -399,7 +377,7 @@
       <g:custom_label_4>Gram</g:custom_label_4>
       <g:start_date>2026-11-21T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Haderslev</g:custom_label_3>
-      <g:internal_label>['Haderslev','Madlavning','Gram']</g:internal_label>
+      <g:internal_label>['Haderslev','Starter snart','Madlavning','Gram']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2626088</g:id>
@@ -486,7 +464,8 @@
       <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4>Kolding</g:custom_label_4>
       <g:start_date>2026-11-25T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Kolding']</g:internal_label>
+      <g:custom_label_3>Kolding</g:custom_label_3>
+      <g:internal_label>['Kolding','Hold til under 200 kr']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2620040</g:id>
@@ -749,8 +728,8 @@
       <g:custom_label_2>Bagning og søde sager</g:custom_label_2>
       <g:custom_label_4>Vojens</g:custom_label_4>
       <g:start_date>2026-12-06T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Jul og nytår</g:custom_label_3>
-      <g:internal_label>['Jul og nytår','Madlavning','Vojens']</g:internal_label>
+      <g:custom_label_3>Haderslev</g:custom_label_3>
+      <g:internal_label>['Haderslev','Jul og nytår','Madlavning','Vojens']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2625961</g:id>
@@ -969,8 +948,8 @@
       <g:custom_label_2>Bevægelse og afspænding</g:custom_label_2>
       <g:custom_label_4>Aabenraa</g:custom_label_4>
       <g:start_date>2027-01-12T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Motion og sundhed</g:custom_label_3>
-      <g:internal_label>['Motion og sundhed','Hensyntagende','Bevægelse og afspænding','Aabenraa']</g:internal_label>
+      <g:custom_label_3>Aabenraa</g:custom_label_3>
+      <g:internal_label>['Aabenraa','Motion og sundhed','Hensyntagende','Bevægelse og afspænding']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2714200</g:id>
@@ -1673,30 +1652,8 @@
       <g:custom_label_2>Dansk - Danish</g:custom_label_2>
       <g:custom_label_4>Bredebro</g:custom_label_4>
       <g:start_date>2027-01-28T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Sprog</g:custom_label_3>
-      <g:internal_label>['Sprog','Dansk - Danish','Sprog niveau - Begyndere og fortsættere','Bredebro']</g:internal_label>
-    </item>
-<item>
-      <g:id>SJY-2712401</g:id>
-      <g:title><![CDATA[Kinesisk 1 -  Begynder]]></g:title>
-      <g:description><![CDATA[Lær kinesisk eller få det genopfrisket. Vi arbejder med det kinesiske sprog og på kulturforståelsen. Derudover vil der også blive arbejdet med skrifttegn. Se mere og tilmeld dig.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-sydjylland/kinesisk-1-begynder?holdnr=2712401</g:link>
-      <g:image_link>https://www.fof.dk/media/sovk4ajx/kinesisk-1.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1495.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Sydjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Sprog &gt; Kinesisk</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Sprog</g:custom_label_1>
-      <g:custom_label_2>Kinesisk</g:custom_label_2>
-      <g:custom_label_4>Kolding</g:custom_label_4>
-      <g:start_date>2027-01-28T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Sprog</g:custom_label_3>
-      <g:internal_label>['Sprog','Kinesisk','Sprog niveau - Begyndere og fortsættere','Kolding']</g:internal_label>
+      <g:custom_label_3>Tønder</g:custom_label_3>
+      <g:internal_label>['Tønder','Sprog','Dansk - Danish','Sprog niveau - Begyndere og fortsættere','Bredebro']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2712652</g:id>
@@ -1717,8 +1674,30 @@
       <g:custom_label_2>Dansk - Danish</g:custom_label_2>
       <g:custom_label_4>Bredebro</g:custom_label_4>
       <g:start_date>2027-01-28T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Sprog</g:custom_label_3>
-      <g:internal_label>['Sprog','Dansk - Danish','Sprog niveau - Begyndere og fortsættere','Bredebro']</g:internal_label>
+      <g:custom_label_3>Tønder</g:custom_label_3>
+      <g:internal_label>['Tønder','Sprog','Dansk - Danish','Sprog niveau - Begyndere og fortsættere','Bredebro']</g:internal_label>
+    </item>
+<item>
+      <g:id>SJY-2712401</g:id>
+      <g:title><![CDATA[Kinesisk 1 -  Begynder]]></g:title>
+      <g:description><![CDATA[Lær kinesisk eller få det genopfrisket. Vi arbejder med det kinesiske sprog og på kulturforståelsen. Derudover vil der også blive arbejdet med skrifttegn. Se mere og tilmeld dig.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydjylland/kinesisk-1-begynder?holdnr=2712401</g:link>
+      <g:image_link>https://www.fof.dk/media/sovk4ajx/kinesisk-1.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1495.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Sprog &gt; Kinesisk</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Sprog</g:custom_label_1>
+      <g:custom_label_2>Kinesisk</g:custom_label_2>
+      <g:custom_label_4>Kolding</g:custom_label_4>
+      <g:start_date>2027-01-28T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Kolding</g:custom_label_3>
+      <g:internal_label>['Kolding','Sprog','Kinesisk','Sprog niveau - Begyndere og fortsættere']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2716400</g:id>

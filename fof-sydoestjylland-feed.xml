@@ -6,28 +6,6 @@
 <description>Meta produktfeed med alle ledige hold fra FOF Sydøstjylland</description>
 <language>da-DK</language>
 <item>
-      <g:id>SOJ-265111</g:id>
-      <g:title><![CDATA[Groove - Ladies Night]]></g:title>
-      <g:description><![CDATA[Kom til Groove Ladies Night i Horsens og oplev dans, musik, feminin energi og fællesskab. Sjov motion og Groove dans for kvinder hos FOF.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-sydoestjylland/groove-ladies-night?holdnr=265111</g:link>
-      <g:image_link>https://www.fof.dk/media/hmxbevpd/ladies-night.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>150.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Sydøstjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Dans</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Dans</g:custom_label_2>
-      <g:custom_label_4>Horsens</g:custom_label_4>
-      <g:start_date>2026-11-06T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Starter snart</g:custom_label_3>
-      <g:internal_label>['Starter snart','Workshops','Horsens']</g:internal_label>
-    </item>
-<item>
       <g:id>SOJ-265200</g:id>
       <g:title><![CDATA[Pileflet]]></g:title>
       <g:description><![CDATA[Lær pileflet i Horsens og Vejle. Kreativt kursus med naturmaterialer for begyndere og øvede. Tilmeld dig pileflet workshop i dag.]]></g:description>
@@ -90,7 +68,8 @@
       <g:custom_label_2>Håndværk og kunsthåndværk</g:custom_label_2>
       <g:custom_label_4>Vejle</g:custom_label_4>
       <g:start_date>2026-11-08T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Vejle']</g:internal_label>
+      <g:custom_label_3>Starter snart</g:custom_label_3>
+      <g:internal_label>['Starter snart','Vejle']</g:internal_label>
     </item>
 <item>
       <g:id>SOJ-269071</g:id>
@@ -463,8 +442,8 @@
       <g:custom_label_2>Mindfulness og meditation</g:custom_label_2>
       <g:custom_label_4>Vejle</g:custom_label_4>
       <g:start_date>2026-11-21T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Nyhed</g:custom_label_3>
-      <g:internal_label>['Nyhed','Vejle']</g:internal_label>
+      <g:custom_label_3>Starter snart</g:custom_label_3>
+      <g:internal_label>['Starter snart','Nyhed','Vejle']</g:internal_label>
     </item>
 <item>
       <g:id>SOJ-266702</g:id>

@@ -288,8 +288,8 @@
       <g:custom_label_2>Kropspleje</g:custom_label_2>
       <g:custom_label_4>Køge</g:custom_label_4>
       <g:start_date>2026-11-21T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Weekend</g:custom_label_3>
-      <g:internal_label>['Weekend','Køge']</g:internal_label>
+      <g:custom_label_3>Starter snart</g:custom_label_3>
+      <g:internal_label>['Starter snart','Endagskurser','Køge','Weekend']</g:internal_label>
     </item>
 <item>
       <g:id>KOE-51248</g:id>
@@ -311,7 +311,7 @@
       <g:custom_label_4>Køge</g:custom_label_4>
       <g:start_date>2026-11-21T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Endagskurser</g:custom_label_3>
-      <g:internal_label>['Endagskurser','Køge','Weekend']</g:internal_label>
+      <g:internal_label>['Endagskurser','Køge','Starter snart','Weekend']</g:internal_label>
     </item>
 <item>
       <g:id>KOE-50906</g:id>
@@ -333,7 +333,7 @@
       <g:custom_label_4>Greve</g:custom_label_4>
       <g:start_date>2026-11-21T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Få pladser tilbage</g:custom_label_3>
-      <g:internal_label>['Få pladser tilbage','Greve','Endagskurser','Weekend']</g:internal_label>
+      <g:internal_label>['Få pladser tilbage','Greve','Endagskurser','Starter snart','Weekend']</g:internal_label>
     </item>
 <item>
       <g:id>KOE-51604</g:id>
@@ -640,8 +640,8 @@
       <g:custom_label_2>Styrke- og konditionstræning</g:custom_label_2>
       <g:custom_label_4>Hårlev</g:custom_label_4>
       <g:start_date>2027-01-05T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Hensyntagende</g:custom_label_3>
-      <g:internal_label>['Hensyntagende','Partnerskab','Hårlev']</g:internal_label>
+      <g:custom_label_3>Stevns</g:custom_label_3>
+      <g:internal_label>['Stevns','Hensyntagende','Partnerskab','Hårlev']</g:internal_label>
     </item>
 <item>
       <g:id>KOE-53008</g:id>
@@ -1388,30 +1388,8 @@
       <g:custom_label_2>Malekurser</g:custom_label_2>
       <g:custom_label_4>Køge</g:custom_label_4>
       <g:start_date>2027-03-02T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Weekend</g:custom_label_3>
-      <g:internal_label>['Weekend','Køge']</g:internal_label>
-    </item>
-<item>
-      <g:id>KOE-52202</g:id>
-      <g:title><![CDATA[Vinyasa flow yoga og breathwork]]></g:title>
-      <g:description><![CDATA[En lækker flowyoga på faste hold med erfaren underviser. Dyrk vinyasa flow yoga med FOF Køge Bugt. En dynamisk yogaform til dig der ønsker en poweryoga. FOF Aftenskolen har vinyasa flow yoga i Køge, Greve og Smørum]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koege-bugt/vinyasa-flow-yoga?holdnr=52202</g:link>
-      <g:image_link>https://www.fof.dk/media/sq3lbttz/vinyasa-yoga.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>895.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Køge Bugt</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Yoga</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Yoga</g:custom_label_2>
-      <g:custom_label_4>Smørum</g:custom_label_4>
-      <g:start_date>2027-03-03T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Egedal</g:custom_label_3>
-      <g:internal_label>['Egedal','Forår','Smørum']</g:internal_label>
+      <g:custom_label_3>Forår</g:custom_label_3>
+      <g:internal_label>['Forår','Køge','Weekend']</g:internal_label>
     </item>
 <item>
       <g:id>KOE-52203</g:id>
@@ -1436,6 +1414,28 @@
       <g:internal_label>['Egedal','Forår','Weekend','Smørum']</g:internal_label>
     </item>
 <item>
+      <g:id>KOE-52202</g:id>
+      <g:title><![CDATA[Vinyasa flow yoga og breathwork]]></g:title>
+      <g:description><![CDATA[En lækker flowyoga på faste hold med erfaren underviser. Dyrk vinyasa flow yoga med FOF Køge Bugt. En dynamisk yogaform til dig der ønsker en poweryoga. FOF Aftenskolen har vinyasa flow yoga i Køge, Greve og Smørum]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koege-bugt/vinyasa-flow-yoga?holdnr=52202</g:link>
+      <g:image_link>https://www.fof.dk/media/sq3lbttz/vinyasa-yoga.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>895.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Køge Bugt</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Yoga</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Smørum</g:custom_label_4>
+      <g:start_date>2027-03-03T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Egedal</g:custom_label_3>
+      <g:internal_label>['Egedal','Forår','Smørum']</g:internal_label>
+    </item>
+<item>
       <g:id>KOE-53879</g:id>
       <g:title><![CDATA[Mød Danmarks første certificerede brødsommelier]]></g:title>
       <g:description><![CDATA[Oplev et sanseligt foredrag med brødsommelier Marcus Sennefelder. Smag på forskellige brød, udforsk aromaer og bliv klogere på brødets verden.]]></g:description>
@@ -1454,7 +1454,8 @@
       <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4>Køge</g:custom_label_4>
       <g:start_date>2027-03-03T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Køge']</g:internal_label>
+      <g:custom_label_3>Forår</g:custom_label_3>
+      <g:internal_label>['Forår','Endagskurser','Køge']</g:internal_label>
     </item>
 <item>
       <g:id>KOE-52888</g:id>
@@ -1475,8 +1476,8 @@
       <g:custom_label_2>Malekurser</g:custom_label_2>
       <g:custom_label_4>Køge</g:custom_label_4>
       <g:start_date>2027-03-06T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Weekend</g:custom_label_3>
-      <g:internal_label>['Weekend','Køge']</g:internal_label>
+      <g:custom_label_3>Forår</g:custom_label_3>
+      <g:internal_label>['Forår','Køge','Weekend']</g:internal_label>
     </item>
 <item>
       <g:id>KOE-52876</g:id>
@@ -1739,6 +1740,8 @@
       <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4></g:custom_label_4>
       <g:start_date>2027-03-18T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Forår</g:custom_label_3>
+      <g:internal_label>['Forår','Endagskurser']</g:internal_label>
     </item>
 <item>
       <g:id>KOE-52877</g:id>
@@ -1825,6 +1828,8 @@
       <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4></g:custom_label_4>
       <g:start_date>2027-04-06T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Forår</g:custom_label_3>
+      <g:internal_label>['Forår','Endagskurser']</g:internal_label>
     </item>
 <item>
       <g:id>KOE-53861</g:id>
@@ -1933,6 +1938,8 @@
       <g:custom_label_2>Foto og video</g:custom_label_2>
       <g:custom_label_4></g:custom_label_4>
       <g:start_date>2027-04-14T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Forår</g:custom_label_3>
+      <g:internal_label>['Forår','Endagskurser']</g:internal_label>
     </item>
 <item>
       <g:id>KOE-53855</g:id>
@@ -2261,6 +2268,8 @@
       <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4></g:custom_label_4>
       <g:start_date>2027-05-12T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Forår</g:custom_label_3>
+      <g:internal_label>['Forår','Endagskurser']</g:internal_label>
     </item>
 <item>
       <g:id>KOE-53876</g:id>
@@ -2413,8 +2422,8 @@
       <g:custom_label_2>Malekurser</g:custom_label_2>
       <g:custom_label_4>Roskilde</g:custom_label_4>
       <g:start_date>2027-06-05T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Weekend</g:custom_label_3>
-      <g:internal_label>['Weekend','Roskilde']</g:internal_label>
+      <g:custom_label_3>Forår</g:custom_label_3>
+      <g:internal_label>['Forår','Roskilde','Weekend']</g:internal_label>
     </item>
 <item>
       <g:id>KOE-53875</g:id>
@@ -2457,8 +2466,8 @@
       <g:custom_label_2>Malekurser</g:custom_label_2>
       <g:custom_label_4>Køge</g:custom_label_4>
       <g:start_date>2027-06-29T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Weekend</g:custom_label_3>
-      <g:internal_label>['Weekend','Køge']</g:internal_label>
+      <g:custom_label_3>Forår</g:custom_label_3>
+      <g:internal_label>['Forår','Køge','Weekend']</g:internal_label>
     </item>
 </channel>
 </rss>

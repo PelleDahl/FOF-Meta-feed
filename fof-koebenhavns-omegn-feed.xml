@@ -6,28 +6,6 @@
 <description>Meta produktfeed med alle ledige hold fra FOF Københavns Omegn</description>
 <language>da-DK</language>
 <item>
-      <g:id>KBO-22035</g:id>
-      <g:title><![CDATA[Absalons København ]]></g:title>
-      <g:description><![CDATA[Tag med på byvandring i København og følg Absalons fodspor i middelalderens København. Oplev Rådhuspladsen, Strøget og byens skjulte historie.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/absalons-koebenhavn?holdnr=22035</g:link>
-      <g:image_link>https://www.fof.dk/media/cpfbyzch/absalons-koebenhavn.png?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>190.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Københavns Omegn</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Rejser, ture og rundvisninger &gt; Byvandringer</g:product_type>
-      <g:custom_label_0>Rejser, ture og rundvisninger</g:custom_label_0>
-      <g:custom_label_1>Byvandringer</g:custom_label_1>
-      <g:custom_label_2></g:custom_label_2>
-      <g:custom_label_4></g:custom_label_4>
-      <g:start_date>2026-11-06T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Starter snart</g:custom_label_3>
-      <g:internal_label>['Starter snart','København','Endagskurser']</g:internal_label>
-    </item>
-<item>
       <g:id>KBO-22073</g:id>
       <g:title><![CDATA[Rundvisning i Vridsløselille Fængsel med fængselsguide]]></g:title>
       <g:description><![CDATA[Oplev en unik rundvisning i Vridsløselille Statsfængsel i Albertslund. Hør autentiske historier, se den ikoniske fængselsport og få indblik i livet bag murene.]]></g:description>
@@ -464,8 +442,8 @@
       <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4></g:custom_label_4>
       <g:start_date>2026-11-21T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>København</g:custom_label_3>
-      <g:internal_label>['København','Endagskurser']</g:internal_label>
+      <g:custom_label_3>Starter snart</g:custom_label_3>
+      <g:internal_label>['Starter snart','København','Endagskurser']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-22015</g:id>
@@ -990,6 +968,7 @@
       <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4>Taastrup</g:custom_label_4>
       <g:start_date>2027-01-12T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Taastrup</g:custom_label_3>
       <g:internal_label>['Taastrup']</g:internal_label>
     </item>
 <item>
@@ -1957,8 +1936,8 @@
       <g:custom_label_2>Tai Chi og Qi Gong</g:custom_label_2>
       <g:custom_label_4>Ballerup</g:custom_label_4>
       <g:start_date>2027-01-26T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Glostrup</g:custom_label_3>
-      <g:internal_label>['Glostrup','Ballerup','Brøndby']</g:internal_label>
+      <g:custom_label_3>Ballerup</g:custom_label_3>
+      <g:internal_label>['Ballerup','Glostrup','Brøndby']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23872</g:id>
@@ -2463,8 +2442,8 @@
       <g:custom_label_2>Træning i vand</g:custom_label_2>
       <g:custom_label_4>Herlev</g:custom_label_4>
       <g:start_date>2027-01-28T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Ballerup</g:custom_label_3>
-      <g:internal_label>['Ballerup','Herlev']</g:internal_label>
+      <g:custom_label_3>Herlev</g:custom_label_3>
+      <g:internal_label>['Herlev','Ballerup']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23526</g:id>
@@ -2749,8 +2728,8 @@
       <g:custom_label_2>Træning i vand</g:custom_label_2>
       <g:custom_label_4>Skovlunde</g:custom_label_4>
       <g:start_date>2027-02-01T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Glostrup</g:custom_label_3>
-      <g:internal_label>['Glostrup','Herlev','Skovlunde']</g:internal_label>
+      <g:custom_label_3>Ballerup</g:custom_label_3>
+      <g:internal_label>['Ballerup','Glostrup','Herlev','Skovlunde']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23687</g:id>
@@ -2837,8 +2816,8 @@
       <g:custom_label_2>Træning i vand</g:custom_label_2>
       <g:custom_label_4>Skovlunde</g:custom_label_4>
       <g:start_date>2027-02-01T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Glostrup</g:custom_label_3>
-      <g:internal_label>['Glostrup','Herlev','Skovlunde']</g:internal_label>
+      <g:custom_label_3>Ballerup</g:custom_label_3>
+      <g:internal_label>['Ballerup','Glostrup','Herlev','Skovlunde']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23793</g:id>
@@ -2947,8 +2926,8 @@
       <g:custom_label_2>Pilates</g:custom_label_2>
       <g:custom_label_4>Herlev</g:custom_label_4>
       <g:start_date>2027-02-02T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Taastrup</g:custom_label_3>
-      <g:internal_label>['Taastrup','Rødovre','Herlev']</g:internal_label>
+      <g:custom_label_3>Herlev</g:custom_label_3>
+      <g:internal_label>['Herlev','Taastrup','Rødovre']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23855</g:id>
@@ -2969,8 +2948,8 @@
       <g:custom_label_2>Træning i vand</g:custom_label_2>
       <g:custom_label_4>Glostrup</g:custom_label_4>
       <g:start_date>2027-02-02T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Herlev</g:custom_label_3>
-      <g:internal_label>['Herlev','Ballerup','Glostrup']</g:internal_label>
+      <g:custom_label_3>Glostrup</g:custom_label_3>
+      <g:internal_label>['Glostrup','Herlev','Ballerup']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23844</g:id>
@@ -2991,8 +2970,8 @@
       <g:custom_label_2>Træning i vand</g:custom_label_2>
       <g:custom_label_4>Herlev</g:custom_label_4>
       <g:start_date>2027-02-02T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Brøndby</g:custom_label_3>
-      <g:internal_label>['Brøndby','Herlev']</g:internal_label>
+      <g:custom_label_3>Herlev</g:custom_label_3>
+      <g:internal_label>['Herlev','Brøndby']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23848</g:id>
@@ -3057,8 +3036,8 @@
       <g:custom_label_2>Dans</g:custom_label_2>
       <g:custom_label_4>Taastrup</g:custom_label_4>
       <g:start_date>2027-02-02T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Brøndby</g:custom_label_3>
-      <g:internal_label>['Brøndby','Taastrup']</g:internal_label>
+      <g:custom_label_3>Taastrup</g:custom_label_3>
+      <g:internal_label>['Taastrup','Brøndby']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23906</g:id>
@@ -3149,28 +3128,6 @@
       <g:internal_label>['Albertslund','Glostrup','Herlev','Taastrup']</g:internal_label>
     </item>
 <item>
-      <g:id>KBO-23553</g:id>
-      <g:title><![CDATA[Hatha yoga for mænd]]></g:title>
-      <g:description><![CDATA[Deltag i Hatha yoga for mænd i Taastrup og Rødovre hos FOF Københavns Omegn. Rolig yoga med fokus på styrke, smidighed og færre spændinger.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/hatha-yoga-for-maend?holdnr=23553</g:link>
-      <g:image_link>https://www.fof.dk/media/jm4b03hn/hatha-yoga-for-maend.png?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1375.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Københavns Omegn</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Yoga</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Yoga</g:custom_label_2>
-      <g:custom_label_4>Rødovre</g:custom_label_4>
-      <g:start_date>2027-02-02T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Rødovre</g:custom_label_3>
-      <g:internal_label>['Rødovre','Taastrup']</g:internal_label>
-    </item>
-<item>
       <g:id>KBO-23543</g:id>
       <g:title><![CDATA[Yoga for seniorer]]></g:title>
       <g:description><![CDATA[Deltag i senioryoga hos FOF Københavns Omegn i Herlev, Glostrup, Albertslund og Taastrup. Gode lyse lokaler med nem adgang og gode parkeringsmuligheder. Blid yoga med fokus på balance, smidighed og ro.]]></g:description>
@@ -3191,6 +3148,28 @@
       <g:start_date>2027-02-02T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Albertslund</g:custom_label_3>
       <g:internal_label>['Albertslund','Glostrup','Herlev','Taastrup']</g:internal_label>
+    </item>
+<item>
+      <g:id>KBO-23553</g:id>
+      <g:title><![CDATA[Hatha yoga for mænd]]></g:title>
+      <g:description><![CDATA[Deltag i Hatha yoga for mænd i Taastrup og Rødovre hos FOF Københavns Omegn. Rolig yoga med fokus på styrke, smidighed og færre spændinger.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/hatha-yoga-for-maend?holdnr=23553</g:link>
+      <g:image_link>https://www.fof.dk/media/jm4b03hn/hatha-yoga-for-maend.png?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1375.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Københavns Omegn</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Yoga</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Rødovre</g:custom_label_4>
+      <g:start_date>2027-02-02T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Rødovre</g:custom_label_3>
+      <g:internal_label>['Rødovre','Taastrup']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23529</g:id>
@@ -3322,8 +3301,8 @@
       <g:custom_label_2>Bevægelse og afspænding</g:custom_label_2>
       <g:custom_label_4>Vallensbæk</g:custom_label_4>
       <g:start_date>2027-02-03T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Herlev</g:custom_label_3>
-      <g:internal_label>['Herlev','Rødovre','Vallensbæk']</g:internal_label>
+      <g:custom_label_3>Vallensbæk</g:custom_label_3>
+      <g:internal_label>['Vallensbæk','Herlev','Rødovre']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23857</g:id>
@@ -3344,30 +3323,8 @@
       <g:custom_label_2>Yoga</g:custom_label_2>
       <g:custom_label_4>Vallensbæk</g:custom_label_4>
       <g:start_date>2027-02-03T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Albertslund</g:custom_label_3>
-      <g:internal_label>['Albertslund','Brøndby','Glostrup','Herlev','Taastrup','Vallensbæk']</g:internal_label>
-    </item>
-<item>
-      <g:id>KBO-23828</g:id>
-      <g:title><![CDATA[Styrketræning med fokus på osteoporose]]></g:title>
-      <g:description><![CDATA[For dig med knogleskørhed/osteoporose. Skånsom og målrettet træning for dig med osteoporose. Fokus på styrke, balance og tryg bevægelse i rolige rammer med professionel vejledning.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/osteoporosetraening?holdnr=23828</g:link>
-      <g:image_link>https://www.fof.dk/media/koib4ksf/23.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1365.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Københavns Omegn</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Styrke- og konditionstræning</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Styrke- og konditionstræning</g:custom_label_2>
-      <g:custom_label_4>Brøndby</g:custom_label_4>
-      <g:start_date>2027-02-03T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Brøndby</g:custom_label_3>
-      <g:internal_label>['Brøndby','Herlev']</g:internal_label>
+      <g:custom_label_3>Vallensbæk</g:custom_label_3>
+      <g:internal_label>['Vallensbæk','Albertslund','Brøndby','Glostrup','Herlev','Taastrup']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23700</g:id>
@@ -3390,6 +3347,28 @@
       <g:start_date>2027-02-03T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Brøndby</g:custom_label_3>
       <g:internal_label>['Brøndby']</g:internal_label>
+    </item>
+<item>
+      <g:id>KBO-23828</g:id>
+      <g:title><![CDATA[Styrketræning med fokus på osteoporose]]></g:title>
+      <g:description><![CDATA[For dig med knogleskørhed/osteoporose. Skånsom og målrettet træning for dig med osteoporose. Fokus på styrke, balance og tryg bevægelse i rolige rammer med professionel vejledning.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/osteoporosetraening?holdnr=23828</g:link>
+      <g:image_link>https://www.fof.dk/media/koib4ksf/23.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1365.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Københavns Omegn</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Styrke- og konditionstræning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Styrke- og konditionstræning</g:custom_label_2>
+      <g:custom_label_4>Brøndby</g:custom_label_4>
+      <g:start_date>2027-02-03T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Brøndby</g:custom_label_3>
+      <g:internal_label>['Brøndby','Herlev']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23588</g:id>
@@ -3477,6 +3456,7 @@
       <g:custom_label_2>Styrke- og konditionstræning</g:custom_label_2>
       <g:custom_label_4>Rødovre</g:custom_label_4>
       <g:start_date>2027-02-04T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Rødovre</g:custom_label_3>
       <g:internal_label>['Rødovre']</g:internal_label>
     </item>
 <item>
@@ -3608,6 +3588,7 @@
       <g:custom_label_2>Styrke- og konditionstræning</g:custom_label_2>
       <g:custom_label_4>Herlev</g:custom_label_4>
       <g:start_date>2027-02-04T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Herlev</g:custom_label_3>
       <g:internal_label>['Herlev']</g:internal_label>
     </item>
 <item>
@@ -3760,8 +3741,8 @@
       <g:custom_label_2>Yoga</g:custom_label_2>
       <g:custom_label_4>Vallensbæk</g:custom_label_4>
       <g:start_date>2027-02-06T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Glostrup</g:custom_label_3>
-      <g:internal_label>['Glostrup','Ballerup','Brøndby','Rødovre','Taastrup','Vallensbæk']</g:internal_label>
+      <g:custom_label_3>Vallensbæk</g:custom_label_3>
+      <g:internal_label>['Vallensbæk','Glostrup','Ballerup','Brøndby','Rødovre','Taastrup']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-33504</g:id>
@@ -3980,6 +3961,7 @@
       <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4>Brøndby</g:custom_label_4>
       <g:start_date>2027-02-09T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Brøndby</g:custom_label_3>
       <g:internal_label>['Brøndby']</g:internal_label>
     </item>
 <item>
@@ -4222,8 +4204,8 @@
       <g:custom_label_2>Yoga</g:custom_label_2>
       <g:custom_label_4>Ballerup</g:custom_label_4>
       <g:start_date>2027-02-11T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Vallensbæk</g:custom_label_3>
-      <g:internal_label>['Vallensbæk','Taastrup','Rødovre','Herlev','Ballerup','Glostrup','Albertslund']</g:internal_label>
+      <g:custom_label_3>Ballerup</g:custom_label_3>
+      <g:internal_label>['Ballerup','Vallensbæk','Taastrup','Rødovre','Herlev','Glostrup','Albertslund']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23562</g:id>
@@ -4270,28 +4252,6 @@
       <g:internal_label>['Taastrup','Familie']</g:internal_label>
     </item>
 <item>
-      <g:id>KBO-23537</g:id>
-      <g:title><![CDATA[Yin yoga]]></g:title>
-      <g:description><![CDATA[Find det perfekte yin yoga hold tæt på dig: Deltag i yin yoga i Hedehusene, Rødovre, Ballerup, Taastrup og Glostrup. Rolig yoga med fokus på stræk, ro og afspænding.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/yin-yoga?holdnr=23537</g:link>
-      <g:image_link>https://www.fof.dk/media/jgylzd4z/yoga-fof-aftenskolen-31.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1000.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Københavns Omegn</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Yoga</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Yoga</g:custom_label_2>
-      <g:custom_label_4>Taastrup</g:custom_label_4>
-      <g:start_date>2027-02-11T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Taastrup</g:custom_label_3>
-      <g:internal_label>['Taastrup','Glostrup','Ballerup','Brøndby','Rødovre']</g:internal_label>
-    </item>
-<item>
       <g:id>KBO-23585</g:id>
       <g:title><![CDATA[Hatha yoga]]></g:title>
       <g:description><![CDATA[Kom med på holdet i hatha yoga i Hedehusene, Herlev, Vallensbæk, Albertslund, Glostrup, Rødovre og Taastrup. Små hold med plads til alle kropstyper og niveauer. Find et hold tæt på dig og kom i gang med en god vane.]]></g:description>
@@ -4312,6 +4272,28 @@
       <g:start_date>2027-02-11T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Taastrup</g:custom_label_3>
       <g:internal_label>['Taastrup','Vallensbæk','Rødovre','Herlev','Ballerup','Glostrup','Albertslund','Hedehusene']</g:internal_label>
+    </item>
+<item>
+      <g:id>KBO-23537</g:id>
+      <g:title><![CDATA[Yin yoga]]></g:title>
+      <g:description><![CDATA[Find det perfekte yin yoga hold tæt på dig: Deltag i yin yoga i Hedehusene, Rødovre, Ballerup, Taastrup og Glostrup. Rolig yoga med fokus på stræk, ro og afspænding.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/yin-yoga?holdnr=23537</g:link>
+      <g:image_link>https://www.fof.dk/media/jgylzd4z/yoga-fof-aftenskolen-31.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1000.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Københavns Omegn</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Yoga</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Taastrup</g:custom_label_4>
+      <g:start_date>2027-02-11T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Taastrup</g:custom_label_3>
+      <g:internal_label>['Taastrup','Glostrup','Ballerup','Brøndby','Rødovre']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-33301</g:id>
@@ -5457,8 +5439,8 @@
       <g:custom_label_2>Tai Chi og Qi Gong</g:custom_label_2>
       <g:custom_label_4>Brøndby</g:custom_label_4>
       <g:start_date>2027-03-05T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Glostrup</g:custom_label_3>
-      <g:internal_label>['Glostrup','Ballerup','Brøndby']</g:internal_label>
+      <g:custom_label_3>Brøndby</g:custom_label_3>
+      <g:internal_label>['Brøndby','Glostrup','Ballerup']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-33202</g:id>
@@ -7120,8 +7102,8 @@
       <g:custom_label_2>Udflugter og forestillinger</g:custom_label_2>
       <g:custom_label_4>Albertslund</g:custom_label_4>
       <g:start_date>2027-05-22T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Familie</g:custom_label_3>
-      <g:internal_label>['Familie','Albertslund']</g:internal_label>
+      <g:custom_label_3>Albertslund</g:custom_label_3>
+      <g:internal_label>['Albertslund','Familie']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23458</g:id>
