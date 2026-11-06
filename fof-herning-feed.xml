@@ -503,7 +503,7 @@
       <g:image_link>https://www.fof.dk/media/rtsjpqlw/tegning-aftenskolen-herning-fof.jpg?width=1200</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:quantity>1</g:quantity>
-      <g:price>1568.00 DKK</g:price>
+      <g:price>1340.00 DKK</g:price>
       <g:condition>new</g:condition>
       <g:brand>FOF Herning</g:brand>
       <g:google_product_category>Education</g:google_product_category>
@@ -706,6 +706,27 @@
       <g:custom_label_2>Bagning og søde sager</g:custom_label_2>
       <g:custom_label_4>Herning</g:custom_label_4>
       <g:start_date>2027-01-26T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Herning']</g:internal_label>
+    </item>
+<item>
+      <g:id>HER-49460</g:id>
+      <g:title><![CDATA[NYHED - Akvarelkursus - Kreativ fordybelse med akvarel]]></g:title>
+      <g:description><![CDATA[Slip kreativiteten løs med vand og farver, og find dit eget udtryk. ]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-herning/akvarelmaling?holdnr=49460</g:link>
+      <g:image_link>https://www.fof.dk/media/hwbbhoio/akvarelmaleri-anne-bang.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1408.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Herning</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Kreative kurser &gt; Malekurser</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Kreative kurser</g:custom_label_1>
+      <g:custom_label_2>Malekurser</g:custom_label_2>
+      <g:custom_label_4>Herning</g:custom_label_4>
+      <g:start_date>2027-01-27T00:00:00.000Z</g:start_date>
       <g:internal_label>['Herning']</g:internal_label>
     </item>
 <item>

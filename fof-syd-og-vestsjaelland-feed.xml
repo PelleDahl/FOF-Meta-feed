@@ -204,28 +204,6 @@
       <g:internal_label>['Kalender - November','Slagelse','Starter snart','Endagskurser','Tema - Bæredygtighed']</g:internal_label>
     </item>
 <item>
-      <g:id>SVS-660926</g:id>
-      <g:title><![CDATA[Lær at flette julehjerter]]></g:title>
-      <g:description><![CDATA[Lær at flette klassiske og kreative julehjerter i glanspapir. Få skabeloner, inspiration og hjælp til at designe dine egne motiver på et hyggeligt kursus hos FOF.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-syd-og-vestsjaelland/julehjerte?holdnr=660926</g:link>
-      <g:image_link>https://www.fof.dk/media/qwulhbso/julehjerter-vestsjaelland-fof-aftenskolen.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>295.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Syd- og Vestsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Kreative kurser &gt; Håndværk og kunsthåndværk</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Kreative kurser</g:custom_label_1>
-      <g:custom_label_2>Håndværk og kunsthåndværk</g:custom_label_2>
-      <g:custom_label_4>Ringsted</g:custom_label_4>
-      <g:start_date>2026-11-15T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Kalender - November</g:custom_label_3>
-      <g:internal_label>['Kalender - November','Ringsted','Starter snart','Jul og nytår','Endagskurser']</g:internal_label>
-    </item>
-<item>
       <g:id>SVS-880526</g:id>
       <g:title><![CDATA[Vietnamesiske og kinesiske forårsruller]]></g:title>
       <g:description><![CDATA[Lær at lave autentiske vietnamesiske og kinesiske forårsruller. Friske og sprøde ruller med grøntsager, krydderurter og lækkert fyld på kursus i Slagelse, Ringsted og Næstved med FOF.]]></g:description>
@@ -1146,6 +1124,27 @@
       <g:start_date>2027-03-01T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Næstved</g:custom_label_3>
       <g:internal_label>['Næstved','Tema - Bæredygtighed']</g:internal_label>
+    </item>
+<item>
+      <g:id>SVS-605027</g:id>
+      <g:title><![CDATA[Simon Krohn - Stå stærkt i stormen]]></g:title>
+      <g:description><![CDATA[Foredrag med Simon Krohn i Ringsted: Stå stærkt i stormen. Få inspiration til ro, når tanker og følelser tager over. Alle er velkomne hos FOF. Få billetter her.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-syd-og-vestsjaelland/simon-krohn?holdnr=605027</g:link>
+      <g:image_link>https://www.fof.dk/media/knkjm2j0/simon-krohn-foredragsholder-fof-slagelse.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>200.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Syd- og Vestsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Foredrag, debat og højskoler &gt; Sundhed og eksistens</g:product_type>
+      <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
+      <g:custom_label_1>Sundhed og eksistens</g:custom_label_1>
+      <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Ringsted</g:custom_label_4>
+      <g:start_date>2027-03-04T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Ringsted']</g:internal_label>
     </item>
 <item>
       <g:id>SVS-705127</g:id>
