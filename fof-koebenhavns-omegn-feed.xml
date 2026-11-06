@@ -336,28 +336,6 @@
       <g:internal_label>['Starter snart','København','Endagskurser','København K']</g:internal_label>
     </item>
 <item>
-      <g:id>KBO-22117</g:id>
-      <g:title><![CDATA[Rejsehistorier fra verden rundt]]></g:title>
-      <g:description><![CDATA[Oplev foredrag i Taastrup med Lars Skovbæk. Hør vilde rejsehistorier, kulturmøder og oplevelser fra 175 lande verden rundt.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/rejsehistorier-fra-verden-rundt?holdnr=22117</g:link>
-      <g:image_link>https://www.fof.dk/media/fz0devrh/rejsehistorier-fra-verden-rundt.png?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>125.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Københavns Omegn</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Foredrag, debat og højskoler &gt; Kultur og livsfortællinger</g:product_type>
-      <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
-      <g:custom_label_1>Kultur og livsfortællinger</g:custom_label_1>
-      <g:custom_label_2></g:custom_label_2>
-      <g:custom_label_4>Taastrup</g:custom_label_4>
-      <g:start_date>2026-11-16T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Taastrup</g:custom_label_3>
-      <g:internal_label>['Taastrup','Starter snart','Endagskurser']</g:internal_label>
-    </item>
-<item>
       <g:id>KBO-22045</g:id>
       <g:title><![CDATA[Frem med sjoveren – bramfri byvandring og gammelt galskab]]></g:title>
       <g:description><![CDATA[Oplev København på en 90-minutters byvandring med skæve historier, humoristiske anekdoter og sanselige oplevelser. Perfekt for vennegrupper, firmaarrangementer eller polterabend.]]></g:description>
@@ -1610,28 +1588,6 @@
       <g:internal_label>['Brøndby']</g:internal_label>
     </item>
 <item>
-      <g:id>KBO-23330</g:id>
-      <g:title><![CDATA[Italiensk for let øvede (A2+)]]></g:title>
-      <g:description><![CDATA[Italiensk for let øvede (A2) hos FOF Københavns Omegn: Bliv mere sikker i samtaler og udvid dit ordforråd i dagligdags situationer.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/italiensk-for-let-oevede-a2?holdnr=23330</g:link>
-      <g:image_link>https://www.fof.dk/media/scohakif/italiensk-2.png?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1794.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Københavns Omegn</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Sprog &gt; Italiensk</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Sprog</g:custom_label_1>
-      <g:custom_label_2>Italiensk</g:custom_label_2>
-      <g:custom_label_4>Taastrup</g:custom_label_4>
-      <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Taastrup</g:custom_label_3>
-      <g:internal_label>['Taastrup']</g:internal_label>
-    </item>
-<item>
       <g:id>KBO-23583</g:id>
       <g:title><![CDATA[Tai Chi]]></g:title>
       <g:description><![CDATA[Deltag i Tai Chi hos FOF Københavns Omegn i Vallensbæk, Glostrup, Brøndby og Herlev. Tai Chi er en rolig og nærværende træningsform, hvor fokus er på balance, smidighed og mental ro gennem langsomme, kontrollerede bevægelser. Blid træning for alle.]]></g:description>
@@ -1652,6 +1608,28 @@
       <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Brøndby</g:custom_label_3>
       <g:internal_label>['Brøndby','Vallensbæk','Glostrup','Herlev']</g:internal_label>
+    </item>
+<item>
+      <g:id>KBO-23330</g:id>
+      <g:title><![CDATA[Italiensk for let øvede (A2+)]]></g:title>
+      <g:description><![CDATA[Italiensk for let øvede (A2) hos FOF Københavns Omegn: Bliv mere sikker i samtaler og udvid dit ordforråd i dagligdags situationer.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/italiensk-for-let-oevede-a2?holdnr=23330</g:link>
+      <g:image_link>https://www.fof.dk/media/scohakif/italiensk-2.png?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1794.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Københavns Omegn</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Sprog &gt; Italiensk</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Sprog</g:custom_label_1>
+      <g:custom_label_2>Italiensk</g:custom_label_2>
+      <g:custom_label_4>Taastrup</g:custom_label_4>
+      <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Taastrup</g:custom_label_3>
+      <g:internal_label>['Taastrup']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23637</g:id>
@@ -1852,28 +1830,6 @@
       <g:internal_label>['Taastrup','Rødovre']</g:internal_label>
     </item>
 <item>
-      <g:id>KBO-23504</g:id>
-      <g:title><![CDATA[Hatha yoga]]></g:title>
-      <g:description><![CDATA[Kom med på holdet i hatha yoga i Hedehusene, Herlev, Vallensbæk, Albertslund, Glostrup, Rødovre og Taastrup. Små hold med plads til alle kropstyper og niveauer. Find et hold tæt på dig og kom i gang med en god vane.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/hatha-yoga?holdnr=23504</g:link>
-      <g:image_link>https://www.fof.dk/media/xb0n4ui0/yoga-fof-aftenskolen-28.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1472.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Københavns Omegn</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Yoga</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Yoga</g:custom_label_2>
-      <g:custom_label_4>Glostrup</g:custom_label_4>
-      <g:start_date>2027-01-26T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Glostrup</g:custom_label_3>
-      <g:internal_label>['Glostrup','Vallensbæk','Taastrup','Rødovre','Herlev','Ballerup','Albertslund']</g:internal_label>
-    </item>
-<item>
       <g:id>KBO-23919</g:id>
       <g:title><![CDATA[Motion i varmt vand]]></g:title>
       <g:description><![CDATA[Deltag i varmtvandstræning i Herlev og Ballerup hos FOF Københavns Omegn. Skånsom motion med fysioterapeutisk vejledning i varmt vand. Find dit hold blandt mange mulige tider.]]></g:description>
@@ -1894,6 +1850,28 @@
       <g:start_date>2027-01-26T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Herlev</g:custom_label_3>
       <g:internal_label>['Herlev','Ballerup','Glostrup']</g:internal_label>
+    </item>
+<item>
+      <g:id>KBO-23504</g:id>
+      <g:title><![CDATA[Hatha yoga]]></g:title>
+      <g:description><![CDATA[Kom med på holdet i hatha yoga i Hedehusene, Herlev, Vallensbæk, Albertslund, Glostrup, Rødovre og Taastrup. Små hold med plads til alle kropstyper og niveauer. Find et hold tæt på dig og kom i gang med en god vane.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/hatha-yoga?holdnr=23504</g:link>
+      <g:image_link>https://www.fof.dk/media/xb0n4ui0/yoga-fof-aftenskolen-28.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1472.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Københavns Omegn</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Yoga</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Glostrup</g:custom_label_4>
+      <g:start_date>2027-01-26T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Glostrup</g:custom_label_3>
+      <g:internal_label>['Glostrup','Vallensbæk','Taastrup','Rødovre','Herlev','Ballerup','Albertslund']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23567</g:id>
@@ -2094,28 +2072,6 @@
       <g:internal_label>['Glostrup','Albertslund']</g:internal_label>
     </item>
 <item>
-      <g:id>KBO-23861</g:id>
-      <g:title><![CDATA[Motionstræning for gigtramte i varmt vand]]></g:title>
-      <g:description><![CDATA[Gigttræning i Vestbadet i Brøndby er for dig, der lever med gigt eller slidgigt i hofte, knæ eller andre led og ønsker en skånsom og effektiv træningsform i varmt vand.. Evidensbaseret træning, der mindsker smerter og øger styrke, bevægelighed og funktion.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/gigttraening?holdnr=23861</g:link>
-      <g:image_link>https://www.fof.dk/media/j2snhfmf/hensyntagende-vandtraening-i-herlev.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1995.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Københavns Omegn</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Træning i vand</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Træning i vand</g:custom_label_2>
-      <g:custom_label_4>Brøndby</g:custom_label_4>
-      <g:start_date>2027-01-26T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Brøndby</g:custom_label_3>
-      <g:internal_label>['Brøndby']</g:internal_label>
-    </item>
-<item>
       <g:id>KBO-23888</g:id>
       <g:title><![CDATA[Qi gong]]></g:title>
       <g:description><![CDATA[Qi Gong kursus i Brøndby, Glostrup og Ballerup. Dygtige undervisere får dig i gang med en blid træning. Qi gong øvelserne handler om De 8 Brokader, fokus på stressreduktion, meditation og energi for krop og sind ]]></g:description>
@@ -2158,6 +2114,28 @@
       <g:start_date>2027-01-26T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Brøndby</g:custom_label_3>
       <g:internal_label>['Brøndby','Ballerup']</g:internal_label>
+    </item>
+<item>
+      <g:id>KBO-23861</g:id>
+      <g:title><![CDATA[Motionstræning for gigtramte i varmt vand]]></g:title>
+      <g:description><![CDATA[Gigttræning i Vestbadet i Brøndby er for dig, der lever med gigt eller slidgigt i hofte, knæ eller andre led og ønsker en skånsom og effektiv træningsform i varmt vand.. Evidensbaseret træning, der mindsker smerter og øger styrke, bevægelighed og funktion.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/gigttraening?holdnr=23861</g:link>
+      <g:image_link>https://www.fof.dk/media/j2snhfmf/hensyntagende-vandtraening-i-herlev.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1995.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Københavns Omegn</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Træning i vand</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Træning i vand</g:custom_label_2>
+      <g:custom_label_4>Brøndby</g:custom_label_4>
+      <g:start_date>2027-01-26T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Brøndby</g:custom_label_3>
+      <g:internal_label>['Brøndby']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23670</g:id>
@@ -3325,6 +3303,27 @@
       <g:internal_label>['Albertslund','Glostrup','Herlev','Taastrup']</g:internal_label>
     </item>
 <item>
+      <g:id>KBO-23410</g:id>
+      <g:title><![CDATA[Kreativt sykursus for alle - hver 14. dag]]></g:title>
+      <g:description><![CDATA[Deltag i syning hver 14. dag i Brøndby. Fleksibelt sykursus med fri brug af symaskiner, masser af inspiration og tid til fordybelse i egne projekter.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/kreativt-sykursus-for-alle-hver-14-dag?holdnr=23410</g:link>
+      <g:image_link>https://www.fof.dk/media/3qragrjm/syning-fof-aftenskolen-16.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1150.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Københavns Omegn</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Kreative kurser &gt; Syning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Kreative kurser</g:custom_label_1>
+      <g:custom_label_2>Syning</g:custom_label_2>
+      <g:custom_label_4>Brøndby</g:custom_label_4>
+      <g:start_date>2027-02-02T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Brøndby']</g:internal_label>
+    </item>
+<item>
       <g:id>KBO-23553</g:id>
       <g:title><![CDATA[Hatha yoga for mænd]]></g:title>
       <g:description><![CDATA[Deltag i Hatha yoga for mænd i Taastrup og Rødovre hos FOF Københavns Omegn. Rolig yoga med fokus på styrke, smidighed og færre spændinger.]]></g:description>
@@ -3367,27 +3366,6 @@
       <g:start_date>2027-02-02T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Albertslund</g:custom_label_3>
       <g:internal_label>['Albertslund','Glostrup','Herlev','Taastrup']</g:internal_label>
-    </item>
-<item>
-      <g:id>KBO-23410</g:id>
-      <g:title><![CDATA[Kreativt sykursus for alle - hver 14. dag]]></g:title>
-      <g:description><![CDATA[Deltag i syning hver 14. dag i Brøndby. Fleksibelt sykursus med fri brug af symaskiner, masser af inspiration og tid til fordybelse i egne projekter.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/kreativt-sykursus-for-alle-hver-14-dag?holdnr=23410</g:link>
-      <g:image_link>https://www.fof.dk/media/3qragrjm/syning-fof-aftenskolen-16.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1150.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Københavns Omegn</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Kreative kurser &gt; Syning</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Kreative kurser</g:custom_label_1>
-      <g:custom_label_2>Syning</g:custom_label_2>
-      <g:custom_label_4>Brøndby</g:custom_label_4>
-      <g:start_date>2027-02-02T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Brøndby']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23529</g:id>
@@ -4426,28 +4404,6 @@
       <g:internal_label>['Familie','Vallensbæk']</g:internal_label>
     </item>
 <item>
-      <g:id>KBO-23591</g:id>
-      <g:title><![CDATA[Hatha yoga]]></g:title>
-      <g:description><![CDATA[Kom med på holdet i hatha yoga i Hedehusene, Herlev, Vallensbæk, Albertslund, Glostrup, Rødovre og Taastrup. Små hold med plads til alle kropstyper og niveauer. Find et hold tæt på dig og kom i gang med en god vane.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/hatha-yoga?holdnr=23591</g:link>
-      <g:image_link>https://www.fof.dk/media/xb0n4ui0/yoga-fof-aftenskolen-28.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1195.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Københavns Omegn</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Yoga</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Yoga</g:custom_label_2>
-      <g:custom_label_4>Ballerup</g:custom_label_4>
-      <g:start_date>2027-02-11T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Ballerup</g:custom_label_3>
-      <g:internal_label>['Ballerup','Vallensbæk','Taastrup','Rødovre','Herlev','Glostrup','Albertslund']</g:internal_label>
-    </item>
-<item>
       <g:id>KBO-23562</g:id>
       <g:title><![CDATA[Yin yoga]]></g:title>
       <g:description><![CDATA[Find det perfekte yin yoga hold tæt på dig: Deltag i yin yoga i Hedehusene, Rødovre, Ballerup, Taastrup og Glostrup. Rolig yoga med fokus på stræk, ro og afspænding.]]></g:description>
@@ -4468,6 +4424,28 @@
       <g:start_date>2027-02-11T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Taastrup</g:custom_label_3>
       <g:internal_label>['Taastrup','Glostrup','Ballerup','Brøndby','Rødovre']</g:internal_label>
+    </item>
+<item>
+      <g:id>KBO-23591</g:id>
+      <g:title><![CDATA[Hatha yoga]]></g:title>
+      <g:description><![CDATA[Kom med på holdet i hatha yoga i Hedehusene, Herlev, Vallensbæk, Albertslund, Glostrup, Rødovre og Taastrup. Små hold med plads til alle kropstyper og niveauer. Find et hold tæt på dig og kom i gang med en god vane.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/hatha-yoga?holdnr=23591</g:link>
+      <g:image_link>https://www.fof.dk/media/xb0n4ui0/yoga-fof-aftenskolen-28.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1195.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Københavns Omegn</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Yoga</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Ballerup</g:custom_label_4>
+      <g:start_date>2027-02-11T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Ballerup</g:custom_label_3>
+      <g:internal_label>['Ballerup','Vallensbæk','Taastrup','Rødovre','Herlev','Glostrup','Albertslund']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-33204</g:id>

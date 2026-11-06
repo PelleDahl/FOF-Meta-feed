@@ -841,7 +841,7 @@
   },
   "https://www.fof.dk/aftenskolen/fof-aarhus/vandretur-til-boelling-soe": {
     "ogImage": "https://www.fof.dk/media/ndtbgjqa/havoern-vandretur-boelling-soe-fof-aarhus.jpg?width=1200",
-    "fetchedAt": "2026-10-30T20:57:34.001Z"
+    "fetchedAt": "2026-11-06T21:42:07.734Z"
   },
   "https://www.fof.dk/aftenskolen/fof-aarhus/ve-traening": {
     "ogImage": "https://www.fof.dk/media/tinlo44g/vetraening_5_1200x1200-aarhus.jpg?width=1200",
@@ -1961,7 +1961,7 @@
   },
   "https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/glenn-bech-og-mutti-det-skal-blive-godt-nu": {
     "ogImage": "https://www.fof.dk/media/pazht0ns/sara-galbiati-2026.jpg?width=1200",
-    "fetchedAt": "2026-10-30T20:57:36.832Z"
+    "fetchedAt": "2026-11-06T21:42:13.857Z"
   },
   "https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/god-hverdagsmad": {
     "ogImage": "https://www.fof.dk/media/rcdae1qw/mad-for-fattigroeve-fofkn-aftenskolen-madlavning-ns-1.jpg?width=1200",
@@ -2851,6 +2851,10 @@
     "ogImage": "https://www.fof.dk/media/gd3j0zkd/formidling-sprog-og-kommunikation-shutterstock-170304212-1.jpg?width=1200",
     "fetchedAt": "2026-11-03T19:43:24.814Z"
   },
+  "https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/stenslibning-ravslibning-og-soelvarbejde": {
+    "ogImage": "https://www.fof.dk/media/qtkmao0n/smykker-fofkn-aftenskolen-kreative-kurser-sanne-murer-ns-11.jpg?width=1200",
+    "fetchedAt": "2026-11-06T21:42:13.827Z"
+  },
   "https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/stephanie-surrugue-fra-vestegnen-til-verdens-braendpunkter": {
     "ogImage": "https://www.fof.dk/media/oqlpc54h/stephanie-surrugue.jpg?width=1200",
     "fetchedAt": "2026-11-06T16:05:49.241Z"
@@ -2994,6 +2998,10 @@
   "https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/videoredigering": {
     "ogImage": "https://www.fof.dk/media/dvtkxmbq/videoredigering-kursus-fofkn-aftenskolen-it-og-foto.jpg?width=1200",
     "fetchedAt": "2026-11-03T19:42:58.494Z"
+  },
+  "https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/vilde-orkideer": {
+    "ogImage": "https://www.fof.dk/media/f4pjykmk/goegeurt-vilde-orkideerfofkn-aftenskolen-ture-wikimedia-commons.jpg?width=1200",
+    "fetchedAt": "2026-11-06T21:42:13.795Z"
   },
   "https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/vilde-planter-overtro-folkemedicin-og-vigtig-ernaering": {
     "ogImage": "https://www.fof.dk/media/r41n1a1d/vilde-planter-overtro-folkemedicin-og-vigtig-ernaering_lara-kromann.jpg?width=1200",
@@ -3670,10 +3678,6 @@
   "https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/qi-gong": {
     "ogImage": "https://www.fof.dk/media/fvjkf3kk/tai-chi-glostrup.png?width=1200",
     "fetchedAt": "2026-11-05T00:58:04.590Z"
-  },
-  "https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/rejsehistorier-fra-verden-rundt": {
-    "ogImage": "https://www.fof.dk/media/fz0devrh/rejsehistorier-fra-verden-rundt.png?width=1200",
-    "fetchedAt": "2026-11-03T19:43:38.679Z"
   },
   "https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/rocksound-rockende-kor-i-herlev": {
     "ogImage": "https://www.fof.dk/media/3qcdmjs3/rocksound.jpg?width=1200",
@@ -4871,10 +4875,6 @@
     "ogImage": "https://www.fof.dk/media/ynolhkq2/storbritanniens-kongelige-skandaler-soenderborg-soenderjylland-fof-aftenskolen.jpg?width=1200",
     "fetchedAt": "2026-11-03T19:42:07.519Z"
   },
-  "https://www.fof.dk/aftenskolen/fof-soenderjylland/svampetur-for-begyndere": {
-    "ogImage": "https://www.fof.dk/media/gjepx5kr/ud-i-naturen-fra-sitecore-redigeret.jpg?width=1200",
-    "fetchedAt": "2026-11-03T19:42:07.453Z"
-  },
   "https://www.fof.dk/aftenskolen/fof-soenderjylland/svampetur-for-begyndere-og-lidt-oevede": {
     "ogImage": "https://www.fof.dk/media/iuojzlrc/anna-maria-wieroed-2.jpg?width=1200",
     "fetchedAt": "2026-11-03T19:42:06.268Z"
@@ -5135,6 +5135,10 @@
     "ogImage": "https://www.fof.dk/media/zrfb2f3o/billedbehandling-1.jpg?width=1200",
     "fetchedAt": "2026-11-03T19:41:54.953Z"
   },
+  "https://www.fof.dk/aftenskolen/fof-sydjylland/brugskeramik": {
+    "ogImage": "https://www.fof.dk/media/zetasuzw/keramik-2021.jpg?width=1200",
+    "fetchedAt": "2026-11-06T21:42:02.850Z"
+  },
   "https://www.fof.dk/aftenskolen/fof-sydjylland/cellerciser": {
     "ogImage": "https://www.fof.dk/media/bjahnz4l/cellerciser-1.jpg?width=1200",
     "fetchedAt": "2026-11-03T19:41:54.896Z"
@@ -5231,6 +5235,10 @@
     "ogImage": "https://www.fof.dk/media/nxxn4exa/graesk-julemad-lachanodolmades-1.jpg?width=1200",
     "fetchedAt": "2026-11-03T19:41:51.947Z"
   },
+  "https://www.fof.dk/aftenskolen/fof-sydjylland/grovmotorik-og-tumleleg-1-3-aar": {
+    "ogImage": "https://www.fof.dk/media/wwclx2ez/babytummel-1.jpg?width=1200",
+    "fetchedAt": "2026-11-06T21:42:02.990Z"
+  },
   "https://www.fof.dk/aftenskolen/fof-sydjylland/hc-andersens-eventyrlige-rejser-hh": {
     "ogImage": "https://www.fof.dk/media/h0bjt1br/hc-andersen-271-munchen-1860.jpg?width=1200",
     "fetchedAt": "2026-11-03T19:41:56.478Z"
@@ -5259,13 +5267,25 @@
     "ogImage": "https://www.fof.dk/media/wfjhf3rb/karen-blixen-anne-lilballe-1647.jpg?width=1200",
     "fetchedAt": "2026-11-03T19:41:53.959Z"
   },
+  "https://www.fof.dk/aftenskolen/fof-sydjylland/keramik-stentoej-og-porcelaen-saerligt-tilrettelagt": {
+    "ogImage": "https://www.fof.dk/media/hmrjr0vx/keramik-6.jpg?width=1200",
+    "fetchedAt": "2026-11-06T21:42:02.892Z"
+  },
   "https://www.fof.dk/aftenskolen/fof-sydjylland/kinesisk-1-begynder": {
     "ogImage": "https://www.fof.dk/media/sovk4ajx/kinesisk-1.jpg?width=1200",
     "fetchedAt": "2026-11-04T13:41:26.835Z"
   },
+  "https://www.fof.dk/aftenskolen/fof-sydjylland/kom-trygt-videre-saerligt-tilrettelagt": {
+    "ogImage": "https://www.fof.dk/media/cnymywuj/tryg-traening-260811.jpg?width=1200",
+    "fetchedAt": "2026-11-06T21:42:02.693Z"
+  },
   "https://www.fof.dk/aftenskolen/fof-sydjylland/kreativt-familie-vaerksted": {
     "ogImage": "https://www.fof.dk/media/qzyb4tfj/kreativt-familie-vaerksted-med-genbrug-1.jpg?width=1200",
     "fetchedAt": "2026-11-03T19:41:51.763Z"
+  },
+  "https://www.fof.dk/aftenskolen/fof-sydjylland/kunstig-intelligens": {
+    "ogImage": "https://www.fof.dk/media/bbyjwtnt/ai-kunstig-intelligens-1.jpg?width=1200",
+    "fetchedAt": "2026-11-06T21:42:02.757Z"
   },
   "https://www.fof.dk/aftenskolen/fof-sydjylland/lederkonference-for-inviterede": {
     "ogImage": "https://www.fof.dk/media/rk1kg3z2/lederkonference-1.jpg?width=1200",
@@ -5355,6 +5375,10 @@
     "ogImage": "https://www.fof.dk/media/fbapp40q/huset-i-hejls-4.jpg?width=1200",
     "fetchedAt": "2026-11-03T19:41:55.907Z"
   },
+  "https://www.fof.dk/aftenskolen/fof-sydjylland/syning-i-genbrugstekstiler": {
+    "ogImage": "https://www.fof.dk/media/gdmf5liv/syning-1.jpg?width=1200",
+    "fetchedAt": "2026-11-06T21:42:02.889Z"
+  },
   "https://www.fof.dk/aftenskolen/fof-sydjylland/tekstbehandling-og-regneark": {
     "ogImage": "https://www.fof.dk/media/dvggbh0c/avanceret-word-og-excel-1.jpg?width=1200",
     "fetchedAt": "2026-11-03T19:41:54.955Z"
@@ -5413,7 +5437,7 @@
   },
   "https://www.fof.dk/aftenskolen/fof-sydoest/sang": {
     "ogImage": "https://www.fof.dk/media/qxijabf1/sang_fof_aftenskolen.jpg?width=1200",
-    "fetchedAt": "2026-10-30T20:57:39.415Z"
+    "fetchedAt": "2026-11-06T21:42:18.771Z"
   },
   "https://www.fof.dk/aftenskolen/fof-sydoest/slip-kreativiteten-loes-med-keramik": {
     "ogImage": "https://www.fof.dk/media/r5hdr2wg/keramik_fof_aftenskole_3.jpg?width=1200",
