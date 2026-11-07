@@ -6,50 +6,6 @@
 <description>Meta produktfeed med alle ledige hold fra FOF Aarhus</description>
 <language>da-DK</language>
 <item>
-      <g:id>AAR-423617</g:id>
-      <g:title><![CDATA[Sushi]]></g:title>
-      <g:description><![CDATA[Er du vild med sushi, men ved du ikke, hvordan du laver det? Så lær at lave din egen sushi på et begynderkursus hos FOF Aarhus. Tilmeld dig et sushi-kursus allerede i dag.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/sushi?holdnr=423617</g:link>
-      <g:image_link>https://www.fof.dk/media/sq4jn5ch/sushi_1200x1200_aarhus.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>705.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Aarhus</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Madlavning og drikkevarer &gt; Asiatisk mad</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
-      <g:custom_label_2>Asiatisk mad</g:custom_label_2>
-      <g:custom_label_4>Lystrup</g:custom_label_4>
-      <g:start_date>2026-11-07T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Starter om &lt; 14 dage</g:custom_label_3>
-      <g:internal_label>['Starter om &lt; 14 dage','Korte kurser','Lystrup']</g:internal_label>
-    </item>
-<item>
-      <g:id>AAR-422165</g:id>
-      <g:title><![CDATA[Collage – weekendkursus]]></g:title>
-      <g:description><![CDATA[Tag med på collagekursus, og lær at mestre teknikker og materialer | Skab collagekunst på et weekendkursus i FOF Aahus ]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/collage-weekendkursus?holdnr=422165</g:link>
-      <g:image_link>https://www.fof.dk/media/op4h21eq/collagekursus-pia-frank-fof-aarhus-11.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>955.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Aarhus</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Kreative kurser &gt; Malekurser</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Kreative kurser</g:custom_label_1>
-      <g:custom_label_2>Malekurser</g:custom_label_2>
-      <g:custom_label_4>Åbyhøj</g:custom_label_4>
-      <g:start_date>2026-11-07T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Starter om &lt; 14 dage</g:custom_label_3>
-      <g:internal_label>['Starter om &lt; 14 dage','Korte kurser','Åbyhøj']</g:internal_label>
-    </item>
-<item>
       <g:id>AAR-423627</g:id>
       <g:title><![CDATA[Bælgfrugter for begyndere]]></g:title>
       <g:description><![CDATA[Lær at lave lækre og sunde retter med bælgfrugter. Opdag nye opskrifter, teknikker og smagskombinationer, der gør bælgfrugter til stjernen i dit køkken.]]></g:description>
@@ -840,7 +796,7 @@
       <g:custom_label_4>Åbyhøj</g:custom_label_4>
       <g:start_date>2026-11-22T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Korte kurser</g:custom_label_3>
-      <g:internal_label>['Korte kurser','Jul og nytår','Åbyhøj']</g:internal_label>
+      <g:internal_label>['Korte kurser','Jul og nytår','Starter om &lt; 14 dage','Åbyhøj']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-428979</g:id>
@@ -1425,8 +1381,7 @@
       <g:custom_label_2>Fest- og hverdagsmad</g:custom_label_2>
       <g:custom_label_4>Aarhus</g:custom_label_4>
       <g:start_date>2026-12-01T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Starter om &lt; 14 dage</g:custom_label_3>
-      <g:internal_label>['Starter om &lt; 14 dage','Aarhus C']</g:internal_label>
+      <g:internal_label>['Aarhus C']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-423913</g:id>

@@ -6,28 +6,6 @@
 <description>Meta produktfeed med alle ledige hold fra FOF Sydøst</description>
 <language>da-DK</language>
 <item>
-      <g:id>SYO-20151</g:id>
-      <g:title><![CDATA[Bagekursus - glutenfri kager]]></g:title>
-      <g:description><![CDATA[Lær glutenfri kagebagning i Vordingborg. Bag kanelsnegle og småkager, få gode teknikker og tag lækre hjemmebagte kager med hjem.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-sydoest/bagekursus-glutenfri-kager?holdnr=20151</g:link>
-      <g:image_link>https://www.fof.dk/media/ioajhizy/bagning_fof_aftenskolen.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>490.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Sydøst</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Madlavning og drikkevarer</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
-      <g:custom_label_2></g:custom_label_2>
-      <g:custom_label_4>Vordingborg</g:custom_label_4>
-      <g:start_date>2026-11-07T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Workshops</g:custom_label_3>
-      <g:internal_label>['Workshops','Sundhed og eksistens','Vordingborg']</g:internal_label>
-    </item>
-<item>
       <g:id>SYO-20231</g:id>
       <g:title><![CDATA[Hundetræning for familiehunde]]></g:title>
       <g:description><![CDATA[Lær hundetræning i Vordingborg for hvalpe og voksne hunde. Klikkertræning, belønningsbaseret træning og socialisering skaber en gladere, lydigere hund og stærkt bånd.]]></g:description>

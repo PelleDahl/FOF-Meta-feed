@@ -6,28 +6,6 @@
 <description>Meta produktfeed med alle ledige hold fra FOF Sydjylland</description>
 <language>da-DK</language>
 <item>
-      <g:id>SJY-2626252</g:id>
-      <g:title><![CDATA[Lynkursus i maleri - Weekend]]></g:title>
-      <g:description><![CDATA[Kom på et koncentreret weekend kursus for begyndere og mere erfarne malere. Vi arbejder med billedet fra starten - og eksperimenterer. Se mere og tilmeld dig.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-sydjylland/lynkursus-i-maleri?holdnr=2626252</g:link>
-      <g:image_link>https://www.fof.dk/media/xviof3wy/akryl-maleri-3.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>879.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Sydjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Kreative kurser &gt; Malekurser</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Kreative kurser</g:custom_label_1>
-      <g:custom_label_2>Malekurser</g:custom_label_2>
-      <g:custom_label_4>Kolding</g:custom_label_4>
-      <g:start_date>2026-11-07T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Kolding</g:custom_label_3>
-      <g:internal_label>['Kolding','Starter snart','Krea','Maleri']</g:internal_label>
-    </item>
-<item>
       <g:id>SJY-2622605</g:id>
       <g:title><![CDATA[Græsk 2 - Let øvet]]></g:title>
       <g:description><![CDATA[Lær at forstå og tale græsk i hverdagen for let øvede i Kolding. Få mere selvtillid i små samtaler og styrk dit græske ordforråd og indblik i græsk kultur. Se mere og tilmeld dig.]]></g:description>
@@ -399,7 +377,7 @@
       <g:custom_label_4>Kolding</g:custom_label_4>
       <g:start_date>2026-11-22T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Kolding</g:custom_label_3>
-      <g:internal_label>['Kolding','Krea','Håndarbejde']</g:internal_label>
+      <g:internal_label>['Kolding','Starter snart','Krea','Håndarbejde']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2620110</g:id>
@@ -1744,28 +1722,6 @@
       <g:internal_label>['Tønder','Sprog','Dansk - Danish','Sprog niveau - Begyndere og fortsættere','Bredebro']</g:internal_label>
     </item>
 <item>
-      <g:id>SJY-2712652</g:id>
-      <g:title><![CDATA[Dansk for fortsættere]]></g:title>
-      <g:description><![CDATA[For dig, der allerede kan snakke lidt dansk. Styrk både det grammatiske og hverdagssproget i hyggelige rammer - helt lokalt. Se mere og tilmeld dig.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-sydjylland/dansk-for-fortsaettere?holdnr=2712652</g:link>
-      <g:image_link>https://www.fof.dk/media/fkuluwls/dansk-251.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>875.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Sydjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Sprog &gt; Dansk - Danish</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Sprog</g:custom_label_1>
-      <g:custom_label_2>Dansk - Danish</g:custom_label_2>
-      <g:custom_label_4>Bredebro</g:custom_label_4>
-      <g:start_date>2027-01-28T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Tønder</g:custom_label_3>
-      <g:internal_label>['Tønder','Sprog','Dansk - Danish','Sprog niveau - Begyndere og fortsættere','Bredebro']</g:internal_label>
-    </item>
-<item>
       <g:id>SJY-2712401</g:id>
       <g:title><![CDATA[Kinesisk 1 -  Begynder]]></g:title>
       <g:description><![CDATA[Lær kinesisk eller få det genopfrisket. Vi arbejder med det kinesiske sprog og på kulturforståelsen. Derudover vil der også blive arbejdet med skrifttegn. Se mere og tilmeld dig.]]></g:description>
@@ -1786,6 +1742,28 @@
       <g:start_date>2027-01-28T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Kolding</g:custom_label_3>
       <g:internal_label>['Kolding','Sprog','Kinesisk','Sprog niveau - Begyndere og fortsættere']</g:internal_label>
+    </item>
+<item>
+      <g:id>SJY-2712652</g:id>
+      <g:title><![CDATA[Dansk for fortsættere]]></g:title>
+      <g:description><![CDATA[For dig, der allerede kan snakke lidt dansk. Styrk både det grammatiske og hverdagssproget i hyggelige rammer - helt lokalt. Se mere og tilmeld dig.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydjylland/dansk-for-fortsaettere?holdnr=2712652</g:link>
+      <g:image_link>https://www.fof.dk/media/fkuluwls/dansk-251.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>875.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Sprog &gt; Dansk - Danish</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Sprog</g:custom_label_1>
+      <g:custom_label_2>Dansk - Danish</g:custom_label_2>
+      <g:custom_label_4>Bredebro</g:custom_label_4>
+      <g:start_date>2027-01-28T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Tønder</g:custom_label_3>
+      <g:internal_label>['Tønder','Sprog','Dansk - Danish','Sprog niveau - Begyndere og fortsættere','Bredebro']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2716020</g:id>
