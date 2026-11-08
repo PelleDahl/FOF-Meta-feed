@@ -6,28 +6,6 @@
 <description>Meta produktfeed med alle ledige hold fra FOF Sydøstjylland</description>
 <language>da-DK</language>
 <item>
-      <g:id>SOJ-269201</g:id>
-      <g:title><![CDATA[Pileflet]]></g:title>
-      <g:description><![CDATA[Lær pileflet i Horsens og Vejle. Kreativt kursus med naturmaterialer for begyndere og øvede. Tilmeld dig pileflet workshop i dag.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-sydoestjylland/pileflet-efteraar?holdnr=269201</g:link>
-      <g:image_link>https://www.fof.dk/media/thjp4i5k/pileflet.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>465.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Sydøstjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Kreative kurser &gt; Håndværk og kunsthåndværk</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Kreative kurser</g:custom_label_1>
-      <g:custom_label_2>Håndværk og kunsthåndværk</g:custom_label_2>
-      <g:custom_label_4>Vejle</g:custom_label_4>
-      <g:start_date>2026-11-08T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Starter snart</g:custom_label_3>
-      <g:internal_label>['Starter snart','Vejle']</g:internal_label>
-    </item>
-<item>
       <g:id>SOJ-269071</g:id>
       <g:title><![CDATA[Blid Yoga for alle - Prøvetime]]></g:title>
       <g:description><![CDATA[Gå til blid yoga i Vejle, Skanderborg og Hedensted. Skånsom og rolig yoga med fokus på afspænding, balance, smidighed og mental ro. Yoga for begyndere, letøvede og hensyn.]]></g:description>
@@ -420,7 +398,8 @@
       <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4>Skanderborg</g:custom_label_4>
       <g:start_date>2026-11-23T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Skanderborg']</g:internal_label>
+      <g:custom_label_3>Starter snart</g:custom_label_3>
+      <g:internal_label>['Starter snart','Skanderborg']</g:internal_label>
     </item>
 <item>
       <g:id>SOJ-265709</g:id>
@@ -441,7 +420,8 @@
       <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4>Horsens</g:custom_label_4>
       <g:start_date>2026-11-23T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Horsens']</g:internal_label>
+      <g:custom_label_3>Starter snart</g:custom_label_3>
+      <g:internal_label>['Starter snart','Horsens']</g:internal_label>
     </item>
 <item>
       <g:id>SOJ-269264</g:id>
@@ -462,7 +442,8 @@
       <g:custom_label_2>Bagning og søde sager</g:custom_label_2>
       <g:custom_label_4>Vejle Øst</g:custom_label_4>
       <g:start_date>2026-11-23T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Vejle Øst']</g:internal_label>
+      <g:custom_label_3>Starter snart</g:custom_label_3>
+      <g:internal_label>['Starter snart','Vejle Øst']</g:internal_label>
     </item>
 <item>
       <g:id>SOJ-265273</g:id>
