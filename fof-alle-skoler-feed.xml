@@ -4225,28 +4225,6 @@
       <g:internal_label>['Viborg','1 dags kursus','Randers']</g:internal_label>
     </item>
 <item>
-      <g:id>RFMV-620271</g:id>
-      <g:title><![CDATA[Vandgymnastik for gravide]]></g:title>
-      <g:description><![CDATA[Få trænet din gravide krop til vandgymnastik. Her får du motion på en skånsom måde sammen med andre gravide. Undervisningen foregår i varmtvandsbassin i Water & Wellness Randers.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-randers-favrskov-mariagerfjord-viborg/vandgymnastik-for-gravide?holdnr=620271</g:link>
-      <g:image_link>https://www.fof.dk/media/ub2oetbm/vand-gymnastik-gravide.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>255.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Randers-Favrskov-Mariagerfjord-Viborg</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Motion for gravide</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
-      <g:custom_label_2>Motion for gravide</g:custom_label_2>
-      <g:custom_label_4>Randers</g:custom_label_4>
-      <g:start_date>2026-11-16T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Randers</g:custom_label_3>
-      <g:internal_label>['Randers','Randers NV']</g:internal_label>
-    </item>
-<item>
       <g:id>RFMV-620544</g:id>
       <g:title><![CDATA[Begynderkursus- Sy alt det sjove]]></g:title>
       <g:description><![CDATA[På et 4 ugers kursus hos FOF i Randers, lærer du at sy lige hvad du har lyst til efter et mønster du selv har med. Du medbringer din egen symaskine, og bliver fortrolig med at sy på den.
@@ -7797,28 +7775,6 @@ Du lærer at lave dine egne mønstre]]></g:description>
       <g:internal_label>['Tønder','Sprog','Dansk - Danish','Sprog niveau - Begyndere og fortsættere','Bredebro']</g:internal_label>
     </item>
 <item>
-      <g:id>SJY-2712401</g:id>
-      <g:title><![CDATA[Kinesisk 1 -  Begynder]]></g:title>
-      <g:description><![CDATA[Lær kinesisk eller få det genopfrisket. Vi arbejder med det kinesiske sprog og på kulturforståelsen. Derudover vil der også blive arbejdet med skrifttegn. Se mere og tilmeld dig.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-sydjylland/kinesisk-1-begynder?holdnr=2712401</g:link>
-      <g:image_link>https://www.fof.dk/media/sovk4ajx/kinesisk-1.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1495.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Sydjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Sprog &gt; Kinesisk</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Sprog</g:custom_label_1>
-      <g:custom_label_2>Kinesisk</g:custom_label_2>
-      <g:custom_label_4>Kolding</g:custom_label_4>
-      <g:start_date>2027-01-28T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Kolding</g:custom_label_3>
-      <g:internal_label>['Kolding','Sprog','Kinesisk','Sprog niveau - Begyndere og fortsættere']</g:internal_label>
-    </item>
-<item>
       <g:id>SJY-2712652</g:id>
       <g:title><![CDATA[Dansk for fortsættere]]></g:title>
       <g:description><![CDATA[For dig, der allerede kan snakke lidt dansk. Styrk både det grammatiske og hverdagssproget i hyggelige rammer - helt lokalt. Se mere og tilmeld dig.]]></g:description>
@@ -7839,6 +7795,28 @@ Du lærer at lave dine egne mønstre]]></g:description>
       <g:start_date>2027-01-28T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Tønder</g:custom_label_3>
       <g:internal_label>['Tønder','Sprog','Dansk - Danish','Sprog niveau - Begyndere og fortsættere','Bredebro']</g:internal_label>
+    </item>
+<item>
+      <g:id>SJY-2712401</g:id>
+      <g:title><![CDATA[Kinesisk 1 -  Begynder]]></g:title>
+      <g:description><![CDATA[Lær kinesisk eller få det genopfrisket. Vi arbejder med det kinesiske sprog og på kulturforståelsen. Derudover vil der også blive arbejdet med skrifttegn. Se mere og tilmeld dig.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydjylland/kinesisk-1-begynder?holdnr=2712401</g:link>
+      <g:image_link>https://www.fof.dk/media/sovk4ajx/kinesisk-1.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1495.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Sprog &gt; Kinesisk</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Sprog</g:custom_label_1>
+      <g:custom_label_2>Kinesisk</g:custom_label_2>
+      <g:custom_label_4>Kolding</g:custom_label_4>
+      <g:start_date>2027-01-28T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Kolding</g:custom_label_3>
+      <g:internal_label>['Kolding','Sprog','Kinesisk','Sprog niveau - Begyndere og fortsættere']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2716020</g:id>
@@ -9248,28 +9226,6 @@ Du lærer at lave dine egne mønstre]]></g:description>
       <g:internal_label>['Workshops','Horsens']</g:internal_label>
     </item>
 <item>
-      <g:id>SOJ-265707</g:id>
-      <g:title><![CDATA[Julekoncert - Marie Carmen Koppel]]></g:title>
-      <g:description><![CDATA[Tag hul på julen med en stemningsfuld julekoncert i Horsens. Oplev Marie Carmen Koppel live i Sønderbro Kirke.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-sydoestjylland/julekoncert-marie-carmen-koppel?holdnr=265707</g:link>
-      <g:image_link>https://www.fof.dk/media/izqg3bmg/marie-carmen-koppel-1.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>245.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Sydøstjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Foredrag, debat og højskoler &gt; Musik og koncerter</g:product_type>
-      <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
-      <g:custom_label_1>Musik og koncerter</g:custom_label_1>
-      <g:custom_label_2></g:custom_label_2>
-      <g:custom_label_4>Horsens</g:custom_label_4>
-      <g:start_date>2026-12-05T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Jul og nytår</g:custom_label_3>
-      <g:internal_label>['Jul og nytår','Horsens']</g:internal_label>
-    </item>
-<item>
       <g:id>SOJ-265015</g:id>
       <g:title><![CDATA[Restorativ Yoga/Yoga i hvile ]]></g:title>
       <g:description><![CDATA[Oplev restorativ yoga i Horsens – blid yoga med fokus på ro, afspænding og stressreduktion. For alle niveauer. Tilmeld dig og find balance i hverdagen.]]></g:description>
@@ -9290,6 +9246,28 @@ Du lærer at lave dine egne mønstre]]></g:description>
       <g:start_date>2026-12-05T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Workshops</g:custom_label_3>
       <g:internal_label>['Workshops','Horsens']</g:internal_label>
+    </item>
+<item>
+      <g:id>SOJ-265707</g:id>
+      <g:title><![CDATA[Julekoncert - Marie Carmen Koppel]]></g:title>
+      <g:description><![CDATA[Tag hul på julen med en stemningsfuld julekoncert i Horsens. Oplev Marie Carmen Koppel live i Sønderbro Kirke.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydoestjylland/julekoncert-marie-carmen-koppel?holdnr=265707</g:link>
+      <g:image_link>https://www.fof.dk/media/izqg3bmg/marie-carmen-koppel-1.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>245.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydøstjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Foredrag, debat og højskoler &gt; Musik og koncerter</g:product_type>
+      <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
+      <g:custom_label_1>Musik og koncerter</g:custom_label_1>
+      <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Horsens</g:custom_label_4>
+      <g:start_date>2026-12-05T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Jul og nytår</g:custom_label_3>
+      <g:internal_label>['Jul og nytår','Horsens']</g:internal_label>
     </item>
 <item>
       <g:id>SOJ-269093</g:id>
@@ -13586,28 +13564,6 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:start_date>2027-01-15T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Graviditet og barsel</g:custom_label_3>
       <g:internal_label>['Graviditet og barsel','Esbjerg']</g:internal_label>
-    </item>
-<item>
-      <g:id>SVJ-2710437</g:id>
-      <g:title><![CDATA[Fermenteringskursus]]></g:title>
-      <g:description><![CDATA[Lær fermentering og mælkesyregæring fra bunden. Få praktisk erfaring, nye smage og inspiration til dit køkken. Tilmeld dig i dag nu.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-sydvestjylland/fermenteringskursus?holdnr=2710437</g:link>
-      <g:image_link>https://www.fof.dk/media/ggmbvgng/kurser-madlavning-madteknikker-fermenteringskursus-fanoe-sydvestjylland-fof-aftenskolen-hero.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>300.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Sydvestjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Madlavning og drikkevarer &gt; Madteknikker</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
-      <g:custom_label_2>Madteknikker</g:custom_label_2>
-      <g:custom_label_4>Fanø</g:custom_label_4>
-      <g:start_date>2027-01-16T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Fanø</g:custom_label_3>
-      <g:internal_label>['Fanø','Madlavning og drikkevarer','Esbjerg','Ribe']</g:internal_label>
     </item>
 <item>
       <g:id>SVJ-2710803</g:id>
@@ -19077,27 +19033,6 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:internal_label>['Aarhus V']</g:internal_label>
     </item>
 <item>
-      <g:id>AAR-436827</g:id>
-      <g:title><![CDATA[Niels Krause-Kjær: Ude for uden]]></g:title>
-      <g:description><![CDATA[Kom med til et spændende foredrag med tidligere journalist og forfatter Niels Krause-Kjær, der vil fortælle om romanen 'Ude for uden', som er Niels Krause-Kjærs prisbelønnede, personlige beretning om Danmark i en brydningstid]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/niels-krause-kjaer-ude-for-uden?holdnr=436827</g:link>
-      <g:image_link>https://www.fof.dk/media/turbitea/niels-krause-pressefoto-credit-thomas-a-fof-aftenskolen-aarhus.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>200.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Aarhus</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Foredrag, debat og højskoler &gt; Kultur og livsfortællinger</g:product_type>
-      <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
-      <g:custom_label_1>Kultur og livsfortællinger</g:custom_label_1>
-      <g:custom_label_2></g:custom_label_2>
-      <g:custom_label_4>Aarhus</g:custom_label_4>
-      <g:start_date>2027-01-28T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Aarhus C']</g:internal_label>
-    </item>
-<item>
       <g:id>AAR-434839</g:id>
       <g:title><![CDATA[Musikteori - letøvede]]></g:title>
       <g:description><![CDATA[Byg videre på din viden om musikteori på kursus i Aarhus. Bliv bedre til noder, skalaer, fortegn, rytmer og intervaller på et lille hold. Tilmeld dig i dag.]]></g:description>
@@ -19458,14 +19393,14 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:internal_label>['Aarhus C']</g:internal_label>
     </item>
 <item>
-      <g:id>AAR-436885</g:id>
-      <g:title><![CDATA[Kunsten at investere i kunst]]></g:title>
-      <g:description><![CDATA[Kom til foredrag med direktør og auktionsleder i Bruun Rasmussen Kasper Nielsen om kunst og kunsthandlens fascinerende verden | FOF Aarhus | Tilmeld dig nu]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/kunsten-at-investere-i-kunst?holdnr=436885</g:link>
-      <g:image_link>https://www.fof.dk/media/ljzjzrzl/kasper_nielsen_foredrag_fof_aarhus_1200x1200.jpg?width=1200</g:image_link>
+      <g:id>AAR-436822</g:id>
+      <g:title><![CDATA[Stine Pilgaard – om hverdagslivet, humoren og litteraturen]]></g:title>
+      <g:description><![CDATA[Oplev Stine Pilgaard i Musikhuset Aarhus, hvor hun fortæller om livet, kærligheden og litteraturen med humor og sproglig skarphed. Kom med til en særlig aften.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/stine-pilgaard-om-hverdagslivet-humoren-og-litteraturen?holdnr=436822</g:link>
+      <g:image_link>https://www.fof.dk/media/lxjjyfqa/stine-pilgaard-foredrag-aarhus_foto-alexander-banck-petersen.jpg?width=1200</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:quantity>1</g:quantity>
-      <g:price>185.00 DKK</g:price>
+      <g:price>250.00 DKK</g:price>
       <g:condition>new</g:condition>
       <g:brand>FOF Aarhus</g:brand>
       <g:google_product_category>Education</g:google_product_category>
@@ -19479,14 +19414,14 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:internal_label>['Aarhus C']</g:internal_label>
     </item>
 <item>
-      <g:id>AAR-436822</g:id>
-      <g:title><![CDATA[Stine Pilgaard – om hverdagslivet, humoren og litteraturen]]></g:title>
-      <g:description><![CDATA[Oplev Stine Pilgaard i Musikhuset Aarhus, hvor hun fortæller om livet, kærligheden og litteraturen med humor og sproglig skarphed. Kom med til en særlig aften.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/stine-pilgaard-om-hverdagslivet-humoren-og-litteraturen?holdnr=436822</g:link>
-      <g:image_link>https://www.fof.dk/media/lxjjyfqa/stine-pilgaard-foredrag-aarhus_foto-alexander-banck-petersen.jpg?width=1200</g:image_link>
+      <g:id>AAR-436885</g:id>
+      <g:title><![CDATA[Kunsten at investere i kunst]]></g:title>
+      <g:description><![CDATA[Kom til foredrag med direktør og auktionsleder i Bruun Rasmussen Kasper Nielsen om kunst og kunsthandlens fascinerende verden | FOF Aarhus | Tilmeld dig nu]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/kunsten-at-investere-i-kunst?holdnr=436885</g:link>
+      <g:image_link>https://www.fof.dk/media/ljzjzrzl/kasper_nielsen_foredrag_fof_aarhus_1200x1200.jpg?width=1200</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:quantity>1</g:quantity>
-      <g:price>250.00 DKK</g:price>
+      <g:price>185.00 DKK</g:price>
       <g:condition>new</g:condition>
       <g:brand>FOF Aarhus</g:brand>
       <g:google_product_category>Education</g:google_product_category>
@@ -21196,27 +21131,6 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:internal_label>['Dalby']</g:internal_label>
     </item>
 <item>
-      <g:id>OFY-261812</g:id>
-      <g:title><![CDATA[Chokolade til julens hygge]]></g:title>
-      <g:description><![CDATA[Lær at lave fyldte chokolader på chokoladekursus i Kerteminde og Nyborg. Få styr på temperering, ganache og hjemmelavet konfekt til julens hygge hos FOF Østfyn]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-oestfyn/jule-chokolade?holdnr=261812</g:link>
-      <g:image_link>https://www.fof.dk/media/swfpycql/julechokolade-1200-x-1200-px.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>295.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Østfyn</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Madlavning og drikkevarer &gt; Bagning og søde sager</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
-      <g:custom_label_2>Bagning og søde sager</g:custom_label_2>
-      <g:custom_label_4>Munkebo</g:custom_label_4>
-      <g:start_date>2026-12-06T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Munkebo']</g:internal_label>
-    </item>
-<item>
       <g:id>OFY-271280</g:id>
       <g:title><![CDATA[Munkebokoret]]></g:title>
       <g:description><![CDATA[Oplev glæde og fællesskab i Munkebokoret hos FOF Østfyn aftenskolen]]></g:description>
@@ -21678,28 +21592,6 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:internal_label>['Kerteminde']</g:internal_label>
     </item>
 <item>
-      <g:id>26200013</g:id>
-      <g:title><![CDATA[Hvad driver kvinder til kriminalitet?]]></g:title>
-      <g:description><![CDATA[Bliv klogere på kriminelle kvinder, deres motiver og sind til dette foredrag hos FOF København og Nordsjælland. Læs mere og tilmeld dig her.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/kriminelle-kvinder?holdnr=26200013</g:link>
-      <g:image_link>https://www.fof.dk/media/zfeerwv3/kriminelle-kvinder_forbrydelsens_sind_251_low.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>200.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF København og Nordsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Foredrag, debat og højskoler &gt; True crime</g:product_type>
-      <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
-      <g:custom_label_1>True crime</g:custom_label_1>
-      <g:custom_label_2></g:custom_label_2>
-      <g:custom_label_4>Frederiksberg</g:custom_label_4>
-      <g:start_date>2026-11-10T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Frederiksberg</g:custom_label_3>
-      <g:internal_label>['Frederiksberg','Debat']</g:internal_label>
-    </item>
-<item>
       <g:id>26206090</g:id>
       <g:title><![CDATA[Lars Findsen - (De virkelige) trusler mod Danmark]]></g:title>
       <g:description><![CDATA[Hør Lars Findsen om cyberangreb, informationskrig og aktuelle trusler mod Danmark. Et aktuelt og vigtigt foredrag hos FOF København og Nordsjælland.]]></g:description>
@@ -21720,6 +21612,28 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:start_date>2026-11-10T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Halsnæs</g:custom_label_3>
       <g:internal_label>['Halsnæs','Frederiksværk']</g:internal_label>
+    </item>
+<item>
+      <g:id>26200013</g:id>
+      <g:title><![CDATA[Hvad driver kvinder til kriminalitet?]]></g:title>
+      <g:description><![CDATA[Bliv klogere på kriminelle kvinder, deres motiver og sind til dette foredrag hos FOF København og Nordsjælland. Læs mere og tilmeld dig her.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/kriminelle-kvinder?holdnr=26200013</g:link>
+      <g:image_link>https://www.fof.dk/media/zfeerwv3/kriminelle-kvinder_forbrydelsens_sind_251_low.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>200.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Foredrag, debat og højskoler &gt; True crime</g:product_type>
+      <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
+      <g:custom_label_1>True crime</g:custom_label_1>
+      <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Frederiksberg</g:custom_label_4>
+      <g:start_date>2026-11-10T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Frederiksberg</g:custom_label_3>
+      <g:internal_label>['Frederiksberg','Debat']</g:internal_label>
     </item>
 <item>
       <g:id>26289952</g:id>
@@ -25784,27 +25698,6 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:internal_label>['Jul og nytår','København V']</g:internal_label>
     </item>
 <item>
-      <g:id>27151908</g:id>
-      <g:title><![CDATA[Tværfløjte]]></g:title>
-      <g:description><![CDATA[Lær at spille tværfløjte på små hold med plads til personlig vejledning og udvikling i eget tempo. Kurset henvender sig både til begyndere og øvede. Læs mere.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/tvaerfloejte?holdnr=27151908</g:link>
-      <g:image_link>https://www.fof.dk/media/xagb01lf/tvaerfloejte-fofkn-aftenskolen-musik-og-sang.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>600.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF København og Nordsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Musik og sang &gt; Blæsere</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Musik og sang</g:custom_label_1>
-      <g:custom_label_2>Blæsere</g:custom_label_2>
-      <g:custom_label_4>København</g:custom_label_4>
-      <g:start_date>2027-01-04T00:00:00.000Z</g:start_date>
-      <g:internal_label>['København K']</g:internal_label>
-    </item>
-<item>
       <g:id>27130018</g:id>
       <g:title><![CDATA[Motion i vand]]></g:title>
       <g:description><![CDATA[Kom i form med skånsom og effektiv motion i vand. Træn hele kroppen, løs spændinger og oplev velvære gennem bevægelse i vandets rolige modstand.]]></g:description>
@@ -25824,6 +25717,27 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:custom_label_4>Kongens Lyngby</g:custom_label_4>
       <g:start_date>2027-01-04T00:00:00.000Z</g:start_date>
       <g:internal_label>['Kongens Lyngby']</g:internal_label>
+    </item>
+<item>
+      <g:id>27151908</g:id>
+      <g:title><![CDATA[Tværfløjte]]></g:title>
+      <g:description><![CDATA[Lær at spille tværfløjte på små hold med plads til personlig vejledning og udvikling i eget tempo. Kurset henvender sig både til begyndere og øvede. Læs mere.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/tvaerfloejte?holdnr=27151908</g:link>
+      <g:image_link>https://www.fof.dk/media/xagb01lf/tvaerfloejte-fofkn-aftenskolen-musik-og-sang.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>600.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Musik og sang &gt; Blæsere</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Musik og sang</g:custom_label_1>
+      <g:custom_label_2>Blæsere</g:custom_label_2>
+      <g:custom_label_4>København</g:custom_label_4>
+      <g:start_date>2027-01-04T00:00:00.000Z</g:start_date>
+      <g:internal_label>['København K']</g:internal_label>
     </item>
 <item>
       <g:id>27120850</g:id>
@@ -26207,27 +26121,6 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:internal_label>['Charlottenlund']</g:internal_label>
     </item>
 <item>
-      <g:id>27120848</g:id>
-      <g:title><![CDATA[Børnemotorik og tumlingeleg 8-12 mdr.]]></g:title>
-      <g:description><![CDATA[Til børnemotorik og tumlingeleg hos FOF København og Nordsjælland leger, synger og bevæger vi os på børnenes præmisser og styrker motorik og nærvær.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/boernemotorik-og-tumlingeleg?holdnr=27120848</g:link>
-      <g:image_link>https://www.fof.dk/media/mwtpa2lu/tumlingeleg-fofkn-aftenskolen-gravid-og-barsel-7.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>600.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF København og Nordsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Aktiviteter med baby</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
-      <g:custom_label_2>Aktiviteter med baby</g:custom_label_2>
-      <g:custom_label_4>Charlottenlund</g:custom_label_4>
-      <g:start_date>2027-01-05T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Charlottenlund']</g:internal_label>
-    </item>
-<item>
       <g:id>27151912</g:id>
       <g:title><![CDATA[Sang – klassisk og rytmisk]]></g:title>
       <g:description><![CDATA[Udvikl din stemme med sangundervisning i klassisk og rytmisk sang hos FOF København og Nordsjælland. Små hold med plads til dine ønsker. Læs mere her.]]></g:description>
@@ -26247,6 +26140,27 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:custom_label_4>København</g:custom_label_4>
       <g:start_date>2027-01-05T00:00:00.000Z</g:start_date>
       <g:internal_label>['København K']</g:internal_label>
+    </item>
+<item>
+      <g:id>27120848</g:id>
+      <g:title><![CDATA[Børnemotorik og tumlingeleg 8-12 mdr.]]></g:title>
+      <g:description><![CDATA[Til børnemotorik og tumlingeleg hos FOF København og Nordsjælland leger, synger og bevæger vi os på børnenes præmisser og styrker motorik og nærvær.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/boernemotorik-og-tumlingeleg?holdnr=27120848</g:link>
+      <g:image_link>https://www.fof.dk/media/mwtpa2lu/tumlingeleg-fofkn-aftenskolen-gravid-og-barsel-7.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>600.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Aktiviteter med baby</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
+      <g:custom_label_2>Aktiviteter med baby</g:custom_label_2>
+      <g:custom_label_4>Charlottenlund</g:custom_label_4>
+      <g:start_date>2027-01-05T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Charlottenlund']</g:internal_label>
     </item>
 <item>
       <g:id>27151913</g:id>
@@ -27684,28 +27598,6 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:internal_label>['Korte kurser','København V']</g:internal_label>
     </item>
 <item>
-      <g:id>27142126</g:id>
-      <g:title><![CDATA[Manga og tegneserietegning – voksne og børn fra 9 år]]></g:title>
-      <g:description><![CDATA[Kom med på et kreativt manga tegnekursus for voksne og børn fra 9 år. Lær at tegne figurer, fortælle historier og slip fantasien løs sammen.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/manga-og-tegneserietegning-voksne-og-boern-fra-9-aar?holdnr=27142126</g:link>
-      <g:image_link>https://www.fof.dk/media/ukkk0lik/manga-tegning-fofkn-aftenskolen-stock-1.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>630.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF København og Nordsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Familie, børn og unge &gt; Kreative kurser</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Familie, børn og unge</g:custom_label_1>
-      <g:custom_label_2>Kreative kurser</g:custom_label_2>
-      <g:custom_label_4>Kongens Lyngby</g:custom_label_4>
-      <g:start_date>2027-01-17T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Familie</g:custom_label_3>
-      <g:internal_label>['Familie','Kongens Lyngby']</g:internal_label>
-    </item>
-<item>
       <g:id>26230221</g:id>
       <g:title><![CDATA[Yin yoga med tid til ro og fordybelse – workshop]]></g:title>
       <g:description><![CDATA[Oplev yin yogaens rolige stræk og dybe afspænding. Find indre ro og smidighed gennem mindfulness, åndedræt og nærvær – for både begyndere og erfarne.]]></g:description>
@@ -27747,6 +27639,28 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:start_date>2027-01-17T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Aftenskolernes Hus</g:custom_label_3>
       <g:internal_label>['Aftenskolernes Hus','Korte kurser','København NV']</g:internal_label>
+    </item>
+<item>
+      <g:id>27142126</g:id>
+      <g:title><![CDATA[Manga og tegneserietegning – voksne og børn fra 9 år]]></g:title>
+      <g:description><![CDATA[Kom med på et kreativt manga tegnekursus for voksne og børn fra 9 år. Lær at tegne figurer, fortælle historier og slip fantasien løs sammen.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/manga-og-tegneserietegning-voksne-og-boern-fra-9-aar?holdnr=27142126</g:link>
+      <g:image_link>https://www.fof.dk/media/ukkk0lik/manga-tegning-fofkn-aftenskolen-stock-1.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>630.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Familie, børn og unge &gt; Kreative kurser</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Familie, børn og unge</g:custom_label_1>
+      <g:custom_label_2>Kreative kurser</g:custom_label_2>
+      <g:custom_label_4>Kongens Lyngby</g:custom_label_4>
+      <g:start_date>2027-01-17T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Familie</g:custom_label_3>
+      <g:internal_label>['Familie','Kongens Lyngby']</g:internal_label>
     </item>
 <item>
       <g:id>27151161</g:id>
@@ -28645,6 +28559,27 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:internal_label>['Frederiksberg','Frederiksberg C']</g:internal_label>
     </item>
 <item>
+      <g:id>27150351</g:id>
+      <g:title><![CDATA[Operasang – daghold]]></g:title>
+      <g:description><![CDATA[Udforsk din stemme til operaundervisning. Kurset er en masterclass med få deltagere, og du arbejder bl.a. med klang, teknik og fortolkning. Tilmeld dig her.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/operasang?holdnr=27150351</g:link>
+      <g:image_link>https://www.fof.dk/media/gnufjoln/sangundervisning-fofkn-aftenskolen-musik-og-sang-stock-169496540-1.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>2995.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Musik og sang &gt; Sang og stemmetræning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Musik og sang</g:custom_label_1>
+      <g:custom_label_2>Sang og stemmetræning</g:custom_label_2>
+      <g:custom_label_4>København</g:custom_label_4>
+      <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
+      <g:internal_label>['København K']</g:internal_label>
+    </item>
+<item>
       <g:id>27150921</g:id>
       <g:title><![CDATA[Trommer – daghold ]]></g:title>
       <g:description><![CDATA[Gå til trommer hos FOF København og Nordsjælland og lær at spille med teknik, rytme og groove. Undervisning på små hold med plads til dig. Tilmeld dig her.]]></g:description>
@@ -28708,27 +28643,6 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Aftenskolernes Hus</g:custom_label_3>
       <g:internal_label>['Aftenskolernes Hus','København NV']</g:internal_label>
-    </item>
-<item>
-      <g:id>27150351</g:id>
-      <g:title><![CDATA[Operasang – daghold]]></g:title>
-      <g:description><![CDATA[Udforsk din stemme til operaundervisning. Kurset er en masterclass med få deltagere, og du arbejder bl.a. med klang, teknik og fortolkning. Tilmeld dig her.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/operasang?holdnr=27150351</g:link>
-      <g:image_link>https://www.fof.dk/media/gnufjoln/sangundervisning-fofkn-aftenskolen-musik-og-sang-stock-169496540-1.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>2995.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF København og Nordsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Musik og sang &gt; Sang og stemmetræning</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Musik og sang</g:custom_label_1>
-      <g:custom_label_2>Sang og stemmetræning</g:custom_label_2>
-      <g:custom_label_4>København</g:custom_label_4>
-      <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
-      <g:internal_label>['København K']</g:internal_label>
     </item>
 <item>
       <g:id>27110020</g:id>
@@ -28796,27 +28710,6 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:internal_label>['Aftenskolernes Hus','København NV']</g:internal_label>
     </item>
 <item>
-      <g:id>27150657</g:id>
-      <g:title><![CDATA[Klassisk sang – daghold]]></g:title>
-      <g:description><![CDATA[Gå til klassisk sangundervisning hos FOF København og Nordsjælland – for begyndere og øvede. Træn teknik, klang og fortolkning med erfarne undervisere.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/klassisk-sang?holdnr=27150657</g:link>
-      <g:image_link>https://www.fof.dk/media/gnufjoln/sangundervisning-fofkn-aftenskolen-musik-og-sang-stock-169496540-1.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>2995.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF København og Nordsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Musik og sang &gt; Sang og stemmetræning</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Musik og sang</g:custom_label_1>
-      <g:custom_label_2>Sang og stemmetræning</g:custom_label_2>
-      <g:custom_label_4>København</g:custom_label_4>
-      <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
-      <g:internal_label>['København K']</g:internal_label>
-    </item>
-<item>
       <g:id>27150705</g:id>
       <g:title><![CDATA[Tværfløjte]]></g:title>
       <g:description><![CDATA[Lær at spille tværfløjte på små hold med plads til personlig vejledning og udvikling i eget tempo. Kurset henvender sig både til begyndere og øvede. Læs mere.]]></g:description>
@@ -28878,6 +28771,27 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:custom_label_4>København</g:custom_label_4>
       <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
       <g:internal_label>['København S']</g:internal_label>
+    </item>
+<item>
+      <g:id>27150657</g:id>
+      <g:title><![CDATA[Klassisk sang – daghold]]></g:title>
+      <g:description><![CDATA[Gå til klassisk sangundervisning hos FOF København og Nordsjælland – for begyndere og øvede. Træn teknik, klang og fortolkning med erfarne undervisere.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/klassisk-sang?holdnr=27150657</g:link>
+      <g:image_link>https://www.fof.dk/media/gnufjoln/sangundervisning-fofkn-aftenskolen-musik-og-sang-stock-169496540-1.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>2995.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Musik og sang &gt; Sang og stemmetræning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Musik og sang</g:custom_label_1>
+      <g:custom_label_2>Sang og stemmetræning</g:custom_label_2>
+      <g:custom_label_4>København</g:custom_label_4>
+      <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
+      <g:internal_label>['København K']</g:internal_label>
     </item>
 <item>
       <g:id>27151003</g:id>
@@ -29517,27 +29431,6 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:internal_label>['København K']</g:internal_label>
     </item>
 <item>
-      <g:id>27151050</g:id>
-      <g:title><![CDATA[Saxofon – lige uger]]></g:title>
-      <g:description><![CDATA[Lær at spille saxofon fra bunden eller finpuds teknik, rytmik og musikalitet til saxofonundervisning hos FOF København og Nordsjælland. Tilmeld dig her.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/saxofon?holdnr=27151050</g:link>
-      <g:image_link>https://www.fof.dk/media/fumnia31/blaeseinstrumenter-fofkn-aftenskolen-musik-og-sang-2.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>2795.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF København og Nordsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Musik og sang &gt; Blæsere</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Musik og sang</g:custom_label_1>
-      <g:custom_label_2>Blæsere</g:custom_label_2>
-      <g:custom_label_4>Hellerup</g:custom_label_4>
-      <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Hellerup']</g:internal_label>
-    </item>
-<item>
       <g:id>27150062</g:id>
       <g:title><![CDATA[Sang – klassisk og rytmisk]]></g:title>
       <g:description><![CDATA[Udvikl din stemme med sangundervisning i klassisk og rytmisk sang hos FOF København og Nordsjælland. Små hold med plads til dine ønsker. Læs mere her.]]></g:description>
@@ -29578,6 +29471,27 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:custom_label_4>København</g:custom_label_4>
       <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
       <g:internal_label>['København K']</g:internal_label>
+    </item>
+<item>
+      <g:id>27151050</g:id>
+      <g:title><![CDATA[Saxofon – lige uger]]></g:title>
+      <g:description><![CDATA[Lær at spille saxofon fra bunden eller finpuds teknik, rytmik og musikalitet til saxofonundervisning hos FOF København og Nordsjælland. Tilmeld dig her.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/saxofon?holdnr=27151050</g:link>
+      <g:image_link>https://www.fof.dk/media/fumnia31/blaeseinstrumenter-fofkn-aftenskolen-musik-og-sang-2.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>2795.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Musik og sang &gt; Blæsere</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Musik og sang</g:custom_label_1>
+      <g:custom_label_2>Blæsere</g:custom_label_2>
+      <g:custom_label_4>Hellerup</g:custom_label_4>
+      <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Hellerup']</g:internal_label>
     </item>
 <item>
       <g:id>27150516</g:id>
@@ -30147,6 +30061,48 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:internal_label>['København K']</g:internal_label>
     </item>
 <item>
+      <g:id>27150711</g:id>
+      <g:title><![CDATA[Sang – klassisk og rytmisk]]></g:title>
+      <g:description><![CDATA[Udvikl din stemme med sangundervisning i klassisk og rytmisk sang hos FOF København og Nordsjælland. Små hold med plads til dine ønsker. Læs mere her.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/sang-klassisk-og-rytmisk?holdnr=27150711</g:link>
+      <g:image_link>https://www.fof.dk/media/qbrbhxb1/kor-fof-aftenskolen-06.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>2995.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Musik og sang &gt; Sang og stemmetræning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Musik og sang</g:custom_label_1>
+      <g:custom_label_2>Sang og stemmetræning</g:custom_label_2>
+      <g:custom_label_4>København</g:custom_label_4>
+      <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
+      <g:internal_label>['København K']</g:internal_label>
+    </item>
+<item>
+      <g:id>27150656</g:id>
+      <g:title><![CDATA[Klassisk sang – daghold]]></g:title>
+      <g:description><![CDATA[Gå til klassisk sangundervisning hos FOF København og Nordsjælland – for begyndere og øvede. Træn teknik, klang og fortolkning med erfarne undervisere.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/klassisk-sang?holdnr=27150656</g:link>
+      <g:image_link>https://www.fof.dk/media/gnufjoln/sangundervisning-fofkn-aftenskolen-musik-og-sang-stock-169496540-1.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>2995.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Musik og sang &gt; Sang og stemmetræning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Musik og sang</g:custom_label_1>
+      <g:custom_label_2>Sang og stemmetræning</g:custom_label_2>
+      <g:custom_label_4>København</g:custom_label_4>
+      <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
+      <g:internal_label>['København K']</g:internal_label>
+    </item>
+<item>
       <g:id>27150082</g:id>
       <g:title><![CDATA[Klaver – daghold]]></g:title>
       <g:description><![CDATA[Lær at spille klaver på små hold med personlig vejledning. Flere lokationer i København og Nordsjælland. For voksne – begyndere og øvede. Find dit hold her.]]></g:description>
@@ -30229,48 +30185,6 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:custom_label_4>København</g:custom_label_4>
       <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
       <g:internal_label>['København N']</g:internal_label>
-    </item>
-<item>
-      <g:id>27150711</g:id>
-      <g:title><![CDATA[Sang – klassisk og rytmisk]]></g:title>
-      <g:description><![CDATA[Udvikl din stemme med sangundervisning i klassisk og rytmisk sang hos FOF København og Nordsjælland. Små hold med plads til dine ønsker. Læs mere her.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/sang-klassisk-og-rytmisk?holdnr=27150711</g:link>
-      <g:image_link>https://www.fof.dk/media/qbrbhxb1/kor-fof-aftenskolen-06.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>2995.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF København og Nordsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Musik og sang &gt; Sang og stemmetræning</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Musik og sang</g:custom_label_1>
-      <g:custom_label_2>Sang og stemmetræning</g:custom_label_2>
-      <g:custom_label_4>København</g:custom_label_4>
-      <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
-      <g:internal_label>['København K']</g:internal_label>
-    </item>
-<item>
-      <g:id>27150656</g:id>
-      <g:title><![CDATA[Klassisk sang – daghold]]></g:title>
-      <g:description><![CDATA[Gå til klassisk sangundervisning hos FOF København og Nordsjælland – for begyndere og øvede. Træn teknik, klang og fortolkning med erfarne undervisere.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/klassisk-sang?holdnr=27150656</g:link>
-      <g:image_link>https://www.fof.dk/media/gnufjoln/sangundervisning-fofkn-aftenskolen-musik-og-sang-stock-169496540-1.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>2995.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF København og Nordsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Musik og sang &gt; Sang og stemmetræning</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Musik og sang</g:custom_label_1>
-      <g:custom_label_2>Sang og stemmetræning</g:custom_label_2>
-      <g:custom_label_4>København</g:custom_label_4>
-      <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
-      <g:internal_label>['København K']</g:internal_label>
     </item>
 <item>
       <g:id>27150001</g:id>
@@ -30357,6 +30271,28 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:internal_label>['København V']</g:internal_label>
     </item>
 <item>
+      <g:id>27150571</g:id>
+      <g:title><![CDATA[Classical Singing]]></g:title>
+      <g:description><![CDATA[Learn classical singing, stage training and personal vocal development. For all levels. Join FOF København og Nordsjælland.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/classic-singing?holdnr=27150571</g:link>
+      <g:image_link>https://www.fof.dk/media/5txbt04s/leila-sherzai-fofkn-aftenskolen-musik-og-sang-2.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>2995.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Musik og sang &gt; Sang og stemmetræning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Musik og sang</g:custom_label_1>
+      <g:custom_label_2>Sang og stemmetræning</g:custom_label_2>
+      <g:custom_label_4>København</g:custom_label_4>
+      <g:start_date>2027-01-26T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Aftenskolernes Hus</g:custom_label_3>
+      <g:internal_label>['Aftenskolernes Hus','In English','København NV']</g:internal_label>
+    </item>
+<item>
       <g:id>27150892</g:id>
       <g:title><![CDATA[Violin – daghold]]></g:title>
       <g:description><![CDATA[Lær at spille violin på små hold. Violinundervisningen har bl.a. fokus på teknik, klang og sammenspil og er både for begyndere og øvede. Tilmeld dig her.]]></g:description>
@@ -30419,28 +30355,6 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:custom_label_4>København</g:custom_label_4>
       <g:start_date>2027-01-26T00:00:00.000Z</g:start_date>
       <g:internal_label>['København K']</g:internal_label>
-    </item>
-<item>
-      <g:id>27150571</g:id>
-      <g:title><![CDATA[Classical Singing]]></g:title>
-      <g:description><![CDATA[Learn classical singing, stage training and personal vocal development. For all levels. Join FOF København og Nordsjælland.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/classic-singing?holdnr=27150571</g:link>
-      <g:image_link>https://www.fof.dk/media/5txbt04s/leila-sherzai-fofkn-aftenskolen-musik-og-sang-2.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>2995.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF København og Nordsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Musik og sang &gt; Sang og stemmetræning</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Musik og sang</g:custom_label_1>
-      <g:custom_label_2>Sang og stemmetræning</g:custom_label_2>
-      <g:custom_label_4>København</g:custom_label_4>
-      <g:start_date>2027-01-26T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Aftenskolernes Hus</g:custom_label_3>
-      <g:internal_label>['Aftenskolernes Hus','In English','København NV']</g:internal_label>
     </item>
 <item>
       <g:id>27151008</g:id>
@@ -30592,49 +30506,6 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:internal_label>['Aftenskolernes Hus','København NV']</g:internal_label>
     </item>
 <item>
-      <g:id>27151098</g:id>
-      <g:title><![CDATA[Klaver – daghold ]]></g:title>
-      <g:description><![CDATA[Lær at spille klaver på små hold med personlig vejledning. Flere lokationer i København og Nordsjælland. For voksne – begyndere og øvede. Find dit hold her.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/klaver?holdnr=27151098</g:link>
-      <g:image_link>https://www.fof.dk/media/fynlom0m/25.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>2995.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF København og Nordsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Musik og sang &gt; Klaver og harmonika</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Musik og sang</g:custom_label_1>
-      <g:custom_label_2>Klaver og harmonika</g:custom_label_2>
-      <g:custom_label_4>Kongens Lyngby</g:custom_label_4>
-      <g:start_date>2027-01-26T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Kongens Lyngby']</g:internal_label>
-    </item>
-<item>
-      <g:id>27150375</g:id>
-      <g:title><![CDATA[Akustisk- og rytmisk guitar]]></g:title>
-      <g:description><![CDATA[Lær at spille akustisk eller elektrisk guitar på guitarkursus hos FOF København og Nordsjælland. Styrk din teknik og spilleglæde på små hold. Tilmeld dig her.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/guitar?holdnr=27150375</g:link>
-      <g:image_link>https://www.fof.dk/media/xodgwjqb/akustisk-guitar-fofkn-aftenskolen-musik-og-sang.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>2995.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF København og Nordsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Musik og sang &gt; Strengeinstrumenter</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Musik og sang</g:custom_label_1>
-      <g:custom_label_2>Strengeinstrumenter</g:custom_label_2>
-      <g:custom_label_4>København</g:custom_label_4>
-      <g:start_date>2027-01-26T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Aftenskolernes Hus</g:custom_label_3>
-      <g:internal_label>['Aftenskolernes Hus','København NV']</g:internal_label>
-    </item>
-<item>
       <g:id>27150567</g:id>
       <g:title><![CDATA[Classical Singing]]></g:title>
       <g:description><![CDATA[Learn classical singing, stage training and personal vocal development. For all levels. Join FOF København og Nordsjælland.]]></g:description>
@@ -30677,6 +30548,49 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:start_date>2027-01-26T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Aftenskolernes Hus</g:custom_label_3>
       <g:internal_label>['Aftenskolernes Hus','In English','København NV']</g:internal_label>
+    </item>
+<item>
+      <g:id>27151098</g:id>
+      <g:title><![CDATA[Klaver – daghold ]]></g:title>
+      <g:description><![CDATA[Lær at spille klaver på små hold med personlig vejledning. Flere lokationer i København og Nordsjælland. For voksne – begyndere og øvede. Find dit hold her.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/klaver?holdnr=27151098</g:link>
+      <g:image_link>https://www.fof.dk/media/fynlom0m/25.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>2995.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Musik og sang &gt; Klaver og harmonika</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Musik og sang</g:custom_label_1>
+      <g:custom_label_2>Klaver og harmonika</g:custom_label_2>
+      <g:custom_label_4>Kongens Lyngby</g:custom_label_4>
+      <g:start_date>2027-01-26T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Kongens Lyngby']</g:internal_label>
+    </item>
+<item>
+      <g:id>27150375</g:id>
+      <g:title><![CDATA[Akustisk- og rytmisk guitar]]></g:title>
+      <g:description><![CDATA[Lær at spille akustisk eller elektrisk guitar på guitarkursus hos FOF København og Nordsjælland. Styrk din teknik og spilleglæde på små hold. Tilmeld dig her.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/guitar?holdnr=27150375</g:link>
+      <g:image_link>https://www.fof.dk/media/xodgwjqb/akustisk-guitar-fofkn-aftenskolen-musik-og-sang.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>2995.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Musik og sang &gt; Strengeinstrumenter</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Musik og sang</g:custom_label_1>
+      <g:custom_label_2>Strengeinstrumenter</g:custom_label_2>
+      <g:custom_label_4>København</g:custom_label_4>
+      <g:start_date>2027-01-26T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Aftenskolernes Hus</g:custom_label_3>
+      <g:internal_label>['Aftenskolernes Hus','København NV']</g:internal_label>
     </item>
 <item>
       <g:id>27150659</g:id>
@@ -30972,27 +30886,6 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:internal_label>['København NV']</g:internal_label>
     </item>
 <item>
-      <g:id>27150233</g:id>
-      <g:title><![CDATA[Komplet sangteknik]]></g:title>
-      <g:description><![CDATA[Lær at mestre din stemme med Cathrine Sadolins Komplet Sangteknik. Arbejd med klang, effekter og styrke på små hold med individuel vejledning. Læs mere.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/komplet-sangteknik?holdnr=27150233</g:link>
-      <g:image_link>https://www.fof.dk/media/5wadjfw3/rytmisk-sommercamp-2018-fofkn-aftenskolen-musik-og-sang-km-dsc07732.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>2995.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF København og Nordsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Musik og sang &gt; Sang og stemmetræning</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Musik og sang</g:custom_label_1>
-      <g:custom_label_2>Sang og stemmetræning</g:custom_label_2>
-      <g:custom_label_4>Kongens Lyngby</g:custom_label_4>
-      <g:start_date>2027-01-26T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Kongens Lyngby']</g:internal_label>
-    </item>
-<item>
       <g:id>27150801</g:id>
       <g:title><![CDATA[Mundharpe (Diatonisk/Kromatisk)]]></g:title>
       <g:description><![CDATA[Kom til mundharpeundervisning for begyndere hos FOF København og Nordsjælland – uanset om du spiller kromatisk eller diatonisk mundharpe. Tilmeld dig her.]]></g:description>
@@ -31033,6 +30926,27 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:custom_label_4>København</g:custom_label_4>
       <g:start_date>2027-01-26T00:00:00.000Z</g:start_date>
       <g:internal_label>['København K']</g:internal_label>
+    </item>
+<item>
+      <g:id>27150233</g:id>
+      <g:title><![CDATA[Komplet sangteknik]]></g:title>
+      <g:description><![CDATA[Lær at mestre din stemme med Cathrine Sadolins Komplet Sangteknik. Arbejd med klang, effekter og styrke på små hold med individuel vejledning. Læs mere.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/komplet-sangteknik?holdnr=27150233</g:link>
+      <g:image_link>https://www.fof.dk/media/5wadjfw3/rytmisk-sommercamp-2018-fofkn-aftenskolen-musik-og-sang-km-dsc07732.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>2995.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Musik og sang &gt; Sang og stemmetræning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Musik og sang</g:custom_label_1>
+      <g:custom_label_2>Sang og stemmetræning</g:custom_label_2>
+      <g:custom_label_4>Kongens Lyngby</g:custom_label_4>
+      <g:start_date>2027-01-26T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Kongens Lyngby']</g:internal_label>
     </item>
 <item>
       <g:id>27151144</g:id>
@@ -31691,27 +31605,6 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:internal_label>['København NV']</g:internal_label>
     </item>
 <item>
-      <g:id>27150658</g:id>
-      <g:title><![CDATA[Klassisk sang – daghold]]></g:title>
-      <g:description><![CDATA[Gå til klassisk sangundervisning hos FOF København og Nordsjælland – for begyndere og øvede. Træn teknik, klang og fortolkning med erfarne undervisere.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/klassisk-sang?holdnr=27150658</g:link>
-      <g:image_link>https://www.fof.dk/media/gnufjoln/sangundervisning-fofkn-aftenskolen-musik-og-sang-stock-169496540-1.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>2995.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF København og Nordsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Musik og sang &gt; Sang og stemmetræning</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Musik og sang</g:custom_label_1>
-      <g:custom_label_2>Sang og stemmetræning</g:custom_label_2>
-      <g:custom_label_4>København</g:custom_label_4>
-      <g:start_date>2027-01-26T00:00:00.000Z</g:start_date>
-      <g:internal_label>['København K']</g:internal_label>
-    </item>
-<item>
       <g:id>27150840</g:id>
       <g:title><![CDATA[Trommer]]></g:title>
       <g:description><![CDATA[Gå til trommer hos FOF København og Nordsjælland og lær at spille med teknik, rytme og groove. Undervisning på små hold med plads til dig. Tilmeld dig her.]]></g:description>
@@ -31753,6 +31646,27 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:start_date>2027-01-26T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Frederiksberg</g:custom_label_3>
       <g:internal_label>['Frederiksberg']</g:internal_label>
+    </item>
+<item>
+      <g:id>27150658</g:id>
+      <g:title><![CDATA[Klassisk sang – daghold]]></g:title>
+      <g:description><![CDATA[Gå til klassisk sangundervisning hos FOF København og Nordsjælland – for begyndere og øvede. Træn teknik, klang og fortolkning med erfarne undervisere.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/klassisk-sang?holdnr=27150658</g:link>
+      <g:image_link>https://www.fof.dk/media/gnufjoln/sangundervisning-fofkn-aftenskolen-musik-og-sang-stock-169496540-1.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>2995.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Musik og sang &gt; Sang og stemmetræning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Musik og sang</g:custom_label_1>
+      <g:custom_label_2>Sang og stemmetræning</g:custom_label_2>
+      <g:custom_label_4>København</g:custom_label_4>
+      <g:start_date>2027-01-26T00:00:00.000Z</g:start_date>
+      <g:internal_label>['København K']</g:internal_label>
     </item>
 <item>
       <g:id>27150104</g:id>
@@ -32010,6 +31924,28 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:internal_label>['Valby']</g:internal_label>
     </item>
 <item>
+      <g:id>27113509</g:id>
+      <g:title><![CDATA[Kvinder på Borgen – repræsentation i politik og kunst]]></g:title>
+      <g:description><![CDATA[Kom på rundvisning i Folketinget og oplev Mie Mørkebergs portræt af 30 kvindelige politikere. Få et unikt indblik i kvinders rolle i politik. Tilmeld dig her.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/kvinder-paa-borgen-repraesentation-i-politik-og-kunst?holdnr=27113509</g:link>
+      <g:image_link>https://www.fof.dk/media/f2xbfszf/kvinderne-pa-borgen-fofkn-aftenskolen-ture.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>75.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Rejser, ture og rundvisninger &gt; Rundvisninger</g:product_type>
+      <g:custom_label_0>Rejser, ture og rundvisninger</g:custom_label_0>
+      <g:custom_label_1>Rundvisninger</g:custom_label_1>
+      <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>København</g:custom_label_4>
+      <g:start_date>2027-01-27T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Ture og rundvisninger</g:custom_label_3>
+      <g:internal_label>['Ture og rundvisninger','København K']</g:internal_label>
+    </item>
+<item>
       <g:id>27150682</g:id>
       <g:title><![CDATA[Tværfløjte – daghold ]]></g:title>
       <g:description><![CDATA[Lær at spille tværfløjte på små hold med plads til personlig vejledning og udvikling i eget tempo. Kurset henvender sig både til begyndere og øvede. Læs mere.]]></g:description>
@@ -32073,28 +32009,6 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:internal_label>['København K']</g:internal_label>
     </item>
 <item>
-      <g:id>27113509</g:id>
-      <g:title><![CDATA[Kvinder på Borgen – repræsentation i politik og kunst]]></g:title>
-      <g:description><![CDATA[Kom på rundvisning i Folketinget og oplev Mie Mørkebergs portræt af 30 kvindelige politikere. Få et unikt indblik i kvinders rolle i politik. Tilmeld dig her.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/kvinder-paa-borgen-repraesentation-i-politik-og-kunst?holdnr=27113509</g:link>
-      <g:image_link>https://www.fof.dk/media/f2xbfszf/kvinderne-pa-borgen-fofkn-aftenskolen-ture.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>75.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF København og Nordsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Rejser, ture og rundvisninger &gt; Rundvisninger</g:product_type>
-      <g:custom_label_0>Rejser, ture og rundvisninger</g:custom_label_0>
-      <g:custom_label_1>Rundvisninger</g:custom_label_1>
-      <g:custom_label_2></g:custom_label_2>
-      <g:custom_label_4>København</g:custom_label_4>
-      <g:start_date>2027-01-27T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Ture og rundvisninger</g:custom_label_3>
-      <g:internal_label>['Ture og rundvisninger','København K']</g:internal_label>
-    </item>
-<item>
       <g:id>27150605</g:id>
       <g:title><![CDATA[Keyboard i laboratorium – daghold ]]></g:title>
       <g:description><![CDATA[Spil keyboard med hovedtelefoner og eget instrument. Undervisning for begyndere og øvede i små hold hos FOF København og Nordsjælland.]]></g:description>
@@ -32137,27 +32051,6 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:internal_label>['Charlottenlund']</g:internal_label>
     </item>
 <item>
-      <g:id>27151033</g:id>
-      <g:title><![CDATA[Klassisk sang – daghold]]></g:title>
-      <g:description><![CDATA[Gå til klassisk sangundervisning hos FOF København og Nordsjælland – for begyndere og øvede. Træn teknik, klang og fortolkning med erfarne undervisere.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/klassisk-sang?holdnr=27151033</g:link>
-      <g:image_link>https://www.fof.dk/media/gnufjoln/sangundervisning-fofkn-aftenskolen-musik-og-sang-stock-169496540-1.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>2995.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF København og Nordsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Musik og sang &gt; Sang og stemmetræning</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Musik og sang</g:custom_label_1>
-      <g:custom_label_2>Sang og stemmetræning</g:custom_label_2>
-      <g:custom_label_4>København</g:custom_label_4>
-      <g:start_date>2027-01-27T00:00:00.000Z</g:start_date>
-      <g:internal_label>['København K']</g:internal_label>
-    </item>
-<item>
       <g:id>27150842</g:id>
       <g:title><![CDATA[Trommer]]></g:title>
       <g:description><![CDATA[Gå til trommer hos FOF København og Nordsjælland og lær at spille med teknik, rytme og groove. Undervisning på små hold med plads til dig. Tilmeld dig her.]]></g:description>
@@ -32177,6 +32070,27 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:custom_label_4>København</g:custom_label_4>
       <g:start_date>2027-01-27T00:00:00.000Z</g:start_date>
       <g:internal_label>['København S']</g:internal_label>
+    </item>
+<item>
+      <g:id>27151033</g:id>
+      <g:title><![CDATA[Klassisk sang – daghold]]></g:title>
+      <g:description><![CDATA[Gå til klassisk sangundervisning hos FOF København og Nordsjælland – for begyndere og øvede. Træn teknik, klang og fortolkning med erfarne undervisere.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/klassisk-sang?holdnr=27151033</g:link>
+      <g:image_link>https://www.fof.dk/media/gnufjoln/sangundervisning-fofkn-aftenskolen-musik-og-sang-stock-169496540-1.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>2995.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Musik og sang &gt; Sang og stemmetræning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Musik og sang</g:custom_label_1>
+      <g:custom_label_2>Sang og stemmetræning</g:custom_label_2>
+      <g:custom_label_4>København</g:custom_label_4>
+      <g:start_date>2027-01-27T00:00:00.000Z</g:start_date>
+      <g:internal_label>['København K']</g:internal_label>
     </item>
 <item>
       <g:id>27150361</g:id>
@@ -32788,6 +32702,28 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:internal_label>['Aftenskolernes Hus','København NV']</g:internal_label>
     </item>
 <item>
+      <g:id>27150695</g:id>
+      <g:title><![CDATA[Garageband – musikproduktion for begyndere]]></g:title>
+      <g:description><![CDATA[Lær at lave musik i GarageBand. Skab elektroniske tracks fra bunden hos FOF København og Nordsjælland – for både begyndere og erfarne. Tilmeld dig her.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/garageband-musikproduktion-for-begyndere?holdnr=27150695</g:link>
+      <g:image_link>https://www.fof.dk/media/wfagvkc0/garageband-fofkn-aftenskolen-musik-og-sang-stock-414767911.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1795.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Musik og sang &gt; Musikteori og -produktion</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Musik og sang</g:custom_label_1>
+      <g:custom_label_2>Musikteori og -produktion</g:custom_label_2>
+      <g:custom_label_4>København</g:custom_label_4>
+      <g:start_date>2027-01-27T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Korte kurser</g:custom_label_3>
+      <g:internal_label>['Korte kurser','København K']</g:internal_label>
+    </item>
+<item>
       <g:id>27150461</g:id>
       <g:title><![CDATA[Harmonika]]></g:title>
       <g:description><![CDATA[Lær at spille harmonika i dit eget tempo. Undervisning i knap- og pianoharmonika for både begyndere og øvede. Tilmeld dig hos FOF København og Nordsjælland.]]></g:description>
@@ -32870,28 +32806,6 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:custom_label_4>København</g:custom_label_4>
       <g:start_date>2027-01-27T00:00:00.000Z</g:start_date>
       <g:internal_label>['København K']</g:internal_label>
-    </item>
-<item>
-      <g:id>27150695</g:id>
-      <g:title><![CDATA[Garageband – musikproduktion for begyndere]]></g:title>
-      <g:description><![CDATA[Lær at lave musik i GarageBand. Skab elektroniske tracks fra bunden hos FOF København og Nordsjælland – for både begyndere og erfarne. Tilmeld dig her.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/garageband-musikproduktion-for-begyndere?holdnr=27150695</g:link>
-      <g:image_link>https://www.fof.dk/media/wfagvkc0/garageband-fofkn-aftenskolen-musik-og-sang-stock-414767911.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1795.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF København og Nordsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Musik og sang &gt; Musikteori og -produktion</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Musik og sang</g:custom_label_1>
-      <g:custom_label_2>Musikteori og -produktion</g:custom_label_2>
-      <g:custom_label_4>København</g:custom_label_4>
-      <g:start_date>2027-01-27T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Korte kurser</g:custom_label_3>
-      <g:internal_label>['Korte kurser','København K']</g:internal_label>
     </item>
 <item>
       <g:id>27150716</g:id>
@@ -33022,6 +32936,47 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:internal_label>['København S']</g:internal_label>
     </item>
 <item>
+      <g:id>27150014</g:id>
+      <g:title><![CDATA[Klaver – daghold ]]></g:title>
+      <g:description><![CDATA[Lær at spille klaver på små hold med personlig vejledning. Flere lokationer i København og Nordsjælland. For voksne – begyndere og øvede. Find dit hold her.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/klaver?holdnr=27150014</g:link>
+      <g:image_link>https://www.fof.dk/media/fynlom0m/25.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>2995.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Musik og sang &gt; Klaver og harmonika</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Musik og sang</g:custom_label_1>
+      <g:custom_label_2>Klaver og harmonika</g:custom_label_2>
+      <g:custom_label_4></g:custom_label_4>
+      <g:start_date>2027-01-28T00:00:00.000Z</g:start_date>
+    </item>
+<item>
+      <g:id>27150629</g:id>
+      <g:title><![CDATA[Klaver – daghold ]]></g:title>
+      <g:description><![CDATA[Lær at spille klaver på små hold med personlig vejledning. Flere lokationer i København og Nordsjælland. For voksne – begyndere og øvede. Find dit hold her.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/klaver?holdnr=27150629</g:link>
+      <g:image_link>https://www.fof.dk/media/fynlom0m/25.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>2995.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Musik og sang &gt; Klaver og harmonika</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Musik og sang</g:custom_label_1>
+      <g:custom_label_2>Klaver og harmonika</g:custom_label_2>
+      <g:custom_label_4>København</g:custom_label_4>
+      <g:start_date>2027-01-28T00:00:00.000Z</g:start_date>
+      <g:internal_label>['København K']</g:internal_label>
+    </item>
+<item>
       <g:id>27150127</g:id>
       <g:title><![CDATA[Tværfløjte og blokfløjte – lige uger]]></g:title>
       <g:description><![CDATA[Lær at spille tværfløjte på små hold med plads til personlig vejledning og udvikling i eget tempo. Kurset henvender sig både til begyndere og øvede. Læs mere.]]></g:description>
@@ -33060,47 +33015,6 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Musik og sang</g:custom_label_1>
       <g:custom_label_2>Blæsere</g:custom_label_2>
-      <g:custom_label_4>København</g:custom_label_4>
-      <g:start_date>2027-01-28T00:00:00.000Z</g:start_date>
-      <g:internal_label>['København K']</g:internal_label>
-    </item>
-<item>
-      <g:id>27150014</g:id>
-      <g:title><![CDATA[Klaver – daghold ]]></g:title>
-      <g:description><![CDATA[Lær at spille klaver på små hold med personlig vejledning. Flere lokationer i København og Nordsjælland. For voksne – begyndere og øvede. Find dit hold her.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/klaver?holdnr=27150014</g:link>
-      <g:image_link>https://www.fof.dk/media/fynlom0m/25.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>2995.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF København og Nordsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Musik og sang &gt; Klaver og harmonika</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Musik og sang</g:custom_label_1>
-      <g:custom_label_2>Klaver og harmonika</g:custom_label_2>
-      <g:custom_label_4></g:custom_label_4>
-      <g:start_date>2027-01-28T00:00:00.000Z</g:start_date>
-    </item>
-<item>
-      <g:id>27150629</g:id>
-      <g:title><![CDATA[Klaver – daghold ]]></g:title>
-      <g:description><![CDATA[Lær at spille klaver på små hold med personlig vejledning. Flere lokationer i København og Nordsjælland. For voksne – begyndere og øvede. Find dit hold her.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/klaver?holdnr=27150629</g:link>
-      <g:image_link>https://www.fof.dk/media/fynlom0m/25.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>2995.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF København og Nordsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Musik og sang &gt; Klaver og harmonika</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Musik og sang</g:custom_label_1>
-      <g:custom_label_2>Klaver og harmonika</g:custom_label_2>
       <g:custom_label_4>København</g:custom_label_4>
       <g:start_date>2027-01-28T00:00:00.000Z</g:start_date>
       <g:internal_label>['København K']</g:internal_label>
@@ -33212,27 +33126,6 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:internal_label>['Familie','København K']</g:internal_label>
     </item>
 <item>
-      <g:id>27150329</g:id>
-      <g:title><![CDATA[Klassisk klaver]]></g:title>
-      <g:description><![CDATA[Lær at spille klaver på små hold med personlig vejledning. Flere lokationer i København og Nordsjælland. For voksne – begyndere og øvede. Find dit hold her.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/klaver?holdnr=27150329</g:link>
-      <g:image_link>https://www.fof.dk/media/fynlom0m/25.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>2395.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF København og Nordsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Musik og sang &gt; Klaver og harmonika</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Musik og sang</g:custom_label_1>
-      <g:custom_label_2>Klaver og harmonika</g:custom_label_2>
-      <g:custom_label_4>Helsingør</g:custom_label_4>
-      <g:start_date>2027-01-28T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Helsingør']</g:internal_label>
-    </item>
-<item>
       <g:id>27151024</g:id>
       <g:title><![CDATA[Saxofon]]></g:title>
       <g:description><![CDATA[Lær at spille saxofon fra bunden eller finpuds teknik, rytmik og musikalitet til saxofonundervisning hos FOF København og Nordsjælland. Tilmeld dig her.]]></g:description>
@@ -33252,6 +33145,27 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:custom_label_4>Charlottenlund</g:custom_label_4>
       <g:start_date>2027-01-28T00:00:00.000Z</g:start_date>
       <g:internal_label>['Charlottenlund']</g:internal_label>
+    </item>
+<item>
+      <g:id>27150329</g:id>
+      <g:title><![CDATA[Klassisk klaver]]></g:title>
+      <g:description><![CDATA[Lær at spille klaver på små hold med personlig vejledning. Flere lokationer i København og Nordsjælland. For voksne – begyndere og øvede. Find dit hold her.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/klaver?holdnr=27150329</g:link>
+      <g:image_link>https://www.fof.dk/media/fynlom0m/25.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>2395.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Musik og sang &gt; Klaver og harmonika</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Musik og sang</g:custom_label_1>
+      <g:custom_label_2>Klaver og harmonika</g:custom_label_2>
+      <g:custom_label_4>Helsingør</g:custom_label_4>
+      <g:start_date>2027-01-28T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Helsingør']</g:internal_label>
     </item>
 <item>
       <g:id>27151149</g:id>
@@ -33911,6 +33825,48 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:internal_label>['Foredrag','København V']</g:internal_label>
     </item>
 <item>
+      <g:id>27150246</g:id>
+      <g:title><![CDATA[Sang – klassisk og rytmisk]]></g:title>
+      <g:description><![CDATA[Udvikl din stemme med sangundervisning i klassisk og rytmisk sang hos FOF København og Nordsjælland. Små hold med plads til dine ønsker. Læs mere her.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/sang-klassisk-og-rytmisk?holdnr=27150246</g:link>
+      <g:image_link>https://www.fof.dk/media/qbrbhxb1/kor-fof-aftenskolen-06.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>2995.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Musik og sang &gt; Sang og stemmetræning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Musik og sang</g:custom_label_1>
+      <g:custom_label_2>Sang og stemmetræning</g:custom_label_2>
+      <g:custom_label_4>København</g:custom_label_4>
+      <g:start_date>2027-01-28T00:00:00.000Z</g:start_date>
+      <g:internal_label>['København K']</g:internal_label>
+    </item>
+<item>
+      <g:id>27151036</g:id>
+      <g:title><![CDATA[Klassisk sang – daghold]]></g:title>
+      <g:description><![CDATA[Gå til klassisk sangundervisning hos FOF København og Nordsjælland – for begyndere og øvede. Træn teknik, klang og fortolkning med erfarne undervisere.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/klassisk-sang?holdnr=27151036</g:link>
+      <g:image_link>https://www.fof.dk/media/gnufjoln/sangundervisning-fofkn-aftenskolen-musik-og-sang-stock-169496540-1.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>2995.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Musik og sang &gt; Sang og stemmetræning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Musik og sang</g:custom_label_1>
+      <g:custom_label_2>Sang og stemmetræning</g:custom_label_2>
+      <g:custom_label_4>København</g:custom_label_4>
+      <g:start_date>2027-01-28T00:00:00.000Z</g:start_date>
+      <g:internal_label>['København K']</g:internal_label>
+    </item>
+<item>
       <g:id>27150774</g:id>
       <g:title><![CDATA[Komplet sangteknik]]></g:title>
       <g:description><![CDATA[Lær at mestre din stemme med Cathrine Sadolins Komplet Sangteknik. Arbejd med klang, effekter og styrke på små hold med individuel vejledning. Læs mere.]]></g:description>
@@ -33996,48 +33952,6 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:internal_label>['København K']</g:internal_label>
     </item>
 <item>
-      <g:id>27150246</g:id>
-      <g:title><![CDATA[Sang – klassisk og rytmisk]]></g:title>
-      <g:description><![CDATA[Udvikl din stemme med sangundervisning i klassisk og rytmisk sang hos FOF København og Nordsjælland. Små hold med plads til dine ønsker. Læs mere her.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/sang-klassisk-og-rytmisk?holdnr=27150246</g:link>
-      <g:image_link>https://www.fof.dk/media/qbrbhxb1/kor-fof-aftenskolen-06.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>2995.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF København og Nordsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Musik og sang &gt; Sang og stemmetræning</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Musik og sang</g:custom_label_1>
-      <g:custom_label_2>Sang og stemmetræning</g:custom_label_2>
-      <g:custom_label_4>København</g:custom_label_4>
-      <g:start_date>2027-01-28T00:00:00.000Z</g:start_date>
-      <g:internal_label>['København K']</g:internal_label>
-    </item>
-<item>
-      <g:id>27151036</g:id>
-      <g:title><![CDATA[Klassisk sang – daghold]]></g:title>
-      <g:description><![CDATA[Gå til klassisk sangundervisning hos FOF København og Nordsjælland – for begyndere og øvede. Træn teknik, klang og fortolkning med erfarne undervisere.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/klassisk-sang?holdnr=27151036</g:link>
-      <g:image_link>https://www.fof.dk/media/gnufjoln/sangundervisning-fofkn-aftenskolen-musik-og-sang-stock-169496540-1.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>2995.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF København og Nordsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Musik og sang &gt; Sang og stemmetræning</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Musik og sang</g:custom_label_1>
-      <g:custom_label_2>Sang og stemmetræning</g:custom_label_2>
-      <g:custom_label_4>København</g:custom_label_4>
-      <g:start_date>2027-01-28T00:00:00.000Z</g:start_date>
-      <g:internal_label>['København K']</g:internal_label>
-    </item>
-<item>
       <g:id>27150164</g:id>
       <g:title><![CDATA[Elbas – daghold]]></g:title>
       <g:description><![CDATA[Lær at spille bas hos FOF København og Nordsjælland. Vi underviser kursister på alle niveauer i både elbas og kontrabas. Læs mere og tilmeld dig her.]]></g:description>
@@ -34101,27 +34015,6 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:internal_label>['København K']</g:internal_label>
     </item>
 <item>
-      <g:id>27150631</g:id>
-      <g:title><![CDATA[Jazz- og blues klaver – daghold ]]></g:title>
-      <g:description><![CDATA[Løft dit jazz- og bluesklaver med skalaer, akkorder og rytmiske teknikker. For let øvede og øvede. Tilmeld dig hos FOF København og Nordsjælland.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/jazz-og-blues-klaver?holdnr=27150631</g:link>
-      <g:image_link>https://www.fof.dk/media/2ndeqiwo/klaver-og-keyboard-fofkn-aftenskolen-musik-og-sang-km-img-2294.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>2995.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF København og Nordsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Musik og sang &gt; Klaver og harmonika</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Musik og sang</g:custom_label_1>
-      <g:custom_label_2>Klaver og harmonika</g:custom_label_2>
-      <g:custom_label_4>København</g:custom_label_4>
-      <g:start_date>2027-01-29T00:00:00.000Z</g:start_date>
-      <g:internal_label>['København K']</g:internal_label>
-    </item>
-<item>
       <g:id>27150943</g:id>
       <g:title><![CDATA[Akustisk/elektrisk guitar]]></g:title>
       <g:description><![CDATA[Lær at spille akustisk eller elektrisk guitar på guitarkursus hos FOF København og Nordsjælland. Styrk din teknik og spilleglæde på små hold. Tilmeld dig her.]]></g:description>
@@ -34141,6 +34034,27 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:custom_label_4>København</g:custom_label_4>
       <g:start_date>2027-01-29T00:00:00.000Z</g:start_date>
       <g:internal_label>['København V']</g:internal_label>
+    </item>
+<item>
+      <g:id>27150631</g:id>
+      <g:title><![CDATA[Jazz- og blues klaver – daghold ]]></g:title>
+      <g:description><![CDATA[Løft dit jazz- og bluesklaver med skalaer, akkorder og rytmiske teknikker. For let øvede og øvede. Tilmeld dig hos FOF København og Nordsjælland.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/jazz-og-blues-klaver?holdnr=27150631</g:link>
+      <g:image_link>https://www.fof.dk/media/2ndeqiwo/klaver-og-keyboard-fofkn-aftenskolen-musik-og-sang-km-img-2294.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>2995.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Musik og sang &gt; Klaver og harmonika</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Musik og sang</g:custom_label_1>
+      <g:custom_label_2>Klaver og harmonika</g:custom_label_2>
+      <g:custom_label_4>København</g:custom_label_4>
+      <g:start_date>2027-01-29T00:00:00.000Z</g:start_date>
+      <g:internal_label>['København K']</g:internal_label>
     </item>
 <item>
       <g:id>27140074</g:id>
@@ -34544,27 +34458,6 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:internal_label>['København K']</g:internal_label>
     </item>
 <item>
-      <g:id>27150944</g:id>
-      <g:title><![CDATA[Akustisk/elektrisk guitar]]></g:title>
-      <g:description><![CDATA[Lær at spille akustisk eller elektrisk guitar på guitarkursus hos FOF København og Nordsjælland. Styrk din teknik og spilleglæde på små hold. Tilmeld dig her.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/guitar?holdnr=27150944</g:link>
-      <g:image_link>https://www.fof.dk/media/xodgwjqb/akustisk-guitar-fofkn-aftenskolen-musik-og-sang.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>2995.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF København og Nordsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Musik og sang &gt; Strengeinstrumenter</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Musik og sang</g:custom_label_1>
-      <g:custom_label_2>Strengeinstrumenter</g:custom_label_2>
-      <g:custom_label_4>København</g:custom_label_4>
-      <g:start_date>2027-01-29T00:00:00.000Z</g:start_date>
-      <g:internal_label>['København V']</g:internal_label>
-    </item>
-<item>
       <g:id>27151041</g:id>
       <g:title><![CDATA[Klassisk sang – daghold]]></g:title>
       <g:description><![CDATA[Gå til klassisk sangundervisning hos FOF København og Nordsjælland – for begyndere og øvede. Træn teknik, klang og fortolkning med erfarne undervisere.]]></g:description>
@@ -34605,6 +34498,27 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:custom_label_4>København</g:custom_label_4>
       <g:start_date>2027-01-29T00:00:00.000Z</g:start_date>
       <g:internal_label>['København K']</g:internal_label>
+    </item>
+<item>
+      <g:id>27150944</g:id>
+      <g:title><![CDATA[Akustisk/elektrisk guitar]]></g:title>
+      <g:description><![CDATA[Lær at spille akustisk eller elektrisk guitar på guitarkursus hos FOF København og Nordsjælland. Styrk din teknik og spilleglæde på små hold. Tilmeld dig her.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/guitar?holdnr=27150944</g:link>
+      <g:image_link>https://www.fof.dk/media/xodgwjqb/akustisk-guitar-fofkn-aftenskolen-musik-og-sang.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>2995.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Musik og sang &gt; Strengeinstrumenter</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Musik og sang</g:custom_label_1>
+      <g:custom_label_2>Strengeinstrumenter</g:custom_label_2>
+      <g:custom_label_4>København</g:custom_label_4>
+      <g:start_date>2027-01-29T00:00:00.000Z</g:start_date>
+      <g:internal_label>['København V']</g:internal_label>
     </item>
 <item>
       <g:id>27150463</g:id>
@@ -36707,6 +36621,27 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:internal_label>['Korte kurser','København K']</g:internal_label>
     </item>
 <item>
+      <g:id>27187103</g:id>
+      <g:title><![CDATA[Design din drømmehave – det store overblik]]></g:title>
+      <g:description><![CDATA[Lær at designe din drømmehave med en professionel havearkitekt. Skab struktur, stemning og harmoni i din have på et inspirerende kursus hos FOF.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/design-din-droemmehave-det-store-overblik?holdnr=27187103</g:link>
+      <g:image_link>https://www.fof.dk/media/4x5al0rv/droemmehave-fofkn-aftenskolen-udeliv-1.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1440.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Natur og udeliv &gt; Havekurser</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Natur og udeliv</g:custom_label_1>
+      <g:custom_label_2>Havekurser</g:custom_label_2>
+      <g:custom_label_4>København</g:custom_label_4>
+      <g:start_date>2027-02-27T00:00:00.000Z</g:start_date>
+      <g:internal_label>['København V']</g:internal_label>
+    </item>
+<item>
       <g:id>27166010</g:id>
       <g:title><![CDATA[Intuitiv skrivning]]></g:title>
       <g:description><![CDATA[Lær at skrive med intuition og flow. Få inspiration, øvelser og værktøjer til at styrke din kreativitet på et trygt skrivekursus hos FOF.]]></g:description>
@@ -36727,27 +36662,6 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:start_date>2027-02-27T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Skrivekurser</g:custom_label_3>
       <g:internal_label>['Skrivekurser','København V']</g:internal_label>
-    </item>
-<item>
-      <g:id>27187103</g:id>
-      <g:title><![CDATA[Design din drømmehave – det store overblik]]></g:title>
-      <g:description><![CDATA[Lær at designe din drømmehave med en professionel havearkitekt. Skab struktur, stemning og harmoni i din have på et inspirerende kursus hos FOF.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/design-din-droemmehave-det-store-overblik?holdnr=27187103</g:link>
-      <g:image_link>https://www.fof.dk/media/4x5al0rv/droemmehave-fofkn-aftenskolen-udeliv-1.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1440.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF København og Nordsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Natur og udeliv &gt; Havekurser</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Natur og udeliv</g:custom_label_1>
-      <g:custom_label_2>Havekurser</g:custom_label_2>
-      <g:custom_label_4>København</g:custom_label_4>
-      <g:start_date>2027-02-27T00:00:00.000Z</g:start_date>
-      <g:internal_label>['København V']</g:internal_label>
     </item>
 <item>
       <g:id>27150788</g:id>
@@ -37620,28 +37534,6 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:internal_label>['Ture og rundvisninger','København K']</g:internal_label>
     </item>
 <item>
-      <g:id>27113610</g:id>
-      <g:title><![CDATA[Kongernes kirke – rundvisning i Roskilde Domkirke]]></g:title>
-      <g:description><![CDATA[Oplev Roskilde Domkirke på en rundvisning med historier om konger, kapeller og kongelige gravmæler i en UNESCO-kirke fyldt med danmarkshistorie. Tilmeld dig i dag.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/kongernes-kirke-rundvisning-i-roskilde-domkirke?holdnr=27113610</g:link>
-      <g:image_link>https://www.fof.dk/media/omgn3kam/roskilde-domkirke-fofkn-aftenskolen-ture.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>235.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF København og Nordsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Rejser, ture og rundvisninger &gt; Rundvisninger</g:product_type>
-      <g:custom_label_0>Rejser, ture og rundvisninger</g:custom_label_0>
-      <g:custom_label_1>Rundvisninger</g:custom_label_1>
-      <g:custom_label_2></g:custom_label_2>
-      <g:custom_label_4>Roskilde</g:custom_label_4>
-      <g:start_date>2027-03-07T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Ture og rundvisninger</g:custom_label_3>
-      <g:internal_label>['Ture og rundvisninger','Roskilde']</g:internal_label>
-    </item>
-<item>
       <g:id>27112527</g:id>
       <g:title><![CDATA[M4 Sydhavn – på spektakulær kunstrejse under jorden!]]></g:title>
       <g:description><![CDATA[Tag med på kunstrundvisning i metroens nye M4-linje. Oplev samtidskunst i de fem nye stationer, skabt af danske og internationale kunstnere. Tilmeld her.]]></g:description>
@@ -37662,6 +37554,28 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:start_date>2027-03-07T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Ture og rundvisninger</g:custom_label_3>
       <g:internal_label>['Ture og rundvisninger','København V']</g:internal_label>
+    </item>
+<item>
+      <g:id>27113610</g:id>
+      <g:title><![CDATA[Kongernes kirke – rundvisning i Roskilde Domkirke]]></g:title>
+      <g:description><![CDATA[Oplev Roskilde Domkirke på en rundvisning med historier om konger, kapeller og kongelige gravmæler i en UNESCO-kirke fyldt med danmarkshistorie. Tilmeld dig i dag.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/kongernes-kirke-rundvisning-i-roskilde-domkirke?holdnr=27113610</g:link>
+      <g:image_link>https://www.fof.dk/media/omgn3kam/roskilde-domkirke-fofkn-aftenskolen-ture.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>235.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Rejser, ture og rundvisninger &gt; Rundvisninger</g:product_type>
+      <g:custom_label_0>Rejser, ture og rundvisninger</g:custom_label_0>
+      <g:custom_label_1>Rundvisninger</g:custom_label_1>
+      <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Roskilde</g:custom_label_4>
+      <g:start_date>2027-03-07T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Ture og rundvisninger</g:custom_label_3>
+      <g:internal_label>['Ture og rundvisninger','Roskilde']</g:internal_label>
     </item>
 <item>
       <g:id>26204082</g:id>
@@ -38502,6 +38416,27 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Natur og udeliv</g:custom_label_1>
       <g:custom_label_2>Havekurser</g:custom_label_2>
+      <g:custom_label_4>København</g:custom_label_4>
+      <g:start_date>2027-03-20T00:00:00.000Z</g:start_date>
+      <g:internal_label>['København K']</g:internal_label>
+    </item>
+<item>
+      <g:id>27150792</g:id>
+      <g:title><![CDATA[Befri din stemme – intensiv workshop – daghold ]]></g:title>
+      <g:description><![CDATA[Genopdag din naturlige stemme og lær at bruge kroppen som lydens støtte. Et nærværende kursus i stemmefrihed, vejrtrækning og taleteknik for små hold. Læs mere.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/befri-din-stemme?holdnr=27150792</g:link>
+      <g:image_link>https://www.fof.dk/media/0h2hmkes/sangundervisning-fofkn-aftenskolen-musik-og-sang-stock-308376494.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>500.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Musik og sang &gt; Sang og stemmetræning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Musik og sang</g:custom_label_1>
+      <g:custom_label_2>Sang og stemmetræning</g:custom_label_2>
       <g:custom_label_4>København</g:custom_label_4>
       <g:start_date>2027-03-20T00:00:00.000Z</g:start_date>
       <g:internal_label>['København K']</g:internal_label>
@@ -43020,6 +42955,28 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:internal_label>['Ture og rundvisninger','København K']</g:internal_label>
     </item>
 <item>
+      <g:id>27118007</g:id>
+      <g:title><![CDATA[Vilde orkidéer]]></g:title>
+      <g:description><![CDATA[Kom med på tur til Hundige og se vilde orkidéer i stort antal. Oplev sjældne arter og kalkrige voksesteder i Strandparken. Naturtur arrangeret af FOF.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/vilde-orkideer?holdnr=27118007</g:link>
+      <g:image_link>https://www.fof.dk/media/f4pjykmk/goegeurt-vilde-orkideerfofkn-aftenskolen-ture-wikimedia-commons.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>200.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF København og Nordsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Rejser, ture og rundvisninger &gt; Naturvandringer</g:product_type>
+      <g:custom_label_0>Rejser, ture og rundvisninger</g:custom_label_0>
+      <g:custom_label_1>Naturvandringer</g:custom_label_1>
+      <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Greve</g:custom_label_4>
+      <g:start_date>2027-06-19T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Ture og rundvisninger</g:custom_label_3>
+      <g:internal_label>['Ture og rundvisninger','Greve']</g:internal_label>
+    </item>
+<item>
       <g:id>27112526</g:id>
       <g:title><![CDATA[Letbanen - Byen forbundet fra nord til syd]]></g:title>
       <g:description><![CDATA[Oplev Hovedstadens nye letbane på guidet tur med FOF København og Nordsjælland og besøg de mest interessante steder på ruten. Tilmeld dig her.]]></g:description>
@@ -45110,6 +45067,28 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:internal_label>['Glostrup','Albertslund']</g:internal_label>
     </item>
 <item>
+      <g:id>KBO-23861</g:id>
+      <g:title><![CDATA[Motionstræning for gigtramte i varmt vand]]></g:title>
+      <g:description><![CDATA[Gigttræning i Vestbadet i Brøndby er for dig, der lever med gigt eller slidgigt i hofte, knæ eller andre led og ønsker en skånsom og effektiv træningsform i varmt vand.. Evidensbaseret træning, der mindsker smerter og øger styrke, bevægelighed og funktion.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/gigttraening?holdnr=23861</g:link>
+      <g:image_link>https://www.fof.dk/media/j2snhfmf/hensyntagende-vandtraening-i-herlev.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1995.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Københavns Omegn</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Træning i vand</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Træning i vand</g:custom_label_2>
+      <g:custom_label_4>Brøndby</g:custom_label_4>
+      <g:start_date>2027-01-26T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Brøndby</g:custom_label_3>
+      <g:internal_label>['Brøndby']</g:internal_label>
+    </item>
+<item>
       <g:id>KBO-23888</g:id>
       <g:title><![CDATA[Qi gong]]></g:title>
       <g:description><![CDATA[Qi Gong kursus i Brøndby, Glostrup og Ballerup. Dygtige undervisere får dig i gang med en blid træning. Qi gong øvelserne handler om De 8 Brokader, fokus på stressreduktion, meditation og energi for krop og sind ]]></g:description>
@@ -45152,28 +45131,6 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:start_date>2027-01-26T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Brøndby</g:custom_label_3>
       <g:internal_label>['Brøndby','Ballerup']</g:internal_label>
-    </item>
-<item>
-      <g:id>KBO-23861</g:id>
-      <g:title><![CDATA[Motionstræning for gigtramte i varmt vand]]></g:title>
-      <g:description><![CDATA[Gigttræning i Vestbadet i Brøndby er for dig, der lever med gigt eller slidgigt i hofte, knæ eller andre led og ønsker en skånsom og effektiv træningsform i varmt vand.. Evidensbaseret træning, der mindsker smerter og øger styrke, bevægelighed og funktion.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/gigttraening?holdnr=23861</g:link>
-      <g:image_link>https://www.fof.dk/media/j2snhfmf/hensyntagende-vandtraening-i-herlev.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1995.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Københavns Omegn</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Træning i vand</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Træning i vand</g:custom_label_2>
-      <g:custom_label_4>Brøndby</g:custom_label_4>
-      <g:start_date>2027-01-26T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Brøndby</g:custom_label_3>
-      <g:internal_label>['Brøndby']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23670</g:id>
@@ -46363,27 +46320,6 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:internal_label>['Albertslund','Glostrup','Herlev','Taastrup']</g:internal_label>
     </item>
 <item>
-      <g:id>KBO-23410</g:id>
-      <g:title><![CDATA[Kreativt sykursus for alle - hver 14. dag]]></g:title>
-      <g:description><![CDATA[Deltag i syning hver 14. dag i Brøndby. Fleksibelt sykursus med fri brug af symaskiner, masser af inspiration og tid til fordybelse i egne projekter.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/kreativt-sykursus-for-alle-hver-14-dag?holdnr=23410</g:link>
-      <g:image_link>https://www.fof.dk/media/3qragrjm/syning-fof-aftenskolen-16.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1150.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Københavns Omegn</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Kreative kurser &gt; Syning</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Kreative kurser</g:custom_label_1>
-      <g:custom_label_2>Syning</g:custom_label_2>
-      <g:custom_label_4>Brøndby</g:custom_label_4>
-      <g:start_date>2027-02-02T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Brøndby']</g:internal_label>
-    </item>
-<item>
       <g:id>KBO-23553</g:id>
       <g:title><![CDATA[Hatha yoga for mænd]]></g:title>
       <g:description><![CDATA[Deltag i Hatha yoga for mænd i Taastrup og Rødovre hos FOF Københavns Omegn. Rolig yoga med fokus på styrke, smidighed og færre spændinger.]]></g:description>
@@ -46404,6 +46340,27 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:start_date>2027-02-02T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Rødovre</g:custom_label_3>
       <g:internal_label>['Rødovre','Taastrup']</g:internal_label>
+    </item>
+<item>
+      <g:id>KBO-23410</g:id>
+      <g:title><![CDATA[Kreativt sykursus for alle - hver 14. dag]]></g:title>
+      <g:description><![CDATA[Deltag i syning hver 14. dag i Brøndby. Fleksibelt sykursus med fri brug af symaskiner, masser af inspiration og tid til fordybelse i egne projekter.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/kreativt-sykursus-for-alle-hver-14-dag?holdnr=23410</g:link>
+      <g:image_link>https://www.fof.dk/media/3qragrjm/syning-fof-aftenskolen-16.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1150.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Københavns Omegn</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Kreative kurser &gt; Syning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Kreative kurser</g:custom_label_1>
+      <g:custom_label_2>Syning</g:custom_label_2>
+      <g:custom_label_4>Brøndby</g:custom_label_4>
+      <g:start_date>2027-02-02T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Brøndby']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23529</g:id>
@@ -46561,28 +46518,6 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:internal_label>['Vallensbæk','Albertslund','Brøndby','Glostrup','Herlev','Taastrup']</g:internal_label>
     </item>
 <item>
-      <g:id>KBO-23700</g:id>
-      <g:title><![CDATA[Klaver for alle]]></g:title>
-      <g:description><![CDATA[Lær at spille klaver i hyggelige rammer på Kilden i Brøndby. Undervisningen tilpasses dit niveau med fokus på glæde, becifringsspil og nodelære. På vores klaverhold på Kilden i Brøndby får du undervisning, der tager udgangspunkt i dit niveau og dine musikalske ønsker. ]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/klaver-i-broendby?holdnr=23700</g:link>
-      <g:image_link>https://www.fof.dk/media/2exctte2/1-klaver-kilden-eget-billede.png?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1820.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Københavns Omegn</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Musik og sang &gt; Klaver og harmonika</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Musik og sang</g:custom_label_1>
-      <g:custom_label_2>Klaver og harmonika</g:custom_label_2>
-      <g:custom_label_4>Brøndby</g:custom_label_4>
-      <g:start_date>2027-02-03T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Brøndby</g:custom_label_3>
-      <g:internal_label>['Brøndby']</g:internal_label>
-    </item>
-<item>
       <g:id>KBO-23828</g:id>
       <g:title><![CDATA[Styrketræning med fokus på osteoporose]]></g:title>
       <g:description><![CDATA[For dig med knogleskørhed/osteoporose. Skånsom og målrettet træning for dig med osteoporose. Fokus på styrke, balance og tryg bevægelse i rolige rammer med professionel vejledning.]]></g:description>
@@ -46603,6 +46538,28 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:start_date>2027-02-03T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Brøndby</g:custom_label_3>
       <g:internal_label>['Brøndby','Herlev']</g:internal_label>
+    </item>
+<item>
+      <g:id>KBO-23700</g:id>
+      <g:title><![CDATA[Klaver for alle]]></g:title>
+      <g:description><![CDATA[Lær at spille klaver i hyggelige rammer på Kilden i Brøndby. Undervisningen tilpasses dit niveau med fokus på glæde, becifringsspil og nodelære. På vores klaverhold på Kilden i Brøndby får du undervisning, der tager udgangspunkt i dit niveau og dine musikalske ønsker. ]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/klaver-i-broendby?holdnr=23700</g:link>
+      <g:image_link>https://www.fof.dk/media/2exctte2/1-klaver-kilden-eget-billede.png?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1820.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Københavns Omegn</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Musik og sang &gt; Klaver og harmonika</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Musik og sang</g:custom_label_1>
+      <g:custom_label_2>Klaver og harmonika</g:custom_label_2>
+      <g:custom_label_4>Brøndby</g:custom_label_4>
+      <g:start_date>2027-02-03T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Brøndby</g:custom_label_3>
+      <g:internal_label>['Brøndby']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23588</g:id>
@@ -52207,28 +52164,6 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:internal_label>['Forår','Køge','Weekend']</g:internal_label>
     </item>
 <item>
-      <g:id>KOE-52202</g:id>
-      <g:title><![CDATA[Vinyasa flow yoga og breathwork]]></g:title>
-      <g:description><![CDATA[En lækker flowyoga på faste hold med erfaren underviser. Dyrk vinyasa flow yoga med FOF Køge Bugt. En dynamisk yogaform til dig der ønsker en poweryoga. FOF Aftenskolen har vinyasa flow yoga i Køge, Greve og Smørum]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koege-bugt/vinyasa-flow-yoga?holdnr=52202</g:link>
-      <g:image_link>https://www.fof.dk/media/sq3lbttz/vinyasa-yoga.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>895.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Køge Bugt</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Yoga</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Yoga</g:custom_label_2>
-      <g:custom_label_4>Smørum</g:custom_label_4>
-      <g:start_date>2027-03-03T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Egedal</g:custom_label_3>
-      <g:internal_label>['Egedal','Forår','Smørum']</g:internal_label>
-    </item>
-<item>
       <g:id>KOE-52203</g:id>
       <g:title><![CDATA[Yin yoga]]></g:title>
       <g:description><![CDATA[En ugentlig times forkælelse med dygtige undervisere og trygge hold.. Vi har plads til alle kroppe og niveauer. Du kan gå til yin yoga i Roskilde, Køge. Greve, Egedal, Stevns og Ishøj.]]></g:description>
@@ -52249,6 +52184,28 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:start_date>2027-03-03T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Egedal</g:custom_label_3>
       <g:internal_label>['Egedal','Forår','Weekend','Smørum']</g:internal_label>
+    </item>
+<item>
+      <g:id>KOE-52202</g:id>
+      <g:title><![CDATA[Vinyasa flow yoga og breathwork]]></g:title>
+      <g:description><![CDATA[En lækker flowyoga på faste hold med erfaren underviser. Dyrk vinyasa flow yoga med FOF Køge Bugt. En dynamisk yogaform til dig der ønsker en poweryoga. FOF Aftenskolen har vinyasa flow yoga i Køge, Greve og Smørum]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koege-bugt/vinyasa-flow-yoga?holdnr=52202</g:link>
+      <g:image_link>https://www.fof.dk/media/sq3lbttz/vinyasa-yoga.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>895.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Køge Bugt</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Yoga</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Smørum</g:custom_label_4>
+      <g:start_date>2027-03-03T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Egedal</g:custom_label_3>
+      <g:internal_label>['Egedal','Forår','Smørum']</g:internal_label>
     </item>
 <item>
       <g:id>KOE-53879</g:id>
