@@ -952,28 +952,6 @@
       <g:internal_label>['Ballerup','Taastrup']</g:internal_label>
     </item>
 <item>
-      <g:id>KBO-23295</g:id>
-      <g:title><![CDATA[Bettinas Strikkestue ]]></g:title>
-      <g:description><![CDATA[Hyggeligt strikkefællesskab i Glostrup med fokus på samvær, kreativitet og fordybelse. Bettinas Strikkestue er for alle – uanset niveau.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/bettinas-strikkestue?holdnr=23295</g:link>
-      <g:image_link>https://www.fof.dk/media/3qqmonfg/strikkekursus-fof-aftenskolen-02.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>175.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Københavns Omegn</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Kreative kurser &gt; Håndarbejde</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Kreative kurser</g:custom_label_1>
-      <g:custom_label_2>Håndarbejde</g:custom_label_2>
-      <g:custom_label_4>Glostrup</g:custom_label_4>
-      <g:start_date>2027-01-14T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Glostrup</g:custom_label_3>
-      <g:internal_label>['Glostrup']</g:internal_label>
-    </item>
-<item>
       <g:id>KBO-23475</g:id>
       <g:title><![CDATA[Keramik for øvede]]></g:title>
       <g:description><![CDATA[Deltag i FOF keramikkursus i Hedehusene og lær modellering, pladeteknik, drejning, dekoration og glasering. Kurset er for begyndere og let øvede med små hold og personlig vejledning.]]></g:description>
@@ -1656,28 +1634,6 @@
       <g:internal_label>['Taastrup','Rødovre']</g:internal_label>
     </item>
 <item>
-      <g:id>KBO-23919</g:id>
-      <g:title><![CDATA[Motion i varmt vand]]></g:title>
-      <g:description><![CDATA[Deltag i varmtvandstræning i Herlev og Ballerup hos FOF Københavns Omegn. Skånsom motion med fysioterapeutisk vejledning i varmt vand. Find dit hold blandt mange mulige tider.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/motion-i-varmt-vand?holdnr=23919</g:link>
-      <g:image_link>https://www.fof.dk/media/btej5r1f/varmtvandstraening-for-gigtramte.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1520.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Københavns Omegn</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Træning i vand</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Træning i vand</g:custom_label_2>
-      <g:custom_label_4>Herlev</g:custom_label_4>
-      <g:start_date>2027-01-26T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Herlev</g:custom_label_3>
-      <g:internal_label>['Herlev','Ballerup','Glostrup']</g:internal_label>
-    </item>
-<item>
       <g:id>KBO-23504</g:id>
       <g:title><![CDATA[Hatha yoga]]></g:title>
       <g:description><![CDATA[Kom med på holdet i hatha yoga i Hedehusene, Herlev, Vallensbæk, Albertslund, Glostrup, Rødovre og Taastrup. Små hold med plads til alle kropstyper og niveauer. Find et hold tæt på dig og kom i gang med en god vane.]]></g:description>
@@ -1698,6 +1654,28 @@
       <g:start_date>2027-01-26T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Glostrup</g:custom_label_3>
       <g:internal_label>['Glostrup','Vallensbæk','Taastrup','Rødovre','Herlev','Ballerup','Albertslund']</g:internal_label>
+    </item>
+<item>
+      <g:id>KBO-23919</g:id>
+      <g:title><![CDATA[Motion i varmt vand]]></g:title>
+      <g:description><![CDATA[Deltag i varmtvandstræning i Herlev og Ballerup hos FOF Københavns Omegn. Skånsom motion med fysioterapeutisk vejledning i varmt vand. Find dit hold blandt mange mulige tider.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/motion-i-varmt-vand?holdnr=23919</g:link>
+      <g:image_link>https://www.fof.dk/media/btej5r1f/varmtvandstraening-for-gigtramte.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1520.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Københavns Omegn</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Træning i vand</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Træning i vand</g:custom_label_2>
+      <g:custom_label_4>Herlev</g:custom_label_4>
+      <g:start_date>2027-01-26T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Herlev</g:custom_label_3>
+      <g:internal_label>['Herlev','Ballerup','Glostrup']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23567</g:id>
@@ -1898,28 +1876,6 @@
       <g:internal_label>['Glostrup','Albertslund']</g:internal_label>
     </item>
 <item>
-      <g:id>KBO-23861</g:id>
-      <g:title><![CDATA[Motionstræning for gigtramte i varmt vand]]></g:title>
-      <g:description><![CDATA[Gigttræning i Vestbadet i Brøndby er for dig, der lever med gigt eller slidgigt i hofte, knæ eller andre led og ønsker en skånsom og effektiv træningsform i varmt vand.. Evidensbaseret træning, der mindsker smerter og øger styrke, bevægelighed og funktion.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/gigttraening?holdnr=23861</g:link>
-      <g:image_link>https://www.fof.dk/media/j2snhfmf/hensyntagende-vandtraening-i-herlev.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1995.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Københavns Omegn</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Træning i vand</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Træning i vand</g:custom_label_2>
-      <g:custom_label_4>Brøndby</g:custom_label_4>
-      <g:start_date>2027-01-26T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Brøndby</g:custom_label_3>
-      <g:internal_label>['Brøndby']</g:internal_label>
-    </item>
-<item>
       <g:id>KBO-23888</g:id>
       <g:title><![CDATA[Qi gong]]></g:title>
       <g:description><![CDATA[Qi Gong kursus i Brøndby, Glostrup og Ballerup. Dygtige undervisere får dig i gang med en blid træning. Qi gong øvelserne handler om De 8 Brokader, fokus på stressreduktion, meditation og energi for krop og sind ]]></g:description>
@@ -2118,14 +2074,14 @@
       <g:internal_label>['Herlev','Ballerup','Glostrup']</g:internal_label>
     </item>
 <item>
-      <g:id>KBO-23838</g:id>
-      <g:title><![CDATA[Vandtræning for brystopererede]]></g:title>
-      <g:description><![CDATA[Skånsom vandtræning for brystopererede på Herlev Hospital hos FOF Københavns Omegn. Varmtvandstræning og genoptræning med erfaren fysioterapeut.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/vandtraening-for-brystopererede-hens?holdnr=23838</g:link>
-      <g:image_link>https://www.fof.dk/media/setlprpx/herlev-hospital-egne-billeder.png?width=1200</g:image_link>
+      <g:id>KBO-23922</g:id>
+      <g:title><![CDATA[Puls og styrke]]></g:title>
+      <g:description><![CDATA[Deltag i varmtvandstræning i Herlev og Ballerup hos FOF Københavns Omegn. Skånsom motion med fysioterapeutisk vejledning i varmt vand. Find dit hold blandt mange mulige tider.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/motion-i-varmt-vand?holdnr=23922</g:link>
+      <g:image_link>https://www.fof.dk/media/btej5r1f/varmtvandstraening-for-gigtramte.jpg?width=1200</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:quantity>1</g:quantity>
-      <g:price>1100.00 DKK</g:price>
+      <g:price>1520.00 DKK</g:price>
       <g:condition>new</g:condition>
       <g:brand>FOF Københavns Omegn</g:brand>
       <g:google_product_category>Education</g:google_product_category>
@@ -2137,17 +2093,17 @@
       <g:custom_label_4>Herlev</g:custom_label_4>
       <g:start_date>2027-01-27T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Herlev</g:custom_label_3>
-      <g:internal_label>['Herlev']</g:internal_label>
+      <g:internal_label>['Herlev','Ballerup','Glostrup']</g:internal_label>
     </item>
 <item>
-      <g:id>KBO-23922</g:id>
-      <g:title><![CDATA[Puls og styrke for kvinder ]]></g:title>
-      <g:description><![CDATA[Træn i varmtvandsbassin med andre kvinder. Varmtvandstræning for kvinder i Herlev er en skånsom træning der er god for din krop, uanset skavanker.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/varmtvandstraening-for-kvinder?holdnr=23922</g:link>
-      <g:image_link>https://www.fof.dk/media/cxephtqg/varmtvandsbassin-kvinder-koebenhavns-omegn-fof-aftenskolen.jpg?width=1200</g:image_link>
+      <g:id>KBO-23838</g:id>
+      <g:title><![CDATA[Vandtræning for brystopererede]]></g:title>
+      <g:description><![CDATA[Skånsom vandtræning for brystopererede på Herlev Hospital hos FOF Københavns Omegn. Varmtvandstræning og genoptræning med erfaren fysioterapeut.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/vandtraening-for-brystopererede-hens?holdnr=23838</g:link>
+      <g:image_link>https://www.fof.dk/media/setlprpx/herlev-hospital-egne-billeder.png?width=1200</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:quantity>1</g:quantity>
-      <g:price>1520.00 DKK</g:price>
+      <g:price>1100.00 DKK</g:price>
       <g:condition>new</g:condition>
       <g:brand>FOF Københavns Omegn</g:brand>
       <g:google_product_category>Education</g:google_product_category>
@@ -3129,28 +3085,6 @@
       <g:internal_label>['Albertslund','Glostrup','Herlev','Taastrup']</g:internal_label>
     </item>
 <item>
-      <g:id>KBO-23553</g:id>
-      <g:title><![CDATA[Hatha yoga for mænd]]></g:title>
-      <g:description><![CDATA[Deltag i Hatha yoga for mænd i Taastrup og Rødovre hos FOF Københavns Omegn. Rolig yoga med fokus på styrke, smidighed og færre spændinger.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/hatha-yoga-for-maend?holdnr=23553</g:link>
-      <g:image_link>https://www.fof.dk/media/jm4b03hn/hatha-yoga-for-maend.png?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1375.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Københavns Omegn</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Yoga</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Yoga</g:custom_label_2>
-      <g:custom_label_4>Rødovre</g:custom_label_4>
-      <g:start_date>2027-02-02T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Rødovre</g:custom_label_3>
-      <g:internal_label>['Rødovre','Taastrup']</g:internal_label>
-    </item>
-<item>
       <g:id>KBO-23410</g:id>
       <g:title><![CDATA[Kreativt sykursus for alle - hver 14. dag]]></g:title>
       <g:description><![CDATA[Deltag i syning hver 14. dag i Brøndby. Fleksibelt sykursus med fri brug af symaskiner, masser af inspiration og tid til fordybelse i egne projekter.]]></g:description>
@@ -3194,6 +3128,28 @@
       <g:internal_label>['Albertslund','Glostrup','Herlev','Taastrup']</g:internal_label>
     </item>
 <item>
+      <g:id>KBO-23553</g:id>
+      <g:title><![CDATA[Hatha yoga for mænd]]></g:title>
+      <g:description><![CDATA[Deltag i Hatha yoga for mænd i Taastrup og Rødovre hos FOF Københavns Omegn. Rolig yoga med fokus på styrke, smidighed og færre spændinger.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/hatha-yoga-for-maend?holdnr=23553</g:link>
+      <g:image_link>https://www.fof.dk/media/jm4b03hn/hatha-yoga-for-maend.png?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1375.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Københavns Omegn</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Yoga</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Rødovre</g:custom_label_4>
+      <g:start_date>2027-02-02T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Rødovre</g:custom_label_3>
+      <g:internal_label>['Rødovre','Taastrup']</g:internal_label>
+    </item>
+<item>
       <g:id>KBO-23529</g:id>
       <g:title><![CDATA[Yoga for seniorer]]></g:title>
       <g:description><![CDATA[Deltag i senioryoga hos FOF Københavns Omegn i Herlev, Glostrup, Albertslund og Taastrup. Gode lyse lokaler med nem adgang og gode parkeringsmuligheder. Blid yoga med fokus på balance, smidighed og ro.]]></g:description>
@@ -3214,6 +3170,28 @@
       <g:start_date>2027-02-02T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Herlev</g:custom_label_3>
       <g:internal_label>['Herlev','Albertslund','Glostrup','Taastrup']</g:internal_label>
+    </item>
+<item>
+      <g:id>KBO-23861</g:id>
+      <g:title><![CDATA[Motionstræning for gigtramte i varmt vand]]></g:title>
+      <g:description><![CDATA[Gigttræning i Vestbadet i Brøndby er for dig, der lever med gigt eller slidgigt i hofte, knæ eller andre led og ønsker en skånsom og effektiv træningsform i varmt vand.. Evidensbaseret træning, der mindsker smerter og øger styrke, bevægelighed og funktion.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/gigttraening?holdnr=23861</g:link>
+      <g:image_link>https://www.fof.dk/media/j2snhfmf/hensyntagende-vandtraening-i-herlev.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1995.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Københavns Omegn</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Træning i vand</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Træning i vand</g:custom_label_2>
+      <g:custom_label_4>Brøndby</g:custom_label_4>
+      <g:start_date>2027-02-02T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Brøndby</g:custom_label_3>
+      <g:internal_label>['Brøndby']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23599</g:id>
@@ -3349,28 +3327,6 @@
       <g:internal_label>['Vallensbæk','Albertslund','Brøndby','Glostrup','Herlev','Taastrup']</g:internal_label>
     </item>
 <item>
-      <g:id>KBO-23828</g:id>
-      <g:title><![CDATA[Styrketræning med fokus på osteoporose]]></g:title>
-      <g:description><![CDATA[For dig med knogleskørhed/osteoporose. Skånsom og målrettet træning for dig med osteoporose. Fokus på styrke, balance og tryg bevægelse i rolige rammer med professionel vejledning.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/osteoporosetraening?holdnr=23828</g:link>
-      <g:image_link>https://www.fof.dk/media/koib4ksf/23.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1365.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Københavns Omegn</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Styrke- og konditionstræning</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Styrke- og konditionstræning</g:custom_label_2>
-      <g:custom_label_4>Brøndby</g:custom_label_4>
-      <g:start_date>2027-02-03T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Brøndby</g:custom_label_3>
-      <g:internal_label>['Brøndby','Herlev']</g:internal_label>
-    </item>
-<item>
       <g:id>KBO-23700</g:id>
       <g:title><![CDATA[Klaver for alle]]></g:title>
       <g:description><![CDATA[Lær at spille klaver i hyggelige rammer på Kilden i Brøndby. Undervisningen tilpasses dit niveau med fokus på glæde, becifringsspil og nodelære. På vores klaverhold på Kilden i Brøndby får du undervisning, der tager udgangspunkt i dit niveau og dine musikalske ønsker. ]]></g:description>
@@ -3391,6 +3347,28 @@
       <g:start_date>2027-02-03T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Brøndby</g:custom_label_3>
       <g:internal_label>['Brøndby']</g:internal_label>
+    </item>
+<item>
+      <g:id>KBO-23828</g:id>
+      <g:title><![CDATA[Styrketræning med fokus på osteoporose]]></g:title>
+      <g:description><![CDATA[For dig med knogleskørhed/osteoporose. Skånsom og målrettet træning for dig med osteoporose. Fokus på styrke, balance og tryg bevægelse i rolige rammer med professionel vejledning.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/osteoporosetraening?holdnr=23828</g:link>
+      <g:image_link>https://www.fof.dk/media/koib4ksf/23.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1365.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Københavns Omegn</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Styrke- og konditionstræning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Styrke- og konditionstræning</g:custom_label_2>
+      <g:custom_label_4>Brøndby</g:custom_label_4>
+      <g:start_date>2027-02-03T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Brøndby</g:custom_label_3>
+      <g:internal_label>['Brøndby','Herlev']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23588</g:id>
@@ -5504,6 +5482,27 @@
       <g:custom_label_4>Rødovre</g:custom_label_4>
       <g:start_date>2027-03-04T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Rødovre</g:custom_label_3>
+      <g:internal_label>['Rødovre']</g:internal_label>
+    </item>
+<item>
+      <g:id>KBO-33108</g:id>
+      <g:title><![CDATA[Fælles børn, to hjem]]></g:title>
+      <g:description><![CDATA[Foredrag i Rødovre om at være forældre på tværs af hjem: Psykolog Tina Faurholt deler ud af sin faglige viden, egne erfaringer og fortællinger fra de mange børn og forældre, hun har mødt gennem årene.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/faelles-boern-to-hjem?holdnr=33108</g:link>
+      <g:image_link>https://www.fof.dk/media/r2pfhyk1/tina-faurholt-roedovre-fof-aftenskolen.png?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>185.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Københavns Omegn</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Foredrag, debat og højskoler &gt; Familie og børn</g:product_type>
+      <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
+      <g:custom_label_1>Familie og børn</g:custom_label_1>
+      <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Rødovre</g:custom_label_4>
+      <g:start_date>2027-03-04T00:00:00.000Z</g:start_date>
       <g:internal_label>['Rødovre']</g:internal_label>
     </item>
 <item>

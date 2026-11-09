@@ -226,28 +226,6 @@
       <g:internal_label>['Jul og nytår','Korte kurser','Starter om &lt; 14 dage','Aarhus C']</g:internal_label>
     </item>
 <item>
-      <g:id>AAR-423577</g:id>
-      <g:title><![CDATA[Ramen og gyoza]]></g:title>
-      <g:description><![CDATA[Dyk ned i det unikke og lækre japanske køkken. Du lærer at tilberede to meget populære japanske retter: ramen og gyoza på kursus i FOF Aarhus]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/ramen-og-gyoza?holdnr=423577</g:link>
-      <g:image_link>https://www.fof.dk/media/r4gno4wf/ramen-gyoza-kursus-aarhus-fof-aftenskolen-1.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>675.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Aarhus</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Madlavning og drikkevarer &gt; Asiatisk mad</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
-      <g:custom_label_2>Asiatisk mad</g:custom_label_2>
-      <g:custom_label_4>Aarhus</g:custom_label_4>
-      <g:start_date>2026-11-15T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Korte kurser</g:custom_label_3>
-      <g:internal_label>['Korte kurser','Starter om &lt; 14 dage','Aarhus C']</g:internal_label>
-    </item>
-<item>
       <g:id>AAR-422804</g:id>
       <g:title><![CDATA[AI for let øvede]]></g:title>
       <g:description><![CDATA[Forbedr dine AI-færdigheder i FOF Aarhus. Lær at skrive bedre prompts og bruge AI som sparringspartner til idéudvikling og praktiske ting i hverdagen.]]></g:description>
@@ -403,7 +381,7 @@
     </item>
 <item>
       <g:id>AAR-425331</g:id>
-      <g:title><![CDATA[ADHD i hverdagen - konkrete redskaber til forælder (workshop)]]></g:title>
+      <g:title><![CDATA[ADHD i hverdagen - konkrete redskaber til forældre (workshop)]]></g:title>
       <g:description><![CDATA[Få konkrete redskaber til hverdagen med et barn med ADHD. Lær at skabe ro, struktur og færre konflikter. Workshop med tryg sparring. Tilmeld dig i dag!]]></g:description>
       <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/adhd-i-hverdagen-konkrete-redskaber-til-foraelder-workshop?holdnr=425331</g:link>
       <g:image_link>https://www.fof.dk/media/uj1lt1zo/adhd.jpg?width=1200</g:image_link>
@@ -506,28 +484,6 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
       <g:custom_label_2>Fest- og hverdagsmad</g:custom_label_2>
-      <g:custom_label_4>Aarhus</g:custom_label_4>
-      <g:start_date>2026-11-19T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Starter om &lt; 14 dage</g:custom_label_3>
-      <g:internal_label>['Starter om &lt; 14 dage','Aarhus C']</g:internal_label>
-    </item>
-<item>
-      <g:id>AAR-421876</g:id>
-      <g:title><![CDATA[PLIDA B2 - payment for exam Nov. 19 - 2026]]></g:title>
-      <g:description><![CDATA[PLIDA B2 - payment for exam Nov. 19 - 2026 Klik i den farvede boks og betal for eksamensregistrering. Click the coloured box and pay for exam registration. Need your exam result quickly? For an additional fee of DKK 200, you can receive your exam result sooner. Please select the following fee: Almen med ekstra gebyr]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/plida-b2-payment-for-exam-nov-19-2026?holdnr=421876</g:link>
-      <g:image_link>https://www.fof.dk/media/msaj1rjg/italiensk-plida-aarhus-fof-aftenskolen-6.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1155.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Aarhus</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type></g:product_type>
-      <g:custom_label_0></g:custom_label_0>
-      <g:custom_label_1></g:custom_label_1>
-      <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4>Aarhus</g:custom_label_4>
       <g:start_date>2026-11-19T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Starter om &lt; 14 dage</g:custom_label_3>
@@ -1911,6 +1867,28 @@
       <g:internal_label>['Åbyhøj']</g:internal_label>
     </item>
 <item>
+      <g:id>AAR-435000</g:id>
+      <g:title><![CDATA[Ve-træning]]></g:title>
+      <g:description><![CDATA[Tag til ve-træning ved FOF Aftenskolen Aarhus og forbered dig på fødslen ved at lære at tackle dine veer. ]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/ve-traening?holdnr=435000</g:link>
+      <g:image_link>https://www.fof.dk/media/tinlo44g/vetraening_5_1200x1200-aarhus.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>195.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Fødselsforberedelse</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
+      <g:custom_label_2>Fødselsforberedelse</g:custom_label_2>
+      <g:custom_label_4>Aarhus</g:custom_label_4>
+      <g:start_date>2027-01-07T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Korte kurser</g:custom_label_3>
+      <g:internal_label>['Korte kurser','Starter om &lt; 14 dage','Aarhus C']</g:internal_label>
+    </item>
+<item>
       <g:id>AAR-423850</g:id>
       <g:title><![CDATA[Madglad 60+ på Møllestien hold 2]]></g:title>
       <g:description><![CDATA[Oplev glæden ved at lave mad og dele måltider med Madglad 60+, et samarbejde mellem FOF Aarhus og GENLYD. Dette initiativ bringer aarhusianere over 60 år sammen omkring gryderne for at udforske nye smagsoplevelser og skabe varige venskaber. Uanset om du er nybegynder eller erfaren i køkkenet, er der plads til dig i dette madfællesskab, hvor fællesskab og madglæde er i centrum.]]></g:description>
@@ -1975,6 +1953,70 @@
       <g:internal_label>['Aarhus C']</g:internal_label>
     </item>
 <item>
+      <g:id>AAR-435112</g:id>
+      <g:title><![CDATA[Efter-efterfødselstræning]]></g:title>
+      <g:description><![CDATA[Efter-efterfødselstræning ved FOF Aftenskolen Aarhus til dig som har født for 3-12 måneder siden.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/efter-efterfoedselstraening?holdnr=435112</g:link>
+      <g:image_link>https://www.fof.dk/media/vrwfn21y/efterf-4.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1115.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Efterfødselstræning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
+      <g:custom_label_2>Efterfødselstræning</g:custom_label_2>
+      <g:custom_label_4>Åbyhøj</g:custom_label_4>
+      <g:start_date>2027-01-11T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Åbyhøj']</g:internal_label>
+    </item>
+<item>
+      <g:id>AAR-435060</g:id>
+      <g:title><![CDATA[Fødselsvejrtrækning & ve-træning (parhold)]]></g:title>
+      <g:description><![CDATA[Lær om veer og fødselsvejrtrækning  sammen med din fødselspartner i FOF Aftenskolen Aarhus. ]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/foedselsvejrtraekning-ve-traening-parhold?holdnr=435060</g:link>
+      <g:image_link>https://www.fof.dk/media/ak1hwuer/vetraening_2_1200x1200-aarhus.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1575.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Fødselsforberedelse</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
+      <g:custom_label_2>Fødselsforberedelse</g:custom_label_2>
+      <g:custom_label_4>Aarhus</g:custom_label_4>
+      <g:start_date>2027-01-11T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Korte kurser</g:custom_label_3>
+      <g:internal_label>['Korte kurser','Starter om &lt; 14 dage','Aarhus C']</g:internal_label>
+    </item>
+<item>
+      <g:id>AAR-435100</g:id>
+      <g:title><![CDATA[Efterfødselstræning]]></g:title>
+      <g:description><![CDATA[Efterfødselstræning ved FOF Aarhus til dig som har født for 2-12 uger siden (v. kejsersnit 5-12 uger) | FOF Aftenskolen Aarhus]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/efterfoedselstraening?holdnr=435100</g:link>
+      <g:image_link>https://www.fof.dk/media/jhghjyqe/ef80d0-1.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1115.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Efterfødselstræning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
+      <g:custom_label_2>Efterfødselstræning</g:custom_label_2>
+      <g:custom_label_4>Åbyhøj</g:custom_label_4>
+      <g:start_date>2027-01-11T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Åbyhøj']</g:internal_label>
+    </item>
+<item>
       <g:id>AAR-436868</g:id>
       <g:title><![CDATA[Lavt stofskifte – få viden, værktøjer og håb]]></g:title>
       <g:description><![CDATA[Kom til foredrag i FOF Aarhus med Helle Sydendal, der deler viden, erfaring og håb om bedre behandling og liv med lavt stofskifte.]]></g:description>
@@ -1993,6 +2035,27 @@
       <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4>Aarhus</g:custom_label_4>
       <g:start_date>2027-01-11T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Aarhus C']</g:internal_label>
+    </item>
+<item>
+      <g:id>AAR-435150</g:id>
+      <g:title><![CDATA[Mistet spædbarn (efterfødselstræning)]]></g:title>
+      <g:description><![CDATA[Kurset sigter mod at støtte dig i at være i sorgen og få den nye hverdag til at fungere både fysisk og psykisk | FOF Aftenskolen Aarhus]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/mistet-spaedbarn-efterfoedselstraening?holdnr=435150</g:link>
+      <g:image_link>https://www.fof.dk/media/1e0bli0p/aebleblomst-2_1200x1200-aarhus.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1905.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Efterfødselstræning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
+      <g:custom_label_2>Efterfødselstræning</g:custom_label_2>
+      <g:custom_label_4>Aarhus</g:custom_label_4>
+      <g:start_date>2027-01-13T00:00:00.000Z</g:start_date>
       <g:internal_label>['Aarhus C']</g:internal_label>
     </item>
 <item>
@@ -2036,6 +2099,71 @@
       <g:custom_label_4>Aarhus</g:custom_label_4>
       <g:start_date>2027-01-13T00:00:00.000Z</g:start_date>
       <g:internal_label>['Aarhus C']</g:internal_label>
+    </item>
+<item>
+      <g:id>AAR-435080</g:id>
+      <g:title><![CDATA[Graviditetstræning]]></g:title>
+      <g:description><![CDATA[Vil du gå til graviditetstræning? Tilmeld dig kurset Træning for gravide ved FOF Aftenskolen Aarhus]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/graviditetstraening?holdnr=435080</g:link>
+      <g:image_link>https://www.fof.dk/media/4zfjqaxp/gravid-i-form_2_1200x1200-aarhus.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1070.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Motion for gravide</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
+      <g:custom_label_2>Motion for gravide</g:custom_label_2>
+      <g:custom_label_4>Åbyhøj</g:custom_label_4>
+      <g:start_date>2027-01-13T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Åbyhøj']</g:internal_label>
+    </item>
+<item>
+      <g:id>AAR-435001</g:id>
+      <g:title><![CDATA[Ve-træning]]></g:title>
+      <g:description><![CDATA[Tag til ve-træning ved FOF Aftenskolen Aarhus og forbered dig på fødslen ved at lære at tackle dine veer. ]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/ve-traening?holdnr=435001</g:link>
+      <g:image_link>https://www.fof.dk/media/tinlo44g/vetraening_5_1200x1200-aarhus.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>195.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Fødselsforberedelse</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
+      <g:custom_label_2>Fødselsforberedelse</g:custom_label_2>
+      <g:custom_label_4>Aarhus</g:custom_label_4>
+      <g:start_date>2027-01-14T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Korte kurser</g:custom_label_3>
+      <g:internal_label>['Korte kurser','Starter om &lt; 14 dage','Aarhus C']</g:internal_label>
+    </item>
+<item>
+      <g:id>AAR-435090</g:id>
+      <g:title><![CDATA[Yoga og pilates for gravide]]></g:title>
+      <g:description><![CDATA[Ønsker du træning tilpasset den gravide krop? Tilmeld dig på Yoga og pilates for gravide ved FOF Aftenskolen Aarhus. ]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/yoga-og-pilates-for-gravide?holdnr=435090</g:link>
+      <g:image_link>https://www.fof.dk/media/x1mjyyx5/yoga-og-pilates-gravide-fof-aarhus-3.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>895.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Motion for gravide</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
+      <g:custom_label_2>Motion for gravide</g:custom_label_2>
+      <g:custom_label_4>Aarhus</g:custom_label_4>
+      <g:start_date>2027-01-14T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Starter om &lt; 14 dage</g:custom_label_3>
+      <g:internal_label>['Starter om &lt; 14 dage','Aarhus C']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-433035</g:id>
@@ -2102,6 +2230,28 @@
       <g:internal_label>['Åbyhøj']</g:internal_label>
     </item>
 <item>
+      <g:id>AAR-435091</g:id>
+      <g:title><![CDATA[Yoga og pilates for gravide]]></g:title>
+      <g:description><![CDATA[Ønsker du træning tilpasset den gravide krop? Tilmeld dig på Yoga og pilates for gravide ved FOF Aftenskolen Aarhus. ]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/yoga-og-pilates-for-gravide?holdnr=435091</g:link>
+      <g:image_link>https://www.fof.dk/media/x1mjyyx5/yoga-og-pilates-gravide-fof-aarhus-3.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>895.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Motion for gravide</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
+      <g:custom_label_2>Motion for gravide</g:custom_label_2>
+      <g:custom_label_4>Aarhus</g:custom_label_4>
+      <g:start_date>2027-01-19T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Starter om &lt; 14 dage</g:custom_label_3>
+      <g:internal_label>['Starter om &lt; 14 dage','Aarhus C']</g:internal_label>
+    </item>
+<item>
       <g:id>AAR-437037</g:id>
       <g:title><![CDATA[Naturhøjskolen - forår 2027]]></g:title>
       <g:description><![CDATA[Tag med på heldagsture ud i naturen og bliv klogere på nogle af vores fantastiske naturområder. Vi vandrer, lærer nyt og deler vores interesse for naturen. Tilmeld dig i dag.]]></g:description>
@@ -2120,6 +2270,49 @@
       <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4>Aarhus</g:custom_label_4>
       <g:start_date>2027-01-19T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Aarhus C']</g:internal_label>
+    </item>
+<item>
+      <g:id>AAR-435002</g:id>
+      <g:title><![CDATA[Ve-træning]]></g:title>
+      <g:description><![CDATA[Tag til ve-træning ved FOF Aftenskolen Aarhus og forbered dig på fødslen ved at lære at tackle dine veer. ]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/ve-traening?holdnr=435002</g:link>
+      <g:image_link>https://www.fof.dk/media/tinlo44g/vetraening_5_1200x1200-aarhus.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>195.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Fødselsforberedelse</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
+      <g:custom_label_2>Fødselsforberedelse</g:custom_label_2>
+      <g:custom_label_4>Åbyhøj</g:custom_label_4>
+      <g:start_date>2027-01-20T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Korte kurser</g:custom_label_3>
+      <g:internal_label>['Korte kurser','Starter om &lt; 14 dage','Åbyhøj']</g:internal_label>
+    </item>
+<item>
+      <g:id>AAR-435320</g:id>
+      <g:title><![CDATA[Mænds helbred 50+]]></g:title>
+      <g:description><![CDATA[Bliv klogere på hormoner, søvn, træning og seksuel sundhed på et kursus for mænd 50+ i FOF Aarhus.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/maends-helbred-50plus?holdnr=435320</g:link>
+      <g:image_link>https://www.fof.dk/media/vmjdsw1q/maends_helbred_fof_aarhus_1200x1200.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>755.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Livsstil og trivsel &gt; Sund livsstil</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Livsstil og trivsel</g:custom_label_1>
+      <g:custom_label_2>Sund livsstil</g:custom_label_2>
+      <g:custom_label_4>Aarhus</g:custom_label_4>
+      <g:start_date>2027-01-20T00:00:00.000Z</g:start_date>
       <g:internal_label>['Aarhus C']</g:internal_label>
     </item>
 <item>
@@ -2163,6 +2356,27 @@
       <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4>Aarhus</g:custom_label_4>
       <g:start_date>2027-01-21T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Aarhus C']</g:internal_label>
+    </item>
+<item>
+      <g:id>AAR-435328</g:id>
+      <g:title><![CDATA[Lær at meditere]]></g:title>
+      <g:description><![CDATA[Giv dig selv en pause fra hverdagens høje tempo, og find ro gennem meditation i FOF Aarhus. Alle kan være med!]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/laer-at-meditere-workshop?holdnr=435328</g:link>
+      <g:image_link>https://www.fof.dk/media/5m2bbrfi/selvudvikling_1200x1200-aarhus.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>980.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Mindfulness og meditation</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Mindfulness og meditation</g:custom_label_2>
+      <g:custom_label_4>Aarhus</g:custom_label_4>
+      <g:start_date>2027-01-23T00:00:00.000Z</g:start_date>
       <g:internal_label>['Aarhus C']</g:internal_label>
     </item>
 <item>
@@ -2231,6 +2445,27 @@
       <g:internal_label>['Åbyhøj']</g:internal_label>
     </item>
 <item>
+      <g:id>AAR-426927</g:id>
+      <g:title><![CDATA[The Beatles – bandet der erobrede verden]]></g:title>
+      <g:description><![CDATA[Kom til foredrag og hør historien om banden, der erobrede verden. Lyt til musikken, bliv klogere på fortællingerne og få en forrygende aften. Tilmeld dig i dag.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/the-beatles-bandet-der-erobrede-verden?holdnr=426927</g:link>
+      <g:image_link>https://www.fof.dk/media/twrhvkie/the-beatles.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>100.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Foredrag, debat og højskoler &gt; Musik og koncerter</g:product_type>
+      <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
+      <g:custom_label_1>Musik og koncerter</g:custom_label_1>
+      <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Aarhus</g:custom_label_4>
+      <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Aarhus C']</g:internal_label>
+    </item>
+<item>
       <g:id>AAR-434843</g:id>
       <g:title><![CDATA[Sangskrivning - kom godt fra start]]></g:title>
       <g:description><![CDATA[Lær at skrive dine egne sange i FOF Aarhus. Få værktøjer til at skrive tekster, skabe melodier og komme videre, når skriveblokken rammer. Kom med!]]></g:description>
@@ -2294,6 +2529,28 @@
       <g:internal_label>['Aarhus C']</g:internal_label>
     </item>
 <item>
+      <g:id>AAR-435070</g:id>
+      <g:title><![CDATA[Ammeforberedelse]]></g:title>
+      <g:description><![CDATA[Vil du forberede dig til den forestående amning? I FOF Aftenskolen Aarhus kan du gå til ammeforberedelse og lære forskellige ammeteknikker mm. ]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/ammeforberedelse?holdnr=435070</g:link>
+      <g:image_link>https://www.fof.dk/media/pgmge4ol/ammefo-1.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>195.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Fødselsforberedelse</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
+      <g:custom_label_2>Fødselsforberedelse</g:custom_label_2>
+      <g:custom_label_4>Åbyhøj</g:custom_label_4>
+      <g:start_date>2027-01-27T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Korte kurser</g:custom_label_3>
+      <g:internal_label>['Korte kurser','Åbyhøj']</g:internal_label>
+    </item>
+<item>
       <g:id>AAR-434669</g:id>
       <g:title><![CDATA[Guitar - nybegyndere]]></g:title>
       <g:description><![CDATA[Lær at spille guitar | Kurset er for absolut begyndere, så ingen forhåndskendskab er påkrævet. ]]></g:description>
@@ -2336,6 +2593,50 @@
       <g:internal_label>['Åbyhøj']</g:internal_label>
     </item>
 <item>
+      <g:id>AAR-435003</g:id>
+      <g:title><![CDATA[Ve-træning]]></g:title>
+      <g:description><![CDATA[Tag til ve-træning ved FOF Aftenskolen Aarhus og forbered dig på fødslen ved at lære at tackle dine veer. ]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/ve-traening?holdnr=435003</g:link>
+      <g:image_link>https://www.fof.dk/media/tinlo44g/vetraening_5_1200x1200-aarhus.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>195.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Fødselsforberedelse</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
+      <g:custom_label_2>Fødselsforberedelse</g:custom_label_2>
+      <g:custom_label_4>Aarhus</g:custom_label_4>
+      <g:start_date>2027-01-30T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Korte kurser</g:custom_label_3>
+      <g:internal_label>['Korte kurser','Starter om &lt; 14 dage','Aarhus C']</g:internal_label>
+    </item>
+<item>
+      <g:id>AAR-435050</g:id>
+      <g:title><![CDATA[Contraction and childbirth class]]></g:title>
+      <g:description><![CDATA[Antenatal classes at FOF Aarhus teach you to handle your contractions and your birth | FOF Aftenskolen Aarhus]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/contraction-and-childbirth-class?holdnr=435050</g:link>
+      <g:image_link>https://www.fof.dk/media/1tbiyi3l/vetraening_3_1200x1200-aarhus.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>195.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Fødselsforberedelse</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
+      <g:custom_label_2>Fødselsforberedelse</g:custom_label_2>
+      <g:custom_label_4>Aarhus</g:custom_label_4>
+      <g:start_date>2027-01-30T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Korte kurser</g:custom_label_3>
+      <g:internal_label>['Korte kurser','In English','Aarhus C']</g:internal_label>
+    </item>
+<item>
       <g:id>AAR-436831</g:id>
       <g:title><![CDATA[Josefine Stork: Cyklusrevolutionen]]></g:title>
       <g:description><![CDATA[Mød podcaster Josefine Stork til et spændende foredrag i FOF Aarhus om den kvindelige cyklus. Tilmeld dig foredraget i dag, og bliv klogere på, hvordan du kan bruge din cyklus som en superkraft i din hverdag.]]></g:description>
@@ -2354,6 +2655,49 @@
       <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4>Aarhus</g:custom_label_4>
       <g:start_date>2027-02-01T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Aarhus C']</g:internal_label>
+    </item>
+<item>
+      <g:id>AAR-435004</g:id>
+      <g:title><![CDATA[Ve-træning]]></g:title>
+      <g:description><![CDATA[Tag til ve-træning ved FOF Aftenskolen Aarhus og forbered dig på fødslen ved at lære at tackle dine veer. ]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/ve-traening?holdnr=435004</g:link>
+      <g:image_link>https://www.fof.dk/media/tinlo44g/vetraening_5_1200x1200-aarhus.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>195.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Fødselsforberedelse</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
+      <g:custom_label_2>Fødselsforberedelse</g:custom_label_2>
+      <g:custom_label_4>Åbyhøj</g:custom_label_4>
+      <g:start_date>2027-02-03T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Korte kurser</g:custom_label_3>
+      <g:internal_label>['Korte kurser','Starter om &lt; 14 dage','Åbyhøj']</g:internal_label>
+    </item>
+<item>
+      <g:id>AAR-435058</g:id>
+      <g:title><![CDATA[Fertilitet og kropsbalance – et nænsomt forløb]]></g:title>
+      <g:description><![CDATA[Arbejd med fertilitet hos FOF Aarhus gennem krop, ro og nærvær. Få støtte i et trygt fællesskab med andre kvinder. Tilmeld dig i dag.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/fertilitet-og-kropsbalance-et-naensomt-forloeb?holdnr=435058</g:link>
+      <g:image_link>https://www.fof.dk/media/af4hh415/fertilitet.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1280.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Fødselsforberedelse</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
+      <g:custom_label_2>Fødselsforberedelse</g:custom_label_2>
+      <g:custom_label_4>Aarhus</g:custom_label_4>
+      <g:start_date>2027-02-03T00:00:00.000Z</g:start_date>
       <g:internal_label>['Aarhus C']</g:internal_label>
     </item>
 <item>
@@ -2463,6 +2807,28 @@
       <g:internal_label>['Korte kurser','Aarhus C']</g:internal_label>
     </item>
 <item>
+      <g:id>AAR-435005</g:id>
+      <g:title><![CDATA[Ve-træning]]></g:title>
+      <g:description><![CDATA[Tag til ve-træning ved FOF Aftenskolen Aarhus og forbered dig på fødslen ved at lære at tackle dine veer. ]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/ve-traening?holdnr=435005</g:link>
+      <g:image_link>https://www.fof.dk/media/tinlo44g/vetraening_5_1200x1200-aarhus.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>195.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Fødselsforberedelse</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
+      <g:custom_label_2>Fødselsforberedelse</g:custom_label_2>
+      <g:custom_label_4>Aarhus</g:custom_label_4>
+      <g:start_date>2027-02-08T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Korte kurser</g:custom_label_3>
+      <g:internal_label>['Korte kurser','Starter om &lt; 14 dage','Aarhus C']</g:internal_label>
+    </item>
+<item>
       <g:id>AAR-436857</g:id>
       <g:title><![CDATA[Kroppen taler — lær at lytte]]></g:title>
       <g:description><![CDATA[Oplev et inspirerende foredrag i Aarhus med Martin Bonde om sammenhængen mellem krop og psyke. Lær at forstå kroppens signaler, smerter og spændinger som vejvisere til større balance og trivsel.]]></g:description>
@@ -2524,6 +2890,48 @@
       <g:custom_label_4>Aarhus</g:custom_label_4>
       <g:start_date>2027-02-10T00:00:00.000Z</g:start_date>
       <g:internal_label>['Aarhus C']</g:internal_label>
+    </item>
+<item>
+      <g:id>AAR-435101</g:id>
+      <g:title><![CDATA[Efterfødselstræning]]></g:title>
+      <g:description><![CDATA[Efterfødselstræning ved FOF Aarhus til dig som har født for 2-12 uger siden (v. kejsersnit 5-12 uger) | FOF Aftenskolen Aarhus]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/efterfoedselstraening?holdnr=435101</g:link>
+      <g:image_link>https://www.fof.dk/media/jhghjyqe/ef80d0-1.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1115.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Efterfødselstræning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
+      <g:custom_label_2>Efterfødselstræning</g:custom_label_2>
+      <g:custom_label_4>Åbyhøj</g:custom_label_4>
+      <g:start_date>2027-02-10T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Åbyhøj']</g:internal_label>
+    </item>
+<item>
+      <g:id>AAR-435113</g:id>
+      <g:title><![CDATA[Efter-efterfødselstræning]]></g:title>
+      <g:description><![CDATA[Efter-efterfødselstræning ved FOF Aftenskolen Aarhus til dig som har født for 3-12 måneder siden.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/efter-efterfoedselstraening?holdnr=435113</g:link>
+      <g:image_link>https://www.fof.dk/media/vrwfn21y/efterf-4.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1115.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Efterfødselstræning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
+      <g:custom_label_2>Efterfødselstræning</g:custom_label_2>
+      <g:custom_label_4>Åbyhøj</g:custom_label_4>
+      <g:start_date>2027-02-10T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Åbyhøj']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-436872</g:id>
@@ -2654,6 +3062,50 @@
       <g:internal_label>['Lystrup']</g:internal_label>
     </item>
 <item>
+      <g:id>AAR-435061</g:id>
+      <g:title><![CDATA[Fødselsvejrtrækning & ve-træning (parhold)]]></g:title>
+      <g:description><![CDATA[Lær om veer og fødselsvejrtrækning  sammen med din fødselspartner i FOF Aftenskolen Aarhus. ]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/foedselsvejrtraekning-ve-traening-parhold?holdnr=435061</g:link>
+      <g:image_link>https://www.fof.dk/media/ak1hwuer/vetraening_2_1200x1200-aarhus.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1575.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Fødselsforberedelse</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
+      <g:custom_label_2>Fødselsforberedelse</g:custom_label_2>
+      <g:custom_label_4>Aarhus</g:custom_label_4>
+      <g:start_date>2027-02-22T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Korte kurser</g:custom_label_3>
+      <g:internal_label>['Korte kurser','Starter om &lt; 14 dage','Aarhus C']</g:internal_label>
+    </item>
+<item>
+      <g:id>AAR-435006</g:id>
+      <g:title><![CDATA[Ve-træning]]></g:title>
+      <g:description><![CDATA[Tag til ve-træning ved FOF Aftenskolen Aarhus og forbered dig på fødslen ved at lære at tackle dine veer. ]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/ve-traening?holdnr=435006</g:link>
+      <g:image_link>https://www.fof.dk/media/tinlo44g/vetraening_5_1200x1200-aarhus.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>195.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Fødselsforberedelse</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
+      <g:custom_label_2>Fødselsforberedelse</g:custom_label_2>
+      <g:custom_label_4>Aarhus</g:custom_label_4>
+      <g:start_date>2027-02-23T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Korte kurser</g:custom_label_3>
+      <g:internal_label>['Korte kurser','Starter om &lt; 14 dage','Aarhus C']</g:internal_label>
+    </item>
+<item>
       <g:id>AAR-436876</g:id>
       <g:title><![CDATA[Imran Rashid: Sanseløs - om AI og kampen for det frie sind]]></g:title>
       <g:description><![CDATA[Mød læge og forfatter Imran Rashid til et foredrag i FOF Aarhus om AI, menneskets hjerne og kampen om vores opmærksomhed. ]]></g:description>
@@ -2717,6 +3169,28 @@
       <g:internal_label>['Aarhus C']</g:internal_label>
     </item>
 <item>
+      <g:id>AAR-435092</g:id>
+      <g:title><![CDATA[Yoga og pilates for gravide]]></g:title>
+      <g:description><![CDATA[Ønsker du træning tilpasset den gravide krop? Tilmeld dig på Yoga og pilates for gravide ved FOF Aftenskolen Aarhus. ]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/yoga-og-pilates-for-gravide?holdnr=435092</g:link>
+      <g:image_link>https://www.fof.dk/media/x1mjyyx5/yoga-og-pilates-gravide-fof-aarhus-3.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>895.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Motion for gravide</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
+      <g:custom_label_2>Motion for gravide</g:custom_label_2>
+      <g:custom_label_4>Aarhus</g:custom_label_4>
+      <g:start_date>2027-02-25T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Starter om &lt; 14 dage</g:custom_label_3>
+      <g:internal_label>['Starter om &lt; 14 dage','Aarhus C']</g:internal_label>
+    </item>
+<item>
       <g:id>AAR-436869</g:id>
       <g:title><![CDATA[Pia Callesen: Ro i hovedet]]></g:title>
       <g:description><![CDATA[Kom med til foredrag med psykolog Pia Callesen hos FOF Aarhus. Callesen tager udgangspunkt i metakognitiv terapi og de overbevisende resultater, terapiformen har haft på blandt andet angst og depression | Tilmed dig nu!]]></g:description>
@@ -2736,6 +3210,50 @@
       <g:custom_label_4>Aarhus</g:custom_label_4>
       <g:start_date>2027-02-25T00:00:00.000Z</g:start_date>
       <g:internal_label>['Aarhus C']</g:internal_label>
+    </item>
+<item>
+      <g:id>AAR-435051</g:id>
+      <g:title><![CDATA[Contraction and childbirth class]]></g:title>
+      <g:description><![CDATA[Antenatal classes at FOF Aarhus teach you to handle your contractions and your birth | FOF Aftenskolen Aarhus]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/contraction-and-childbirth-class?holdnr=435051</g:link>
+      <g:image_link>https://www.fof.dk/media/1tbiyi3l/vetraening_3_1200x1200-aarhus.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>195.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Fødselsforberedelse</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
+      <g:custom_label_2>Fødselsforberedelse</g:custom_label_2>
+      <g:custom_label_4>Aarhus</g:custom_label_4>
+      <g:start_date>2027-02-27T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Korte kurser</g:custom_label_3>
+      <g:internal_label>['Korte kurser','In English','Aarhus C']</g:internal_label>
+    </item>
+<item>
+      <g:id>AAR-435007</g:id>
+      <g:title><![CDATA[Ve-træning]]></g:title>
+      <g:description><![CDATA[Tag til ve-træning ved FOF Aftenskolen Aarhus og forbered dig på fødslen ved at lære at tackle dine veer. ]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/ve-traening?holdnr=435007</g:link>
+      <g:image_link>https://www.fof.dk/media/tinlo44g/vetraening_5_1200x1200-aarhus.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>195.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Fødselsforberedelse</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
+      <g:custom_label_2>Fødselsforberedelse</g:custom_label_2>
+      <g:custom_label_4>Aarhus</g:custom_label_4>
+      <g:start_date>2027-02-27T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Korte kurser</g:custom_label_3>
+      <g:internal_label>['Korte kurser','Starter om &lt; 14 dage','Aarhus C']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-436842</g:id>
@@ -2907,6 +3425,48 @@
       <g:internal_label>['Korte kurser','Åbyhøj']</g:internal_label>
     </item>
 <item>
+      <g:id>AAR-435114</g:id>
+      <g:title><![CDATA[Efter-efterfødselstræning]]></g:title>
+      <g:description><![CDATA[Efter-efterfødselstræning ved FOF Aftenskolen Aarhus til dig som har født for 3-12 måneder siden.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/efter-efterfoedselstraening?holdnr=435114</g:link>
+      <g:image_link>https://www.fof.dk/media/vrwfn21y/efterf-4.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1115.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Efterfødselstræning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
+      <g:custom_label_2>Efterfødselstræning</g:custom_label_2>
+      <g:custom_label_4>Åbyhøj</g:custom_label_4>
+      <g:start_date>2027-03-08T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Åbyhøj']</g:internal_label>
+    </item>
+<item>
+      <g:id>AAR-435102</g:id>
+      <g:title><![CDATA[Efterfødselstræning]]></g:title>
+      <g:description><![CDATA[Efterfødselstræning ved FOF Aarhus til dig som har født for 2-12 uger siden (v. kejsersnit 5-12 uger) | FOF Aftenskolen Aarhus]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/efterfoedselstraening?holdnr=435102</g:link>
+      <g:image_link>https://www.fof.dk/media/jhghjyqe/ef80d0-1.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1115.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Efterfødselstræning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
+      <g:custom_label_2>Efterfødselstræning</g:custom_label_2>
+      <g:custom_label_4>Åbyhøj</g:custom_label_4>
+      <g:start_date>2027-03-08T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Åbyhøj']</g:internal_label>
+    </item>
+<item>
       <g:id>AAR-437031</g:id>
       <g:title><![CDATA[Federico García Lorca – En aften med musik og digtning]]></g:title>
       <g:description><![CDATA[Litteraturformidler Nick Madsen og musiker Peter Uldahl åbner en verden af sang, poesi og lidenskab til musikalsk foredrag i FOF Aarhus]]></g:description>
@@ -2925,6 +3485,49 @@
       <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4>Aarhus</g:custom_label_4>
       <g:start_date>2027-03-09T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Aarhus C']</g:internal_label>
+    </item>
+<item>
+      <g:id>AAR-435093</g:id>
+      <g:title><![CDATA[Yoga og pilates for gravide]]></g:title>
+      <g:description><![CDATA[Ønsker du træning tilpasset den gravide krop? Tilmeld dig på Yoga og pilates for gravide ved FOF Aftenskolen Aarhus. ]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/yoga-og-pilates-for-gravide?holdnr=435093</g:link>
+      <g:image_link>https://www.fof.dk/media/x1mjyyx5/yoga-og-pilates-gravide-fof-aarhus-3.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>895.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Motion for gravide</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
+      <g:custom_label_2>Motion for gravide</g:custom_label_2>
+      <g:custom_label_4>Aarhus</g:custom_label_4>
+      <g:start_date>2027-03-09T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Starter om &lt; 14 dage</g:custom_label_3>
+      <g:internal_label>['Starter om &lt; 14 dage','Aarhus C']</g:internal_label>
+    </item>
+<item>
+      <g:id>AAR-435151</g:id>
+      <g:title><![CDATA[Mistet spædbarn (efterfødselstræning)]]></g:title>
+      <g:description><![CDATA[Kurset sigter mod at støtte dig i at være i sorgen og få den nye hverdag til at fungere både fysisk og psykisk | FOF Aftenskolen Aarhus]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/mistet-spaedbarn-efterfoedselstraening?holdnr=435151</g:link>
+      <g:image_link>https://www.fof.dk/media/1e0bli0p/aebleblomst-2_1200x1200-aarhus.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1905.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Efterfødselstræning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
+      <g:custom_label_2>Efterfødselstræning</g:custom_label_2>
+      <g:custom_label_4>Aarhus</g:custom_label_4>
+      <g:start_date>2027-03-10T00:00:00.000Z</g:start_date>
       <g:internal_label>['Aarhus C']</g:internal_label>
     </item>
 <item>
@@ -2949,6 +3552,71 @@
       <g:internal_label>['Aarhus C']</g:internal_label>
     </item>
 <item>
+      <g:id>AAR-435071</g:id>
+      <g:title><![CDATA[Ammeforberedelse]]></g:title>
+      <g:description><![CDATA[Vil du forberede dig til den forestående amning? I FOF Aftenskolen Aarhus kan du gå til ammeforberedelse og lære forskellige ammeteknikker mm. ]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/ammeforberedelse?holdnr=435071</g:link>
+      <g:image_link>https://www.fof.dk/media/pgmge4ol/ammefo-1.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>195.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Fødselsforberedelse</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
+      <g:custom_label_2>Fødselsforberedelse</g:custom_label_2>
+      <g:custom_label_4>Åbyhøj</g:custom_label_4>
+      <g:start_date>2027-03-10T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Korte kurser</g:custom_label_3>
+      <g:internal_label>['Korte kurser','Åbyhøj']</g:internal_label>
+    </item>
+<item>
+      <g:id>AAR-435081</g:id>
+      <g:title><![CDATA[Graviditetstræning]]></g:title>
+      <g:description><![CDATA[Vil du gå til graviditetstræning? Tilmeld dig kurset Træning for gravide ved FOF Aftenskolen Aarhus]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/graviditetstraening?holdnr=435081</g:link>
+      <g:image_link>https://www.fof.dk/media/4zfjqaxp/gravid-i-form_2_1200x1200-aarhus.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1070.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Motion for gravide</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
+      <g:custom_label_2>Motion for gravide</g:custom_label_2>
+      <g:custom_label_4>Åbyhøj</g:custom_label_4>
+      <g:start_date>2027-03-10T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Åbyhøj']</g:internal_label>
+    </item>
+<item>
+      <g:id>AAR-435008</g:id>
+      <g:title><![CDATA[Ve-træning]]></g:title>
+      <g:description><![CDATA[Tag til ve-træning ved FOF Aftenskolen Aarhus og forbered dig på fødslen ved at lære at tackle dine veer. ]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/ve-traening?holdnr=435008</g:link>
+      <g:image_link>https://www.fof.dk/media/tinlo44g/vetraening_5_1200x1200-aarhus.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>195.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Fødselsforberedelse</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
+      <g:custom_label_2>Fødselsforberedelse</g:custom_label_2>
+      <g:custom_label_4>Aarhus</g:custom_label_4>
+      <g:start_date>2027-03-11T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Korte kurser</g:custom_label_3>
+      <g:internal_label>['Korte kurser','Starter om &lt; 14 dage','Aarhus C']</g:internal_label>
+    </item>
+<item>
       <g:id>AAR-435317</g:id>
       <g:title><![CDATA[Stå solidt i livets storme (workshop)]]></g:title>
       <g:description><![CDATA[Få konkrete redskaber til at håndtere uro, tankemylder og stress og stå stærkere i mødet med livets udfordringer i FOF Aarhus.]]></g:description>
@@ -2968,6 +3636,28 @@
       <g:custom_label_4>Aarhus</g:custom_label_4>
       <g:start_date>2027-03-13T00:00:00.000Z</g:start_date>
       <g:internal_label>['Aarhus C']</g:internal_label>
+    </item>
+<item>
+      <g:id>AAR-435062</g:id>
+      <g:title><![CDATA[Fødselsvejrtrækning & ve-træning (parhold)]]></g:title>
+      <g:description><![CDATA[Lær om veer og fødselsvejrtrækning  sammen med din fødselspartner i FOF Aftenskolen Aarhus. ]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/foedselsvejrtraekning-ve-traening-parhold?holdnr=435062</g:link>
+      <g:image_link>https://www.fof.dk/media/ak1hwuer/vetraening_2_1200x1200-aarhus.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1575.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Fødselsforberedelse</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
+      <g:custom_label_2>Fødselsforberedelse</g:custom_label_2>
+      <g:custom_label_4>Åbyhøj</g:custom_label_4>
+      <g:start_date>2027-03-13T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Korte kurser</g:custom_label_3>
+      <g:internal_label>['Korte kurser','Starter om &lt; 14 dage','Åbyhøj']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-437021</g:id>
@@ -3031,6 +3721,28 @@
       <g:custom_label_4>Aarhus</g:custom_label_4>
       <g:start_date>2027-03-16T00:00:00.000Z</g:start_date>
       <g:internal_label>['Aarhus C']</g:internal_label>
+    </item>
+<item>
+      <g:id>AAR-435009</g:id>
+      <g:title><![CDATA[Ve-træning]]></g:title>
+      <g:description><![CDATA[Tag til ve-træning ved FOF Aftenskolen Aarhus og forbered dig på fødslen ved at lære at tackle dine veer. ]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/ve-traening?holdnr=435009</g:link>
+      <g:image_link>https://www.fof.dk/media/tinlo44g/vetraening_5_1200x1200-aarhus.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>195.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Fødselsforberedelse</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
+      <g:custom_label_2>Fødselsforberedelse</g:custom_label_2>
+      <g:custom_label_4>Aarhus</g:custom_label_4>
+      <g:start_date>2027-03-16T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Korte kurser</g:custom_label_3>
+      <g:internal_label>['Korte kurser','Starter om &lt; 14 dage','Aarhus C']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-437000</g:id>
@@ -3117,6 +3829,28 @@
       <g:internal_label>['Aarhus C']</g:internal_label>
     </item>
 <item>
+      <g:id>AAR-435010</g:id>
+      <g:title><![CDATA[Ve-træning]]></g:title>
+      <g:description><![CDATA[Tag til ve-træning ved FOF Aftenskolen Aarhus og forbered dig på fødslen ved at lære at tackle dine veer. ]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/ve-traening?holdnr=435010</g:link>
+      <g:image_link>https://www.fof.dk/media/tinlo44g/vetraening_5_1200x1200-aarhus.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>195.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Fødselsforberedelse</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
+      <g:custom_label_2>Fødselsforberedelse</g:custom_label_2>
+      <g:custom_label_4>Åbyhøj</g:custom_label_4>
+      <g:start_date>2027-03-31T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Korte kurser</g:custom_label_3>
+      <g:internal_label>['Korte kurser','Starter om &lt; 14 dage','Åbyhøj']</g:internal_label>
+    </item>
+<item>
       <g:id>AAR-436870</g:id>
       <g:title><![CDATA[Ditte Young: Hvad kan vi lære af neurodivergente børn og unge?]]></g:title>
       <g:description><![CDATA[Kom med til dette tankevækkende og inspirerende foredrag i FOF Aarhus, hvor Ditte Young åbner for nye perspektiver på neurodivergens hos børn og unge og sætter fokus på de ressourcer, styrker og potentialer, som ofte overses. | Tilmeld dig nu!]]></g:description>
@@ -3201,6 +3935,28 @@
       <g:internal_label>['Aarhus C']</g:internal_label>
     </item>
 <item>
+      <g:id>AAR-435068</g:id>
+      <g:title><![CDATA[Breathing techniques for contractions and childbirth (couples class)]]></g:title>
+      <g:description><![CDATA[Join this childbirth class in Aarhus for couples, taught in English. Learn effective breathing, contraction techniques, birthing positions, and partner support to feel fully prepared for birth.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/breathing-techniques-for-contractions-and-childbirth-couples-class?holdnr=435068</g:link>
+      <g:image_link>https://www.fof.dk/media/lzbh1u2j/foedselsforberedelse.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1575.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Fødselsforberedelse</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
+      <g:custom_label_2>Fødselsforberedelse</g:custom_label_2>
+      <g:custom_label_4>Aarhus</g:custom_label_4>
+      <g:start_date>2027-04-05T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>In English</g:custom_label_3>
+      <g:internal_label>['In English','Aarhus C']</g:internal_label>
+    </item>
+<item>
       <g:id>AAR-436815</g:id>
       <g:title><![CDATA[Prince - Den lilla virtuos]]></g:title>
       <g:description><![CDATA[Kom til foredrag i Aarhus med musikformidler Bjørn Zäll og bliv klogere på legenden Prince | Tilmeld dig nu]]></g:description>
@@ -3220,6 +3976,28 @@
       <g:custom_label_4>Aarhus</g:custom_label_4>
       <g:start_date>2027-04-05T00:00:00.000Z</g:start_date>
       <g:internal_label>['Aarhus C']</g:internal_label>
+    </item>
+<item>
+      <g:id>AAR-435063</g:id>
+      <g:title><![CDATA[Fødselsvejrtrækning & ve-træning (parhold)]]></g:title>
+      <g:description><![CDATA[Lær om veer og fødselsvejrtrækning  sammen med din fødselspartner i FOF Aftenskolen Aarhus. ]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/foedselsvejrtraekning-ve-traening-parhold?holdnr=435063</g:link>
+      <g:image_link>https://www.fof.dk/media/ak1hwuer/vetraening_2_1200x1200-aarhus.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1575.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Fødselsforberedelse</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
+      <g:custom_label_2>Fødselsforberedelse</g:custom_label_2>
+      <g:custom_label_4>Aarhus</g:custom_label_4>
+      <g:start_date>2027-04-06T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Korte kurser</g:custom_label_3>
+      <g:internal_label>['Korte kurser','Starter om &lt; 14 dage','Aarhus C']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-436833</g:id>
@@ -3243,6 +4021,27 @@
       <g:internal_label>['Aarhus C']</g:internal_label>
     </item>
 <item>
+      <g:id>AAR-435115</g:id>
+      <g:title><![CDATA[Efter-efterfødselstræning]]></g:title>
+      <g:description><![CDATA[Efter-efterfødselstræning ved FOF Aftenskolen Aarhus til dig som har født for 3-12 måneder siden.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/efter-efterfoedselstraening?holdnr=435115</g:link>
+      <g:image_link>https://www.fof.dk/media/vrwfn21y/efterf-4.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1115.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Efterfødselstræning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
+      <g:custom_label_2>Efterfødselstræning</g:custom_label_2>
+      <g:custom_label_4>Åbyhøj</g:custom_label_4>
+      <g:start_date>2027-04-07T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Åbyhøj']</g:internal_label>
+    </item>
+<item>
       <g:id>AAR-436871</g:id>
       <g:title><![CDATA[Svend Brinkmann: Som alle andre, som nogle andre, som ingen andre]]></g:title>
       <g:description><![CDATA[Kom til foredrag med Svend Brinkmann hos FOF Aarhus. Mød en af Danmarks mest kendte psykologer og samfundsdebattører | På Dokk1 i Aarhus]]></g:description>
@@ -3262,6 +4061,71 @@
       <g:custom_label_4>Aarhus</g:custom_label_4>
       <g:start_date>2027-04-07T00:00:00.000Z</g:start_date>
       <g:internal_label>['Aarhus C']</g:internal_label>
+    </item>
+<item>
+      <g:id>AAR-435103</g:id>
+      <g:title><![CDATA[Efterfødselstræning]]></g:title>
+      <g:description><![CDATA[Efterfødselstræning ved FOF Aarhus til dig som har født for 2-12 uger siden (v. kejsersnit 5-12 uger) | FOF Aftenskolen Aarhus]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/efterfoedselstraening?holdnr=435103</g:link>
+      <g:image_link>https://www.fof.dk/media/jhghjyqe/ef80d0-1.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1115.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Efterfødselstræning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
+      <g:custom_label_2>Efterfødselstræning</g:custom_label_2>
+      <g:custom_label_4>Åbyhøj</g:custom_label_4>
+      <g:start_date>2027-04-07T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Åbyhøj']</g:internal_label>
+    </item>
+<item>
+      <g:id>AAR-435094</g:id>
+      <g:title><![CDATA[Yoga og pilates for gravide]]></g:title>
+      <g:description><![CDATA[Ønsker du træning tilpasset den gravide krop? Tilmeld dig på Yoga og pilates for gravide ved FOF Aftenskolen Aarhus. ]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/yoga-og-pilates-for-gravide?holdnr=435094</g:link>
+      <g:image_link>https://www.fof.dk/media/x1mjyyx5/yoga-og-pilates-gravide-fof-aarhus-3.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>895.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Motion for gravide</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
+      <g:custom_label_2>Motion for gravide</g:custom_label_2>
+      <g:custom_label_4>Aarhus</g:custom_label_4>
+      <g:start_date>2027-04-08T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Starter om &lt; 14 dage</g:custom_label_3>
+      <g:internal_label>['Starter om &lt; 14 dage','Aarhus C']</g:internal_label>
+    </item>
+<item>
+      <g:id>AAR-435011</g:id>
+      <g:title><![CDATA[Ve-træning]]></g:title>
+      <g:description><![CDATA[Tag til ve-træning ved FOF Aftenskolen Aarhus og forbered dig på fødslen ved at lære at tackle dine veer. ]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/ve-traening?holdnr=435011</g:link>
+      <g:image_link>https://www.fof.dk/media/tinlo44g/vetraening_5_1200x1200-aarhus.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>195.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Fødselsforberedelse</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
+      <g:custom_label_2>Fødselsforberedelse</g:custom_label_2>
+      <g:custom_label_4>Aarhus</g:custom_label_4>
+      <g:start_date>2027-04-08T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Korte kurser</g:custom_label_3>
+      <g:internal_label>['Korte kurser','Starter om &lt; 14 dage','Aarhus C']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-436875</g:id>
@@ -3346,6 +4210,28 @@
       <g:custom_label_4>Aarhus</g:custom_label_4>
       <g:start_date>2027-04-13T00:00:00.000Z</g:start_date>
       <g:internal_label>['Aarhus C']</g:internal_label>
+    </item>
+<item>
+      <g:id>AAR-435012</g:id>
+      <g:title><![CDATA[Ve-træning]]></g:title>
+      <g:description><![CDATA[Tag til ve-træning ved FOF Aftenskolen Aarhus og forbered dig på fødslen ved at lære at tackle dine veer. ]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/ve-traening?holdnr=435012</g:link>
+      <g:image_link>https://www.fof.dk/media/tinlo44g/vetraening_5_1200x1200-aarhus.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>195.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Fødselsforberedelse</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
+      <g:custom_label_2>Fødselsforberedelse</g:custom_label_2>
+      <g:custom_label_4>Åbyhøj</g:custom_label_4>
+      <g:start_date>2027-04-14T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Korte kurser</g:custom_label_3>
+      <g:internal_label>['Korte kurser','Starter om &lt; 14 dage','Åbyhøj']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-436814</g:id>
@@ -3433,6 +4319,28 @@
       <g:internal_label>['Aarhus C']</g:internal_label>
     </item>
 <item>
+      <g:id>AAR-435095</g:id>
+      <g:title><![CDATA[Yoga og pilates for gravide]]></g:title>
+      <g:description><![CDATA[Ønsker du træning tilpasset den gravide krop? Tilmeld dig på Yoga og pilates for gravide ved FOF Aftenskolen Aarhus. ]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/yoga-og-pilates-for-gravide?holdnr=435095</g:link>
+      <g:image_link>https://www.fof.dk/media/x1mjyyx5/yoga-og-pilates-gravide-fof-aarhus-3.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>895.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Motion for gravide</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
+      <g:custom_label_2>Motion for gravide</g:custom_label_2>
+      <g:custom_label_4>Aarhus</g:custom_label_4>
+      <g:start_date>2027-04-20T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Starter om &lt; 14 dage</g:custom_label_3>
+      <g:internal_label>['Starter om &lt; 14 dage','Aarhus C']</g:internal_label>
+    </item>
+<item>
       <g:id>AAR-437016</g:id>
       <g:title><![CDATA[Lene Tanggaard: Vores børn kan langt mere, end vi tror]]></g:title>
       <g:description><![CDATA[Mød Lene Tanggaard, professor i pædagogisk psykologi til foredrag i FOF Aarhus om hvordan vi kan give børn og unge mere ansvar.]]></g:description>
@@ -3452,6 +4360,50 @@
       <g:custom_label_4>Aarhus</g:custom_label_4>
       <g:start_date>2027-04-20T00:00:00.000Z</g:start_date>
       <g:internal_label>['Aarhus C']</g:internal_label>
+    </item>
+<item>
+      <g:id>AAR-435072</g:id>
+      <g:title><![CDATA[Ammeforberedelse]]></g:title>
+      <g:description><![CDATA[Vil du forberede dig til den forestående amning? I FOF Aftenskolen Aarhus kan du gå til ammeforberedelse og lære forskellige ammeteknikker mm. ]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/ammeforberedelse?holdnr=435072</g:link>
+      <g:image_link>https://www.fof.dk/media/pgmge4ol/ammefo-1.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>195.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Fødselsforberedelse</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
+      <g:custom_label_2>Fødselsforberedelse</g:custom_label_2>
+      <g:custom_label_4>Åbyhøj</g:custom_label_4>
+      <g:start_date>2027-04-21T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Korte kurser</g:custom_label_3>
+      <g:internal_label>['Korte kurser','Åbyhøj']</g:internal_label>
+    </item>
+<item>
+      <g:id>AAR-435013</g:id>
+      <g:title><![CDATA[Ve-træning]]></g:title>
+      <g:description><![CDATA[Tag til ve-træning ved FOF Aftenskolen Aarhus og forbered dig på fødslen ved at lære at tackle dine veer. ]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/ve-traening?holdnr=435013</g:link>
+      <g:image_link>https://www.fof.dk/media/tinlo44g/vetraening_5_1200x1200-aarhus.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>195.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Fødselsforberedelse</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
+      <g:custom_label_2>Fødselsforberedelse</g:custom_label_2>
+      <g:custom_label_4>Aarhus</g:custom_label_4>
+      <g:start_date>2027-04-22T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Korte kurser</g:custom_label_3>
+      <g:internal_label>['Korte kurser','Starter om &lt; 14 dage','Aarhus C']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-437036</g:id>
@@ -3537,6 +4489,28 @@
       <g:custom_label_4>Aarhus</g:custom_label_4>
       <g:start_date>2027-04-27T00:00:00.000Z</g:start_date>
       <g:internal_label>['Aarhus C']</g:internal_label>
+    </item>
+<item>
+      <g:id>AAR-435014</g:id>
+      <g:title><![CDATA[Ve-træning]]></g:title>
+      <g:description><![CDATA[Tag til ve-træning ved FOF Aftenskolen Aarhus og forbered dig på fødslen ved at lære at tackle dine veer. ]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/ve-traening?holdnr=435014</g:link>
+      <g:image_link>https://www.fof.dk/media/tinlo44g/vetraening_5_1200x1200-aarhus.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>195.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Fødselsforberedelse</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
+      <g:custom_label_2>Fødselsforberedelse</g:custom_label_2>
+      <g:custom_label_4>Åbyhøj</g:custom_label_4>
+      <g:start_date>2027-04-28T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Korte kurser</g:custom_label_3>
+      <g:internal_label>['Korte kurser','Starter om &lt; 14 dage','Åbyhøj']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-436891</g:id>
@@ -3645,6 +4619,28 @@
       <g:internal_label>['Aarhus C']</g:internal_label>
     </item>
 <item>
+      <g:id>AAR-435064</g:id>
+      <g:title><![CDATA[Fødselsvejrtrækning & ve-træning (parhold)]]></g:title>
+      <g:description><![CDATA[Lær om veer og fødselsvejrtrækning  sammen med din fødselspartner i FOF Aftenskolen Aarhus. ]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/foedselsvejrtraekning-ve-traening-parhold?holdnr=435064</g:link>
+      <g:image_link>https://www.fof.dk/media/ak1hwuer/vetraening_2_1200x1200-aarhus.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1575.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Fødselsforberedelse</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
+      <g:custom_label_2>Fødselsforberedelse</g:custom_label_2>
+      <g:custom_label_4>Åbyhøj</g:custom_label_4>
+      <g:start_date>2027-05-01T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Korte kurser</g:custom_label_3>
+      <g:internal_label>['Korte kurser','Starter om &lt; 14 dage','Åbyhøj']</g:internal_label>
+    </item>
+<item>
       <g:id>AAR-436823</g:id>
       <g:title><![CDATA[Tønder og Møgeltønder - Museum Wegner og Schackenborg Slot]]></g:title>
       <g:description><![CDATA[Oplev Schackenborg Slot og det nye Museum Wegner på heldagstur fra Aarhus. Få kunst, historie, design og frokost med i oplevelsen. Kom med.]]></g:description>
@@ -3664,6 +4660,70 @@
       <g:custom_label_4>Aarhus</g:custom_label_4>
       <g:start_date>2027-05-01T00:00:00.000Z</g:start_date>
       <g:internal_label>['Aarhus C']</g:internal_label>
+    </item>
+<item>
+      <g:id>AAR-435116</g:id>
+      <g:title><![CDATA[Efter-efterfødselstræning]]></g:title>
+      <g:description><![CDATA[Efter-efterfødselstræning ved FOF Aftenskolen Aarhus til dig som har født for 3-12 måneder siden.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/efter-efterfoedselstraening?holdnr=435116</g:link>
+      <g:image_link>https://www.fof.dk/media/vrwfn21y/efterf-4.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1115.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Efterfødselstræning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
+      <g:custom_label_2>Efterfødselstræning</g:custom_label_2>
+      <g:custom_label_4>Åbyhøj</g:custom_label_4>
+      <g:start_date>2027-05-03T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Åbyhøj']</g:internal_label>
+    </item>
+<item>
+      <g:id>AAR-435104</g:id>
+      <g:title><![CDATA[Efterfødselstræning]]></g:title>
+      <g:description><![CDATA[Efterfødselstræning ved FOF Aarhus til dig som har født for 2-12 uger siden (v. kejsersnit 5-12 uger) | FOF Aftenskolen Aarhus]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/efterfoedselstraening?holdnr=435104</g:link>
+      <g:image_link>https://www.fof.dk/media/jhghjyqe/ef80d0-1.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1115.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Efterfødselstræning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
+      <g:custom_label_2>Efterfødselstræning</g:custom_label_2>
+      <g:custom_label_4>Åbyhøj</g:custom_label_4>
+      <g:start_date>2027-05-03T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Åbyhøj']</g:internal_label>
+    </item>
+<item>
+      <g:id>AAR-435015</g:id>
+      <g:title><![CDATA[Ve-træning]]></g:title>
+      <g:description><![CDATA[Tag til ve-træning ved FOF Aftenskolen Aarhus og forbered dig på fødslen ved at lære at tackle dine veer. ]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/ve-traening?holdnr=435015</g:link>
+      <g:image_link>https://www.fof.dk/media/tinlo44g/vetraening_5_1200x1200-aarhus.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>195.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Fødselsforberedelse</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
+      <g:custom_label_2>Fødselsforberedelse</g:custom_label_2>
+      <g:custom_label_4>Aarhus</g:custom_label_4>
+      <g:start_date>2027-05-03T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Korte kurser</g:custom_label_3>
+      <g:internal_label>['Korte kurser','Starter om &lt; 14 dage','Aarhus C']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-437019</g:id>
@@ -3729,6 +4789,28 @@
       <g:internal_label>['Aarhus C']</g:internal_label>
     </item>
 <item>
+      <g:id>AAR-435016</g:id>
+      <g:title><![CDATA[Ve-træning]]></g:title>
+      <g:description><![CDATA[Tag til ve-træning ved FOF Aftenskolen Aarhus og forbered dig på fødslen ved at lære at tackle dine veer. ]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/ve-traening?holdnr=435016</g:link>
+      <g:image_link>https://www.fof.dk/media/tinlo44g/vetraening_5_1200x1200-aarhus.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>195.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Fødselsforberedelse</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
+      <g:custom_label_2>Fødselsforberedelse</g:custom_label_2>
+      <g:custom_label_4>Aarhus</g:custom_label_4>
+      <g:start_date>2027-05-10T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Korte kurser</g:custom_label_3>
+      <g:internal_label>['Korte kurser','Starter om &lt; 14 dage','Aarhus C']</g:internal_label>
+    </item>
+<item>
       <g:id>AAR-436867</g:id>
       <g:title><![CDATA[Troels W. Kjær: Træk stikket – og styrk din hjerne]]></g:title>
       <g:description><![CDATA[Oplev Troels W. Kjær i FOF Aarhus til et spændende foredrag om pauser, hjernen og mental styrke. Bliv klogere på, hvordan pauser styrker læring, trivsel og fokus.]]></g:description>
@@ -3747,6 +4829,48 @@
       <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4>Aarhus</g:custom_label_4>
       <g:start_date>2027-05-10T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Aarhus C']</g:internal_label>
+    </item>
+<item>
+      <g:id>AAR-435059</g:id>
+      <g:title><![CDATA[Fertilitet og kropsbalance – et nænsomt forløb]]></g:title>
+      <g:description><![CDATA[Arbejd med fertilitet hos FOF Aarhus gennem krop, ro og nærvær. Få støtte i et trygt fællesskab med andre kvinder. Tilmeld dig i dag.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/fertilitet-og-kropsbalance-et-naensomt-forloeb?holdnr=435059</g:link>
+      <g:image_link>https://www.fof.dk/media/af4hh415/fertilitet.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1280.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Fødselsforberedelse</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
+      <g:custom_label_2>Fødselsforberedelse</g:custom_label_2>
+      <g:custom_label_4>Aarhus</g:custom_label_4>
+      <g:start_date>2027-05-12T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Aarhus C']</g:internal_label>
+    </item>
+<item>
+      <g:id>AAR-435152</g:id>
+      <g:title><![CDATA[Mistet spædbarn (efterfødselstræning)]]></g:title>
+      <g:description><![CDATA[Kurset sigter mod at støtte dig i at være i sorgen og få den nye hverdag til at fungere både fysisk og psykisk | FOF Aftenskolen Aarhus]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/mistet-spaedbarn-efterfoedselstraening?holdnr=435152</g:link>
+      <g:image_link>https://www.fof.dk/media/1e0bli0p/aebleblomst-2_1200x1200-aarhus.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1905.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Efterfødselstræning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
+      <g:custom_label_2>Efterfødselstræning</g:custom_label_2>
+      <g:custom_label_4>Aarhus</g:custom_label_4>
+      <g:start_date>2027-05-12T00:00:00.000Z</g:start_date>
       <g:internal_label>['Aarhus C']</g:internal_label>
     </item>
 <item>
@@ -3792,6 +4916,28 @@
       <g:internal_label>['Aarhus C']</g:internal_label>
     </item>
 <item>
+      <g:id>AAR-435017</g:id>
+      <g:title><![CDATA[Ve-træning]]></g:title>
+      <g:description><![CDATA[Tag til ve-træning ved FOF Aftenskolen Aarhus og forbered dig på fødslen ved at lære at tackle dine veer. ]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/ve-traening?holdnr=435017</g:link>
+      <g:image_link>https://www.fof.dk/media/tinlo44g/vetraening_5_1200x1200-aarhus.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>195.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Fødselsforberedelse</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
+      <g:custom_label_2>Fødselsforberedelse</g:custom_label_2>
+      <g:custom_label_4>Aarhus</g:custom_label_4>
+      <g:start_date>2027-05-18T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Korte kurser</g:custom_label_3>
+      <g:internal_label>['Korte kurser','Starter om &lt; 14 dage','Aarhus C']</g:internal_label>
+    </item>
+<item>
       <g:id>AAR-437008</g:id>
       <g:title><![CDATA[Ove Korsgaard: Folkeskolens udfordringer]]></g:title>
       <g:description><![CDATA[Hvad skal der til for at redde folkeskolen? Hør professor Ove Korsgaard sætte fokus på skolens udfordringer og veje til forandring. Tilmeld dig foredraget.]]></g:description>
@@ -3811,6 +4957,49 @@
       <g:custom_label_4>Aarhus</g:custom_label_4>
       <g:start_date>2027-05-18T00:00:00.000Z</g:start_date>
       <g:internal_label>['Aarhus C']</g:internal_label>
+    </item>
+<item>
+      <g:id>AAR-435073</g:id>
+      <g:title><![CDATA[Ammeforberedelse]]></g:title>
+      <g:description><![CDATA[Vil du forberede dig til den forestående amning? I FOF Aftenskolen Aarhus kan du gå til ammeforberedelse og lære forskellige ammeteknikker mm. ]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/ammeforberedelse?holdnr=435073</g:link>
+      <g:image_link>https://www.fof.dk/media/pgmge4ol/ammefo-1.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>195.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Fødselsforberedelse</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
+      <g:custom_label_2>Fødselsforberedelse</g:custom_label_2>
+      <g:custom_label_4>Åbyhøj</g:custom_label_4>
+      <g:start_date>2027-05-19T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Korte kurser</g:custom_label_3>
+      <g:internal_label>['Korte kurser','Åbyhøj']</g:internal_label>
+    </item>
+<item>
+      <g:id>AAR-435082</g:id>
+      <g:title><![CDATA[Graviditetstræning]]></g:title>
+      <g:description><![CDATA[Vil du gå til graviditetstræning? Tilmeld dig kurset Træning for gravide ved FOF Aftenskolen Aarhus]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/graviditetstraening?holdnr=435082</g:link>
+      <g:image_link>https://www.fof.dk/media/4zfjqaxp/gravid-i-form_2_1200x1200-aarhus.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1070.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Motion for gravide</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
+      <g:custom_label_2>Motion for gravide</g:custom_label_2>
+      <g:custom_label_4>Åbyhøj</g:custom_label_4>
+      <g:start_date>2027-05-19T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Åbyhøj']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-437003</g:id>
@@ -3834,6 +5023,71 @@
       <g:internal_label>['Aarhus C']</g:internal_label>
     </item>
 <item>
+      <g:id>AAR-435125</g:id>
+      <g:title><![CDATA[Mor/baby-træning i naturen]]></g:title>
+      <g:description><![CDATA[Efterfødselstræning i naturen med fokus på bækkenbund, balance, konditions- og styrketræning | FOF Aftenskolen Aarhus]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/morbaby-traening-i-naturen?holdnr=435125</g:link>
+      <g:image_link>https://www.fof.dk/media/wl4piyzh/mor-barn_3_1200x1200-aarhus.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1115.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Efterfødselstræning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
+      <g:custom_label_2>Efterfødselstræning</g:custom_label_2>
+      <g:custom_label_4>Risskov</g:custom_label_4>
+      <g:start_date>2027-05-20T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Risskov']</g:internal_label>
+    </item>
+<item>
+      <g:id>AAR-435052</g:id>
+      <g:title><![CDATA[Contraction and childbirth class]]></g:title>
+      <g:description><![CDATA[Antenatal classes at FOF Aarhus teach you to handle your contractions and your birth | FOF Aftenskolen Aarhus]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/contraction-and-childbirth-class?holdnr=435052</g:link>
+      <g:image_link>https://www.fof.dk/media/1tbiyi3l/vetraening_3_1200x1200-aarhus.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>195.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Fødselsforberedelse</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
+      <g:custom_label_2>Fødselsforberedelse</g:custom_label_2>
+      <g:custom_label_4>Aarhus</g:custom_label_4>
+      <g:start_date>2027-05-24T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Korte kurser</g:custom_label_3>
+      <g:internal_label>['Korte kurser','In English','Aarhus C']</g:internal_label>
+    </item>
+<item>
+      <g:id>AAR-435018</g:id>
+      <g:title><![CDATA[Ve-træning]]></g:title>
+      <g:description><![CDATA[Tag til ve-træning ved FOF Aftenskolen Aarhus og forbered dig på fødslen ved at lære at tackle dine veer. ]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/ve-traening?holdnr=435018</g:link>
+      <g:image_link>https://www.fof.dk/media/tinlo44g/vetraening_5_1200x1200-aarhus.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>195.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Fødselsforberedelse</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
+      <g:custom_label_2>Fødselsforberedelse</g:custom_label_2>
+      <g:custom_label_4>Åbyhøj</g:custom_label_4>
+      <g:start_date>2027-05-26T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Korte kurser</g:custom_label_3>
+      <g:internal_label>['Korte kurser','Starter om &lt; 14 dage','Åbyhøj']</g:internal_label>
+    </item>
+<item>
       <g:id>AAR-437004</g:id>
       <g:title><![CDATA[Simon Høegmark: I pagt med naturen]]></g:title>
       <g:description><![CDATA[Oplev ph.d. i naturpsykologi Simon Høegmark til foredrag i FOF Aarhus om mental trivsel og pauser i naturen | Tilmeld dig og bliv klogere]]></g:description>
@@ -3853,6 +5107,28 @@
       <g:custom_label_4>Aarhus</g:custom_label_4>
       <g:start_date>2027-05-26T00:00:00.000Z</g:start_date>
       <g:internal_label>['Aarhus C']</g:internal_label>
+    </item>
+<item>
+      <g:id>AAR-435065</g:id>
+      <g:title><![CDATA[Fødselsvejrtrækning & ve-træning (parhold)]]></g:title>
+      <g:description><![CDATA[Lær om veer og fødselsvejrtrækning  sammen med din fødselspartner i FOF Aftenskolen Aarhus. ]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/foedselsvejrtraekning-ve-traening-parhold?holdnr=435065</g:link>
+      <g:image_link>https://www.fof.dk/media/ak1hwuer/vetraening_2_1200x1200-aarhus.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1575.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Fødselsforberedelse</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
+      <g:custom_label_2>Fødselsforberedelse</g:custom_label_2>
+      <g:custom_label_4>Aarhus</g:custom_label_4>
+      <g:start_date>2027-05-31T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Korte kurser</g:custom_label_3>
+      <g:internal_label>['Korte kurser','Starter om &lt; 14 dage','Aarhus C']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-436819</g:id>
@@ -3898,6 +5174,114 @@
       <g:internal_label>['Rabat - Grænseforeningen','Aarhus C']</g:internal_label>
     </item>
 <item>
+      <g:id>AAR-435019</g:id>
+      <g:title><![CDATA[Ve-træning]]></g:title>
+      <g:description><![CDATA[Tag til ve-træning ved FOF Aftenskolen Aarhus og forbered dig på fødslen ved at lære at tackle dine veer. ]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/ve-traening?holdnr=435019</g:link>
+      <g:image_link>https://www.fof.dk/media/tinlo44g/vetraening_5_1200x1200-aarhus.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>195.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Fødselsforberedelse</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
+      <g:custom_label_2>Fødselsforberedelse</g:custom_label_2>
+      <g:custom_label_4>Aarhus</g:custom_label_4>
+      <g:start_date>2027-06-01T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Korte kurser</g:custom_label_3>
+      <g:internal_label>['Korte kurser','Starter om &lt; 14 dage','Aarhus C']</g:internal_label>
+    </item>
+<item>
+      <g:id>AAR-435096</g:id>
+      <g:title><![CDATA[Yoga og pilates for gravide]]></g:title>
+      <g:description><![CDATA[Ønsker du træning tilpasset den gravide krop? Tilmeld dig på Yoga og pilates for gravide ved FOF Aftenskolen Aarhus. ]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/yoga-og-pilates-for-gravide?holdnr=435096</g:link>
+      <g:image_link>https://www.fof.dk/media/x1mjyyx5/yoga-og-pilates-gravide-fof-aarhus-3.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>895.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Motion for gravide</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
+      <g:custom_label_2>Motion for gravide</g:custom_label_2>
+      <g:custom_label_4>Aarhus</g:custom_label_4>
+      <g:start_date>2027-06-01T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Starter om &lt; 14 dage</g:custom_label_3>
+      <g:internal_label>['Starter om &lt; 14 dage','Aarhus C']</g:internal_label>
+    </item>
+<item>
+      <g:id>AAR-435105</g:id>
+      <g:title><![CDATA[Efterfødselstræning]]></g:title>
+      <g:description><![CDATA[Efterfødselstræning ved FOF Aarhus til dig som har født for 2-12 uger siden (v. kejsersnit 5-12 uger) | FOF Aftenskolen Aarhus]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/efterfoedselstraening?holdnr=435105</g:link>
+      <g:image_link>https://www.fof.dk/media/jhghjyqe/ef80d0-1.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1115.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Efterfødselstræning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
+      <g:custom_label_2>Efterfødselstræning</g:custom_label_2>
+      <g:custom_label_4>Åbyhøj</g:custom_label_4>
+      <g:start_date>2027-06-02T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Åbyhøj']</g:internal_label>
+    </item>
+<item>
+      <g:id>AAR-435117</g:id>
+      <g:title><![CDATA[Efter-efterfødselstræning]]></g:title>
+      <g:description><![CDATA[Efter-efterfødselstræning ved FOF Aftenskolen Aarhus til dig som har født for 3-12 måneder siden.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/efter-efterfoedselstraening?holdnr=435117</g:link>
+      <g:image_link>https://www.fof.dk/media/vrwfn21y/efterf-4.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1115.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Efterfødselstræning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
+      <g:custom_label_2>Efterfødselstræning</g:custom_label_2>
+      <g:custom_label_4>Åbyhøj</g:custom_label_4>
+      <g:start_date>2027-06-02T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Åbyhøj']</g:internal_label>
+    </item>
+<item>
+      <g:id>AAR-435097</g:id>
+      <g:title><![CDATA[Yoga og pilates for gravide]]></g:title>
+      <g:description><![CDATA[Ønsker du træning tilpasset den gravide krop? Tilmeld dig på Yoga og pilates for gravide ved FOF Aftenskolen Aarhus. ]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/yoga-og-pilates-for-gravide?holdnr=435097</g:link>
+      <g:image_link>https://www.fof.dk/media/x1mjyyx5/yoga-og-pilates-gravide-fof-aarhus-3.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>895.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Motion for gravide</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
+      <g:custom_label_2>Motion for gravide</g:custom_label_2>
+      <g:custom_label_4>Aarhus</g:custom_label_4>
+      <g:start_date>2027-06-03T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Starter om &lt; 14 dage</g:custom_label_3>
+      <g:internal_label>['Starter om &lt; 14 dage','Aarhus C']</g:internal_label>
+    </item>
+<item>
       <g:id>AAR-437002</g:id>
       <g:title><![CDATA[Koncerttur: Carl Nielsen – en dag i komponistens fodspor]]></g:title>
       <g:description><![CDATA[Tag med FOF Aarhus på dagstur i Carl Nielsens fodspor. Besøg hans barndomshjem og museer i Odense, og nyd en koncert med Odense Symfoniorkester. Kom med.]]></g:description>
@@ -3917,6 +5301,270 @@
       <g:custom_label_4>Aarhus</g:custom_label_4>
       <g:start_date>2027-06-04T00:00:00.000Z</g:start_date>
       <g:internal_label>['Aarhus C']</g:internal_label>
+    </item>
+<item>
+      <g:id>AAR-435020</g:id>
+      <g:title><![CDATA[Ve-træning]]></g:title>
+      <g:description><![CDATA[Tag til ve-træning ved FOF Aftenskolen Aarhus og forbered dig på fødslen ved at lære at tackle dine veer. ]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/ve-traening?holdnr=435020</g:link>
+      <g:image_link>https://www.fof.dk/media/tinlo44g/vetraening_5_1200x1200-aarhus.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>195.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Fødselsforberedelse</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
+      <g:custom_label_2>Fødselsforberedelse</g:custom_label_2>
+      <g:custom_label_4>Åbyhøj</g:custom_label_4>
+      <g:start_date>2027-06-09T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Korte kurser</g:custom_label_3>
+      <g:internal_label>['Korte kurser','Starter om &lt; 14 dage','Åbyhøj']</g:internal_label>
+    </item>
+<item>
+      <g:id>AAR-435074</g:id>
+      <g:title><![CDATA[Ammeforberedelse]]></g:title>
+      <g:description><![CDATA[Vil du forberede dig til den forestående amning? I FOF Aftenskolen Aarhus kan du gå til ammeforberedelse og lære forskellige ammeteknikker mm. ]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/ammeforberedelse?holdnr=435074</g:link>
+      <g:image_link>https://www.fof.dk/media/pgmge4ol/ammefo-1.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>195.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Fødselsforberedelse</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
+      <g:custom_label_2>Fødselsforberedelse</g:custom_label_2>
+      <g:custom_label_4>Åbyhøj</g:custom_label_4>
+      <g:start_date>2027-06-16T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Korte kurser</g:custom_label_3>
+      <g:internal_label>['Korte kurser','Åbyhøj']</g:internal_label>
+    </item>
+<item>
+      <g:id>AAR-435021</g:id>
+      <g:title><![CDATA[Ve-træning]]></g:title>
+      <g:description><![CDATA[Tag til ve-træning ved FOF Aftenskolen Aarhus og forbered dig på fødslen ved at lære at tackle dine veer. ]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/ve-traening?holdnr=435021</g:link>
+      <g:image_link>https://www.fof.dk/media/tinlo44g/vetraening_5_1200x1200-aarhus.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>195.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Fødselsforberedelse</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
+      <g:custom_label_2>Fødselsforberedelse</g:custom_label_2>
+      <g:custom_label_4>Aarhus</g:custom_label_4>
+      <g:start_date>2027-06-19T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Korte kurser</g:custom_label_3>
+      <g:internal_label>['Korte kurser','Starter om &lt; 14 dage','Aarhus C']</g:internal_label>
+    </item>
+<item>
+      <g:id>AAR-435053</g:id>
+      <g:title><![CDATA[Contraction and childbirth class]]></g:title>
+      <g:description><![CDATA[Antenatal classes at FOF Aarhus teach you to handle your contractions and your birth | FOF Aftenskolen Aarhus]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/contraction-and-childbirth-class?holdnr=435053</g:link>
+      <g:image_link>https://www.fof.dk/media/1tbiyi3l/vetraening_3_1200x1200-aarhus.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>195.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Fødselsforberedelse</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
+      <g:custom_label_2>Fødselsforberedelse</g:custom_label_2>
+      <g:custom_label_4>Aarhus</g:custom_label_4>
+      <g:start_date>2027-06-19T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Korte kurser</g:custom_label_3>
+      <g:internal_label>['Korte kurser','In English','Aarhus C']</g:internal_label>
+    </item>
+<item>
+      <g:id>AAR-435022</g:id>
+      <g:title><![CDATA[Ve-træning]]></g:title>
+      <g:description><![CDATA[Tag til ve-træning ved FOF Aftenskolen Aarhus og forbered dig på fødslen ved at lære at tackle dine veer. ]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/ve-traening?holdnr=435022</g:link>
+      <g:image_link>https://www.fof.dk/media/tinlo44g/vetraening_5_1200x1200-aarhus.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>195.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Fødselsforberedelse</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
+      <g:custom_label_2>Fødselsforberedelse</g:custom_label_2>
+      <g:custom_label_4>Åbyhøj</g:custom_label_4>
+      <g:start_date>2027-06-23T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Korte kurser</g:custom_label_3>
+      <g:internal_label>['Korte kurser','Starter om &lt; 14 dage','Åbyhøj']</g:internal_label>
+    </item>
+<item>
+      <g:id>AAR-435066</g:id>
+      <g:title><![CDATA[Fødselsvejrtrækning & ve-træning (parhold)]]></g:title>
+      <g:description><![CDATA[Lær om veer og fødselsvejrtrækning  sammen med din fødselspartner i FOF Aftenskolen Aarhus. ]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/foedselsvejrtraekning-ve-traening-parhold?holdnr=435066</g:link>
+      <g:image_link>https://www.fof.dk/media/ak1hwuer/vetraening_2_1200x1200-aarhus.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1575.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Fødselsforberedelse</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
+      <g:custom_label_2>Fødselsforberedelse</g:custom_label_2>
+      <g:custom_label_4>Åbyhøj</g:custom_label_4>
+      <g:start_date>2027-06-26T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Korte kurser</g:custom_label_3>
+      <g:internal_label>['Korte kurser','Starter om &lt; 14 dage','Åbyhøj']</g:internal_label>
+    </item>
+<item>
+      <g:id>AAR-435023</g:id>
+      <g:title><![CDATA[Ve-træning]]></g:title>
+      <g:description><![CDATA[Tag til ve-træning ved FOF Aftenskolen Aarhus og forbered dig på fødslen ved at lære at tackle dine veer. ]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/ve-traening?holdnr=435023</g:link>
+      <g:image_link>https://www.fof.dk/media/tinlo44g/vetraening_5_1200x1200-aarhus.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>195.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Fødselsforberedelse</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
+      <g:custom_label_2>Fødselsforberedelse</g:custom_label_2>
+      <g:custom_label_4>Aarhus</g:custom_label_4>
+      <g:start_date>2027-06-28T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Korte kurser</g:custom_label_3>
+      <g:internal_label>['Korte kurser','Starter om &lt; 14 dage','Aarhus C']</g:internal_label>
+    </item>
+<item>
+      <g:id>AAR-435024</g:id>
+      <g:title><![CDATA[Ve-træning]]></g:title>
+      <g:description><![CDATA[Tag til ve-træning ved FOF Aftenskolen Aarhus og forbered dig på fødslen ved at lære at tackle dine veer. ]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/ve-traening?holdnr=435024</g:link>
+      <g:image_link>https://www.fof.dk/media/tinlo44g/vetraening_5_1200x1200-aarhus.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>195.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Fødselsforberedelse</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
+      <g:custom_label_2>Fødselsforberedelse</g:custom_label_2>
+      <g:custom_label_4>Aarhus</g:custom_label_4>
+      <g:start_date>2027-07-01T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Korte kurser</g:custom_label_3>
+      <g:internal_label>['Korte kurser','Starter om &lt; 14 dage','Aarhus C']</g:internal_label>
+    </item>
+<item>
+      <g:id>AAR-435075</g:id>
+      <g:title><![CDATA[Ammeforberedelse]]></g:title>
+      <g:description><![CDATA[Vil du forberede dig til den forestående amning? I FOF Aftenskolen Aarhus kan du gå til ammeforberedelse og lære forskellige ammeteknikker mm. ]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/ammeforberedelse?holdnr=435075</g:link>
+      <g:image_link>https://www.fof.dk/media/pgmge4ol/ammefo-1.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>195.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Fødselsforberedelse</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
+      <g:custom_label_2>Fødselsforberedelse</g:custom_label_2>
+      <g:custom_label_4>Åbyhøj</g:custom_label_4>
+      <g:start_date>2027-07-03T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Korte kurser</g:custom_label_3>
+      <g:internal_label>['Korte kurser','Åbyhøj']</g:internal_label>
+    </item>
+<item>
+      <g:id>AAR-435025</g:id>
+      <g:title><![CDATA[Ve-træning]]></g:title>
+      <g:description><![CDATA[Tag til ve-træning ved FOF Aftenskolen Aarhus og forbered dig på fødslen ved at lære at tackle dine veer. ]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/ve-traening?holdnr=435025</g:link>
+      <g:image_link>https://www.fof.dk/media/tinlo44g/vetraening_5_1200x1200-aarhus.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>195.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Fødselsforberedelse</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
+      <g:custom_label_2>Fødselsforberedelse</g:custom_label_2>
+      <g:custom_label_4>Aarhus</g:custom_label_4>
+      <g:start_date>2027-07-05T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Korte kurser</g:custom_label_3>
+      <g:internal_label>['Korte kurser','Starter om &lt; 14 dage','Aarhus C']</g:internal_label>
+    </item>
+<item>
+      <g:id>AAR-435026</g:id>
+      <g:title><![CDATA[Ve-træning]]></g:title>
+      <g:description><![CDATA[Tag til ve-træning ved FOF Aftenskolen Aarhus og forbered dig på fødslen ved at lære at tackle dine veer. ]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/ve-traening?holdnr=435026</g:link>
+      <g:image_link>https://www.fof.dk/media/tinlo44g/vetraening_5_1200x1200-aarhus.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>195.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Fødselsforberedelse</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
+      <g:custom_label_2>Fødselsforberedelse</g:custom_label_2>
+      <g:custom_label_4>Aarhus</g:custom_label_4>
+      <g:start_date>2027-07-08T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Korte kurser</g:custom_label_3>
+      <g:internal_label>['Korte kurser','Starter om &lt; 14 dage','Aarhus C']</g:internal_label>
+    </item>
+<item>
+      <g:id>AAR-435027</g:id>
+      <g:title><![CDATA[Ve-træning]]></g:title>
+      <g:description><![CDATA[Tag til ve-træning ved FOF Aftenskolen Aarhus og forbered dig på fødslen ved at lære at tackle dine veer. ]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/ve-traening?holdnr=435027</g:link>
+      <g:image_link>https://www.fof.dk/media/tinlo44g/vetraening_5_1200x1200-aarhus.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>195.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Fødselsforberedelse</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
+      <g:custom_label_2>Fødselsforberedelse</g:custom_label_2>
+      <g:custom_label_4>Aarhus</g:custom_label_4>
+      <g:start_date>2027-07-12T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Korte kurser</g:custom_label_3>
+      <g:internal_label>['Korte kurser','Starter om &lt; 14 dage','Aarhus C']</g:internal_label>
     </item>
 </channel>
 </rss>
