@@ -6,28 +6,6 @@
 <description>Meta produktfeed med alle ledige hold fra FOF Sydøstjylland</description>
 <language>da-DK</language>
 <item>
-      <g:id>SOJ-269071</g:id>
-      <g:title><![CDATA[Blid Yoga for alle - Prøvetime]]></g:title>
-      <g:description><![CDATA[Gå til blid yoga i Vejle, Skanderborg og Hedensted. Skånsom og rolig yoga med fokus på afspænding, balance, smidighed og mental ro. Yoga for begyndere, letøvede og hensyn.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-sydoestjylland/blid-yoga?holdnr=269071</g:link>
-      <g:image_link>https://www.fof.dk/media/ewkl4hli/blid-yoga.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>0.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Sydøstjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Yoga</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Yoga</g:custom_label_2>
-      <g:custom_label_4>Vejle</g:custom_label_4>
-      <g:start_date>2026-11-09T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Starter snart</g:custom_label_3>
-      <g:internal_label>['Starter snart','Vejle']</g:internal_label>
-    </item>
-<item>
       <g:id>SOJ-267004</g:id>
       <g:title><![CDATA[Blid Yoga for alle]]></g:title>
       <g:description><![CDATA[Gå til blid yoga i Vejle, Skanderborg og Hedensted. Skånsom og rolig yoga med fokus på afspænding, balance, smidighed og mental ro. Yoga for begyndere, letøvede og hensyn.]]></g:description>
@@ -464,8 +442,8 @@
       <g:custom_label_2>Vegetarisk og vegansk</g:custom_label_2>
       <g:custom_label_4>Horsens</g:custom_label_4>
       <g:start_date>2026-11-24T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Workshops</g:custom_label_3>
-      <g:internal_label>['Workshops','Horsens']</g:internal_label>
+      <g:custom_label_3>Starter snart</g:custom_label_3>
+      <g:internal_label>['Starter snart','Workshops','Horsens']</g:internal_label>
     </item>
 <item>
       <g:id>SOJ-269702</g:id>
@@ -486,7 +464,8 @@
       <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4>Vejle</g:custom_label_4>
       <g:start_date>2026-11-24T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Vejle']</g:internal_label>
+      <g:custom_label_3>Starter snart</g:custom_label_3>
+      <g:internal_label>['Starter snart','Vejle']</g:internal_label>
     </item>
 <item>
       <g:id>SOJ-265297</g:id>
@@ -599,28 +578,6 @@
       <g:internal_label>['Workshops','Horsens']</g:internal_label>
     </item>
 <item>
-      <g:id>SOJ-265015</g:id>
-      <g:title><![CDATA[Restorativ Yoga/Yoga i hvile ]]></g:title>
-      <g:description><![CDATA[Oplev restorativ yoga i Horsens – blid yoga med fokus på ro, afspænding og stressreduktion. For alle niveauer. Tilmeld dig og find balance i hverdagen.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-sydoestjylland/restorativ-yoga-workshop?holdnr=265015</g:link>
-      <g:image_link>https://www.fof.dk/media/fwvbkubq/restorativ-yoga-1-fof-sydoestjylland.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>340.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Sydøstjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Yoga</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Yoga</g:custom_label_2>
-      <g:custom_label_4>Horsens</g:custom_label_4>
-      <g:start_date>2026-12-05T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Workshops</g:custom_label_3>
-      <g:internal_label>['Workshops','Horsens']</g:internal_label>
-    </item>
-<item>
       <g:id>SOJ-265707</g:id>
       <g:title><![CDATA[Julekoncert - Marie Carmen Koppel]]></g:title>
       <g:description><![CDATA[Tag hul på julen med en stemningsfuld julekoncert i Horsens. Oplev Marie Carmen Koppel live i Sønderbro Kirke.]]></g:description>
@@ -641,6 +598,28 @@
       <g:start_date>2026-12-05T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Jul og nytår</g:custom_label_3>
       <g:internal_label>['Jul og nytår','Horsens']</g:internal_label>
+    </item>
+<item>
+      <g:id>SOJ-265015</g:id>
+      <g:title><![CDATA[Restorativ Yoga/Yoga i hvile ]]></g:title>
+      <g:description><![CDATA[Oplev restorativ yoga i Horsens – blid yoga med fokus på ro, afspænding og stressreduktion. For alle niveauer. Tilmeld dig og find balance i hverdagen.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydoestjylland/restorativ-yoga-workshop?holdnr=265015</g:link>
+      <g:image_link>https://www.fof.dk/media/fwvbkubq/restorativ-yoga-1-fof-sydoestjylland.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>340.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydøstjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Yoga</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Horsens</g:custom_label_4>
+      <g:start_date>2026-12-05T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Workshops</g:custom_label_3>
+      <g:internal_label>['Workshops','Horsens']</g:internal_label>
     </item>
 <item>
       <g:id>SOJ-269093</g:id>
@@ -925,6 +904,27 @@
       <g:internal_label>['Brædstrup']</g:internal_label>
     </item>
 <item>
+      <g:id>SOJ-270662</g:id>
+      <g:title><![CDATA[Guitar (akustisk)]]></g:title>
+      <g:description><![CDATA[Få professionel akustisk guitarundervisning i Horsens. Lær akkorder, rytmik og strumming i trygge rammer – for begyndere og let øvede.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydoestjylland/guitar-akustisk?holdnr=270662</g:link>
+      <g:image_link>https://www.fof.dk/media/sa2aqimq/syning-1.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1790.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydøstjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Musik og sang &gt; Strengeinstrumenter</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Musik og sang</g:custom_label_1>
+      <g:custom_label_2>Strengeinstrumenter</g:custom_label_2>
+      <g:custom_label_4>Brædstrup</g:custom_label_4>
+      <g:start_date>2027-01-11T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Brædstrup']</g:internal_label>
+    </item>
+<item>
       <g:id>SOJ-272648</g:id>
       <g:title><![CDATA[Sang og stemmetræning]]></g:title>
       <g:description><![CDATA[Få sang- og stemmetræning hos FOF Sydøstjylland]]></g:description>
@@ -962,27 +962,6 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Musik og sang</g:custom_label_1>
       <g:custom_label_2>Sang og stemmetræning</g:custom_label_2>
-      <g:custom_label_4>Brædstrup</g:custom_label_4>
-      <g:start_date>2027-01-11T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Brædstrup']</g:internal_label>
-    </item>
-<item>
-      <g:id>SOJ-270662</g:id>
-      <g:title><![CDATA[Guitar (akustisk)]]></g:title>
-      <g:description><![CDATA[Få professionel akustisk guitarundervisning i Horsens. Lær akkorder, rytmik og strumming i trygge rammer – for begyndere og let øvede.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-sydoestjylland/guitar-akustisk?holdnr=270662</g:link>
-      <g:image_link>https://www.fof.dk/media/sa2aqimq/syning-1.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1790.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Sydøstjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Musik og sang &gt; Strengeinstrumenter</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Musik og sang</g:custom_label_1>
-      <g:custom_label_2>Strengeinstrumenter</g:custom_label_2>
       <g:custom_label_4>Brædstrup</g:custom_label_4>
       <g:start_date>2027-01-11T00:00:00.000Z</g:start_date>
       <g:internal_label>['Brædstrup']</g:internal_label>
@@ -2540,6 +2519,27 @@
       <g:internal_label>['Skanderborg']</g:internal_label>
     </item>
 <item>
+      <g:id>SOJ-270627</g:id>
+      <g:title><![CDATA[Harmonika ]]></g:title>
+      <g:description><![CDATA[Få harmonikaundervisning i Horsens for begyndere og let øvede. Lær harmonika i dit eget tempo med personlig undervisning og musikglæde.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydoestjylland/harmonika-6-moedegange?holdnr=270627</g:link>
+      <g:image_link>https://www.fof.dk/media/dodfnol2/harmonika-5.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>620.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydøstjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Musik og sang &gt; Klaver og harmonika</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Musik og sang</g:custom_label_1>
+      <g:custom_label_2>Klaver og harmonika</g:custom_label_2>
+      <g:custom_label_4>Horsens</g:custom_label_4>
+      <g:start_date>2027-03-31T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Horsens']</g:internal_label>
+    </item>
+<item>
       <g:id>SOJ-270722</g:id>
       <g:title><![CDATA[En aften med højskolesange - Sascha Dupont]]></g:title>
       <g:description><![CDATA[Oplev en aften med FOF Sydøstjylland i Horsens, hvor vi inviterer dig til en hjertevarm sangaften, der hylder den danske sangtradition. Kom og vær med, når vi samles i fællesskab omkring Højskolesangbogen på Horsens VUC og lad os sammen skabe en aften fyldt med musik og fællesskab.]]></g:description>
@@ -2560,27 +2560,6 @@
       <g:start_date>2027-03-31T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Gaveidéer</g:custom_label_3>
       <g:internal_label>['Gaveidéer','Horsens']</g:internal_label>
-    </item>
-<item>
-      <g:id>SOJ-270627</g:id>
-      <g:title><![CDATA[Harmonika ]]></g:title>
-      <g:description><![CDATA[Få harmonikaundervisning i Horsens for begyndere og let øvede. Lær harmonika i dit eget tempo med personlig undervisning og musikglæde.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-sydoestjylland/harmonika-6-moedegange?holdnr=270627</g:link>
-      <g:image_link>https://www.fof.dk/media/dodfnol2/harmonika-5.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>620.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Sydøstjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Musik og sang &gt; Klaver og harmonika</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Musik og sang</g:custom_label_1>
-      <g:custom_label_2>Klaver og harmonika</g:custom_label_2>
-      <g:custom_label_4>Horsens</g:custom_label_4>
-      <g:start_date>2027-03-31T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Horsens']</g:internal_label>
     </item>
 <item>
       <g:id>SOJ-274631</g:id>

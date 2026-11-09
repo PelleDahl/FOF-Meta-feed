@@ -6,50 +6,6 @@
 <description>Meta produktfeed med alle ledige hold fra FOF Aarhus</description>
 <language>da-DK</language>
 <item>
-      <g:id>AAR-423590</g:id>
-      <g:title><![CDATA[Groft, grønt og fyldt med fiber]]></g:title>
-      <g:description><![CDATA[Lær at lave sunde og nemme hverdagsretter med mere grønt Har du lyst til at spise mere grønt og få flere fibre ind i hverdagen, men mangler inspiration til at komme i gang? Så er dette kursus noget for dig. Fibre er afgørende for en sund fordøjelse, og både korn og bælgfrugter er gode kilder til både protein og fibre. På kurset arbejder vi med at forvandle korn, grøntsager, bælgfrugter og krydderier til velsmagende og mættende retter, der er sunde og budgetvenlige alternativer til klassiske hverdagsretter. Kurset fokuserer på sunde økologiske valg og hvordan de påvirker dit mikrobiom – de mange milliarder af bakterier i din mave, som har stor betydning for dit helbred. På kurset vil du: lære at bruge korn, grøntsager og bælgfrugter i din daglige madlavning. få inspiration til sunde og enkle hverdagsretter. få viden om mikrobiomet og kostens betydning for fordøjelsen. få praktiske tips til valg og tilberedning af gode råvarer. Kan alle tilmelde sig Groft, grønt og fiberrigt ? Alle kan deltage uanset erfaring i køkkenet. Vi arbejder udelukkende med økologiske, uforarbejdede råvarer, og du får selvfølgelig opskrifter med hjem. Praktisk information Alle råvarer er inkluderet i kursusprisen.&nbsp;]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/groft-groent-og-fyldt-med-fiber?holdnr=423590</g:link>
-      <g:image_link>https://www.fof.dk/media/3ialiffm/groft_groent_og_fiberigt_madlavningskursus_fof_aarhus_1200x1200.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>675.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Aarhus</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Madlavning og drikkevarer &gt; Vegetarisk og vegansk</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
-      <g:custom_label_2>Vegetarisk og vegansk</g:custom_label_2>
-      <g:custom_label_4>Aarhus</g:custom_label_4>
-      <g:start_date>2026-11-09T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Starter om &lt; 14 dage</g:custom_label_3>
-      <g:internal_label>['Starter om &lt; 14 dage','Korte kurser','Aarhus C']</g:internal_label>
-    </item>
-<item>
-      <g:id>AAR-422803</g:id>
-      <g:title><![CDATA[AI for begyndere]]></g:title>
-      <g:description><![CDATA[Kom godt i gang med AI i FOF Aarhus. Lær at bruge ChatGPT, Gemini og Claude til hverdagens opgaver på et kursus for begyndere.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/ai-for-begyndere?holdnr=422803</g:link>
-      <g:image_link>https://www.fof.dk/media/jnudgjxc/ai_for_begyndere_it_kursus_fof_aarhus_1200x1200_ai_genereret_billede.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>475.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Aarhus</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; It og foto &gt; Kunstig intelligens - AI</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>It og foto</g:custom_label_1>
-      <g:custom_label_2>Kunstig intelligens - AI</g:custom_label_2>
-      <g:custom_label_4>Aarhus</g:custom_label_4>
-      <g:start_date>2026-11-09T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Korte kurser</g:custom_label_3>
-      <g:internal_label>['Korte kurser','Starter om &lt; 14 dage','Aarhus C']</g:internal_label>
-    </item>
-<item>
       <g:id>AAR-426965</g:id>
       <g:title><![CDATA[Marianne Vihøj: Kvalitetssikring i uddannelse]]></g:title>
       <g:description><![CDATA[Oplev et aktuelt foredrag i Aarhus med Marianne Vihøj om kvalitetssikring i uddannelse, skolereformen og hvordan kvalitetsbegrebet har udviklet sig fra industrien til folkeskolen.]]></g:description>
@@ -905,7 +861,8 @@
       <g:custom_label_2>Fest- og hverdagsmad</g:custom_label_2>
       <g:custom_label_4>Aarhus</g:custom_label_4>
       <g:start_date>2026-11-24T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Aarhus C']</g:internal_label>
+      <g:custom_label_3>Starter om &lt; 14 dage</g:custom_label_3>
+      <g:internal_label>['Starter om &lt; 14 dage','Aarhus C']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-425073</g:id>
@@ -1316,7 +1273,8 @@
       <g:custom_label_2>Fest- og hverdagsmad</g:custom_label_2>
       <g:custom_label_4>Aarhus</g:custom_label_4>
       <g:start_date>2026-12-01T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Aarhus C']</g:internal_label>
+      <g:custom_label_3>Starter om &lt; 14 dage</g:custom_label_3>
+      <g:internal_label>['Starter om &lt; 14 dage','Aarhus C']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-423913</g:id>
@@ -1555,7 +1513,8 @@
       <g:custom_label_2>Fest- og hverdagsmad</g:custom_label_2>
       <g:custom_label_4>Aarhus</g:custom_label_4>
       <g:start_date>2026-12-08T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Aarhus C']</g:internal_label>
+      <g:custom_label_3>Starter om &lt; 14 dage</g:custom_label_3>
+      <g:internal_label>['Starter om &lt; 14 dage','Aarhus C']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-427113</g:id>
@@ -2716,14 +2675,14 @@
       <g:internal_label>['Aarhus C']</g:internal_label>
     </item>
 <item>
-      <g:id>AAR-436822</g:id>
-      <g:title><![CDATA[Stine Pilgaard – om hverdagslivet, humoren og litteraturen]]></g:title>
-      <g:description><![CDATA[Oplev Stine Pilgaard i Musikhuset Aarhus, hvor hun fortæller om livet, kærligheden og litteraturen med humor og sproglig skarphed. Kom med til en særlig aften.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/stine-pilgaard-om-hverdagslivet-humoren-og-litteraturen?holdnr=436822</g:link>
-      <g:image_link>https://www.fof.dk/media/lxjjyfqa/stine-pilgaard-foredrag-aarhus_foto-alexander-banck-petersen.jpg?width=1200</g:image_link>
+      <g:id>AAR-436885</g:id>
+      <g:title><![CDATA[Kunsten at investere i kunst]]></g:title>
+      <g:description><![CDATA[Kom til foredrag med direktør og auktionsleder i Bruun Rasmussen Kasper Nielsen om kunst og kunsthandlens fascinerende verden | FOF Aarhus | Tilmeld dig nu]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/kunsten-at-investere-i-kunst?holdnr=436885</g:link>
+      <g:image_link>https://www.fof.dk/media/ljzjzrzl/kasper_nielsen_foredrag_fof_aarhus_1200x1200.jpg?width=1200</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:quantity>1</g:quantity>
-      <g:price>250.00 DKK</g:price>
+      <g:price>185.00 DKK</g:price>
       <g:condition>new</g:condition>
       <g:brand>FOF Aarhus</g:brand>
       <g:google_product_category>Education</g:google_product_category>
@@ -2737,14 +2696,14 @@
       <g:internal_label>['Aarhus C']</g:internal_label>
     </item>
 <item>
-      <g:id>AAR-436885</g:id>
-      <g:title><![CDATA[Kunsten at investere i kunst]]></g:title>
-      <g:description><![CDATA[Kom til foredrag med direktør og auktionsleder i Bruun Rasmussen Kasper Nielsen om kunst og kunsthandlens fascinerende verden | FOF Aarhus | Tilmeld dig nu]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/kunsten-at-investere-i-kunst?holdnr=436885</g:link>
-      <g:image_link>https://www.fof.dk/media/ljzjzrzl/kasper_nielsen_foredrag_fof_aarhus_1200x1200.jpg?width=1200</g:image_link>
+      <g:id>AAR-436822</g:id>
+      <g:title><![CDATA[Stine Pilgaard – om hverdagslivet, humoren og litteraturen]]></g:title>
+      <g:description><![CDATA[Oplev Stine Pilgaard i Musikhuset Aarhus, hvor hun fortæller om livet, kærligheden og litteraturen med humor og sproglig skarphed. Kom med til en særlig aften.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/stine-pilgaard-om-hverdagslivet-humoren-og-litteraturen?holdnr=436822</g:link>
+      <g:image_link>https://www.fof.dk/media/lxjjyfqa/stine-pilgaard-foredrag-aarhus_foto-alexander-banck-petersen.jpg?width=1200</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:quantity>1</g:quantity>
-      <g:price>185.00 DKK</g:price>
+      <g:price>250.00 DKK</g:price>
       <g:condition>new</g:condition>
       <g:brand>FOF Aarhus</g:brand>
       <g:google_product_category>Education</g:google_product_category>
@@ -3158,27 +3117,6 @@
       <g:internal_label>['Aarhus C']</g:internal_label>
     </item>
 <item>
-      <g:id>AAR-436889</g:id>
-      <g:title><![CDATA[Vejen til en selvforsynende have]]></g:title>
-      <g:description><![CDATA[Mød Lotte og Per, indehavere af Permahaven Bakkely, til et foredrag i FOF Aarhus om den selvforsynende køkkenhave | Tilmeld dig og bliv klogere]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/vejen-til-en-selvforsynende-have?holdnr=436889</g:link>
-      <g:image_link>https://www.fof.dk/media/j15bc1n0/lotte_og_per_foredrag_selvforsynende_fof_aarhus_1200x1200.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>195.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Aarhus</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Foredrag, debat og højskoler &gt; Natur og haver</g:product_type>
-      <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
-      <g:custom_label_1>Natur og haver</g:custom_label_1>
-      <g:custom_label_2></g:custom_label_2>
-      <g:custom_label_4>Aarhus</g:custom_label_4>
-      <g:start_date>2027-03-31T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Aarhus C']</g:internal_label>
-    </item>
-<item>
       <g:id>AAR-436870</g:id>
       <g:title><![CDATA[Ditte Young: Hvad kan vi lære af neurodivergente børn og unge?]]></g:title>
       <g:description><![CDATA[Kom med til dette tankevækkende og inspirerende foredrag i FOF Aarhus, hvor Ditte Young åbner for nye perspektiver på neurodivergens hos børn og unge og sætter fokus på de ressourcer, styrker og potentialer, som ofte overses. | Tilmeld dig nu!]]></g:description>
@@ -3194,6 +3132,27 @@
       <g:product_type>Foredrag, debat og højskoler &gt; Sundhed og eksistens</g:product_type>
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Sundhed og eksistens</g:custom_label_1>
+      <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Aarhus</g:custom_label_4>
+      <g:start_date>2027-03-31T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Aarhus C']</g:internal_label>
+    </item>
+<item>
+      <g:id>AAR-436889</g:id>
+      <g:title><![CDATA[Vejen til en selvforsynende have]]></g:title>
+      <g:description><![CDATA[Mød Lotte og Per, indehavere af Permahaven Bakkely, til et foredrag i FOF Aarhus om den selvforsynende køkkenhave | Tilmeld dig og bliv klogere]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/vejen-til-en-selvforsynende-have?holdnr=436889</g:link>
+      <g:image_link>https://www.fof.dk/media/j15bc1n0/lotte_og_per_foredrag_selvforsynende_fof_aarhus_1200x1200.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>195.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Foredrag, debat og højskoler &gt; Natur og haver</g:product_type>
+      <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
+      <g:custom_label_1>Natur og haver</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4>Aarhus</g:custom_label_4>
       <g:start_date>2027-03-31T00:00:00.000Z</g:start_date>

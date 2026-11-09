@@ -1,30 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:g="http://base.google.com/ns/1.0" version="2.0">
 <channel>
-<title>FOF Odder – Produktfeed</title>
+<title>fof-odder – Produktfeed</title>
 <link>https://www.fof.dk/fof-odder</link>
-<description>Meta produktfeed med alle ledige hold fra FOF Odder</description>
+<description>Meta produktfeed med alle ledige hold fra fof-odder</description>
 <language>da-DK</language>
-<item>
-      <g:id>ODD-26267</g:id>
-      <g:title><![CDATA[Sundhedsworkshop]]></g:title>
-      <g:description><![CDATA[Ved du at tarmen er vores anden hjerne? Kom og vær med til en aften hvor vi giver bud ind i af få hormoner, celler og tarm i balance! Tager du kosttilskud som Omega-3 eller kostfibre? Ved du hvorfor disse er super vigtige? om de faktisk virker ind i din krop – altså blot på indhold? Hvad med at få det testet i stedet for at gætte? Vi vil dele vores viden om hvor vigtigt det er med gode cellemembraner, et godt økosystem i tarmen samt optagelige vitaminer, mineraler, aminosyrer og hvor vigtige det er for vores hormoner Du vil få tips til, hvordan du kan styrke dit helbred indefra. • Gitte Lykke fortæller om cellernes og hormoners rolle i at holde inflammation væk, så vi kan håndtere livsstilsygdomme. • Hans Erik vil fortælle om tarmen, som videnskaben anerkender som vores 'anden hjerne', og vigtigheden af sunde bakterier i tarmen. Kom og lad os styrke dine hormoner, celler og tarm! Der vil også være små smagsprøver på noget af det vi anvender og anbefaler. Du er hjertelig velkommen - det er muligt efterfølgende at komme til en gratis og mere uddybende samtale end hvad vi kan nå på selve aftenen Aftenen foregår på: For spørgsmål og tilmelding, kontakt Gitte Lykke på tlf. 20101760. Venlig hilsen, Gitte Lykke &amp; Hans Erik]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-odder/sundhedsworkshop?holdnr=26267</g:link>
-      <g:image_link>https://www.fof.dk/media/4hzp0zff/insung-yoon-b5nbsjyyyk0-unsplash.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>150.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Odder</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Foredrag, debat og højskoler &gt; Sundhed og eksistens</g:product_type>
-      <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
-      <g:custom_label_1>Sundhed og eksistens</g:custom_label_1>
-      <g:custom_label_2></g:custom_label_2>
-      <g:custom_label_4>Odder</g:custom_label_4>
-      <g:start_date>2026-11-09T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Odder']</g:internal_label>
-    </item>
+
 </channel>
 </rss>

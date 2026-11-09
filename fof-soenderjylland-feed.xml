@@ -6,28 +6,6 @@
 <description>Meta produktfeed med alle ledige hold fra FOF Sønderjylland</description>
 <language>da-DK</language>
 <item>
-      <g:id>SDJ-3270847</g:id>
-      <g:title><![CDATA[Mensendieck]]></g:title>
-      <g:description><![CDATA[Lær Mensendieck på små hold med fokus på holdning, styrke, smidighed og kropsbevidsthed. Start din træning i dag. Se mere og tilmeld dig i dag. ]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-soenderjylland/mensendieck?holdnr=3270847</g:link>
-      <g:image_link>https://www.fof.dk/media/uknhm5sz/mensendieck.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1895.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Sønderjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Bevægelse og afspænding</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Bevægelse og afspænding</g:custom_label_2>
-      <g:custom_label_4>Haderslev</g:custom_label_4>
-      <g:start_date>2026-11-09T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Starter snart</g:custom_label_3>
-      <g:internal_label>['Starter snart','Motion','Hensyntagende','Haderslev']</g:internal_label>
-    </item>
-<item>
       <g:id>SDJ-1262561</g:id>
       <g:title><![CDATA[Syning og modeludvikling]]></g:title>
       <g:description><![CDATA[Lær at sy dit eget tøj med professionel vejledning hos FOF Sønderjylland. Individuel hjælp, inspiration og klassiske skrædderteknikker for både begyndere og erfarne.]]></g:description>
@@ -289,7 +267,8 @@ Vi bruger tiden hver eneste dag. Vi måler den, planlægger efter den, mangler d
       <g:custom_label_2>Bagning og søde sager</g:custom_label_2>
       <g:custom_label_4>Vojens</g:custom_label_4>
       <g:start_date>2026-11-25T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Vojens']</g:internal_label>
+      <g:custom_label_3>Starter snart</g:custom_label_3>
+      <g:internal_label>['Starter snart','Vojens']</g:internal_label>
     </item>
 <item>
       <g:id>SDJ-2262341</g:id>
