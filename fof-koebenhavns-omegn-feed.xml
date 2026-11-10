@@ -6,6 +6,28 @@
 <description>Meta produktfeed med alle ledige hold fra FOF Københavns Omegn</description>
 <language>da-DK</language>
 <item>
+      <g:id>KBO-22055</g:id>
+      <g:title><![CDATA[Byens Baggårde 2.0 ]]></g:title>
+      <g:description><![CDATA[Oplev en stemningsfuld byvandring i København gennem skjulte baggårde, passager og historiske gårdrum fra Gråbrødretorv til Kongens Nytorv. Vi starter på Gråbrødretorv og bevæger os væk fra de travle hovedgader og ind i et mere stille og hemmeligt København.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/byens-baggaarde-20?holdnr=22055</g:link>
+      <g:image_link>https://www.fof.dk/media/0olb2als/byvandring-i-koebenhavn-baggaarde-skjulte-kroge-og-historiske-fortaellinger.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>170.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Københavns Omegn</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Rejser, ture og rundvisninger &gt; Byvandringer</g:product_type>
+      <g:custom_label_0>Rejser, ture og rundvisninger</g:custom_label_0>
+      <g:custom_label_1>Byvandringer</g:custom_label_1>
+      <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4></g:custom_label_4>
+      <g:start_date>2026-11-11T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Starter snart</g:custom_label_3>
+      <g:internal_label>['Starter snart','København','Endagskurser']</g:internal_label>
+    </item>
+<item>
       <g:id>KBO-22087</g:id>
       <g:title><![CDATA[Mystiske København]]></g:title>
       <g:description><![CDATA[Tag med på byvandring i København og oplev mystiske og historiske fortællinger om skarprettere, Gravsoen og byens skjulte liv.]]></g:description>
@@ -46,8 +68,8 @@
       <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4>Brøndby</g:custom_label_4>
       <g:start_date>2026-11-12T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Brøndby</g:custom_label_3>
-      <g:internal_label>['Brøndby','Endagskurser','Starter snart']</g:internal_label>
+      <g:custom_label_3>Endagskurser</g:custom_label_3>
+      <g:internal_label>['Endagskurser','Brøndby','Starter snart']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-22209</g:id>
@@ -138,26 +160,26 @@
       <g:internal_label>['Starter snart','København','Endagskurser']</g:internal_label>
     </item>
 <item>
-      <g:id>KBO-22489</g:id>
-      <g:title><![CDATA[Linoleumstryk - Workshop]]></g:title>
-      <g:description><![CDATA[Lær linoleumstryk hos FOF i Ballerup og Hedehusene med Annegitte Hald Abildskov. Et kreativt kursus for begyndere, hvor du skaber personlige tryk.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/linoleumstryk-i-ballerup?holdnr=22489</g:link>
-      <g:image_link>https://www.fof.dk/media/goimb1qp/linoleumstryk-workshop.jpg?width=1200</g:image_link>
+      <g:id>KBO-22048</g:id>
+      <g:title><![CDATA[Symboler i kunsten – guidede museumsbesøg i København]]></g:title>
+      <g:description><![CDATA[Oplev skjulte symboler i kunsten på tre guidede museumsbesøg i København. Få indsigt i æbler, kander og Thorvaldsens hammer på Glyptoteket, SMK og Thorvaldsens Museum.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/symboler-i-kunsten-guidede-museumsbesoeg-i-koebenhavn?holdnr=22048</g:link>
+      <g:image_link>https://www.fof.dk/media/cb3bormk/thorvaldsens-museum-symboler-i-kunsten.jpg?width=1200</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:quantity>1</g:quantity>
-      <g:price>610.00 DKK</g:price>
+      <g:price>500.00 DKK</g:price>
       <g:condition>new</g:condition>
       <g:brand>FOF Københavns Omegn</g:brand>
       <g:google_product_category>Education</g:google_product_category>
       <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Kreative kurser &gt; Håndværk og kunsthåndværk</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Kreative kurser</g:custom_label_1>
-      <g:custom_label_2>Håndværk og kunsthåndværk</g:custom_label_2>
-      <g:custom_label_4>Ballerup</g:custom_label_4>
-      <g:start_date>2026-11-19T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Ballerup</g:custom_label_3>
-      <g:internal_label>['Ballerup','Starter snart','Taastrup','Endagskurser']</g:internal_label>
+      <g:product_type>Rejser, ture og rundvisninger &gt; Kunstudstillinger</g:product_type>
+      <g:custom_label_0>Rejser, ture og rundvisninger</g:custom_label_0>
+      <g:custom_label_1>Kunstudstillinger</g:custom_label_1>
+      <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4></g:custom_label_4>
+      <g:start_date>2026-11-17T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>København</g:custom_label_3>
+      <g:internal_label>['København']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-22064</g:id>
@@ -201,7 +223,7 @@
       <g:custom_label_4></g:custom_label_4>
       <g:start_date>2026-11-21T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Starter snart</g:custom_label_3>
-      <g:internal_label>['Starter snart','København','Endagskurser']</g:internal_label>
+      <g:internal_label>['Starter snart','Endagskurser','København']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-22015</g:id>
@@ -223,7 +245,7 @@
       <g:custom_label_4>Gentofte</g:custom_label_4>
       <g:start_date>2026-11-22T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Starter snart</g:custom_label_3>
-      <g:internal_label>['Starter snart','Tur kalender','København','Endagskurser','Gentofte']</g:internal_label>
+      <g:internal_label>['Starter snart','Endagskurser','København','Gentofte']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-22025</g:id>
@@ -267,7 +289,7 @@
       <g:custom_label_4>Taastrup</g:custom_label_4>
       <g:start_date>2026-11-22T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Taastrup</g:custom_label_3>
-      <g:internal_label>['Taastrup','Starter snart','Familie','Endagskurser']</g:internal_label>
+      <g:internal_label>['Taastrup','Starter snart','Endagskurser','Familie']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-22114</g:id>
@@ -289,7 +311,7 @@
       <g:custom_label_4>Taastrup</g:custom_label_4>
       <g:start_date>2026-11-25T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Taastrup</g:custom_label_3>
-      <g:internal_label>['Taastrup','Endagskurser']</g:internal_label>
+      <g:internal_label>['Taastrup','Starter snart','Endagskurser']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-22296</g:id>
@@ -310,8 +332,8 @@
       <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4>Rødovre</g:custom_label_4>
       <g:start_date>2026-11-26T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Rødovre</g:custom_label_3>
-      <g:internal_label>['Rødovre','Endagskurser']</g:internal_label>
+      <g:custom_label_3>Endagskurser</g:custom_label_3>
+      <g:internal_label>['Endagskurser','Rødovre']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-22721</g:id>
@@ -377,7 +399,7 @@
       <g:custom_label_4>Brøndby</g:custom_label_4>
       <g:start_date>2026-11-28T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Brøndby</g:custom_label_3>
-      <g:internal_label>['Brøndby','Familie','Vallensbæk','Endagskurser']</g:internal_label>
+      <g:internal_label>['Brøndby','Endagskurser','Familie']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-32601</g:id>
@@ -399,7 +421,7 @@
       <g:custom_label_4>Vallensbæk Strand</g:custom_label_4>
       <g:start_date>2026-11-29T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Vallensbæk</g:custom_label_3>
-      <g:internal_label>['Vallensbæk','Familie','Brøndby','Endagskurser','Vallensbæk Strand']</g:internal_label>
+      <g:internal_label>['Vallensbæk','Familie','Endagskurser','Vallensbæk Strand']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-22072</g:id>
@@ -421,7 +443,7 @@
       <g:custom_label_4>København</g:custom_label_4>
       <g:start_date>2026-12-01T00:00:00.000Z</g:start_date>
       <g:custom_label_3>København</g:custom_label_3>
-      <g:internal_label>['København','Tur kalender','Endagskurser','København K']</g:internal_label>
+      <g:internal_label>['København','Endagskurser','København K']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-22115</g:id>
@@ -442,8 +464,8 @@
       <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4>Taastrup</g:custom_label_4>
       <g:start_date>2026-12-02T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Taastrup</g:custom_label_3>
-      <g:internal_label>['Taastrup','Endagskurser','Foredrag kalender']</g:internal_label>
+      <g:custom_label_3>Endagskurser</g:custom_label_3>
+      <g:internal_label>['Endagskurser','Taastrup']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-22621</g:id>
@@ -728,7 +750,6 @@
       <g:custom_label_2>Syning</g:custom_label_2>
       <g:custom_label_4>Brøndby</g:custom_label_4>
       <g:start_date>2027-01-09T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Brøndby</g:custom_label_3>
       <g:internal_label>['Brøndby']</g:internal_label>
     </item>
 <item>
@@ -750,7 +771,6 @@
       <g:custom_label_2>Syning</g:custom_label_2>
       <g:custom_label_4>Brøndby</g:custom_label_4>
       <g:start_date>2027-01-10T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Brøndby</g:custom_label_3>
       <g:internal_label>['Brøndby']</g:internal_label>
     </item>
 <item>
@@ -794,8 +814,7 @@
       <g:custom_label_2>Keramik</g:custom_label_2>
       <g:custom_label_4>Hedehusene</g:custom_label_4>
       <g:start_date>2027-01-12T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Taastrup</g:custom_label_3>
-      <g:internal_label>['Taastrup','Hedehusene']</g:internal_label>
+      <g:internal_label>['Hedehusene']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23711</g:id>
@@ -816,7 +835,6 @@
       <g:custom_label_2>Kor og fællessang</g:custom_label_2>
       <g:custom_label_4>Brøndby</g:custom_label_4>
       <g:start_date>2027-01-13T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Brøndby</g:custom_label_3>
       <g:internal_label>['Brøndby']</g:internal_label>
     </item>
 <item>
@@ -839,7 +857,7 @@
       <g:custom_label_4>Taastrup</g:custom_label_4>
       <g:start_date>2027-01-13T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Taastrup</g:custom_label_3>
-      <g:internal_label>['Taastrup','Ballerup']</g:internal_label>
+      <g:internal_label>['Taastrup']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23449</g:id>
@@ -861,7 +879,7 @@
       <g:custom_label_4>Ballerup</g:custom_label_4>
       <g:start_date>2027-01-13T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Ballerup</g:custom_label_3>
-      <g:internal_label>['Ballerup','Taastrup']</g:internal_label>
+      <g:internal_label>['Ballerup']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23453</g:id>
@@ -883,7 +901,7 @@
       <g:custom_label_4>Taastrup</g:custom_label_4>
       <g:start_date>2027-01-13T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Taastrup</g:custom_label_3>
-      <g:internal_label>['Taastrup','Ballerup']</g:internal_label>
+      <g:internal_label>['Taastrup']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23451</g:id>
@@ -905,7 +923,7 @@
       <g:custom_label_4>Ballerup</g:custom_label_4>
       <g:start_date>2027-01-13T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Ballerup</g:custom_label_3>
-      <g:internal_label>['Ballerup','Taastrup']</g:internal_label>
+      <g:internal_label>['Ballerup']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23475</g:id>
@@ -926,8 +944,7 @@
       <g:custom_label_2>Keramik</g:custom_label_2>
       <g:custom_label_4>Hedehusene</g:custom_label_4>
       <g:start_date>2027-01-14T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Taastrup</g:custom_label_3>
-      <g:internal_label>['Taastrup','Hedehusene']</g:internal_label>
+      <g:internal_label>['Hedehusene']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23530</g:id>
@@ -949,7 +966,7 @@
       <g:custom_label_4>Glostrup</g:custom_label_4>
       <g:start_date>2027-01-14T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Glostrup</g:custom_label_3>
-      <g:internal_label>['Glostrup','Ballerup','Brøndby','Rødovre','Taastrup']</g:internal_label>
+      <g:internal_label>['Glostrup']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23702</g:id>
@@ -970,7 +987,6 @@
       <g:custom_label_2>Kor og fællessang</g:custom_label_2>
       <g:custom_label_4>Taastrup</g:custom_label_4>
       <g:start_date>2027-01-14T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Taastrup</g:custom_label_3>
       <g:internal_label>['Taastrup']</g:internal_label>
     </item>
 <item>
@@ -993,7 +1009,7 @@
       <g:custom_label_4>Herlev</g:custom_label_4>
       <g:start_date>2027-01-16T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Herlev</g:custom_label_3>
-      <g:internal_label>['Herlev','Brøndby']</g:internal_label>
+      <g:internal_label>['Herlev']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23436</g:id>
@@ -1034,7 +1050,7 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Syning</g:custom_label_2>
-      <g:custom_label_4>Brøndby</g:custom_label_4>
+      <g:custom_label_4></g:custom_label_4>
       <g:start_date>2027-01-18T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Brøndby</g:custom_label_3>
       <g:internal_label>['Brøndby']</g:internal_label>
@@ -1080,7 +1096,6 @@
       <g:custom_label_2>Kor og fællessang</g:custom_label_2>
       <g:custom_label_4>Herlev</g:custom_label_4>
       <g:start_date>2027-01-20T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Herlev</g:custom_label_3>
       <g:internal_label>['Herlev']</g:internal_label>
     </item>
 <item>
@@ -1135,7 +1150,7 @@
       <g:image_link>https://www.fof.dk/media/1enkjvbb/bindevaev.png?width=1200</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:quantity>1</g:quantity>
-      <g:price>1600.00 DKK</g:price>
+      <g:price>1200.00 DKK</g:price>
       <g:condition>new</g:condition>
       <g:brand>FOF Københavns Omegn</g:brand>
       <g:google_product_category>Education</g:google_product_category>
@@ -1238,28 +1253,6 @@
       <g:internal_label>['København','Endagskurser','København K']</g:internal_label>
     </item>
 <item>
-      <g:id>KBO-23820</g:id>
-      <g:title><![CDATA[Hatha Yoga hensyntagende]]></g:title>
-      <g:description><![CDATA[Deltag i yoga for seniorer hos FOF Københavns Omegn i Albertslund, Glostrup, Taastrup, Brøndby og Herlev. Vælg mellem Hatha yoga, senioryoga og yoga med fokus på styrke, balance og åndedræt.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/hensyntagende-yoga?holdnr=23820</g:link>
-      <g:image_link>https://www.fof.dk/media/sgqc4dji/yoga-fof-aftenskolen-20.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1875.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Københavns Omegn</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Yoga</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Yoga</g:custom_label_2>
-      <g:custom_label_4>Brøndby</g:custom_label_4>
-      <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Brøndby</g:custom_label_3>
-      <g:internal_label>['Brøndby','Albertslund','Glostrup','Herlev','Taastrup']</g:internal_label>
-    </item>
-<item>
       <g:id>KBO-23826</g:id>
       <g:title><![CDATA[Ryg, skuldre og nakke]]></g:title>
       <g:description><![CDATA[Træn ryg, skuldre og nakke i på på vores hold i Skovlunde og Brøndby. Hensynstagende træning mod ryg-, hovedpine- og muskelsmerter. Styrke, smidighed og afspænding forbedrer funktion og øger velvære.]]></g:description>
@@ -1279,7 +1272,29 @@
       <g:custom_label_4>Skovlunde</g:custom_label_4>
       <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Ballerup</g:custom_label_3>
-      <g:internal_label>['Ballerup','Brøndby','Skovlunde']</g:internal_label>
+      <g:internal_label>['Ballerup','Skovlunde']</g:internal_label>
+    </item>
+<item>
+      <g:id>KBO-23820</g:id>
+      <g:title><![CDATA[Hatha Yoga hensyntagende]]></g:title>
+      <g:description><![CDATA[Deltag i yoga for seniorer hos FOF Københavns Omegn i Albertslund, Glostrup, Taastrup, Brøndby og Herlev. Vælg mellem Hatha yoga, senioryoga og yoga med fokus på styrke, balance og åndedræt.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/hensyntagende-yoga?holdnr=23820</g:link>
+      <g:image_link>https://www.fof.dk/media/sgqc4dji/yoga-fof-aftenskolen-20.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1875.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Københavns Omegn</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Yoga</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Brøndby</g:custom_label_4>
+      <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Brøndby</g:custom_label_3>
+      <g:internal_label>['Brøndby']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23578</g:id>
@@ -1301,7 +1316,7 @@
       <g:custom_label_4>Herlev</g:custom_label_4>
       <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Herlev</g:custom_label_3>
-      <g:internal_label>['Herlev','Vallensbæk','Glostrup','Brøndby']</g:internal_label>
+      <g:internal_label>['Herlev']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23601</g:id>
@@ -1344,7 +1359,6 @@
       <g:custom_label_2>Syning</g:custom_label_2>
       <g:custom_label_4>Brøndby</g:custom_label_4>
       <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Brøndby</g:custom_label_3>
       <g:internal_label>['Brøndby']</g:internal_label>
     </item>
 <item>
@@ -1389,7 +1403,7 @@
       <g:custom_label_4>Brøndby</g:custom_label_4>
       <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Brøndby</g:custom_label_3>
-      <g:internal_label>['Brøndby','Vallensbæk','Glostrup','Herlev']</g:internal_label>
+      <g:internal_label>['Brøndby']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23637</g:id>
@@ -1411,7 +1425,7 @@
       <g:custom_label_4>Glostrup</g:custom_label_4>
       <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Glostrup</g:custom_label_3>
-      <g:internal_label>['Glostrup','Vallensbæk','Herlev','Brøndby']</g:internal_label>
+      <g:internal_label>['Glostrup']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23821</g:id>
@@ -1433,7 +1447,7 @@
       <g:custom_label_4>Herlev</g:custom_label_4>
       <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Herlev</g:custom_label_3>
-      <g:internal_label>['Herlev','Brøndby']</g:internal_label>
+      <g:internal_label>['Herlev']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23594</g:id>
@@ -1455,7 +1469,7 @@
       <g:custom_label_4>Skovlunde</g:custom_label_4>
       <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Ballerup</g:custom_label_3>
-      <g:internal_label>['Ballerup','Vallensbæk','Taastrup','Rødovre','Herlev','Glostrup','Albertslund','Skovlunde']</g:internal_label>
+      <g:internal_label>['Ballerup','Skovlunde']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23550</g:id>
@@ -1465,7 +1479,7 @@
       <g:image_link>https://www.fof.dk/media/lznh1zi1/hjernetraening.jpg?width=1200</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:quantity>1</g:quantity>
-      <g:price>1095.00 DKK</g:price>
+      <g:price>1180.00 DKK</g:price>
       <g:condition>new</g:condition>
       <g:brand>FOF Københavns Omegn</g:brand>
       <g:google_product_category>Education</g:google_product_category>
@@ -1499,7 +1513,7 @@
       <g:custom_label_4>Skovlunde</g:custom_label_4>
       <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Ballerup</g:custom_label_3>
-      <g:internal_label>['Ballerup','Taastrup','Skovlunde']</g:internal_label>
+      <g:internal_label>['Ballerup','Skovlunde']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23584</g:id>
@@ -1521,7 +1535,7 @@
       <g:custom_label_4>Brøndby</g:custom_label_4>
       <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Brøndby</g:custom_label_3>
-      <g:internal_label>['Brøndby','Vallensbæk','Glostrup','Herlev']</g:internal_label>
+      <g:internal_label>['Brøndby']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23867</g:id>
@@ -1543,7 +1557,7 @@
       <g:custom_label_4>Brøndby</g:custom_label_4>
       <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Brøndby</g:custom_label_3>
-      <g:internal_label>['Brøndby','Albertslund','Glostrup','Herlev','Taastrup']</g:internal_label>
+      <g:internal_label>['Brøndby']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23847</g:id>
@@ -1565,7 +1579,7 @@
       <g:custom_label_4>Herlev</g:custom_label_4>
       <g:start_date>2027-01-26T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Herlev</g:custom_label_3>
-      <g:internal_label>['Herlev','Brøndby']</g:internal_label>
+      <g:internal_label>['Herlev']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23690</g:id>
@@ -1587,29 +1601,7 @@
       <g:custom_label_4>Taastrup</g:custom_label_4>
       <g:start_date>2027-01-26T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Taastrup</g:custom_label_3>
-      <g:internal_label>['Taastrup','Rødovre']</g:internal_label>
-    </item>
-<item>
-      <g:id>KBO-23504</g:id>
-      <g:title><![CDATA[Hatha yoga]]></g:title>
-      <g:description><![CDATA[Kom med på holdet i hatha yoga i Hedehusene, Herlev, Vallensbæk, Albertslund, Glostrup, Rødovre og Taastrup. Små hold med plads til alle kropstyper og niveauer. Find et hold tæt på dig og kom i gang med en god vane.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/hatha-yoga?holdnr=23504</g:link>
-      <g:image_link>https://www.fof.dk/media/xb0n4ui0/yoga-fof-aftenskolen-28.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1472.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Københavns Omegn</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Yoga</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Yoga</g:custom_label_2>
-      <g:custom_label_4>Glostrup</g:custom_label_4>
-      <g:start_date>2027-01-26T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Glostrup</g:custom_label_3>
-      <g:internal_label>['Glostrup','Vallensbæk','Taastrup','Rødovre','Herlev','Ballerup','Albertslund']</g:internal_label>
+      <g:internal_label>['Taastrup']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23919</g:id>
@@ -1631,7 +1623,29 @@
       <g:custom_label_4>Herlev</g:custom_label_4>
       <g:start_date>2027-01-26T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Herlev</g:custom_label_3>
-      <g:internal_label>['Herlev','Ballerup','Glostrup']</g:internal_label>
+      <g:internal_label>['Herlev']</g:internal_label>
+    </item>
+<item>
+      <g:id>KBO-23504</g:id>
+      <g:title><![CDATA[Hatha yoga]]></g:title>
+      <g:description><![CDATA[Kom med på holdet i hatha yoga i Hedehusene, Herlev, Vallensbæk, Albertslund, Glostrup, Rødovre og Taastrup. Små hold med plads til alle kropstyper og niveauer. Find et hold tæt på dig og kom i gang med en god vane.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/hatha-yoga?holdnr=23504</g:link>
+      <g:image_link>https://www.fof.dk/media/xb0n4ui0/yoga-fof-aftenskolen-28.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1472.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Københavns Omegn</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Yoga</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Glostrup</g:custom_label_4>
+      <g:start_date>2027-01-26T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Glostrup</g:custom_label_3>
+      <g:internal_label>['Glostrup']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23567</g:id>
@@ -1653,7 +1667,7 @@
       <g:custom_label_4>Ballerup</g:custom_label_4>
       <g:start_date>2027-01-26T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Ballerup</g:custom_label_3>
-      <g:internal_label>['Ballerup','Taastrup']</g:internal_label>
+      <g:internal_label>['Ballerup']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23920</g:id>
@@ -1675,7 +1689,7 @@
       <g:custom_label_4>Herlev</g:custom_label_4>
       <g:start_date>2027-01-26T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Herlev</g:custom_label_3>
-      <g:internal_label>['Herlev','Ballerup','Glostrup']</g:internal_label>
+      <g:internal_label>['Herlev']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23644</g:id>
@@ -1719,7 +1733,7 @@
       <g:custom_label_4>Herlev</g:custom_label_4>
       <g:start_date>2027-01-26T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Herlev</g:custom_label_3>
-      <g:internal_label>['Herlev','Ballerup','Glostrup']</g:internal_label>
+      <g:internal_label>['Herlev']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23332</g:id>
@@ -1741,7 +1755,7 @@
       <g:custom_label_4>Brøndby Strand</g:custom_label_4>
       <g:start_date>2027-01-26T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Brøndby</g:custom_label_3>
-      <g:internal_label>['Brøndby','Taastrup','Brøndby Strand']</g:internal_label>
+      <g:internal_label>['Brøndby','Brøndby Strand']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23818</g:id>
@@ -1763,7 +1777,7 @@
       <g:custom_label_4>Herlev</g:custom_label_4>
       <g:start_date>2027-01-26T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Herlev</g:custom_label_3>
-      <g:internal_label>['Herlev','Brøndby']</g:internal_label>
+      <g:internal_label>['Herlev']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23802</g:id>
@@ -1785,7 +1799,7 @@
       <g:custom_label_4>Ballerup</g:custom_label_4>
       <g:start_date>2027-01-26T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Ballerup</g:custom_label_3>
-      <g:internal_label>['Ballerup','Herlev','Brøndby']</g:internal_label>
+      <g:internal_label>['Ballerup']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23525</g:id>
@@ -1807,7 +1821,7 @@
       <g:custom_label_4>Herlev</g:custom_label_4>
       <g:start_date>2027-01-26T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Herlev</g:custom_label_3>
-      <g:internal_label>['Herlev','Albertslund','Glostrup','Taastrup']</g:internal_label>
+      <g:internal_label>['Herlev']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23595</g:id>
@@ -1829,7 +1843,7 @@
       <g:custom_label_4>Glostrup</g:custom_label_4>
       <g:start_date>2027-01-26T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Glostrup</g:custom_label_3>
-      <g:internal_label>['Glostrup','Albertslund']</g:internal_label>
+      <g:internal_label>['Glostrup']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23888</g:id>
@@ -1851,7 +1865,7 @@
       <g:custom_label_4>Ballerup</g:custom_label_4>
       <g:start_date>2027-01-26T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Ballerup</g:custom_label_3>
-      <g:internal_label>['Ballerup','Glostrup','Brøndby']</g:internal_label>
+      <g:internal_label>['Ballerup']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23872</g:id>
@@ -1873,7 +1887,7 @@
       <g:custom_label_4>Brøndby</g:custom_label_4>
       <g:start_date>2027-01-26T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Brøndby</g:custom_label_3>
-      <g:internal_label>['Brøndby','Ballerup']</g:internal_label>
+      <g:internal_label>['Brøndby']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23670</g:id>
@@ -1895,7 +1909,7 @@
       <g:custom_label_4>Vallensbæk</g:custom_label_4>
       <g:start_date>2027-01-27T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Vallensbæk</g:custom_label_3>
-      <g:internal_label>['Vallensbæk','Glostrup','Herlev','Brøndby']</g:internal_label>
+      <g:internal_label>['Vallensbæk']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23507</g:id>
@@ -1917,7 +1931,7 @@
       <g:custom_label_4>Glostrup</g:custom_label_4>
       <g:start_date>2027-01-27T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Glostrup</g:custom_label_3>
-      <g:internal_label>['Glostrup','Vallensbæk','Taastrup','Rødovre','Herlev','Ballerup','Albertslund']</g:internal_label>
+      <g:internal_label>['Glostrup']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23509</g:id>
@@ -1939,7 +1953,7 @@
       <g:custom_label_4>Glostrup</g:custom_label_4>
       <g:start_date>2027-01-27T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Glostrup</g:custom_label_3>
-      <g:internal_label>['Glostrup','Vallensbæk','Taastrup','Rødovre','Herlev','Ballerup','Albertslund']</g:internal_label>
+      <g:internal_label>['Glostrup']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23913</g:id>
@@ -1961,7 +1975,7 @@
       <g:custom_label_4>Ballerup</g:custom_label_4>
       <g:start_date>2027-01-27T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Ballerup</g:custom_label_3>
-      <g:internal_label>['Ballerup','Herlev']</g:internal_label>
+      <g:internal_label>['Ballerup']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23942</g:id>
@@ -1983,7 +1997,7 @@
       <g:custom_label_4>Herlev</g:custom_label_4>
       <g:start_date>2027-01-27T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Herlev</g:custom_label_3>
-      <g:internal_label>['Herlev','Glostrup']</g:internal_label>
+      <g:internal_label>['Herlev']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23461</g:id>
@@ -2027,7 +2041,7 @@
       <g:custom_label_4>Herlev</g:custom_label_4>
       <g:start_date>2027-01-27T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Herlev</g:custom_label_3>
-      <g:internal_label>['Herlev','Ballerup','Glostrup']</g:internal_label>
+      <g:internal_label>['Herlev']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23922</g:id>
@@ -2049,7 +2063,7 @@
       <g:custom_label_4>Herlev</g:custom_label_4>
       <g:start_date>2027-01-27T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Herlev</g:custom_label_3>
-      <g:internal_label>['Herlev','Ballerup','Glostrup']</g:internal_label>
+      <g:internal_label>['Herlev']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23838</g:id>
@@ -2074,6 +2088,28 @@
       <g:internal_label>['Herlev']</g:internal_label>
     </item>
 <item>
+      <g:id>KBO-23351</g:id>
+      <g:title><![CDATA[Spansk for begyndere - fortsættere (A1)]]></g:title>
+      <g:description><![CDATA[Start din rejse med spansk på et roligt og trygt begynderniveau (A1). Lær simple sætninger, hverdagsudtryk og basisgrammatik hos FOF Københavns Omegn.  Dette spansk kursus for begyndere i København-området er skabt til dig, der vil i gang på en tryg, overskuelig og motiverende måde.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/spansk-for-begyndere-a1?holdnr=23351</g:link>
+      <g:image_link>https://www.fof.dk/media/zt2j3ixy/spansk-2.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1612.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Københavns Omegn</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Sprog &gt; Spansk</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Sprog</g:custom_label_1>
+      <g:custom_label_2>Spansk</g:custom_label_2>
+      <g:custom_label_4>Glostrup</g:custom_label_4>
+      <g:start_date>2027-01-28T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Glostrup</g:custom_label_3>
+      <g:internal_label>['Glostrup']</g:internal_label>
+    </item>
+<item>
       <g:id>KBO-23527</g:id>
       <g:title><![CDATA[Yoga for seniorer]]></g:title>
       <g:description><![CDATA[Deltag i senioryoga hos FOF Københavns Omegn i Herlev, Glostrup, Albertslund og Taastrup. Gode lyse lokaler med nem adgang og gode parkeringsmuligheder. Blid yoga med fokus på balance, smidighed og ro.]]></g:description>
@@ -2093,7 +2129,7 @@
       <g:custom_label_4>Taastrup</g:custom_label_4>
       <g:start_date>2027-01-28T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Taastrup</g:custom_label_3>
-      <g:internal_label>['Taastrup','Albertslund','Glostrup','Herlev']</g:internal_label>
+      <g:internal_label>['Taastrup']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23546</g:id>
@@ -2115,29 +2151,7 @@
       <g:custom_label_4>Albertslund</g:custom_label_4>
       <g:start_date>2027-01-28T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Albertslund</g:custom_label_3>
-      <g:internal_label>['Albertslund','Glostrup']</g:internal_label>
-    </item>
-<item>
-      <g:id>KBO-23351</g:id>
-      <g:title><![CDATA[Spansk for begyndere - fortsættere (A1)]]></g:title>
-      <g:description><![CDATA[Start din rejse med spansk på et roligt og trygt begynderniveau (A1). Lær simple sætninger, hverdagsudtryk og basisgrammatik hos FOF Københavns Omegn.  Dette spansk kursus for begyndere i København-området er skabt til dig, der vil i gang på en tryg, overskuelig og motiverende måde.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/spansk-for-begyndere-a1?holdnr=23351</g:link>
-      <g:image_link>https://www.fof.dk/media/zt2j3ixy/spansk-2.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1612.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Københavns Omegn</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Sprog &gt; Spansk</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Sprog</g:custom_label_1>
-      <g:custom_label_2>Spansk</g:custom_label_2>
-      <g:custom_label_4>Glostrup</g:custom_label_4>
-      <g:start_date>2027-01-28T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Glostrup</g:custom_label_3>
-      <g:internal_label>['Glostrup','Brøndby','Vallensbæk']</g:internal_label>
+      <g:internal_label>['Albertslund']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23928</g:id>
@@ -2159,7 +2173,7 @@
       <g:custom_label_4>Skovlunde</g:custom_label_4>
       <g:start_date>2027-01-28T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Ballerup</g:custom_label_3>
-      <g:internal_label>['Ballerup','Vallensbæk','Skovlunde']</g:internal_label>
+      <g:internal_label>['Ballerup','Skovlunde']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23510</g:id>
@@ -2181,7 +2195,7 @@
       <g:custom_label_4>Glostrup</g:custom_label_4>
       <g:start_date>2027-01-28T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Glostrup</g:custom_label_3>
-      <g:internal_label>['Glostrup','Vallensbæk','Taastrup','Rødovre','Herlev','Ballerup','Albertslund']</g:internal_label>
+      <g:internal_label>['Glostrup']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23290</g:id>
@@ -2203,7 +2217,7 @@
       <g:custom_label_4>Taastrup</g:custom_label_4>
       <g:start_date>2027-01-28T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Taastrup</g:custom_label_3>
-      <g:internal_label>['Taastrup','Brøndby']</g:internal_label>
+      <g:internal_label>['Taastrup','Endagskurser']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23812</g:id>
@@ -2225,7 +2239,7 @@
       <g:custom_label_4>Herlev</g:custom_label_4>
       <g:start_date>2027-01-28T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Herlev</g:custom_label_3>
-      <g:internal_label>['Herlev','Glostrup']</g:internal_label>
+      <g:internal_label>['Herlev']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23813</g:id>
@@ -2269,7 +2283,7 @@
       <g:custom_label_4>Glostrup</g:custom_label_4>
       <g:start_date>2027-01-28T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Glostrup</g:custom_label_3>
-      <g:internal_label>['Glostrup','Brøndby']</g:internal_label>
+      <g:internal_label>['Glostrup']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23350</g:id>
@@ -2335,7 +2349,7 @@
       <g:custom_label_4>Herlev</g:custom_label_4>
       <g:start_date>2027-01-28T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Herlev</g:custom_label_3>
-      <g:internal_label>['Herlev','Ballerup']</g:internal_label>
+      <g:internal_label>['Herlev']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23526</g:id>
@@ -2357,7 +2371,7 @@
       <g:custom_label_4>Taastrup</g:custom_label_4>
       <g:start_date>2027-01-28T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Taastrup</g:custom_label_3>
-      <g:internal_label>['Taastrup','Albertslund','Glostrup','Herlev']</g:internal_label>
+      <g:internal_label>['Taastrup']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23528</g:id>
@@ -2379,7 +2393,7 @@
       <g:custom_label_4>Taastrup</g:custom_label_4>
       <g:start_date>2027-01-28T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Taastrup</g:custom_label_3>
-      <g:internal_label>['Taastrup','Albertslund','Glostrup','Herlev']</g:internal_label>
+      <g:internal_label>['Taastrup']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23993</g:id>
@@ -2401,7 +2415,7 @@
       <g:custom_label_4>Herlev</g:custom_label_4>
       <g:start_date>2027-01-29T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Herlev</g:custom_label_3>
-      <g:internal_label>['Herlev','Ballerup','Glostrup']</g:internal_label>
+      <g:internal_label>['Herlev']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23282</g:id>
@@ -2423,7 +2437,7 @@
       <g:custom_label_4>Rødovre</g:custom_label_4>
       <g:start_date>2027-01-29T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Rødovre</g:custom_label_3>
-      <g:internal_label>['Rødovre']</g:internal_label>
+      <g:internal_label>['Rødovre','Endagskurser']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23853</g:id>
@@ -2477,7 +2491,7 @@
       <g:image_link>https://www.fof.dk/media/h25hzzsj/ypga-for-seniorer.jpg?width=1200</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:quantity>1</g:quantity>
-      <g:price>1600.00 DKK</g:price>
+      <g:price>1400.00 DKK</g:price>
       <g:condition>new</g:condition>
       <g:brand>FOF Københavns Omegn</g:brand>
       <g:google_product_category>Education</g:google_product_category>
@@ -2489,7 +2503,7 @@
       <g:custom_label_4>Glostrup</g:custom_label_4>
       <g:start_date>2027-01-29T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Glostrup</g:custom_label_3>
-      <g:internal_label>['Glostrup','Albertslund','Herlev','Taastrup']</g:internal_label>
+      <g:internal_label>['Glostrup']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23300</g:id>
@@ -2576,7 +2590,6 @@
       <g:custom_label_2>Sang og stemmetræning</g:custom_label_2>
       <g:custom_label_4>Herlev</g:custom_label_4>
       <g:start_date>2027-01-29T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Herlev</g:custom_label_3>
       <g:internal_label>['Herlev']</g:internal_label>
     </item>
 <item>
@@ -2599,7 +2612,7 @@
       <g:custom_label_4>Herlev</g:custom_label_4>
       <g:start_date>2027-01-30T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Herlev</g:custom_label_3>
-      <g:internal_label>['Herlev','Glostrup']</g:internal_label>
+      <g:internal_label>['Herlev']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23873</g:id>
@@ -2621,7 +2634,7 @@
       <g:custom_label_4>Herlev</g:custom_label_4>
       <g:start_date>2027-01-30T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Herlev</g:custom_label_3>
-      <g:internal_label>['Herlev','Glostrup']</g:internal_label>
+      <g:internal_label>['Herlev']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23871</g:id>
@@ -2643,7 +2656,7 @@
       <g:custom_label_4>Skovlunde</g:custom_label_4>
       <g:start_date>2027-02-01T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Ballerup</g:custom_label_3>
-      <g:internal_label>['Ballerup','Glostrup','Herlev','Skovlunde']</g:internal_label>
+      <g:internal_label>['Ballerup','Skovlunde']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23687</g:id>
@@ -2665,7 +2678,7 @@
       <g:custom_label_4>Herlev</g:custom_label_4>
       <g:start_date>2027-02-01T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Herlev</g:custom_label_3>
-      <g:internal_label>['Herlev','Taastrup','Rødovre']</g:internal_label>
+      <g:internal_label>['Herlev']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23686</g:id>
@@ -2687,7 +2700,7 @@
       <g:custom_label_4>Herlev</g:custom_label_4>
       <g:start_date>2027-02-01T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Herlev</g:custom_label_3>
-      <g:internal_label>['Herlev','Brøndby','Taastrup']</g:internal_label>
+      <g:internal_label>['Herlev']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23792</g:id>
@@ -2731,7 +2744,7 @@
       <g:custom_label_4>Skovlunde</g:custom_label_4>
       <g:start_date>2027-02-01T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Ballerup</g:custom_label_3>
-      <g:internal_label>['Ballerup','Glostrup','Herlev','Skovlunde']</g:internal_label>
+      <g:internal_label>['Ballerup','Skovlunde']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23793</g:id>
@@ -2797,7 +2810,7 @@
       <g:custom_label_4>Rødovre</g:custom_label_4>
       <g:start_date>2027-02-01T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Rødovre</g:custom_label_3>
-      <g:internal_label>['Rødovre','Glostrup','Ballerup','Brøndby']</g:internal_label>
+      <g:internal_label>['Rødovre']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23617</g:id>
@@ -2819,7 +2832,7 @@
       <g:custom_label_4>Brøndby</g:custom_label_4>
       <g:start_date>2027-02-01T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Brøndby</g:custom_label_3>
-      <g:internal_label>['Brøndby','Glostrup','Ballerup','Rødovre','Taastrup']</g:internal_label>
+      <g:internal_label>['Brøndby']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23855</g:id>
@@ -2841,7 +2854,7 @@
       <g:custom_label_4>Glostrup</g:custom_label_4>
       <g:start_date>2027-02-02T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Glostrup</g:custom_label_3>
-      <g:internal_label>['Glostrup','Herlev','Ballerup']</g:internal_label>
+      <g:internal_label>['Glostrup']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23844</g:id>
@@ -2863,29 +2876,7 @@
       <g:custom_label_4>Herlev</g:custom_label_4>
       <g:start_date>2027-02-02T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Herlev</g:custom_label_3>
-      <g:internal_label>['Herlev','Brøndby']</g:internal_label>
-    </item>
-<item>
-      <g:id>KBO-23848</g:id>
-      <g:title><![CDATA[Hatha yoga hensyntagende]]></g:title>
-      <g:description><![CDATA[Deltag i yoga for seniorer hos FOF Københavns Omegn i Albertslund, Glostrup, Taastrup, Brøndby og Herlev. Vælg mellem Hatha yoga, senioryoga og yoga med fokus på styrke, balance og åndedræt.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/hensyntagende-yoga?holdnr=23848</g:link>
-      <g:image_link>https://www.fof.dk/media/sgqc4dji/yoga-fof-aftenskolen-20.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1450.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Københavns Omegn</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Yoga</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Yoga</g:custom_label_2>
-      <g:custom_label_4>Herlev</g:custom_label_4>
-      <g:start_date>2027-02-02T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Herlev</g:custom_label_3>
-      <g:internal_label>['Herlev','Albertslund','Brøndby','Glostrup','Taastrup']</g:internal_label>
+      <g:internal_label>['Herlev']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23433</g:id>
@@ -2950,7 +2941,7 @@
       <g:custom_label_4>Taastrup</g:custom_label_4>
       <g:start_date>2027-02-02T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Taastrup</g:custom_label_3>
-      <g:internal_label>['Taastrup','Brøndby']</g:internal_label>
+      <g:internal_label>['Taastrup']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23906</g:id>
@@ -2994,7 +2985,7 @@
       <g:custom_label_4>Herlev</g:custom_label_4>
       <g:start_date>2027-02-02T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Herlev</g:custom_label_3>
-      <g:internal_label>['Herlev','Rødovre']</g:internal_label>
+      <g:internal_label>['Herlev']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23597</g:id>
@@ -3016,7 +3007,7 @@
       <g:custom_label_4>Taastrup</g:custom_label_4>
       <g:start_date>2027-02-02T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Taastrup</g:custom_label_3>
-      <g:internal_label>['Taastrup','Brøndby']</g:internal_label>
+      <g:internal_label>['Taastrup']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23542</g:id>
@@ -3038,29 +3029,7 @@
       <g:custom_label_4>Albertslund</g:custom_label_4>
       <g:start_date>2027-02-02T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Albertslund</g:custom_label_3>
-      <g:internal_label>['Albertslund','Glostrup','Herlev','Taastrup']</g:internal_label>
-    </item>
-<item>
-      <g:id>KBO-23543</g:id>
-      <g:title><![CDATA[Yoga for seniorer]]></g:title>
-      <g:description><![CDATA[Deltag i senioryoga hos FOF Københavns Omegn i Herlev, Glostrup, Albertslund og Taastrup. Gode lyse lokaler med nem adgang og gode parkeringsmuligheder. Blid yoga med fokus på balance, smidighed og ro.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/yoga-seniorer?holdnr=23543</g:link>
-      <g:image_link>https://www.fof.dk/media/h25hzzsj/ypga-for-seniorer.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1500.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Københavns Omegn</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Yoga</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Yoga</g:custom_label_2>
-      <g:custom_label_4>Albertslund</g:custom_label_4>
-      <g:start_date>2027-02-02T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Albertslund</g:custom_label_3>
-      <g:internal_label>['Albertslund','Glostrup','Herlev','Taastrup']</g:internal_label>
+      <g:internal_label>['Albertslund']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23410</g:id>
@@ -3084,6 +3053,28 @@
       <g:internal_label>['Brøndby']</g:internal_label>
     </item>
 <item>
+      <g:id>KBO-23543</g:id>
+      <g:title><![CDATA[Yoga for seniorer]]></g:title>
+      <g:description><![CDATA[Deltag i senioryoga hos FOF Københavns Omegn i Herlev, Glostrup, Albertslund og Taastrup. Gode lyse lokaler med nem adgang og gode parkeringsmuligheder. Blid yoga med fokus på balance, smidighed og ro.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/yoga-seniorer?holdnr=23543</g:link>
+      <g:image_link>https://www.fof.dk/media/h25hzzsj/ypga-for-seniorer.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1500.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Københavns Omegn</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Yoga</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Albertslund</g:custom_label_4>
+      <g:start_date>2027-02-02T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Albertslund</g:custom_label_3>
+      <g:internal_label>['Albertslund']</g:internal_label>
+    </item>
+<item>
       <g:id>KBO-23553</g:id>
       <g:title><![CDATA[Hatha yoga for mænd]]></g:title>
       <g:description><![CDATA[Deltag i Hatha yoga for mænd i Taastrup og Rødovre hos FOF Københavns Omegn. Rolig yoga med fokus på styrke, smidighed og færre spændinger.]]></g:description>
@@ -3103,7 +3094,7 @@
       <g:custom_label_4>Rødovre</g:custom_label_4>
       <g:start_date>2027-02-02T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Rødovre</g:custom_label_3>
-      <g:internal_label>['Rødovre','Taastrup']</g:internal_label>
+      <g:internal_label>['Rødovre']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23529</g:id>
@@ -3125,7 +3116,7 @@
       <g:custom_label_4>Herlev</g:custom_label_4>
       <g:start_date>2027-02-02T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Herlev</g:custom_label_3>
-      <g:internal_label>['Herlev','Albertslund','Glostrup','Taastrup']</g:internal_label>
+      <g:internal_label>['Herlev']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23861</g:id>
@@ -3214,7 +3205,7 @@
       <g:custom_label_4>Herlev</g:custom_label_4>
       <g:start_date>2027-02-03T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Herlev</g:custom_label_3>
-      <g:internal_label>['Herlev','Vallensbæk','Taastrup','Rødovre','Ballerup','Glostrup','Albertslund']</g:internal_label>
+      <g:internal_label>['Herlev']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23321</g:id>
@@ -3258,7 +3249,7 @@
       <g:custom_label_4>Vallensbæk</g:custom_label_4>
       <g:start_date>2027-02-03T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Vallensbæk</g:custom_label_3>
-      <g:internal_label>['Vallensbæk','Herlev','Rødovre']</g:internal_label>
+      <g:internal_label>['Vallensbæk']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23857</g:id>
@@ -3280,29 +3271,7 @@
       <g:custom_label_4>Vallensbæk</g:custom_label_4>
       <g:start_date>2027-02-03T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Vallensbæk</g:custom_label_3>
-      <g:internal_label>['Vallensbæk','Albertslund','Brøndby','Glostrup','Herlev','Taastrup']</g:internal_label>
-    </item>
-<item>
-      <g:id>KBO-23828</g:id>
-      <g:title><![CDATA[Styrketræning med fokus på osteoporose]]></g:title>
-      <g:description><![CDATA[For dig med knogleskørhed/osteoporose. Skånsom og målrettet træning for dig med osteoporose. Fokus på styrke, balance og tryg bevægelse i rolige rammer med professionel vejledning.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/osteoporosetraening?holdnr=23828</g:link>
-      <g:image_link>https://www.fof.dk/media/koib4ksf/23.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1365.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Københavns Omegn</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Styrke- og konditionstræning</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Styrke- og konditionstræning</g:custom_label_2>
-      <g:custom_label_4>Brøndby</g:custom_label_4>
-      <g:start_date>2027-02-03T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Brøndby</g:custom_label_3>
-      <g:internal_label>['Brøndby','Herlev']</g:internal_label>
+      <g:internal_label>['Vallensbæk']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23700</g:id>
@@ -3321,6 +3290,28 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Musik og sang</g:custom_label_1>
       <g:custom_label_2>Klaver og harmonika</g:custom_label_2>
+      <g:custom_label_4>Brøndby</g:custom_label_4>
+      <g:start_date>2027-02-03T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Brøndby</g:custom_label_3>
+      <g:internal_label>['Brøndby']</g:internal_label>
+    </item>
+<item>
+      <g:id>KBO-23828</g:id>
+      <g:title><![CDATA[Styrketræning med fokus på osteoporose]]></g:title>
+      <g:description><![CDATA[For dig med knogleskørhed/osteoporose. Skånsom og målrettet træning for dig med osteoporose. Fokus på styrke, balance og tryg bevægelse i rolige rammer med professionel vejledning.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/osteoporosetraening?holdnr=23828</g:link>
+      <g:image_link>https://www.fof.dk/media/koib4ksf/23.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1365.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Københavns Omegn</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Styrke- og konditionstræning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Styrke- og konditionstræning</g:custom_label_2>
       <g:custom_label_4>Brøndby</g:custom_label_4>
       <g:start_date>2027-02-03T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Brøndby</g:custom_label_3>
@@ -3368,7 +3359,7 @@
       <g:custom_label_4>Rødovre</g:custom_label_4>
       <g:start_date>2027-02-04T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Rødovre</g:custom_label_3>
-      <g:internal_label>['Rødovre','Albertslund','Brøndby','Glostrup','Herlev','Taastrup']</g:internal_label>
+      <g:internal_label>['Rødovre']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23522</g:id>
@@ -3390,7 +3381,7 @@
       <g:custom_label_4>Herlev</g:custom_label_4>
       <g:start_date>2027-02-04T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Herlev</g:custom_label_3>
-      <g:internal_label>['Herlev','Glostrup']</g:internal_label>
+      <g:internal_label>['Herlev']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23538</g:id>
@@ -3402,6 +3393,28 @@
       <g:availability>in_stock</g:availability>
       <g:quantity>1</g:quantity>
       <g:price>1500.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Københavns Omegn</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Styrke- og konditionstræning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Styrke- og konditionstræning</g:custom_label_2>
+      <g:custom_label_4>Rødovre</g:custom_label_4>
+      <g:start_date>2027-02-04T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Rødovre</g:custom_label_3>
+      <g:internal_label>['Rødovre']</g:internal_label>
+    </item>
+<item>
+      <g:id>KBO-23834</g:id>
+      <g:title><![CDATA[Bevægelse ved ADHD, stress og uro]]></g:title>
+      <g:description><![CDATA[For dig med knogleskørhed/osteoporose. Skånsom og målrettet træning for dig med osteoporose. Fokus på styrke, balance og tryg bevægelse i rolige rammer med professionel vejledning.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/osteoporosetraening?holdnr=23834</g:link>
+      <g:image_link>https://www.fof.dk/media/koib4ksf/23.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1450.00 DKK</g:price>
       <g:condition>new</g:condition>
       <g:brand>FOF Københavns Omegn</g:brand>
       <g:google_product_category>Education</g:google_product_category>
@@ -3435,29 +3448,7 @@
       <g:custom_label_4>Taastrup</g:custom_label_4>
       <g:start_date>2027-02-04T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Taastrup</g:custom_label_3>
-      <g:internal_label>['Taastrup','Glostrup','Ballerup']</g:internal_label>
-    </item>
-<item>
-      <g:id>KBO-23834</g:id>
-      <g:title><![CDATA[Bevægelse ved ADHD, stress og uro]]></g:title>
-      <g:description><![CDATA[For dig med knogleskørhed/osteoporose. Skånsom og målrettet træning for dig med osteoporose. Fokus på styrke, balance og tryg bevægelse i rolige rammer med professionel vejledning.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/osteoporosetraening?holdnr=23834</g:link>
-      <g:image_link>https://www.fof.dk/media/koib4ksf/23.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1450.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Københavns Omegn</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Styrke- og konditionstræning</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Styrke- og konditionstræning</g:custom_label_2>
-      <g:custom_label_4>Rødovre</g:custom_label_4>
-      <g:start_date>2027-02-04T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Rødovre</g:custom_label_3>
-      <g:internal_label>['Rødovre','Herlev','Brøndby']</g:internal_label>
+      <g:internal_label>['Taastrup']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23579</g:id>
@@ -3479,7 +3470,7 @@
       <g:custom_label_4>Rødovre</g:custom_label_4>
       <g:start_date>2027-02-04T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Rødovre</g:custom_label_3>
-      <g:internal_label>['Rødovre','Vallensbæk','Glostrup','Herlev','Brøndby']</g:internal_label>
+      <g:internal_label>['Rødovre']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23587</g:id>
@@ -3523,7 +3514,7 @@
       <g:custom_label_4>Herlev</g:custom_label_4>
       <g:start_date>2027-02-04T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Herlev</g:custom_label_3>
-      <g:internal_label>['Herlev','Brøndby']</g:internal_label>
+      <g:internal_label>['Herlev']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23898</g:id>
@@ -3587,7 +3578,7 @@
       <g:custom_label_4>Rødovre</g:custom_label_4>
       <g:start_date>2027-02-04T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Rødovre</g:custom_label_3>
-      <g:internal_label>['Rødovre','Herlev','Brøndby','Taastrup']</g:internal_label>
+      <g:internal_label>['Rødovre']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23030</g:id>
@@ -3631,7 +3622,7 @@
       <g:custom_label_4>Brøndby</g:custom_label_4>
       <g:start_date>2027-02-05T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Brøndby</g:custom_label_3>
-      <g:internal_label>['Brøndby','Albertslund','Glostrup','Herlev','Taastrup']</g:internal_label>
+      <g:internal_label>['Brøndby']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-33505</g:id>
@@ -3653,8 +3644,8 @@
       <g:custom_label_2>Motion, dans og drama</g:custom_label_2>
       <g:custom_label_4>Skovlunde</g:custom_label_4>
       <g:start_date>2027-02-06T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Familie</g:custom_label_3>
-      <g:internal_label>['Familie','Ballerup','Skovlunde']</g:internal_label>
+      <g:custom_label_3>Ballerup</g:custom_label_3>
+      <g:internal_label>['Ballerup','Skovlunde']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23970</g:id>
@@ -3698,7 +3689,7 @@
       <g:custom_label_4>Vallensbæk</g:custom_label_4>
       <g:start_date>2027-02-06T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Vallensbæk</g:custom_label_3>
-      <g:internal_label>['Vallensbæk','Glostrup','Ballerup','Brøndby','Rødovre','Taastrup']</g:internal_label>
+      <g:internal_label>['Vallensbæk']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-33504</g:id>
@@ -3742,7 +3733,7 @@
       <g:custom_label_4>Brøndby</g:custom_label_4>
       <g:start_date>2027-02-06T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Brøndby</g:custom_label_3>
-      <g:internal_label>['Brøndby','Familie','Ballerup','Albertslund','Endagskurser']</g:internal_label>
+      <g:internal_label>['Brøndby','Endagskurser','Familie']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-33201</g:id>
@@ -3764,7 +3755,7 @@
       <g:custom_label_4>Brøndby</g:custom_label_4>
       <g:start_date>2027-02-06T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Brøndby</g:custom_label_3>
-      <g:internal_label>['Brøndby','Familie','Ballerup','Albertslund','Endagskurser']</g:internal_label>
+      <g:internal_label>['Brøndby','Endagskurser','Familie']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23612</g:id>
@@ -3786,7 +3777,7 @@
       <g:custom_label_4>Vallensbæk</g:custom_label_4>
       <g:start_date>2027-02-06T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Vallensbæk</g:custom_label_3>
-      <g:internal_label>['Vallensbæk','Taastrup','Rødovre','Herlev','Ballerup','Glostrup','Albertslund']</g:internal_label>
+      <g:internal_label>['Vallensbæk']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-33507</g:id>
@@ -3852,7 +3843,7 @@
       <g:custom_label_4>Rødovre</g:custom_label_4>
       <g:start_date>2027-02-08T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Rødovre</g:custom_label_3>
-      <g:internal_label>['Rødovre','Glostrup','Ballerup','Brøndby','Taastrup']</g:internal_label>
+      <g:internal_label>['Rødovre']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23481</g:id>
@@ -3896,7 +3887,7 @@
       <g:custom_label_4>Taastrup</g:custom_label_4>
       <g:start_date>2027-02-08T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Taastrup</g:custom_label_3>
-      <g:internal_label>['Taastrup','Brøndby']</g:internal_label>
+      <g:internal_label>['Taastrup']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23580</g:id>
@@ -3918,7 +3909,29 @@
       <g:custom_label_4>Herlev</g:custom_label_4>
       <g:start_date>2027-02-09T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Herlev</g:custom_label_3>
-      <g:internal_label>['Herlev','Taastrup','Rødovre']</g:internal_label>
+      <g:internal_label>['Herlev']</g:internal_label>
+    </item>
+<item>
+      <g:id>KBO-23848</g:id>
+      <g:title><![CDATA[Hatha yoga hensyntagende]]></g:title>
+      <g:description><![CDATA[Deltag i yoga for seniorer hos FOF Københavns Omegn i Albertslund, Glostrup, Taastrup, Brøndby og Herlev. Vælg mellem Hatha yoga, senioryoga og yoga med fokus på styrke, balance og åndedræt.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/hensyntagende-yoga?holdnr=23848</g:link>
+      <g:image_link>https://www.fof.dk/media/sgqc4dji/yoga-fof-aftenskolen-20.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1450.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Københavns Omegn</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Yoga</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Herlev</g:custom_label_4>
+      <g:start_date>2027-02-09T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Herlev</g:custom_label_3>
+      <g:internal_label>['Herlev']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23114</g:id>
@@ -3940,7 +3953,7 @@
       <g:custom_label_4>Brøndby</g:custom_label_4>
       <g:start_date>2027-02-09T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Brøndby</g:custom_label_3>
-      <g:internal_label>['Brøndby']</g:internal_label>
+      <g:internal_label>['Brøndby','Endagskurser']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23294</g:id>
@@ -3948,6 +3961,28 @@
       <g:description><![CDATA[Få mere nærvær og kontakt i parforholdet med mindfulness for par i Glostrup. Seks eftermiddage med øvelser, ro og tid til hinanden.]]></g:description>
       <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/mindfulness-for-par-mere-naervaer-med-din-partner?holdnr=23294</g:link>
       <g:image_link>https://www.fof.dk/media/leph1xuv/mindfulness-for-par.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>725.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Københavns Omegn</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Livsstil og trivsel &gt; Personlig udvikling</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Livsstil og trivsel</g:custom_label_1>
+      <g:custom_label_2>Personlig udvikling</g:custom_label_2>
+      <g:custom_label_4>Glostrup</g:custom_label_4>
+      <g:start_date>2027-02-09T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Glostrup</g:custom_label_3>
+      <g:internal_label>['Glostrup']</g:internal_label>
+    </item>
+<item>
+      <g:id>KBO-23293</g:id>
+      <g:title><![CDATA[Selvkærlig mindfulness – mere nærvær med dig selv  ]]></g:title>
+      <g:description><![CDATA[Find mere ro og nærvær med selvkærlig mindfulness i Glostrup. Et 6 ugers forløb for kvinder med meditation, kropskontakt og selvomsorg.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/selvkaerlig-mindfulness-mere-naervaer-med-dig-selv?holdnr=23293</g:link>
+      <g:image_link>https://www.fof.dk/media/wualdg3o/vagusnerven-og-stress-foredrag.jpg?width=1200</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:quantity>1</g:quantity>
       <g:price>725.00 DKK</g:price>
@@ -3984,29 +4019,7 @@
       <g:custom_label_4>Rødovre</g:custom_label_4>
       <g:start_date>2027-02-09T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Rødovre</g:custom_label_3>
-      <g:internal_label>['Rødovre','Familie']</g:internal_label>
-    </item>
-<item>
-      <g:id>KBO-23293</g:id>
-      <g:title><![CDATA[Selvkærlig mindfulness – mere nærvær med dig selv  ]]></g:title>
-      <g:description><![CDATA[Find mere ro og nærvær med selvkærlig mindfulness i Glostrup. Et 6 ugers forløb for kvinder med meditation, kropskontakt og selvomsorg.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/selvkaerlig-mindfulness-mere-naervaer-med-dig-selv?holdnr=23293</g:link>
-      <g:image_link>https://www.fof.dk/media/wualdg3o/vagusnerven-og-stress-foredrag.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>725.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Københavns Omegn</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Livsstil og trivsel &gt; Personlig udvikling</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Livsstil og trivsel</g:custom_label_1>
-      <g:custom_label_2>Personlig udvikling</g:custom_label_2>
-      <g:custom_label_4>Glostrup</g:custom_label_4>
-      <g:start_date>2027-02-09T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Glostrup</g:custom_label_3>
-      <g:internal_label>['Glostrup']</g:internal_label>
+      <g:internal_label>['Rødovre']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23523</g:id>
@@ -4028,7 +4041,7 @@
       <g:custom_label_4>Taastrup</g:custom_label_4>
       <g:start_date>2027-02-09T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Taastrup</g:custom_label_3>
-      <g:internal_label>['Taastrup','Rødovre','Herlev']</g:internal_label>
+      <g:internal_label>['Taastrup']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23031</g:id>
@@ -4071,8 +4084,6 @@
       <g:custom_label_2>Fest- og hverdagsmad</g:custom_label_2>
       <g:custom_label_4></g:custom_label_4>
       <g:start_date>2027-02-10T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Glostrup</g:custom_label_3>
-      <g:internal_label>['Glostrup']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23654</g:id>
@@ -4094,7 +4105,7 @@
       <g:custom_label_4>Brøndby</g:custom_label_4>
       <g:start_date>2027-02-10T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Brøndby</g:custom_label_3>
-      <g:internal_label>['Brøndby','Herlev','Taastrup']</g:internal_label>
+      <g:internal_label>['Brøndby']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-33502</g:id>
@@ -4116,7 +4127,7 @@
       <g:custom_label_4>Rødovre</g:custom_label_4>
       <g:start_date>2027-02-10T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Rødovre</g:custom_label_3>
-      <g:internal_label>['Rødovre','Familie','Taastrup']</g:internal_label>
+      <g:internal_label>['Rødovre','Familie']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23482</g:id>
@@ -4160,8 +4171,8 @@
       <g:custom_label_2>Aktiviteter med baby</g:custom_label_2>
       <g:custom_label_4>Vallensbæk</g:custom_label_4>
       <g:start_date>2027-02-11T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Familie</g:custom_label_3>
-      <g:internal_label>['Familie','Vallensbæk']</g:internal_label>
+      <g:custom_label_3>Vallensbæk</g:custom_label_3>
+      <g:internal_label>['Vallensbæk']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23591</g:id>
@@ -4183,7 +4194,7 @@
       <g:custom_label_4>Ballerup</g:custom_label_4>
       <g:start_date>2027-02-11T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Ballerup</g:custom_label_3>
-      <g:internal_label>['Ballerup','Vallensbæk','Taastrup','Rødovre','Herlev','Glostrup','Albertslund']</g:internal_label>
+      <g:internal_label>['Ballerup']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23562</g:id>
@@ -4205,7 +4216,7 @@
       <g:custom_label_4>Taastrup</g:custom_label_4>
       <g:start_date>2027-02-11T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Taastrup</g:custom_label_3>
-      <g:internal_label>['Taastrup','Glostrup','Ballerup','Brøndby','Rødovre']</g:internal_label>
+      <g:internal_label>['Taastrup']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-33204</g:id>
@@ -4249,7 +4260,7 @@
       <g:custom_label_4>Hedehusene</g:custom_label_4>
       <g:start_date>2027-02-11T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Taastrup</g:custom_label_3>
-      <g:internal_label>['Taastrup','Vallensbæk','Rødovre','Herlev','Ballerup','Glostrup','Albertslund','Hedehusene']</g:internal_label>
+      <g:internal_label>['Taastrup','Hedehusene']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23537</g:id>
@@ -4271,7 +4282,7 @@
       <g:custom_label_4>Taastrup</g:custom_label_4>
       <g:start_date>2027-02-11T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Taastrup</g:custom_label_3>
-      <g:internal_label>['Taastrup','Glostrup','Ballerup','Brøndby','Rødovre']</g:internal_label>
+      <g:internal_label>['Taastrup']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-33301</g:id>
@@ -4293,8 +4304,8 @@
       <g:custom_label_2>Aktiviteter med baby</g:custom_label_2>
       <g:custom_label_4>Vallensbæk</g:custom_label_4>
       <g:start_date>2027-02-11T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Familie</g:custom_label_3>
-      <g:internal_label>['Familie','Vallensbæk']</g:internal_label>
+      <g:custom_label_3>Vallensbæk</g:custom_label_3>
+      <g:internal_label>['Vallensbæk']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23586</g:id>
@@ -4316,7 +4327,7 @@
       <g:custom_label_4>Hedehusene</g:custom_label_4>
       <g:start_date>2027-02-11T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Taastrup</g:custom_label_3>
-      <g:internal_label>['Taastrup','Glostrup','Ballerup','Brøndby','Rødovre','Hedehusene']</g:internal_label>
+      <g:internal_label>['Taastrup','Hedehusene']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23819</g:id>
@@ -4338,7 +4349,7 @@
       <g:custom_label_4>Rødovre</g:custom_label_4>
       <g:start_date>2027-02-11T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Rødovre</g:custom_label_3>
-      <g:internal_label>['Rødovre','Herlev']</g:internal_label>
+      <g:internal_label>['Rødovre']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23484</g:id>
@@ -4381,7 +4392,6 @@
       <g:custom_label_2>Syning</g:custom_label_2>
       <g:custom_label_4>Brøndby</g:custom_label_4>
       <g:start_date>2027-02-13T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Brøndby</g:custom_label_3>
       <g:internal_label>['Brøndby']</g:internal_label>
     </item>
 <item>
@@ -4404,7 +4414,7 @@
       <g:custom_label_4>Ballerup</g:custom_label_4>
       <g:start_date>2027-02-13T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Ballerup</g:custom_label_3>
-      <g:internal_label>['Ballerup']</g:internal_label>
+      <g:internal_label>['Ballerup','Endagskurser']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-33400</g:id>
@@ -4470,7 +4480,7 @@
       <g:custom_label_4>Brøndby</g:custom_label_4>
       <g:start_date>2027-02-20T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Brøndby</g:custom_label_3>
-      <g:internal_label>['Brøndby','Taastrup']</g:internal_label>
+      <g:internal_label>['Brøndby']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-33600</g:id>
@@ -4492,7 +4502,7 @@
       <g:custom_label_4>Taastrup</g:custom_label_4>
       <g:start_date>2027-02-21T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Taastrup</g:custom_label_3>
-      <g:internal_label>['Taastrup','Familie','Endagskurser']</g:internal_label>
+      <g:internal_label>['Taastrup','Endagskurser']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23342</g:id>
@@ -4559,7 +4569,7 @@
       <g:custom_label_4>Måløv</g:custom_label_4>
       <g:start_date>2027-02-22T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Ballerup</g:custom_label_3>
-      <g:internal_label>['Ballerup','Måløv']</g:internal_label>
+      <g:internal_label>['Ballerup','Endagskurser','Måløv']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23502</g:id>
@@ -4581,7 +4591,7 @@
       <g:custom_label_4>Glostrup</g:custom_label_4>
       <g:start_date>2027-02-22T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Glostrup</g:custom_label_3>
-      <g:internal_label>['Glostrup','Vallensbæk','Taastrup','Rødovre','Herlev','Ballerup','Albertslund']</g:internal_label>
+      <g:internal_label>['Glostrup']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23361</g:id>
@@ -4603,7 +4613,7 @@
       <g:custom_label_4>Glostrup</g:custom_label_4>
       <g:start_date>2027-02-23T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Glostrup</g:custom_label_3>
-      <g:internal_label>['Glostrup','Brøndby','Vallensbæk']</g:internal_label>
+      <g:internal_label>['Glostrup']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-33101</g:id>
@@ -4626,7 +4636,7 @@
       <g:custom_label_4>Hedehusene</g:custom_label_4>
       <g:start_date>2027-02-23T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Taastrup</g:custom_label_3>
-      <g:internal_label>['Taastrup','Hedehusene']</g:internal_label>
+      <g:internal_label>['Taastrup','Endagskurser','Hedehusene']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23454</g:id>
@@ -4670,7 +4680,7 @@
       <g:custom_label_4>Brøndby Strand</g:custom_label_4>
       <g:start_date>2027-02-23T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Brøndby</g:custom_label_3>
-      <g:internal_label>['Brøndby','Taastrup','Brøndby Strand']</g:internal_label>
+      <g:internal_label>['Brøndby','Brøndby Strand']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23148</g:id>
@@ -4692,7 +4702,7 @@
       <g:custom_label_4>Brøndby</g:custom_label_4>
       <g:start_date>2027-02-23T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Brøndby</g:custom_label_3>
-      <g:internal_label>['Brøndby','Foredrag kalender']</g:internal_label>
+      <g:internal_label>['Brøndby','Endagskurser']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23933</g:id>
@@ -4714,7 +4724,7 @@
       <g:custom_label_4>Glostrup</g:custom_label_4>
       <g:start_date>2027-02-24T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Glostrup</g:custom_label_3>
-      <g:internal_label>['Glostrup','Herlev','Ballerup']</g:internal_label>
+      <g:internal_label>['Glostrup']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23936</g:id>
@@ -4736,7 +4746,7 @@
       <g:custom_label_4>Glostrup</g:custom_label_4>
       <g:start_date>2027-02-24T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Glostrup</g:custom_label_3>
-      <g:internal_label>['Glostrup','Herlev','Ballerup']</g:internal_label>
+      <g:internal_label>['Glostrup']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23357</g:id>
@@ -4758,7 +4768,7 @@
       <g:custom_label_4>Brøndby</g:custom_label_4>
       <g:start_date>2027-02-25T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Brøndby</g:custom_label_3>
-      <g:internal_label>['Brøndby','Glostrup']</g:internal_label>
+      <g:internal_label>['Brøndby']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23358</g:id>
@@ -4780,7 +4790,7 @@
       <g:custom_label_4>Brøndby</g:custom_label_4>
       <g:start_date>2027-02-25T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Brøndby</g:custom_label_3>
-      <g:internal_label>['Brøndby','Glostrup','Vallensbæk']</g:internal_label>
+      <g:internal_label>['Brøndby']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23809</g:id>
@@ -4802,7 +4812,7 @@
       <g:custom_label_4>Herlev</g:custom_label_4>
       <g:start_date>2027-02-25T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Herlev</g:custom_label_3>
-      <g:internal_label>['Herlev','Brøndby']</g:internal_label>
+      <g:internal_label>['Herlev']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23359</g:id>
@@ -4824,7 +4834,7 @@
       <g:custom_label_4>Brøndby</g:custom_label_4>
       <g:start_date>2027-02-25T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Brøndby</g:custom_label_3>
-      <g:internal_label>['Brøndby','Glostrup','Vallensbæk']</g:internal_label>
+      <g:internal_label>['Brøndby']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23150</g:id>
@@ -4846,7 +4856,7 @@
       <g:custom_label_4>Taastrup</g:custom_label_4>
       <g:start_date>2027-02-26T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Taastrup</g:custom_label_3>
-      <g:internal_label>['Taastrup','Foredrag kalender']</g:internal_label>
+      <g:internal_label>['Taastrup','Endagskurser']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23008</g:id>
@@ -4867,8 +4877,8 @@
       <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4>København</g:custom_label_4>
       <g:start_date>2027-02-26T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>København</g:custom_label_3>
-      <g:internal_label>['København','København K']</g:internal_label>
+      <g:custom_label_3>Endagskurser</g:custom_label_3>
+      <g:internal_label>['Endagskurser','København','København K']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23007</g:id>
@@ -4912,7 +4922,7 @@
       <g:custom_label_4>Herlev</g:custom_label_4>
       <g:start_date>2027-02-27T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Herlev</g:custom_label_3>
-      <g:internal_label>['Herlev','Glostrup']</g:internal_label>
+      <g:internal_label>['Herlev']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23455</g:id>
@@ -4956,7 +4966,7 @@
       <g:custom_label_4>Valby</g:custom_label_4>
       <g:start_date>2027-02-27T00:00:00.000Z</g:start_date>
       <g:custom_label_3>København</g:custom_label_3>
-      <g:internal_label>['København','Tur kalender','Valby']</g:internal_label>
+      <g:internal_label>['København','Endagskurser','Valby']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-33601</g:id>
@@ -4978,7 +4988,7 @@
       <g:custom_label_4>Brøndby</g:custom_label_4>
       <g:start_date>2027-02-28T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Brøndby</g:custom_label_3>
-      <g:internal_label>['Brøndby','Familie','Endagskurser']</g:internal_label>
+      <g:internal_label>['Brøndby','Endagskurser']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-33510</g:id>
@@ -5044,7 +5054,7 @@
       <g:custom_label_4>Taastrup</g:custom_label_4>
       <g:start_date>2027-03-01T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Taastrup</g:custom_label_3>
-      <g:internal_label>['Taastrup','Brøndby']</g:internal_label>
+      <g:internal_label>['Taastrup']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23685</g:id>
@@ -5066,7 +5076,7 @@
       <g:custom_label_4>Taastrup</g:custom_label_4>
       <g:start_date>2027-03-01T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Taastrup</g:custom_label_3>
-      <g:internal_label>['Taastrup','Rødovre','Herlev']</g:internal_label>
+      <g:internal_label>['Taastrup']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23102</g:id>
@@ -5110,7 +5120,7 @@
       <g:custom_label_4>Taastrup</g:custom_label_4>
       <g:start_date>2027-03-01T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Taastrup</g:custom_label_3>
-      <g:internal_label>['Taastrup','Herlev','Brøndby']</g:internal_label>
+      <g:internal_label>['Taastrup']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23360</g:id>
@@ -5132,29 +5142,7 @@
       <g:custom_label_4>Vallensbæk Strand</g:custom_label_4>
       <g:start_date>2027-03-01T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Vallensbæk</g:custom_label_3>
-      <g:internal_label>['Vallensbæk','Brøndby','Glostrup','Vallensbæk Strand']</g:internal_label>
-    </item>
-<item>
-      <g:id>KBO-23401</g:id>
-      <g:title><![CDATA[Billedkunst - Mixed media]]></g:title>
-      <g:description><![CDATA[Oplev FOF’s billedkunstkursus i Taastrup og lær at kombinere akryl, akvarel, tusch, grafit og pastel. Billedkunst for begyndere og øvede, der vil udforske akrylmaling, akvarel, tusch, grafit, kul, pastel og blyant, og finde deres egen kunstneriske stil]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/billedkunst?holdnr=23401</g:link>
-      <g:image_link>https://www.fof.dk/media/qlonhgim/mixed-media-1.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1185.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Københavns Omegn</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Kreative kurser &gt; Malekurser</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Kreative kurser</g:custom_label_1>
-      <g:custom_label_2>Malekurser</g:custom_label_2>
-      <g:custom_label_4>Taastrup</g:custom_label_4>
-      <g:start_date>2027-03-02T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Taastrup</g:custom_label_3>
-      <g:internal_label>['Taastrup']</g:internal_label>
+      <g:internal_label>['Vallensbæk','Vallensbæk Strand']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23464</g:id>
@@ -5218,7 +5206,6 @@
       <g:custom_label_2>Klaver og harmonika</g:custom_label_2>
       <g:custom_label_4>Taastrup</g:custom_label_4>
       <g:start_date>2027-03-02T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Taastrup</g:custom_label_3>
       <g:internal_label>['Taastrup']</g:internal_label>
     </item>
 <item>
@@ -5305,7 +5292,7 @@
       <g:custom_label_4>Rødovre</g:custom_label_4>
       <g:start_date>2027-03-03T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Rødovre</g:custom_label_3>
-      <g:internal_label>['Rødovre','Familie']</g:internal_label>
+      <g:internal_label>['Rødovre','Endagskurser']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23786</g:id>
@@ -5326,7 +5313,6 @@
       <g:custom_label_2>Klaver og harmonika</g:custom_label_2>
       <g:custom_label_4>Taastrup</g:custom_label_4>
       <g:start_date>2027-03-03T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Taastrup</g:custom_label_3>
       <g:internal_label>['Taastrup']</g:internal_label>
     </item>
 <item>
@@ -5374,6 +5360,28 @@
       <g:internal_label>['Ballerup','Skovlunde']</g:internal_label>
     </item>
 <item>
+      <g:id>KBO-23401</g:id>
+      <g:title><![CDATA[Billedkunst - Mixed media]]></g:title>
+      <g:description><![CDATA[Oplev FOF’s billedkunstkursus i Taastrup og lær at kombinere akryl, akvarel, tusch, grafit og pastel. Billedkunst for begyndere og øvede, der vil udforske akrylmaling, akvarel, tusch, grafit, kul, pastel og blyant, og finde deres egen kunstneriske stil]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/billedkunst?holdnr=23401</g:link>
+      <g:image_link>https://www.fof.dk/media/qlonhgim/mixed-media-1.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1185.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Københavns Omegn</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Kreative kurser &gt; Malekurser</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Kreative kurser</g:custom_label_1>
+      <g:custom_label_2>Malekurser</g:custom_label_2>
+      <g:custom_label_4>Taastrup</g:custom_label_4>
+      <g:start_date>2027-03-04T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Taastrup</g:custom_label_3>
+      <g:internal_label>['Taastrup']</g:internal_label>
+    </item>
+<item>
       <g:id>KBO-23796</g:id>
       <g:title><![CDATA[Klaver]]></g:title>
       <g:description><![CDATA[Lær at spille klaver i Taastrup. Undervisningen tilpasses dit niveau, med fokus på glæde ved musikken, becifringsspil og nodelære. Undervisningen tilpasses individuelt, så du lærer i dit eget tempo. Du får mulighed for at spille dine yndlingssange og eksperimentere kreativt.]]></g:description>
@@ -5392,7 +5400,6 @@
       <g:custom_label_2>Klaver og harmonika</g:custom_label_2>
       <g:custom_label_4>Taastrup</g:custom_label_4>
       <g:start_date>2027-03-04T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Taastrup</g:custom_label_3>
       <g:internal_label>['Taastrup']</g:internal_label>
     </item>
 <item>
@@ -5415,7 +5422,30 @@
       <g:custom_label_4>Brøndby</g:custom_label_4>
       <g:start_date>2027-03-04T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Brøndby</g:custom_label_3>
-      <g:internal_label>['Brøndby','Taastrup','Endagskurser']</g:internal_label>
+      <g:internal_label>['Brøndby','Endagskurser']</g:internal_label>
+    </item>
+<item>
+      <g:id>KBO-33102</g:id>
+      <g:title><![CDATA[På job efter barsel: Hvad nu?]]></g:title>
+      <g:description><![CDATA[Er barslen ved at være slut? Få klarhed over arbejdsglæde, styrker og nye muligheder, og find konkrete næste skridt i dit arbejdsliv.
+]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/paa-job-efter-barsel-hvad-nu?holdnr=33102</g:link>
+      <g:image_link>https://www.fof.dk/media/ttsodpkg/efterfoedselsyoga-koege-fof-aftenskolen.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>250.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Københavns Omegn</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Livsstil og trivsel &gt; Karriere og arbejdsliv</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Livsstil og trivsel</g:custom_label_1>
+      <g:custom_label_2>Karriere og arbejdsliv</g:custom_label_2>
+      <g:custom_label_4>Rødovre</g:custom_label_4>
+      <g:start_date>2027-03-04T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Rødovre</g:custom_label_3>
+      <g:internal_label>['Rødovre','Endagskurser']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-33108</g:id>
@@ -5439,29 +5469,6 @@
       <g:internal_label>['Rødovre']</g:internal_label>
     </item>
 <item>
-      <g:id>KBO-33102</g:id>
-      <g:title><![CDATA[På job efter barsel: Hvad nu?]]></g:title>
-      <g:description><![CDATA[Er barslen ved at være slut? Få klarhed over arbejdsglæde, styrker og nye muligheder, og find konkrete næste skridt i dit arbejdsliv.
-]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/paa-job-efter-barsel-hvad-nu?holdnr=33102</g:link>
-      <g:image_link>https://www.fof.dk/media/ttsodpkg/efterfoedselsyoga-koege-fof-aftenskolen.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>250.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Københavns Omegn</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Livsstil og trivsel &gt; Karriere og arbejdsliv</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Livsstil og trivsel</g:custom_label_1>
-      <g:custom_label_2>Karriere og arbejdsliv</g:custom_label_2>
-      <g:custom_label_4>Rødovre</g:custom_label_4>
-      <g:start_date>2027-03-04T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Rødovre</g:custom_label_3>
-      <g:internal_label>['Rødovre']</g:internal_label>
-    </item>
-<item>
       <g:id>KBO-23683</g:id>
       <g:title><![CDATA[Gotved bevægelse og afspænding]]></g:title>
       <g:description><![CDATA[Deltag i Gotvedgymnastik i Taastrup Kulturcenter og Parkskolen i Ballerup. Helhedsorienteret træning med fokus på smidighed, styrke og kropsbevidsthed for alle aldre og niveauer. | FOF Københavns Omegn]]></g:description>
@@ -5481,7 +5488,7 @@
       <g:custom_label_4>Skovlunde</g:custom_label_4>
       <g:start_date>2027-03-04T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Ballerup</g:custom_label_3>
-      <g:internal_label>['Ballerup','Glostrup','Taastrup','Skovlunde']</g:internal_label>
+      <g:internal_label>['Ballerup','Skovlunde']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23390</g:id>
@@ -5525,8 +5532,8 @@
       <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4></g:custom_label_4>
       <g:start_date>2027-03-04T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>København</g:custom_label_3>
-      <g:internal_label>['København']</g:internal_label>
+      <g:custom_label_3>Endagskurser</g:custom_label_3>
+      <g:internal_label>['Endagskurser','København']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23572</g:id>
@@ -5548,7 +5555,7 @@
       <g:custom_label_4>Brøndby</g:custom_label_4>
       <g:start_date>2027-03-05T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Brøndby</g:custom_label_3>
-      <g:internal_label>['Brøndby','Glostrup','Ballerup']</g:internal_label>
+      <g:internal_label>['Brøndby']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-33202</g:id>
@@ -5570,7 +5577,7 @@
       <g:custom_label_4>Taastrup</g:custom_label_4>
       <g:start_date>2027-03-06T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Taastrup</g:custom_label_3>
-      <g:internal_label>['Taastrup','Familie','Ballerup','Albertslund','Endagskurser']</g:internal_label>
+      <g:internal_label>['Taastrup','Familie','Endagskurser']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-33203</g:id>
@@ -5592,7 +5599,7 @@
       <g:custom_label_4>Taastrup</g:custom_label_4>
       <g:start_date>2027-03-06T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Taastrup</g:custom_label_3>
-      <g:internal_label>['Taastrup','Familie','Ballerup','Albertslund','Endagskurser']</g:internal_label>
+      <g:internal_label>['Taastrup','Familie','Endagskurser']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23015</g:id>
@@ -5682,6 +5689,8 @@
       <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4></g:custom_label_4>
       <g:start_date>2027-03-10T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Endagskurser</g:custom_label_3>
+      <g:internal_label>['Endagskurser']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23025</g:id>
@@ -5702,8 +5711,8 @@
       <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4></g:custom_label_4>
       <g:start_date>2027-03-12T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Tur kalender</g:custom_label_3>
-      <g:internal_label>['Tur kalender','København']</g:internal_label>
+      <g:custom_label_3>Endagskurser</g:custom_label_3>
+      <g:internal_label>['Endagskurser','København']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23297</g:id>
@@ -5748,7 +5757,7 @@
       <g:custom_label_4>Albertslund</g:custom_label_4>
       <g:start_date>2027-03-13T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Albertslund</g:custom_label_3>
-      <g:internal_label>['Albertslund','Tur kalender','Endagskurser']</g:internal_label>
+      <g:internal_label>['Albertslund','Endagskurser']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-33603</g:id>
@@ -5771,7 +5780,7 @@
       <g:custom_label_4>Vallensbæk Strand</g:custom_label_4>
       <g:start_date>2027-03-14T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Vallensbæk</g:custom_label_3>
-      <g:internal_label>['Vallensbæk','Familie','Vallensbæk Strand']</g:internal_label>
+      <g:internal_label>['Vallensbæk','Endagskurser','Familie','Vallensbæk Strand']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23147</g:id>
@@ -5815,8 +5824,8 @@
       <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4></g:custom_label_4>
       <g:start_date>2027-03-16T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>København</g:custom_label_3>
-      <g:internal_label>['København']</g:internal_label>
+      <g:custom_label_3>Endagskurser</g:custom_label_3>
+      <g:internal_label>['Endagskurser','København']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23103</g:id>
@@ -5838,7 +5847,7 @@
       <g:custom_label_4>Taastrup</g:custom_label_4>
       <g:start_date>2027-03-16T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Taastrup</g:custom_label_3>
-      <g:internal_label>['Taastrup','Glostrup','Foredrag kalender']</g:internal_label>
+      <g:internal_label>['Taastrup','Endagskurser']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23204</g:id>
@@ -5903,8 +5912,8 @@
       <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4></g:custom_label_4>
       <g:start_date>2027-03-20T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Tur kalender</g:custom_label_3>
-      <g:internal_label>['Tur kalender','København']</g:internal_label>
+      <g:custom_label_3>Endagskurser</g:custom_label_3>
+      <g:internal_label>['Endagskurser','København']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-33503</g:id>
@@ -5947,8 +5956,8 @@
       <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4></g:custom_label_4>
       <g:start_date>2027-03-21T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Tur kalender</g:custom_label_3>
-      <g:internal_label>['Tur kalender','Endagskurser']</g:internal_label>
+      <g:custom_label_3>Endagskurser</g:custom_label_3>
+      <g:internal_label>['Endagskurser']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-33508</g:id>
@@ -6037,7 +6046,7 @@
       <g:custom_label_4>Taastrup</g:custom_label_4>
       <g:start_date>2027-03-31T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Taastrup</g:custom_label_3>
-      <g:internal_label>['Taastrup','Foredrag kalender']</g:internal_label>
+      <g:internal_label>['Taastrup','Endagskurser']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23457</g:id>
@@ -6080,8 +6089,6 @@
       <g:custom_label_2>Fest- og hverdagsmad</g:custom_label_2>
       <g:custom_label_4></g:custom_label_4>
       <g:start_date>2027-04-01T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Vallensbæk</g:custom_label_3>
-      <g:internal_label>['Vallensbæk']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23402</g:id>
@@ -6146,8 +6153,6 @@
       <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4></g:custom_label_4>
       <g:start_date>2027-04-03T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Tur kalender</g:custom_label_3>
-      <g:internal_label>['Tur kalender']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23032</g:id>
@@ -6191,7 +6196,7 @@
       <g:custom_label_4>Taastrup</g:custom_label_4>
       <g:start_date>2027-04-03T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Taastrup</g:custom_label_3>
-      <g:internal_label>['Taastrup','Brøndby']</g:internal_label>
+      <g:internal_label>['Taastrup']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-33604</g:id>
@@ -6213,7 +6218,7 @@
       <g:custom_label_4>Taastrup</g:custom_label_4>
       <g:start_date>2027-04-04T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Taastrup</g:custom_label_3>
-      <g:internal_label>['Taastrup','Familie']</g:internal_label>
+      <g:internal_label>['Taastrup','Endagskurser','Familie']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23043</g:id>
@@ -6234,8 +6239,8 @@
       <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4></g:custom_label_4>
       <g:start_date>2027-04-04T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Tur kalender</g:custom_label_3>
-      <g:internal_label>['Tur kalender','København']</g:internal_label>
+      <g:custom_label_3>Endagskurser</g:custom_label_3>
+      <g:internal_label>['Endagskurser','København']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23111</g:id>
@@ -6301,7 +6306,7 @@
       <g:custom_label_4>Rødovre</g:custom_label_4>
       <g:start_date>2027-04-06T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Rødovre</g:custom_label_3>
-      <g:internal_label>['Rødovre']</g:internal_label>
+      <g:internal_label>['Rødovre','Endagskurser']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23019</g:id>
@@ -6322,8 +6327,8 @@
       <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4></g:custom_label_4>
       <g:start_date>2027-04-06T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>København</g:custom_label_3>
-      <g:internal_label>['København']</g:internal_label>
+      <g:custom_label_3>Endagskurser</g:custom_label_3>
+      <g:internal_label>['Endagskurser','København']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-33405</g:id>
@@ -6368,7 +6373,7 @@
       <g:custom_label_4>Glostrup</g:custom_label_4>
       <g:start_date>2027-04-06T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Glostrup</g:custom_label_3>
-      <g:internal_label>['Glostrup','Foredrag kalender']</g:internal_label>
+      <g:internal_label>['Glostrup','Endagskurser']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23112</g:id>
@@ -6390,7 +6395,7 @@
       <g:custom_label_4>Taastrup</g:custom_label_4>
       <g:start_date>2027-04-07T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Taastrup</g:custom_label_3>
-      <g:internal_label>['Taastrup','Foredrag kalender']</g:internal_label>
+      <g:internal_label>['Taastrup','Endagskurser']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23099</g:id>
@@ -6413,7 +6418,7 @@
       <g:custom_label_4>Brøndby</g:custom_label_4>
       <g:start_date>2027-04-09T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Brøndby</g:custom_label_3>
-      <g:internal_label>['Brøndby']</g:internal_label>
+      <g:internal_label>['Brøndby','Endagskurser']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23110</g:id>
@@ -6436,7 +6441,7 @@
       <g:custom_label_4>Taastrup</g:custom_label_4>
       <g:start_date>2027-04-09T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Taastrup</g:custom_label_3>
-      <g:internal_label>['Taastrup']</g:internal_label>
+      <g:internal_label>['Taastrup','Endagskurser']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23026</g:id>
@@ -6457,8 +6462,8 @@
       <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4></g:custom_label_4>
       <g:start_date>2027-04-09T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Tur kalender</g:custom_label_3>
-      <g:internal_label>['Tur kalender','København']</g:internal_label>
+      <g:custom_label_3>Endagskurser</g:custom_label_3>
+      <g:internal_label>['Endagskurser','København']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-22089</g:id>
@@ -6502,7 +6507,7 @@
       <g:custom_label_4>Ballerup</g:custom_label_4>
       <g:start_date>2027-04-10T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Ballerup</g:custom_label_3>
-      <g:internal_label>['Ballerup']</g:internal_label>
+      <g:internal_label>['Ballerup','Endagskurser']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23400</g:id>
@@ -6547,7 +6552,7 @@
       <g:custom_label_4>Vallensbæk Strand</g:custom_label_4>
       <g:start_date>2027-04-11T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Vallensbæk</g:custom_label_3>
-      <g:internal_label>['Vallensbæk','Familie','Vallensbæk Strand']</g:internal_label>
+      <g:internal_label>['Vallensbæk','Endagskurser','Familie','Vallensbæk Strand']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-33401</g:id>
@@ -6590,8 +6595,8 @@
       <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4>Fredensborg</g:custom_label_4>
       <g:start_date>2027-04-11T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Tur kalender</g:custom_label_3>
-      <g:internal_label>['Tur kalender','Endagskurser','Fredensborg']</g:internal_label>
+      <g:custom_label_3>Endagskurser</g:custom_label_3>
+      <g:internal_label>['Endagskurser','Fredensborg']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23017</g:id>
@@ -6657,8 +6662,8 @@
       <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4>København</g:custom_label_4>
       <g:start_date>2027-04-15T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>København</g:custom_label_3>
-      <g:internal_label>['København','København K']</g:internal_label>
+      <g:custom_label_3>Endagskurser</g:custom_label_3>
+      <g:internal_label>['Endagskurser','København','København K']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23027</g:id>
@@ -6679,8 +6684,29 @@
       <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4></g:custom_label_4>
       <g:start_date>2027-04-16T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Tur kalender</g:custom_label_3>
-      <g:internal_label>['Tur kalender','København']</g:internal_label>
+      <g:custom_label_3>Endagskurser</g:custom_label_3>
+      <g:internal_label>['Endagskurser','København']</g:internal_label>
+    </item>
+<item>
+      <g:id>KBO-33001</g:id>
+      <g:title><![CDATA[En dag som miljøagent]]></g:title>
+      <g:description><![CDATA[Tag med på en lærerig tur til Energitårnet Roskilde. Oplev, hvordan affald omdannes til varme og elektricitet, udforsk kontrolrummet og lær om ansvarlig affaldshåndtering med børn og voksne.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/en-dag-som-miljoeagent?holdnr=33001</g:link>
+      <g:image_link>https://www.fof.dk/media/h1xggupk/en-dag-som-miljoeagent.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>140.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Københavns Omegn</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Familie, børn og unge &gt; Udflugter og forestillinger</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Familie, børn og unge</g:custom_label_1>
+      <g:custom_label_2>Udflugter og forestillinger</g:custom_label_2>
+      <g:custom_label_4>Roskilde</g:custom_label_4>
+      <g:start_date>2027-04-16T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Roskilde']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23038</g:id>
@@ -6701,8 +6727,8 @@
       <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4>Albertslund</g:custom_label_4>
       <g:start_date>2027-04-17T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Tur kalender</g:custom_label_3>
-      <g:internal_label>['Tur kalender','Albertslund','Endagskurser']</g:internal_label>
+      <g:custom_label_3>Endagskurser</g:custom_label_3>
+      <g:internal_label>['Endagskurser','Albertslund']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23098</g:id>
@@ -6724,7 +6750,7 @@
       <g:custom_label_4>Brøndby</g:custom_label_4>
       <g:start_date>2027-04-17T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Brøndby</g:custom_label_3>
-      <g:internal_label>['Brøndby']</g:internal_label>
+      <g:internal_label>['Brøndby','Endagskurser']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-33606</g:id>
@@ -6746,7 +6772,7 @@
       <g:custom_label_4>Rødovre</g:custom_label_4>
       <g:start_date>2027-04-18T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Rødovre</g:custom_label_3>
-      <g:internal_label>['Rødovre','Familie']</g:internal_label>
+      <g:internal_label>['Rødovre','Endagskurser']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23056</g:id>
@@ -6789,8 +6815,8 @@
       <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4></g:custom_label_4>
       <g:start_date>2027-04-25T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Tur kalender</g:custom_label_3>
-      <g:internal_label>['Tur kalender','Endagskurser']</g:internal_label>
+      <g:custom_label_3>Endagskurser</g:custom_label_3>
+      <g:internal_label>['Endagskurser']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23040</g:id>
@@ -6878,7 +6904,7 @@
       <g:custom_label_4>Glostrup</g:custom_label_4>
       <g:start_date>2027-04-28T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Glostrup</g:custom_label_3>
-      <g:internal_label>['Glostrup','Taastrup','Foredrag kalender']</g:internal_label>
+      <g:internal_label>['Glostrup','Endagskurser']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23036</g:id>
@@ -6922,7 +6948,7 @@
       <g:custom_label_4>Albertslund</g:custom_label_4>
       <g:start_date>2027-05-01T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Albertslund</g:custom_label_3>
-      <g:internal_label>['Albertslund']</g:internal_label>
+      <g:internal_label>['Albertslund','Endagskurser']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23000</g:id>
@@ -6943,8 +6969,8 @@
       <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4></g:custom_label_4>
       <g:start_date>2027-05-02T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Tur kalender</g:custom_label_3>
-      <g:internal_label>['Tur kalender','Endagskurser']</g:internal_label>
+      <g:custom_label_3>Endagskurser</g:custom_label_3>
+      <g:internal_label>['Endagskurser']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23045</g:id>
@@ -6965,8 +6991,30 @@
       <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4></g:custom_label_4>
       <g:start_date>2027-05-02T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Tur kalender</g:custom_label_3>
-      <g:internal_label>['Tur kalender','København']</g:internal_label>
+      <g:custom_label_3>Endagskurser</g:custom_label_3>
+      <g:internal_label>['Endagskurser','København']</g:internal_label>
+    </item>
+<item>
+      <g:id>KBO-33104</g:id>
+      <g:title><![CDATA[Når kroppen siger fra]]></g:title>
+      <g:description><![CDATA[Få viden om nervesystemet, kroppens signaler og kraniosakral terapi ved et foredrag i Hedehusene. Prøv enkle øvelser og guidet meditation.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/naar-kroppen-siger-fra?holdnr=33104</g:link>
+      <g:image_link>https://www.fof.dk/media/1etoplcq/naar-kroppen-siger-fra-foredrag.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>250.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Københavns Omegn</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Foredrag, debat og højskoler &gt; Sundhed og eksistens</g:product_type>
+      <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
+      <g:custom_label_1>Sundhed og eksistens</g:custom_label_1>
+      <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Hedehusene</g:custom_label_4>
+      <g:start_date>2027-05-03T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Endagskurser</g:custom_label_3>
+      <g:internal_label>['Endagskurser','Taastrup','Hedehusene']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23106</g:id>
@@ -6988,29 +7036,7 @@
       <g:custom_label_4>Glostrup</g:custom_label_4>
       <g:start_date>2027-05-03T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Glostrup</g:custom_label_3>
-      <g:internal_label>['Glostrup','Foredrag kalender','Endagskurser']</g:internal_label>
-    </item>
-<item>
-      <g:id>KBO-33104</g:id>
-      <g:title><![CDATA[Når kroppen siger fra]]></g:title>
-      <g:description><![CDATA[Få viden om nervesystemet, kroppens signaler og kraniosakral terapi ved et foredrag i Hedehusene. Prøv enkle øvelser og guidet meditation.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/naar-kroppen-siger-fra?holdnr=33104</g:link>
-      <g:image_link>https://www.fof.dk/media/1etoplcq/naar-kroppen-siger-fra-foredrag.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>250.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Københavns Omegn</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Foredrag, debat og højskoler &gt; Sundhed og eksistens</g:product_type>
-      <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
-      <g:custom_label_1>Sundhed og eksistens</g:custom_label_1>
-      <g:custom_label_2></g:custom_label_2>
-      <g:custom_label_4>Hedehusene</g:custom_label_4>
-      <g:start_date>2027-05-03T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Taastrup</g:custom_label_3>
-      <g:internal_label>['Taastrup','Hedehusene']</g:internal_label>
+      <g:internal_label>['Glostrup','Endagskurser']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23011</g:id>
@@ -7076,8 +7102,8 @@
       <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4></g:custom_label_4>
       <g:start_date>2027-05-09T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>København</g:custom_label_3>
-      <g:internal_label>['København']</g:internal_label>
+      <g:custom_label_3>Endagskurser</g:custom_label_3>
+      <g:internal_label>['Endagskurser','København']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23205</g:id>
@@ -7143,7 +7169,7 @@
       <g:custom_label_4>Herlev</g:custom_label_4>
       <g:start_date>2027-05-12T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Herlev</g:custom_label_3>
-      <g:internal_label>['Herlev','Brøndby']</g:internal_label>
+      <g:internal_label>['Herlev']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-33003</g:id>
@@ -7186,8 +7212,6 @@
       <g:custom_label_2>Fest- og hverdagsmad</g:custom_label_2>
       <g:custom_label_4></g:custom_label_4>
       <g:start_date>2027-05-13T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Vallensbæk</g:custom_label_3>
-      <g:internal_label>['Vallensbæk']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23276</g:id>
@@ -7230,7 +7254,6 @@
       <g:custom_label_2>Håndværk og kunsthåndværk</g:custom_label_2>
       <g:custom_label_4>Herlev</g:custom_label_4>
       <g:start_date>2027-05-15T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Herlev</g:custom_label_3>
       <g:internal_label>['Herlev']</g:internal_label>
     </item>
 <item>
@@ -7252,8 +7275,8 @@
       <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4>København</g:custom_label_4>
       <g:start_date>2027-05-15T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Tur kalender</g:custom_label_3>
-      <g:internal_label>['Tur kalender','København','København K']</g:internal_label>
+      <g:custom_label_3>Endagskurser</g:custom_label_3>
+      <g:internal_label>['Endagskurser','København','København K']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23049</g:id>
@@ -7298,7 +7321,7 @@
       <g:custom_label_4>Albertslund</g:custom_label_4>
       <g:start_date>2027-05-22T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Albertslund</g:custom_label_3>
-      <g:internal_label>['Albertslund','Familie']</g:internal_label>
+      <g:internal_label>['Albertslund','Endagskurser','Familie']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23458</g:id>
@@ -7364,8 +7387,8 @@
       <g:custom_label_2>Udflugter og forestillinger</g:custom_label_2>
       <g:custom_label_4>Værløse</g:custom_label_4>
       <g:start_date>2027-05-28T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Familie</g:custom_label_3>
-      <g:internal_label>['Familie','Værløse']</g:internal_label>
+      <g:custom_label_3>Endagskurser</g:custom_label_3>
+      <g:internal_label>['Endagskurser','Familie','Værløse']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23048</g:id>
@@ -7386,8 +7409,8 @@
       <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4></g:custom_label_4>
       <g:start_date>2027-05-29T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Tur kalender</g:custom_label_3>
-      <g:internal_label>['Tur kalender']</g:internal_label>
+      <g:custom_label_3>Endagskurser</g:custom_label_3>
+      <g:internal_label>['Endagskurser']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23447</g:id>
@@ -7408,8 +7431,8 @@
       <g:custom_label_2>Naturfag og friluftsliv</g:custom_label_2>
       <g:custom_label_4></g:custom_label_4>
       <g:start_date>2027-06-05T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Albertslund</g:custom_label_3>
-      <g:internal_label>['Albertslund']</g:internal_label>
+      <g:custom_label_3>Endagskurser</g:custom_label_3>
+      <g:internal_label>['Endagskurser']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23046</g:id>
@@ -7430,8 +7453,8 @@
       <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4></g:custom_label_4>
       <g:start_date>2027-06-06T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Tur kalender</g:custom_label_3>
-      <g:internal_label>['Tur kalender','København']</g:internal_label>
+      <g:custom_label_3>Endagskurser</g:custom_label_3>
+      <g:internal_label>['Endagskurser','København']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23034</g:id>
@@ -7452,8 +7475,8 @@
       <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4></g:custom_label_4>
       <g:start_date>2027-06-09T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>København</g:custom_label_3>
-      <g:internal_label>['København']</g:internal_label>
+      <g:custom_label_3>Endagskurser</g:custom_label_3>
+      <g:internal_label>['Endagskurser','København']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23024</g:id>
@@ -7496,7 +7519,6 @@
       <g:custom_label_2>Håndværk og kunsthåndværk</g:custom_label_2>
       <g:custom_label_4>Herlev</g:custom_label_4>
       <g:start_date>2027-06-19T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Herlev</g:custom_label_3>
       <g:internal_label>['Herlev']</g:internal_label>
     </item>
 <item>
@@ -7518,6 +7540,8 @@
       <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4></g:custom_label_4>
       <g:start_date>2027-06-19T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Endagskurser</g:custom_label_3>
+      <g:internal_label>['Endagskurser']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23047</g:id>
@@ -7538,8 +7562,8 @@
       <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4></g:custom_label_4>
       <g:start_date>2027-06-20T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Tur kalender</g:custom_label_3>
-      <g:internal_label>['Tur kalender','København']</g:internal_label>
+      <g:custom_label_3>Endagskurser</g:custom_label_3>
+      <g:internal_label>['Endagskurser','København']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23051</g:id>
@@ -7560,8 +7584,8 @@
       <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4>Roskilde</g:custom_label_4>
       <g:start_date>2027-06-21T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Tur kalender</g:custom_label_3>
-      <g:internal_label>['Tur kalender','Endagskurser','Roskilde']</g:internal_label>
+      <g:custom_label_3>Endagskurser</g:custom_label_3>
+      <g:internal_label>['Endagskurser','Roskilde']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23022</g:id>
@@ -7582,7 +7606,8 @@
       <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4>Fredensborg</g:custom_label_4>
       <g:start_date>2027-07-02T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Fredensborg']</g:internal_label>
+      <g:custom_label_3>Endagskurser</g:custom_label_3>
+      <g:internal_label>['Endagskurser','Fredensborg']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-33607</g:id>
@@ -7625,7 +7650,7 @@
       <g:custom_label_4>Glostrup</g:custom_label_4>
       <g:start_date>2027-09-30T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Glostrup</g:custom_label_3>
-      <g:internal_label>['Glostrup','Foredrag kalender']</g:internal_label>
+      <g:internal_label>['Glostrup','Endagskurser']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23108</g:id>
@@ -7647,7 +7672,7 @@
       <g:custom_label_4>Taastrup</g:custom_label_4>
       <g:start_date>2027-10-11T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Taastrup</g:custom_label_3>
-      <g:internal_label>['Taastrup']</g:internal_label>
+      <g:internal_label>['Taastrup','Endagskurser']</g:internal_label>
     </item>
 </channel>
 </rss>
