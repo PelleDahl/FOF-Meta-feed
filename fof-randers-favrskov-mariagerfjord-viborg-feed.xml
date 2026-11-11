@@ -24,8 +24,8 @@
       <g:custom_label_2>Dansk - Danish</g:custom_label_2>
       <g:custom_label_4></g:custom_label_4>
       <g:start_date>2026-11-12T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>FVU</g:custom_label_3>
-      <g:internal_label>['FVU','FVU Dansk/Mat']</g:internal_label>
+      <g:custom_label_3>Starter snart (4 uger)</g:custom_label_3>
+      <g:internal_label>['Starter snart (4 uger)','FVU','FVU Dansk/Mat']</g:internal_label>
     </item>
 <item>
       <g:id>RFMV-620561</g:id>
@@ -312,8 +312,8 @@ Kurset er hos FOF i Randers]]></g:description>
       <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4>Randers</g:custom_label_4>
       <g:start_date>2026-11-25T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Starter snart (4 uger)</g:custom_label_3>
-      <g:internal_label>['Starter snart (4 uger)','1 dags kursus','Foredrag','Randers','Naturvidenskab','Randers C']</g:internal_label>
+      <g:custom_label_3>Foredrag</g:custom_label_3>
+      <g:internal_label>['Foredrag','Randers','Naturvidenskab','Randers C']</g:internal_label>
     </item>
 <item>
       <g:id>RFMV-626607</g:id>
@@ -422,8 +422,8 @@ Kurset er hos FOF i Randers]]></g:description>
       <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4>Viborg</g:custom_label_4>
       <g:start_date>2026-12-03T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Starter snart (4 uger)</g:custom_label_3>
-      <g:internal_label>['Starter snart (4 uger)','Foredrag','Viborg']</g:internal_label>
+      <g:custom_label_3>Foredrag</g:custom_label_3>
+      <g:internal_label>['Foredrag','Viborg']</g:internal_label>
     </item>
 <item>
       <g:id>RFMV-621417</g:id>
@@ -444,8 +444,8 @@ Kurset er hos FOF i Randers]]></g:description>
       <g:custom_label_2>Personlig udvikling</g:custom_label_2>
       <g:custom_label_4>Randers</g:custom_label_4>
       <g:start_date>2026-12-12T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Nyhed</g:custom_label_3>
-      <g:internal_label>['Nyhed','Weekend','Randers','Mindfulness / personlig udvikling','Randers C']</g:internal_label>
+      <g:custom_label_3>Starter snart (4 uger)</g:custom_label_3>
+      <g:internal_label>['Starter snart (4 uger)','Nyhed','Weekend','Randers','Mindfulness / personlig udvikling','Randers C']</g:internal_label>
     </item>
 <item>
       <g:id>RFMV-621418</g:id>
@@ -1349,8 +1349,8 @@ Du lærer at lave dine egne mønstre]]></g:description>
       <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4>Viborg</g:custom_label_4>
       <g:start_date>2027-02-23T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>1 dags kursus</g:custom_label_3>
-      <g:internal_label>['1 dags kursus','Foredrag','Randers','Naturvidenskab','Viborg']</g:internal_label>
+      <g:custom_label_3>Foredrag</g:custom_label_3>
+      <g:internal_label>['Foredrag','Randers','Naturvidenskab','Viborg']</g:internal_label>
     </item>
 <item>
       <g:id>RFMV-711602</g:id>
