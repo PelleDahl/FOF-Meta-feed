@@ -6,50 +6,6 @@
 <description>Meta produktfeed med alle ledige hold fra FOF Syd- og Vestsjælland</description>
 <language>da-DK</language>
 <item>
-      <g:id>SVS-620826</g:id>
-      <g:title><![CDATA[Stimulastik 6-9 mdr.]]></g:title>
-      <g:description><![CDATA[Deltag i Stimulastik hos FOF i Ringsted. Styrk dit barns sansemotorik, bevægelsesglæde og udvikling gennem sjove lege og aktiviteter for 2-9 måneder.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-syd-og-vestsjaelland/stimulastik?holdnr=620826</g:link>
-      <g:image_link>https://www.fof.dk/media/imwkows3/stimulastik-ringsted-fof-aftenskolen.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>480.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Syd- og Vestsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Aktiviteter med baby</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
-      <g:custom_label_2>Aktiviteter med baby</g:custom_label_2>
-      <g:custom_label_4>Ringsted</g:custom_label_4>
-      <g:start_date>2026-11-12T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Starter snart</g:custom_label_3>
-      <g:internal_label>['Starter snart','Ringsted','Kalender - November']</g:internal_label>
-    </item>
-<item>
-      <g:id>SVS-341126</g:id>
-      <g:title><![CDATA[Torsdagstræning]]></g:title>
-      <g:description><![CDATA[Effektiv træning for mødre og travle kvinder. Kom til torsdagstræning på Værkerne i Sorø. Hyggelig og effektiv styrketræning, høj puls og sved på panden med ligesindede | Tilmeld dig hos FOF.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-syd-og-vestsjaelland/torsdagstraening?holdnr=341126</g:link>
-      <g:image_link>https://www.fof.dk/media/ioxdzxaa/torsdagstraening-motionshold-fof-aftenskolen-01.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>545.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Syd- og Vestsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Styrke- og konditionstræning</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Styrke- og konditionstræning</g:custom_label_2>
-      <g:custom_label_4>Sorø</g:custom_label_4>
-      <g:start_date>2026-11-12T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Starter snart</g:custom_label_3>
-      <g:internal_label>['Starter snart','Kalender - November','Sorø','Familie']</g:internal_label>
-    </item>
-<item>
       <g:id>SVS-161926</g:id>
       <g:title><![CDATA[Sy om og skab nyt]]></g:title>
       <g:description><![CDATA[Sy dit tøj om og skab nyt i Næstved. Upcycling, reparation og visible mending – for alle, der vil skabe nyt af gammelt. Kreativt kursus hos FOF.]]></g:description>
@@ -113,7 +69,7 @@
       <g:custom_label_4>Slagelse</g:custom_label_4>
       <g:start_date>2026-11-16T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Slagelse</g:custom_label_3>
-      <g:internal_label>['Slagelse']</g:internal_label>
+      <g:internal_label>['Slagelse','Starter snart','Kalender - November']</g:internal_label>
     </item>
 <item>
       <g:id>SVS-181726</g:id>
@@ -1012,6 +968,7 @@
       <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4>Ringsted</g:custom_label_4>
       <g:start_date>2027-03-04T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Ringsted</g:custom_label_3>
       <g:internal_label>['Ringsted']</g:internal_label>
     </item>
 <item>

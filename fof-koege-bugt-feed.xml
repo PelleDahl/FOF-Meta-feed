@@ -46,8 +46,8 @@
       <g:custom_label_2>Malekurser</g:custom_label_2>
       <g:custom_label_4>Greve</g:custom_label_4>
       <g:start_date>2026-11-14T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Weekend</g:custom_label_3>
-      <g:internal_label>['Weekend','Greve']</g:internal_label>
+      <g:custom_label_3>Starter snart</g:custom_label_3>
+      <g:internal_label>['Starter snart','Endagskurser','Greve','Weekend']</g:internal_label>
     </item>
 <item>
       <g:id>KOE-50754</g:id>
@@ -596,8 +596,8 @@
       <g:custom_label_2>Kropspleje</g:custom_label_2>
       <g:custom_label_4>Greve</g:custom_label_4>
       <g:start_date>2026-12-29T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Weekend</g:custom_label_3>
-      <g:internal_label>['Weekend','Greve']</g:internal_label>
+      <g:custom_label_3>Endagskurser</g:custom_label_3>
+      <g:internal_label>['Endagskurser','Greve','Weekend']</g:internal_label>
     </item>
 <item>
       <g:id>KOE-53503</g:id>
@@ -684,6 +684,7 @@
       <g:custom_label_2>Håndarbejde</g:custom_label_2>
       <g:custom_label_4>Køge</g:custom_label_4>
       <g:start_date>2027-01-07T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Køge</g:custom_label_3>
       <g:internal_label>['Køge']</g:internal_label>
     </item>
 <item>
@@ -705,6 +706,7 @@
       <g:custom_label_2>Håndarbejde</g:custom_label_2>
       <g:custom_label_4>Køge</g:custom_label_4>
       <g:start_date>2027-01-07T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Køge</g:custom_label_3>
       <g:internal_label>['Køge']</g:internal_label>
     </item>
 <item>
@@ -858,6 +860,7 @@
       <g:custom_label_2>Malekurser</g:custom_label_2>
       <g:custom_label_4>Roskilde</g:custom_label_4>
       <g:start_date>2027-01-13T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Roskilde</g:custom_label_3>
       <g:internal_label>['Roskilde']</g:internal_label>
     </item>
 <item>
@@ -1165,7 +1168,8 @@
       <g:custom_label_2>Kunstig intelligens - AI</g:custom_label_2>
       <g:custom_label_4>Greve</g:custom_label_4>
       <g:start_date>2027-02-02T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Greve']</g:internal_label>
+      <g:custom_label_3>Forår</g:custom_label_3>
+      <g:internal_label>['Forår','Greve']</g:internal_label>
     </item>
 <item>
       <g:id>KOE-53207</g:id>
@@ -1492,8 +1496,8 @@
       <g:custom_label_2>Keramik</g:custom_label_2>
       <g:custom_label_4>Ishøj</g:custom_label_4>
       <g:start_date>2027-03-01T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Weekend</g:custom_label_3>
-      <g:internal_label>['Weekend','Ishøj']</g:internal_label>
+      <g:custom_label_3>Forår</g:custom_label_3>
+      <g:internal_label>['Forår','Ishøj','Weekend']</g:internal_label>
     </item>
 <item>
       <g:id>KOE-53021</g:id>
@@ -1514,8 +1518,8 @@
       <g:custom_label_2>Keramik</g:custom_label_2>
       <g:custom_label_4>Ishøj</g:custom_label_4>
       <g:start_date>2027-03-01T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Weekend</g:custom_label_3>
-      <g:internal_label>['Weekend','Ishøj']</g:internal_label>
+      <g:custom_label_3>Forår</g:custom_label_3>
+      <g:internal_label>['Forår','Ishøj','Weekend']</g:internal_label>
     </item>
 <item>
       <g:id>KOE-53014</g:id>
@@ -1668,6 +1672,8 @@
       <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4></g:custom_label_4>
       <g:start_date>2027-03-04T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Forår</g:custom_label_3>
+      <g:internal_label>['Forår','Endagskurser']</g:internal_label>
     </item>
 <item>
       <g:id>KOE-52888</g:id>
@@ -1732,7 +1738,8 @@
       <g:custom_label_2>Tegnekurser</g:custom_label_2>
       <g:custom_label_4>Køge</g:custom_label_4>
       <g:start_date>2027-03-06T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Køge']</g:internal_label>
+      <g:custom_label_3>Forår</g:custom_label_3>
+      <g:internal_label>['Forår','Køge']</g:internal_label>
     </item>
 <item>
       <g:id>KOE-53860</g:id>
@@ -2038,8 +2045,8 @@
       <g:custom_label_2>Fest- og hverdagsmad</g:custom_label_2>
       <g:custom_label_4>Stenløse</g:custom_label_4>
       <g:start_date>2027-03-30T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Partnerskab</g:custom_label_3>
-      <g:internal_label>['Partnerskab','Stenløse']</g:internal_label>
+      <g:custom_label_3>Forår</g:custom_label_3>
+      <g:internal_label>['Forår','Egedal','Partnerskab','Stenløse']</g:internal_label>
     </item>
 <item>
       <g:id>KOE-53209</g:id>
@@ -2060,7 +2067,8 @@
       <g:custom_label_2>Fest- og hverdagsmad</g:custom_label_2>
       <g:custom_label_4>Stenløse</g:custom_label_4>
       <g:start_date>2027-03-30T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Stenløse']</g:internal_label>
+      <g:custom_label_3>Forår</g:custom_label_3>
+      <g:internal_label>['Forår','Egedal','Stenløse']</g:internal_label>
     </item>
 <item>
       <g:id>KOE-53856</g:id>

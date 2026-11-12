@@ -6,27 +6,6 @@
 <description>Meta produktfeed med alle ledige hold fra FOF Nordvestjylland</description>
 <language>da-DK</language>
 <item>
-      <g:id>NVJ-262704</g:id>
-      <g:title><![CDATA[Udon og Onigiri]]></g:title>
-      <g:description><![CDATA[Lær at lave japanske udon-nudler og onigiri på dette japanske madkursus hos FOF Nordvestjylland i Holstebro]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-nordvestjylland/laer-at-lave-udon-og-onigiri?holdnr=262704</g:link>
-      <g:image_link>https://www.fof.dk/media/u4mhqfwz/udononigiriyuka.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>185.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Nordvestjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Madlavning og drikkevarer &gt; Asiatisk mad</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
-      <g:custom_label_2>Asiatisk mad</g:custom_label_2>
-      <g:custom_label_4>Holstebro</g:custom_label_4>
-      <g:start_date>2026-11-12T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Holstebro']</g:internal_label>
-    </item>
-<item>
       <g:id>NVJ-262030</g:id>
       <g:title><![CDATA[Fra himmel til jord - fra Grundtvig til Armstrong]]></g:title>
       <g:description><![CDATA[Kirkekoncert i Lemvig med Grarup, Laursen og Frøsig med sange og salmer fra himmel til jord og fra Grundtvig til Armstrong hos FOF Nordvestjylland i Lemvig]]></g:description>
@@ -406,6 +385,27 @@
       <g:internal_label>['Lemvig']</g:internal_label>
     </item>
 <item>
+      <g:id>NVJ-262126</g:id>
+      <g:title><![CDATA[AftenRo - restorativ yogaworkshop]]></g:title>
+      <g:description><![CDATA[Kom med til denne restorative yogaworkshop og bliv guidet til aftenro hos FOF Nordvestjylland i Holstebro]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-nordvestjylland/aftenro-restorativ-yogaworkshop?holdnr=262126</g:link>
+      <g:image_link>https://www.fof.dk/media/uplj3cix/rikkelydhealing1200x1200.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>75.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Nordvestjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Yoga</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Holstebro</g:custom_label_4>
+      <g:start_date>2026-12-02T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Holstebro']</g:internal_label>
+    </item>
+<item>
       <g:id>NVJ-262212</g:id>
       <g:title><![CDATA[Tysk til Oktoberfest - Studieby Holstebro]]></g:title>
       <g:description><![CDATA[Tysk til oktoberfest, lær brugbare vendinger og få indblik i oktoberfests historie og betydning på dette kursus for nye studerende i Holstebro, FOF Nordvestjylland, Holstebro]]></g:description>
@@ -425,27 +425,6 @@
       <g:custom_label_4>Holstebro</g:custom_label_4>
       <g:start_date>2026-12-02T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Holstebro</g:custom_label_3>
-      <g:internal_label>['Holstebro']</g:internal_label>
-    </item>
-<item>
-      <g:id>NVJ-262126</g:id>
-      <g:title><![CDATA[AftenRo - restorativ yogaworkshop]]></g:title>
-      <g:description><![CDATA[Kom med til denne restorative yogaworkshop og bliv guidet til aftenro hos FOF Nordvestjylland i Holstebro]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-nordvestjylland/aftenro-restorativ-yogaworkshop?holdnr=262126</g:link>
-      <g:image_link>https://www.fof.dk/media/uplj3cix/rikkelydhealing1200x1200.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>75.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Nordvestjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Yoga</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Yoga</g:custom_label_2>
-      <g:custom_label_4>Holstebro</g:custom_label_4>
-      <g:start_date>2026-12-02T00:00:00.000Z</g:start_date>
       <g:internal_label>['Holstebro']</g:internal_label>
     </item>
 <item>

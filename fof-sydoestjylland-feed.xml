@@ -90,7 +90,8 @@
       <g:custom_label_2>Yoga</g:custom_label_2>
       <g:custom_label_4>Vejle</g:custom_label_4>
       <g:start_date>2026-11-16T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Vejle']</g:internal_label>
+      <g:custom_label_3>Starter snart</g:custom_label_3>
+      <g:internal_label>['Starter snart','Vejle']</g:internal_label>
     </item>
 <item>
       <g:id>SOJ-269246</g:id>
@@ -133,8 +134,8 @@
       <g:custom_label_2>Yoga</g:custom_label_2>
       <g:custom_label_4>Skanderborg</g:custom_label_4>
       <g:start_date>2026-11-18T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Løbende optag</g:custom_label_3>
-      <g:internal_label>['Løbende optag','Skanderborg']</g:internal_label>
+      <g:custom_label_3>Starter snart</g:custom_label_3>
+      <g:internal_label>['Starter snart','Skanderborg']</g:internal_label>
     </item>
 <item>
       <g:id>SOJ-269247</g:id>
@@ -265,7 +266,8 @@
       <g:custom_label_2>Yoga</g:custom_label_2>
       <g:custom_label_4>Vejle</g:custom_label_4>
       <g:start_date>2026-11-23T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Vejle']</g:internal_label>
+      <g:custom_label_3>Starter snart</g:custom_label_3>
+      <g:internal_label>['Starter snart','Vejle']</g:internal_label>
     </item>
 <item>
       <g:id>SOJ-269264</g:id>
@@ -1110,27 +1112,6 @@
       <g:internal_label>['Horsens']</g:internal_label>
     </item>
 <item>
-      <g:id>SOJ-270341</g:id>
-      <g:title><![CDATA[Italiensk Øvet B1]]></g:title>
-      <g:description><![CDATA[Lær italiensk på B1 niveau i Vejle hos FOF Sydøstjylland. Italiensk for øvede med fokus på samtale, kultur, ordforråd og mere flydende kommunikation.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-sydoestjylland/italiensk-b1-oevet?holdnr=270341</g:link>
-      <g:image_link>https://www.fof.dk/media/vl0d4oxv/italiensk-b1.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1300.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Sydøstjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Sprog &gt; Italiensk</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Sprog</g:custom_label_1>
-      <g:custom_label_2>Italiensk</g:custom_label_2>
-      <g:custom_label_4>Horsens</g:custom_label_4>
-      <g:start_date>2027-01-20T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Horsens']</g:internal_label>
-    </item>
-<item>
       <g:id>SOJ-270316</g:id>
       <g:title><![CDATA[Fransk Øvet B1]]></g:title>
       <g:description><![CDATA[Fransk kursus i Horsens og Vejle for B1 niveau. Bliv mere flydende med praksisnær undervisning, autentiske materialer og fokus på samtale, udtale og udvidet ordforråd.]]></g:description>
@@ -1147,6 +1128,27 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Sprog</g:custom_label_1>
       <g:custom_label_2>Fransk</g:custom_label_2>
+      <g:custom_label_4>Horsens</g:custom_label_4>
+      <g:start_date>2027-01-20T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Horsens']</g:internal_label>
+    </item>
+<item>
+      <g:id>SOJ-270341</g:id>
+      <g:title><![CDATA[Italiensk Øvet B1]]></g:title>
+      <g:description><![CDATA[Lær italiensk på B1 niveau i Vejle hos FOF Sydøstjylland. Italiensk for øvede med fokus på samtale, kultur, ordforråd og mere flydende kommunikation.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydoestjylland/italiensk-b1-oevet?holdnr=270341</g:link>
+      <g:image_link>https://www.fof.dk/media/vl0d4oxv/italiensk-b1.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1300.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydøstjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Sprog &gt; Italiensk</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Sprog</g:custom_label_1>
+      <g:custom_label_2>Italiensk</g:custom_label_2>
       <g:custom_label_4>Horsens</g:custom_label_4>
       <g:start_date>2027-01-20T00:00:00.000Z</g:start_date>
       <g:internal_label>['Horsens']</g:internal_label>
@@ -2273,6 +2275,27 @@
       <g:internal_label>['FOF Business','Vejle']</g:internal_label>
     </item>
 <item>
+      <g:id>SOJ-270098</g:id>
+      <g:title><![CDATA[Vejen Ind]]></g:title>
+      <g:description><![CDATA[Find indre ro med meditation og mindfulness i Horsens. Lær at meditere, og få redskaber til mere nærvær og et åbent hjerte. For begyndere og øvede. Tilmeld dig!]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydoestjylland/vejen-ind?holdnr=270098</g:link>
+      <g:image_link>https://www.fof.dk/media/mi4j4mvr/troels-vejen-ind.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>715.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydøstjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Mindfulness og meditation</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Mindfulness og meditation</g:custom_label_2>
+      <g:custom_label_4>Horsens</g:custom_label_4>
+      <g:start_date>2027-03-06T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Horsens']</g:internal_label>
+    </item>
+<item>
       <g:id>SOJ-270228</g:id>
       <g:title><![CDATA[Eksperimenterende akvarel]]></g:title>
       <g:description><![CDATA[Lær akvarelteknikker og kombiner med tusch. Et kreativt endagskursus med fordybelse, inspiration og fællesskab. Tilmeld dig i dag.]]></g:description>
@@ -2317,6 +2340,27 @@
       <g:internal_label>['Gaveidéer','Vejle']</g:internal_label>
     </item>
 <item>
+      <g:id>SOJ-270715</g:id>
+      <g:title><![CDATA[Om at være pårørende til en syg ]]></g:title>
+      <g:description><![CDATA[Oplev Maria Månson i Horsens og hør om livet som pårørende til en syg. Et nærværende foredrag med afsæt i podcasten Din Hånd i Min om omsorg, egenomsorg og sygdom i familien.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydoestjylland/om-at-vaere-paaroerende-til-en-syg?holdnr=270715</g:link>
+      <g:image_link>https://www.fof.dk/media/uxxlbruf/maria-maanson-2.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>100.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydøstjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type></g:product_type>
+      <g:custom_label_0></g:custom_label_0>
+      <g:custom_label_1></g:custom_label_1>
+      <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Horsens</g:custom_label_4>
+      <g:start_date>2027-03-11T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Horsens']</g:internal_label>
+    </item>
+<item>
       <g:id>SOJ-274257</g:id>
       <g:title><![CDATA[Italienske bælgfrugter]]></g:title>
       <g:description><![CDATA[Lær at lave italiensk mad med linser, bønner og kikærter på et hyggeligt madkursus i Vejle. Få opskrifter og inspiration til grøn madlavning. Tilmeld dig!]]></g:description>
@@ -2337,27 +2381,6 @@
       <g:start_date>2027-03-11T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Gaveidéer</g:custom_label_3>
       <g:internal_label>['Gaveidéer','Vejle']</g:internal_label>
-    </item>
-<item>
-      <g:id>SOJ-270715</g:id>
-      <g:title><![CDATA[Om at være pårørende til en syg ]]></g:title>
-      <g:description><![CDATA[Oplev Maria Månson i Horsens og hør om livet som pårørende til en syg. Et nærværende foredrag med afsæt i podcasten Din Hånd i Min om omsorg, egenomsorg og sygdom i familien.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-sydoestjylland/om-at-vaere-paaroerende-til-en-syg?holdnr=270715</g:link>
-      <g:image_link>https://www.fof.dk/media/uxxlbruf/maria-maanson-2.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>100.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Sydøstjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type></g:product_type>
-      <g:custom_label_0></g:custom_label_0>
-      <g:custom_label_1></g:custom_label_1>
-      <g:custom_label_2></g:custom_label_2>
-      <g:custom_label_4>Horsens</g:custom_label_4>
-      <g:start_date>2027-03-11T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Horsens']</g:internal_label>
     </item>
 <item>
       <g:id>SOJ-271701</g:id>
