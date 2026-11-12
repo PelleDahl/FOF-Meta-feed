@@ -27,48 +27,6 @@
       <g:internal_label>['Herning']</g:internal_label>
     </item>
 <item>
-      <g:id>HER-48461</g:id>
-      <g:title><![CDATA[NYHED - Workshop - Julekort med akvarel]]></g:title>
-      <g:description><![CDATA[Gå julen i møde med en kreativ workshop i Herning, hvor vi skaber smukke julekort med akvareller]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-herning/workshop-julekort-med-akvarel?holdnr=48461</g:link>
-      <g:image_link>https://www.fof.dk/media/crulzpqx/juleakvarel-anne-bang.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>301.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Herning</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Kreative kurser &gt; Malekurser</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Kreative kurser</g:custom_label_1>
-      <g:custom_label_2>Malekurser</g:custom_label_2>
-      <g:custom_label_4>Herning</g:custom_label_4>
-      <g:start_date>2026-11-15T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Herning']</g:internal_label>
-    </item>
-<item>
-      <g:id>HER-48871</g:id>
-      <g:title><![CDATA[NYHED - Luksusgrød - Gør havregrøden spændende]]></g:title>
-      <g:description><![CDATA[Få ny inspiration til morgenmaden i Herning. Lær at lave lækre, mættende og sundere retter med havregryn, frugt og krydderier.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-herning/luksusgroed-goer-havregroeden-spaendende?holdnr=48871</g:link>
-      <g:image_link>https://www.fof.dk/media/hyvnj2z3/luksusgroed-fof-herning.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>301.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Herning</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Madlavning og drikkevarer &gt; Fest- og hverdagsmad</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
-      <g:custom_label_2>Fest- og hverdagsmad</g:custom_label_2>
-      <g:custom_label_4>Herning</g:custom_label_4>
-      <g:start_date>2026-11-17T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Herning']</g:internal_label>
-    </item>
-<item>
       <g:id>HER-48429</g:id>
       <g:title><![CDATA[Hækling for letøvede]]></g:title>
       <g:description><![CDATA[Hækling for letøvede i Herning hos FOF Herning. Lær nye teknikker, forstå opskrifter bedre og udvikl dine hækleprojekter i trygge rammer.]]></g:description>
@@ -690,7 +648,7 @@
     </item>
 <item>
       <g:id>HER-49460</g:id>
-      <g:title><![CDATA[NYHED - Akvarelkursus - Kreativ fordybelse med akvarel]]></g:title>
+      <g:title><![CDATA[Akvarelkursus - Kreativ fordybelse med akvarel]]></g:title>
       <g:description><![CDATA[Slip kreativiteten løs med vand og farver, og find dit eget udtryk. ]]></g:description>
       <g:link>https://www.fof.dk/aftenskolen/fof-herning/akvarelmaling?holdnr=49460</g:link>
       <g:image_link>https://www.fof.dk/media/hwbbhoio/akvarelmaleri-anne-bang.jpg?width=1200</g:image_link>
@@ -1224,6 +1182,28 @@
       <g:internal_label>['Herning']</g:internal_label>
     </item>
 <item>
+      <g:id>HER-49823</g:id>
+      <g:title><![CDATA[Pastakursus for børn og voksne]]></g:title>
+      <g:description><![CDATA[Lær at lave frisk pasta fra bunden på hyggeligt italiensk madkursus for børn og voksne i Herning. En smagfuld familieoplevelse med italienske traditioner og fællesskab.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-herning/pastakursus-for-boern-og-voksne?holdnr=49823</g:link>
+      <g:image_link>https://www.fof.dk/media/3okdrvdm/pastakursus-for-familier.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>395.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Herning</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Madlavning og drikkevarer &gt; Verdenskøkkenet</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
+      <g:custom_label_2>Verdenskøkkenet</g:custom_label_2>
+      <g:custom_label_4>Herning</g:custom_label_4>
+      <g:start_date>2027-04-12T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Madkurser</g:custom_label_3>
+      <g:internal_label>['Madkurser','Herning']</g:internal_label>
+    </item>
+<item>
       <g:id>HER-49894</g:id>
       <g:title><![CDATA[Fantastiske fermenteringer ]]></g:title>
       <g:description><![CDATA[Lær fermentering i Herning – lav kimchi, grøntsager og andre fermenterede fødevarer. Praktisk kursus for begyndere hos FOF Herning.]]></g:description>
@@ -1457,6 +1437,28 @@
       <g:custom_label_4>Herning</g:custom_label_4>
       <g:start_date>2027-05-19T00:00:00.000Z</g:start_date>
       <g:internal_label>['Herning']</g:internal_label>
+    </item>
+<item>
+      <g:id>HER-49824</g:id>
+      <g:title><![CDATA[Pastakursus for børn og voksne]]></g:title>
+      <g:description><![CDATA[Lær at lave frisk pasta fra bunden på hyggeligt italiensk madkursus for børn og voksne i Herning. En smagfuld familieoplevelse med italienske traditioner og fællesskab.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-herning/pastakursus-for-boern-og-voksne?holdnr=49824</g:link>
+      <g:image_link>https://www.fof.dk/media/3okdrvdm/pastakursus-for-familier.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>395.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Herning</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Madlavning og drikkevarer &gt; Verdenskøkkenet</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
+      <g:custom_label_2>Verdenskøkkenet</g:custom_label_2>
+      <g:custom_label_4>Herning</g:custom_label_4>
+      <g:start_date>2027-05-25T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Madkurser</g:custom_label_3>
+      <g:internal_label>['Madkurser','Herning']</g:internal_label>
     </item>
 <item>
       <g:id>HER-49010</g:id>

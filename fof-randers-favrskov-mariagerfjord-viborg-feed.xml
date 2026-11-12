@@ -161,28 +161,6 @@
       <g:internal_label>['Starter snart (4 uger)','Weekend','Randers','Randers C']</g:internal_label>
     </item>
 <item>
-      <g:id>RFMV-622305</g:id>
-      <g:title><![CDATA[Narrativ skrivning]]></g:title>
-      <g:description><![CDATA[Kom på en lørdags workshop på Medborgerhuset i Hobro. FOF arrangerer et 1-dags kursus, hvor du får hjælp til at komme godt i gang eller videre med din fantasi fortælling. Hvordan finder du sammenhængen og troværdigheden i de fiktive verdener og dine karakterer.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-randers-favrskov-mariagerfjord-viborg/narrativ-skrivning?holdnr=622305</g:link>
-      <g:image_link>https://www.fof.dk/media/rvpnve1g/skrivekursus.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>325.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Randers-Favrskov-Mariagerfjord-Viborg</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Kommunikation og drama &gt; Skrivekurser</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Kommunikation og drama</g:custom_label_1>
-      <g:custom_label_2>Skrivekurser</g:custom_label_2>
-      <g:custom_label_4>Hobro</g:custom_label_4>
-      <g:start_date>2026-11-21T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Mariagerfjord</g:custom_label_3>
-      <g:internal_label>['Mariagerfjord','Starter snart (4 uger)','1 dags kursus','Weekend','Nyhed','Hobro']</g:internal_label>
-    </item>
-<item>
       <g:id>RFMV-626613</g:id>
       <g:title><![CDATA[Mal dine drømme]]></g:title>
       <g:description><![CDATA[På denne 1- dags workshop bruger vi dine drømme som kreativ drivkraft. Vi tegner og maler udfra ting der ligger i din underbevidsthed. Mal dine drømme, livsdrømme og indre billeder.
@@ -204,6 +182,28 @@ Kurset er hos FOF i Randers]]></g:description>
       <g:start_date>2026-11-21T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Starter snart (4 uger)</g:custom_label_3>
       <g:internal_label>['Starter snart (4 uger)','1 dags kursus','Randers','Randers C']</g:internal_label>
+    </item>
+<item>
+      <g:id>RFMV-626262</g:id>
+      <g:title><![CDATA[GymStudiets Pilates Reformer]]></g:title>
+      <g:description><![CDATA[Gå på små hold med max tre på, i vores fuldt udstyret Pilates studie med Reformere, Cadillac og Stabilitychair. Lær at bruge pilates grundprincipper på reformerne hos FOF Randers.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-randers-favrskov-mariagerfjord-viborg/gymstudiets-pilates-reformer?holdnr=626262</g:link>
+      <g:image_link>https://www.fof.dk/media/0hdpglsi/gymstudiet-reformer.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>555.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Randers-Favrskov-Mariagerfjord-Viborg</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Pilates</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Pilates</g:custom_label_2>
+      <g:custom_label_4>Randers</g:custom_label_4>
+      <g:start_date>2026-11-24T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Randers</g:custom_label_3>
+      <g:internal_label>['Randers','Motion','Randers C']</g:internal_label>
     </item>
 <item>
       <g:id>RFMV-621855</g:id>
@@ -314,6 +314,28 @@ Kurset er hos FOF i Randers]]></g:description>
       <g:start_date>2026-11-30T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Starter snart (4 uger)</g:custom_label_3>
       <g:internal_label>['Starter snart (4 uger)','1 dags kursus','Weekend','Nyhed','Randers','Mindfulness / personlig udvikling','Randers C']</g:internal_label>
+    </item>
+<item>
+      <g:id>RFMV-626263</g:id>
+      <g:title><![CDATA[GymStudiets Pilates Reformer]]></g:title>
+      <g:description><![CDATA[Gå på små hold med max tre på, i vores fuldt udstyret Pilates studie med Reformere, Cadillac og Stabilitychair. Lær at bruge pilates grundprincipper på reformerne hos FOF Randers.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-randers-favrskov-mariagerfjord-viborg/gymstudiets-pilates-reformer?holdnr=626263</g:link>
+      <g:image_link>https://www.fof.dk/media/0hdpglsi/gymstudiet-reformer.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>370.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Randers-Favrskov-Mariagerfjord-Viborg</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Pilates</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Pilates</g:custom_label_2>
+      <g:custom_label_4>Randers</g:custom_label_4>
+      <g:start_date>2026-12-01T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Randers</g:custom_label_3>
+      <g:internal_label>['Randers','Motion','Randers C']</g:internal_label>
     </item>
 <item>
       <g:id>RFMV-620562</g:id>
@@ -471,6 +493,50 @@ Kurset er hos FOF i Randers]]></g:description>
       <g:internal_label>['Randers','Motion','Randers C']</g:internal_label>
     </item>
 <item>
+      <g:id>RFMV-716254</g:id>
+      <g:title><![CDATA[GymStudiets Pilates Reformer]]></g:title>
+      <g:description><![CDATA[Gå på små hold med max tre på, i vores fuldt udstyret Pilates studie med Reformere, Cadillac og Stabilitychair. Lær at bruge pilates grundprincipper på reformerne hos FOF Randers.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-randers-favrskov-mariagerfjord-viborg/gymstudiets-pilates-reformer?holdnr=716254</g:link>
+      <g:image_link>https://www.fof.dk/media/0hdpglsi/gymstudiet-reformer.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1850.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Randers-Favrskov-Mariagerfjord-Viborg</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Pilates</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Pilates</g:custom_label_2>
+      <g:custom_label_4>Randers</g:custom_label_4>
+      <g:start_date>2027-01-05T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Randers</g:custom_label_3>
+      <g:internal_label>['Randers','Motion','Randers C']</g:internal_label>
+    </item>
+<item>
+      <g:id>RFMV-716253</g:id>
+      <g:title><![CDATA[GymStudiets Pilates Reformer]]></g:title>
+      <g:description><![CDATA[Gå på små hold med max tre på, i vores fuldt udstyret Pilates studie med Reformere, Cadillac og Stabilitychair. Lær at bruge pilates grundprincipper på reformerne hos FOF Randers.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-randers-favrskov-mariagerfjord-viborg/gymstudiets-pilates-reformer?holdnr=716253</g:link>
+      <g:image_link>https://www.fof.dk/media/0hdpglsi/gymstudiet-reformer.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1850.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Randers-Favrskov-Mariagerfjord-Viborg</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Pilates</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Pilates</g:custom_label_2>
+      <g:custom_label_4>Randers</g:custom_label_4>
+      <g:start_date>2027-01-05T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Randers</g:custom_label_3>
+      <g:internal_label>['Randers','Motion','Randers C']</g:internal_label>
+    </item>
+<item>
       <g:id>RFMV-711785</g:id>
       <g:title><![CDATA[Zumba Gold og afspænding]]></g:title>
       <g:description><![CDATA[Kom med på det danseglade hold Zumba Gold i Randers. Underviser Berit Svart har hold hos FOF i Randers. Vi danser sammen i 1 time og har en skøn afspænding til sidst.]]></g:description>
@@ -491,6 +557,28 @@ Kurset er hos FOF i Randers]]></g:description>
       <g:start_date>2027-01-06T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Randers</g:custom_label_3>
       <g:internal_label>['Randers','Motion','Randers C']</g:internal_label>
+    </item>
+<item>
+      <g:id>RFMV-710562</g:id>
+      <g:title><![CDATA[Opstartskursus til det åbne keramikværksted]]></g:title>
+      <g:description><![CDATA[Lav keramik når det passer dig. Efter et 2 x 3 timers opstartskursus kan du bruge det ubemandede keramikværksted på Jens Otto Krags Plads (tidligere Underværket). Tilmeld dig her via FOF Randers. Her finder du også drejekurser som du kan tilmelde dig. ]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-randers-favrskov-mariagerfjord-viborg/det-aabne-keramikvaerksted?holdnr=710562</g:link>
+      <g:image_link>https://www.fof.dk/media/eqtb4xog/keramik-fof-aftenskolen-12.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>675.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Randers-Favrskov-Mariagerfjord-Viborg</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Kreative kurser &gt; Keramik</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Kreative kurser</g:custom_label_1>
+      <g:custom_label_2>Keramik</g:custom_label_2>
+      <g:custom_label_4>Randers</g:custom_label_4>
+      <g:start_date>2027-01-07T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Nyhed</g:custom_label_3>
+      <g:internal_label>['Nyhed','Randers','1 dags kursus','Randers C']</g:internal_label>
     </item>
 <item>
       <g:id>RFMV-718802</g:id>
@@ -845,6 +933,28 @@ Kurset er hos FOF i Randers]]></g:description>
       <g:internal_label>['Nyhed','Randers','1 dags kursus','Randers C']</g:internal_label>
     </item>
 <item>
+      <g:id>RFMV-710717</g:id>
+      <g:title><![CDATA[Ryghold - damer]]></g:title>
+      <g:description><![CDATA[Kom og være&nbsp; med på et hold, hvor ryggen bliver tilgodeset, samtidig med at den styrkes. Vi gennemgår også teorien bag ryggens funktioner, og der tages helt individuelle hensyn.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-randers-favrskov-mariagerfjord-viborg/ryghold-damer?holdnr=710717</g:link>
+      <g:image_link></g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>875.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Randers-Favrskov-Mariagerfjord-Viborg</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Styrke- og konditionstræning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Styrke- og konditionstræning</g:custom_label_2>
+      <g:custom_label_4>Randers</g:custom_label_4>
+      <g:start_date>2027-01-14T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Randers</g:custom_label_3>
+      <g:internal_label>['Randers','Motion','Randers C']</g:internal_label>
+    </item>
+<item>
       <g:id>RFMV-715540</g:id>
       <g:title><![CDATA[Smartphone-kursus (Android)]]></g:title>
       <g:description><![CDATA[Bliv endnu bedre venner med din iPhone eller Android-telefon. FVU Digital er gratis it-kurser for voksne, hvor du bliver god til at bruge digitale redskaber i hverdagen. Der er max. 10 deltagere og god tid til spørgsmål i en hyggelig atmosfære. ]]></g:description>
@@ -911,6 +1021,28 @@ Kurset er hos FOF i Randers]]></g:description>
       <g:internal_label>['1 dags kursus','Randers','Randers C']</g:internal_label>
     </item>
 <item>
+      <g:id>RFMV-710563</g:id>
+      <g:title><![CDATA[Introkursus i drejning]]></g:title>
+      <g:description><![CDATA[Lav keramik når det passer dig. Efter et 2 x 3 timers opstartskursus kan du bruge det ubemandede keramikværksted på Jens Otto Krags Plads (tidligere Underværket). Tilmeld dig her via FOF Randers. Her finder du også drejekurser som du kan tilmelde dig. ]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-randers-favrskov-mariagerfjord-viborg/det-aabne-keramikvaerksted?holdnr=710563</g:link>
+      <g:image_link>https://www.fof.dk/media/eqtb4xog/keramik-fof-aftenskolen-12.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>675.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Randers-Favrskov-Mariagerfjord-Viborg</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Kreative kurser &gt; Keramik</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Kreative kurser</g:custom_label_1>
+      <g:custom_label_2>Keramik</g:custom_label_2>
+      <g:custom_label_4>Randers</g:custom_label_4>
+      <g:start_date>2027-01-17T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Nyhed</g:custom_label_3>
+      <g:internal_label>['Nyhed','Randers','1 dags kursus','Randers C']</g:internal_label>
+    </item>
+<item>
       <g:id>RFMV-711601</g:id>
       <g:title><![CDATA[Astronomiens store navne]]></g:title>
       <g:description><![CDATA[FOF har inviteret astrofysiker Michael Linden-Vørnle til Randers for at fortælle om astronomiens store nøglepersoner gennem historien.]]></g:description>
@@ -931,6 +1063,28 @@ Kurset er hos FOF i Randers]]></g:description>
       <g:start_date>2027-01-20T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Foredrag</g:custom_label_3>
       <g:internal_label>['Foredrag','Nyhed','Randers','Naturvidenskab','Randers C']</g:internal_label>
+    </item>
+<item>
+      <g:id>RFMV-710734</g:id>
+      <g:title><![CDATA[Bevægelse, kropsholdning, udstrækning]]></g:title>
+      <g:description><![CDATA[Gå til gymnastik i Randers på et FOF-hold med skånsom træning især for seniorer. Du vil arbejde med din kropsholdning, balance og smidighed. Undervisningen består mest af langsomme stræk liggende på en måtte, så alle kan være med. Vi træner også vores bevidsthed omkring kroppens led og muskler. ]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-randers-favrskov-mariagerfjord-viborg/bevaegelse-kropsholdning-udstraekning?holdnr=710734</g:link>
+      <g:image_link>https://www.fof.dk/media/5shjuyvc/bevaegelseudstraekningseniormandkvinde-umbraco.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1325.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Randers-Favrskov-Mariagerfjord-Viborg</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Bevægelse og afspænding</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Bevægelse og afspænding</g:custom_label_2>
+      <g:custom_label_4>Randers</g:custom_label_4>
+      <g:start_date>2027-01-21T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Randers</g:custom_label_3>
+      <g:internal_label>['Randers','Motion','Randers C']</g:internal_label>
     </item>
 <item>
       <g:id>RFMV-712338</g:id>
@@ -1045,6 +1199,28 @@ Kurset er hos FOF i Randers]]></g:description>
       <g:internal_label>['Nyhed','Randers','Randers C']</g:internal_label>
     </item>
 <item>
+      <g:id>RFMV-710566</g:id>
+      <g:title><![CDATA[Introkursus i drejning]]></g:title>
+      <g:description><![CDATA[Lav keramik når det passer dig. Efter et 2 x 3 timers opstartskursus kan du bruge det ubemandede keramikværksted på Jens Otto Krags Plads (tidligere Underværket). Tilmeld dig her via FOF Randers. Her finder du også drejekurser som du kan tilmelde dig. ]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-randers-favrskov-mariagerfjord-viborg/det-aabne-keramikvaerksted?holdnr=710566</g:link>
+      <g:image_link>https://www.fof.dk/media/eqtb4xog/keramik-fof-aftenskolen-12.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>675.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Randers-Favrskov-Mariagerfjord-Viborg</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Kreative kurser &gt; Keramik</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Kreative kurser</g:custom_label_1>
+      <g:custom_label_2>Keramik</g:custom_label_2>
+      <g:custom_label_4>Randers</g:custom_label_4>
+      <g:start_date>2027-01-28T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Nyhed</g:custom_label_3>
+      <g:internal_label>['Nyhed','Randers','1 dags kursus','Randers C']</g:internal_label>
+    </item>
+<item>
       <g:id>RFMV-711521</g:id>
       <g:title><![CDATA[Surdejsbagning]]></g:title>
       <g:description><![CDATA[Bag dig eget lækre og sunde brød på surdejskursus hos FOF. Vi bager i køkkenet på Kristrup Skole, Randers SØ. ]]></g:description>
@@ -1109,6 +1285,50 @@ Kurset er hos FOF i Randers]]></g:description>
       <g:start_date>2027-01-30T00:00:00.000Z</g:start_date>
       <g:custom_label_3>1 dags kursus</g:custom_label_3>
       <g:internal_label>['1 dags kursus','Randers','Motion','Randers C']</g:internal_label>
+    </item>
+<item>
+      <g:id>RFMV-710564</g:id>
+      <g:title><![CDATA[Introkursus i drejning]]></g:title>
+      <g:description><![CDATA[Lav keramik når det passer dig. Efter et 2 x 3 timers opstartskursus kan du bruge det ubemandede keramikværksted på Jens Otto Krags Plads (tidligere Underværket). Tilmeld dig her via FOF Randers. Her finder du også drejekurser som du kan tilmelde dig. ]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-randers-favrskov-mariagerfjord-viborg/det-aabne-keramikvaerksted?holdnr=710564</g:link>
+      <g:image_link>https://www.fof.dk/media/eqtb4xog/keramik-fof-aftenskolen-12.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>675.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Randers-Favrskov-Mariagerfjord-Viborg</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Kreative kurser &gt; Keramik</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Kreative kurser</g:custom_label_1>
+      <g:custom_label_2>Keramik</g:custom_label_2>
+      <g:custom_label_4>Randers</g:custom_label_4>
+      <g:start_date>2027-01-31T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Nyhed</g:custom_label_3>
+      <g:internal_label>['Nyhed','Randers','1 dags kursus','Randers C']</g:internal_label>
+    </item>
+<item>
+      <g:id>RFMV-711118</g:id>
+      <g:title><![CDATA[Filosofi - Hvad er meningen med det hele?]]></g:title>
+      <g:description><![CDATA[Filosofi/personlig udvikling: Hvad er meningen med det hele? Vi mennesker har altid stillet spørgsmål til den verden der omgiver os. Spørgsmål som ” hvorfor er der noget ?”, ” af hvad natur er det der er ? og ” hvad er meningen med det hele ?” Tidligere havde religionerne monopol på at give svaret og senere har bl.a. forskellige politiske ideologer og ideologier forsøgt at give svaret på, hvad meningen er og, hvordan vi bør leve vores liv. Tanken med dette forløb er at dykke ned i forskellige bud på mening ud fra et bredt spektrum af inspiration inden for filosofi, psykologi, historie, livsvisdom osv. &nbsp;På kurset gennemgår vi og diskuterer ud fra tekster og evt. andre kilder og tanken er et trække paralleller til vores egen tid og vores eget syn på meningen med det hele. Referencer fra tidligere kursister: &nbsp; ”Inspirerende, levende, god, lyttende&nbsp;og grundig fortæller” ”Kan mærke, at Michael har en stor viden om emnerne han underviser i og brænder for at give sin viden videre” ”Formår at få kursister med, således at de får en god forståelse af stoffet” ”Michael er god til at omskrive forklaringerne og give eksempler, som fremmer forståelsen, sætter dog også pris på, at kursisterne deltager&nbsp;aktivt i undervisningen, men intet krav” ”I løbet af de sidste 6 - 7 år har jeg med afbrydelse, fulgt kurser omhandlende forskellige filosofiske emner, fra de tidlige filosoffer og indtil nu, med Michael som underviser. Jeg har derved fået en stor interesse for filosofiske emner og kan mærke, at jeg har fået en større forståelse, tolerance for mennesker i flere af samfundets lag og folkeslag. Og at der er og har været stor forskel på menneskets natur og vilkår igennem historien”]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-randers-favrskov-mariagerfjord-viborg/filosofi-hvad-er-meningen-med-det-hele?holdnr=711118</g:link>
+      <g:image_link>https://www.fof.dk/media/qmgkz1ij/397418_1_550x550.webp?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1150.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Randers-Favrskov-Mariagerfjord-Viborg</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Livsstil og trivsel &gt; Personlig udvikling</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Livsstil og trivsel</g:custom_label_1>
+      <g:custom_label_2>Personlig udvikling</g:custom_label_2>
+      <g:custom_label_4>Randers</g:custom_label_4>
+      <g:start_date>2027-02-01T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Nyhed</g:custom_label_3>
+      <g:internal_label>['Nyhed','Mindfulness / personlig udvikling','Randers C']</g:internal_label>
     </item>
 <item>
       <g:id>RFMV-711522</g:id>
@@ -1241,6 +1461,28 @@ Kurset er hos FOF i Randers]]></g:description>
       <g:start_date>2027-02-08T00:00:00.000Z</g:start_date>
       <g:custom_label_3>1 dags kursus</g:custom_label_3>
       <g:internal_label>['1 dags kursus','Randers','Randers SØ']</g:internal_label>
+    </item>
+<item>
+      <g:id>RFMV-710565</g:id>
+      <g:title><![CDATA[Introkursus i drejning]]></g:title>
+      <g:description><![CDATA[Lav keramik når det passer dig. Efter et 2 x 3 timers opstartskursus kan du bruge det ubemandede keramikværksted på Jens Otto Krags Plads (tidligere Underværket). Tilmeld dig her via FOF Randers. Her finder du også drejekurser som du kan tilmelde dig. ]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-randers-favrskov-mariagerfjord-viborg/det-aabne-keramikvaerksted?holdnr=710565</g:link>
+      <g:image_link>https://www.fof.dk/media/eqtb4xog/keramik-fof-aftenskolen-12.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>675.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Randers-Favrskov-Mariagerfjord-Viborg</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Kreative kurser &gt; Keramik</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Kreative kurser</g:custom_label_1>
+      <g:custom_label_2>Keramik</g:custom_label_2>
+      <g:custom_label_4>Randers</g:custom_label_4>
+      <g:start_date>2027-02-11T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Nyhed</g:custom_label_3>
+      <g:internal_label>['Nyhed','Randers','1 dags kursus','Randers C']</g:internal_label>
     </item>
 <item>
       <g:id>RFMV-711104</g:id>

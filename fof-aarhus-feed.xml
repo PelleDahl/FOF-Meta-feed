@@ -139,28 +139,6 @@
       <g:internal_label>['Starter om &lt; 14 dage','Aarhus C']</g:internal_label>
     </item>
 <item>
-      <g:id>AAR-425094</g:id>
-      <g:title><![CDATA[Yoga og pilates for gravide]]></g:title>
-      <g:description><![CDATA[Ønsker du træning tilpasset den gravide krop? Tilmeld dig på Yoga og pilates for gravide ved FOF Aftenskolen Aarhus. ]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/yoga-og-pilates-for-gravide?holdnr=425094</g:link>
-      <g:image_link>https://www.fof.dk/media/x1mjyyx5/yoga-og-pilates-gravide-fof-aarhus-3.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>880.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Aarhus</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Motion for gravide</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
-      <g:custom_label_2>Motion for gravide</g:custom_label_2>
-      <g:custom_label_4>Aarhus</g:custom_label_4>
-      <g:start_date>2026-11-17T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Starter om &lt; 14 dage</g:custom_label_3>
-      <g:internal_label>['Starter om &lt; 14 dage','Aarhus C']</g:internal_label>
-    </item>
-<item>
       <g:id>AAR-426991</g:id>
       <g:title><![CDATA[John Coltrane - fra hardbop til ekspressiv spiritualitet]]></g:title>
       <g:description><![CDATA[Kom til foredrag i Aarhus med can.mag., foredragsholder og podcastvært Jens Rasmussen, der vil fortælle om John Coltranes karriere og hans utrolige udtryks- og kraftfulde spillestil. ]]></g:description>
@@ -1542,28 +1520,6 @@
       <g:internal_label>['Korte kurser','Familie','Aarhus C']</g:internal_label>
     </item>
 <item>
-      <g:id>AAR-424071</g:id>
-      <g:title><![CDATA[Drop in kor]]></g:title>
-      <g:description><![CDATA[Skab musikalsk magi på bare én aften | Har du ikke tid til ugentligt at skulle synge i kor, så er dette kor lige noget for dig! ]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/drop-in-kor?holdnr=424071</g:link>
-      <g:image_link>https://www.fof.dk/media/yjzdvlnp/dropin-kor-1200x1200-aarhus.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>75.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Aarhus</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Musik og sang &gt; Kor og fællessang</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Musik og sang</g:custom_label_1>
-      <g:custom_label_2>Kor og fællessang</g:custom_label_2>
-      <g:custom_label_4>Aarhus</g:custom_label_4>
-      <g:start_date>2026-12-17T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Korte kurser</g:custom_label_3>
-      <g:internal_label>['Korte kurser','Aarhus C']</g:internal_label>
-    </item>
-<item>
       <g:id>AAR-426078</g:id>
       <g:title><![CDATA[Fredagsforedrag: Duende - om Federico Garcia Lorca]]></g:title>
       <g:description><![CDATA[Kom med til fællesforedrag i FOF aarhus' Kulturhøjskole | Hver fredag samles alle deltagere på Kulturhøjskolen til aktuelle foredrag, der giver nye perspektiver og stof til eftertanke.
@@ -1953,7 +1909,7 @@
     </item>
 <item>
       <g:id>AAR-435315</g:id>
-      <g:title><![CDATA[Qigong – ro og balance i krop og sind]]></g:title>
+      <g:title><![CDATA[Qigong – få indre ro og balance ]]></g:title>
       <g:description><![CDATA[Find ro og nærvær gennem blid bevægelse på et Qigong-kursus midt i Aarhus. Vores dygtige underviser glæder sig til at byde dig velkommen.]]></g:description>
       <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/qigong-ro-og-balance-i-krop-og-sind?holdnr=435315</g:link>
       <g:image_link>https://www.fof.dk/media/anhdiq5h/qigong_fof_aarhus_1200x1200.jpg?width=1200</g:image_link>
@@ -2035,7 +1991,8 @@
       <g:custom_label_2>Tai Chi og Qi Gong</g:custom_label_2>
       <g:custom_label_4>Aarhus</g:custom_label_4>
       <g:start_date>2027-01-14T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Aarhus C']</g:internal_label>
+      <g:custom_label_3>Hensyntagende</g:custom_label_3>
+      <g:internal_label>['Hensyntagende','Aarhus C']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-433035</g:id>
@@ -2190,7 +2147,7 @@
 <item>
       <g:id>AAR-435355</g:id>
       <g:title><![CDATA[Hatha yoga for letøvede]]></g:title>
-      <g:description><![CDATA[Kom med til afslappende yoga i Aarhus Hatha Yoga er for dig, der gerne vil have et moderat tempo i undervisningen, og som ønsker en meditativ undervisningsform, hvor der er opmærksomhed på at stilne sindet og finde dybere ind i dig selv. Vi laver små flows og leger med bevægelserne. Med øvelserne kommer vi kroppen igennem, og der er fokus på både styrke, stabilitet og smidighed. Vi arbejder med at skabe et godt fundament for din yogapraksis. Derfor er teori og alignment en naturlig del af undervisningen.]]></g:description>
+      <g:description><![CDATA[Kom til Hatha Yoga i FOF Aarhus og find ro og fordybelse. Her er der fokus på smidighed og fordybelse.]]></g:description>
       <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/hatha-yoga-for-letoevede?holdnr=435355</g:link>
       <g:image_link>https://www.fof.dk/media/0kmj4dqc/hatha-yoga-aarhus-fof-aftenskolen.jpg?width=1200</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -2332,7 +2289,8 @@
       <g:custom_label_2>Mindfulness og meditation</g:custom_label_2>
       <g:custom_label_4>Aarhus</g:custom_label_4>
       <g:start_date>2027-01-23T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Aarhus C']</g:internal_label>
+      <g:custom_label_3>Korte kurser</g:custom_label_3>
+      <g:internal_label>['Korte kurser','Aarhus C']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-431892</g:id>
@@ -2379,6 +2337,133 @@
       <g:internal_label>['Korte kurser','Aarhus C']</g:internal_label>
     </item>
 <item>
+      <g:id>AAR-431400</g:id>
+      <g:title><![CDATA[Tysk 1 (A1) - begynderkursus]]></g:title>
+      <g:description><![CDATA[Er du absolut begynder i tysk, så kom med på vores begynderkursus i tysk i FOF Aftenskolen Aarhus.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/tysk-1-a1-begynderkursus?holdnr=431400</g:link>
+      <g:image_link>https://www.fof.dk/media/feyo4g5j/berlin-brandenburger-tor_1200x1200-fof-aarhus.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1425.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Sprog &gt; Tysk</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Sprog</g:custom_label_1>
+      <g:custom_label_2>Tysk</g:custom_label_2>
+      <g:custom_label_4>Aarhus</g:custom_label_4>
+      <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Aarhus V']</g:internal_label>
+    </item>
+<item>
+      <g:id>AAR-431991</g:id>
+      <g:title><![CDATA[Danish for Beginners 1 (A1) ]]></g:title>
+      <g:description><![CDATA[Take a course in Danish for beginners at FOF Aarhus]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/danish-for-beginners-1-a1?holdnr=431991</g:link>
+      <g:image_link>https://www.fof.dk/media/bjkc1unq/aarhus-raadhuset_1200x1200-fof-aarhus.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1825.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Sprog &gt; Dansk - Danish</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Sprog</g:custom_label_1>
+      <g:custom_label_2>Dansk - Danish</g:custom_label_2>
+      <g:custom_label_4>Aarhus</g:custom_label_4>
+      <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>In English</g:custom_label_3>
+      <g:internal_label>['In English','Aarhus V']</g:internal_label>
+    </item>
+<item>
+      <g:id>AAR-431600</g:id>
+      <g:title><![CDATA[Fransk 1a (A1) - begynderkursus]]></g:title>
+      <g:description><![CDATA[Lær fransk fra bunden med FOF Aarhus. Opbyg ordforråd, lær fransk udtale og enkle hverdagsfraser. Efter kurset kan du fortsætte på næste niveau.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/fransk-1a-a1-begynderkursus?holdnr=431600</g:link>
+      <g:image_link>https://www.fof.dk/media/32kfjobn/fransk_by_20_1200x1200-fof-aarhus.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1605.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Sprog &gt; Fransk</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Sprog</g:custom_label_1>
+      <g:custom_label_2>Fransk</g:custom_label_2>
+      <g:custom_label_4>Aarhus</g:custom_label_4>
+      <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Aarhus C']</g:internal_label>
+    </item>
+<item>
+      <g:id>AAR-431930</g:id>
+      <g:title><![CDATA[Koreansk 1]]></g:title>
+      <g:description><![CDATA[Tag et begynderkursus i koreansk i FOF Aarhus. Lær at føre enkle samtaler, forstå hverdagskultur og læse det koreanske alfabet Hangeul.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/koreansk-1?holdnr=431930</g:link>
+      <g:image_link>https://www.fof.dk/media/fchef5pd/koreansk-undervisning_1200x1200-fof-aarhus.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1535.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Sprog &gt; Koreansk</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Sprog</g:custom_label_1>
+      <g:custom_label_2>Koreansk</g:custom_label_2>
+      <g:custom_label_4>Aarhus</g:custom_label_4>
+      <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Aarhus C']</g:internal_label>
+    </item>
+<item>
+      <g:id>AAR-431700</g:id>
+      <g:title><![CDATA[Spansk 1a (A1) - begynderkursus]]></g:title>
+      <g:description><![CDATA[Kom med på et begynder sprogkursus, hvor vi arbejder med udtale, grammatik og samtaletræning.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/spansk-1a-a1-begynderkursus?holdnr=431700</g:link>
+      <g:image_link>https://www.fof.dk/media/zt1fwrsc/spansk_10_frugt-marked_1200x1200-fof-aarhus.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1695.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Sprog &gt; Spansk</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Sprog</g:custom_label_1>
+      <g:custom_label_2>Spansk</g:custom_label_2>
+      <g:custom_label_4>Aarhus</g:custom_label_4>
+      <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Aarhus C']</g:internal_label>
+    </item>
+<item>
+      <g:id>AAR-431801</g:id>
+      <g:title><![CDATA[Italiensk 1a (A1) - begynderkursus]]></g:title>
+      <g:description><![CDATA[Kom godt i gang med det skønne italienske sprog på en logisk og pædagogisk måde på dette sprogkursus i italiensk i Aarhus.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/italiensk-1a-a1-begynderkursus?holdnr=431801</g:link>
+      <g:image_link>https://www.fof.dk/media/hbkguind/barok-springvand-italien_1200x1200-fof-aarhus.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1605.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Sprog &gt; Italiensk</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Sprog</g:custom_label_1>
+      <g:custom_label_2>Italiensk</g:custom_label_2>
+      <g:custom_label_4>Aarhus</g:custom_label_4>
+      <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Aarhus C']</g:internal_label>
+    </item>
+<item>
       <g:id>AAR-436801</g:id>
       <g:title><![CDATA[Kabaret Nostalgi]]></g:title>
       <g:description><![CDATA[FOF Aarhus inviterer til Kabaret Nostalgi med Signe Asmussen, Bo Kristian Jensen og Erik Kaltoft. Nyd danske revyviser og tyske kabaretsange med humor og kant.
@@ -2420,6 +2505,27 @@
       <g:custom_label_4>Åbyhøj</g:custom_label_4>
       <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
       <g:internal_label>['Åbyhøj']</g:internal_label>
+    </item>
+<item>
+      <g:id>AAR-431800</g:id>
+      <g:title><![CDATA[Italiensk 1a (A1) - begynderkursus]]></g:title>
+      <g:description><![CDATA[Kom godt i gang med det skønne italienske sprog på en logisk og pædagogisk måde på dette sprogkursus i italiensk i Aarhus.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/italiensk-1a-a1-begynderkursus?holdnr=431800</g:link>
+      <g:image_link>https://www.fof.dk/media/hbkguind/barok-springvand-italien_1200x1200-fof-aarhus.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1605.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Sprog &gt; Italiensk</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Sprog</g:custom_label_1>
+      <g:custom_label_2>Italiensk</g:custom_label_2>
+      <g:custom_label_4>Aarhus</g:custom_label_4>
+      <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Aarhus C']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-426927</g:id>
@@ -2485,6 +2591,153 @@
       <g:internal_label>['Aarhus C']</g:internal_label>
     </item>
 <item>
+      <g:id>AAR-431601</g:id>
+      <g:title><![CDATA[Fransk 1a (A1) - begynderkursus]]></g:title>
+      <g:description><![CDATA[Lær fransk fra bunden med FOF Aarhus. Opbyg ordforråd, lær fransk udtale og enkle hverdagsfraser. Efter kurset kan du fortsætte på næste niveau.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/fransk-1a-a1-begynderkursus?holdnr=431601</g:link>
+      <g:image_link>https://www.fof.dk/media/32kfjobn/fransk_by_20_1200x1200-fof-aarhus.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1605.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Sprog &gt; Fransk</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Sprog</g:custom_label_1>
+      <g:custom_label_2>Fransk</g:custom_label_2>
+      <g:custom_label_4>Aarhus</g:custom_label_4>
+      <g:start_date>2027-01-26T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Aarhus C']</g:internal_label>
+    </item>
+<item>
+      <g:id>AAR-431913</g:id>
+      <g:title><![CDATA[Persisk (farsi) 1]]></g:title>
+      <g:description><![CDATA[Kom godt i gang med farsi i FOF Aarhus. Lær almindelige ord og vendinger, få fokus på det talte sprog og bliv introduceret til persisk kultur, historie og traditioner.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/persisk-farsi-1?holdnr=431913</g:link>
+      <g:image_link>https://www.fof.dk/media/ub3fmxjx/persisk-slot_1200x1200-fof-aarhus.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1535.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Sprog &gt; Persisk - farsi</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Sprog</g:custom_label_1>
+      <g:custom_label_2>Persisk - farsi</g:custom_label_2>
+      <g:custom_label_4>Aarhus</g:custom_label_4>
+      <g:start_date>2027-01-26T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Aarhus C']</g:internal_label>
+    </item>
+<item>
+      <g:id>AAR-431900</g:id>
+      <g:title><![CDATA[Arabisk 1]]></g:title>
+      <g:description><![CDATA[Tag på sprogkursus i moderne arabisk og få et bedre udbytte af dine rejser i den arabiske verden. Vi starter helt fra begyndelsen.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/arabisk-1?holdnr=431900</g:link>
+      <g:image_link>https://www.fof.dk/media/jqnjyiwa/arabisk-sprog_2_1200x1200-aarhus.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1535.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Sprog &gt; Arabisk</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Sprog</g:custom_label_1>
+      <g:custom_label_2>Arabisk</g:custom_label_2>
+      <g:custom_label_4>Aarhus</g:custom_label_4>
+      <g:start_date>2027-01-26T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Aarhus C']</g:internal_label>
+    </item>
+<item>
+      <g:id>AAR-431970</g:id>
+      <g:title><![CDATA[Russisk 1]]></g:title>
+      <g:description><![CDATA[Kom med på et sprogkursus i russisk for begyndere. Tilmeld dig i dag og start din sprogrejse. ]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/russisk-1?holdnr=431970</g:link>
+      <g:image_link>https://www.fof.dk/media/fspplkcf/babusjkaer-rusland-rusisk_1200x1200-fof-aarhus.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1630.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Sprog &gt; Russisk</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Sprog</g:custom_label_1>
+      <g:custom_label_2>Russisk</g:custom_label_2>
+      <g:custom_label_4>Aarhus</g:custom_label_4>
+      <g:start_date>2027-01-26T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Aarhus V']</g:internal_label>
+    </item>
+<item>
+      <g:id>AAR-431965</g:id>
+      <g:title><![CDATA[Portugisisk (europæisk) 1]]></g:title>
+      <g:description><![CDATA[Tag med på sprogkursus i portugisisk og lær sproget fra bunden af dygtige undervisere. Centralt i Aarhus. Tilmeld dig dit begynderkursus i dag.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/portugisisk-europaeisk-1?holdnr=431965</g:link>
+      <g:image_link>https://www.fof.dk/media/iwlngpox/portugal-sporvogn-1200x1200-fof-aarhus.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1535.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Sprog &gt; Portugisisk</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Sprog</g:custom_label_1>
+      <g:custom_label_2>Portugisisk</g:custom_label_2>
+      <g:custom_label_4>Åbyhøj</g:custom_label_4>
+      <g:start_date>2027-01-27T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Åbyhøj']</g:internal_label>
+    </item>
+<item>
+      <g:id>AAR-431915</g:id>
+      <g:title><![CDATA[Nygræsk 1]]></g:title>
+      <g:description><![CDATA[Kom i gang med nygræsk i FOF Aarhus og lær alfabet, udtale og simple samtaler – perfekt til dine rejser i Grækenland.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/nygraesk-1?holdnr=431915</g:link>
+      <g:image_link>https://www.fof.dk/media/45uhxvt4/graekenland-sprogkursus-1200x1200-fof-aarhus.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1535.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Sprog &gt; Græsk</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Sprog</g:custom_label_1>
+      <g:custom_label_2>Græsk</g:custom_label_2>
+      <g:custom_label_4>Aarhus</g:custom_label_4>
+      <g:start_date>2027-01-27T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Aarhus C']</g:internal_label>
+    </item>
+<item>
+      <g:id>AAR-431945</g:id>
+      <g:title><![CDATA[Kinesisk til rejsebrug]]></g:title>
+      <g:description><![CDATA[Lær kinesisk til rejsebrug på et kursus i FOF Aarhus. For dig, der aldrig har lært kinesisk før og gerne vil lære at klare dig på kinesisk i nogle af de mest almindelige situationer på rejsen. Tilmeld dig her!]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/kinesisk-til-rejsebrug?holdnr=431945</g:link>
+      <g:image_link>https://www.fof.dk/media/fiqle32e/kina_lamper_fof_aarhus_1200x1200.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1535.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Sprog &gt; Kinesisk</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Sprog</g:custom_label_1>
+      <g:custom_label_2>Kinesisk</g:custom_label_2>
+      <g:custom_label_4>Aarhus</g:custom_label_4>
+      <g:start_date>2027-01-27T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Aarhus C']</g:internal_label>
+    </item>
+<item>
       <g:id>AAR-436808</g:id>
       <g:title><![CDATA[Guide til den kvindelige cyklus]]></g:title>
       <g:description><![CDATA[Bliv klogere på din menstruationscyklus og lær at forstå kroppens signaler. Få redskaber til bedre balance og velvære. Tilmeld dig i dag.]]></g:description>
@@ -2526,6 +2779,153 @@
       <g:start_date>2027-01-27T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Korte kurser</g:custom_label_3>
       <g:internal_label>['Korte kurser','Starter om &lt; 14 dage','Åbyhøj']</g:internal_label>
+    </item>
+<item>
+      <g:id>AAR-431702</g:id>
+      <g:title><![CDATA[Spansk 1a (A1) - begynderkursus]]></g:title>
+      <g:description><![CDATA[Kom med på et begynder sprogkursus, hvor vi arbejder med udtale, grammatik og samtaletræning.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/spansk-1a-a1-begynderkursus?holdnr=431702</g:link>
+      <g:image_link>https://www.fof.dk/media/zt1fwrsc/spansk_10_frugt-marked_1200x1200-fof-aarhus.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1695.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Sprog &gt; Spansk</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Sprog</g:custom_label_1>
+      <g:custom_label_2>Spansk</g:custom_label_2>
+      <g:custom_label_4>Aarhus</g:custom_label_4>
+      <g:start_date>2027-01-27T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Aarhus C']</g:internal_label>
+    </item>
+<item>
+      <g:id>AAR-431940</g:id>
+      <g:title><![CDATA[Kinesisk 1]]></g:title>
+      <g:description><![CDATA[På dette kursus i FOF Aarhus starter vi helt fra bunden med det kinesiske sprog, og du kommer i gang med fundamental samtale og grammatik.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/kinesisk-1?holdnr=431940</g:link>
+      <g:image_link>https://www.fof.dk/media/24zov2l4/kinesisk-mur-1200x1200-fof-aarhus.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1535.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Sprog &gt; Kinesisk</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Sprog</g:custom_label_1>
+      <g:custom_label_2>Kinesisk</g:custom_label_2>
+      <g:custom_label_4>Aarhus</g:custom_label_4>
+      <g:start_date>2027-01-27T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Aarhus C']</g:internal_label>
+    </item>
+<item>
+      <g:id>AAR-431803</g:id>
+      <g:title><![CDATA[Italiensk 1a (A1) - begynderkursus]]></g:title>
+      <g:description><![CDATA[Kom godt i gang med det skønne italienske sprog på en logisk og pædagogisk måde på dette sprogkursus i italiensk i Aarhus.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/italiensk-1a-a1-begynderkursus?holdnr=431803</g:link>
+      <g:image_link>https://www.fof.dk/media/hbkguind/barok-springvand-italien_1200x1200-fof-aarhus.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1605.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Sprog &gt; Italiensk</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Sprog</g:custom_label_1>
+      <g:custom_label_2>Italiensk</g:custom_label_2>
+      <g:custom_label_4>Aarhus</g:custom_label_4>
+      <g:start_date>2027-01-27T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Aarhus C']</g:internal_label>
+    </item>
+<item>
+      <g:id>AAR-431927</g:id>
+      <g:title><![CDATA[Islandsk 1]]></g:title>
+      <g:description><![CDATA[Deltag i Islandsk 1 og lær det spændende sprog fra bunden. Få styr på udtale, ordforråd og grammatik – og bliv klog på den islandske kultur med natur, mad og historie på kursus i FOF Aarhus.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/islandsk-1?holdnr=431927</g:link>
+      <g:image_link>https://www.fof.dk/media/yyeh43nq/lunder-paa-klippekant-island-fof-aarhus.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1535.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Sprog &gt; Islandsk</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Sprog</g:custom_label_1>
+      <g:custom_label_2>Islandsk</g:custom_label_2>
+      <g:custom_label_4>Aarhus</g:custom_label_4>
+      <g:start_date>2027-01-28T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Aarhus V']</g:internal_label>
+    </item>
+<item>
+      <g:id>AAR-431977</g:id>
+      <g:title><![CDATA[Ukrainsk 1]]></g:title>
+      <g:description><![CDATA[Lær ukrainsk fra bunden: det kyrilliske alfabet, udtale og hverdagssprog. Få indsigt i kultur og traditioner. Undervisning på ukrainsk med dansk/engelsk forklaring. Tilmeld dig i dag.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/ukrainsk-1?holdnr=431977</g:link>
+      <g:image_link>https://www.fof.dk/media/2v4jwshd/ukrainsk-kiev_4_1200x1200-fof-aarhus.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1535.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Sprog &gt; Ukrainsk</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Sprog</g:custom_label_1>
+      <g:custom_label_2>Ukrainsk</g:custom_label_2>
+      <g:custom_label_4>Aarhus</g:custom_label_4>
+      <g:start_date>2027-01-28T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Aarhus V']</g:internal_label>
+    </item>
+<item>
+      <g:id>AAR-431603</g:id>
+      <g:title><![CDATA[Fransk 1a (A1) - begynderkursus]]></g:title>
+      <g:description><![CDATA[Lær fransk fra bunden med FOF Aarhus. Opbyg ordforråd, lær fransk udtale og enkle hverdagsfraser. Efter kurset kan du fortsætte på næste niveau.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/fransk-1a-a1-begynderkursus?holdnr=431603</g:link>
+      <g:image_link>https://www.fof.dk/media/32kfjobn/fransk_by_20_1200x1200-fof-aarhus.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1605.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Sprog &gt; Fransk</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Sprog</g:custom_label_1>
+      <g:custom_label_2>Fransk</g:custom_label_2>
+      <g:custom_label_4>Aarhus</g:custom_label_4>
+      <g:start_date>2027-01-28T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Aarhus C']</g:internal_label>
+    </item>
+<item>
+      <g:id>AAR-431923</g:id>
+      <g:title><![CDATA[Færøsk 1]]></g:title>
+      <g:description><![CDATA[Lær færøsk i FOF Aarhus. Et begynderkursus i Aarhus med fokus på udtale, ordforråd, kultur og hverdagskommunikation på færøsk.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/faeroesk-1?holdnr=431923</g:link>
+      <g:image_link>https://www.fof.dk/media/m4kdsagj/faar_paa_faeroeerne_sprogundervisning_fof_aarhus_1200x1200.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1535.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Sprog &gt; Færøsk</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Sprog</g:custom_label_1>
+      <g:custom_label_2>Færøsk</g:custom_label_2>
+      <g:custom_label_4>Aarhus</g:custom_label_4>
+      <g:start_date>2027-01-28T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Aarhus C']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-434669</g:id>
@@ -2655,6 +3055,27 @@
       <g:start_date>2027-02-03T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Korte kurser</g:custom_label_3>
       <g:internal_label>['Korte kurser','Åbyhøj']</g:internal_label>
+    </item>
+<item>
+      <g:id>AAR-431703</g:id>
+      <g:title><![CDATA[Spansk 1a (A1) - begynderkursus]]></g:title>
+      <g:description><![CDATA[Kom med på et begynder sprogkursus, hvor vi arbejder med udtale, grammatik og samtaletræning.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/spansk-1a-a1-begynderkursus?holdnr=431703</g:link>
+      <g:image_link>https://www.fof.dk/media/zt1fwrsc/spansk_10_frugt-marked_1200x1200-fof-aarhus.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1695.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Sprog &gt; Spansk</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Sprog</g:custom_label_1>
+      <g:custom_label_2>Spansk</g:custom_label_2>
+      <g:custom_label_4>Aarhus</g:custom_label_4>
+      <g:start_date>2027-02-03T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Aarhus C']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-435058</g:id>
@@ -3726,6 +4147,28 @@
       <g:internal_label>['Korte kurser','Aarhus C']</g:internal_label>
     </item>
 <item>
+      <g:id>AAR-439090</g:id>
+      <g:title><![CDATA[Prøvetime: Sansebad i naturen (hensyntagende)]]></g:title>
+      <g:description><![CDATA[Oplev naturens ro med et hensyntagende kursus i sansebad i Aarhus | Tilmeld dig nu]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/sansebad-i-naturen-hensyntagende?holdnr=439090</g:link>
+      <g:image_link>https://www.fof.dk/media/u13dumql/skovbad-fof-aftenskolen-aarhus-5.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>75.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Mindfulness og meditation</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Mindfulness og meditation</g:custom_label_2>
+      <g:custom_label_4>Højbjerg</g:custom_label_4>
+      <g:start_date>2027-03-16T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Hensyntagende</g:custom_label_3>
+      <g:internal_label>['Hensyntagende','Højbjerg']</g:internal_label>
+    </item>
+<item>
       <g:id>AAR-437000</g:id>
       <g:title><![CDATA[Hvad er autisme? En familieguide]]></g:title>
       <g:description><![CDATA[Bliv klogere på autisme til foredrag i Aarhus med Dorthe Hölck. Få nuanceret viden og brugbare perspektiver på livet med ASF. Stil spørgsmål og få indsigt. Book din plads i dag.]]></g:description>
@@ -3747,6 +4190,28 @@
       <g:internal_label>['Aarhus C']</g:internal_label>
     </item>
 <item>
+      <g:id>AAR-439095</g:id>
+      <g:title><![CDATA[Prøvetime: Qigong i naturen for begyndere (hensyntagende)]]></g:title>
+      <g:description><![CDATA[Få mere ro og nærvær i hverdagen med traditionel kinesisk qigong i naturen omkring Aarhus.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/qigong-i-naturen-for-begyndere-hensyntagende?holdnr=439095</g:link>
+      <g:image_link>https://www.fof.dk/media/hguikwc2/qigong_i_naturen_fof_aarhus_1200x1200.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>75.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Tai Chi og Qi Gong</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Tai Chi og Qi Gong</g:custom_label_2>
+      <g:custom_label_4>Risskov</g:custom_label_4>
+      <g:start_date>2027-03-17T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Hensyntagende</g:custom_label_3>
+      <g:internal_label>['Hensyntagende','Risskov']</g:internal_label>
+    </item>
+<item>
       <g:id>AAR-436832</g:id>
       <g:title><![CDATA[Antiskrøbelig - sund og stærk hele livet]]></g:title>
       <g:description><![CDATA[Kom til foredrag med Martin Kreutzer i FOF Aarhus og få opskriften på, hvordan du holder dig sund, stærk og fuld af energi – hele livet. ]]></g:description>
@@ -3766,6 +4231,28 @@
       <g:custom_label_4>Aarhus</g:custom_label_4>
       <g:start_date>2027-03-18T00:00:00.000Z</g:start_date>
       <g:internal_label>['Aarhus C']</g:internal_label>
+    </item>
+<item>
+      <g:id>AAR-439086</g:id>
+      <g:title><![CDATA[Prøvetime: NaturRo for kvinder der oplever stress (hensyntagende)]]></g:title>
+      <g:description><![CDATA[NaturRo er for kvinder, der oplever stress, angst, depression eller lign., som ønsker at finde ro i naturen | Tilmeld dig nu]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/naturro-for-kvinder-der-oplever-stress-hensyntagende?holdnr=439086</g:link>
+      <g:image_link>https://www.fof.dk/media/mpchwsf0/naturro_kvinder_fof_aarhus_1200x1200.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>75.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Mindfulness og meditation</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Mindfulness og meditation</g:custom_label_2>
+      <g:custom_label_4></g:custom_label_4>
+      <g:start_date>2027-03-18T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Hensyntagende</g:custom_label_3>
+      <g:internal_label>['Hensyntagende']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-436817</g:id>
@@ -3810,6 +4297,68 @@
       <g:internal_label>['Aarhus C']</g:internal_label>
     </item>
 <item>
+      <g:id>AAR-436859</g:id>
+      <g:title><![CDATA[Street art tour]]></g:title>
+      <g:description><![CDATA[Kom med på spændende tur med street artist Mikkel T. Jessen og bliv klogere på byens kunst. Kom med!]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/street-art-tour?holdnr=436859</g:link>
+      <g:image_link>https://www.fof.dk/media/f4qjrld2/streetarttours-1200x1200-fof-aarhus.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>175.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Rejser, ture og rundvisninger &gt; Byvandringer</g:product_type>
+      <g:custom_label_0>Rejser, ture og rundvisninger</g:custom_label_0>
+      <g:custom_label_1>Byvandringer</g:custom_label_1>
+      <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4></g:custom_label_4>
+      <g:start_date>2027-03-30T00:00:00.000Z</g:start_date>
+    </item>
+<item>
+      <g:id>AAR-439091</g:id>
+      <g:title><![CDATA[Sansebad i naturen (hensyntagende)]]></g:title>
+      <g:description><![CDATA[Oplev naturens ro med et hensyntagende kursus i sansebad i Aarhus | Tilmeld dig nu]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/sansebad-i-naturen-hensyntagende?holdnr=439091</g:link>
+      <g:image_link>https://www.fof.dk/media/u13dumql/skovbad-fof-aftenskolen-aarhus-5.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>915.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Mindfulness og meditation</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Mindfulness og meditation</g:custom_label_2>
+      <g:custom_label_4>Højbjerg</g:custom_label_4>
+      <g:start_date>2027-03-30T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Hensyntagende</g:custom_label_3>
+      <g:internal_label>['Hensyntagende','Højbjerg']</g:internal_label>
+    </item>
+<item>
+      <g:id>AAR-436860</g:id>
+      <g:title><![CDATA[Street art tour]]></g:title>
+      <g:description><![CDATA[Kom med på spændende tur med street artist Mikkel T. Jessen og bliv klogere på byens kunst. Kom med!]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/street-art-tour?holdnr=436860</g:link>
+      <g:image_link>https://www.fof.dk/media/f4qjrld2/streetarttours-1200x1200-fof-aarhus.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>175.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Rejser, ture og rundvisninger &gt; Byvandringer</g:product_type>
+      <g:custom_label_0>Rejser, ture og rundvisninger</g:custom_label_0>
+      <g:custom_label_1>Byvandringer</g:custom_label_1>
+      <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4></g:custom_label_4>
+      <g:start_date>2027-03-31T00:00:00.000Z</g:start_date>
+    </item>
+<item>
       <g:id>AAR-435010</g:id>
       <g:title><![CDATA[Ve-træning]]></g:title>
       <g:description><![CDATA[Tag til ve-træning ved FOF Aftenskolen Aarhus og forbered dig på fødslen ved at lære at tackle dine veer. ]]></g:description>
@@ -3832,25 +4381,26 @@
       <g:internal_label>['Korte kurser','Åbyhøj']</g:internal_label>
     </item>
 <item>
-      <g:id>AAR-436870</g:id>
-      <g:title><![CDATA[Ditte Young: Hvad kan vi lære af neurodivergente børn og unge?]]></g:title>
-      <g:description><![CDATA[Kom med til dette tankevækkende og inspirerende foredrag i FOF Aarhus, hvor Ditte Young åbner for nye perspektiver på neurodivergens hos børn og unge og sætter fokus på de ressourcer, styrker og potentialer, som ofte overses. | Tilmeld dig nu!]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/ditte-young-hvad-kan-vi-laere-af-neurodivergente-boern-og-unge?holdnr=436870</g:link>
-      <g:image_link>https://www.fof.dk/media/j2ffv5uz/ditteyoung_1200x1200-fof-aarhus.jpg?width=1200</g:image_link>
+      <g:id>AAR-439096</g:id>
+      <g:title><![CDATA[Qigong i naturen for begyndere (hensyntagende)]]></g:title>
+      <g:description><![CDATA[Få mere ro og nærvær i hverdagen med traditionel kinesisk qigong i naturen omkring Aarhus.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/qigong-i-naturen-for-begyndere-hensyntagende?holdnr=439096</g:link>
+      <g:image_link>https://www.fof.dk/media/hguikwc2/qigong_i_naturen_fof_aarhus_1200x1200.jpg?width=1200</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:quantity>1</g:quantity>
-      <g:price>200.00 DKK</g:price>
+      <g:price>750.00 DKK</g:price>
       <g:condition>new</g:condition>
       <g:brand>FOF Aarhus</g:brand>
       <g:google_product_category>Education</g:google_product_category>
       <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Foredrag, debat og højskoler &gt; Sundhed og eksistens</g:product_type>
-      <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
-      <g:custom_label_1>Sundhed og eksistens</g:custom_label_1>
-      <g:custom_label_2></g:custom_label_2>
-      <g:custom_label_4>Aarhus</g:custom_label_4>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Tai Chi og Qi Gong</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Tai Chi og Qi Gong</g:custom_label_2>
+      <g:custom_label_4>Risskov</g:custom_label_4>
       <g:start_date>2027-03-31T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Aarhus C']</g:internal_label>
+      <g:custom_label_3>Hensyntagende</g:custom_label_3>
+      <g:internal_label>['Hensyntagende','Risskov']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-436889</g:id>
@@ -3868,6 +4418,27 @@
       <g:product_type>Foredrag, debat og højskoler &gt; Natur og haver</g:product_type>
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Natur og haver</g:custom_label_1>
+      <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Aarhus</g:custom_label_4>
+      <g:start_date>2027-03-31T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Aarhus C']</g:internal_label>
+    </item>
+<item>
+      <g:id>AAR-436870</g:id>
+      <g:title><![CDATA[Ditte Young: Hvad kan vi lære af neurodivergente børn og unge?]]></g:title>
+      <g:description><![CDATA[Kom med til dette tankevækkende og inspirerende foredrag i FOF Aarhus, hvor Ditte Young åbner for nye perspektiver på neurodivergens hos børn og unge og sætter fokus på de ressourcer, styrker og potentialer, som ofte overses. | Tilmeld dig nu!]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/ditte-young-hvad-kan-vi-laere-af-neurodivergente-boern-og-unge?holdnr=436870</g:link>
+      <g:image_link>https://www.fof.dk/media/j2ffv5uz/ditteyoung_1200x1200-fof-aarhus.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>200.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Foredrag, debat og højskoler &gt; Sundhed og eksistens</g:product_type>
+      <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
+      <g:custom_label_1>Sundhed og eksistens</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4>Aarhus</g:custom_label_4>
       <g:start_date>2027-03-31T00:00:00.000Z</g:start_date>
@@ -3893,6 +4464,28 @@
       <g:custom_label_4>Aarhus</g:custom_label_4>
       <g:start_date>2027-04-01T00:00:00.000Z</g:start_date>
       <g:internal_label>['Aarhus C']</g:internal_label>
+    </item>
+<item>
+      <g:id>AAR-439087</g:id>
+      <g:title><![CDATA[NaturRo for kvinder der oplever stress (hensyntagende)]]></g:title>
+      <g:description><![CDATA[NaturRo er for kvinder, der oplever stress, angst, depression eller lign., som ønsker at finde ro i naturen | Tilmeld dig nu]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/naturro-for-kvinder-der-oplever-stress-hensyntagende?holdnr=439087</g:link>
+      <g:image_link>https://www.fof.dk/media/mpchwsf0/naturro_kvinder_fof_aarhus_1200x1200.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1065.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Mindfulness og meditation</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Mindfulness og meditation</g:custom_label_2>
+      <g:custom_label_4></g:custom_label_4>
+      <g:start_date>2027-04-01T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Hensyntagende</g:custom_label_3>
+      <g:internal_label>['Hensyntagende']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-436802</g:id>
@@ -4139,7 +4732,7 @@
       <g:image_link>https://www.fof.dk/media/zxvb1k5r/mette_borre_foredragsholder_fof_aarhus_1200x1200.jpg?width=1200</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:quantity>1</g:quantity>
-      <g:price>150.00 DKK</g:price>
+      <g:price>155.00 DKK</g:price>
       <g:condition>new</g:condition>
       <g:brand>FOF Aarhus</g:brand>
       <g:google_product_category>Education</g:google_product_category>
@@ -4475,6 +5068,46 @@
       <g:internal_label>['Familie','Aarhus C']</g:internal_label>
     </item>
 <item>
+      <g:id>AAR-436861</g:id>
+      <g:title><![CDATA[Street art tour]]></g:title>
+      <g:description><![CDATA[Kom med på spændende tur med street artist Mikkel T. Jessen og bliv klogere på byens kunst. Kom med!]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/street-art-tour?holdnr=436861</g:link>
+      <g:image_link>https://www.fof.dk/media/f4qjrld2/streetarttours-1200x1200-fof-aarhus.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>175.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Rejser, ture og rundvisninger &gt; Byvandringer</g:product_type>
+      <g:custom_label_0>Rejser, ture og rundvisninger</g:custom_label_0>
+      <g:custom_label_1>Byvandringer</g:custom_label_1>
+      <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4></g:custom_label_4>
+      <g:start_date>2027-04-25T00:00:00.000Z</g:start_date>
+    </item>
+<item>
+      <g:id>AAR-436862</g:id>
+      <g:title><![CDATA[Street art tour]]></g:title>
+      <g:description><![CDATA[Kom med på spændende tur med street artist Mikkel T. Jessen og bliv klogere på byens kunst. Kom med!]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/street-art-tour?holdnr=436862</g:link>
+      <g:image_link>https://www.fof.dk/media/f4qjrld2/streetarttours-1200x1200-fof-aarhus.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>175.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Rejser, ture og rundvisninger &gt; Byvandringer</g:product_type>
+      <g:custom_label_0>Rejser, ture og rundvisninger</g:custom_label_0>
+      <g:custom_label_1>Byvandringer</g:custom_label_1>
+      <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4></g:custom_label_4>
+      <g:start_date>2027-04-26T00:00:00.000Z</g:start_date>
+    </item>
+<item>
       <g:id>AAR-435511</g:id>
       <g:title><![CDATA[Walk and Draw – kreativ naturpause (workshop)]]></g:title>
       <g:description><![CDATA[Find inspiration i naturen, mærk roen sænke sig, og få gang i kreativiteten til Walk and Draw i FOF Aarhus. ]]></g:description>
@@ -4487,13 +5120,14 @@
       <g:brand>FOF Aarhus</g:brand>
       <g:google_product_category>Education</g:google_product_category>
       <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type></g:product_type>
-      <g:custom_label_0></g:custom_label_0>
-      <g:custom_label_1></g:custom_label_1>
-      <g:custom_label_2></g:custom_label_2>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Mindfulness og meditation</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Mindfulness og meditation</g:custom_label_2>
       <g:custom_label_4>Risskov</g:custom_label_4>
       <g:start_date>2027-04-27T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Risskov']</g:internal_label>
+      <g:custom_label_3>Korte kurser</g:custom_label_3>
+      <g:internal_label>['Korte kurser','Risskov']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-437022</g:id>
@@ -4688,6 +5322,27 @@
       <g:internal_label>['Aarhus C']</g:internal_label>
     </item>
 <item>
+      <g:id>AAR-436888</g:id>
+      <g:title><![CDATA[Hvad er det bedste, der kan ske?]]></g:title>
+      <g:description><![CDATA[Oplev eventyrer og TV-vært Morten Kirckhoff fra "Nul stjerner", når han gæster FOF Aarhus med et foredrag om mod, frygt og personlig udvikling. Hør hans ærlige fortællinger fra rejser, karrierevalg og livets store satsninger – og få nye perspektiver på, hvordan vi alle kan handle mere modigt i hverdagen.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/hvad-er-det-bedste-der-kan-ske?holdnr=436888</g:link>
+      <g:image_link>https://www.fof.dk/media/ghvjb0xd/morten_kirckhoff_foredrag_fof_aarhus_1200x1200.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>225.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Foredrag, debat og højskoler &gt; Kultur og livsfortællinger</g:product_type>
+      <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
+      <g:custom_label_1>Kultur og livsfortællinger</g:custom_label_1>
+      <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Aarhus</g:custom_label_4>
+      <g:start_date>2027-05-03T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Aarhus C']</g:internal_label>
+    </item>
+<item>
       <g:id>AAR-435116</g:id>
       <g:title><![CDATA[Efter-efterfødselstræning]]></g:title>
       <g:description><![CDATA[Efter-efterfødselstræning ved FOF Aftenskolen Aarhus til dig som har født for 3-12 måneder siden.]]></g:description>
@@ -4794,6 +5449,28 @@
       <g:custom_label_4>Aarhus</g:custom_label_4>
       <g:start_date>2027-05-05T00:00:00.000Z</g:start_date>
       <g:internal_label>['Aarhus C']</g:internal_label>
+    </item>
+<item>
+      <g:id>AAR-439097</g:id>
+      <g:title><![CDATA[Prøvetime: Qigong i naturen for begyndere (hensyntagende)]]></g:title>
+      <g:description><![CDATA[Få mere ro og nærvær i hverdagen med traditionel kinesisk qigong i naturen omkring Aarhus.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/qigong-i-naturen-for-begyndere-hensyntagende?holdnr=439097</g:link>
+      <g:image_link>https://www.fof.dk/media/hguikwc2/qigong_i_naturen_fof_aarhus_1200x1200.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>75.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Tai Chi og Qi Gong</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Tai Chi og Qi Gong</g:custom_label_2>
+      <g:custom_label_4>Risskov</g:custom_label_4>
+      <g:start_date>2027-05-05T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Hensyntagende</g:custom_label_3>
+      <g:internal_label>['Hensyntagende','Risskov']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-436805</g:id>
@@ -4923,6 +5600,26 @@
       <g:internal_label>['Aarhus C']</g:internal_label>
     </item>
 <item>
+      <g:id>AAR-436863</g:id>
+      <g:title><![CDATA[Street art tour]]></g:title>
+      <g:description><![CDATA[Kom med på spændende tur med street artist Mikkel T. Jessen og bliv klogere på byens kunst. Kom med!]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/street-art-tour?holdnr=436863</g:link>
+      <g:image_link>https://www.fof.dk/media/f4qjrld2/streetarttours-1200x1200-fof-aarhus.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>175.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Rejser, ture og rundvisninger &gt; Byvandringer</g:product_type>
+      <g:custom_label_0>Rejser, ture og rundvisninger</g:custom_label_0>
+      <g:custom_label_1>Byvandringer</g:custom_label_1>
+      <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4></g:custom_label_4>
+      <g:start_date>2027-05-18T00:00:00.000Z</g:start_date>
+    </item>
+<item>
       <g:id>AAR-437035</g:id>
       <g:title><![CDATA[Emma Paaske: Danske dronninger]]></g:title>
       <g:description><![CDATA[Hør historiker Emma Rønberg Paaske fortælle om Danmarks dronninger fra Thyra til i dag. Kom tæt på kvinderne bag kronen og deres historiske betydning. Foredrag i FOF Aarhus.]]></g:description>
@@ -5009,6 +5706,28 @@
       <g:internal_label>['Korte kurser','Starter om &lt; 14 dage','Åbyhøj']</g:internal_label>
     </item>
 <item>
+      <g:id>AAR-439098</g:id>
+      <g:title><![CDATA[Qigong i naturen for begyndere (hensyntagende)]]></g:title>
+      <g:description><![CDATA[Få mere ro og nærvær i hverdagen med traditionel kinesisk qigong i naturen omkring Aarhus.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/qigong-i-naturen-for-begyndere-hensyntagende?holdnr=439098</g:link>
+      <g:image_link>https://www.fof.dk/media/hguikwc2/qigong_i_naturen_fof_aarhus_1200x1200.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>750.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Tai Chi og Qi Gong</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Tai Chi og Qi Gong</g:custom_label_2>
+      <g:custom_label_4>Risskov</g:custom_label_4>
+      <g:start_date>2027-05-19T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Hensyntagende</g:custom_label_3>
+      <g:internal_label>['Hensyntagende','Risskov']</g:internal_label>
+    </item>
+<item>
       <g:id>AAR-435082</g:id>
       <g:title><![CDATA[Graviditetstræning]]></g:title>
       <g:description><![CDATA[Vil du gå til graviditetstræning? Tilmeld dig kurset Træning for gravide ved FOF Aftenskolen Aarhus]]></g:description>
@@ -5049,6 +5768,26 @@
       <g:custom_label_4>Aarhus</g:custom_label_4>
       <g:start_date>2027-05-19T00:00:00.000Z</g:start_date>
       <g:internal_label>['Aarhus C']</g:internal_label>
+    </item>
+<item>
+      <g:id>AAR-436864</g:id>
+      <g:title><![CDATA[Street art tour]]></g:title>
+      <g:description><![CDATA[Kom med på spændende tur med street artist Mikkel T. Jessen og bliv klogere på byens kunst. Kom med!]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/street-art-tour?holdnr=436864</g:link>
+      <g:image_link>https://www.fof.dk/media/f4qjrld2/streetarttours-1200x1200-fof-aarhus.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>175.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Rejser, ture og rundvisninger &gt; Byvandringer</g:product_type>
+      <g:custom_label_0>Rejser, ture og rundvisninger</g:custom_label_0>
+      <g:custom_label_1>Byvandringer</g:custom_label_1>
+      <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4></g:custom_label_4>
+      <g:start_date>2027-05-20T00:00:00.000Z</g:start_date>
     </item>
 <item>
       <g:id>AAR-435125</g:id>
@@ -5352,6 +6091,46 @@
       <g:custom_label_4>Aarhus</g:custom_label_4>
       <g:start_date>2027-06-04T00:00:00.000Z</g:start_date>
       <g:internal_label>['Aarhus C']</g:internal_label>
+    </item>
+<item>
+      <g:id>AAR-436865</g:id>
+      <g:title><![CDATA[Street art tour]]></g:title>
+      <g:description><![CDATA[Kom med på spændende tur med street artist Mikkel T. Jessen og bliv klogere på byens kunst. Kom med!]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/street-art-tour?holdnr=436865</g:link>
+      <g:image_link>https://www.fof.dk/media/f4qjrld2/streetarttours-1200x1200-fof-aarhus.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>175.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Rejser, ture og rundvisninger &gt; Byvandringer</g:product_type>
+      <g:custom_label_0>Rejser, ture og rundvisninger</g:custom_label_0>
+      <g:custom_label_1>Byvandringer</g:custom_label_1>
+      <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4></g:custom_label_4>
+      <g:start_date>2027-06-08T00:00:00.000Z</g:start_date>
+    </item>
+<item>
+      <g:id>AAR-436866</g:id>
+      <g:title><![CDATA[Street art tour]]></g:title>
+      <g:description><![CDATA[Kom med på spændende tur med street artist Mikkel T. Jessen og bliv klogere på byens kunst. Kom med!]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/street-art-tour?holdnr=436866</g:link>
+      <g:image_link>https://www.fof.dk/media/f4qjrld2/streetarttours-1200x1200-fof-aarhus.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>175.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Rejser, ture og rundvisninger &gt; Byvandringer</g:product_type>
+      <g:custom_label_0>Rejser, ture og rundvisninger</g:custom_label_0>
+      <g:custom_label_1>Byvandringer</g:custom_label_1>
+      <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4></g:custom_label_4>
+      <g:start_date>2027-06-09T00:00:00.000Z</g:start_date>
     </item>
 <item>
       <g:id>AAR-435020</g:id>
