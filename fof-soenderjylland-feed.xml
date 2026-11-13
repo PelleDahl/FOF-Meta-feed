@@ -224,7 +224,7 @@ Vi bruger tiden hver eneste dag. Vi måler den, planlægger efter den, mangler d
       <g:custom_label_4>Sønderborg</g:custom_label_4>
       <g:start_date>2026-11-29T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Jul</g:custom_label_3>
-      <g:internal_label>['Jul','Sønderborg']</g:internal_label>
+      <g:internal_label>['Jul','Starter snart','Sønderborg']</g:internal_label>
     </item>
 <item>
       <g:id>SDJ-1262047</g:id>
@@ -488,6 +488,28 @@ Vi bruger tiden hver eneste dag. Vi måler den, planlægger efter den, mangler d
       <g:internal_label>['Motion','Sønderborg']</g:internal_label>
     </item>
 <item>
+      <g:id>SDJ-3271854</g:id>
+      <g:title><![CDATA[Knipling]]></g:title>
+      <g:description><![CDATA[Lær knipling  – et gammelt håndværk for alle. Skab smukke mønstre og vær med til at holde den gamle tradition i live. Læs mere og tilmeld dig i dag.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-soenderjylland/knipling?holdnr=3271854</g:link>
+      <g:image_link>https://www.fof.dk/media/vrgj55pa/9.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1455.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sønderjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Kreative kurser &gt; Håndarbejde</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Kreative kurser</g:custom_label_1>
+      <g:custom_label_2>Håndarbejde</g:custom_label_2>
+      <g:custom_label_4>Haderslev</g:custom_label_4>
+      <g:start_date>2027-01-04T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Hensyntagende</g:custom_label_3>
+      <g:internal_label>['Hensyntagende','Haderslev']</g:internal_label>
+    </item>
+<item>
       <g:id>SDJ-1271390</g:id>
       <g:title><![CDATA[Varmtvandsundervisning]]></g:title>
       <g:description><![CDATA[Oplev glæden ved varmtvandstræning på Gigthospitalet, hvor hele kroppen styrkes skånsomt gennem balance-, smidigheds- og styrkeøvelser. Se mere på hjemmesiden.]]></g:description>
@@ -532,6 +554,69 @@ Vi bruger tiden hver eneste dag. Vi måler den, planlægger efter den, mangler d
       <g:internal_label>['Motion','Sønderborg']</g:internal_label>
     </item>
 <item>
+      <g:id>SDJ-3271860</g:id>
+      <g:title><![CDATA[Tekstilsyning og smart design]]></g:title>
+      <g:description><![CDATA[Sy dit eget tøj med fokus på stil, kvalitet og bæredygtighed hos FOF Sønderjylland. Lær at tilpasse mønstre og skabe en garderobe i dit eget design.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-soenderjylland/tekstilsyning-og-smart-design?holdnr=3271860</g:link>
+      <g:image_link>https://www.fof.dk/media/lzvddx15/tekstilsyning-haderslev-soenderjylland-fof-aftenskolen.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1455.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sønderjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Kreative kurser &gt; Syning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Kreative kurser</g:custom_label_1>
+      <g:custom_label_2>Syning</g:custom_label_2>
+      <g:custom_label_4>Haderslev</g:custom_label_4>
+      <g:start_date>2027-01-05T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Haderslev']</g:internal_label>
+    </item>
+<item>
+      <g:id>SDJ-3271335</g:id>
+      <g:title><![CDATA[Iyengar Yoga]]></g:title>
+      <g:description><![CDATA[Deltag i Iyengar Yoga i Haderslev hos FOF Sønderjylland. Træn smidighed, styrke, balance og nærvær. Se alle hold og tilmeld dig.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-soenderjylland/iyengar-yoga?holdnr=3271335</g:link>
+      <g:image_link>https://www.fof.dk/media/5zipnxew/iyengar-yoga.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1985.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sønderjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Yoga</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Haderslev</g:custom_label_4>
+      <g:start_date>2027-01-05T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Haderslev']</g:internal_label>
+    </item>
+<item>
+      <g:id>SDJ-3271864</g:id>
+      <g:title><![CDATA[Kreativt håndarbejde]]></g:title>
+      <g:description><![CDATA[Deltag i kreativt værksted og udfold dine idéer i et hyggeligt fællesskab. Lær nye håndværk og skab med hænderne. Se mere her og tilmeld dig i dag.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-soenderjylland/kreativt-haandarbejde?holdnr=3271864</g:link>
+      <g:image_link>https://www.fof.dk/media/yj4fo1g3/7.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1455.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sønderjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Kreative kurser &gt; Håndarbejde</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Kreative kurser</g:custom_label_1>
+      <g:custom_label_2>Håndarbejde</g:custom_label_2>
+      <g:custom_label_4>Haderslev</g:custom_label_4>
+      <g:start_date>2027-01-05T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Haderslev']</g:internal_label>
+    </item>
+<item>
       <g:id>SDJ-1271342</g:id>
       <g:title><![CDATA[Qi Gong for øvede - de 8 silkebrokader]]></g:title>
       <g:description><![CDATA[Dyrk Qi Gong i Sønderborg og oplev ro, smidighed og styrke. Fokus på åndedræt, energi og velvære. For både begyndere og øvede. Tilmeld dig i dag.]]></g:description>
@@ -552,6 +637,27 @@ Vi bruger tiden hver eneste dag. Vi måler den, planlægger efter den, mangler d
       <g:start_date>2027-01-06T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Motion</g:custom_label_3>
       <g:internal_label>['Motion','Sønderborg']</g:internal_label>
+    </item>
+<item>
+      <g:id>SDJ-3271857</g:id>
+      <g:title><![CDATA[Tekstilsyning og smart design]]></g:title>
+      <g:description><![CDATA[Sy dit eget tøj med fokus på stil, kvalitet og bæredygtighed hos FOF Sønderjylland. Lær at tilpasse mønstre og skabe en garderobe i dit eget design.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-soenderjylland/tekstilsyning-og-smart-design?holdnr=3271857</g:link>
+      <g:image_link>https://www.fof.dk/media/lzvddx15/tekstilsyning-haderslev-soenderjylland-fof-aftenskolen.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1455.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sønderjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Kreative kurser &gt; Syning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Kreative kurser</g:custom_label_1>
+      <g:custom_label_2>Syning</g:custom_label_2>
+      <g:custom_label_4>Haderslev</g:custom_label_4>
+      <g:start_date>2027-01-06T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Haderslev']</g:internal_label>
     </item>
 <item>
       <g:id>SDJ-1271805</g:id>
@@ -697,6 +803,27 @@ Vi bruger tiden hver eneste dag. Vi måler den, planlægger efter den, mangler d
       <g:internal_label>['Sønderborg']</g:internal_label>
     </item>
 <item>
+      <g:id>SDJ-1271478</g:id>
+      <g:title><![CDATA[Krop og bevægelse]]></g:title>
+      <g:description><![CDATA[Deltag i træning hos FOF Sønderjylland. Få styrket krop, forbedret smidighed, bedre kropsholdning og mental ro i et trygt og inspirerende fællesskab.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-soenderjylland/krop-og-bevaegelse?holdnr=1271478</g:link>
+      <g:image_link>https://www.fof.dk/media/u2ib0tye/krop-bevaegelse-motion-soenderjylland-fof-aftenskolen.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>785.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sønderjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Styrke- og konditionstræning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Styrke- og konditionstræning</g:custom_label_2>
+      <g:custom_label_4>Gråsten</g:custom_label_4>
+      <g:start_date>2027-01-06T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Gråsten']</g:internal_label>
+    </item>
+<item>
       <g:id>SDJ-2271133</g:id>
       <g:title><![CDATA[Morgen Qi Gong for alle]]></g:title>
       <g:description><![CDATA[Deltag i Qi Gong hos FOF Sønderjylland. Rolige, flydende øvelser med dyb vejrtrækning for styrke, balance og indre ro. For alle niveauer.  Se mere og tilmeld dig på hjemmesiden.]]></g:description>
@@ -759,6 +886,27 @@ Vi bruger tiden hver eneste dag. Vi måler den, planlægger efter den, mangler d
       <g:start_date>2027-01-06T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Sønderborg</g:custom_label_3>
       <g:internal_label>['Sønderborg','Hensyntagende']</g:internal_label>
+    </item>
+<item>
+      <g:id>SDJ-3271855</g:id>
+      <g:title><![CDATA[Knipling]]></g:title>
+      <g:description><![CDATA[Sy dit eget tøj med fokus på stil, kvalitet og bæredygtighed hos FOF Sønderjylland. Lær at tilpasse mønstre og skabe en garderobe i dit eget design.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-soenderjylland/tekstilsyning-og-smart-design?holdnr=3271855</g:link>
+      <g:image_link>https://www.fof.dk/media/lzvddx15/tekstilsyning-haderslev-soenderjylland-fof-aftenskolen.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1455.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sønderjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Kreative kurser &gt; Syning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Kreative kurser</g:custom_label_1>
+      <g:custom_label_2>Syning</g:custom_label_2>
+      <g:custom_label_4>Haderslev</g:custom_label_4>
+      <g:start_date>2027-01-07T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Haderslev']</g:internal_label>
     </item>
 <item>
       <g:id>SDJ-2271465</g:id>
@@ -912,6 +1060,28 @@ Vi bruger tiden hver eneste dag. Vi måler den, planlægger efter den, mangler d
       <g:start_date>2027-01-11T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Dorthes hold</g:custom_label_3>
       <g:internal_label>['Dorthes hold','Sønderborg','Motion','Sydals']</g:internal_label>
+    </item>
+<item>
+      <g:id>SDJ-1271207</g:id>
+      <g:title><![CDATA[Mettes grønne madhold]]></g:title>
+      <g:description><![CDATA[Deltag på Mettes grønne madhold hos FOF Sønderjylland. Lær at lave plantebaseret mad med danske råvarer i et hyggeligt fællesskab. Se mere og tilmeld dig her.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-soenderjylland/mettes-groenne-madhold?holdnr=1271207</g:link>
+      <g:image_link>https://www.fof.dk/media/xpuf5yxy/stegt-groent-mette.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1095.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sønderjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Madlavning og drikkevarer &gt; Vegetarisk og vegansk</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
+      <g:custom_label_2>Vegetarisk og vegansk</g:custom_label_2>
+      <g:custom_label_4>Sønderborg</g:custom_label_4>
+      <g:start_date>2027-01-12T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Bæredygtig</g:custom_label_3>
+      <g:internal_label>['Bæredygtig','Sønderborg']</g:internal_label>
     </item>
 <item>
       <g:id>SDJ-1271313</g:id>
@@ -1303,6 +1473,28 @@ Vi bruger tiden hver eneste dag. Vi måler den, planlægger efter den, mangler d
       <g:internal_label>['Nygadehuset','Aabenraa','Nyhed']</g:internal_label>
     </item>
 <item>
+      <g:id>SDJ-1270742</g:id>
+      <g:title><![CDATA[Improvisation på klaver for nybegyndere]]></g:title>
+      <g:description><![CDATA[Har du lyst til at sætte dig ved et klaver og bare spille, men er du i tvivl om, hvor du skal begynde? På dette hold lærer du grundlæggende klaver, rytme og improvisation på en fri og legende måde. Du behøver hverken kunne læse noder eller have erfaring med klaver på forhånd.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-soenderjylland/improvisation-paa-klaver?holdnr=1270742</g:link>
+      <g:image_link>https://www.fof.dk/media/41lniudz/klaver-improvisation-soenderjylland-fof-aftenskolen.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1245.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sønderjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Musik og sang &gt; Klaver og harmonika</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Musik og sang</g:custom_label_1>
+      <g:custom_label_2>Klaver og harmonika</g:custom_label_2>
+      <g:custom_label_4>Sønderborg</g:custom_label_4>
+      <g:start_date>2027-01-18T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Nyhed</g:custom_label_3>
+      <g:internal_label>['Nyhed','Sønderborg']</g:internal_label>
+    </item>
+<item>
       <g:id>SDJ-2271416</g:id>
       <g:title><![CDATA[Pilates for alle]]></g:title>
       <g:description><![CDATA[Med klassisk Matwork Pilates i Aabenraa og Padborg får du træning, der styrker kroppen indefra. Du arbejder med muskler, led og kropsholdning gennem præcise bevægelser, der forbedrer din styrke, smidighed og balance.]]></g:description>
@@ -1347,6 +1539,70 @@ Vi bruger tiden hver eneste dag. Vi måler den, planlægger efter den, mangler d
       <g:internal_label>['Bjerggade','Aabenraa','Motion','Hensyntagende']</g:internal_label>
     </item>
 <item>
+      <g:id>SDJ-1270711</g:id>
+      <g:title><![CDATA[Klaverundervisning]]></g:title>
+      <g:description><![CDATA[Lær at spille klaver hos FOF Sønderjylland. Undervisning tilpasset dine ønsker og niveau. Se alle hold her.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-soenderjylland/klaverundervisning?holdnr=1270711</g:link>
+      <g:image_link>https://www.fof.dk/media/erxcao5j/klaver.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1785.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sønderjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Musik og sang &gt; Klaver og harmonika</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Musik og sang</g:custom_label_1>
+      <g:custom_label_2>Klaver og harmonika</g:custom_label_2>
+      <g:custom_label_4>Sønderborg</g:custom_label_4>
+      <g:start_date>2027-01-18T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Sønderborg']</g:internal_label>
+    </item>
+<item>
+      <g:id>SDJ-1271502</g:id>
+      <g:title><![CDATA[Syning, tilretning og mønsterudvikling]]></g:title>
+      <g:description><![CDATA[Tag dit syhåndværk til næste niveau med personlig vejledning hos FOF Sønderjylland. Lær mønstertilretning, figuranalyse og syteknik på dit eget projekt. Se mere her.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-soenderjylland/syning-fra-ide-til-faerdigt-produkt?holdnr=1271502</g:link>
+      <g:image_link>https://www.fof.dk/media/ujon2zzt/syning-gitte-soenderjylland-fof-aftenskolen-1.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>645.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sønderjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Kreative kurser &gt; Syning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Kreative kurser</g:custom_label_1>
+      <g:custom_label_2>Syning</g:custom_label_2>
+      <g:custom_label_4>Sønderborg</g:custom_label_4>
+      <g:start_date>2027-01-18T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Kreativ</g:custom_label_3>
+      <g:internal_label>['Kreativ','Sønderborg']</g:internal_label>
+    </item>
+<item>
+      <g:id>SDJ-1270709</g:id>
+      <g:title><![CDATA[Klaverundervisning]]></g:title>
+      <g:description><![CDATA[Lær at spille klaver hos FOF Sønderjylland. Undervisning tilpasset dine ønsker og niveau. Se alle hold her.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-soenderjylland/klaverundervisning?holdnr=1270709</g:link>
+      <g:image_link>https://www.fof.dk/media/erxcao5j/klaver.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1245.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sønderjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Musik og sang &gt; Klaver og harmonika</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Musik og sang</g:custom_label_1>
+      <g:custom_label_2>Klaver og harmonika</g:custom_label_2>
+      <g:custom_label_4>Sønderborg</g:custom_label_4>
+      <g:start_date>2027-01-18T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Sønderborg']</g:internal_label>
+    </item>
+<item>
       <g:id>SDJ-2271313</g:id>
       <g:title><![CDATA[Yin Yoga for begyndere]]></g:title>
       <g:description><![CDATA[Har du lyst til at komme i gang med yoga, men alligevel lidt usikker på det?
@@ -1371,6 +1627,27 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:start_date>2027-01-19T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Bjerggade</g:custom_label_3>
       <g:internal_label>['Bjerggade','Aabenraa']</g:internal_label>
+    </item>
+<item>
+      <g:id>SDJ-1270737</g:id>
+      <g:title><![CDATA[Guitarundervisning]]></g:title>
+      <g:description><![CDATA[Lær at spille guitar i hyggelige rammer. Akkorder, fingerspil, sange og spilleglæde – uanset erfaring. Se mere og tilmeld dig på hjemmesiden.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-soenderjylland/guitarundervisning?holdnr=1270737</g:link>
+      <g:image_link>https://www.fof.dk/media/vmwhhtkj/guitar.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1245.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sønderjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Musik og sang &gt; Strengeinstrumenter</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Musik og sang</g:custom_label_1>
+      <g:custom_label_2>Strengeinstrumenter</g:custom_label_2>
+      <g:custom_label_4>Sønderborg</g:custom_label_4>
+      <g:start_date>2027-01-19T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Sønderborg']</g:internal_label>
     </item>
 <item>
       <g:id>SDJ-2271425</g:id>
@@ -1439,6 +1716,48 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:internal_label>['Bjerggade','Aabenraa']</g:internal_label>
     </item>
 <item>
+      <g:id>SDJ-1270736</g:id>
+      <g:title><![CDATA[Guitarundervisning]]></g:title>
+      <g:description><![CDATA[Lær at spille guitar i hyggelige rammer. Akkorder, fingerspil, sange og spilleglæde – uanset erfaring. Se mere og tilmeld dig på hjemmesiden.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-soenderjylland/guitarundervisning?holdnr=1270736</g:link>
+      <g:image_link>https://www.fof.dk/media/vmwhhtkj/guitar.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>885.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sønderjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Musik og sang &gt; Strengeinstrumenter</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Musik og sang</g:custom_label_1>
+      <g:custom_label_2>Strengeinstrumenter</g:custom_label_2>
+      <g:custom_label_4>Sønderborg</g:custom_label_4>
+      <g:start_date>2027-01-19T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Sønderborg']</g:internal_label>
+    </item>
+<item>
+      <g:id>SDJ-1270738</g:id>
+      <g:title><![CDATA[Guitarundervisning]]></g:title>
+      <g:description><![CDATA[Lær at spille guitar i hyggelige rammer. Akkorder, fingerspil, sange og spilleglæde – uanset erfaring. Se mere og tilmeld dig på hjemmesiden.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-soenderjylland/guitarundervisning?holdnr=1270738</g:link>
+      <g:image_link>https://www.fof.dk/media/vmwhhtkj/guitar.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1785.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sønderjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Musik og sang &gt; Strengeinstrumenter</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Musik og sang</g:custom_label_1>
+      <g:custom_label_2>Strengeinstrumenter</g:custom_label_2>
+      <g:custom_label_4>Sønderborg</g:custom_label_4>
+      <g:start_date>2027-01-19T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Sønderborg']</g:internal_label>
+    </item>
+<item>
       <g:id>SDJ-2271429</g:id>
       <g:title><![CDATA[Træning for bækkenbunden]]></g:title>
       <g:description><![CDATA[Deltag i bækkenbundstræning hos FOF Sønderjylland og styrk muskler, balance og kropskontrol. For både mænd og kvinder. Se holdene på hjemmesiden.]]></g:description>
@@ -1461,6 +1780,27 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:internal_label>['Bjerggade','Aabenraa','Hensyntagende']</g:internal_label>
     </item>
 <item>
+      <g:id>SDJ-1271544</g:id>
+      <g:title><![CDATA[Design og syning - Dit personlig udtryk]]></g:title>
+      <g:description><![CDATA[Lær at sy dit eget tøj med professionel vejledning hos FOF Sønderjylland. Individuel hjælp, inspiration og klassiske skrædderteknikker for både begyndere og erfarne.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-soenderjylland/syning-og-modeludvikling?holdnr=1271544</g:link>
+      <g:image_link>https://www.fof.dk/media/hy1kxcb0/syning.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>995.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sønderjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Kreative kurser &gt; Syning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Kreative kurser</g:custom_label_1>
+      <g:custom_label_2>Syning</g:custom_label_2>
+      <g:custom_label_4>Sønderborg</g:custom_label_4>
+      <g:start_date>2027-01-19T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Sønderborg']</g:internal_label>
+    </item>
+<item>
       <g:id>SDJ-2271426</g:id>
       <g:title><![CDATA[Kølletræning]]></g:title>
       <g:description><![CDATA[Prøv kølletræning hos FOF Sønderjylland. Træn styrke, mobilitet og teknik i skuldre og overkrop. Alle kan være med. Se alle hold her.]]></g:description>
@@ -1479,6 +1819,28 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:custom_label_2>Styrke- og konditionstræning</g:custom_label_2>
       <g:custom_label_4>Aabenraa</g:custom_label_4>
       <g:start_date>2027-01-19T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Bjerggade</g:custom_label_3>
+      <g:internal_label>['Bjerggade','Aabenraa']</g:internal_label>
+    </item>
+<item>
+      <g:id>SDJ-2271314</g:id>
+      <g:title><![CDATA[Senior Yin Yoga]]></g:title>
+      <g:description><![CDATA[Giv dig selv en rolig stund med senior Yin Yoga i Aabenraa, hvor du kan sænke tempoet, mærke kroppen og finde ro i hverdagen. Her er der plads til at tage hensyn til dig selv og dine behov. Du behøver hverken være smidig eller have erfaring med yoga for at være med.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-soenderjylland/senior-yin-yoga?holdnr=2271314</g:link>
+      <g:image_link>https://www.fof.dk/media/zi4mtjpl/senior-yoga-motion-soenderjylland-fof-aftenskolen.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>925.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sønderjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Yoga</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Aabenraa</g:custom_label_4>
+      <g:start_date>2027-01-20T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Bjerggade</g:custom_label_3>
       <g:internal_label>['Bjerggade','Aabenraa']</g:internal_label>
     </item>
@@ -1505,26 +1867,88 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:internal_label>['Bjerggade','Aabenraa','Motion']</g:internal_label>
     </item>
 <item>
-      <g:id>SDJ-2271314</g:id>
-      <g:title><![CDATA[Senior Yin Yoga]]></g:title>
-      <g:description><![CDATA[Giv dig selv en rolig stund med senior Yin Yoga i Aabenraa, hvor du kan sænke tempoet, mærke kroppen og finde ro i hverdagen. Her er der plads til at tage hensyn til dig selv og dine behov. Du behøver hverken være smidig eller have erfaring med yoga for at være med.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-soenderjylland/senior-yin-yoga?holdnr=2271314</g:link>
-      <g:image_link>https://www.fof.dk/media/zi4mtjpl/senior-yoga-motion-soenderjylland-fof-aftenskolen.jpg?width=1200</g:image_link>
+      <g:id>SDJ-1270719</g:id>
+      <g:title><![CDATA[Undervisning i klaver]]></g:title>
+      <g:description><![CDATA[Lær at spille klaver hos FOF Sønderjylland. Undervisning tilpasset dine ønsker og niveau. Se alle hold her.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-soenderjylland/klaverundervisning?holdnr=1270719</g:link>
+      <g:image_link>https://www.fof.dk/media/erxcao5j/klaver.jpg?width=1200</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:quantity>1</g:quantity>
-      <g:price>925.00 DKK</g:price>
+      <g:price>1785.00 DKK</g:price>
       <g:condition>new</g:condition>
       <g:brand>FOF Sønderjylland</g:brand>
       <g:google_product_category>Education</g:google_product_category>
       <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Yoga</g:product_type>
+      <g:product_type>Kurser &gt; Musik og sang &gt; Klaver og harmonika</g:product_type>
       <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_1>Musik og sang</g:custom_label_1>
+      <g:custom_label_2>Klaver og harmonika</g:custom_label_2>
+      <g:custom_label_4>Sønderborg</g:custom_label_4>
+      <g:start_date>2027-01-20T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Sønderborg']</g:internal_label>
+    </item>
+<item>
+      <g:id>SDJ-2271565</g:id>
+      <g:title><![CDATA[Maleri]]></g:title>
+      <g:description><![CDATA[Tag på malekursus i Aabenraa og fordyb dig i maleriets mange muligheder og udvikle dit eget billedsprog igennem farver, komposition og maleteknikker]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-soenderjylland/malerkursus?holdnr=2271565</g:link>
+      <g:image_link>https://www.fof.dk/media/0t0n3fy4/maleri-aabenraa-soenderjylland-fof-aftenskolen.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1745.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sønderjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Kreative kurser &gt; Malekurser</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Kreative kurser</g:custom_label_1>
+      <g:custom_label_2>Malekurser</g:custom_label_2>
       <g:custom_label_4>Aabenraa</g:custom_label_4>
       <g:start_date>2027-01-20T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Bjerggade</g:custom_label_3>
-      <g:internal_label>['Bjerggade','Aabenraa']</g:internal_label>
+      <g:internal_label>['Aabenraa']</g:internal_label>
+    </item>
+<item>
+      <g:id>SDJ-1271621</g:id>
+      <g:title><![CDATA[Engelsk for let øvede A2-B1]]></g:title>
+      <g:description><![CDATA[Lær engelsk hos FOF Sønderjylland. Tryg undervisning i sprog og kultur lige meget dit niveau. Tilmeld dig i dag.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-soenderjylland/engelsk?holdnr=1271621</g:link>
+      <g:image_link>https://www.fof.dk/media/ta4nv1li/engelsk.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1125.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sønderjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Sprog &gt; Engelsk</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Sprog</g:custom_label_1>
+      <g:custom_label_2>Engelsk</g:custom_label_2>
+      <g:custom_label_4>Sønderborg</g:custom_label_4>
+      <g:start_date>2027-01-20T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Sønderborg']</g:internal_label>
+    </item>
+<item>
+      <g:id>SDJ-1270718</g:id>
+      <g:title><![CDATA[Undervisning i klaver]]></g:title>
+      <g:description><![CDATA[Lær at spille klaver hos FOF Sønderjylland. Undervisning tilpasset dine ønsker og niveau. Se alle hold her.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-soenderjylland/klaverundervisning?holdnr=1270718</g:link>
+      <g:image_link>https://www.fof.dk/media/erxcao5j/klaver.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1785.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sønderjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Musik og sang &gt; Klaver og harmonika</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Musik og sang</g:custom_label_1>
+      <g:custom_label_2>Klaver og harmonika</g:custom_label_2>
+      <g:custom_label_4>Sønderborg</g:custom_label_4>
+      <g:start_date>2027-01-20T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Sønderborg']</g:internal_label>
     </item>
 <item>
       <g:id>SDJ-2271315</g:id>
@@ -1569,6 +1993,111 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:start_date>2027-01-20T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Bjerggade</g:custom_label_3>
       <g:internal_label>['Bjerggade','Aabenraa']</g:internal_label>
+    </item>
+<item>
+      <g:id>SDJ-3270739</g:id>
+      <g:title><![CDATA[Guitarspil]]></g:title>
+      <g:description><![CDATA[Lær at spille guitar i hyggelige rammer. Akkorder, fingerspil, sange og spilleglæde – uanset erfaring. Se mere og tilmeld dig på hjemmesiden.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-soenderjylland/guitarundervisning?holdnr=3270739</g:link>
+      <g:image_link>https://www.fof.dk/media/vmwhhtkj/guitar.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1125.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sønderjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Musik og sang &gt; Strengeinstrumenter</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Musik og sang</g:custom_label_1>
+      <g:custom_label_2>Strengeinstrumenter</g:custom_label_2>
+      <g:custom_label_4>Vojens</g:custom_label_4>
+      <g:start_date>2027-01-20T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Vojens']</g:internal_label>
+    </item>
+<item>
+      <g:id>SDJ-3270737</g:id>
+      <g:title><![CDATA[Guitarspil]]></g:title>
+      <g:description><![CDATA[Lær at spille guitar i hyggelige rammer. Akkorder, fingerspil, sange og spilleglæde – uanset erfaring. Se mere og tilmeld dig på hjemmesiden.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-soenderjylland/guitarundervisning?holdnr=3270737</g:link>
+      <g:image_link>https://www.fof.dk/media/vmwhhtkj/guitar.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1125.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sønderjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Musik og sang &gt; Strengeinstrumenter</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Musik og sang</g:custom_label_1>
+      <g:custom_label_2>Strengeinstrumenter</g:custom_label_2>
+      <g:custom_label_4>Vojens</g:custom_label_4>
+      <g:start_date>2027-01-20T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Vojens']</g:internal_label>
+    </item>
+<item>
+      <g:id>SDJ-3270738</g:id>
+      <g:title><![CDATA[Guitarspil]]></g:title>
+      <g:description><![CDATA[Lær at spille guitar i hyggelige rammer. Akkorder, fingerspil, sange og spilleglæde – uanset erfaring. Se mere og tilmeld dig på hjemmesiden.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-soenderjylland/guitarundervisning?holdnr=3270738</g:link>
+      <g:image_link>https://www.fof.dk/media/vmwhhtkj/guitar.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1125.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sønderjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Musik og sang &gt; Strengeinstrumenter</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Musik og sang</g:custom_label_1>
+      <g:custom_label_2>Strengeinstrumenter</g:custom_label_2>
+      <g:custom_label_4>Vojens</g:custom_label_4>
+      <g:start_date>2027-01-20T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Vojens']</g:internal_label>
+    </item>
+<item>
+      <g:id>SDJ-3270714</g:id>
+      <g:title><![CDATA[Klaverspil]]></g:title>
+      <g:description><![CDATA[Lær at spille klaver hos FOF Sønderjylland. Undervisning tilpasset dine ønsker og niveau. Se alle hold her.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-soenderjylland/klaverundervisning?holdnr=3270714</g:link>
+      <g:image_link>https://www.fof.dk/media/erxcao5j/klaver.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1785.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sønderjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Musik og sang &gt; Klaver og harmonika</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Musik og sang</g:custom_label_1>
+      <g:custom_label_2>Klaver og harmonika</g:custom_label_2>
+      <g:custom_label_4>Haderslev</g:custom_label_4>
+      <g:start_date>2027-01-21T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Haderslev']</g:internal_label>
+    </item>
+<item>
+      <g:id>SDJ-1271546</g:id>
+      <g:title><![CDATA[TorsdagsGARNcafé]]></g:title>
+      <g:description><![CDATA[Deltag i et hyggeligt håndarbejdsfællesskab hos FOF Sønderjylland. Strik, hækl og bliv inspireret sammen med andre – for nybegyndere og erfarne. Se mere her. ]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-soenderjylland/torsdagsgarncafe?holdnr=1271546</g:link>
+      <g:image_link>https://www.fof.dk/media/ypynp0v0/kasernen-soenderborg-soenderjylland-fof-aftenskolen-2.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>175.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sønderjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Kreative kurser &gt; Håndarbejde</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Kreative kurser</g:custom_label_1>
+      <g:custom_label_2>Håndarbejde</g:custom_label_2>
+      <g:custom_label_4>Sønderborg</g:custom_label_4>
+      <g:start_date>2027-01-21T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Sønderborg']</g:internal_label>
     </item>
 <item>
       <g:id>SDJ-1271558</g:id>
@@ -1680,14 +2209,14 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:internal_label>['Bjerggade','Aabenraa']</g:internal_label>
     </item>
 <item>
-      <g:id>SDJ-2271427</g:id>
-      <g:title><![CDATA[Stole Pilates]]></g:title>
-      <g:description><![CDATA[ Dyrk stolepilates hos FOF Sønderjylland. Skånsom træning for hele kroppen, hvor øvelserne tilpasses dig. Bliv stærkere, smidigere og få bedre balance – uden at skulle ned på gulvet.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-soenderjylland/stole-pilates?holdnr=2271427</g:link>
-      <g:image_link>https://www.fof.dk/media/djtbvzue/stole-yoga-soenderjylland-fof-aftenskolen.jpg?width=1200</g:image_link>
+      <g:id>SDJ-2271419</g:id>
+      <g:title><![CDATA[Pilates fleksibilitet]]></g:title>
+      <g:description><![CDATA[Vil du arbejde med kroppens bevægelighed, styrke og smidighed på en grundig og systematisk måde? På dette pilateshold i Aabenraa kombinerer vi opvarmning, dynamiske stræk og mobilitetsøvelser, så hele kroppen bliver arbejdet igennem fra ankler til håndled. Vi tager udgangspunkt i kroppens behov og arbejder i et tempo, hvor der er plads til at udvikle sig.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-soenderjylland/pilates-fleksibilitet?holdnr=2271419</g:link>
+      <g:image_link>https://www.fof.dk/media/xmueok5g/pilates-oevede-soenderborg-soenderjylland-fof-aftenskolen.jpg?width=1200</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:quantity>1</g:quantity>
-      <g:price>625.00 DKK</g:price>
+      <g:price>795.00 DKK</g:price>
       <g:condition>new</g:condition>
       <g:brand>FOF Sønderjylland</g:brand>
       <g:google_product_category>Education</g:google_product_category>
@@ -1699,7 +2228,7 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:custom_label_4>Aabenraa</g:custom_label_4>
       <g:start_date>2027-01-22T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Bjerggade</g:custom_label_3>
-      <g:internal_label>['Bjerggade','Aabenraa','Hensyntagende']</g:internal_label>
+      <g:internal_label>['Bjerggade','Aabenraa']</g:internal_label>
     </item>
 <item>
       <g:id>SDJ-2271418</g:id>
@@ -1724,14 +2253,14 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:internal_label>['Bjerggade','Aabenraa']</g:internal_label>
     </item>
 <item>
-      <g:id>SDJ-2271419</g:id>
-      <g:title><![CDATA[Pilates fleksibilitet]]></g:title>
-      <g:description><![CDATA[Vil du arbejde med kroppens bevægelighed, styrke og smidighed på en grundig og systematisk måde? På dette pilateshold i Aabenraa kombinerer vi opvarmning, dynamiske stræk og mobilitetsøvelser, så hele kroppen bliver arbejdet igennem fra ankler til håndled. Vi tager udgangspunkt i kroppens behov og arbejder i et tempo, hvor der er plads til at udvikle sig.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-soenderjylland/pilates-fleksibilitet?holdnr=2271419</g:link>
-      <g:image_link>https://www.fof.dk/media/xmueok5g/pilates-oevede-soenderborg-soenderjylland-fof-aftenskolen.jpg?width=1200</g:image_link>
+      <g:id>SDJ-2271427</g:id>
+      <g:title><![CDATA[Stole Pilates]]></g:title>
+      <g:description><![CDATA[ Dyrk stolepilates hos FOF Sønderjylland. Skånsom træning for hele kroppen, hvor øvelserne tilpasses dig. Bliv stærkere, smidigere og få bedre balance – uden at skulle ned på gulvet.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-soenderjylland/stole-pilates?holdnr=2271427</g:link>
+      <g:image_link>https://www.fof.dk/media/djtbvzue/stole-yoga-soenderjylland-fof-aftenskolen.jpg?width=1200</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:quantity>1</g:quantity>
-      <g:price>795.00 DKK</g:price>
+      <g:price>625.00 DKK</g:price>
       <g:condition>new</g:condition>
       <g:brand>FOF Sønderjylland</g:brand>
       <g:google_product_category>Education</g:google_product_category>
@@ -1743,7 +2272,7 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:custom_label_4>Aabenraa</g:custom_label_4>
       <g:start_date>2027-01-22T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Bjerggade</g:custom_label_3>
-      <g:internal_label>['Bjerggade','Aabenraa']</g:internal_label>
+      <g:internal_label>['Bjerggade','Aabenraa','Hensyntagende']</g:internal_label>
     </item>
 <item>
       <g:id>SDJ-2271428</g:id>
@@ -1788,6 +2317,28 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:start_date>2027-01-23T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Nyhed</g:custom_label_3>
       <g:internal_label>['Nyhed','Sønderborg']</g:internal_label>
+    </item>
+<item>
+      <g:id>SDJ-1271208</g:id>
+      <g:title><![CDATA[Nem, sund og lækker hverdagsmad]]></g:title>
+      <g:description><![CDATA[Lær at lave nem, sund hverdagsmad fra bunden i et trygt fællesskab. Et begyndervenligt madlavningskursus hos FOF Sønderjylland. Se mere på hjemmesiden. ]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-soenderjylland/nem-sund-og-laekker-hverdagsmad?holdnr=1271208</g:link>
+      <g:image_link>https://www.fof.dk/media/1eclooej/madlavning-maend-soenderjylland-fof-aftenskolen.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1095.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sønderjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Madlavning og drikkevarer &gt; Fest- og hverdagsmad</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
+      <g:custom_label_2>Fest- og hverdagsmad</g:custom_label_2>
+      <g:custom_label_4>Sønderborg</g:custom_label_4>
+      <g:start_date>2027-01-26T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Bæredygtig</g:custom_label_3>
+      <g:internal_label>['Bæredygtig','Sønderborg']</g:internal_label>
     </item>
 <item>
       <g:id>SDJ-1271532</g:id>
@@ -1921,6 +2472,28 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:internal_label>['Aftenforedrag','Sønderborg']</g:internal_label>
     </item>
 <item>
+      <g:id>SDJ-1271525</g:id>
+      <g:title><![CDATA[Redesign din garderobe]]></g:title>
+      <g:description><![CDATA[Giv dit gamle tøj nyt liv og skab unikke designs med udgangspunkt i det, du allerede har. På dette kursus arbejder vi kreativt med upcycling og redesign, så brugt tøj og accessories får en ny funktion og et personligt udtryk.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-soenderjylland/redesign-din-garderobe?holdnr=1271525</g:link>
+      <g:image_link>https://www.fof.dk/media/xwpgargx/redesign-din-garderobe-soenderborg-fof-aftenskolen.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>855.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sønderjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Kreative kurser &gt; Syning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Kreative kurser</g:custom_label_1>
+      <g:custom_label_2>Syning</g:custom_label_2>
+      <g:custom_label_4>Sønderborg</g:custom_label_4>
+      <g:start_date>2027-02-13T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Bæredygtig</g:custom_label_3>
+      <g:internal_label>['Bæredygtig','Nyhed','Sønderborg']</g:internal_label>
+    </item>
+<item>
       <g:id>SDJ-1271593</g:id>
       <g:title><![CDATA[Astronomi - Lær nattehimlen at kende]]></g:title>
       <g:description><![CDATA[Hvad ser vi egentlig, når vi kigger op på en klar nattehimmel? På dette kursus får du fem aftener til at udforske universet – fra astronomiens historie og de første stjernekig til praktisk observation af Solen, Månen, planeter, stjerner og galakser.]]></g:description>
@@ -1962,6 +2535,27 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:start_date>2027-02-23T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Sangcentret</g:custom_label_3>
       <g:internal_label>['Sangcentret','Sønderborg']</g:internal_label>
+    </item>
+<item>
+      <g:id>SDJ-1271543</g:id>
+      <g:title><![CDATA[Design og syning - Dit personlige udtryk]]></g:title>
+      <g:description><![CDATA[Lær at sy dit eget tøj med professionel vejledning hos FOF Sønderjylland. Individuel hjælp, inspiration og klassiske skrædderteknikker for både begyndere og erfarne.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-soenderjylland/syning-og-modeludvikling?holdnr=1271543</g:link>
+      <g:image_link>https://www.fof.dk/media/hy1kxcb0/syning.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>995.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sønderjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Kreative kurser &gt; Syning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Kreative kurser</g:custom_label_1>
+      <g:custom_label_2>Syning</g:custom_label_2>
+      <g:custom_label_4>Sønderborg</g:custom_label_4>
+      <g:start_date>2027-02-23T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Sønderborg']</g:internal_label>
     </item>
 <item>
       <g:id>SDJ-1271721</g:id>
@@ -2398,7 +2992,7 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
     </item>
 <item>
       <g:id>SDJ-1279917</g:id>
-      <g:title><![CDATA[Rosemine]]></g:title>
+      <g:title><![CDATA[Roosimine]]></g:title>
       <g:description><![CDATA[Deltag i strikkeworkshop i Sønderborg under Garn uden Grænser. Oplev 3 inspirerende dage fyldt med garn, kendte strikkere, hyggelige stande og workshops for alle niveauer. Find dit hold her.]]></g:description>
       <g:link>https://www.fof.dk/aftenskolen/fof-soenderjylland/gug-workshops-loerdag-formiddag-fof-soenderjyllandkasernen?holdnr=1279917</g:link>
       <g:image_link>https://www.fof.dk/media/hoakjffn/loerdag-formiddag-kasernen-garn-uden-graenser-soenderjylland-fof-aftenskolen-giba-travels-2.jpg?width=1200</g:image_link>
@@ -2566,7 +3160,7 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
     </item>
 <item>
       <g:id>SDJ-1279918</g:id>
-      <g:title><![CDATA[2-farvet rib]]></g:title>
+      <g:title><![CDATA[Tofarvet rib]]></g:title>
       <g:description><![CDATA[Tag på strikkeworkshop i Sønderborg i forbindelse med strikkefestivallen Garn uden Grænser. 3 dage i garnets navn, med kendte navne, hyggelige stande og strik til alle niveauer. Se mere og find dit hold her. ]]></g:description>
       <g:link>https://www.fof.dk/aftenskolen/fof-soenderjylland/gug-workshops-loerdag-eftermiddag-fof-soenderjyllandkasernen?holdnr=1279918</g:link>
       <g:image_link>https://www.fof.dk/media/ujjdipvg/loerdag-eftermiddag-garn-uden-graenser-soenderjylland-fof-aftenskolen-giba-travels-2.jpg?width=1200</g:image_link>

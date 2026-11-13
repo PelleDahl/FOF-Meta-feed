@@ -91,7 +91,7 @@
       <g:custom_label_4>Esbjerg</g:custom_label_4>
       <g:start_date>2026-11-28T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Starter snart</g:custom_label_3>
-      <g:internal_label>['Starter snart','Bagning og søde sager','Madlavning og drikkevarer','Esbjerg']</g:internal_label>
+      <g:internal_label>['Starter snart','Bagning og søde sager','Madlavning og drikkevarer','Fanø','Esbjerg']</g:internal_label>
     </item>
 <item>
       <g:id>SVJ-262312</g:id>
@@ -270,6 +270,28 @@
       <g:internal_label>['Madlavning og drikkevarer','Esbjerg']</g:internal_label>
     </item>
 <item>
+      <g:id>SVJ-2710818</g:id>
+      <g:title><![CDATA[Spansk for næsten begyndere]]></g:title>
+      <g:description><![CDATA[Lær spansk eller bliv bedre til det i trygge rammer. FOF Aftenskolen tilbyder sjov og varieret undervisning i spansk på flere niveauer.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydvestjylland/spansk?holdnr=2710818</g:link>
+      <g:image_link>https://www.fof.dk/media/q4ihv2bx/sprog-spansk-letoevede-vest-fof-aftenskolen.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1045.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydvestjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Sprog &gt; Spansk</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Sprog</g:custom_label_1>
+      <g:custom_label_2>Spansk</g:custom_label_2>
+      <g:custom_label_4>Esbjerg</g:custom_label_4>
+      <g:start_date>2027-01-11T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Sprog</g:custom_label_3>
+      <g:internal_label>['Sprog','Esbjerg']</g:internal_label>
+    </item>
+<item>
       <g:id>SVJ-2710540</g:id>
       <g:title><![CDATA[Yoga, åndedræt og meditation – find din indre ro]]></g:title>
       <g:description><![CDATA[Find ro med blid yoga, åndedrætsøvelser og meditation hos FOF. Alle kan være med, også begyndere. Tilmeld dig og få mere ro i hverdagen.]]></g:description>
@@ -377,7 +399,7 @@
       <g:custom_label_4>Varde</g:custom_label_4>
       <g:start_date>2027-01-20T00:00:00.000Z</g:start_date>
       <g:custom_label_3>In English</g:custom_label_3>
-      <g:internal_label>['In English','Fanø','Madlavning og drikkevarer','Ribe','Varde']</g:internal_label>
+      <g:internal_label>['In English','Fanø','Madlavning og drikkevarer','Ribe','Varde','Esbjerg']</g:internal_label>
     </item>
 <item>
       <g:id>SVJ-2710422</g:id>
@@ -399,7 +421,7 @@
       <g:custom_label_4>Esbjerg</g:custom_label_4>
       <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
       <g:custom_label_3>In English</g:custom_label_3>
-      <g:internal_label>['In English','Fanø','Madlavning og drikkevarer','Ribe','Esbjerg']</g:internal_label>
+      <g:internal_label>['In English','Fanø','Madlavning og drikkevarer','Ribe','Varde','Esbjerg']</g:internal_label>
     </item>
 <item>
       <g:id>SVJ-2710456</g:id>
@@ -575,7 +597,7 @@
       <g:custom_label_4>Fanø</g:custom_label_4>
       <g:start_date>2027-02-06T00:00:00.000Z</g:start_date>
       <g:custom_label_3>In English</g:custom_label_3>
-      <g:internal_label>['In English','Fanø','Madlavning og drikkevarer','Ribe']</g:internal_label>
+      <g:internal_label>['In English','Fanø','Madlavning og drikkevarer','Ribe','Varde','Esbjerg']</g:internal_label>
     </item>
 <item>
       <g:id>SVJ-2710400</g:id>
@@ -641,7 +663,7 @@
       <g:custom_label_4>Esbjerg</g:custom_label_4>
       <g:start_date>2027-02-09T00:00:00.000Z</g:start_date>
       <g:custom_label_3>In English</g:custom_label_3>
-      <g:internal_label>['In English','Fanø','Madlavning og drikkevarer','Ribe','Esbjerg']</g:internal_label>
+      <g:internal_label>['In English','Fanø','Madlavning og drikkevarer','Ribe','Varde','Esbjerg']</g:internal_label>
     </item>
 <item>
       <g:id>SVJ-2710003</g:id>
@@ -712,7 +734,7 @@
 <item>
       <g:id>SVJ-2710302</g:id>
       <g:title><![CDATA[Kunstworkshop: Fanø mosaikker inspireret af Gaudí og Hundertwasser]]></g:title>
-      <g:description><![CDATA[Udforsk kroppen i kunsten med tegning, collage og skulptur. Et kreativt kursus med fordybelse, materialer og kunstblik i trygge rammer hos FOF. Tilmeld dig her.]]></g:description>
+      <g:description><![CDATA[Fordyb dig i billedkunst. Kurser for både begyndere og øvede, der vil eksperimentere og finde deres eget udtryk. i trygge rammer. Tilmeld dig her.]]></g:description>
       <g:link>https://www.fof.dk/aftenskolen/fof-sydvestjylland/billedkunst?holdnr=2710302</g:link>
       <g:image_link>https://www.fof.dk/media/w2nlkksq/kurser-kreative-kurser-kunsthaandvaerk-og-diy-billedkunst-paa-fanoe-fof-aftenskolen-sydvestjylland.jpg?width=1200</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -883,7 +905,7 @@
       <g:custom_label_4>Varde</g:custom_label_4>
       <g:start_date>2027-03-03T00:00:00.000Z</g:start_date>
       <g:custom_label_3>In English</g:custom_label_3>
-      <g:internal_label>['In English','Fanø','Madlavning og drikkevarer','Ribe','Varde']</g:internal_label>
+      <g:internal_label>['In English','Fanø','Madlavning og drikkevarer','Ribe','Varde','Esbjerg']</g:internal_label>
     </item>
 <item>
       <g:id>SVJ-2710459</g:id>
@@ -1301,7 +1323,7 @@
       <g:custom_label_4>Ribe</g:custom_label_4>
       <g:start_date>2027-04-08T00:00:00.000Z</g:start_date>
       <g:custom_label_3>In English</g:custom_label_3>
-      <g:internal_label>['In English','Fanø','Madlavning og drikkevarer','Ribe']</g:internal_label>
+      <g:internal_label>['In English','Fanø','Madlavning og drikkevarer','Ribe','Varde','Esbjerg']</g:internal_label>
     </item>
 <item>
       <g:id>SVJ-2710523</g:id>
@@ -1411,7 +1433,7 @@
       <g:custom_label_4>Esbjerg</g:custom_label_4>
       <g:start_date>2027-04-16T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Madlavning og drikkevarer</g:custom_label_3>
-      <g:internal_label>['Madlavning og drikkevarer','Esbjerg']</g:internal_label>
+      <g:internal_label>['Madlavning og drikkevarer','Fanø','Esbjerg']</g:internal_label>
     </item>
 <item>
       <g:id>SVJ-2710442</g:id>
@@ -1433,7 +1455,7 @@
       <g:custom_label_4>Esbjerg</g:custom_label_4>
       <g:start_date>2027-04-16T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Madlavning og drikkevarer</g:custom_label_3>
-      <g:internal_label>['Madlavning og drikkevarer','Esbjerg']</g:internal_label>
+      <g:internal_label>['Madlavning og drikkevarer','Fanø','Esbjerg']</g:internal_label>
     </item>
 <item>
       <g:id>SVJ-2710431</g:id>
@@ -1455,7 +1477,7 @@
       <g:custom_label_4>Fanø</g:custom_label_4>
       <g:start_date>2027-04-17T00:00:00.000Z</g:start_date>
       <g:custom_label_3>In English</g:custom_label_3>
-      <g:internal_label>['In English','Fanø','Madlavning og drikkevarer','Ribe']</g:internal_label>
+      <g:internal_label>['In English','Fanø','Madlavning og drikkevarer','Ribe','Varde','Esbjerg']</g:internal_label>
     </item>
 <item>
       <g:id>SVJ-2710534</g:id>
@@ -1482,7 +1504,7 @@
 <item>
       <g:id>SVJ-2710301</g:id>
       <g:title><![CDATA[Kunstworkshop: Er du vild med farven blå?]]></g:title>
-      <g:description><![CDATA[Udforsk kroppen i kunsten med tegning, collage og skulptur. Et kreativt kursus med fordybelse, materialer og kunstblik i trygge rammer hos FOF. Tilmeld dig her.]]></g:description>
+      <g:description><![CDATA[Fordyb dig i billedkunst. Kurser for både begyndere og øvede, der vil eksperimentere og finde deres eget udtryk. i trygge rammer. Tilmeld dig her.]]></g:description>
       <g:link>https://www.fof.dk/aftenskolen/fof-sydvestjylland/billedkunst?holdnr=2710301</g:link>
       <g:image_link>https://www.fof.dk/media/w2nlkksq/kurser-kreative-kurser-kunsthaandvaerk-og-diy-billedkunst-paa-fanoe-fof-aftenskolen-sydvestjylland.jpg?width=1200</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -1609,7 +1631,7 @@
       <g:custom_label_4>Ribe</g:custom_label_4>
       <g:start_date>2027-04-29T00:00:00.000Z</g:start_date>
       <g:custom_label_3>In English</g:custom_label_3>
-      <g:internal_label>['In English','Fanø','Madlavning og drikkevarer','Ribe']</g:internal_label>
+      <g:internal_label>['In English','Fanø','Madlavning og drikkevarer','Ribe','Varde','Esbjerg']</g:internal_label>
     </item>
 <item>
       <g:id>SVJ-2710448</g:id>
@@ -1742,6 +1764,50 @@
       <g:start_date>2027-05-22T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Fanø</g:custom_label_3>
       <g:internal_label>['Fanø','Ture og rundvisninger']</g:internal_label>
+    </item>
+<item>
+      <g:id>SVJ-2710471</g:id>
+      <g:title><![CDATA[Pizza: Lær at lave den perfekte pizza fra bunden!]]></g:title>
+      <g:description><![CDATA[Lær at lave pizza fra bunden med den rette dej, sauce og bageteknik. Få tryg vejledning og praktisk viden, der gør dig sikker i dit køkken.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydvestjylland/pizza-laer-at-lave-den-perfekte-pizza-fra-bunden?holdnr=2710471</g:link>
+      <g:image_link>https://www.fof.dk/media/fr4bzvwj/verdenskoekkenet-pizza-laer-at-lave-den-perfekte-pizza-fra-bunden-sydvestjylland-fof-aftenskolen.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>300.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydvestjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Madlavning og drikkevarer &gt; Verdenskøkkenet</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
+      <g:custom_label_2>Verdenskøkkenet</g:custom_label_2>
+      <g:custom_label_4>Fanø</g:custom_label_4>
+      <g:start_date>2027-05-22T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Madlavning og drikkevarer</g:custom_label_3>
+      <g:internal_label>['Madlavning og drikkevarer','Fanø']</g:internal_label>
+    </item>
+<item>
+      <g:id>SVJ-2710470</g:id>
+      <g:title><![CDATA[Brødbagning]]></g:title>
+      <g:description><![CDATA[Bag som en professionel med bagermester John Bramsen! På kurset får du tips til at ælte, hæve og bage brød med perfekt skorpe og smag. Læs mere.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydvestjylland/broedbagning?holdnr=2710470</g:link>
+      <g:image_link>https://www.fof.dk/media/t4fhu3t2/madlavning-broedbagning-vest-fof-aftenskolen.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>460.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydvestjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Madlavning og drikkevarer &gt; Bagning og søde sager</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
+      <g:custom_label_2>Bagning og søde sager</g:custom_label_2>
+      <g:custom_label_4>Fanø</g:custom_label_4>
+      <g:start_date>2027-05-22T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Bagning og søde sager</g:custom_label_3>
+      <g:internal_label>['Bagning og søde sager','Madlavning og drikkevarer','Fanø']</g:internal_label>
     </item>
 <item>
       <g:id>SVJ-2710304</g:id>

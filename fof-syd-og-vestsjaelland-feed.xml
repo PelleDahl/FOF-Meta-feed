@@ -204,28 +204,6 @@
       <g:internal_label>['Kalender - November','Ringsted','Starter snart','Endagskurser']</g:internal_label>
     </item>
 <item>
-      <g:id>SVS-862026</g:id>
-      <g:title><![CDATA[Lær at flette julehjerter]]></g:title>
-      <g:description><![CDATA[Lær at flette klassiske og kreative julehjerter i glanspapir. Få skabeloner, inspiration og hjælp til at designe dine egne motiver på et hyggeligt kursus hos FOF.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-syd-og-vestsjaelland/julehjerte?holdnr=862026</g:link>
-      <g:image_link>https://www.fof.dk/media/qwulhbso/julehjerter-vestsjaelland-fof-aftenskolen.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>295.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Syd- og Vestsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Kreative kurser &gt; Håndværk og kunsthåndværk</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Kreative kurser</g:custom_label_1>
-      <g:custom_label_2>Håndværk og kunsthåndværk</g:custom_label_2>
-      <g:custom_label_4>Næstved</g:custom_label_4>
-      <g:start_date>2026-11-22T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Kalender - November</g:custom_label_3>
-      <g:internal_label>['Kalender - November','Næstved','Starter snart','Jul og nytår','Endagskurser']</g:internal_label>
-    </item>
-<item>
       <g:id>SVS-661126</g:id>
       <g:title><![CDATA[Akvarel til- og fra kort]]></g:title>
       <g:description><![CDATA[Lær akvarel fra bunden og mal personlige til- og fra kort. Kreativ jule workshop for begyndere i Sorø og Ringsted. Mal personlige julekort hos FOF.]]></g:description>
@@ -1035,6 +1013,27 @@
       <g:internal_label>['Sund mad','Tema - Bæredygtighed','Slagelse']</g:internal_label>
     </item>
 <item>
+      <g:id>SVS-156027</g:id>
+      <g:title><![CDATA[Yin Yoga]]></g:title>
+      <g:description><![CDATA[Gå til Yin Yoga i Næstved og Slagelse – rolige stræk og åndedræt, der giver smidighed, ro og balance. Små hold og personlig vejledning hos FOF.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-syd-og-vestsjaelland/yinyoga?holdnr=156027</g:link>
+      <g:image_link>https://www.fof.dk/media/jwkm0mtf/yinyoga-syd-og-vestsjaelland-fof-aftenskolen.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>880.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Syd- og Vestsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Yoga</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Slagelse</g:custom_label_4>
+      <g:start_date>2027-02-26T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Slagelse']</g:internal_label>
+    </item>
+<item>
       <g:id>SVS-185827</g:id>
       <g:title><![CDATA[Fyldte chokolader]]></g:title>
       <g:description><![CDATA[Lær at lave fyldte chokolader fra bunden på et hyggeligt chokolade kursus i Slagelse og Ringsted. For både begyndere og øvede. Find kursus på Sjælland her]]></g:description>
@@ -1058,7 +1057,7 @@
 <item>
       <g:id>SVS-186027</g:id>
       <g:title><![CDATA[Flødeboller for børn og voksne]]></g:title>
-      <g:description><![CDATA[Lær at lave hjemmelavede flødeboller fra bunden med skum, chokolade og pynt. Et hyggeligt kursus for børn og voksne i Slagelse og Ringsted.]]></g:description>
+      <g:description><![CDATA[Lær at lave hjemmelavede flødeboller fra bunden. Et hyggeligt flødebolle kursus i Slagelse for børn og voksne. Tilmeld dig hos FOF Syd- og Vestsjælland.]]></g:description>
       <g:link>https://www.fof.dk/aftenskolen/fof-syd-og-vestsjaelland/floedebollekursus?holdnr=186027</g:link>
       <g:image_link>https://www.fof.dk/media/sdcil0x3/floedeboller-madkursus-fof-aftenskolen.jpg?width=1200</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -1451,6 +1450,28 @@
       <g:internal_label>['Sorø','Foredrag']</g:internal_label>
     </item>
 <item>
+      <g:id>SVS-185427</g:id>
+      <g:title><![CDATA[Thailandsk mad]]></g:title>
+      <g:description><![CDATA[Lær at lave thailandsk mad fra bunden på et hyggeligt madlavningskursus. Lav en lækker 3-retters menu med FOF i Slagelse, Næstved eller Ringsted.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-syd-og-vestsjaelland/thailandsk-mad?holdnr=185427</g:link>
+      <g:image_link>https://www.fof.dk/media/ga3klqik/thailandsk-mad-kursus-fof-aftenskolen-01.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>335.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Syd- og Vestsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Madlavning og drikkevarer &gt; Asiatisk mad</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
+      <g:custom_label_2>Asiatisk mad</g:custom_label_2>
+      <g:custom_label_4>Slagelse</g:custom_label_4>
+      <g:start_date>2027-04-09T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Tema - Asien</g:custom_label_3>
+      <g:internal_label>['Tema - Asien','Slagelse']</g:internal_label>
+    </item>
+<item>
       <g:id>SVS-685327</g:id>
       <g:title><![CDATA[Ramen]]></g:title>
       <g:description><![CDATA[Lær at lave autentisk japansk ramen på 3 timer. Få tips til fond, nudler og toppings, og tag smagen af Japan med hjem på kursus i Slagelse, Ringsted og Næstved.]]></g:description>
@@ -1493,6 +1514,50 @@
       <g:internal_label>['Næstved']</g:internal_label>
     </item>
 <item>
+      <g:id>SVS-885427</g:id>
+      <g:title><![CDATA[Thailandsk mad]]></g:title>
+      <g:description><![CDATA[Lær at lave thailandsk mad fra bunden på et hyggeligt madlavningskursus. Lav en lækker 3-retters menu med FOF i Slagelse, Næstved eller Ringsted.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-syd-og-vestsjaelland/thailandsk-mad?holdnr=885427</g:link>
+      <g:image_link>https://www.fof.dk/media/ga3klqik/thailandsk-mad-kursus-fof-aftenskolen-01.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>335.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Syd- og Vestsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Madlavning og drikkevarer &gt; Asiatisk mad</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
+      <g:custom_label_2>Asiatisk mad</g:custom_label_2>
+      <g:custom_label_4>Næstved</g:custom_label_4>
+      <g:start_date>2027-04-18T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Tema - Asien</g:custom_label_3>
+      <g:internal_label>['Tema - Asien','Næstved']</g:internal_label>
+    </item>
+<item>
+      <g:id>SVS-685427</g:id>
+      <g:title><![CDATA[Thailandsk mad]]></g:title>
+      <g:description><![CDATA[Lær at lave thailandsk mad fra bunden på et hyggeligt madlavningskursus. Lav en lækker 3-retters menu med FOF i Slagelse, Næstved eller Ringsted.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-syd-og-vestsjaelland/thailandsk-mad?holdnr=685427</g:link>
+      <g:image_link>https://www.fof.dk/media/ga3klqik/thailandsk-mad-kursus-fof-aftenskolen-01.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>335.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Syd- og Vestsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Madlavning og drikkevarer &gt; Asiatisk mad</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
+      <g:custom_label_2>Asiatisk mad</g:custom_label_2>
+      <g:custom_label_4>Ringsted</g:custom_label_4>
+      <g:start_date>2027-04-23T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Tema - Asien</g:custom_label_3>
+      <g:internal_label>['Tema - Asien','Ringsted']</g:internal_label>
+    </item>
+<item>
       <g:id>SVS-186427</g:id>
       <g:title><![CDATA[Vingummi - For børn og voksne]]></g:title>
       <g:description><![CDATA[Lav sjove hjemmelavede vingummier i egne forme i Slagelse. Et trygt og kreativt kursus for børn og voksne med smag, leg og søde oplevelser. Tilmeld jer og lav slik sammen.]]></g:description>
@@ -1517,7 +1582,7 @@
 <item>
       <g:id>SVS-186527</g:id>
       <g:title><![CDATA[Sundere slik - for børn og voksne]]></g:title>
-      <g:description><![CDATA[Lær at lave sundere slik uden raffineret sukker. Få teknikker, opskrifter og lækre snacks med hjem. Trygt kursus i Slagelse for alle – tilmeld dig hos FOF i dag.]]></g:description>
+      <g:description><![CDATA[Lær at lave hjemmelavet slik uden raffineret sukker. Tilmeld dig kurset med sundere slik til børn og voksne hos FOF i Slagelse.]]></g:description>
       <g:link>https://www.fof.dk/aftenskolen/fof-syd-og-vestsjaelland/sundere-slik?holdnr=186527</g:link>
       <g:image_link>https://www.fof.dk/media/v2clcpti/sundere-slik-madkursus-fof-aftenskolen.jpg?width=1200</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -1560,7 +1625,7 @@
 <item>
       <g:id>SVS-186127</g:id>
       <g:title><![CDATA[Flødeboller for børn og voksne]]></g:title>
-      <g:description><![CDATA[Lær at lave hjemmelavede flødeboller fra bunden med skum, chokolade og pynt. Et hyggeligt kursus for børn og voksne i Slagelse og Ringsted.]]></g:description>
+      <g:description><![CDATA[Lær at lave hjemmelavede flødeboller fra bunden. Et hyggeligt flødebolle kursus i Slagelse for børn og voksne. Tilmeld dig hos FOF Syd- og Vestsjælland.]]></g:description>
       <g:link>https://www.fof.dk/aftenskolen/fof-syd-og-vestsjaelland/floedebollekursus?holdnr=186127</g:link>
       <g:image_link>https://www.fof.dk/media/sdcil0x3/floedeboller-madkursus-fof-aftenskolen.jpg?width=1200</g:image_link>
       <g:availability>in_stock</g:availability>
