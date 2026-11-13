@@ -6,28 +6,6 @@
 <description>Meta produktfeed med alle ledige hold fra FOF Sønderjylland</description>
 <language>da-DK</language>
 <item>
-      <g:id>SDJ-3262006</g:id>
-      <g:title><![CDATA[Storbritanniens kongelige skandaler]]></g:title>
-      <g:description><![CDATA[Få kongehuse har gennem årene været ramt af så store og så voldsomme skandaler som det britiske. Den aktuelle sag om den tidligere prins, Andrew Mountbatten-Windsor, er nok pinlig, men den er intet at regne i forhold til de skandaler, der tidligere har ramt det britiske kongehus. ]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-soenderjylland/storbritanniens-kongelige-skandaler?holdnr=3262006</g:link>
-      <g:image_link>https://www.fof.dk/media/ynolhkq2/storbritanniens-kongelige-skandaler-soenderborg-soenderjylland-fof-aftenskolen.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>145.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Sønderjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Foredrag, debat og højskoler &gt; Samfund og historie</g:product_type>
-      <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
-      <g:custom_label_1>Samfund og historie</g:custom_label_1>
-      <g:custom_label_2></g:custom_label_2>
-      <g:custom_label_4>Haderslev</g:custom_label_4>
-      <g:start_date>2026-11-13T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Starter snart</g:custom_label_3>
-      <g:internal_label>['Starter snart','Haderslev']</g:internal_label>
-    </item>
-<item>
       <g:id>SDJ-1262903</g:id>
       <g:title><![CDATA[AI i virksomheden]]></g:title>
       <g:description><![CDATA[Hvordan kan kunstig intelligens skabe reel værdi i arbejdslivet – og hvornår er AI slet ikke den rigtige løsning? På dette kursus får du en praktisk og kritisk introduktion til AI i virksomheden.]]></g:description>
@@ -1724,28 +1702,6 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:internal_label>['Bjerggade','Aabenraa','Hensyntagende']</g:internal_label>
     </item>
 <item>
-      <g:id>SDJ-2271428</g:id>
-      <g:title><![CDATA[Familie Pilates -1 barn fra 6 år ifølge med voksen]]></g:title>
-      <g:description><![CDATA[ Dyrk klassisk matwork Pilates sammen med dit barn eller barnebarn hos FOF Sønderjylland. Fri bevægelse for alle aldre. Se alle hold her.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-soenderjylland/familie-pilates?holdnr=2271428</g:link>
-      <g:image_link>https://www.fof.dk/media/l1bdzavd/pilates-familie-motion-soenderjylland-fof-aftenskolen.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>935.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Sønderjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Pilates</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Pilates</g:custom_label_2>
-      <g:custom_label_4>Aabenraa</g:custom_label_4>
-      <g:start_date>2027-01-22T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Bjerggade</g:custom_label_3>
-      <g:internal_label>['Bjerggade','Aabenraa']</g:internal_label>
-    </item>
-<item>
       <g:id>SDJ-2271418</g:id>
       <g:title><![CDATA[Pilates for alle]]></g:title>
       <g:description><![CDATA[Med klassisk Matwork Pilates i Aabenraa og Padborg får du træning, der styrker kroppen indefra. Du arbejder med muskler, led og kropsholdning gennem præcise bevægelser, der forbedrer din styrke, smidighed og balance.]]></g:description>
@@ -1776,6 +1732,28 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:availability>in_stock</g:availability>
       <g:quantity>1</g:quantity>
       <g:price>795.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sønderjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Pilates</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Pilates</g:custom_label_2>
+      <g:custom_label_4>Aabenraa</g:custom_label_4>
+      <g:start_date>2027-01-22T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Bjerggade</g:custom_label_3>
+      <g:internal_label>['Bjerggade','Aabenraa']</g:internal_label>
+    </item>
+<item>
+      <g:id>SDJ-2271428</g:id>
+      <g:title><![CDATA[Familie Pilates -1 barn fra 6 år ifølge med voksen]]></g:title>
+      <g:description><![CDATA[ Dyrk klassisk matwork Pilates sammen med dit barn eller barnebarn hos FOF Sønderjylland. Fri bevægelse for alle aldre. Se alle hold her.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-soenderjylland/familie-pilates?holdnr=2271428</g:link>
+      <g:image_link>https://www.fof.dk/media/l1bdzavd/pilates-familie-motion-soenderjylland-fof-aftenskolen.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>935.00 DKK</g:price>
       <g:condition>new</g:condition>
       <g:brand>FOF Sønderjylland</g:brand>
       <g:google_product_category>Education</g:google_product_category>
