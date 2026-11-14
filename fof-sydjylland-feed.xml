@@ -355,7 +355,7 @@
       <g:custom_label_4>Vejen</g:custom_label_4>
       <g:start_date>2026-11-29T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Jul og nytår</g:custom_label_3>
-      <g:internal_label>['Jul og nytår','Vejen','Familie']</g:internal_label>
+      <g:internal_label>['Jul og nytår','Vejen','Starter snart','Familie']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2625363</g:id>
@@ -1656,28 +1656,6 @@
       <g:internal_label>['Tønder','Sprog','Dansk - Danish','Sprog niveau - Begyndere og fortsættere','Bredebro']</g:internal_label>
     </item>
 <item>
-      <g:id>SJY-2716400</g:id>
-      <g:title><![CDATA[Croquis ]]></g:title>
-      <g:description><![CDATA[Eksperimenter og afprøv croquis tegning med den internationalt berømte kunstner, Adam Gabriel. Se mere og tilmeld dig.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-sydjylland/croquis-med-adam-gabriel?holdnr=2716400</g:link>
-      <g:image_link>https://www.fof.dk/media/2v1nst0f/croquis-170925.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1795.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Sydjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Kreative kurser &gt; Tegnekurser</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Kreative kurser</g:custom_label_1>
-      <g:custom_label_2>Tegnekurser</g:custom_label_2>
-      <g:custom_label_4>Kolding</g:custom_label_4>
-      <g:start_date>2027-01-28T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Kolding</g:custom_label_3>
-      <g:internal_label>['Kolding','Krea','Tegning']</g:internal_label>
-    </item>
-<item>
       <g:id>SJY-2716020</g:id>
       <g:title><![CDATA[Syning i genbrugstekstiler]]></g:title>
       <g:description><![CDATA[Lær at sy med genbrugstekstiler og skab nyt af gammelt. Få inspiration, teknikker og tryg vejledning. Tilmeld dig og sy bæredygtigt nu. ]]></g:description>
@@ -1698,6 +1676,28 @@
       <g:start_date>2027-01-28T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Kolding</g:custom_label_3>
       <g:internal_label>['Kolding','Krea','Syning']</g:internal_label>
+    </item>
+<item>
+      <g:id>SJY-2716400</g:id>
+      <g:title><![CDATA[Croquis ]]></g:title>
+      <g:description><![CDATA[Eksperimenter og afprøv croquis tegning med den internationalt berømte kunstner, Adam Gabriel. Se mere og tilmeld dig.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydjylland/croquis-med-adam-gabriel?holdnr=2716400</g:link>
+      <g:image_link>https://www.fof.dk/media/2v1nst0f/croquis-170925.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1795.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Kreative kurser &gt; Tegnekurser</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Kreative kurser</g:custom_label_1>
+      <g:custom_label_2>Tegnekurser</g:custom_label_2>
+      <g:custom_label_4>Kolding</g:custom_label_4>
+      <g:start_date>2027-01-28T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Kolding</g:custom_label_3>
+      <g:internal_label>['Kolding','Krea','Tegning']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2714290</g:id>
@@ -2492,28 +2492,6 @@
       <g:internal_label>['Graviditet og barsel','Haderslev']</g:internal_label>
     </item>
 <item>
-      <g:id>SJY-2715294</g:id>
-      <g:title><![CDATA[Yoga for alle]]></g:title>
-      <g:description><![CDATA[Yoga i Skærbæk for begyndere og øvede. Lær rolige og varierende øvelser, der styrker kroppen og skaber bedre kontakt mellem krop og sind. Se mere og tilmeld dig.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-sydjylland/yoga-nana?holdnr=2715294</g:link>
-      <g:image_link>https://www.fof.dk/media/gkhnnies/yoga-63089223.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>699.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Sydjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Yoga</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Yoga</g:custom_label_2>
-      <g:custom_label_4>Skærbæk</g:custom_label_4>
-      <g:start_date>2027-03-19T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Yoga</g:custom_label_3>
-      <g:internal_label>['Yoga','Motion og sundhed','Skærbæk']</g:internal_label>
-    </item>
-<item>
       <g:id>SJY-2714292</g:id>
       <g:title><![CDATA[Babytummel (2-5 måneder)]]></g:title>
       <g:description><![CDATA[Her træner vi babys grovmotorik og sansestimulering med leg, stjernestunder og kvalitets tid. Se mere og glæd jer.]]></g:description>
@@ -2534,6 +2512,28 @@
       <g:start_date>2027-03-19T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Graviditet og barsel</g:custom_label_3>
       <g:internal_label>['Graviditet og barsel','Haderslev']</g:internal_label>
+    </item>
+<item>
+      <g:id>SJY-2715294</g:id>
+      <g:title><![CDATA[Yoga for alle]]></g:title>
+      <g:description><![CDATA[Yoga i Skærbæk for begyndere og øvede. Lær rolige og varierende øvelser, der styrker kroppen og skaber bedre kontakt mellem krop og sind. Se mere og tilmeld dig.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydjylland/yoga-nana?holdnr=2715294</g:link>
+      <g:image_link>https://www.fof.dk/media/gkhnnies/yoga-63089223.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>699.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Yoga</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Skærbæk</g:custom_label_4>
+      <g:start_date>2027-03-19T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Yoga</g:custom_label_3>
+      <g:internal_label>['Yoga','Motion og sundhed','Skærbæk']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2710415</g:id>

@@ -342,27 +342,6 @@
       <g:internal_label>['Lemvig']</g:internal_label>
     </item>
 <item>
-      <g:id>NVJ-262177</g:id>
-      <g:title><![CDATA[Blid yoga - tid til dig]]></g:title>
-      <g:description><![CDATA[Blid yoga for dig, der har brug for et roligt pusterum i hverdagen, tid til dig til yoga hos FOF Nordvestjylland i Lemvig]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-nordvestjylland/blid-yoga-lemvig?holdnr=262177</g:link>
-      <g:image_link>https://www.fof.dk/media/ukyl3e25/charlottelemvig1200x1200.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>325.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Nordvestjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Yoga</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Yoga</g:custom_label_2>
-      <g:custom_label_4>Lemvig</g:custom_label_4>
-      <g:start_date>2026-11-30T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Lemvig']</g:internal_label>
-    </item>
-<item>
       <g:id>NVJ-262264</g:id>
       <g:title><![CDATA[Dansk for tysktalende, letøvede]]></g:title>
       <g:description><![CDATA[Kan du allerede noget dansk, men vil gerne forbedre dit niveau, så kom med til dansk for tysktalende hos FOF Nordvestjylland i Holstebro]]></g:description>
@@ -383,6 +362,27 @@
       <g:start_date>2026-11-30T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Sprog</g:custom_label_3>
       <g:internal_label>['Sprog','Holstebro']</g:internal_label>
+    </item>
+<item>
+      <g:id>NVJ-262177</g:id>
+      <g:title><![CDATA[Blid yoga - tid til dig]]></g:title>
+      <g:description><![CDATA[Blid yoga for dig, der har brug for et roligt pusterum i hverdagen, tid til dig til yoga hos FOF Nordvestjylland i Lemvig]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-nordvestjylland/blid-yoga-lemvig?holdnr=262177</g:link>
+      <g:image_link>https://www.fof.dk/media/ukyl3e25/charlottelemvig1200x1200.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>325.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Nordvestjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Yoga</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Lemvig</g:custom_label_4>
+      <g:start_date>2026-11-30T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Lemvig']</g:internal_label>
     </item>
 <item>
       <g:id>NVJ-262126</g:id>
@@ -596,27 +596,6 @@
       <g:internal_label>['Holstebro']</g:internal_label>
     </item>
 <item>
-      <g:id>NVJ-271121</g:id>
-      <g:title><![CDATA[Blid yoga & pilates]]></g:title>
-      <g:description><![CDATA[Blid yoga og pilates specielt for dig, der er før eller under overgangsalderen, FOF Nordvestjylland, Holstebro]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-nordvestjylland/blid-yoga-og-pilates?holdnr=271121</g:link>
-      <g:image_link>https://www.fof.dk/media/ktvhylls/rikkeblidyogapilates.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1030.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Nordvestjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Bevægelse og afspænding</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Bevægelse og afspænding</g:custom_label_2>
-      <g:custom_label_4>Holstebro</g:custom_label_4>
-      <g:start_date>2027-01-05T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Holstebro']</g:internal_label>
-    </item>
-<item>
       <g:id>NVJ-271432</g:id>
       <g:title><![CDATA[Babysvømning 0-6 måneder]]></g:title>
       <g:description><![CDATA[Babysvømning, leg og bevægelse i vand for dig og din baby hos FOF Nordvestjylland, Holstebro]]></g:description>
@@ -633,6 +612,27 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
       <g:custom_label_2>Aktiviteter med baby</g:custom_label_2>
+      <g:custom_label_4>Holstebro</g:custom_label_4>
+      <g:start_date>2027-01-05T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Holstebro']</g:internal_label>
+    </item>
+<item>
+      <g:id>NVJ-271121</g:id>
+      <g:title><![CDATA[Blid yoga & pilates]]></g:title>
+      <g:description><![CDATA[Blid yoga og pilates specielt for dig, der er før eller under overgangsalderen, FOF Nordvestjylland, Holstebro]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-nordvestjylland/blid-yoga-og-pilates?holdnr=271121</g:link>
+      <g:image_link>https://www.fof.dk/media/ktvhylls/rikkeblidyogapilates.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1030.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Nordvestjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Bevægelse og afspænding</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Bevægelse og afspænding</g:custom_label_2>
       <g:custom_label_4>Holstebro</g:custom_label_4>
       <g:start_date>2027-01-05T00:00:00.000Z</g:start_date>
       <g:internal_label>['Holstebro']</g:internal_label>
