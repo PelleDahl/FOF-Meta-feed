@@ -839,7 +839,8 @@
       <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4>Aarhus</g:custom_label_4>
       <g:start_date>2026-11-30T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Aarhus C']</g:internal_label>
+      <g:custom_label_3>Starter om &lt; 14 dage</g:custom_label_3>
+      <g:internal_label>['Starter om &lt; 14 dage','Aarhus C']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-428973</g:id>
@@ -1102,6 +1103,28 @@
       <g:start_date>2026-12-05T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Korte kurser</g:custom_label_3>
       <g:internal_label>['Korte kurser','Starter om &lt; 14 dage','Åbyhøj']</g:internal_label>
+    </item>
+<item>
+      <g:id>AAR-426937</g:id>
+      <g:title><![CDATA[Tulle og Skralle i nissernes land (2-4 år)]]></g:title>
+      <g:description><![CDATA[Kom med Tulle og Skralle til nissernes land – en sanselig juleforestilling med musik, sang, dans og eventyr for børn 2–4 år og deres voksne. Mød nisser, snemand og magiske juleoplevelser.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/tulle-og-skralle-i-nissernes-land-2-4-aar?holdnr=426937</g:link>
+      <g:image_link>https://www.fof.dk/media/3pfpdntb/tulle_og_skralle_i_nissernes_land_musik_og_sang_for_de_mindste_fof_aarhus_1200x1200.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>100.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Foredrag, debat og højskoler &gt; Familie og børn</g:product_type>
+      <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
+      <g:custom_label_1>Familie og børn</g:custom_label_1>
+      <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Aarhus</g:custom_label_4>
+      <g:start_date>2026-12-05T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Familie</g:custom_label_3>
+      <g:internal_label>['Familie','Aarhus C']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-424166</g:id>

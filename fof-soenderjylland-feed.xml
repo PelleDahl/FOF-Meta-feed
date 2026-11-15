@@ -268,7 +268,7 @@ Vi bruger tiden hver eneste dag. Vi måler den, planlægger efter den, mangler d
       <g:custom_label_4>Sønderborg</g:custom_label_4>
       <g:start_date>2026-12-01T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Jul</g:custom_label_3>
-      <g:internal_label>['Jul','Sønderborg']</g:internal_label>
+      <g:internal_label>['Jul','Starter snart','Sønderborg']</g:internal_label>
     </item>
 <item>
       <g:id>SDJ-1262045</g:id>
@@ -289,7 +289,8 @@ Vi bruger tiden hver eneste dag. Vi måler den, planlægger efter den, mangler d
       <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4>Sønderborg</g:custom_label_4>
       <g:start_date>2026-12-01T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Sønderborg']</g:internal_label>
+      <g:custom_label_3>Starter snart</g:custom_label_3>
+      <g:internal_label>['Starter snart','Sønderborg']</g:internal_label>
     </item>
 <item>
       <g:id>SDJ-1262526</g:id>
@@ -311,7 +312,7 @@ Vi bruger tiden hver eneste dag. Vi måler den, planlægger efter den, mangler d
       <g:custom_label_4>Sønderborg</g:custom_label_4>
       <g:start_date>2026-12-01T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Jul</g:custom_label_3>
-      <g:internal_label>['Jul','Sønderborg']</g:internal_label>
+      <g:internal_label>['Jul','Starter snart','Sønderborg']</g:internal_label>
     </item>
 <item>
       <g:id>SDJ-1262492</g:id>
@@ -803,27 +804,6 @@ Vi bruger tiden hver eneste dag. Vi måler den, planlægger efter den, mangler d
       <g:internal_label>['Sønderborg']</g:internal_label>
     </item>
 <item>
-      <g:id>SDJ-1271478</g:id>
-      <g:title><![CDATA[Krop og bevægelse]]></g:title>
-      <g:description><![CDATA[Deltag i træning hos FOF Sønderjylland. Få styrket krop, forbedret smidighed, bedre kropsholdning og mental ro i et trygt og inspirerende fællesskab.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-soenderjylland/krop-og-bevaegelse?holdnr=1271478</g:link>
-      <g:image_link>https://www.fof.dk/media/u2ib0tye/krop-bevaegelse-motion-soenderjylland-fof-aftenskolen.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>785.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Sønderjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Styrke- og konditionstræning</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Styrke- og konditionstræning</g:custom_label_2>
-      <g:custom_label_4>Gråsten</g:custom_label_4>
-      <g:start_date>2027-01-06T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Gråsten']</g:internal_label>
-    </item>
-<item>
       <g:id>SDJ-2271133</g:id>
       <g:title><![CDATA[Morgen Qi Gong for alle]]></g:title>
       <g:description><![CDATA[Deltag i Qi Gong hos FOF Sønderjylland. Rolige, flydende øvelser med dyb vejrtrækning for styrke, balance og indre ro. For alle niveauer.  Se mere og tilmeld dig på hjemmesiden.]]></g:description>
@@ -844,6 +824,27 @@ Vi bruger tiden hver eneste dag. Vi måler den, planlægger efter den, mangler d
       <g:start_date>2027-01-06T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Bjerggade</g:custom_label_3>
       <g:internal_label>['Bjerggade','Aabenraa','Motion']</g:internal_label>
+    </item>
+<item>
+      <g:id>SDJ-1271478</g:id>
+      <g:title><![CDATA[Krop og bevægelse]]></g:title>
+      <g:description><![CDATA[Deltag i træning hos FOF Sønderjylland. Få styrket krop, forbedret smidighed, bedre kropsholdning og mental ro i et trygt og inspirerende fællesskab.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-soenderjylland/krop-og-bevaegelse?holdnr=1271478</g:link>
+      <g:image_link>https://www.fof.dk/media/u2ib0tye/krop-bevaegelse-motion-soenderjylland-fof-aftenskolen.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>785.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sønderjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Styrke- og konditionstræning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Styrke- og konditionstræning</g:custom_label_2>
+      <g:custom_label_4>Gråsten</g:custom_label_4>
+      <g:start_date>2027-01-06T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Gråsten']</g:internal_label>
     </item>
 <item>
       <g:id>SDJ-10200</g:id>
