@@ -666,28 +666,6 @@
       <g:internal_label>['Haderslev','It og foto']</g:internal_label>
     </item>
 <item>
-      <g:id>SJY-2715136</g:id>
-      <g:title><![CDATA[MediYoga]]></g:title>
-      <g:description><![CDATA[For alle som ønsker at få det bedre, uanset udgangspunkt. Kan du trække vejret, kan du lave MediYoga. Se mere og tilmeld dig.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-sydjylland/mediyoga?holdnr=2715136</g:link>
-      <g:image_link>https://www.fof.dk/media/a4jnr5ka/mediyoga-mona-l-1.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>725.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Sydjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Yoga</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Yoga</g:custom_label_2>
-      <g:custom_label_4>Kolding</g:custom_label_4>
-      <g:start_date>2027-01-12T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Kolding</g:custom_label_3>
-      <g:internal_label>['Kolding','Motion og sundhed','Yoga']</g:internal_label>
-    </item>
-<item>
       <g:id>SJY-2718240</g:id>
       <g:title><![CDATA[ELDOA - Øvelser for led og bindevæv]]></g:title>
       <g:description><![CDATA[Lær øvelser der giver forbedret mobilitet i leddene og afbalancerer kroppen. Se mere og tilmeld dig.]]></g:description>
@@ -708,6 +686,28 @@
       <g:start_date>2027-01-12T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Aabenraa</g:custom_label_3>
       <g:internal_label>['Aabenraa','Motion og sundhed','Hensyntagende','Bevægelse og afspænding']</g:internal_label>
+    </item>
+<item>
+      <g:id>SJY-2715136</g:id>
+      <g:title><![CDATA[MediYoga]]></g:title>
+      <g:description><![CDATA[For alle som ønsker at få det bedre, uanset udgangspunkt. Kan du trække vejret, kan du lave MediYoga. Se mere og tilmeld dig.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydjylland/mediyoga?holdnr=2715136</g:link>
+      <g:image_link>https://www.fof.dk/media/a4jnr5ka/mediyoga-mona-l-1.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>725.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Yoga</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Kolding</g:custom_label_4>
+      <g:start_date>2027-01-12T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Kolding</g:custom_label_3>
+      <g:internal_label>['Kolding','Motion og sundhed','Yoga']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2714200</g:id>

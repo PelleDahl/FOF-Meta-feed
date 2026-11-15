@@ -199,10 +199,6 @@
     "ogImage": "https://www.fof.dk/media/4zbdsf5u/mosaik-haekling.png?width=1200",
     "fetchedAt": "2026-11-12T16:57:42.894Z"
   },
-  "https://www.fof.dk/aftenskolen/fof-aalborg/workshop-punch-needle": {
-    "ogImage": "https://www.fof.dk/media/tlhjk033/punch-needle.jpg?width=1200",
-    "fetchedAt": "2026-11-10T21:53:31.880Z"
-  },
   "https://www.fof.dk/aftenskolen/fof-aalborg/workshop-vinterhi": {
     "ogImage": "https://www.fof.dk/media/5jghtzj2/yin-yoga.png?width=1200",
     "fetchedAt": "2026-11-13T12:28:26.478Z"
@@ -374,10 +370,6 @@
   "https://www.fof.dk/aftenskolen/fof-aarhus/first-aid-babies-english": {
     "ogImage": "https://www.fof.dk/media/0lhn54ea/foerstehjaelp-til-babyer-1_1200x1200-fof-aarhus.jpg?width=1200",
     "fetchedAt": "2026-11-10T21:53:48.841Z"
-  },
-  "https://www.fof.dk/aftenskolen/fof-aarhus/first-aid-traffic-related": {
-    "ogImage": "https://www.fof.dk/media/1qxgv3tv/foerstehjaelp-4_.jpg?width=1200",
-    "fetchedAt": "2026-11-13T12:28:28.190Z"
   },
   "https://www.fof.dk/aftenskolen/fof-aarhus/flemming-splidsboel-hvordan-forsvarer-vi-os-mod-hybridkrig": {
     "ogImage": "https://www.fof.dk/media/1zilrml2/flemming-splidsboel_1200x1200-fof-aftenskolen-aarhus.jpg?width=1200",
@@ -874,10 +866,6 @@
   "https://www.fof.dk/aftenskolen/fof-aarhus/troels-w-kjaer-traek-stikket-og-styrk-din-hjerne": {
     "ogImage": "https://www.fof.dk/media/epidvope/troels-w-kjaer-1200x1200-fof-aarhus.jpg?width=1200",
     "fetchedAt": "2026-11-10T21:53:56.759Z"
-  },
-  "https://www.fof.dk/aftenskolen/fof-aarhus/tulle-og-skralle-i-nissernes-land-2-4-aar": {
-    "ogImage": "https://www.fof.dk/media/3pfpdntb/tulle_og_skralle_i_nissernes_land_musik_og_sang_for_de_mindste_fof_aarhus_1200x1200.jpg?width=1200",
-    "fetchedAt": "2026-11-10T21:53:49.642Z"
   },
   "https://www.fof.dk/aftenskolen/fof-aarhus/tulle-og-skralle-moeder-en-drageunge-2-4-aar": {
     "ogImage": "https://www.fof.dk/media/lxwfeujy/tulle-og-skralle-drageunge-musik-boern-aarhus.jpg?width=1200",
@@ -1562,6 +1550,10 @@
   "https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/blod-boedler-og-bordeller": {
     "ogImage": "https://www.fof.dk/media/yd5jakuq/blod-boedler-og-bordeller-fofkn-aftenskolen-ture2.jpg?width=1200",
     "fetchedAt": "2026-11-10T21:55:04.702Z"
+  },
+  "https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/blokfloejte": {
+    "ogImage": "https://www.fof.dk/media/ugkfx2q2/blokfloejte-fofkn-aftenskolen-musik-og-sang-clara-guldberg-ravn1-lysnet.jpg?width=1200",
+    "fetchedAt": "2026-11-15T00:01:59.665Z"
   },
   "https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/blomsterhaven-en-af-koebenhavns-stoerste-private-haver": {
     "ogImage": "https://www.fof.dk/media/33jhnjkv/blomsterhaven-private-have-fofkn-aftenskolen-ture-ns.jpg?width=1200",
@@ -2514,10 +2506,6 @@
   "https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/modellering-fra-model-til-skulptur-helfigur": {
     "ogImage": "https://www.fof.dk/media/uzblnmka/keramik-modellering-fofkn-aftenskolen-kreative-kurser.jpg?width=1200",
     "fetchedAt": "2026-11-10T21:54:28.502Z"
-  },
-  "https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/modeludvikling-og-syning-paa-overlocker": {
-    "ogImage": "https://www.fof.dk/media/0yglpamq/syning-overlocker-fofkn-aftenskolen-kreative-kurser-stock-3245363.jpg?width=1200",
-    "fetchedAt": "2026-11-10T21:54:09.807Z"
   },
   "https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/moderne-middelalder-agnes-og-harald-slott-moeller": {
     "ogImage": "https://www.fof.dk/media/lg4lkj52/frederiksborg-slot_510202616001.jpg?width=1200",
@@ -3755,6 +3743,10 @@
     "ogImage": "https://www.fof.dk/media/vcnpmu0d/rundvisning-i-vridsloeselille-faengsel.png?width=1200",
     "fetchedAt": "2026-11-10T21:55:48.678Z"
   },
+  "https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/rusland-bag-overskrifterne-foredrag-med-matilde-kimer": {
+    "ogImage": "https://www.fof.dk/media/xcady1zm/mathilde-kiemer-fof-koebenhavns-omegn.jpg?width=1200",
+    "fetchedAt": "2026-11-15T00:02:02.259Z"
+  },
   "https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/ryg-skuldre-og-nakke": {
     "ogImage": "https://www.fof.dk/media/ur2c0c55/yoga-fof-aftenskolen-22.jpg?width=1200",
     "fetchedAt": "2026-11-10T21:55:33.719Z"
@@ -4327,10 +4319,6 @@
     "ogImage": "https://www.fof.dk/media/bvmcm0dj/soelvefteraar26.jpg?width=1200",
     "fetchedAt": "2026-11-10T21:52:34.798Z"
   },
-  "https://www.fof.dk/aftenskolen/fof-nordvestjylland/fra-himmel-til-jord-kirkekoncert-lemvig": {
-    "ogImage": "https://www.fof.dk/media/jeyhsghy/kirkekoncert151126.jpg?width=1200",
-    "fetchedAt": "2026-11-10T21:52:29.730Z"
-  },
   "https://www.fof.dk/aftenskolen/fof-nordvestjylland/fredagsgaming-esport-studieby-holstebro": {
     "ogImage": "https://www.fof.dk/media/5gubkumx/gaming1200x1200.jpg?width=1200",
     "fetchedAt": "2026-11-10T21:52:30.763Z"
@@ -4734,10 +4722,6 @@
   "https://www.fof.dk/aftenskolen/fof-randers-favrskov-mariagerfjord-viborg/trykhenkogning-og-henkogning": {
     "ogImage": "https://www.fof.dk/media/v3rnxfwo/pk-trykhenkogning-presure-canning-og-henkogning-billede.jpg?width=1200",
     "fetchedAt": "2026-11-11T22:54:34.415Z"
-  },
-  "https://www.fof.dk/aftenskolen/fof-randers-favrskov-mariagerfjord-viborg/vaevekursus": {
-    "ogImage": "https://www.fof.dk/media/q5pheeiw/vaevefoto-lone-jensen-fra-instagram-vaeverfuglen.jpg?width=1200",
-    "fetchedAt": "2026-11-10T21:52:40.013Z"
   },
   "https://www.fof.dk/aftenskolen/fof-randers-favrskov-mariagerfjord-viborg/vandgymnastik-for-gravide": {
     "ogImage": "https://www.fof.dk/media/ub2oetbm/vand-gymnastik-gravide.jpg?width=1200",
