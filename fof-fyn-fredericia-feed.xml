@@ -52,7 +52,7 @@
 <item>
       <g:id>FYN-162839</g:id>
       <g:title><![CDATA[Weekendforkælelse]]></g:title>
-      <g:description><![CDATA[Forkæl dig selv med en rolig og nærende yin yoga i Odense workshop hos FOF. På dette 1-dags hold i Odense får du dybe stræk, afspænding og mental ro. Perfekt til weekendforkælelse.]]></g:description>
+      <g:description><![CDATA[Forkæl dig selv med en rolig og nærende yin yoga i Odense workshop hos FOF. På dette 1-dags yogahold i Odense får du dybe stræk, afspænding og mental ro. Perfekt til weekendforkælelse.]]></g:description>
       <g:link>https://www.fof.dk/aftenskolen/fof-fyn-fredericia/weekendforkaelelse?holdnr=162839</g:link>
       <g:image_link>https://www.fof.dk/media/cl4bxfd4/yoga-fof-aftenskolen-16.jpg?width=1200</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -182,7 +182,7 @@
 <item>
       <g:id>FYN-170837</g:id>
       <g:title><![CDATA[Weekendforkælelse]]></g:title>
-      <g:description><![CDATA[Forkæl dig selv med en rolig og nærende yin yoga i Odense workshop hos FOF. På dette 1-dags hold i Odense får du dybe stræk, afspænding og mental ro. Perfekt til weekendforkælelse.]]></g:description>
+      <g:description><![CDATA[Forkæl dig selv med en rolig og nærende yin yoga i Odense workshop hos FOF. På dette 1-dags yogahold i Odense får du dybe stræk, afspænding og mental ro. Perfekt til weekendforkælelse.]]></g:description>
       <g:link>https://www.fof.dk/aftenskolen/fof-fyn-fredericia/weekendforkaelelse?holdnr=170837</g:link>
       <g:image_link>https://www.fof.dk/media/cl4bxfd4/yoga-fof-aftenskolen-16.jpg?width=1200</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -200,6 +200,27 @@
       <g:start_date>2027-01-22T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Odense</g:custom_label_3>
       <g:internal_label>['Odense','Odense C']</g:internal_label>
+    </item>
+<item>
+      <g:id>FYN-270745</g:id>
+      <g:title><![CDATA[Ballroom Fitness®]]></g:title>
+      <g:description><![CDATA[Få pulsen op med Ballroom Fitness® i Fredericia. Dans vals, cha-cha-cha, jive og tango uden partner. Alle kan være med, også begyndere.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-fyn-fredericia/ballroom-fitnesstm?holdnr=270745</g:link>
+      <g:image_link>https://www.fof.dk/media/lc1jo1ii/ballroom-fitness-fredericia-fof-aftenskolen-fyn-fredericia.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>660.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Fyn-Fredericia</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Dans</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Dans</g:custom_label_2>
+      <g:custom_label_4>Fredericia</g:custom_label_4>
+      <g:start_date>2027-02-01T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Fredericia']</g:internal_label>
     </item>
 <item>
       <g:id>FYN-171980</g:id>
@@ -221,6 +242,27 @@
       <g:custom_label_4>Odense</g:custom_label_4>
       <g:start_date>2027-02-02T00:00:00.000Z</g:start_date>
       <g:internal_label>['Odense C']</g:internal_label>
+    </item>
+<item>
+      <g:id>FYN-670883</g:id>
+      <g:title><![CDATA[Blid kropstræning - special]]></g:title>
+      <g:description><![CDATA[Få mere styrke, smidighed og ro med blid kropstræning i Faaborg. Skånsomme øvelser med elementer fra yoga og pilates på et mindre hold.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-fyn-fredericia/blid-kropstraening-special?holdnr=670883</g:link>
+      <g:image_link>https://www.fof.dk/media/jilb1yjw/blid-kropstraening-special-faaborg-fof-aftenskolen-fyn-fredericia.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1985.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Fyn-Fredericia</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type></g:product_type>
+      <g:custom_label_0></g:custom_label_0>
+      <g:custom_label_1></g:custom_label_1>
+      <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Faaborg</g:custom_label_4>
+      <g:start_date>2027-02-02T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Faaborg']</g:internal_label>
     </item>
 <item>
       <g:id>FYN-170970</g:id>
@@ -288,6 +330,27 @@
       <g:internal_label>['Odense C']</g:internal_label>
     </item>
 <item>
+      <g:id>FYN-670882</g:id>
+      <g:title><![CDATA[Blid kropstræning - special]]></g:title>
+      <g:description><![CDATA[Få mere styrke, smidighed og ro med blid kropstræning i Faaborg. Skånsomme øvelser med elementer fra yoga og pilates på et mindre hold.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-fyn-fredericia/blid-kropstraening-special?holdnr=670882</g:link>
+      <g:image_link>https://www.fof.dk/media/jilb1yjw/blid-kropstraening-special-faaborg-fof-aftenskolen-fyn-fredericia.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1610.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Fyn-Fredericia</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type></g:product_type>
+      <g:custom_label_0></g:custom_label_0>
+      <g:custom_label_1></g:custom_label_1>
+      <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Faaborg</g:custom_label_4>
+      <g:start_date>2027-02-08T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Faaborg']</g:internal_label>
+    </item>
+<item>
       <g:id>FYN-170140</g:id>
       <g:title><![CDATA[Opera og musik i Leipzig]]></g:title>
       <g:description><![CDATA[Operatur til Leipzig med FOF Aftenskolen. Fire dage med Carmen, Bach, musikformidling og fællesskab - hvor oplevelsen begynder allerede i bussen. ]]></g:description>
@@ -311,7 +374,7 @@
 <item>
       <g:id>FYN-170838</g:id>
       <g:title><![CDATA[Weekendforkælelse]]></g:title>
-      <g:description><![CDATA[Forkæl dig selv med en rolig og nærende yin yoga i Odense workshop hos FOF. På dette 1-dags hold i Odense får du dybe stræk, afspænding og mental ro. Perfekt til weekendforkælelse.]]></g:description>
+      <g:description><![CDATA[Forkæl dig selv med en rolig og nærende yin yoga i Odense workshop hos FOF. På dette 1-dags yogahold i Odense får du dybe stræk, afspænding og mental ro. Perfekt til weekendforkælelse.]]></g:description>
       <g:link>https://www.fof.dk/aftenskolen/fof-fyn-fredericia/weekendforkaelelse?holdnr=170838</g:link>
       <g:image_link>https://www.fof.dk/media/cl4bxfd4/yoga-fof-aftenskolen-16.jpg?width=1200</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -331,10 +394,10 @@
       <g:internal_label>['Odense','Odense C']</g:internal_label>
     </item>
 <item>
-      <g:id>FYN-171230</g:id>
+      <g:id>FYN-171231</g:id>
       <g:title><![CDATA[Strik dit eget kunstværk med freeform]]></g:title>
       <g:description><![CDATA[Lær freeform strik uden opskrift i Odense, og skab dit eget kunstværk med garnrester, farver og fantasi. Et kreativt strikkekursus i Odense hos FOF Aftenskolen.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-fyn-fredericia/strik-dit-eget-kunstvaerk-med-freeform?holdnr=171230</g:link>
+      <g:link>https://www.fof.dk/aftenskolen/fof-fyn-fredericia/strik-dit-eget-kunstvaerk-med-freeform?holdnr=171231</g:link>
       <g:image_link>https://www.fof.dk/media/cg4fun1y/strik-dit-eget-kunstvaerk-fof-aftenskolen-fyn-fredericia.jpg?width=1200</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:quantity>1</g:quantity>
@@ -484,7 +547,7 @@
 <item>
       <g:id>FYN-170839</g:id>
       <g:title><![CDATA[Weekendforkælelse]]></g:title>
-      <g:description><![CDATA[Forkæl dig selv med en rolig og nærende yin yoga i Odense workshop hos FOF. På dette 1-dags hold i Odense får du dybe stræk, afspænding og mental ro. Perfekt til weekendforkælelse.]]></g:description>
+      <g:description><![CDATA[Forkæl dig selv med en rolig og nærende yin yoga i Odense workshop hos FOF. På dette 1-dags yogahold i Odense får du dybe stræk, afspænding og mental ro. Perfekt til weekendforkælelse.]]></g:description>
       <g:link>https://www.fof.dk/aftenskolen/fof-fyn-fredericia/weekendforkaelelse?holdnr=170839</g:link>
       <g:image_link>https://www.fof.dk/media/cl4bxfd4/yoga-fof-aftenskolen-16.jpg?width=1200</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -524,6 +587,27 @@
       <g:start_date>2027-04-17T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Odense</g:custom_label_3>
       <g:internal_label>['Odense','Odense C']</g:internal_label>
+    </item>
+<item>
+      <g:id>FYN-270746</g:id>
+      <g:title><![CDATA[Ballroom Fitness®]]></g:title>
+      <g:description><![CDATA[Få pulsen op med Ballroom Fitness® i Fredericia. Dans vals, cha-cha-cha, jive og tango uden partner. Alle kan være med, også begyndere.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-fyn-fredericia/ballroom-fitnesstm?holdnr=270746</g:link>
+      <g:image_link>https://www.fof.dk/media/lc1jo1ii/ballroom-fitness-fredericia-fof-aftenskolen-fyn-fredericia.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>660.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Fyn-Fredericia</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Dans</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Dans</g:custom_label_2>
+      <g:custom_label_4>Fredericia</g:custom_label_4>
+      <g:start_date>2027-04-19T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Fredericia']</g:internal_label>
     </item>
 <item>
       <g:id>FYN-170972</g:id>

@@ -162,7 +162,7 @@
 <item>
       <g:id>SVJ-2710528</g:id>
       <g:title><![CDATA[MediYoga - ro, balance og ny energi]]></g:title>
-      <g:description><![CDATA[Find ro og styrke med MediYoga og yin yoga hos FOF. Få mere balance, bevægelighed og nærvær i trygge rammer. Læs mere og tilmeld dig her.]]></g:description>
+      <g:description><![CDATA[Find ro og balance med MediYoga. Blid yoga med åndedræt, meditation og afspænding. Alle kan være med, også begyndere. Tilmeld dig her.]]></g:description>
       <g:link>https://www.fof.dk/aftenskolen/fof-sydvestjylland/mediyoga-ro-balance-og-ny-energi?holdnr=2710528</g:link>
       <g:image_link>https://www.fof.dk/media/qwqjsjd5/yoga-fof-aftenskolen-32.jpg?width=1200</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -512,28 +512,6 @@
       <g:internal_label>['Malekurser','Kreative kurser','Ribe']</g:internal_label>
     </item>
 <item>
-      <g:id>SVJ-2710997</g:id>
-      <g:title><![CDATA[Bag et "lysende" mesterværk - den hemmelige kageudfordring]]></g:title>
-      <g:description><![CDATA[Oplev ESE Festival med FOF i Esbjerg. Vælg mellem to gratis bageevents med Ida's Kageri, hygge og kreativitet. Se events og tilmeld dig trygt her.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-sydvestjylland/ese-festival?holdnr=2710997</g:link>
-      <g:image_link>https://www.fof.dk/media/tz0doqsq/ese-festival-event-bag-idas-kageri-sydvestjylland-fof-aftenskolen-05.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>0.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Sydvestjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Madlavning og drikkevarer &gt; Bagning og søde sager</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
-      <g:custom_label_2>Bagning og søde sager</g:custom_label_2>
-      <g:custom_label_4>Esbjerg</g:custom_label_4>
-      <g:start_date>2027-01-30T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Esbjerg</g:custom_label_3>
-      <g:internal_label>['Esbjerg','Bagning og søde sager','Madlavning og drikkevarer']</g:internal_label>
-    </item>
-<item>
       <g:id>SVJ-2710325</g:id>
       <g:title><![CDATA[Akvarel - for alle]]></g:title>
       <g:description><![CDATA[Akvarel kursus i Ribe for begyndere og letøvede. Lær teknikker, farver og komposition i trygt fællesskab. Tilmeld dig og kom i gang i dag.]]></g:description>
@@ -598,6 +576,28 @@
       <g:start_date>2027-02-03T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Kreative kurser</g:custom_label_3>
       <g:internal_label>['Kreative kurser','Esbjerg']</g:internal_label>
+    </item>
+<item>
+      <g:id>SVJ-2710013</g:id>
+      <g:title><![CDATA[Danny & Jes' - syng-med-foredrag  - Flemming "Bamse" Jørgensen]]></g:title>
+      <g:description><![CDATA[Syng med på Bamses største hits, og hør historien bag Flemming Bamse Jørgensen. En hyggelig aften med musik og fællessang. Læs mere her]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydvestjylland/danny-jes-syng-med-foredrag-flemming-bamse-joergensen?holdnr=2710013</g:link>
+      <g:image_link>https://www.fof.dk/media/33lhyzxk/foredrag-danny-jes-syng-med-foredrag-bamse-debat-musik-koncerter-fof-aftenskolen-sydvestjylland.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>135.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydvestjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Foredrag, debat og højskoler &gt; Musik og koncerter</g:product_type>
+      <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
+      <g:custom_label_1>Musik og koncerter</g:custom_label_1>
+      <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4></g:custom_label_4>
+      <g:start_date>2027-02-04T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Esbjerg</g:custom_label_3>
+      <g:internal_label>['Esbjerg']</g:internal_label>
     </item>
 <item>
       <g:id>SVJ-2710430</g:id>
@@ -708,6 +708,28 @@
       <g:start_date>2027-02-07T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Madlavning og drikkevarer</g:custom_label_3>
       <g:internal_label>['Madlavning og drikkevarer','Fanø','Varde']</g:internal_label>
+    </item>
+<item>
+      <g:id>SVJ-2710406</g:id>
+      <g:title><![CDATA[Ostekursus]]></g:title>
+      <g:description><![CDATA[Lær at at forvandle frisk mælk til velsmagende ost.  Bliv klog på håndværket i køkkenet. Læs mere og tilmeld dig her.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydvestjylland/ostekursus?holdnr=2710406</g:link>
+      <g:image_link>https://www.fof.dk/media/c5phsnx2/madlavning-ostekursus-vest-fof-aftenskolen.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>487.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydvestjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Madlavning og drikkevarer &gt; Madteknikker</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
+      <g:custom_label_2>Madteknikker</g:custom_label_2>
+      <g:custom_label_4>Fanø</g:custom_label_4>
+      <g:start_date>2027-02-08T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Fanø</g:custom_label_3>
+      <g:internal_label>['Fanø','Madlavning og drikkevarer']</g:internal_label>
     </item>
 <item>
       <g:id>SVJ-2710423</g:id>
@@ -908,6 +930,28 @@
       <g:internal_label>['Malekurser','Kreative kurser','Esbjerg']</g:internal_label>
     </item>
 <item>
+      <g:id>SVJ-2710341</g:id>
+      <g:title><![CDATA[Tufting - med Danella nål, for begyndere]]></g:title>
+      <g:description><![CDATA[Skab dit eget tuftede billede med Danella-nål. Et meditativt og kreativt kursus for begyndere, hvor alt materiale er inkluderet. Læs mere her.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydvestjylland/tufting-med-danella-naal?holdnr=2710341</g:link>
+      <g:image_link>https://www.fof.dk/media/odobo1zs/kurser-kreative-kurser-haandarbejde-tufting-med-danelle-naal-esbjerg-fof-aftenskolen-sydvestjylland-05.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>486.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydvestjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Kreative kurser &gt; Håndarbejde</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Kreative kurser</g:custom_label_1>
+      <g:custom_label_2>Håndarbejde</g:custom_label_2>
+      <g:custom_label_4>Esbjerg</g:custom_label_4>
+      <g:start_date>2027-02-27T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Kreative kurser</g:custom_label_3>
+      <g:internal_label>['Kreative kurser','Esbjerg']</g:internal_label>
+    </item>
+<item>
       <g:id>SVJ-2710200</g:id>
       <g:title><![CDATA[Kvinde, kend din ladcykel ]]></g:title>
       <g:description><![CDATA[Bliv tryg ved din ladcykel på Fanø. Lær at lappe dæk, justere bremser og vedligeholde cyklen i roligt tempo. Tilmeld dig hos FOF i dag. ]]></g:description>
@@ -1106,6 +1150,27 @@
       <g:internal_label>['Esbjerg','Nyhed','Madlavning og drikkevarer','Varde']</g:internal_label>
     </item>
 <item>
+      <g:id>SVJ-2710204</g:id>
+      <g:title><![CDATA[Workshop: Stå stærkt i dig selv]]></g:title>
+      <g:description><![CDATA[Lær mental træning i trygge rammer i Esbjerg. Få konkrete værktøjer til ro, fokus og trivsel på en inspirerende workshop hos FOF. Læs mere.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydvestjylland/workshop-staa-staerkt-i-dig-selv?holdnr=2710204</g:link>
+      <g:image_link>https://www.fof.dk/media/jqodsscs/kurser-motion-og-sundhed-workshop-staa-staerkt-i-dig-selv-personlig-udvikling-sydvestjylland-fof-aftenskolen.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>265.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydvestjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Livsstil og trivsel</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Livsstil og trivsel</g:custom_label_1>
+      <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Esbjerg</g:custom_label_4>
+      <g:start_date>2027-03-13T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Esbjerg']</g:internal_label>
+    </item>
+<item>
       <g:id>SVJ-2710451</g:id>
       <g:title><![CDATA[Workshop: Latinamerikansk streetfood - Empanadas]]></g:title>
       <g:description><![CDATA[Lær at lave empanadas med fire slags fyld og tre lækre dips. Få tips og inspiration på et hyggeligt madlavningskursus hos FOF. Tilmeld dig her.]]></g:description>
@@ -1214,6 +1279,28 @@
       <g:start_date>2027-03-18T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Esbjerg</g:custom_label_3>
       <g:internal_label>['Esbjerg']</g:internal_label>
+    </item>
+<item>
+      <g:id>SVJ-2710342</g:id>
+      <g:title><![CDATA[Tufting - med Danella nål, for begyndere]]></g:title>
+      <g:description><![CDATA[Skab dit eget tuftede billede med Danella-nål. Et meditativt og kreativt kursus for begyndere, hvor alt materiale er inkluderet. Læs mere her.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydvestjylland/tufting-med-danella-naal?holdnr=2710342</g:link>
+      <g:image_link>https://www.fof.dk/media/odobo1zs/kurser-kreative-kurser-haandarbejde-tufting-med-danelle-naal-esbjerg-fof-aftenskolen-sydvestjylland-05.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>486.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydvestjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Kreative kurser &gt; Håndarbejde</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Kreative kurser</g:custom_label_1>
+      <g:custom_label_2>Håndarbejde</g:custom_label_2>
+      <g:custom_label_4>Esbjerg</g:custom_label_4>
+      <g:start_date>2027-03-20T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Kreative kurser</g:custom_label_3>
+      <g:internal_label>['Kreative kurser','Esbjerg']</g:internal_label>
     </item>
 <item>
       <g:id>SVJ-2710312</g:id>
@@ -1348,6 +1435,48 @@
       <g:internal_label>['Esbjerg','In English','Fanø','Varde','Nyhed','Madlavning og drikkevarer']</g:internal_label>
     </item>
 <item>
+      <g:id>SVJ-2710469</g:id>
+      <g:title><![CDATA[Croissant og pain au chocolat kursus]]></g:title>
+      <g:description><![CDATA[Lær at bage sprøde croissanter og pain au chocolat på kursus hos FOF. Få styr på fransk bageteknik i trygge rammer. Tilmeld dig nu.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydvestjylland/croissant-og-pain-au-chocolat-kursus?holdnr=2710469</g:link>
+      <g:image_link>https://www.fof.dk/media/y4apf5mk/kurser-madlavning-croissanter-sydvestjylland-fof-aftenskolen.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>275.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydvestjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Madlavning og drikkevarer &gt; Bagning og søde sager</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
+      <g:custom_label_2>Bagning og søde sager</g:custom_label_2>
+      <g:custom_label_4>Esbjerg</g:custom_label_4>
+      <g:start_date>2027-04-03T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Nyhed</g:custom_label_3>
+      <g:internal_label>['Nyhed','Esbjerg','Madlavning og drikkevarer','Bagning og søde sager']</g:internal_label>
+    </item>
+<item>
+      <g:id>SVJ-2710203</g:id>
+      <g:title><![CDATA[Workshop: Stå stærkt i dig selv]]></g:title>
+      <g:description><![CDATA[Lær mental træning i trygge rammer i Esbjerg. Få konkrete værktøjer til ro, fokus og trivsel på en inspirerende workshop hos FOF. Læs mere.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydvestjylland/workshop-staa-staerkt-i-dig-selv?holdnr=2710203</g:link>
+      <g:image_link>https://www.fof.dk/media/jqodsscs/kurser-motion-og-sundhed-workshop-staa-staerkt-i-dig-selv-personlig-udvikling-sydvestjylland-fof-aftenskolen.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>275.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydvestjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Livsstil og trivsel</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Livsstil og trivsel</g:custom_label_1>
+      <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4></g:custom_label_4>
+      <g:start_date>2027-04-03T00:00:00.000Z</g:start_date>
+    </item>
+<item>
       <g:id>SVJ-2710468</g:id>
       <g:title><![CDATA[Pizza: Lær at lave den perfekte pizza fra bunden!]]></g:title>
       <g:description><![CDATA[Lær at lave pizza fra bunden med den rette dej, sauce og bageteknik. Få tryg vejledning og praktisk viden, der gør dig sikker i dit køkken.]]></g:description>
@@ -1368,6 +1497,50 @@
       <g:start_date>2027-04-03T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Madlavning og drikkevarer</g:custom_label_3>
       <g:internal_label>['Madlavning og drikkevarer','Fanø','Esbjerg']</g:internal_label>
+    </item>
+<item>
+      <g:id>SVJ-2710463</g:id>
+      <g:title><![CDATA[Pizza: Lær at lave den perfekte pizza fra bunden!]]></g:title>
+      <g:description><![CDATA[Lær at lave pizza fra bunden med den rette dej, sauce og bageteknik. Få tryg vejledning og praktisk viden, der gør dig sikker i dit køkken.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydvestjylland/pizza-laer-at-lave-den-perfekte-pizza-fra-bunden?holdnr=2710463</g:link>
+      <g:image_link>https://www.fof.dk/media/fr4bzvwj/verdenskoekkenet-pizza-laer-at-lave-den-perfekte-pizza-fra-bunden-sydvestjylland-fof-aftenskolen.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>275.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydvestjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Madlavning og drikkevarer &gt; Verdenskøkkenet</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
+      <g:custom_label_2>Verdenskøkkenet</g:custom_label_2>
+      <g:custom_label_4>Bramming</g:custom_label_4>
+      <g:start_date>2027-04-04T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Madlavning og drikkevarer</g:custom_label_3>
+      <g:internal_label>['Madlavning og drikkevarer','Fanø','Bramming']</g:internal_label>
+    </item>
+<item>
+      <g:id>SVJ-2710462</g:id>
+      <g:title><![CDATA[Brødbagning]]></g:title>
+      <g:description><![CDATA[Bag som en professionel med bagermester John Bramsen! På kurset får du tips til at ælte, hæve og bage brød med perfekt skorpe og smag. Læs mere.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydvestjylland/broedbagning?holdnr=2710462</g:link>
+      <g:image_link>https://www.fof.dk/media/t4fhu3t2/madlavning-broedbagning-vest-fof-aftenskolen.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>435.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydvestjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Madlavning og drikkevarer &gt; Bagning og søde sager</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
+      <g:custom_label_2>Bagning og søde sager</g:custom_label_2>
+      <g:custom_label_4>Bramming</g:custom_label_4>
+      <g:start_date>2027-04-04T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Bagning og søde sager</g:custom_label_3>
+      <g:internal_label>['Bagning og søde sager','Madlavning og drikkevarer','Fanø','Bramming']</g:internal_label>
     </item>
 <item>
       <g:id>SVJ-2710007</g:id>

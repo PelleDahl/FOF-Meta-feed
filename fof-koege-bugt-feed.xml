@@ -600,28 +600,6 @@
       <g:internal_label>['Greve']</g:internal_label>
     </item>
 <item>
-      <g:id>KOE-53007</g:id>
-      <g:title><![CDATA[Keramik - eksklusivt drejekursus]]></g:title>
-      <g:description><![CDATA[Keramik Greve: På vores drejekursus bliver du en haj til at dreje keramik på en drejeskive. Vores eksklusive drejekurser foregår i Greve hvor du på helt små hold får vejledning til at komme i gang med at dreje keramik]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koege-bugt/keramik-eksklusivt-drejekursus?holdnr=53007</g:link>
-      <g:image_link>https://www.fof.dk/media/2jknbbwj/5.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>2695.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Køge Bugt</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Kreative kurser &gt; Keramik</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Kreative kurser</g:custom_label_1>
-      <g:custom_label_2>Keramik</g:custom_label_2>
-      <g:custom_label_4>Greve</g:custom_label_4>
-      <g:start_date>2027-01-11T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Greve</g:custom_label_3>
-      <g:internal_label>['Greve']</g:internal_label>
-    </item>
-<item>
       <g:id>KOE-53009</g:id>
       <g:title><![CDATA[Keramik - eksklusivt drejekursus]]></g:title>
       <g:description><![CDATA[Keramik Greve: På vores drejekursus bliver du en haj til at dreje keramik på en drejeskive. Vores eksklusive drejekurser foregår i Greve hvor du på helt små hold får vejledning til at komme i gang med at dreje keramik]]></g:description>
@@ -972,6 +950,27 @@
       <g:start_date>2027-01-30T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Greve</g:custom_label_3>
       <g:internal_label>['Greve','Endagskurser','Weekend']</g:internal_label>
+    </item>
+<item>
+      <g:id>KOE-52100</g:id>
+      <g:title><![CDATA[Italiensk niveau 1 (A1)]]></g:title>
+      <g:description><![CDATA[Lær italiensk Greve og Køge med FOF Køge Bugt. Få glæden af et nyt sprog fra en erfaren underviser. Vi er din aftenskole i Køge og Greve og vores dygtige underviser kan lære dig at tale italiensk.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koege-bugt/italiensk?holdnr=52100</g:link>
+      <g:image_link>https://www.fof.dk/media/uywleq3r/italiensk-fof-aftenskolen-17.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>952.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Køge Bugt</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Sprog &gt; Italiensk</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Sprog</g:custom_label_1>
+      <g:custom_label_2>Italiensk</g:custom_label_2>
+      <g:custom_label_4>Greve</g:custom_label_4>
+      <g:start_date>2027-02-01T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Greve']</g:internal_label>
     </item>
 <item>
       <g:id>KOE-53410</g:id>
@@ -1874,6 +1873,26 @@
       <g:internal_label>['Forår','Greve','Endagskurser','Weekend']</g:internal_label>
     </item>
 <item>
+      <g:id>KOE-53884</g:id>
+      <g:title><![CDATA[Frihedsmuseet og Churchillparken: Symbol på frihed]]></g:title>
+      <g:description><![CDATA[Tag med på rundvisning i Churchillparken og besøg Frihedsmuseet i København. Oplev fortællinger om besættelsen, modstandskampen og frihedens pris.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koege-bugt/frihedsmuseet-og-churchillparken-symbol-paa-frihed?holdnr=53884</g:link>
+      <g:image_link>https://www.fof.dk/media/5wdpihde/frihedsmuseet-rundvisning-koege-fof-aftenskolen.png?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>245.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Køge Bugt</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Rejser, ture og rundvisninger &gt; Rundvisninger</g:product_type>
+      <g:custom_label_0>Rejser, ture og rundvisninger</g:custom_label_0>
+      <g:custom_label_1>Rundvisninger</g:custom_label_1>
+      <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4></g:custom_label_4>
+      <g:start_date>2027-04-06T00:00:00.000Z</g:start_date>
+    </item>
+<item>
       <g:id>KOE-53881</g:id>
       <g:title><![CDATA[Kom ind bag murene - besøg Københavns politigård ]]></g:title>
       <g:description><![CDATA[Spændende rundvisning i politigården med intern rundviser . Besøg Politigården med FOF Køge Bugt 15/4]]></g:description>
@@ -2335,6 +2354,28 @@
       <g:internal_label>['Forår','Endagskurser']</g:internal_label>
     </item>
 <item>
+      <g:id>KOE-53886</g:id>
+      <g:title><![CDATA[Musicon og Rockmuseet – Byudvikling møder rock]]></g:title>
+      <g:description><![CDATA[Oplev Musicon og Rockmuseet i Roskilde med FOF Køge Bugt 4. oktober. Guidet tur gennem den kreative bydel efterfulgt af rundvisning på Rockmuseet med historier om pop, rock, ungdomskultur og moderne byudvikling. ]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koege-bugt/musicon-og-rockmuseet-byudvikling-moeder-rock?holdnr=53886</g:link>
+      <g:image_link>https://www.fof.dk/media/hh4h2tx1/musicon-koege-fof-aftenskolen.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>295.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Køge Bugt</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Rejser, ture og rundvisninger &gt; Rundvisninger</g:product_type>
+      <g:custom_label_0>Rejser, ture og rundvisninger</g:custom_label_0>
+      <g:custom_label_1>Rundvisninger</g:custom_label_1>
+      <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4></g:custom_label_4>
+      <g:start_date>2027-05-04T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Weekend</g:custom_label_3>
+      <g:internal_label>['Weekend']</g:internal_label>
+    </item>
+<item>
       <g:id>KOE-53877</g:id>
       <g:title><![CDATA[Naturskøn sejltur på Mølleåen og Lyngby sø samt besøg i Exillion Barokhave]]></g:title>
       <g:description><![CDATA[Tag med på sejltur på Mølleåen og Lyngby Sø, nyd frokost på Rungsted Kro og oplev Exillion Barokhave på en guidet rundvisning. Bus og frokost inkluderet.]]></g:description>
@@ -2529,6 +2570,28 @@
       <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4></g:custom_label_4>
       <g:start_date>2027-06-06T00:00:00.000Z</g:start_date>
+    </item>
+<item>
+      <g:id>KOE-53885</g:id>
+      <g:title><![CDATA[Rundt om Børsen - et handelshus af format]]></g:title>
+      <g:description><![CDATA[Rundvisning med FOF: Børsen rundvisning på Slotsholmen med Marianne Bentzen. Guidet tur om handelshistorie, branden i 2024 og den aktuelle genopbygning med besøg i udstillingen om Københavns ikoniske bygning.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koege-bugt/boersen-paa-ny-et-handelshus-af-format?holdnr=53885</g:link>
+      <g:image_link>https://www.fof.dk/media/zsdb0vxe/boersen-koege-fof-aftenskolen.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>185.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Køge Bugt</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Rejser, ture og rundvisninger &gt; Rundvisninger</g:product_type>
+      <g:custom_label_0>Rejser, ture og rundvisninger</g:custom_label_0>
+      <g:custom_label_1>Rundvisninger</g:custom_label_1>
+      <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4></g:custom_label_4>
+      <g:start_date>2027-06-13T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Weekend</g:custom_label_3>
+      <g:internal_label>['Weekend']</g:internal_label>
     </item>
 <item>
       <g:id>KOE-53875</g:id>

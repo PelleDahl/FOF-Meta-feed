@@ -28,50 +28,6 @@
       <g:internal_label>['Starter snart','Skanderborg']</g:internal_label>
     </item>
 <item>
-      <g:id>SOJ-269247</g:id>
-      <g:title><![CDATA[Syning - ulige uger]]></g:title>
-      <g:description><![CDATA[Sykursus i Vejle med fokus på kreativ syning, genbrug og upcycling. Lær at sy dit eget tøj med personlig vejledning. For begyndere og øvede.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-sydoestjylland/sy-og-design-begyndere-og-letoevede?holdnr=269247</g:link>
-      <g:image_link>https://www.fof.dk/media/u5cj1g51/syning.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>950.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Sydøstjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Kreative kurser &gt; Syning</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Kreative kurser</g:custom_label_1>
-      <g:custom_label_2>Syning</g:custom_label_2>
-      <g:custom_label_4>Vejle</g:custom_label_4>
-      <g:start_date>2026-11-19T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Starter snart</g:custom_label_3>
-      <g:internal_label>['Starter snart','Vejle']</g:internal_label>
-    </item>
-<item>
-      <g:id>SOJ-269248</g:id>
-      <g:title><![CDATA[Syning - ulige uger]]></g:title>
-      <g:description><![CDATA[Sykursus i Vejle med fokus på kreativ syning, genbrug og upcycling. Lær at sy dit eget tøj med personlig vejledning. For begyndere og øvede.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-sydoestjylland/sy-og-design-begyndere-og-letoevede?holdnr=269248</g:link>
-      <g:image_link>https://www.fof.dk/media/u5cj1g51/syning.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>950.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Sydøstjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Kreative kurser &gt; Syning</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Kreative kurser</g:custom_label_1>
-      <g:custom_label_2>Syning</g:custom_label_2>
-      <g:custom_label_4>Vejle</g:custom_label_4>
-      <g:start_date>2026-11-19T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Starter snart</g:custom_label_3>
-      <g:internal_label>['Starter snart','Vejle']</g:internal_label>
-    </item>
-<item>
       <g:id>SOJ-269081</g:id>
       <g:title><![CDATA[Klangmeditation ]]></g:title>
       <g:description><![CDATA[Oplev klangmeditation i Vejle med klangskåle, lyd og vibrationer. Find ro, afspænding og nærvær i en meditativ stund med plads til fordybelse.]]></g:description>
@@ -136,6 +92,27 @@
       <g:start_date>2026-11-23T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Starter snart</g:custom_label_3>
       <g:internal_label>['Starter snart','Horsens']</g:internal_label>
+    </item>
+<item>
+      <g:id>SOJ-266105</g:id>
+      <g:title><![CDATA[Yoga for alle - Prøvetime]]></g:title>
+      <g:description><![CDATA[Yoga i Horsens, Vejle og omegn. Find yogahold hos FOF i Barrit, Hedensted og Skanderborg. Blid træning, ro i kroppen og plads til alle.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydoestjylland/yoga-for-alle?holdnr=266105</g:link>
+      <g:image_link>https://www.fof.dk/media/jthbhisv/yoga-for-alle-fof-sydoestjylland.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>0.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydøstjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Yoga</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Skanderborg</g:custom_label_4>
+      <g:start_date>2026-11-23T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Skanderborg']</g:internal_label>
     </item>
 <item>
       <g:id>SOJ-269072</g:id>
@@ -224,28 +201,6 @@
       <g:start_date>2026-11-24T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Starter snart</g:custom_label_3>
       <g:internal_label>['Starter snart','Vejle']</g:internal_label>
-    </item>
-<item>
-      <g:id>SOJ-265297</g:id>
-      <g:title><![CDATA[Smag på historien - voksen/barn]]></g:title>
-      <g:description><![CDATA[Oplev Rumford Challenge på Fængselsmuseet i Horsens. Lav historisk suppe, dyst som familie, og find ud af, hvem der laver den bedste Rumfordsuppe. Tilmeld jer hos FOF.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-sydoestjylland/mad-faengslet?holdnr=265297</g:link>
-      <g:image_link>https://www.fof.dk/media/mbln0111/madlavning-voksen-barn-fof-horsens.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>300.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Sydøstjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Familie, børn og unge &gt; Madlavning</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Familie, børn og unge</g:custom_label_1>
-      <g:custom_label_2>Madlavning</g:custom_label_2>
-      <g:custom_label_4>Horsens</g:custom_label_4>
-      <g:start_date>2026-11-26T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Starter snart</g:custom_label_3>
-      <g:internal_label>['Starter snart','Nyhed','Fængselsmuseet','Horsens']</g:internal_label>
     </item>
 <item>
       <g:id>SOJ-266509</g:id>
@@ -681,6 +636,28 @@
       <g:internal_label>['Lærermøder','Horsens']</g:internal_label>
     </item>
 <item>
+      <g:id>SOJ-270001</g:id>
+      <g:title><![CDATA[09.01.27 - Yogadag]]></g:title>
+      <g:description><![CDATA[Oplev en inspirerende yogadag i Horsens. Prøv forskellige yogaformer og meditation, og find ro, balance og velvære hos FOF Sydøstjylland.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydoestjylland/yogadag?holdnr=270001</g:link>
+      <g:image_link>https://www.fof.dk/media/5rpojrko/yogadag-0901.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>330.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydøstjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Yoga</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Horsens</g:custom_label_4>
+      <g:start_date>2027-01-09T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Yogadag 2026</g:custom_label_3>
+      <g:internal_label>['Yogadag 2026','Gaveidéer','Horsens']</g:internal_label>
+    </item>
+<item>
       <g:id>SOJ-272455</g:id>
       <g:title><![CDATA[Winther Walk ]]></g:title>
       <g:description><![CDATA[Oplev en guidet vintervandring i Tønballe Skov nær Horsens og Vejle. Find ro, mental klarhed og nærvær gennem mindfulness i naturen.]]></g:description>
@@ -830,6 +807,27 @@
       <g:internal_label>['Nyhed','Workshops','Vejle']</g:internal_label>
     </item>
 <item>
+      <g:id>SOJ-270544</g:id>
+      <g:title><![CDATA[Porcelænsmaling - Hensyn]]></g:title>
+      <g:description><![CDATA[Lær porcelænsmaling og kreative maleteknikker i Horsens. Et inspirerende kursus med fokus på billedkunst, personlig stil og kreative udtryk.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydoestjylland/porcelaensmaling-hensyn?holdnr=270544</g:link>
+      <g:image_link>https://www.fof.dk/media/ivrkuc4e/porcelaensmaling.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1590.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydøstjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Kreative kurser &gt; Malekurser</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Kreative kurser</g:custom_label_1>
+      <g:custom_label_2>Malekurser</g:custom_label_2>
+      <g:custom_label_4>Horsens</g:custom_label_4>
+      <g:start_date>2027-01-18T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Horsens']</g:internal_label>
+    </item>
+<item>
       <g:id>SOJ-270043</g:id>
       <g:title><![CDATA[STEP - for begyndere og letøvede]]></g:title>
       <g:description><![CDATA[Steptræning i Horsens hos FOF. Energifyldt step hold med musik, kondition og styrke. Få pulsen op og oplev sjov holdtræning i et aktivt fællesskab.]]></g:description>
@@ -850,27 +848,6 @@
       <g:start_date>2027-01-18T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Sommer</g:custom_label_3>
       <g:internal_label>['Sommer','Horsens']</g:internal_label>
-    </item>
-<item>
-      <g:id>SOJ-270544</g:id>
-      <g:title><![CDATA[Porcelænsmaling - Hensyn]]></g:title>
-      <g:description><![CDATA[Lær porcelænsmaling og kreative maleteknikker i Horsens. Et inspirerende kursus med fokus på billedkunst, personlig stil og kreative udtryk.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-sydoestjylland/porcelaensmaling-hensyn?holdnr=270544</g:link>
-      <g:image_link>https://www.fof.dk/media/ivrkuc4e/porcelaensmaling.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1590.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Sydøstjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Kreative kurser &gt; Malekurser</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Kreative kurser</g:custom_label_1>
-      <g:custom_label_2>Malekurser</g:custom_label_2>
-      <g:custom_label_4>Horsens</g:custom_label_4>
-      <g:start_date>2027-01-18T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Horsens']</g:internal_label>
     </item>
 <item>
       <g:id>SOJ-270245</g:id>
@@ -999,27 +976,6 @@
       <g:custom_label_4>Vejle</g:custom_label_4>
       <g:start_date>2027-01-19T00:00:00.000Z</g:start_date>
       <g:internal_label>['Vejle']</g:internal_label>
-    </item>
-<item>
-      <g:id>SOJ-270314</g:id>
-      <g:title><![CDATA[Fransk Let øvet A2]]></g:title>
-      <g:description><![CDATA[Lær fransk på A2-niveau i Skanderborg. FOF tilbyder franskundervisning for voksne med fokus på samtale, ordforråd, udtale og praktisk sprogbrug i hverdagen og på rejser.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-sydoestjylland/fransk-a2?holdnr=270314</g:link>
-      <g:image_link>https://www.fof.dk/media/uzkiq5km/fransk-a1plus-fof-sydoestjylland-5.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1210.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Sydøstjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Sprog &gt; Fransk</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Sprog</g:custom_label_1>
-      <g:custom_label_2>Fransk</g:custom_label_2>
-      <g:custom_label_4>Horsens</g:custom_label_4>
-      <g:start_date>2027-01-20T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Horsens']</g:internal_label>
     </item>
 <item>
       <g:id>SOJ-270341</g:id>
@@ -1706,6 +1662,27 @@
       <g:internal_label>['Gaveidéer','Horsens']</g:internal_label>
     </item>
 <item>
+      <g:id>SOJ-270314</g:id>
+      <g:title><![CDATA[Fransk Let øvet A2]]></g:title>
+      <g:description><![CDATA[Lær fransk på A2-niveau i Skanderborg. FOF tilbyder franskundervisning for voksne med fokus på samtale, ordforråd, udtale og praktisk sprogbrug i hverdagen og på rejser.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydoestjylland/fransk-a2?holdnr=270314</g:link>
+      <g:image_link>https://www.fof.dk/media/uzkiq5km/fransk-a1plus-fof-sydoestjylland-5.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1210.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydøstjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Sprog &gt; Fransk</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Sprog</g:custom_label_1>
+      <g:custom_label_2>Fransk</g:custom_label_2>
+      <g:custom_label_4>Horsens</g:custom_label_4>
+      <g:start_date>2027-02-03T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Horsens']</g:internal_label>
+    </item>
+<item>
       <g:id>SOJ-270300</g:id>
       <g:title><![CDATA[Engelsk Øvet til rutineret B2]]></g:title>
       <g:description><![CDATA[Løft dit engelske til B2–C1. Få flydende sprog, større ordforråd og stærke mundtlige og skriftlige færdigheder i trygge rammer. Tilmeld dig et øvet hold hos FOF.]]></g:description>
@@ -1746,6 +1723,28 @@
       <g:custom_label_4>Horsens</g:custom_label_4>
       <g:start_date>2027-02-04T00:00:00.000Z</g:start_date>
       <g:internal_label>['Horsens']</g:internal_label>
+    </item>
+<item>
+      <g:id>SOJ-270297</g:id>
+      <g:title><![CDATA[Smag på historien - voksen/barn]]></g:title>
+      <g:description><![CDATA[Oplev Rumford Challenge på Fængselsmuseet i Horsens. Lav historisk suppe, dyst som familie, og find ud af, hvem der laver den bedste Rumfordsuppe. Tilmeld jer hos FOF.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydoestjylland/mad-faengslet?holdnr=270297</g:link>
+      <g:image_link>https://www.fof.dk/media/mbln0111/madlavning-voksen-barn-fof-horsens.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>300.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydøstjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Familie, børn og unge &gt; Madlavning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Familie, børn og unge</g:custom_label_1>
+      <g:custom_label_2>Madlavning</g:custom_label_2>
+      <g:custom_label_4>Horsens</g:custom_label_4>
+      <g:start_date>2027-02-04T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Nyhed</g:custom_label_3>
+      <g:internal_label>['Nyhed','Fængselsmuseet','Horsens']</g:internal_label>
     </item>
 <item>
       <g:id>SOJ-270717</g:id>
@@ -1880,6 +1879,28 @@
       <g:internal_label>['Nyhed','Gaveidéer','Horsens']</g:internal_label>
     </item>
 <item>
+      <g:id>SOJ-270706</g:id>
+      <g:title><![CDATA[Michelangelos TOP- hemmelighed]]></g:title>
+      <g:description><![CDATA[Kom med til et spændende foredrag om Michelangelo i Horsens. Oplev mysterierne bag Adams skabelse og Det Sixtinske Kapel. Tilmeld dig hos FOF.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydoestjylland/kunstforedrag-michelangelo-s-top-hemmelighed?holdnr=270706</g:link>
+      <g:image_link>https://www.fof.dk/media/mpem3qgl/katarina-tuffveson.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>50.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydøstjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Foredrag, debat og højskoler &gt; Kultur og livsfortællinger</g:product_type>
+      <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
+      <g:custom_label_1>Kultur og livsfortællinger</g:custom_label_1>
+      <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Horsens</g:custom_label_4>
+      <g:start_date>2027-02-11T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Nyhed</g:custom_label_3>
+      <g:internal_label>['Nyhed','Horsens']</g:internal_label>
+    </item>
+<item>
       <g:id>SOJ-270264</g:id>
       <g:title><![CDATA[En middag i Rom]]></g:title>
       <g:description><![CDATA[Lær at lave autentisk romersk mad på et madlavningskursus i Horsens. Oplev klassiske retter fra Rom og få inspiration til italiensk madlavning.]]></g:description>
@@ -1922,6 +1943,27 @@
       <g:start_date>2027-02-22T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Nyhed</g:custom_label_3>
       <g:internal_label>['Nyhed','Juelsminde']</g:internal_label>
+    </item>
+<item>
+      <g:id>SOJ-274628</g:id>
+      <g:title><![CDATA[Løget Gospelkor]]></g:title>
+      <g:description><![CDATA[Syng med i gospelkor i Løget! Oplev fællesskab, rytme og sangglæde. Ingen krav – alle kan deltage. Øv mandag aften med korleder Lissi Winther hos FOF.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydoestjylland/loeget-gospelkor?holdnr=274628</g:link>
+      <g:image_link>https://www.fof.dk/media/ezmiaj41/kor.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>900.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydøstjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Musik og sang &gt; Kor og fællessang</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Musik og sang</g:custom_label_1>
+      <g:custom_label_2>Kor og fællessang</g:custom_label_2>
+      <g:custom_label_4>Vejle</g:custom_label_4>
+      <g:start_date>2027-02-22T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Vejle']</g:internal_label>
     </item>
 <item>
       <g:id>SOJ-270700</g:id>
@@ -2295,6 +2337,27 @@
       <g:internal_label>['Gaveidéer','Vejle']</g:internal_label>
     </item>
 <item>
+      <g:id>SOJ-270715</g:id>
+      <g:title><![CDATA[Om at være pårørende til en syg ]]></g:title>
+      <g:description><![CDATA[Oplev Maria Månson i Horsens og hør om livet som pårørende til en syg. Et nærværende foredrag med afsæt i podcasten Din Hånd i Min om omsorg, egenomsorg og sygdom i familien.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydoestjylland/om-at-vaere-paaroerende-til-en-syg?holdnr=270715</g:link>
+      <g:image_link>https://www.fof.dk/media/uxxlbruf/maria-maanson-2.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>100.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydøstjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type></g:product_type>
+      <g:custom_label_0></g:custom_label_0>
+      <g:custom_label_1></g:custom_label_1>
+      <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Horsens</g:custom_label_4>
+      <g:start_date>2027-03-11T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Horsens']</g:internal_label>
+    </item>
+<item>
       <g:id>SOJ-274257</g:id>
       <g:title><![CDATA[Italienske bælgfrugter]]></g:title>
       <g:description><![CDATA[Lær at lave italiensk mad med linser, bønner og kikærter på et hyggeligt madkursus i Vejle. Få opskrifter og inspiration til grøn madlavning. Tilmeld dig!]]></g:description>
@@ -2315,27 +2378,6 @@
       <g:start_date>2027-03-11T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Gaveidéer</g:custom_label_3>
       <g:internal_label>['Gaveidéer','Vejle']</g:internal_label>
-    </item>
-<item>
-      <g:id>SOJ-270715</g:id>
-      <g:title><![CDATA[Om at være pårørende til en syg ]]></g:title>
-      <g:description><![CDATA[Oplev Maria Månson i Horsens og hør om livet som pårørende til en syg. Et nærværende foredrag med afsæt i podcasten Din Hånd i Min om omsorg, egenomsorg og sygdom i familien.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-sydoestjylland/om-at-vaere-paaroerende-til-en-syg?holdnr=270715</g:link>
-      <g:image_link>https://www.fof.dk/media/uxxlbruf/maria-maanson-2.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>100.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Sydøstjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type></g:product_type>
-      <g:custom_label_0></g:custom_label_0>
-      <g:custom_label_1></g:custom_label_1>
-      <g:custom_label_2></g:custom_label_2>
-      <g:custom_label_4>Horsens</g:custom_label_4>
-      <g:start_date>2027-03-11T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Horsens']</g:internal_label>
     </item>
 <item>
       <g:id>SOJ-271701</g:id>
@@ -2748,6 +2790,28 @@
       <g:start_date>2027-04-23T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Nyhed</g:custom_label_3>
       <g:internal_label>['Nyhed','Workshops','Gaveidéer','Vejle']</g:internal_label>
+    </item>
+<item>
+      <g:id>SOJ-270231</g:id>
+      <g:title><![CDATA[Mal dine drømme]]></g:title>
+      <g:description><![CDATA[Udforsk dine drømme gennem intuitiv maling, kreativ fordybelse og nærvær. Kreativt malekursus i Horsens for voksne – ingen erfaring nødvendig.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydoestjylland/mal-dine-droemme?holdnr=270231</g:link>
+      <g:image_link>https://www.fof.dk/media/uqqopvsi/mal-dine-droemme.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>420.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydøstjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Kreative kurser &gt; Malekurser</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Kreative kurser</g:custom_label_1>
+      <g:custom_label_2>Malekurser</g:custom_label_2>
+      <g:custom_label_4>Horsens</g:custom_label_4>
+      <g:start_date>2027-04-24T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Workshops</g:custom_label_3>
+      <g:internal_label>['Workshops','Horsens']</g:internal_label>
     </item>
 <item>
       <g:id>SOJ-272451</g:id>
