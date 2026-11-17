@@ -112,8 +112,8 @@
       <g:custom_label_2>Pilates</g:custom_label_2>
       <g:custom_label_4>Randers</g:custom_label_4>
       <g:start_date>2026-11-24T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Randers</g:custom_label_3>
-      <g:internal_label>['Randers','Motion','Randers C']</g:internal_label>
+      <g:custom_label_3>Starter snart (4 uger)</g:custom_label_3>
+      <g:internal_label>['Starter snart (4 uger)','Randers','Motion','Randers C']</g:internal_label>
     </item>
 <item>
       <g:id>RFMV-621855</g:id>
@@ -244,8 +244,8 @@
       <g:custom_label_2>Pilates</g:custom_label_2>
       <g:custom_label_4>Randers</g:custom_label_4>
       <g:start_date>2026-12-01T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Randers</g:custom_label_3>
-      <g:internal_label>['Randers','Motion','Randers C']</g:internal_label>
+      <g:custom_label_3>Starter snart (4 uger)</g:custom_label_3>
+      <g:internal_label>['Starter snart (4 uger)','Randers','Motion','Randers C']</g:internal_label>
     </item>
 <item>
       <g:id>RFMV-620562</g:id>
@@ -310,8 +310,8 @@
       <g:custom_label_2>Bagning og søde sager</g:custom_label_2>
       <g:custom_label_4>Randers</g:custom_label_4>
       <g:start_date>2026-12-05T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Madlavning</g:custom_label_3>
-      <g:internal_label>['Madlavning','Randers NØ']</g:internal_label>
+      <g:custom_label_3>Starter snart (4 uger)</g:custom_label_3>
+      <g:internal_label>['Starter snart (4 uger)','1 dags kursus','Madlavning','Randers','Randers NØ']</g:internal_label>
     </item>
 <item>
       <g:id>RFMV-621417</g:id>
@@ -355,7 +355,7 @@
       <g:custom_label_4>Randers</g:custom_label_4>
       <g:start_date>2026-12-18T00:00:00.000Z</g:start_date>
       <g:custom_label_3>1 dags kursus</g:custom_label_3>
-      <g:internal_label>['1 dags kursus','Nyhed','Randers','Motion','Randers C']</g:internal_label>
+      <g:internal_label>['1 dags kursus','Starter snart (4 uger)','Nyhed','Randers','Motion','Randers C']</g:internal_label>
     </item>
 <item>
       <g:id>RFMV-621111</g:id>
@@ -667,6 +667,28 @@
       <g:internal_label>['Viborg']</g:internal_label>
     </item>
 <item>
+      <g:id>RFMV-710441</g:id>
+      <g:title><![CDATA[Tysk let øvede]]></g:title>
+      <g:description><![CDATA[Vil du gerne lære eller forbedre dine sprogkundskaber inden for tysk? Tag med på vores sproghold i Randers eller Viborg. Læs om holdene, datoer og din underviser på hjemmesiden hos FOF Aftenskolen.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-randers-favrskov-mariagerfjord-viborg/tysk?holdnr=710441</g:link>
+      <g:image_link>https://www.fof.dk/media/f3qfmnk4/schone-sachen-street-sign-by-markus-spiske-via-unsplash-web.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1295.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Randers-Favrskov-Mariagerfjord-Viborg</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Sprog &gt; Tysk</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Sprog</g:custom_label_1>
+      <g:custom_label_2>Tysk</g:custom_label_2>
+      <g:custom_label_4>Randers</g:custom_label_4>
+      <g:start_date>2027-01-11T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Randers</g:custom_label_3>
+      <g:internal_label>['Randers','Randers C']</g:internal_label>
+    </item>
+<item>
       <g:id>RFMV-710530</g:id>
       <g:title><![CDATA[Sy alt det sjove]]></g:title>
       <g:description><![CDATA[Sy dit eget tøj efter mønster, eller redesign en klud fra genbrug. Få hjælp til nye sy-teknikker på dette kursus i Randers.]]></g:description>
@@ -687,6 +709,28 @@
       <g:start_date>2027-01-11T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Nyhed</g:custom_label_3>
       <g:internal_label>['Nyhed','Randers','Randers C']</g:internal_label>
+    </item>
+<item>
+      <g:id>RFMV-710404</g:id>
+      <g:title><![CDATA[Engelsk let øvede]]></g:title>
+      <g:description><![CDATA[Til Ewas undervisning på FOF Aftenskolen i Randers kommer du til at opbygge dit ordforråd og blive bedre til at tale og forstå engelsk. Det er et rum, hvor du øver dig i det du allerede kan sammen med andre.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-randers-favrskov-mariagerfjord-viborg/engelsk?holdnr=710404</g:link>
+      <g:image_link>https://www.fof.dk/media/yesdpael/engelsk-ewa-skriver-paa-tavlen.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1295.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Randers-Favrskov-Mariagerfjord-Viborg</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Sprog &gt; Engelsk</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Sprog</g:custom_label_1>
+      <g:custom_label_2>Engelsk</g:custom_label_2>
+      <g:custom_label_4>Randers</g:custom_label_4>
+      <g:start_date>2027-01-11T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Randers</g:custom_label_3>
+      <g:internal_label>['Randers','Randers C']</g:internal_label>
     </item>
 <item>
       <g:id>RFMV-715564</g:id>
@@ -775,6 +819,74 @@
       <g:start_date>2027-01-12T00:00:00.000Z</g:start_date>
       <g:custom_label_3>FVU</g:custom_label_3>
       <g:internal_label>['FVU','Randers','Randers C']</g:internal_label>
+    </item>
+<item>
+      <g:id>RFMV-710412</g:id>
+      <g:title><![CDATA[Spansk øvede med Tommy]]></g:title>
+      <g:description><![CDATA[Drømmer du om at kunne tale spansk på rejsen eller bare lære et af verdens mest udbredte sprog helt fra bunden? 
+På FOF aftenskolen i Randers og Viborg får du en tryg og motiverende undervisning, så du kan begynde - eller blive endnu bedre til at forstå og bruge spansk i hverdagsnære situationer.
+]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-randers-favrskov-mariagerfjord-viborg/spansk?holdnr=710412</g:link>
+      <g:image_link>https://www.fof.dk/media/tnblkylx/spansk-fortov-cafe-sommer.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1295.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Randers-Favrskov-Mariagerfjord-Viborg</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Sprog &gt; Spansk</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Sprog</g:custom_label_1>
+      <g:custom_label_2>Spansk</g:custom_label_2>
+      <g:custom_label_4>Randers</g:custom_label_4>
+      <g:start_date>2027-01-12T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Randers</g:custom_label_3>
+      <g:internal_label>['Randers','Randers C']</g:internal_label>
+    </item>
+<item>
+      <g:id>RFMV-710401</g:id>
+      <g:title><![CDATA[Engelsk Advanced]]></g:title>
+      <g:description><![CDATA[Til Ewas undervisning på FOF Aftenskolen i Randers kommer du til at opbygge dit ordforråd og blive bedre til at tale og forstå engelsk. Det er et rum, hvor du øver dig i det du allerede kan sammen med andre.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-randers-favrskov-mariagerfjord-viborg/engelsk?holdnr=710401</g:link>
+      <g:image_link>https://www.fof.dk/media/yesdpael/engelsk-ewa-skriver-paa-tavlen.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1295.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Randers-Favrskov-Mariagerfjord-Viborg</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Sprog &gt; Engelsk</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Sprog</g:custom_label_1>
+      <g:custom_label_2>Engelsk</g:custom_label_2>
+      <g:custom_label_4>Randers</g:custom_label_4>
+      <g:start_date>2027-01-12T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Randers</g:custom_label_3>
+      <g:internal_label>['Randers','Randers C']</g:internal_label>
+    </item>
+<item>
+      <g:id>RFMV-710432</g:id>
+      <g:title><![CDATA[Fransk let øvede]]></g:title>
+      <g:description><![CDATA[Du er velkommen på et sprogkursus i fransk i Randers. Vi har flere niveauer, hvor du kan lære det smukke sprog at kende, fx med henblik på en rejse som turist, til hverdag eller arbejde.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-randers-favrskov-mariagerfjord-viborg/fransk?holdnr=710432</g:link>
+      <g:image_link>https://www.fof.dk/media/2indhqli/didier-provost-v8ibdspxo7u-unsplash.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1295.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Randers-Favrskov-Mariagerfjord-Viborg</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Sprog &gt; Fransk</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Sprog</g:custom_label_1>
+      <g:custom_label_2>Fransk</g:custom_label_2>
+      <g:custom_label_4>Randers</g:custom_label_4>
+      <g:start_date>2027-01-12T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Randers</g:custom_label_3>
+      <g:internal_label>['Randers','Randers C']</g:internal_label>
     </item>
 <item>
       <g:id>RFMV-715541</g:id>
@@ -1371,7 +1483,7 @@
       <g:custom_label_4>Randers</g:custom_label_4>
       <g:start_date>2027-02-01T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Nyhed</g:custom_label_3>
-      <g:internal_label>['Nyhed','Mindfulness / personlig udvikling','Randers C']</g:internal_label>
+      <g:internal_label>['Nyhed','Mindfulness / personlig udvikling','Randers','Randers C']</g:internal_label>
     </item>
 <item>
       <g:id>RFMV-711522</g:id>
@@ -1615,6 +1727,30 @@ Du lærer at lave dine egne mønstre]]></g:description>
       <g:start_date>2027-02-23T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Mariagerfjord</g:custom_label_3>
       <g:internal_label>['Mariagerfjord','Nyhed','Randers','1 dags kursus','Mariager']</g:internal_label>
+    </item>
+<item>
+      <g:id>RFMV-710415</g:id>
+      <g:title><![CDATA[Spansk til rejsebrug]]></g:title>
+      <g:description><![CDATA[Drømmer du om at kunne tale spansk på rejsen eller bare lære et af verdens mest udbredte sprog helt fra bunden? 
+På FOF aftenskolen i Randers og Viborg får du en tryg og motiverende undervisning, så du kan begynde - eller blive endnu bedre til at forstå og bruge spansk i hverdagsnære situationer.
+]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-randers-favrskov-mariagerfjord-viborg/spansk?holdnr=710415</g:link>
+      <g:image_link>https://www.fof.dk/media/tnblkylx/spansk-fortov-cafe-sommer.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>900.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Randers-Favrskov-Mariagerfjord-Viborg</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Sprog &gt; Spansk</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Sprog</g:custom_label_1>
+      <g:custom_label_2>Spansk</g:custom_label_2>
+      <g:custom_label_4>Randers</g:custom_label_4>
+      <g:start_date>2027-02-23T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Randers</g:custom_label_3>
+      <g:internal_label>['Randers','Randers C']</g:internal_label>
     </item>
 <item>
       <g:id>RFMV-718801</g:id>

@@ -661,6 +661,7 @@
       <g:custom_label_2>Yoga</g:custom_label_2>
       <g:custom_label_4>Ringsted</g:custom_label_4>
       <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Ringsted</g:custom_label_3>
       <g:internal_label>['Ringsted']</g:internal_label>
     </item>
 <item>
@@ -682,8 +683,8 @@
       <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4>Næstved</g:custom_label_4>
       <g:start_date>2027-01-26T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Foredrag</g:custom_label_3>
-      <g:internal_label>['Foredrag','Næstved']</g:internal_label>
+      <g:custom_label_3>Næstved</g:custom_label_3>
+      <g:internal_label>['Næstved','Foredrag']</g:internal_label>
     </item>
 <item>
       <g:id>SVS-225027</g:id>
@@ -725,8 +726,8 @@
       <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4>Slagelse</g:custom_label_4>
       <g:start_date>2027-01-28T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Foredrag</g:custom_label_3>
-      <g:internal_label>['Foredrag','Slagelse']</g:internal_label>
+      <g:custom_label_3>Slagelse</g:custom_label_3>
+      <g:internal_label>['Slagelse','Foredrag']</g:internal_label>
     </item>
 <item>
       <g:id>SVS-680526</g:id>
@@ -791,8 +792,8 @@
       <g:custom_label_2>Madteknikker</g:custom_label_2>
       <g:custom_label_4>Slagelse</g:custom_label_4>
       <g:start_date>2027-02-01T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Familie</g:custom_label_3>
-      <g:internal_label>['Familie','Slagelse']</g:internal_label>
+      <g:custom_label_3>Slagelse</g:custom_label_3>
+      <g:internal_label>['Slagelse','Familie']</g:internal_label>
     </item>
 <item>
       <g:id>SVS-807027</g:id>
@@ -813,8 +814,8 @@
       <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4>Næstved</g:custom_label_4>
       <g:start_date>2027-02-02T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Foredrag</g:custom_label_3>
-      <g:internal_label>['Foredrag','Næstved']</g:internal_label>
+      <g:custom_label_3>Næstved</g:custom_label_3>
+      <g:internal_label>['Næstved','Foredrag']</g:internal_label>
     </item>
 <item>
       <g:id>SVS-195027</g:id>
@@ -857,6 +858,7 @@
       <g:custom_label_2>Asiatisk mad</g:custom_label_2>
       <g:custom_label_4>Slagelse</g:custom_label_4>
       <g:start_date>2027-02-05T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Slagelse</g:custom_label_3>
       <g:internal_label>['Slagelse']</g:internal_label>
     </item>
 <item>
@@ -878,8 +880,8 @@
       <g:custom_label_2>Vegetarisk og vegansk</g:custom_label_2>
       <g:custom_label_4>Ringsted</g:custom_label_4>
       <g:start_date>2027-02-06T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Sund mad</g:custom_label_3>
-      <g:internal_label>['Sund mad','Tema - Bæredygtighed','Ringsted']</g:internal_label>
+      <g:custom_label_3>Ringsted</g:custom_label_3>
+      <g:internal_label>['Ringsted','Sund mad','Tema - Bæredygtighed']</g:internal_label>
     </item>
 <item>
       <g:id>SVS-685027</g:id>
@@ -900,6 +902,7 @@
       <g:custom_label_2>Asiatisk mad</g:custom_label_2>
       <g:custom_label_4>Ringsted</g:custom_label_4>
       <g:start_date>2027-02-06T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Ringsted</g:custom_label_3>
       <g:internal_label>['Ringsted']</g:internal_label>
     </item>
 <item>
@@ -921,8 +924,8 @@
       <g:custom_label_2>Vegetarisk og vegansk</g:custom_label_2>
       <g:custom_label_4>Næstved</g:custom_label_4>
       <g:start_date>2027-02-07T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Sund mad</g:custom_label_3>
-      <g:internal_label>['Sund mad','Tema - Bæredygtighed','Næstved']</g:internal_label>
+      <g:custom_label_3>Næstved</g:custom_label_3>
+      <g:internal_label>['Næstved','Sund mad','Tema - Bæredygtighed']</g:internal_label>
     </item>
 <item>
       <g:id>SVS-885027</g:id>
@@ -943,6 +946,7 @@
       <g:custom_label_2>Asiatisk mad</g:custom_label_2>
       <g:custom_label_4>Næstved</g:custom_label_4>
       <g:start_date>2027-02-07T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Næstved</g:custom_label_3>
       <g:internal_label>['Næstved']</g:internal_label>
     </item>
 <item>
@@ -986,8 +990,8 @@
       <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4>Sorø</g:custom_label_4>
       <g:start_date>2027-02-11T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Foredrag</g:custom_label_3>
-      <g:internal_label>['Foredrag','Sorø']</g:internal_label>
+      <g:custom_label_3>Sorø</g:custom_label_3>
+      <g:internal_label>['Sorø','Foredrag']</g:internal_label>
     </item>
 <item>
       <g:id>SVS-185127</g:id>
@@ -1008,8 +1012,8 @@
       <g:custom_label_2>Vegetarisk og vegansk</g:custom_label_2>
       <g:custom_label_4>Slagelse</g:custom_label_4>
       <g:start_date>2027-02-12T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Sund mad</g:custom_label_3>
-      <g:internal_label>['Sund mad','Tema - Bæredygtighed','Slagelse']</g:internal_label>
+      <g:custom_label_3>Slagelse</g:custom_label_3>
+      <g:internal_label>['Slagelse','Sund mad','Tema - Bæredygtighed']</g:internal_label>
     </item>
 <item>
       <g:id>SVS-865727</g:id>
@@ -1030,8 +1034,8 @@
       <g:custom_label_2>Håndarbejde</g:custom_label_2>
       <g:custom_label_4>Næstved</g:custom_label_4>
       <g:start_date>2027-02-20T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Endagskurser</g:custom_label_3>
-      <g:internal_label>['Endagskurser','Næstved']</g:internal_label>
+      <g:custom_label_3>Næstved</g:custom_label_3>
+      <g:internal_label>['Næstved','Endagskurser']</g:internal_label>
     </item>
 <item>
       <g:id>SVS-407027</g:id>
@@ -1074,6 +1078,7 @@
       <g:custom_label_2>Yoga</g:custom_label_2>
       <g:custom_label_4>Slagelse</g:custom_label_4>
       <g:start_date>2027-02-26T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Slagelse</g:custom_label_3>
       <g:internal_label>['Slagelse']</g:internal_label>
     </item>
 <item>
@@ -1095,6 +1100,7 @@
       <g:custom_label_2>Bagning og søde sager</g:custom_label_2>
       <g:custom_label_4>Slagelse</g:custom_label_4>
       <g:start_date>2027-02-27T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Slagelse</g:custom_label_3>
       <g:internal_label>['Slagelse']</g:internal_label>
     </item>
 <item>
@@ -1116,8 +1122,8 @@
       <g:custom_label_2>Bagning og søde sager</g:custom_label_2>
       <g:custom_label_4>Slagelse</g:custom_label_4>
       <g:start_date>2027-02-27T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Familie</g:custom_label_3>
-      <g:internal_label>['Familie','Efterår','Slagelse']</g:internal_label>
+      <g:custom_label_3>Slagelse</g:custom_label_3>
+      <g:internal_label>['Slagelse','Familie','Efterår']</g:internal_label>
     </item>
 <item>
       <g:id>SVS-186327</g:id>
@@ -1138,8 +1144,8 @@
       <g:custom_label_2>Bagning og søde sager</g:custom_label_2>
       <g:custom_label_4>Slagelse</g:custom_label_4>
       <g:start_date>2027-02-28T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Efterår</g:custom_label_3>
-      <g:internal_label>['Efterår','Slagelse']</g:internal_label>
+      <g:custom_label_3>Slagelse</g:custom_label_3>
+      <g:internal_label>['Slagelse','Efterår']</g:internal_label>
     </item>
 <item>
       <g:id>SVS-186227</g:id>
@@ -1160,8 +1166,8 @@
       <g:custom_label_2>Bagning og søde sager</g:custom_label_2>
       <g:custom_label_4>Slagelse</g:custom_label_4>
       <g:start_date>2027-02-28T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Efterår</g:custom_label_3>
-      <g:internal_label>['Efterår','Slagelse']</g:internal_label>
+      <g:custom_label_3>Slagelse</g:custom_label_3>
+      <g:internal_label>['Slagelse','Efterår']</g:internal_label>
     </item>
 <item>
       <g:id>SVS-105227</g:id>
@@ -1204,8 +1210,8 @@
       <g:custom_label_2>Madteknikker</g:custom_label_2>
       <g:custom_label_4>Slagelse</g:custom_label_4>
       <g:start_date>2027-03-01T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Familie</g:custom_label_3>
-      <g:internal_label>['Familie','Slagelse']</g:internal_label>
+      <g:custom_label_3>Slagelse</g:custom_label_3>
+      <g:internal_label>['Slagelse','Familie']</g:internal_label>
     </item>
 <item>
       <g:id>SVS-805027</g:id>
@@ -1314,8 +1320,8 @@
       <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4>Slagelse</g:custom_label_4>
       <g:start_date>2027-03-11T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Foredrag</g:custom_label_3>
-      <g:internal_label>['Foredrag','Slagelse']</g:internal_label>
+      <g:custom_label_3>Slagelse</g:custom_label_3>
+      <g:internal_label>['Slagelse','Foredrag']</g:internal_label>
     </item>
 <item>
       <g:id>SVS-166927</g:id>
@@ -1336,8 +1342,8 @@
       <g:custom_label_2>Håndarbejde</g:custom_label_2>
       <g:custom_label_4>Slagelse</g:custom_label_4>
       <g:start_date>2027-03-13T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Endagskurser</g:custom_label_3>
-      <g:internal_label>['Endagskurser','Slagelse']</g:internal_label>
+      <g:custom_label_3>Slagelse</g:custom_label_3>
+      <g:internal_label>['Slagelse','Endagskurser']</g:internal_label>
     </item>
 <item>
       <g:id>SVS-167027</g:id>
@@ -1358,8 +1364,8 @@
       <g:custom_label_2>Syning</g:custom_label_2>
       <g:custom_label_4>Slagelse</g:custom_label_4>
       <g:start_date>2027-03-13T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Endagskurser</g:custom_label_3>
-      <g:internal_label>['Endagskurser','Nyhed','Tema - Asien','Slagelse']</g:internal_label>
+      <g:custom_label_3>Slagelse</g:custom_label_3>
+      <g:internal_label>['Slagelse','Endagskurser','Nyhed','Tema - Asien']</g:internal_label>
     </item>
 <item>
       <g:id>SVS-105127</g:id>
@@ -1468,6 +1474,7 @@
       <g:custom_label_2>Asiatisk mad</g:custom_label_2>
       <g:custom_label_4>Slagelse</g:custom_label_4>
       <g:start_date>2027-04-02T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Slagelse</g:custom_label_3>
       <g:internal_label>['Slagelse']</g:internal_label>
     </item>
 <item>
@@ -1511,8 +1518,8 @@
       <g:custom_label_2>Madteknikker</g:custom_label_2>
       <g:custom_label_4>Slagelse</g:custom_label_4>
       <g:start_date>2027-04-05T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Familie</g:custom_label_3>
-      <g:internal_label>['Familie','Slagelse']</g:internal_label>
+      <g:custom_label_3>Slagelse</g:custom_label_3>
+      <g:internal_label>['Slagelse','Familie']</g:internal_label>
     </item>
 <item>
       <g:id>SVS-105427</g:id>
@@ -1555,8 +1562,8 @@
       <g:custom_label_2>Asiatisk mad</g:custom_label_2>
       <g:custom_label_4>Slagelse</g:custom_label_4>
       <g:start_date>2027-04-09T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Tema - Asien</g:custom_label_3>
-      <g:internal_label>['Tema - Asien','Slagelse']</g:internal_label>
+      <g:custom_label_3>Slagelse</g:custom_label_3>
+      <g:internal_label>['Slagelse','Tema - Asien']</g:internal_label>
     </item>
 <item>
       <g:id>SVS-305127</g:id>
@@ -1599,6 +1606,7 @@
       <g:custom_label_2>Asiatisk mad</g:custom_label_2>
       <g:custom_label_4>Ringsted</g:custom_label_4>
       <g:start_date>2027-04-16T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Ringsted</g:custom_label_3>
       <g:internal_label>['Ringsted']</g:internal_label>
     </item>
 <item>
@@ -1620,8 +1628,8 @@
       <g:custom_label_2>Håndarbejde</g:custom_label_2>
       <g:custom_label_4>Ringsted</g:custom_label_4>
       <g:start_date>2027-04-17T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Endagskurser</g:custom_label_3>
-      <g:internal_label>['Endagskurser','Ringsted']</g:internal_label>
+      <g:custom_label_3>Ringsted</g:custom_label_3>
+      <g:internal_label>['Ringsted','Endagskurser']</g:internal_label>
     </item>
 <item>
       <g:id>SVS-885327</g:id>
@@ -1642,6 +1650,7 @@
       <g:custom_label_2>Asiatisk mad</g:custom_label_2>
       <g:custom_label_4>Næstved</g:custom_label_4>
       <g:start_date>2027-04-18T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Næstved</g:custom_label_3>
       <g:internal_label>['Næstved']</g:internal_label>
     </item>
 <item>
@@ -1663,8 +1672,8 @@
       <g:custom_label_2>Asiatisk mad</g:custom_label_2>
       <g:custom_label_4>Næstved</g:custom_label_4>
       <g:start_date>2027-04-18T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Tema - Asien</g:custom_label_3>
-      <g:internal_label>['Tema - Asien','Næstved']</g:internal_label>
+      <g:custom_label_3>Næstved</g:custom_label_3>
+      <g:internal_label>['Næstved','Tema - Asien']</g:internal_label>
     </item>
 <item>
       <g:id>SVS-685427</g:id>
@@ -1685,8 +1694,8 @@
       <g:custom_label_2>Asiatisk mad</g:custom_label_2>
       <g:custom_label_4>Ringsted</g:custom_label_4>
       <g:start_date>2027-04-23T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Tema - Asien</g:custom_label_3>
-      <g:internal_label>['Tema - Asien','Ringsted']</g:internal_label>
+      <g:custom_label_3>Ringsted</g:custom_label_3>
+      <g:internal_label>['Ringsted','Tema - Asien']</g:internal_label>
     </item>
 <item>
       <g:id>SVS-186427</g:id>
@@ -1707,8 +1716,8 @@
       <g:custom_label_2>Bagning og søde sager</g:custom_label_2>
       <g:custom_label_4>Slagelse</g:custom_label_4>
       <g:start_date>2027-05-22T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Familie</g:custom_label_3>
-      <g:internal_label>['Familie','Slagelse']</g:internal_label>
+      <g:custom_label_3>Slagelse</g:custom_label_3>
+      <g:internal_label>['Slagelse','Familie']</g:internal_label>
     </item>
 <item>
       <g:id>SVS-186527</g:id>
@@ -1729,8 +1738,8 @@
       <g:custom_label_2>Bagning og søde sager</g:custom_label_2>
       <g:custom_label_4>Slagelse</g:custom_label_4>
       <g:start_date>2027-05-22T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Familie</g:custom_label_3>
-      <g:internal_label>['Familie','Sund mad','Slagelse']</g:internal_label>
+      <g:custom_label_3>Slagelse</g:custom_label_3>
+      <g:internal_label>['Slagelse','Familie','Sund mad']</g:internal_label>
     </item>
 <item>
       <g:id>SVS-185927</g:id>
@@ -1751,6 +1760,7 @@
       <g:custom_label_2>Bagning og søde sager</g:custom_label_2>
       <g:custom_label_4>Slagelse</g:custom_label_4>
       <g:start_date>2027-05-23T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Slagelse</g:custom_label_3>
       <g:internal_label>['Slagelse']</g:internal_label>
     </item>
 <item>
@@ -1772,8 +1782,8 @@
       <g:custom_label_2>Bagning og søde sager</g:custom_label_2>
       <g:custom_label_4>Slagelse</g:custom_label_4>
       <g:start_date>2027-05-23T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Familie</g:custom_label_3>
-      <g:internal_label>['Familie','Efterår','Slagelse']</g:internal_label>
+      <g:custom_label_3>Slagelse</g:custom_label_3>
+      <g:internal_label>['Slagelse','Familie','Efterår']</g:internal_label>
     </item>
 <item>
       <g:id>SVS-705227</g:id>

@@ -50,28 +50,6 @@
       <g:internal_label>['Starter snart','Endagskurser','Køge','Weekend']</g:internal_label>
     </item>
 <item>
-      <g:id>KOE-51248</g:id>
-      <g:title><![CDATA[Bagning for børn og voksne]]></g:title>
-      <g:description><![CDATA[Tag familien med til en hyggelig dag! Kursus i at bage brød, kager og julesmåkager. Lær hvordan du bager, så det smager! På vores bagekursus i Køge og Stenløse garanterer vi at du får hævet dit bageniveau - på hyggeligste vis. Bagekursus for børn og voksne.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koege-bugt/bagning?holdnr=51248</g:link>
-      <g:image_link>https://www.fof.dk/media/y3aeehn0/bagning.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>455.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Køge Bugt</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Madlavning og drikkevarer &gt; Bagning og søde sager</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
-      <g:custom_label_2>Bagning og søde sager</g:custom_label_2>
-      <g:custom_label_4>Køge</g:custom_label_4>
-      <g:start_date>2026-11-21T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Endagskurser</g:custom_label_3>
-      <g:internal_label>['Endagskurser','Køge','Starter snart','Weekend']</g:internal_label>
-    </item>
-<item>
       <g:id>KOE-50906</g:id>
       <g:title><![CDATA[Akvarel - eksperimenterende og abstrakt ]]></g:title>
       <g:description><![CDATA[Giv dig selv en kreativ hobby som gave og mal akvarel: En smuk, vandbaseret farve, du kan tage med dig alle steder.  FOF Køge Bugt har akvarelhold i Køge, Greve, Roskilde og Smørum, så du kan dykke ned i akvarelteknikker og få mange gode akvareltimer. ]]></g:description>
@@ -267,29 +245,7 @@
       <g:custom_label_4>Køge</g:custom_label_4>
       <g:start_date>2026-11-26T00:00:00.000Z</g:start_date>
       <g:custom_label_3>partnerskab køge</g:custom_label_3>
-      <g:internal_label>['partnerskab køge','Køge']</g:internal_label>
-    </item>
-<item>
-      <g:id>KOE-51981</g:id>
-      <g:title><![CDATA[Brink Nordic: julestemning og frokosthygge]]></g:title>
-      <g:description><![CDATA[Kom med FOF Køge Bugt på besøg hos Brink Nordic i Ringsted. Hør historien om den håndlavede glaspynt, nyd en hyggelig frokost og gå på opdagelse i butik og orangeri.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koege-bugt/oplevelsestur-til-brink-nordic-julestemning-og-frokosthygge?holdnr=51981</g:link>
-      <g:image_link>https://www.fof.dk/media/fkdgcpze/oplevelsestur-til-brink-nordic-fof-koege-bugt.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>225.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Køge Bugt</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Rejser, ture og rundvisninger &gt; Rundvisninger</g:product_type>
-      <g:custom_label_0>Rejser, ture og rundvisninger</g:custom_label_0>
-      <g:custom_label_1>Rundvisninger</g:custom_label_1>
-      <g:custom_label_2></g:custom_label_2>
-      <g:custom_label_4></g:custom_label_4>
-      <g:start_date>2026-12-02T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Endagskurser</g:custom_label_3>
-      <g:internal_label>['Endagskurser']</g:internal_label>
+      <g:internal_label>['partnerskab køge','Starter snart','Køge']</g:internal_label>
     </item>
 <item>
       <g:id>KOE-51924</g:id>
@@ -904,8 +860,8 @@
       <g:custom_label_2>Madteknikker</g:custom_label_2>
       <g:custom_label_4>Rønne</g:custom_label_4>
       <g:start_date>2027-01-30T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Weekend</g:custom_label_3>
-      <g:internal_label>['Weekend','Rønne']</g:internal_label>
+      <g:custom_label_3>Endagskurser</g:custom_label_3>
+      <g:internal_label>['Endagskurser','Bornholm','Weekend','Rønne']</g:internal_label>
     </item>
 <item>
       <g:id>KOE-52874</g:id>
@@ -948,7 +904,8 @@
       <g:custom_label_2>Italiensk</g:custom_label_2>
       <g:custom_label_4>Greve</g:custom_label_4>
       <g:start_date>2027-02-01T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Greve']</g:internal_label>
+      <g:custom_label_3>Forår</g:custom_label_3>
+      <g:internal_label>['Forår','Greve']</g:internal_label>
     </item>
 <item>
       <g:id>KOE-53410</g:id>
@@ -1167,7 +1124,8 @@
       <g:custom_label_2>Foto og video</g:custom_label_2>
       <g:custom_label_4>Greve</g:custom_label_4>
       <g:start_date>2027-02-21T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Greve']</g:internal_label>
+      <g:custom_label_3>Forår</g:custom_label_3>
+      <g:internal_label>['Forår','Endagskurser','Greve']</g:internal_label>
     </item>
 <item>
       <g:id>KOE-53430</g:id>
@@ -1672,7 +1630,8 @@
       <g:custom_label_2>Foto og video</g:custom_label_2>
       <g:custom_label_4>Greve</g:custom_label_4>
       <g:start_date>2027-03-14T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Greve']</g:internal_label>
+      <g:custom_label_3>Forår</g:custom_label_3>
+      <g:internal_label>['Forår','Endagskurser','Greve']</g:internal_label>
     </item>
 <item>
       <g:id>KOE-51927</g:id>
@@ -1869,6 +1828,8 @@
       <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4></g:custom_label_4>
       <g:start_date>2027-04-06T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Forår</g:custom_label_3>
+      <g:internal_label>['Forår','Endagskurser']</g:internal_label>
     </item>
 <item>
       <g:id>KOE-53881</g:id>
@@ -2153,7 +2114,8 @@
       <g:custom_label_2>Foto og video</g:custom_label_2>
       <g:custom_label_4>Greve</g:custom_label_4>
       <g:start_date>2027-04-24T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Greve']</g:internal_label>
+      <g:custom_label_3>Forår</g:custom_label_3>
+      <g:internal_label>['Forår','Greve']</g:internal_label>
     </item>
 <item>
       <g:id>KOE-53015</g:id>
@@ -2350,8 +2312,8 @@
       <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4></g:custom_label_4>
       <g:start_date>2027-05-04T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Weekend</g:custom_label_3>
-      <g:internal_label>['Weekend']</g:internal_label>
+      <g:custom_label_3>Forår</g:custom_label_3>
+      <g:internal_label>['Forår','Endagskurser','Weekend']</g:internal_label>
     </item>
 <item>
       <g:id>KOE-53877</g:id>
@@ -2548,6 +2510,8 @@
       <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4></g:custom_label_4>
       <g:start_date>2027-06-06T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Forår</g:custom_label_3>
+      <g:internal_label>['Forår','Endagskurser']</g:internal_label>
     </item>
 <item>
       <g:id>KOE-53885</g:id>
@@ -2568,8 +2532,8 @@
       <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4></g:custom_label_4>
       <g:start_date>2027-06-13T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Weekend</g:custom_label_3>
-      <g:internal_label>['Weekend']</g:internal_label>
+      <g:custom_label_3>Forår</g:custom_label_3>
+      <g:internal_label>['Forår','Endagskurser','Weekend']</g:internal_label>
     </item>
 <item>
       <g:id>KOE-53875</g:id>

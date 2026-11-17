@@ -399,7 +399,7 @@
       <g:custom_label_4>Rødding</g:custom_label_4>
       <g:start_date>2026-12-02T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Foredrag</g:custom_label_3>
-      <g:internal_label>['Foredrag','Vejen','Hold til under 200 kr','Rødding']</g:internal_label>
+      <g:internal_label>['Foredrag','Vejen','Hold til under 200 kr','Starter snart','Rødding']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2625962</g:id>
@@ -644,6 +644,28 @@
       <g:internal_label>['Tønder','Krea','Håndarbejde','Skærbæk']</g:internal_label>
     </item>
 <item>
+      <g:id>SJY-2716250</g:id>
+      <g:title><![CDATA[Maleri, akryl og akvarel]]></g:title>
+      <g:description><![CDATA[Lær akryl- og akvarelmaleri med fokus på teknik, farver og komposition. Få inspiration, udvikl din stil og kom godt videre. Tilmeld dig i dag ]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydjylland/maleri-akryl-og-akvarel?holdnr=2716250</g:link>
+      <g:image_link>https://www.fof.dk/media/rqkn05is/akryl-maleri-0082.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1649.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Kreative kurser &gt; Malekurser</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Kreative kurser</g:custom_label_1>
+      <g:custom_label_2>Malekurser</g:custom_label_2>
+      <g:custom_label_4>Kolding</g:custom_label_4>
+      <g:start_date>2027-01-11T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Krea</g:custom_label_3>
+      <g:internal_label>['Krea','Maleri','Kolding']</g:internal_label>
+    </item>
+<item>
       <g:id>SJY-2711436</g:id>
       <g:title><![CDATA[Lær kunstig intelligens (AI) i praksis]]></g:title>
       <g:description><![CDATA[Lær at bruge ChatGPT, Gemini, Mistral eller andre AI-værktøjer til at skrive, planlægge, udvikle idéer og løse opgaver i hverdagen og på arbejdet. Se mere og tilmeld dig.]]></g:description>
@@ -750,8 +772,8 @@
       <g:custom_label_2>Kor og fællessang</g:custom_label_2>
       <g:custom_label_4>Bække</g:custom_label_4>
       <g:start_date>2027-01-14T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Kor og fællessang</g:custom_label_3>
-      <g:internal_label>['Kor og fællessang','Bække']</g:internal_label>
+      <g:custom_label_3>Vejen</g:custom_label_3>
+      <g:internal_label>['Vejen','Kor og fællessang','Bække']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2715940</g:id>
@@ -884,6 +906,28 @@
       <g:start_date>2027-01-18T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Tønder</g:custom_label_3>
       <g:internal_label>['Tønder','Hensyntagende','Træning i vand','Motion og sundhed']</g:internal_label>
+    </item>
+<item>
+      <g:id>SJY-2715283</g:id>
+      <g:title><![CDATA[Yoga]]></g:title>
+      <g:description><![CDATA[Oplev yoga med blide stræk, styrke, åndedræt og afspænding i Tønder. Kom som du er og find ro i kroppen - alle kan være med. Se mere og tilmeld dig.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydjylland/yoga-annette?holdnr=2715283</g:link>
+      <g:image_link>https://www.fof.dk/media/rmzpczcb/yoga-solhilsen-annette-g-250123-5.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>965.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Yoga</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Tønder</g:custom_label_4>
+      <g:start_date>2027-01-18T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Motion og sundhed</g:custom_label_3>
+      <g:internal_label>['Motion og sundhed','Yoga','Tønder']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2718483</g:id>
@@ -1194,50 +1238,6 @@
       <g:internal_label>['Haderslev','Graviditet og barsel']</g:internal_label>
     </item>
 <item>
-      <g:id>SJY-2719304</g:id>
-      <g:title><![CDATA[Glad bevægelse - Aktiv i aftenskolen]]></g:title>
-      <g:description><![CDATA[Opnå mere styrke, balance og bevægelsesglæde med særligt tilrettelagt bevægelse til god musik i Højer og Skærbæk. Se mere og tilmeld dig.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-sydjylland/glad-bevaegelse-aktiv-i-aftenskolen?holdnr=2719304</g:link>
-      <g:image_link>https://www.fof.dk/media/zuxgek4s/glad-bevaegelse-1.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>450.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Sydjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Styrke- og konditionstræning</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Styrke- og konditionstræning</g:custom_label_2>
-      <g:custom_label_4>Højer</g:custom_label_4>
-      <g:start_date>2027-01-21T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Tønder</g:custom_label_3>
-      <g:internal_label>['Tønder','Styrke- og konditionstræning','Motion og sundhed','Højer']</g:internal_label>
-    </item>
-<item>
-      <g:id>SJY-2719306</g:id>
-      <g:title><![CDATA[Glad bevægelse - Aktiv i aftenskolen]]></g:title>
-      <g:description><![CDATA[Opnå mere styrke, balance og bevægelsesglæde med særligt tilrettelagt bevægelse til god musik i Højer og Skærbæk. Se mere og tilmeld dig.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-sydjylland/glad-bevaegelse-aktiv-i-aftenskolen?holdnr=2719306</g:link>
-      <g:image_link>https://www.fof.dk/media/zuxgek4s/glad-bevaegelse-1.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>450.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Sydjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Styrke- og konditionstræning</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Styrke- og konditionstræning</g:custom_label_2>
-      <g:custom_label_4>Skærbæk</g:custom_label_4>
-      <g:start_date>2027-01-21T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Tønder</g:custom_label_3>
-      <g:internal_label>['Tønder','Styrke- og konditionstræning','Motion og sundhed','Skærbæk']</g:internal_label>
-    </item>
-<item>
       <g:id>SJY-2719435</g:id>
       <g:title><![CDATA[Yoga med hensyn - Aktiv i Aftenskolen]]></g:title>
       <g:description><![CDATA[Blid yoga i Brørup med fokus på tryghed, nærvær og bevægelsesglæde. Et trygt hold for dig, der ikke kan deltage på et almindeligt hold. Se mere og tilmeld dig.]]></g:description>
@@ -1300,8 +1300,8 @@
       <g:custom_label_2>Kor og fællessang</g:custom_label_2>
       <g:custom_label_4>Løgumkloster</g:custom_label_4>
       <g:start_date>2027-01-22T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Kor og fællessang</g:custom_label_3>
-      <g:internal_label>['Kor og fællessang','Jul og nytår','Løgumkloster']</g:internal_label>
+      <g:custom_label_3>Tønder</g:custom_label_3>
+      <g:internal_label>['Tønder','Kor og fællessang','Jul og nytår','Løgumkloster']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2715290</g:id>
@@ -1322,8 +1322,8 @@
       <g:custom_label_2>Yoga</g:custom_label_2>
       <g:custom_label_4>Skærbæk</g:custom_label_4>
       <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Yoga</g:custom_label_3>
-      <g:internal_label>['Yoga','Motion og sundhed','Skærbæk']</g:internal_label>
+      <g:custom_label_3>Tønder</g:custom_label_3>
+      <g:internal_label>['Tønder','Yoga','Motion og sundhed','Skærbæk']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2716405</g:id>
@@ -1476,8 +1476,8 @@
       <g:custom_label_2>Efterfødselstræning</g:custom_label_2>
       <g:custom_label_4>Vejen</g:custom_label_4>
       <g:start_date>2027-01-26T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Graviditet og barsel</g:custom_label_3>
-      <g:internal_label>['Graviditet og barsel','Vejen']</g:internal_label>
+      <g:custom_label_3>Vejen</g:custom_label_3>
+      <g:internal_label>['Vejen','Graviditet og barsel']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2719151</g:id>
@@ -1575,7 +1575,7 @@
       <g:image_link>https://www.fof.dk/media/rmzpczcb/yoga-solhilsen-annette-g-250123-5.jpg?width=1200</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:quantity>1</g:quantity>
-      <g:price>775.00 DKK</g:price>
+      <g:price>579.00 DKK</g:price>
       <g:condition>new</g:condition>
       <g:brand>FOF Sydjylland</g:brand>
       <g:google_product_category>Education</g:google_product_category>
@@ -1718,8 +1718,8 @@
       <g:custom_label_2>Aktiviteter med baby</g:custom_label_2>
       <g:custom_label_4>Haderslev</g:custom_label_4>
       <g:start_date>2027-01-29T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Graviditet og barsel</g:custom_label_3>
-      <g:internal_label>['Graviditet og barsel','Haderslev']</g:internal_label>
+      <g:custom_label_3>Haderslev</g:custom_label_3>
+      <g:internal_label>['Haderslev','Graviditet og barsel']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2715941</g:id>
@@ -1762,8 +1762,8 @@
       <g:custom_label_2>Aktiviteter med baby</g:custom_label_2>
       <g:custom_label_4>Haderslev</g:custom_label_4>
       <g:start_date>2027-01-29T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Graviditet og barsel</g:custom_label_3>
-      <g:internal_label>['Graviditet og barsel','Haderslev']</g:internal_label>
+      <g:custom_label_3>Haderslev</g:custom_label_3>
+      <g:internal_label>['Haderslev','Graviditet og barsel']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2714294</g:id>
@@ -1784,8 +1784,8 @@
       <g:custom_label_2>Aktiviteter med baby</g:custom_label_2>
       <g:custom_label_4>Haderslev</g:custom_label_4>
       <g:start_date>2027-01-29T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Graviditet og barsel</g:custom_label_3>
-      <g:internal_label>['Graviditet og barsel','Haderslev']</g:internal_label>
+      <g:custom_label_3>Haderslev</g:custom_label_3>
+      <g:internal_label>['Haderslev','Graviditet og barsel']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2715293</g:id>
@@ -1806,8 +1806,8 @@
       <g:custom_label_2>Yoga</g:custom_label_2>
       <g:custom_label_4>Skærbæk</g:custom_label_4>
       <g:start_date>2027-01-29T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Yoga</g:custom_label_3>
-      <g:internal_label>['Yoga','Motion og sundhed','Skærbæk']</g:internal_label>
+      <g:custom_label_3>Tønder</g:custom_label_3>
+      <g:internal_label>['Tønder','Yoga','Motion og sundhed','Skærbæk']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2716240</g:id>
@@ -2338,28 +2338,6 @@
       <g:internal_label>['Kolding','Hold til under 200 kr','Håndværk og kunsthåndværk (Kunsthåndværk og DIY)','Krea']</g:internal_label>
     </item>
 <item>
-      <g:id>SJY-2715291</g:id>
-      <g:title><![CDATA[Yoga for alle]]></g:title>
-      <g:description><![CDATA[Yoga i Skærbæk for begyndere og øvede. Lær rolige og varierende øvelser, der styrker kroppen og skaber bedre kontakt mellem krop og sind. Se mere og tilmeld dig.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-sydjylland/yoga-nana?holdnr=2715291</g:link>
-      <g:image_link>https://www.fof.dk/media/gkhnnies/yoga-63089223.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>699.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Sydjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Yoga</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Yoga</g:custom_label_2>
-      <g:custom_label_4>Skærbæk</g:custom_label_4>
-      <g:start_date>2027-03-15T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Yoga</g:custom_label_3>
-      <g:internal_label>['Yoga','Motion og sundhed','Skærbæk']</g:internal_label>
-    </item>
-<item>
       <g:id>SJY-2714116</g:id>
       <g:title><![CDATA[Mor træning og babytummel]]></g:title>
       <g:description><![CDATA[Kom i form efter fødslen sammen med din baby. Træning for mødre med styrkeøvelser, babytummel og hyggeligt fællesskab. Se mere og tilmeld dig.]]></g:description>
@@ -2378,8 +2356,8 @@
       <g:custom_label_2>Efterfødselstræning</g:custom_label_2>
       <g:custom_label_4>Vejen</g:custom_label_4>
       <g:start_date>2027-03-16T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Graviditet og barsel</g:custom_label_3>
-      <g:internal_label>['Graviditet og barsel','Vejen']</g:internal_label>
+      <g:custom_label_3>Vejen</g:custom_label_3>
+      <g:internal_label>['Vejen','Graviditet og barsel']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2710040</g:id>
@@ -2400,8 +2378,8 @@
       <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4>Aabenraa</g:custom_label_4>
       <g:start_date>2027-03-17T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Aabenraa Talks</g:custom_label_3>
-      <g:internal_label>['Aabenraa Talks','Foredrag','Aabenraa']</g:internal_label>
+      <g:custom_label_3>Aabenraa</g:custom_label_3>
+      <g:internal_label>['Aabenraa','Hold til under 200 kr','Aabenraa Talks','Foredrag']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2714286</g:id>
@@ -2424,6 +2402,28 @@
       <g:start_date>2027-03-18T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Haderslev</g:custom_label_3>
       <g:internal_label>['Haderslev','Graviditet og barsel']</g:internal_label>
+    </item>
+<item>
+      <g:id>SJY-2715286</g:id>
+      <g:title><![CDATA[Yoga]]></g:title>
+      <g:description><![CDATA[Oplev yoga med blide stræk, styrke, åndedræt og afspænding i Tønder. Kom som du er og find ro i kroppen - alle kan være med. Se mere og tilmeld dig.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydjylland/yoga-annette?holdnr=2715286</g:link>
+      <g:image_link>https://www.fof.dk/media/rmzpczcb/yoga-solhilsen-annette-g-250123-5.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>579.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Yoga</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Tønder</g:custom_label_4>
+      <g:start_date>2027-03-18T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Motion og sundhed</g:custom_label_3>
+      <g:internal_label>['Motion og sundhed','Yoga','Tønder']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2715944</g:id>
@@ -2466,8 +2466,8 @@
       <g:custom_label_2>Aktiviteter med baby</g:custom_label_2>
       <g:custom_label_4>Haderslev</g:custom_label_4>
       <g:start_date>2027-03-19T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Graviditet og barsel</g:custom_label_3>
-      <g:internal_label>['Graviditet og barsel','Haderslev']</g:internal_label>
+      <g:custom_label_3>Haderslev</g:custom_label_3>
+      <g:internal_label>['Haderslev','Graviditet og barsel']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2714293</g:id>
@@ -2488,8 +2488,8 @@
       <g:custom_label_2>Aktiviteter med baby</g:custom_label_2>
       <g:custom_label_4>Haderslev</g:custom_label_4>
       <g:start_date>2027-03-19T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Graviditet og barsel</g:custom_label_3>
-      <g:internal_label>['Graviditet og barsel','Haderslev']</g:internal_label>
+      <g:custom_label_3>Haderslev</g:custom_label_3>
+      <g:internal_label>['Haderslev','Graviditet og barsel']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2714292</g:id>
@@ -2510,8 +2510,8 @@
       <g:custom_label_2>Aktiviteter med baby</g:custom_label_2>
       <g:custom_label_4>Haderslev</g:custom_label_4>
       <g:start_date>2027-03-19T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Graviditet og barsel</g:custom_label_3>
-      <g:internal_label>['Graviditet og barsel','Haderslev']</g:internal_label>
+      <g:custom_label_3>Haderslev</g:custom_label_3>
+      <g:internal_label>['Haderslev','Graviditet og barsel']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2715294</g:id>
@@ -2532,8 +2532,8 @@
       <g:custom_label_2>Yoga</g:custom_label_2>
       <g:custom_label_4>Skærbæk</g:custom_label_4>
       <g:start_date>2027-03-19T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Yoga</g:custom_label_3>
-      <g:internal_label>['Yoga','Motion og sundhed','Skærbæk']</g:internal_label>
+      <g:custom_label_3>Tønder</g:custom_label_3>
+      <g:internal_label>['Tønder','Yoga','Motion og sundhed','Skærbæk']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2710415</g:id>
@@ -2580,6 +2580,28 @@
       <g:internal_label>['Kolding','Hold til under 200 kr','Dans','Motion og sundhed']</g:internal_label>
     </item>
 <item>
+      <g:id>SJY-2715291</g:id>
+      <g:title><![CDATA[Yoga for alle]]></g:title>
+      <g:description><![CDATA[Yoga i Skærbæk for begyndere og øvede. Lær rolige og varierende øvelser, der styrker kroppen og skaber bedre kontakt mellem krop og sind. Se mere og tilmeld dig.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydjylland/yoga-nana?holdnr=2715291</g:link>
+      <g:image_link>https://www.fof.dk/media/gkhnnies/yoga-63089223.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>699.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Yoga</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Skærbæk</g:custom_label_4>
+      <g:start_date>2027-04-05T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Tønder</g:custom_label_3>
+      <g:internal_label>['Tønder','Yoga','Motion og sundhed','Skærbæk']</g:internal_label>
+    </item>
+<item>
       <g:id>SJY-2710000</g:id>
       <g:title><![CDATA[Fra forbrydelse til straf - Mette Grith Stage og Jens Møller Jensen]]></g:title>
       <g:description><![CDATA[Kom tæt på virkelighedens kriminalsager, når Mette Grith Stage og Jens Møller Jensen giver indblik i straffesager fra efterforskning til dom. Et true crime foredrag i Kolding for dig, der vil forstå retssystemet fra både politiets og forsvarerens perspektiv. Se mere og køb billet.]]></g:description>
@@ -2600,50 +2622,6 @@
       <g:start_date>2027-04-07T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Foredrag</g:custom_label_3>
       <g:internal_label>['Foredrag','Kolding']</g:internal_label>
-    </item>
-<item>
-      <g:id>SJY-2719305</g:id>
-      <g:title><![CDATA[Glad bevægelse - Aktiv i aftenskolen]]></g:title>
-      <g:description><![CDATA[Opnå mere styrke, balance og bevægelsesglæde med særligt tilrettelagt bevægelse til god musik i Højer og Skærbæk. Se mere og tilmeld dig.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-sydjylland/glad-bevaegelse-aktiv-i-aftenskolen?holdnr=2719305</g:link>
-      <g:image_link>https://www.fof.dk/media/zuxgek4s/glad-bevaegelse-1.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>450.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Sydjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Styrke- og konditionstræning</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Styrke- og konditionstræning</g:custom_label_2>
-      <g:custom_label_4>Højer</g:custom_label_4>
-      <g:start_date>2027-04-08T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Tønder</g:custom_label_3>
-      <g:internal_label>['Tønder','Styrke- og konditionstræning','Motion og sundhed','Højer']</g:internal_label>
-    </item>
-<item>
-      <g:id>SJY-2719307</g:id>
-      <g:title><![CDATA[Glad bevægelse - Aktiv i aftenskolen]]></g:title>
-      <g:description><![CDATA[Opnå mere styrke, balance og bevægelsesglæde med særligt tilrettelagt bevægelse til god musik i Højer og Skærbæk. Se mere og tilmeld dig.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-sydjylland/glad-bevaegelse-aktiv-i-aftenskolen?holdnr=2719307</g:link>
-      <g:image_link>https://www.fof.dk/media/zuxgek4s/glad-bevaegelse-1.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>450.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Sydjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Styrke- og konditionstræning</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Styrke- og konditionstræning</g:custom_label_2>
-      <g:custom_label_4>Skærbæk</g:custom_label_4>
-      <g:start_date>2027-04-08T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Tønder</g:custom_label_3>
-      <g:internal_label>['Tønder','Styrke- og konditionstræning','Motion og sundhed','Skærbæk']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2715946</g:id>
