@@ -594,10 +594,10 @@
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Musik og koncerter</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
-      <g:custom_label_4></g:custom_label_4>
+      <g:custom_label_4>Fanø</g:custom_label_4>
       <g:start_date>2027-02-04T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Esbjerg</g:custom_label_3>
-      <g:internal_label>['Esbjerg']</g:internal_label>
+      <g:internal_label>['Esbjerg','Fanø']</g:internal_label>
     </item>
 <item>
       <g:id>SVJ-2710430</g:id>
@@ -814,10 +814,10 @@
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Sundhed og eksistens</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
-      <g:custom_label_4></g:custom_label_4>
+      <g:custom_label_4>Varde</g:custom_label_4>
       <g:start_date>2027-02-22T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Esbjerg</g:custom_label_3>
-      <g:internal_label>['Esbjerg']</g:internal_label>
+      <g:internal_label>['Esbjerg','Varde']</g:internal_label>
     </item>
 <item>
       <g:id>SVJ-2710446</g:id>
@@ -1413,28 +1413,6 @@
       <g:internal_label>['Madlavning og drikkevarer','Fanø','Bramming']</g:internal_label>
     </item>
 <item>
-      <g:id>SVJ-2710454</g:id>
-      <g:title><![CDATA[Workshop: Veganske tapashapsere]]></g:title>
-      <g:description><![CDATA[Lær at lave 8 lækre tapas-hapsere med dips og tilbehør. Få inspiration til fest og hverdag på et hyggeligt madlavningskursus hos FOF. Tilmeld dig trygt her i dag!]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-sydvestjylland/workshop-tapashapsere-i?holdnr=2710454</g:link>
-      <g:image_link>https://www.fof.dk/media/qokgtbcu/kurser-madlavning-og-drikkevarer-workshop-tapashapsere1-sydvestjylland-fof-aftenskolen-02.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>300.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Sydvestjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Madlavning og drikkevarer &gt; Verdenskøkkenet</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
-      <g:custom_label_2>Verdenskøkkenet</g:custom_label_2>
-      <g:custom_label_4>Fanø</g:custom_label_4>
-      <g:start_date>2027-04-03T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Madlavning og drikkevarer</g:custom_label_3>
-      <g:internal_label>['Madlavning og drikkevarer','Esbjerg','Varde','Ribe','Fanø']</g:internal_label>
-    </item>
-<item>
       <g:id>SVJ-2710402</g:id>
       <g:title><![CDATA[Traditionel Greek Cooking - In english]]></g:title>
       <g:description><![CDATA[Join a Greek cooking course and make moussaka, pita, tzatziki and baked feta. Learn in a warm, friendly setting and book your place today.]]></g:description>
@@ -1495,8 +1473,9 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Livsstil og trivsel</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
-      <g:custom_label_4></g:custom_label_4>
+      <g:custom_label_4>Varde</g:custom_label_4>
       <g:start_date>2027-04-03T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Varde']</g:internal_label>
     </item>
 <item>
       <g:id>SVJ-2710468</g:id>

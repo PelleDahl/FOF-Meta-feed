@@ -1104,28 +1104,6 @@
       <g:internal_label>['Førstehjælp til kørekort','Korte kurser','Aarhus C']</g:internal_label>
     </item>
 <item>
-      <g:id>AAR-428884</g:id>
-      <g:title><![CDATA[Færdselsrelateret førstehjælp]]></g:title>
-      <g:description><![CDATA[FOF Aftenskolen Aarhus tilbyder førstehjælpskursus til dig, der er ved at tage kørekort. Praktisk-orienteret undervisning! Tilmeld dig hos FOF i dag.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/faerdselsrelateret-foerstehjaelp?holdnr=428884</g:link>
-      <g:image_link>https://www.fof.dk/media/l0zixqes/foerstehjaelp-bentedyhrberg-1_1200x1200-fof-aarhus.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>575.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Aarhus</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Førstehjælp</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Førstehjælp</g:custom_label_2>
-      <g:custom_label_4>Aarhus</g:custom_label_4>
-      <g:start_date>2026-12-13T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Førstehjælp til kørekort</g:custom_label_3>
-      <g:internal_label>['Førstehjælp til kørekort','Korte kurser','Aarhus C']</g:internal_label>
-    </item>
-<item>
       <g:id>AAR-423842</g:id>
       <g:title><![CDATA[Madglad 60+ på Møllestien]]></g:title>
       <g:description><![CDATA[Oplev glæden ved at lave mad og dele måltider med Madglad 60+, et samarbejde mellem FOF Aarhus og GENLYD. Dette initiativ bringer aarhusianere over 60 år sammen omkring gryderne for at udforske nye smagsoplevelser og skabe varige venskaber. Uanset om du er nybegynder eller erfaren i køkkenet, er der plads til dig i dette madfællesskab, hvor fællesskab og madglæde er i centrum.]]></g:description>
@@ -2096,7 +2074,7 @@
     </item>
 <item>
       <g:id>AAR-435328</g:id>
-      <g:title><![CDATA[Lær at meditere]]></g:title>
+      <g:title><![CDATA[Lær at meditere (workshop)]]></g:title>
       <g:description><![CDATA[Giv dig selv en pause fra hverdagens høje tempo, og find ro gennem meditation i FOF Aarhus. Alle kan være med!]]></g:description>
       <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/laer-at-meditere-workshop?holdnr=435328</g:link>
       <g:image_link>https://www.fof.dk/media/5m2bbrfi/selvudvikling_1200x1200-aarhus.jpg?width=1200</g:image_link>
@@ -3326,27 +3304,6 @@
       <g:start_date>2027-02-20T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Familie</g:custom_label_3>
       <g:internal_label>['Familie','Vinter','Aarhus C']</g:internal_label>
-    </item>
-<item>
-      <g:id>AAR-434665</g:id>
-      <g:title><![CDATA[Workshop: Lær at justere din guitar]]></g:title>
-      <g:description><![CDATA[Lær din guitar eller bas bedre at kende, og blive klogere på hvordan du vedligeholder den, og hvilke småjusteringer du selv kan lave, for at få din guitar til at lyde bedre. Tilmeld dig kurset i dag.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/laer-at-justere-din-guitar?holdnr=434665</g:link>
-      <g:image_link>https://www.fof.dk/media/hwpjaxyn/guitar-juster-kursus-aarhus-fof-aftenskolen.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>660.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Aarhus</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Musik og sang &gt; Strengeinstrumenter</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Musik og sang</g:custom_label_1>
-      <g:custom_label_2>Strengeinstrumenter</g:custom_label_2>
-      <g:custom_label_4>Lystrup</g:custom_label_4>
-      <g:start_date>2027-02-21T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Lystrup']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-435330</g:id>
@@ -4608,6 +4565,27 @@
       <g:custom_label_4>Aarhus</g:custom_label_4>
       <g:start_date>2027-04-01T00:00:00.000Z</g:start_date>
       <g:internal_label>['Aarhus C']</g:internal_label>
+    </item>
+<item>
+      <g:id>AAR-432608</g:id>
+      <g:title><![CDATA[Trøffelhundetræning ]]></g:title>
+      <g:description><![CDATA[Lær at træne din hund til trøffeljagt. Få praktisk erfaring med trøffelsøgning, hundetræning og danske trøffelarter på et kursus i FOF Aarhus.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/troeffelhundetraening?holdnr=432608</g:link>
+      <g:image_link>https://www.fof.dk/media/xzlfco4a/troeffelhundetraening_hundetraening_natur_og_udeliv_fof_aarhus_1200x1200.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1360.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Natur og udeliv &gt; Hundetræning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Natur og udeliv</g:custom_label_1>
+      <g:custom_label_2>Hundetræning</g:custom_label_2>
+      <g:custom_label_4>Brabrand</g:custom_label_4>
+      <g:start_date>2027-04-03T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Brabrand']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-437024</g:id>
