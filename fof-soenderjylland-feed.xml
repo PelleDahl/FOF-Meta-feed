@@ -266,8 +266,8 @@
       <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4>Haderslev</g:custom_label_4>
       <g:start_date>2026-12-04T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Haderslev</g:custom_label_3>
-      <g:internal_label>['Haderslev']</g:internal_label>
+      <g:custom_label_3>Starter snart</g:custom_label_3>
+      <g:internal_label>['Starter snart','Haderslev']</g:internal_label>
     </item>
 <item>
       <g:id>SDJ-1262505</g:id>
@@ -886,8 +886,8 @@
       <g:custom_label_2>Yoga</g:custom_label_2>
       <g:custom_label_4>Aabenraa</g:custom_label_4>
       <g:start_date>2027-01-07T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Motion</g:custom_label_3>
-      <g:internal_label>['Motion','Hensyntagende','Aabenraa']</g:internal_label>
+      <g:custom_label_3>Bjerggade</g:custom_label_3>
+      <g:internal_label>['Bjerggade','Aabenraa','Motion','Hensyntagende']</g:internal_label>
     </item>
 <item>
       <g:id>SDJ-1271724</g:id>
@@ -908,8 +908,8 @@
       <g:custom_label_2>Kor og fællessang</g:custom_label_2>
       <g:custom_label_4>Sønderborg</g:custom_label_4>
       <g:start_date>2027-01-09T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Sangcentret</g:custom_label_3>
-      <g:internal_label>['Sangcentret','Sønderborg']</g:internal_label>
+      <g:custom_label_3>Sangcenter2</g:custom_label_3>
+      <g:internal_label>['Sangcenter2','Sønderborg']</g:internal_label>
     </item>
 <item>
       <g:id>SDJ-1271417</g:id>
@@ -1845,27 +1845,6 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:internal_label>['Bjerggade','Aabenraa']</g:internal_label>
     </item>
 <item>
-      <g:id>SDJ-1270719</g:id>
-      <g:title><![CDATA[Undervisning i klaver]]></g:title>
-      <g:description><![CDATA[Lær at spille klaver hos FOF Sønderjylland. Undervisning tilpasset dine ønsker og niveau. Se alle hold her.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-soenderjylland/klaverundervisning?holdnr=1270719</g:link>
-      <g:image_link>https://www.fof.dk/media/erxcao5j/klaver.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1785.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Sønderjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Musik og sang &gt; Klaver og harmonika</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Musik og sang</g:custom_label_1>
-      <g:custom_label_2>Klaver og harmonika</g:custom_label_2>
-      <g:custom_label_4>Sønderborg</g:custom_label_4>
-      <g:start_date>2027-01-20T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Sønderborg']</g:internal_label>
-    </item>
-<item>
       <g:id>SDJ-2271329</g:id>
       <g:title><![CDATA[Morgen Yoga]]></g:title>
       <g:description><![CDATA[ Oplev Morgenyoga hos FOF Sønderjylland. Blide stræk, afspænding og meditation giver energi, flow og indre ro – tilpasset alle niveauer. Se mere på hjemmesiden. ]]></g:description>
@@ -1886,6 +1865,27 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:start_date>2027-01-20T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Bjerggade</g:custom_label_3>
       <g:internal_label>['Bjerggade','Aabenraa','Motion']</g:internal_label>
+    </item>
+<item>
+      <g:id>SDJ-1270719</g:id>
+      <g:title><![CDATA[Undervisning i klaver]]></g:title>
+      <g:description><![CDATA[Lær at spille klaver hos FOF Sønderjylland. Undervisning tilpasset dine ønsker og niveau. Se alle hold her.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-soenderjylland/klaverundervisning?holdnr=1270719</g:link>
+      <g:image_link>https://www.fof.dk/media/erxcao5j/klaver.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1785.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sønderjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Musik og sang &gt; Klaver og harmonika</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Musik og sang</g:custom_label_1>
+      <g:custom_label_2>Klaver og harmonika</g:custom_label_2>
+      <g:custom_label_4>Sønderborg</g:custom_label_4>
+      <g:start_date>2027-01-20T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Sønderborg']</g:internal_label>
     </item>
 <item>
       <g:id>SDJ-2271314</g:id>
@@ -1995,14 +1995,14 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:internal_label>['Vojens']</g:internal_label>
     </item>
 <item>
-      <g:id>SDJ-2271315</g:id>
-      <g:title><![CDATA[Meditativ Yin Yoga]]></g:title>
-      <g:description><![CDATA[I en verden, der ofte bevæger sig hurtigt, inviterer meditativ Yin Yoga dig til at sætte tempoet ned og lande i kroppen.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-soenderjylland/meditativ-yin-yoga?holdnr=2271315</g:link>
-      <g:image_link>https://www.fof.dk/media/ju3afm4b/yin-yoga-soenderjylland-fof-aftenskolen.jpg?width=1200</g:image_link>
+      <g:id>SDJ-2271472</g:id>
+      <g:title><![CDATA[Stoleyoga]]></g:title>
+      <g:description><![CDATA[Stoleyoga i Aabenraa er for dig, som har udfordringer med at lave yogaøvelser på en yogamåtte. Du vil blive guidet igennem et program med både dynamiske øvelser, stræk for hele kroppen og en meditation.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-soenderjylland/stoleyoga-1?holdnr=2271472</g:link>
+      <g:image_link>https://www.fof.dk/media/djtbvzue/stole-yoga-soenderjylland-fof-aftenskolen.jpg?width=1200</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:quantity>1</g:quantity>
-      <g:price>1115.00 DKK</g:price>
+      <g:price>625.00 DKK</g:price>
       <g:condition>new</g:condition>
       <g:brand>FOF Sønderjylland</g:brand>
       <g:google_product_category>Education</g:google_product_category>
@@ -2017,14 +2017,14 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:internal_label>['Bjerggade','Aabenraa']</g:internal_label>
     </item>
 <item>
-      <g:id>SDJ-2271472</g:id>
-      <g:title><![CDATA[Stoleyoga]]></g:title>
-      <g:description><![CDATA[Stoleyoga i Aabenraa er for dig, som har udfordringer med at lave yogaøvelser på en yogamåtte. Du vil blive guidet igennem et program med både dynamiske øvelser, stræk for hele kroppen og en meditation.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-soenderjylland/stoleyoga-1?holdnr=2271472</g:link>
-      <g:image_link>https://www.fof.dk/media/djtbvzue/stole-yoga-soenderjylland-fof-aftenskolen.jpg?width=1200</g:image_link>
+      <g:id>SDJ-2271315</g:id>
+      <g:title><![CDATA[Meditativ Yin Yoga]]></g:title>
+      <g:description><![CDATA[I en verden, der ofte bevæger sig hurtigt, inviterer meditativ Yin Yoga dig til at sætte tempoet ned og lande i kroppen.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-soenderjylland/meditativ-yin-yoga?holdnr=2271315</g:link>
+      <g:image_link>https://www.fof.dk/media/ju3afm4b/yin-yoga-soenderjylland-fof-aftenskolen.jpg?width=1200</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:quantity>1</g:quantity>
-      <g:price>625.00 DKK</g:price>
+      <g:price>1115.00 DKK</g:price>
       <g:condition>new</g:condition>
       <g:brand>FOF Sønderjylland</g:brand>
       <g:google_product_category>Education</g:google_product_category>
@@ -2276,11 +2276,11 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:internal_label>['Bjerggade','Aabenraa']</g:internal_label>
     </item>
 <item>
-      <g:id>SDJ-2271419</g:id>
-      <g:title><![CDATA[Pilates fleksibilitet]]></g:title>
-      <g:description><![CDATA[Vil du arbejde med kroppens bevægelighed, styrke og smidighed på en grundig og systematisk måde? På dette pilateshold i Aabenraa kombinerer vi opvarmning, dynamiske stræk og mobilitetsøvelser, så hele kroppen bliver arbejdet igennem fra ankler til håndled. Vi tager udgangspunkt i kroppens behov og arbejder i et tempo, hvor der er plads til at udvikle sig.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-soenderjylland/pilates-fleksibilitet?holdnr=2271419</g:link>
-      <g:image_link>https://www.fof.dk/media/xmueok5g/pilates-oevede-soenderborg-soenderjylland-fof-aftenskolen.jpg?width=1200</g:image_link>
+      <g:id>SDJ-2271418</g:id>
+      <g:title><![CDATA[Pilates for alle]]></g:title>
+      <g:description><![CDATA[Med klassisk Matwork Pilates i Aabenraa og Padborg får du træning, der styrker kroppen indefra. Du arbejder med muskler, led og kropsholdning gennem præcise bevægelser, der forbedrer din styrke, smidighed og balance.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-soenderjylland/pilates-aabenraa-padborg?holdnr=2271418</g:link>
+      <g:image_link>https://www.fof.dk/media/fzjlq5t1/pilates-aabenraa-padborg-fof-soenderjylland.png?width=1200</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:quantity>1</g:quantity>
       <g:price>795.00 DKK</g:price>
@@ -2298,11 +2298,11 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:internal_label>['Bjerggade','Aabenraa']</g:internal_label>
     </item>
 <item>
-      <g:id>SDJ-2271418</g:id>
-      <g:title><![CDATA[Pilates for alle]]></g:title>
-      <g:description><![CDATA[Med klassisk Matwork Pilates i Aabenraa og Padborg får du træning, der styrker kroppen indefra. Du arbejder med muskler, led og kropsholdning gennem præcise bevægelser, der forbedrer din styrke, smidighed og balance.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-soenderjylland/pilates-aabenraa-padborg?holdnr=2271418</g:link>
-      <g:image_link>https://www.fof.dk/media/fzjlq5t1/pilates-aabenraa-padborg-fof-soenderjylland.png?width=1200</g:image_link>
+      <g:id>SDJ-2271419</g:id>
+      <g:title><![CDATA[Pilates fleksibilitet]]></g:title>
+      <g:description><![CDATA[Vil du arbejde med kroppens bevægelighed, styrke og smidighed på en grundig og systematisk måde? På dette pilateshold i Aabenraa kombinerer vi opvarmning, dynamiske stræk og mobilitetsøvelser, så hele kroppen bliver arbejdet igennem fra ankler til håndled. Vi tager udgangspunkt i kroppens behov og arbejder i et tempo, hvor der er plads til at udvikle sig.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-soenderjylland/pilates-fleksibilitet?holdnr=2271419</g:link>
+      <g:image_link>https://www.fof.dk/media/xmueok5g/pilates-oevede-soenderborg-soenderjylland-fof-aftenskolen.jpg?width=1200</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:quantity>1</g:quantity>
       <g:price>795.00 DKK</g:price>
@@ -2338,7 +2338,8 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:custom_label_2>Yoga</g:custom_label_2>
       <g:custom_label_4>Sønderborg</g:custom_label_4>
       <g:start_date>2027-01-22T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Sønderborg']</g:internal_label>
+      <g:custom_label_3>Sayora</g:custom_label_3>
+      <g:internal_label>['Sayora','Sønderborg']</g:internal_label>
     </item>
 <item>
       <g:id>SDJ-1271316</g:id>
@@ -2447,8 +2448,8 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:custom_label_2>Kor og fællessang</g:custom_label_2>
       <g:custom_label_4>Sønderborg</g:custom_label_4>
       <g:start_date>2027-01-28T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Sangcentret</g:custom_label_3>
-      <g:internal_label>['Sangcentret','Sønderborg']</g:internal_label>
+      <g:custom_label_3>Sangcenter</g:custom_label_3>
+      <g:internal_label>['Sangcenter','Sønderborg']</g:internal_label>
     </item>
 <item>
       <g:id>SDJ-1271481</g:id>
@@ -2469,8 +2470,8 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:custom_label_2>Dans</g:custom_label_2>
       <g:custom_label_4>Sønderborg</g:custom_label_4>
       <g:start_date>2027-02-01T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Sangcentret</g:custom_label_3>
-      <g:internal_label>['Sangcentret','Sønderborg']</g:internal_label>
+      <g:custom_label_3>Sangcenter</g:custom_label_3>
+      <g:internal_label>['Sangcenter','Sønderborg']</g:internal_label>
     </item>
 <item>
       <g:id>SDJ-2262591</g:id>
@@ -2603,28 +2604,6 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:internal_label>['Sønderborg']</g:internal_label>
     </item>
 <item>
-      <g:id>SDJ-1271720</g:id>
-      <g:title><![CDATA[Fællessang - forår]]></g:title>
-      <g:description><![CDATA[Fejr den danske sangskat med FOF Sønderjylland og Det Sønderjyske Sangcenter. Lær nye sange, oplev glæden ved fællessang, og kom i godt humør. Tilmeld dig i dag.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-soenderjylland/faellessang?holdnr=1271720</g:link>
-      <g:image_link>https://www.fof.dk/media/kpzda1py/sangcentret-1.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>295.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Sønderjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Musik og sang &gt; Kor og fællessang</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Musik og sang</g:custom_label_1>
-      <g:custom_label_2>Kor og fællessang</g:custom_label_2>
-      <g:custom_label_4>Sønderborg</g:custom_label_4>
-      <g:start_date>2027-02-23T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Sangcentret</g:custom_label_3>
-      <g:internal_label>['Sangcentret','Sønderborg']</g:internal_label>
-    </item>
-<item>
       <g:id>SDJ-1271543</g:id>
       <g:title><![CDATA[Design og syning - Dit personlige udtryk]]></g:title>
       <g:description><![CDATA[Drømmer du om at skabe dit eget tøj – eller forfine de teknikker, du allerede mestrer? Uanset om du er ny ved symaskinen eller erfaren, får du her mulighed for at arbejde med dit eget projekt, udvikle dine færdigheder og fordybe dig i skrædderhåndværket]]></g:description>
@@ -2646,6 +2625,28 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:internal_label>['Sønderborg']</g:internal_label>
     </item>
 <item>
+      <g:id>SDJ-1271720</g:id>
+      <g:title><![CDATA[Fællessang - forår]]></g:title>
+      <g:description><![CDATA[Fejr den danske sangskat med FOF Sønderjylland og Det Sønderjyske Sangcenter. Lær nye sange, oplev glæden ved fællessang, og kom i godt humør. Tilmeld dig i dag.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-soenderjylland/faellessang?holdnr=1271720</g:link>
+      <g:image_link>https://www.fof.dk/media/kpzda1py/sangcentret-1.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>295.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sønderjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Musik og sang &gt; Kor og fællessang</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Musik og sang</g:custom_label_1>
+      <g:custom_label_2>Kor og fællessang</g:custom_label_2>
+      <g:custom_label_4>Sønderborg</g:custom_label_4>
+      <g:start_date>2027-02-23T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Sangcenter</g:custom_label_3>
+      <g:internal_label>['Sangcenter','Sønderborg']</g:internal_label>
+    </item>
+<item>
       <g:id>SDJ-1271721</g:id>
       <g:title><![CDATA[Fællessang - forår]]></g:title>
       <g:description><![CDATA[Fejr den danske sangskat med FOF Sønderjylland og Det Sønderjyske Sangcenter. Lær nye sange, oplev glæden ved fællessang, og kom i godt humør. Tilmeld dig i dag.]]></g:description>
@@ -2664,8 +2665,8 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:custom_label_2>Kor og fællessang</g:custom_label_2>
       <g:custom_label_4>Sønderborg</g:custom_label_4>
       <g:start_date>2027-02-23T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Sangcentret</g:custom_label_3>
-      <g:internal_label>['Sangcentret','Sønderborg']</g:internal_label>
+      <g:custom_label_3>Sangcenter</g:custom_label_3>
+      <g:internal_label>['Sangcenter','Sønderborg']</g:internal_label>
     </item>
 <item>
       <g:id>SDJ-2271339</g:id>
@@ -3097,8 +3098,8 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:custom_label_2>Kor og fællessang</g:custom_label_2>
       <g:custom_label_4>Sønderborg</g:custom_label_4>
       <g:start_date>2027-05-04T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Sangcentret</g:custom_label_3>
-      <g:internal_label>['Sangcentret','Sønderborg']</g:internal_label>
+      <g:custom_label_3>Sangcenter</g:custom_label_3>
+      <g:internal_label>['Sangcenter','Sønderborg']</g:internal_label>
     </item>
 <item>
       <g:id>SDJ-1271723</g:id>
@@ -3119,8 +3120,8 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:custom_label_2>Kor og fællessang</g:custom_label_2>
       <g:custom_label_4>Sønderborg</g:custom_label_4>
       <g:start_date>2027-05-04T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Sangcentret</g:custom_label_3>
-      <g:internal_label>['Sangcentret','Sønderborg']</g:internal_label>
+      <g:custom_label_3>Sangcenter</g:custom_label_3>
+      <g:internal_label>['Sangcenter','Sønderborg']</g:internal_label>
     </item>
 <item>
       <g:id>SDJ-1271812</g:id>

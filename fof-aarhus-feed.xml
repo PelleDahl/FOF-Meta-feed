@@ -6,28 +6,6 @@
 <description>Meta produktfeed med alle ledige hold fra FOF Aarhus</description>
 <language>da-DK</language>
 <item>
-      <g:id>AAR-426928</g:id>
-      <g:title><![CDATA[Anne Linnet - Lyset, mørket, inderligheden]]></g:title>
-      <g:description><![CDATA[Oplev et inspirerende musikforedrag i FOF Aarhus, når musikformidler Bjørn Zäll fortæller om Anne Linnets liv og karriere. Hør historierne bag de ikoniske sange og få nye perspektiver på en af Danmarks største musikskabere.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/anne-linnet-lyset-moerket-inderligheden?holdnr=426928</g:link>
-      <g:image_link>https://www.fof.dk/media/slqjlmxz/anne_linnet_i_februar_2023_1200x1200-fof-aarhus.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>100.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Aarhus</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Foredrag, debat og højskoler &gt; Musik og koncerter</g:product_type>
-      <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
-      <g:custom_label_1>Musik og koncerter</g:custom_label_1>
-      <g:custom_label_2></g:custom_label_2>
-      <g:custom_label_4>Aarhus</g:custom_label_4>
-      <g:start_date>2026-11-18T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Starter om &lt; 14 dage</g:custom_label_3>
-      <g:internal_label>['Starter om &lt; 14 dage','Aarhus C']</g:internal_label>
-    </item>
-<item>
       <g:id>AAR-425095</g:id>
       <g:title><![CDATA[Yoga og pilates for gravide]]></g:title>
       <g:description><![CDATA[Ønsker du træning tilpasset den gravide krop? Tilmeld dig på Yoga og pilates for gravide ved FOF Aftenskolen Aarhus. ]]></g:description>
@@ -202,7 +180,7 @@
       <g:custom_label_4>Åbyhøj</g:custom_label_4>
       <g:start_date>2026-11-23T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Førstehjælp til kørekort</g:custom_label_3>
-      <g:internal_label>['Førstehjælp til kørekort','Korte kurser','Åbyhøj']</g:internal_label>
+      <g:internal_label>['Førstehjælp til kørekort','Korte kurser','Starter om &lt; 14 dage','Åbyhøj']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-423593</g:id>
@@ -708,7 +686,7 @@
       <g:custom_label_4>Åbyhøj</g:custom_label_4>
       <g:start_date>2026-12-01T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Førstehjælp til kørekort</g:custom_label_3>
-      <g:internal_label>['Førstehjælp til kørekort','Korte kurser','Åbyhøj']</g:internal_label>
+      <g:internal_label>['Førstehjælp til kørekort','Korte kurser','Starter om &lt; 14 dage','Åbyhøj']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-428953</g:id>
@@ -861,29 +839,8 @@
       <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4>Aarhus</g:custom_label_4>
       <g:start_date>2026-12-03T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Aarhus C']</g:internal_label>
-    </item>
-<item>
-      <g:id>AAR-423813</g:id>
-      <g:title><![CDATA[Mini-maker: Babymad 4-6 mdr.]]></g:title>
-      <g:description><![CDATA[Lær at lave sund og nem babymad til dit barn på 4-6 måneder. Få inspiration, opskrifter og gode råd til en tryg og varieret start på fast føde.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/mini-maker-babymad-4-6-mdr?holdnr=423813</g:link>
-      <g:image_link>https://www.fof.dk/media/tvthm5ar/minimaker-mos_1200x1200-fof-aarhus.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>50.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Aarhus</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Aktiviteter med baby</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
-      <g:custom_label_2>Aktiviteter med baby</g:custom_label_2>
-      <g:custom_label_4>Aarhus</g:custom_label_4>
-      <g:start_date>2026-12-03T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Korte kurser</g:custom_label_3>
-      <g:internal_label>['Korte kurser','Familie','Aarhus C']</g:internal_label>
+      <g:custom_label_3>Starter om &lt; 14 dage</g:custom_label_3>
+      <g:internal_label>['Starter om &lt; 14 dage','Aarhus C']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-426082</g:id>
@@ -4547,27 +4504,6 @@
       <g:internal_label>['Hensyntagende','Risskov']</g:internal_label>
     </item>
 <item>
-      <g:id>AAR-436889</g:id>
-      <g:title><![CDATA[Vejen til en selvforsynende have]]></g:title>
-      <g:description><![CDATA[Mød Lotte og Per, indehavere af Permahaven Bakkely, til et foredrag i FOF Aarhus om den selvforsynende køkkenhave | Tilmeld dig og bliv klogere]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/vejen-til-en-selvforsynende-have?holdnr=436889</g:link>
-      <g:image_link>https://www.fof.dk/media/j15bc1n0/lotte_og_per_foredrag_selvforsynende_fof_aarhus_1200x1200.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>195.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Aarhus</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Foredrag, debat og højskoler &gt; Natur og haver</g:product_type>
-      <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
-      <g:custom_label_1>Natur og haver</g:custom_label_1>
-      <g:custom_label_2></g:custom_label_2>
-      <g:custom_label_4>Aarhus</g:custom_label_4>
-      <g:start_date>2027-03-31T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Aarhus C']</g:internal_label>
-    </item>
-<item>
       <g:id>AAR-436870</g:id>
       <g:title><![CDATA[Ditte Young: Hvad kan vi lære af neurodivergente børn og unge?]]></g:title>
       <g:description><![CDATA[Kom med til dette tankevækkende og inspirerende foredrag i FOF Aarhus, hvor Ditte Young åbner for nye perspektiver på neurodivergens hos børn og unge og sætter fokus på de ressourcer, styrker og potentialer, som ofte overses. | Tilmeld dig nu!]]></g:description>
@@ -4583,6 +4519,27 @@
       <g:product_type>Foredrag, debat og højskoler &gt; Sundhed og eksistens</g:product_type>
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
       <g:custom_label_1>Sundhed og eksistens</g:custom_label_1>
+      <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Aarhus</g:custom_label_4>
+      <g:start_date>2027-03-31T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Aarhus C']</g:internal_label>
+    </item>
+<item>
+      <g:id>AAR-436889</g:id>
+      <g:title><![CDATA[Vejen til en selvforsynende have]]></g:title>
+      <g:description><![CDATA[Mød Lotte og Per, indehavere af Permahaven Bakkely, til et foredrag i FOF Aarhus om den selvforsynende køkkenhave | Tilmeld dig og bliv klogere]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/vejen-til-en-selvforsynende-have?holdnr=436889</g:link>
+      <g:image_link>https://www.fof.dk/media/j15bc1n0/lotte_og_per_foredrag_selvforsynende_fof_aarhus_1200x1200.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>195.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Foredrag, debat og højskoler &gt; Natur og haver</g:product_type>
+      <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
+      <g:custom_label_1>Natur og haver</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4>Aarhus</g:custom_label_4>
       <g:start_date>2027-03-31T00:00:00.000Z</g:start_date>
