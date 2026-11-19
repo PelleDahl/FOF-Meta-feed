@@ -116,28 +116,6 @@
       <g:internal_label>['Starter snart','Workshops','Vejle Øst']</g:internal_label>
     </item>
 <item>
-      <g:id>SOJ-265273</g:id>
-      <g:title><![CDATA[Green bowls & Good vibes ]]></g:title>
-      <g:description><![CDATA[Lær at lave green bowls i Horsens. Madkursus med fokus på sunde, plantebaserede måltider – få opskrifter og inspiration med hjem.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-sydoestjylland/green-bowls-good-vibes?holdnr=265273</g:link>
-      <g:image_link>https://www.fof.dk/media/cuhj033o/piantebaseret-mad-verden-rundt.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>375.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Sydøstjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Madlavning og drikkevarer &gt; Vegetarisk og vegansk</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
-      <g:custom_label_2>Vegetarisk og vegansk</g:custom_label_2>
-      <g:custom_label_4>Horsens</g:custom_label_4>
-      <g:start_date>2026-11-24T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Starter snart</g:custom_label_3>
-      <g:internal_label>['Starter snart','Workshops','Horsens']</g:internal_label>
-    </item>
-<item>
       <g:id>SOJ-266509</g:id>
       <g:title><![CDATA[Mindful MediYoga - Hensyn]]></g:title>
       <g:description><![CDATA[Oplev Mindful MediYoga i Skanderborg med fokus på mindfulness, åndedræt og afspænding. Blid yoga mod stress, uro og spændinger.]]></g:description>
@@ -222,8 +200,8 @@
       <g:custom_label_2>Yoga</g:custom_label_2>
       <g:custom_label_4>Horsens</g:custom_label_4>
       <g:start_date>2026-12-04T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Workshops</g:custom_label_3>
-      <g:internal_label>['Workshops','Horsens']</g:internal_label>
+      <g:custom_label_3>Starter snart</g:custom_label_3>
+      <g:internal_label>['Starter snart','Workshops','Horsens']</g:internal_label>
     </item>
 <item>
       <g:id>SOJ-269093</g:id>
@@ -465,27 +443,6 @@
       <g:internal_label>['Brædstrup']</g:internal_label>
     </item>
 <item>
-      <g:id>SOJ-270660</g:id>
-      <g:title><![CDATA[Sangundervisning (rytmisk) ]]></g:title>
-      <g:description><![CDATA[Professionel rytmisk sangundervisning i Horsens for børn, unge og voksne. Fokus på stemmetræning, sangteknik, performance og personlig udvikling.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-sydoestjylland/sangundervisning-rytmisk-anni?holdnr=270660</g:link>
-      <g:image_link>https://www.fof.dk/media/ezdnvfvf/sang-og-stemmetraening.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1830.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Sydøstjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Musik og sang &gt; Sang og stemmetræning</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Musik og sang</g:custom_label_1>
-      <g:custom_label_2>Sang og stemmetræning</g:custom_label_2>
-      <g:custom_label_4>Brædstrup</g:custom_label_4>
-      <g:start_date>2027-01-04T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Brædstrup']</g:internal_label>
-    </item>
-<item>
       <g:id>SOJ-270662</g:id>
       <g:title><![CDATA[Guitar (akustisk)]]></g:title>
       <g:description><![CDATA[Få professionel akustisk guitarundervisning i Horsens. Lær akkorder, rytmik og strumming i trygge rammer – for begyndere og let øvede.]]></g:description>
@@ -502,6 +459,27 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Musik og sang</g:custom_label_1>
       <g:custom_label_2>Strengeinstrumenter</g:custom_label_2>
+      <g:custom_label_4>Brædstrup</g:custom_label_4>
+      <g:start_date>2027-01-04T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Brædstrup']</g:internal_label>
+    </item>
+<item>
+      <g:id>SOJ-270660</g:id>
+      <g:title><![CDATA[Sangundervisning (rytmisk) ]]></g:title>
+      <g:description><![CDATA[Professionel rytmisk sangundervisning i Horsens for børn, unge og voksne. Fokus på stemmetræning, sangteknik, performance og personlig udvikling.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydoestjylland/sangundervisning-rytmisk-anni?holdnr=270660</g:link>
+      <g:image_link>https://www.fof.dk/media/ezdnvfvf/sang-og-stemmetraening.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1830.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydøstjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Musik og sang &gt; Sang og stemmetræning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Musik og sang</g:custom_label_1>
+      <g:custom_label_2>Sang og stemmetræning</g:custom_label_2>
       <g:custom_label_4>Brædstrup</g:custom_label_4>
       <g:start_date>2027-01-04T00:00:00.000Z</g:start_date>
       <g:internal_label>['Brædstrup']</g:internal_label>
@@ -1361,8 +1339,8 @@
       <g:custom_label_2>Verdenskøkkenet</g:custom_label_2>
       <g:custom_label_4>Horsens</g:custom_label_4>
       <g:start_date>2027-01-30T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Gaveidéer</g:custom_label_3>
-      <g:internal_label>['Gaveidéer','Workshops','Nyhed','Starter snart','Horsens']</g:internal_label>
+      <g:custom_label_3>Workshops</g:custom_label_3>
+      <g:internal_label>['Workshops','Gaveidéer','Nyhed','Starter snart','Horsens']</g:internal_label>
     </item>
 <item>
       <g:id>SOJ-274338</g:id>
@@ -1901,8 +1879,8 @@
       <g:custom_label_2>Verdenskøkkenet</g:custom_label_2>
       <g:custom_label_4>Horsens</g:custom_label_4>
       <g:start_date>2027-02-13T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Gaveidéer</g:custom_label_3>
-      <g:internal_label>['Gaveidéer','Workshops','Starter snart','Nyhed','Horsens']</g:internal_label>
+      <g:custom_label_3>Workshops</g:custom_label_3>
+      <g:internal_label>['Workshops','Gaveidéer','Starter snart','Nyhed','Horsens']</g:internal_label>
     </item>
 <item>
       <g:id>SOJ-272800</g:id>
@@ -2076,8 +2054,8 @@
       <g:custom_label_2>Verdenskøkkenet</g:custom_label_2>
       <g:custom_label_4>Horsens</g:custom_label_4>
       <g:start_date>2027-02-27T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Gaveidéer</g:custom_label_3>
-      <g:internal_label>['Gaveidéer','Workshops','Starter snart','Nyhed','Horsens']</g:internal_label>
+      <g:custom_label_3>Workshops</g:custom_label_3>
+      <g:internal_label>['Workshops','Gaveidéer','Starter snart','Nyhed','Horsens']</g:internal_label>
     </item>
 <item>
       <g:id>SOJ-270203</g:id>
@@ -2100,6 +2078,28 @@
       <g:start_date>2027-02-28T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Workshops</g:custom_label_3>
       <g:internal_label>['Workshops','Kulturpas','Horsens']</g:internal_label>
+    </item>
+<item>
+      <g:id>SOJ-274210</g:id>
+      <g:title><![CDATA[Lær at tegne med kul]]></g:title>
+      <g:description><![CDATA[Kunne du tænke dig at lære at tegne med kul? Dette er kurset for dig, der gerne vil stifte bekendtskab med kul som tegnemateriale. På kurset vil der blive gennemgået nogle forskellige tegneteknikker og de forskellige ting, som kultegning kan bruges til. Hver mødegang vil indeholde bundne øvelser samt fritegning med individuel sparring. På første mødegang bliver materialerne gennemgået, samt øvelser for at lære dem at kende. Medbring venligst Papir der er egnet til at tegne med kul på Kulstifter Blyantspidser eller andet til at spidse dit kul Tegnestub eller stompfer Evt. blødt viskelæder Kurset er for nybegyndere og personer, der aldrig har prøvet at tegne med kul.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydoestjylland/laer-at-tegne-med-kul?holdnr=274210</g:link>
+      <g:image_link>https://www.fof.dk/media/k0snye5z/kultegning.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1090.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydøstjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Kreative kurser &gt; Tegnekurser</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Kreative kurser</g:custom_label_1>
+      <g:custom_label_2>Tegnekurser</g:custom_label_2>
+      <g:custom_label_4>Vejle</g:custom_label_4>
+      <g:start_date>2027-03-01T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Nyhed</g:custom_label_3>
+      <g:internal_label>['Nyhed','Vejle']</g:internal_label>
     </item>
 <item>
       <g:id>SOJ-270250</g:id>
@@ -2233,28 +2233,6 @@
       <g:internal_label>['FOF Business','Vejle']</g:internal_label>
     </item>
 <item>
-      <g:id>SOJ-274074</g:id>
-      <g:title><![CDATA[Skulder og nakke]]></g:title>
-      <g:description><![CDATA[Kom til workshop i Vejle med fokus på ryg- og skuldertræning, mobilitet og bevægelighed. Løsne op for spændinger med gode twist- og drejeøvelser.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-sydoestjylland/twist-og-drejninger?holdnr=274074</g:link>
-      <g:image_link>https://www.fof.dk/media/psehwhuc/twist-og-drejninger.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>170.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Sydøstjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Styrke- og konditionstræning</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Styrke- og konditionstræning</g:custom_label_2>
-      <g:custom_label_4>Vejle</g:custom_label_4>
-      <g:start_date>2027-03-06T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Workshops</g:custom_label_3>
-      <g:internal_label>['Workshops','Jul og nytår','Vejle']</g:internal_label>
-    </item>
-<item>
       <g:id>SOJ-270268</g:id>
       <g:title><![CDATA[Velkommen i det italienske trattoria]]></g:title>
       <g:description><![CDATA[Velkommen i det italienske trattoria]]></g:description>
@@ -2273,8 +2251,8 @@
       <g:custom_label_2>Verdenskøkkenet</g:custom_label_2>
       <g:custom_label_4>Horsens</g:custom_label_4>
       <g:start_date>2027-03-06T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Gaveidéer</g:custom_label_3>
-      <g:internal_label>['Gaveidéer','Workshops','Starter snart','Nyhed','Horsens']</g:internal_label>
+      <g:custom_label_3>Workshops</g:custom_label_3>
+      <g:internal_label>['Workshops','Gaveidéer','Starter snart','Nyhed','Horsens']</g:internal_label>
     </item>
 <item>
       <g:id>SOJ-270098</g:id>
@@ -2383,8 +2361,7 @@
       <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4>Horsens</g:custom_label_4>
       <g:start_date>2027-03-11T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Workshops</g:custom_label_3>
-      <g:internal_label>['Workshops','Horsens']</g:internal_label>
+      <g:internal_label>['Horsens']</g:internal_label>
     </item>
 <item>
       <g:id>SOJ-271701</g:id>
@@ -2407,6 +2384,28 @@
       <g:start_date>2027-03-11T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Gaveidéer</g:custom_label_3>
       <g:internal_label>['Gaveidéer','Skanderborg']</g:internal_label>
+    </item>
+<item>
+      <g:id>SOJ-270262</g:id>
+      <g:title><![CDATA[Mad med bælgfrugter – for begyndere]]></g:title>
+      <g:description><![CDATA[Lær at lave mad med bælgfrugter i Horsens og Skanderborg. Madkursus med fokus på grøn, sund og bæredygtig madlavning – for begyndere.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydoestjylland/baelgfrugter-til-alle-maaltider?holdnr=270262</g:link>
+      <g:image_link>https://www.fof.dk/media/0z2f4qpj/holdbilleder-1.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>630.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydøstjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Madlavning og drikkevarer &gt; Vegetarisk og vegansk</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
+      <g:custom_label_2>Vegetarisk og vegansk</g:custom_label_2>
+      <g:custom_label_4>Horsens</g:custom_label_4>
+      <g:start_date>2027-03-13T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Kulturpas</g:custom_label_3>
+      <g:internal_label>['Kulturpas','Gaveidéer','Horsens']</g:internal_label>
     </item>
 <item>
       <g:id>SOJ-270095</g:id>
@@ -2715,28 +2714,6 @@
       <g:internal_label>['Horsens']</g:internal_label>
     </item>
 <item>
-      <g:id>SOJ-274075</g:id>
-      <g:title><![CDATA[Hofter og bækken]]></g:title>
-      <g:description><![CDATA[Kom til workshop i Vejle med fokus på ryg- og skuldertræning, mobilitet og bevægelighed. Løsne op for spændinger med gode twist- og drejeøvelser.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-sydoestjylland/twist-og-drejninger?holdnr=274075</g:link>
-      <g:image_link>https://www.fof.dk/media/psehwhuc/twist-og-drejninger.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>170.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Sydøstjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Styrke- og konditionstræning</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Styrke- og konditionstræning</g:custom_label_2>
-      <g:custom_label_4>Vejle</g:custom_label_4>
-      <g:start_date>2027-04-03T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Workshops</g:custom_label_3>
-      <g:internal_label>['Workshops','Jul og nytår','Vejle']</g:internal_label>
-    </item>
-<item>
       <g:id>SOJ-270130</g:id>
       <g:title><![CDATA[Restorativ Yoga - Workshop]]></g:title>
       <g:description><![CDATA[Oplev restorativ yoga i Horsens – blid yoga med fokus på ro, afspænding og stressreduktion. For alle niveauer. Tilmeld dig og find balance i hverdagen.]]></g:description>
@@ -2911,6 +2888,28 @@
       <g:internal_label>['Nyhed','Workshops','Gaveidéer','Vejle']</g:internal_label>
     </item>
 <item>
+      <g:id>SOJ-271262</g:id>
+      <g:title><![CDATA[Mad med bælgfrugter – for begyndere]]></g:title>
+      <g:description><![CDATA[Lær at lave mad med bælgfrugter i Horsens og Skanderborg. Madkursus med fokus på grøn, sund og bæredygtig madlavning – for begyndere.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydoestjylland/baelgfrugter-til-alle-maaltider?holdnr=271262</g:link>
+      <g:image_link>https://www.fof.dk/media/0z2f4qpj/holdbilleder-1.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>630.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydøstjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Madlavning og drikkevarer &gt; Vegetarisk og vegansk</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
+      <g:custom_label_2>Vegetarisk og vegansk</g:custom_label_2>
+      <g:custom_label_4>Skanderborg</g:custom_label_4>
+      <g:start_date>2027-04-24T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Kulturpas</g:custom_label_3>
+      <g:internal_label>['Kulturpas','Gaveidéer','Skanderborg']</g:internal_label>
+    </item>
+<item>
       <g:id>SOJ-270231</g:id>
       <g:title><![CDATA[Mal dine drømme]]></g:title>
       <g:description><![CDATA[Udforsk dine drømme gennem intuitiv maling, kreativ fordybelse og nærvær. Kreativt malekursus i Horsens for voksne – ingen erfaring nødvendig.]]></g:description>
@@ -3065,6 +3064,27 @@
       <g:internal_label>['Workshops','Horsens']</g:internal_label>
     </item>
 <item>
+      <g:id>SOJ-270263</g:id>
+      <g:title><![CDATA[Bælgfrugter – næste skridt i det grønne køkken]]></g:title>
+      <g:description><![CDATA[Lær nye grønne retter med bælgfrugter og fisk på dette madkursus i Horsens. For øvede deltagere med fokus på smag, variation og bæredygtig madlavning.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydoestjylland/baelgfrugter-naeste-skridt-i-det-groenne-koekken?holdnr=270263</g:link>
+      <g:image_link>https://www.fof.dk/media/j15bgj0a/baelgfrugter-naeste-niveau.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>630.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydøstjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Madlavning og drikkevarer &gt; Vegetarisk og vegansk</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
+      <g:custom_label_2>Vegetarisk og vegansk</g:custom_label_2>
+      <g:custom_label_4>Horsens</g:custom_label_4>
+      <g:start_date>2027-05-21T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Horsens']</g:internal_label>
+    </item>
+<item>
       <g:id>SOJ-270204</g:id>
       <g:title><![CDATA[Pileflet]]></g:title>
       <g:description><![CDATA[Lær pileflet og skab kurve, kranse og plantestativer. Udfold din kreativitet med naturens materiale på et hyggeligt kursus hos FOF.]]></g:description>
@@ -3129,6 +3149,28 @@
       <g:start_date>2027-05-31T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Workshops</g:custom_label_3>
       <g:internal_label>['Workshops','Juelsminde']</g:internal_label>
+    </item>
+<item>
+      <g:id>SOJ-274761</g:id>
+      <g:title><![CDATA[Bunkeren - Regan Vest]]></g:title>
+      <g:description><![CDATA[Oplev REGAN Vest på en dejlig dagstur. Kom helt tæt på Danmarks hemmelige regeringsbunker og få unik indsigt i koldkrig og demokrati sammen med FOF Sydøstjylland]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydoestjylland/bunkeren-regan-vest?holdnr=274761</g:link>
+      <g:image_link>https://www.fof.dk/media/utlbjeyu/regan-vest-1.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1195.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydøstjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Rejser, ture og rundvisninger &gt; Udflugter og dagsture</g:product_type>
+      <g:custom_label_0>Rejser, ture og rundvisninger</g:custom_label_0>
+      <g:custom_label_1>Udflugter og dagsture</g:custom_label_1>
+      <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Vejle</g:custom_label_4>
+      <g:start_date>2027-06-18T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Gaveidéer</g:custom_label_3>
+      <g:internal_label>['Gaveidéer','Vejle']</g:internal_label>
     </item>
 <item>
       <g:id>SOJ-274623</g:id>

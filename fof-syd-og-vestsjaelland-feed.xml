@@ -179,7 +179,7 @@
       <g:custom_label_4>Slagelse</g:custom_label_4>
       <g:start_date>2026-12-12T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Slagelse</g:custom_label_3>
-      <g:internal_label>['Slagelse','Kalender - December','Endagskurser']</g:internal_label>
+      <g:internal_label>['Slagelse','Kalender - December','Starter snart','Endagskurser']</g:internal_label>
     </item>
 <item>
       <g:id>SVS-826027</g:id>
@@ -1193,7 +1193,7 @@
     </item>
 <item>
       <g:id>SVS-805027</g:id>
-      <g:title><![CDATA[Peter Ingemann - Fra oliekrise til energireduktion]]></g:title>
+      <g:title><![CDATA[Peter Ingemann - Fra oliekrise til energirevolution]]></g:title>
       <g:description><![CDATA[I marts 2027 besøger Peter Ingemann Grønnegades Kaserne i Næstved med sit foredrag "Fra oliekrise til energirevolution". Find billetter hos FOF.]]></g:description>
       <g:link>https://www.fof.dk/aftenskolen/fof-syd-og-vestsjaelland/peter-ingemann?holdnr=805027</g:link>
       <g:image_link>https://www.fof.dk/media/0modoud0/peter-ingemann-foredragsholder-fof-02.jpg?width=1200</g:image_link>
@@ -1232,6 +1232,7 @@
       <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4>Ringsted</g:custom_label_4>
       <g:start_date>2027-03-04T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Ringsted</g:custom_label_3>
       <g:internal_label>['Ringsted']</g:internal_label>
     </item>
 <item>
@@ -1387,6 +1388,27 @@
       <g:start_date>2027-03-15T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Næstved</g:custom_label_3>
       <g:internal_label>['Næstved']</g:internal_label>
+    </item>
+<item>
+      <g:id>SVS-425127</g:id>
+      <g:title><![CDATA[Babysvømning]]></g:title>
+      <g:description><![CDATA[Babysvømning i trygge rammer i Næstved Svømmehal og på SANO i Skælskør. Styrk din babys motorik gennem leg, sang og bevægelse i vandet. Tilmeld jer et hold hos FOF.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-syd-og-vestsjaelland/babysvoemning?holdnr=425127</g:link>
+      <g:image_link>https://www.fof.dk/media/iqykerrk/babysvoemning-syd-og-vestsjaelland-fof-aftenskolen.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>945.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Syd- og Vestsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Aktiviteter med baby</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
+      <g:custom_label_2>Aktiviteter med baby</g:custom_label_2>
+      <g:custom_label_4>Skælskør</g:custom_label_4>
+      <g:start_date>2027-03-30T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Skælskør']</g:internal_label>
     </item>
 <item>
       <g:id>SVS-105327</g:id>

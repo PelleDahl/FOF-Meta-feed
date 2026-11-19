@@ -201,7 +201,7 @@
       <g:custom_label_4>Kolding</g:custom_label_4>
       <g:start_date>2026-11-25T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Kolding</g:custom_label_3>
-      <g:internal_label>['Kolding','Hold til under 200 kr','Starter snart']</g:internal_label>
+      <g:internal_label>['Kolding','Starter snart']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2620040</g:id>
@@ -290,50 +290,6 @@
       <g:start_date>2026-11-28T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Kolding</g:custom_label_3>
       <g:internal_label>['Kolding','Få pladser tilbage','Hold til under 200 kr','Starter snart','Håndværk og kunsthåndværk (Kunsthåndværk og DIY)','Krea']</g:internal_label>
-    </item>
-<item>
-      <g:id>SJY-2624561</g:id>
-      <g:title><![CDATA[Kreativt familie-værksted - Julepynt og gaveidéer]]></g:title>
-      <g:description><![CDATA[Et familiekursus i kreativ brug af genbrugsmaterialer. Udforsk og få inspiration til at skabe sjove og fantasifulde figurer sammen. Se mere og glæd jer.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-sydjylland/kreativt-familie-vaerksted?holdnr=2624561</g:link>
-      <g:image_link>https://www.fof.dk/media/qzyb4tfj/kreativt-familie-vaerksted-med-genbrug-1.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>355.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Sydjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Familie, børn og unge &gt; Kreative kurser</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Familie, børn og unge</g:custom_label_1>
-      <g:custom_label_2>Kreative kurser</g:custom_label_2>
-      <g:custom_label_4>Vejen</g:custom_label_4>
-      <g:start_date>2026-11-28T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Jul og nytår</g:custom_label_3>
-      <g:internal_label>['Jul og nytår','Vejen','Starter snart','Familie']</g:internal_label>
-    </item>
-<item>
-      <g:id>SJY-2624562</g:id>
-      <g:title><![CDATA[Kreativt familie-værksted - Julepynt og gaveidéer]]></g:title>
-      <g:description><![CDATA[Et familiekursus i kreativ brug af genbrugsmaterialer. Udforsk og få inspiration til at skabe sjove og fantasifulde figurer sammen. Se mere og glæd jer.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-sydjylland/kreativt-familie-vaerksted?holdnr=2624562</g:link>
-      <g:image_link>https://www.fof.dk/media/qzyb4tfj/kreativt-familie-vaerksted-med-genbrug-1.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>355.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Sydjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Familie, børn og unge &gt; Kreative kurser</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Familie, børn og unge</g:custom_label_1>
-      <g:custom_label_2>Kreative kurser</g:custom_label_2>
-      <g:custom_label_4>Vejen</g:custom_label_4>
-      <g:start_date>2026-11-29T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Jul og nytår</g:custom_label_3>
-      <g:internal_label>['Jul og nytår','Vejen','Starter snart','Familie']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2625363</g:id>
@@ -618,8 +574,8 @@
       <g:custom_label_2>Bevægelse og afspænding</g:custom_label_2>
       <g:custom_label_4>Kolding</g:custom_label_4>
       <g:start_date>2027-01-07T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Mensendieck</g:custom_label_3>
-      <g:internal_label>['Mensendieck','Motion og sundhed','Bevægelse og afspænding','Kolding']</g:internal_label>
+      <g:custom_label_3>Kolding</g:custom_label_3>
+      <g:internal_label>['Kolding','Mensendieck','Motion og sundhed','Bevægelse og afspænding']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2715504</g:id>
@@ -640,8 +596,8 @@
       <g:custom_label_2>Bevægelse og afspænding</g:custom_label_2>
       <g:custom_label_4>Kolding</g:custom_label_4>
       <g:start_date>2027-01-07T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Mensendieck</g:custom_label_3>
-      <g:internal_label>['Mensendieck','Motion og sundhed','Bevægelse og afspænding','Kolding']</g:internal_label>
+      <g:custom_label_3>Kolding</g:custom_label_3>
+      <g:internal_label>['Kolding','Mensendieck','Motion og sundhed','Bevægelse og afspænding']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2715507</g:id>
@@ -662,8 +618,8 @@
       <g:custom_label_2>Bevægelse og afspænding</g:custom_label_2>
       <g:custom_label_4>Kolding</g:custom_label_4>
       <g:start_date>2027-01-07T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Mensendieck</g:custom_label_3>
-      <g:internal_label>['Mensendieck','Motion og sundhed','Bevægelse og afspænding','Kolding']</g:internal_label>
+      <g:custom_label_3>Kolding</g:custom_label_3>
+      <g:internal_label>['Kolding','Mensendieck','Motion og sundhed','Bevægelse og afspænding']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2715509</g:id>
@@ -684,8 +640,8 @@
       <g:custom_label_2>Bevægelse og afspænding</g:custom_label_2>
       <g:custom_label_4>Kolding</g:custom_label_4>
       <g:start_date>2027-01-07T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Mensendieck</g:custom_label_3>
-      <g:internal_label>['Mensendieck','Motion og sundhed','Bevægelse og afspænding','Kolding']</g:internal_label>
+      <g:custom_label_3>Kolding</g:custom_label_3>
+      <g:internal_label>['Kolding','Mensendieck','Motion og sundhed','Bevægelse og afspænding']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2715505</g:id>
@@ -706,8 +662,8 @@
       <g:custom_label_2>Bevægelse og afspænding</g:custom_label_2>
       <g:custom_label_4>Kolding</g:custom_label_4>
       <g:start_date>2027-01-07T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Mensendieck</g:custom_label_3>
-      <g:internal_label>['Mensendieck','Motion og sundhed','Bevægelse og afspænding','Kolding']</g:internal_label>
+      <g:custom_label_3>Kolding</g:custom_label_3>
+      <g:internal_label>['Kolding','Mensendieck','Motion og sundhed','Bevægelse og afspænding']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2715512</g:id>
@@ -728,8 +684,8 @@
       <g:custom_label_2>Bevægelse og afspænding</g:custom_label_2>
       <g:custom_label_4>Kolding</g:custom_label_4>
       <g:start_date>2027-01-07T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Mensendieck</g:custom_label_3>
-      <g:internal_label>['Mensendieck','Motion og sundhed','Bevægelse og afspænding','Kolding']</g:internal_label>
+      <g:custom_label_3>Kolding</g:custom_label_3>
+      <g:internal_label>['Kolding','Mensendieck','Motion og sundhed','Bevægelse og afspænding']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2715510</g:id>
@@ -750,8 +706,8 @@
       <g:custom_label_2>Bevægelse og afspænding</g:custom_label_2>
       <g:custom_label_4>Kolding</g:custom_label_4>
       <g:start_date>2027-01-07T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Mensendieck</g:custom_label_3>
-      <g:internal_label>['Mensendieck','Motion og sundhed','Bevægelse og afspænding','Kolding']</g:internal_label>
+      <g:custom_label_3>Kolding</g:custom_label_3>
+      <g:internal_label>['Kolding','Mensendieck','Motion og sundhed','Bevægelse og afspænding']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2715500</g:id>
@@ -772,8 +728,8 @@
       <g:custom_label_2>Bevægelse og afspænding</g:custom_label_2>
       <g:custom_label_4>Kolding</g:custom_label_4>
       <g:start_date>2027-01-07T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Mensendieck</g:custom_label_3>
-      <g:internal_label>['Mensendieck','Motion og sundhed','Bevægelse og afspænding','Kolding']</g:internal_label>
+      <g:custom_label_3>Kolding</g:custom_label_3>
+      <g:internal_label>['Kolding','Mensendieck','Motion og sundhed','Bevægelse og afspænding']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2715503</g:id>
@@ -794,8 +750,8 @@
       <g:custom_label_2>Bevægelse og afspænding</g:custom_label_2>
       <g:custom_label_4>Kolding</g:custom_label_4>
       <g:start_date>2027-01-07T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Mensendieck</g:custom_label_3>
-      <g:internal_label>['Mensendieck','Motion og sundhed','Bevægelse og afspænding','Kolding']</g:internal_label>
+      <g:custom_label_3>Kolding</g:custom_label_3>
+      <g:internal_label>['Kolding','Mensendieck','Motion og sundhed','Bevægelse og afspænding']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2715506</g:id>
@@ -816,8 +772,8 @@
       <g:custom_label_2>Bevægelse og afspænding</g:custom_label_2>
       <g:custom_label_4>Kolding</g:custom_label_4>
       <g:start_date>2027-01-07T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Mensendieck</g:custom_label_3>
-      <g:internal_label>['Mensendieck','Motion og sundhed','Bevægelse og afspænding','Kolding']</g:internal_label>
+      <g:custom_label_3>Kolding</g:custom_label_3>
+      <g:internal_label>['Kolding','Mensendieck','Motion og sundhed','Bevægelse og afspænding']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2715501</g:id>
@@ -838,8 +794,8 @@
       <g:custom_label_2>Bevægelse og afspænding</g:custom_label_2>
       <g:custom_label_4>Kolding</g:custom_label_4>
       <g:start_date>2027-01-07T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Mensendieck</g:custom_label_3>
-      <g:internal_label>['Mensendieck','Motion og sundhed','Bevægelse og afspænding','Kolding']</g:internal_label>
+      <g:custom_label_3>Kolding</g:custom_label_3>
+      <g:internal_label>['Kolding','Mensendieck','Motion og sundhed','Bevægelse og afspænding']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2715508</g:id>
@@ -860,8 +816,8 @@
       <g:custom_label_2>Bevægelse og afspænding</g:custom_label_2>
       <g:custom_label_4>Kolding</g:custom_label_4>
       <g:start_date>2027-01-07T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Mensendieck</g:custom_label_3>
-      <g:internal_label>['Mensendieck','Motion og sundhed','Bevægelse og afspænding','Kolding']</g:internal_label>
+      <g:custom_label_3>Kolding</g:custom_label_3>
+      <g:internal_label>['Kolding','Mensendieck','Motion og sundhed','Bevægelse og afspænding']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2715502</g:id>
@@ -882,8 +838,8 @@
       <g:custom_label_2>Bevægelse og afspænding</g:custom_label_2>
       <g:custom_label_4>Kolding</g:custom_label_4>
       <g:start_date>2027-01-07T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Mensendieck</g:custom_label_3>
-      <g:internal_label>['Mensendieck','Motion og sundhed','Bevægelse og afspænding','Kolding']</g:internal_label>
+      <g:custom_label_3>Kolding</g:custom_label_3>
+      <g:internal_label>['Kolding','Mensendieck','Motion og sundhed','Bevægelse og afspænding']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2716102</g:id>
@@ -1575,7 +1531,7 @@
       <g:image_link>https://www.fof.dk/media/gkhnnies/yoga-63089223.jpg?width=1200</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:quantity>1</g:quantity>
-      <g:price>699.00 DKK</g:price>
+      <g:price>825.00 DKK</g:price>
       <g:condition>new</g:condition>
       <g:brand>FOF Sydjylland</g:brand>
       <g:google_product_category>Education</g:google_product_category>
@@ -1762,8 +1718,8 @@
       <g:custom_label_2>Tysk</g:custom_label_2>
       <g:custom_label_4>Aabenraa</g:custom_label_4>
       <g:start_date>2027-01-26T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Tysk</g:custom_label_3>
-      <g:internal_label>['Tysk','Sprog','Sprog niveau - Genopfriskning','Aabenraa']</g:internal_label>
+      <g:custom_label_3>Aabenraa</g:custom_label_3>
+      <g:internal_label>['Aabenraa','Tysk','Sprog','Sprog niveau - Genopfriskning']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2719151</g:id>
@@ -1898,28 +1854,6 @@
       <g:internal_label>['Tønder','Sprog','Dansk - Danish','Sprog niveau - Begyndere og fortsættere','Bredebro']</g:internal_label>
     </item>
 <item>
-      <g:id>SJY-2712652</g:id>
-      <g:title><![CDATA[Dansk for fortsættere]]></g:title>
-      <g:description><![CDATA[For dig, der allerede kan snakke lidt dansk. Styrk både det grammatiske og hverdagssproget i hyggelige rammer - helt lokalt. Se mere og tilmeld dig.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-sydjylland/dansk-for-fortsaettere?holdnr=2712652</g:link>
-      <g:image_link>https://www.fof.dk/media/fkuluwls/dansk-251.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>875.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Sydjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Sprog &gt; Dansk - Danish</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Sprog</g:custom_label_1>
-      <g:custom_label_2>Dansk - Danish</g:custom_label_2>
-      <g:custom_label_4>Bredebro</g:custom_label_4>
-      <g:start_date>2027-01-28T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Tønder</g:custom_label_3>
-      <g:internal_label>['Tønder','Sprog','Dansk - Danish','Sprog niveau - Begyndere og fortsættere','Bredebro']</g:internal_label>
-    </item>
-<item>
       <g:id>SJY-2712401</g:id>
       <g:title><![CDATA[Kinesisk 1 -  Begynder]]></g:title>
       <g:description><![CDATA[Lær kinesisk eller få det genopfrisket. Vi arbejder med det kinesiske sprog og på kulturforståelsen. Derudover vil der også blive arbejdet med skrifttegn. Se mere og tilmeld dig.]]></g:description>
@@ -1940,6 +1874,28 @@
       <g:start_date>2027-01-28T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Kolding</g:custom_label_3>
       <g:internal_label>['Kolding','Sprog','Kinesisk','Sprog niveau - Begyndere og fortsættere']</g:internal_label>
+    </item>
+<item>
+      <g:id>SJY-2712652</g:id>
+      <g:title><![CDATA[Dansk for fortsættere]]></g:title>
+      <g:description><![CDATA[For dig, der allerede kan snakke lidt dansk. Styrk både det grammatiske og hverdagssproget i hyggelige rammer - helt lokalt. Se mere og tilmeld dig.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydjylland/dansk-for-fortsaettere?holdnr=2712652</g:link>
+      <g:image_link>https://www.fof.dk/media/fkuluwls/dansk-251.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>875.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Sprog &gt; Dansk - Danish</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Sprog</g:custom_label_1>
+      <g:custom_label_2>Dansk - Danish</g:custom_label_2>
+      <g:custom_label_4>Bredebro</g:custom_label_4>
+      <g:start_date>2027-01-28T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Tønder</g:custom_label_3>
+      <g:internal_label>['Tønder','Sprog','Dansk - Danish','Sprog niveau - Begyndere og fortsættere','Bredebro']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2716020</g:id>
@@ -2081,7 +2037,7 @@
       <g:image_link>https://www.fof.dk/media/gkhnnies/yoga-63089223.jpg?width=1200</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:quantity>1</g:quantity>
-      <g:price>699.00 DKK</g:price>
+      <g:price>825.00 DKK</g:price>
       <g:condition>new</g:condition>
       <g:brand>FOF Sydjylland</g:brand>
       <g:google_product_category>Education</g:google_product_category>
@@ -2136,8 +2092,8 @@
       <g:custom_label_2>Malekurser</g:custom_label_2>
       <g:custom_label_4>Kolding</g:custom_label_4>
       <g:start_date>2027-02-01T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Maleri</g:custom_label_3>
-      <g:internal_label>['Maleri','Krea','Kolding']</g:internal_label>
+      <g:custom_label_3>Kolding</g:custom_label_3>
+      <g:internal_label>['Kolding','Maleri','Krea']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2711430</g:id>
@@ -2316,6 +2272,28 @@
       <g:internal_label>['Foredrag','Vejen','Hold til under 200 kr','Rødding']</g:internal_label>
     </item>
 <item>
+      <g:id>SJY-2717601</g:id>
+      <g:title><![CDATA[Autentisk italiensk æggepasta - på én aften]]></g:title>
+      <g:description><![CDATA[Lær at mestre kunsten at tilberede frisk æggepasta, som den skabes i et ægte italiensk familiekøkken. Se mere og tilmeld dig.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydjylland/italiensk-aeggepasta?holdnr=2717601</g:link>
+      <g:image_link>https://www.fof.dk/media/4lqjfvt3/italiensk-aeggepasta-1.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>449.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Madlavning og drikkevarer &gt; Verdenskøkkenet</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
+      <g:custom_label_2>Verdenskøkkenet</g:custom_label_2>
+      <g:custom_label_4>Kolding</g:custom_label_4>
+      <g:start_date>2027-02-10T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Madlavning</g:custom_label_3>
+      <g:internal_label>['Madlavning','Kolding']</g:internal_label>
+    </item>
+<item>
       <g:id>SJY-2715942</g:id>
       <g:title><![CDATA[Ecstatic dance]]></g:title>
       <g:description><![CDATA[Ecstatic dance med Erika (DJ EK Spetakel) er fri, meditativ bevægelse til EDM musik, der styrker forbindelsen mellem krop, sind og kreativitet. Se mere og tilmeld dig.]]></g:description>
@@ -2378,8 +2356,8 @@
       <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4>Kolding</g:custom_label_4>
       <g:start_date>2027-02-23T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Foredrag</g:custom_label_3>
-      <g:internal_label>['Foredrag','Kolding']</g:internal_label>
+      <g:custom_label_3>Kolding</g:custom_label_3>
+      <g:internal_label>['Kolding','Hold til under 200 kr','Foredrag']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2710413</g:id>
@@ -2851,7 +2829,7 @@
       <g:image_link>https://www.fof.dk/media/gkhnnies/yoga-63089223.jpg?width=1200</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:quantity>1</g:quantity>
-      <g:price>699.00 DKK</g:price>
+      <g:price>825.00 DKK</g:price>
       <g:condition>new</g:condition>
       <g:brand>FOF Sydjylland</g:brand>
       <g:google_product_category>Education</g:google_product_category>
@@ -2910,6 +2888,28 @@
       <g:internal_label>['Kolding','Hold til under 200 kr','Dans','Motion og sundhed']</g:internal_label>
     </item>
 <item>
+      <g:id>SJY-2715284</g:id>
+      <g:title><![CDATA[Yoga]]></g:title>
+      <g:description><![CDATA[Oplev yoga med blide stræk, styrke, åndedræt og afspænding i Tønder. Kom som du er og find ro i kroppen - alle kan være med. Se mere og tilmeld dig.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydjylland/yoga-annette?holdnr=2715284</g:link>
+      <g:image_link>https://www.fof.dk/media/rmzpczcb/yoga-solhilsen-annette-g-250123-5.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>775.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Yoga</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Tønder</g:custom_label_4>
+      <g:start_date>2027-04-05T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Motion og sundhed</g:custom_label_3>
+      <g:internal_label>['Motion og sundhed','Yoga','Tønder']</g:internal_label>
+    </item>
+<item>
       <g:id>SJY-2715291</g:id>
       <g:title><![CDATA[Yoga for alle]]></g:title>
       <g:description><![CDATA[Yoga i Skærbæk for begyndere og øvede. Lær rolige og varierende øvelser, der styrker kroppen og skaber bedre kontakt mellem krop og sind. Se mere og tilmeld dig.]]></g:description>
@@ -2917,7 +2917,7 @@
       <g:image_link>https://www.fof.dk/media/gkhnnies/yoga-63089223.jpg?width=1200</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:quantity>1</g:quantity>
-      <g:price>699.00 DKK</g:price>
+      <g:price>825.00 DKK</g:price>
       <g:condition>new</g:condition>
       <g:brand>FOF Sydjylland</g:brand>
       <g:google_product_category>Education</g:google_product_category>
@@ -2972,8 +2972,8 @@
       <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4>Skærbæk</g:custom_label_4>
       <g:start_date>2027-04-08T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Foredrag</g:custom_label_3>
-      <g:internal_label>['Foredrag','Skærbæk']</g:internal_label>
+      <g:custom_label_3>Tønder</g:custom_label_3>
+      <g:internal_label>['Tønder','Hold til under 200 kr','Foredrag','Skærbæk']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2715946</g:id>
