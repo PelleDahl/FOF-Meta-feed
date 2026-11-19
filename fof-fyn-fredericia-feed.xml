@@ -201,27 +201,6 @@
       <g:internal_label>['Fredericia']</g:internal_label>
     </item>
 <item>
-      <g:id>FYN-171980</g:id>
-      <g:title><![CDATA[Hvem er vi egentlig?]]></g:title>
-      <g:description><![CDATA[Tag med på et spændende psykologikursus, og bliv klogere på menneskets sind, følelser, adfærd og valg. Kurset kræver ingen forhåndsviden.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-fyn-fredericia/hvem-er-vi-egentlig?holdnr=171980</g:link>
-      <g:image_link>https://www.fof.dk/media/pwflf2xt/hvem-er-vi-egentlig-fof-aftenskolen-fyn-fredericia.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>745.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Fyn-Fredericia</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Livsstil og trivsel &gt; Personlig udvikling</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Livsstil og trivsel</g:custom_label_1>
-      <g:custom_label_2>Personlig udvikling</g:custom_label_2>
-      <g:custom_label_4>Odense</g:custom_label_4>
-      <g:start_date>2027-02-02T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Odense C']</g:internal_label>
-    </item>
-<item>
       <g:id>FYN-670883</g:id>
       <g:title><![CDATA[Blid kropstræning - special]]></g:title>
       <g:description><![CDATA[Få mere styrke, smidighed og ro med blid kropstræning i Faaborg. Skånsomme øvelser med elementer fra yoga og pilates på et mindre hold.]]></g:description>
@@ -285,6 +264,27 @@
       <g:start_date>2027-02-02T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Odense</g:custom_label_3>
       <g:internal_label>['Odense','Odense M']</g:internal_label>
+    </item>
+<item>
+      <g:id>FYN-171900</g:id>
+      <g:title><![CDATA[Hvem er vi egentlig?]]></g:title>
+      <g:description><![CDATA[Tag med på et spændende psykologikursus, og bliv klogere på menneskets sind, følelser, adfærd og valg. Kurset kræver ingen forhåndsviden.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-fyn-fredericia/hvem-er-vi-egentlig?holdnr=171900</g:link>
+      <g:image_link>https://www.fof.dk/media/pwflf2xt/hvem-er-vi-egentlig-fof-aftenskolen-fyn-fredericia.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>745.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Fyn-Fredericia</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Livsstil og trivsel &gt; Personlig udvikling</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Livsstil og trivsel</g:custom_label_1>
+      <g:custom_label_2>Personlig udvikling</g:custom_label_2>
+      <g:custom_label_4>Odense</g:custom_label_4>
+      <g:start_date>2027-02-02T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Odense C']</g:internal_label>
     </item>
 <item>
       <g:id>FYN-170130</g:id>
@@ -437,10 +437,10 @@
       <g:internal_label>['Odense C']</g:internal_label>
     </item>
 <item>
-      <g:id>FYN-171900</g:id>
+      <g:id>FYN-171906</g:id>
       <g:title><![CDATA[Når livet ryster]]></g:title>
       <g:description><![CDATA[Kursus i Odense om angst, bekymringer og mental styrke. Få konkrete redskaber til mere ro, overblik og balance, når livet føles utrygt.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-fyn-fredericia/naar-livet-ryster-kursus?holdnr=171900</g:link>
+      <g:link>https://www.fof.dk/aftenskolen/fof-fyn-fredericia/naar-livet-ryster-kursus?holdnr=171906</g:link>
       <g:image_link>https://www.fof.dk/media/drsh1tu5/naar-livet-ryster-fof-fyn-fredericia-aftenskolen.jpg?width=1200</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:quantity>1</g:quantity>
