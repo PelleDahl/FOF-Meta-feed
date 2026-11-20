@@ -6,50 +6,6 @@
 <description>Meta produktfeed med alle ledige hold fra FOF Sydjylland</description>
 <language>da-DK</language>
 <item>
-      <g:id>SJY-2620306</g:id>
-      <g:title><![CDATA[Rumfart - et eventyr udenfor jorden]]></g:title>
-      <g:description><![CDATA[Bliv klogere på rumfart med Rasmus Krath og Andreas Mogensen i Kolding. Få stærke historier om rummet, NASA og ISS. Se mere og køb billet.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-sydjylland/rumfart-fh?holdnr=2620306</g:link>
-      <g:image_link>https://www.fof.dk/media/rpwinum4/rumfart-262-jorden-set-fra-artemis-ii-rejsen.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>195.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Sydjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Foredrag, debat og højskoler &gt; Samfund og historie</g:product_type>
-      <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
-      <g:custom_label_1>Samfund og historie</g:custom_label_1>
-      <g:custom_label_2></g:custom_label_2>
-      <g:custom_label_4>Kolding</g:custom_label_4>
-      <g:start_date>2026-11-20T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Efterår</g:custom_label_3>
-      <g:internal_label>['Efterår','Kolding','Hold til under 200 kr','Starter snart']</g:internal_label>
-    </item>
-<item>
-      <g:id>SJY-2623991</g:id>
-      <g:title><![CDATA[Syng julen ind - Højskolesange med Maj-Britt]]></g:title>
-      <g:description><![CDATA[Vi synger kendte og nye højskolesange, laver lette sangøvelser, dykker ned i historien bag sangene og hygger os med kaffe og fællesskab. Se mere og tilmeld dig.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-sydjylland/hoejskolesang?holdnr=2623991</g:link>
-      <g:image_link>https://www.fof.dk/media/kpdhbihf/hoejskolesange-2025.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>295.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Sydjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Musik og sang &gt; Kor og fællessang</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Musik og sang</g:custom_label_1>
-      <g:custom_label_2>Kor og fællessang</g:custom_label_2>
-      <g:custom_label_4>Løgumkloster</g:custom_label_4>
-      <g:start_date>2026-11-20T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Jul og nytår</g:custom_label_3>
-      <g:internal_label>['Jul og nytår','Tønder','Starter snart','Kor og fællessang','Løgumkloster']</g:internal_label>
-    </item>
-<item>
       <g:id>SJY-2626086</g:id>
       <g:title><![CDATA[Orkis - OK-Skolen]]></g:title>
       <g:description><![CDATA[De smukke ting vi laver, anvendes til samme ting som ved knipling - dekorativt i forbindelse med servietter, pynteting til hjemmet og til det fine tøj. Se mere og tilmeld dig.]]></g:description>
@@ -355,7 +311,7 @@
       <g:custom_label_4>Kolding</g:custom_label_4>
       <g:start_date>2026-12-05T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Kolding</g:custom_label_3>
-      <g:internal_label>['Kolding','Dans','Motion og sundhed']</g:internal_label>
+      <g:internal_label>['Kolding','Starter snart','Dans','Motion og sundhed']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2627864</g:id>
@@ -377,7 +333,7 @@
       <g:custom_label_4>Vejen</g:custom_label_4>
       <g:start_date>2026-12-05T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Vejen</g:custom_label_3>
-      <g:internal_label>['Vejen','Madlavning']</g:internal_label>
+      <g:internal_label>['Vejen','Starter snart','Madlavning']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2627971</g:id>
@@ -399,7 +355,7 @@
       <g:custom_label_4>Kolding</g:custom_label_4>
       <g:start_date>2026-12-05T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Jul og nytår</g:custom_label_3>
-      <g:internal_label>['Jul og nytår','Kolding','Madlavning']</g:internal_label>
+      <g:internal_label>['Jul og nytår','Kolding','Starter snart','Madlavning']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2627914</g:id>
@@ -1854,28 +1810,6 @@
       <g:internal_label>['Tønder','Sprog','Dansk - Danish','Sprog niveau - Begyndere og fortsættere','Bredebro']</g:internal_label>
     </item>
 <item>
-      <g:id>SJY-2712652</g:id>
-      <g:title><![CDATA[Dansk for fortsættere]]></g:title>
-      <g:description><![CDATA[For dig, der allerede kan snakke lidt dansk. Styrk både det grammatiske og hverdagssproget i hyggelige rammer - helt lokalt. Se mere og tilmeld dig.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-sydjylland/dansk-for-fortsaettere?holdnr=2712652</g:link>
-      <g:image_link>https://www.fof.dk/media/fkuluwls/dansk-251.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>875.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Sydjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Sprog &gt; Dansk - Danish</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Sprog</g:custom_label_1>
-      <g:custom_label_2>Dansk - Danish</g:custom_label_2>
-      <g:custom_label_4>Bredebro</g:custom_label_4>
-      <g:start_date>2027-01-28T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Tønder</g:custom_label_3>
-      <g:internal_label>['Tønder','Sprog','Dansk - Danish','Sprog niveau - Begyndere og fortsættere','Bredebro']</g:internal_label>
-    </item>
-<item>
       <g:id>SJY-2712401</g:id>
       <g:title><![CDATA[Kinesisk 1 -  Begynder]]></g:title>
       <g:description><![CDATA[Lær kinesisk eller få det genopfrisket. Vi arbejder med det kinesiske sprog og på kulturforståelsen. Derudover vil der også blive arbejdet med skrifttegn. Se mere og tilmeld dig.]]></g:description>
@@ -1896,6 +1830,28 @@
       <g:start_date>2027-01-28T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Kolding</g:custom_label_3>
       <g:internal_label>['Kolding','Sprog','Kinesisk','Sprog niveau - Begyndere og fortsættere']</g:internal_label>
+    </item>
+<item>
+      <g:id>SJY-2712652</g:id>
+      <g:title><![CDATA[Dansk for fortsættere]]></g:title>
+      <g:description><![CDATA[For dig, der allerede kan snakke lidt dansk. Styrk både det grammatiske og hverdagssproget i hyggelige rammer - helt lokalt. Se mere og tilmeld dig.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydjylland/dansk-for-fortsaettere?holdnr=2712652</g:link>
+      <g:image_link>https://www.fof.dk/media/fkuluwls/dansk-251.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>875.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Sprog &gt; Dansk - Danish</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Sprog</g:custom_label_1>
+      <g:custom_label_2>Dansk - Danish</g:custom_label_2>
+      <g:custom_label_4>Bredebro</g:custom_label_4>
+      <g:start_date>2027-01-28T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Tønder</g:custom_label_3>
+      <g:internal_label>['Tønder','Sprog','Dansk - Danish','Sprog niveau - Begyndere og fortsættere','Bredebro']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2716020</g:id>
@@ -2290,8 +2246,8 @@
       <g:custom_label_2>Verdenskøkkenet</g:custom_label_2>
       <g:custom_label_4>Kolding</g:custom_label_4>
       <g:start_date>2027-02-10T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Madlavning</g:custom_label_3>
-      <g:internal_label>['Madlavning','Kolding']</g:internal_label>
+      <g:custom_label_3>Kolding</g:custom_label_3>
+      <g:internal_label>['Kolding','Madlavning']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2715942</g:id>
@@ -2906,8 +2862,8 @@
       <g:custom_label_2>Yoga</g:custom_label_2>
       <g:custom_label_4>Tønder</g:custom_label_4>
       <g:start_date>2027-04-05T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Motion og sundhed</g:custom_label_3>
-      <g:internal_label>['Motion og sundhed','Yoga','Tønder']</g:internal_label>
+      <g:custom_label_3>Tønder</g:custom_label_3>
+      <g:internal_label>['Tønder','Motion og sundhed','Yoga']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2715291</g:id>
