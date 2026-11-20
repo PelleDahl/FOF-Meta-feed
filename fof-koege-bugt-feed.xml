@@ -1135,7 +1135,7 @@
       <g:image_link>https://www.fof.dk/media/1lih5mqz/ai-fotokursus-koege-fof-aftenskolen.png?width=1200</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:quantity>1</g:quantity>
-      <g:price>494.00 DKK</g:price>
+      <g:price>594.00 DKK</g:price>
       <g:condition>new</g:condition>
       <g:brand>FOF Køge Bugt</g:brand>
       <g:google_product_category>Education</g:google_product_category>
@@ -1641,7 +1641,7 @@
       <g:image_link>https://www.fof.dk/media/1lih5mqz/ai-fotokursus-koege-fof-aftenskolen.png?width=1200</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:quantity>1</g:quantity>
-      <g:price>494.00 DKK</g:price>
+      <g:price>594.00 DKK</g:price>
       <g:condition>new</g:condition>
       <g:brand>FOF Køge Bugt</g:brand>
       <g:google_product_category>Education</g:google_product_category>
@@ -2140,6 +2140,27 @@
       <g:internal_label>['Forår','Endagskurser','Weekend']</g:internal_label>
     </item>
 <item>
+      <g:id>KOE-52555</g:id>
+      <g:title><![CDATA[Living Yolates]]></g:title>
+      <g:description><![CDATA[Prøv Living Yolates i Køge hos FOF Køge Bugt. En kombination af yoga, pilates og guidede bevægelser til musik med fokus på styrke, smidighed og ro.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koege-bugt/living-yolates?holdnr=52555</g:link>
+      <g:image_link>https://www.fof.dk/media/kzoezrab/yoga-fof-aftenskolen-23.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>938.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Køge Bugt</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Dans</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Dans</g:custom_label_2>
+      <g:custom_label_4>Køge</g:custom_label_4>
+      <g:start_date>2027-04-19T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Køge']</g:internal_label>
+    </item>
+<item>
       <g:id>KOE-53869</g:id>
       <g:title><![CDATA[Folketingets kunstskatte: rundvisning inkl. kaffe og kage i Snapstinget]]></g:title>
       <g:description><![CDATA[Kom indenfor på Christiansborg og få en guidet tur med fokus på Folketingets mange kunstværker. Se alle turene her.]]></g:description>
@@ -2185,13 +2206,13 @@
     </item>
 <item>
       <g:id>KOE-53404</g:id>
-      <g:title><![CDATA[Lær dit kamera at kende - med hjælp fra AI]]></g:title>
+      <g:title><![CDATA[Workshop: Lær dit kamera at kende - med hjælp fra AI]]></g:title>
       <g:description><![CDATA[Lær fotografering på praktisk fotokursus med AI. Udforsk kamerateknik, komposition, kreative motiver og sort/hvid-fotografi. Ingen forkundskaber kræves.]]></g:description>
       <g:link>https://www.fof.dk/aftenskolen/fof-koege-bugt/fotokursus-med-ai?holdnr=53404</g:link>
       <g:image_link>https://www.fof.dk/media/1lih5mqz/ai-fotokursus-koege-fof-aftenskolen.png?width=1200</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:quantity>1</g:quantity>
-      <g:price>812.00 DKK</g:price>
+      <g:price>912.00 DKK</g:price>
       <g:condition>new</g:condition>
       <g:brand>FOF Køge Bugt</g:brand>
       <g:google_product_category>Education</g:google_product_category>
@@ -2382,28 +2403,6 @@
       <g:internal_label>['Forår','Endagskurser']</g:internal_label>
     </item>
 <item>
-      <g:id>KOE-53886</g:id>
-      <g:title><![CDATA[Musicon og Rockmuseet – Byudvikling møder rock]]></g:title>
-      <g:description><![CDATA[Oplev Musicon og Rockmuseet i Roskilde med FOF Køge Bugt 4. oktober. Guidet tur gennem den kreative bydel efterfulgt af rundvisning på Rockmuseet med historier om pop, rock, ungdomskultur og moderne byudvikling. ]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koege-bugt/musicon-og-rockmuseet-byudvikling-moeder-rock?holdnr=53886</g:link>
-      <g:image_link>https://www.fof.dk/media/hh4h2tx1/musicon-koege-fof-aftenskolen.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>295.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Køge Bugt</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Rejser, ture og rundvisninger &gt; Rundvisninger</g:product_type>
-      <g:custom_label_0>Rejser, ture og rundvisninger</g:custom_label_0>
-      <g:custom_label_1>Rundvisninger</g:custom_label_1>
-      <g:custom_label_2></g:custom_label_2>
-      <g:custom_label_4></g:custom_label_4>
-      <g:start_date>2027-05-04T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Forår</g:custom_label_3>
-      <g:internal_label>['Forår','Endagskurser','Weekend']</g:internal_label>
-    </item>
-<item>
       <g:id>KOE-53863</g:id>
       <g:title><![CDATA[Kom på Letbanetur med Lindskov]]></g:title>
       <g:description><![CDATA[Nyhed i 2026: Oplev en tur med Letbanen og lær mere om byggeriet og de byudviklingstanker der ligger bag, når Frederik Lindskov tager dig med på tur.]]></g:description>
@@ -2424,6 +2423,28 @@
       <g:start_date>2027-05-04T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Forår</g:custom_label_3>
       <g:internal_label>['Forår','Endagskurser']</g:internal_label>
+    </item>
+<item>
+      <g:id>KOE-53886</g:id>
+      <g:title><![CDATA[Musicon og Rockmuseet – Byudvikling møder rock]]></g:title>
+      <g:description><![CDATA[Oplev Musicon og Rockmuseet i Roskilde med FOF Køge Bugt 4. oktober. Guidet tur gennem den kreative bydel efterfulgt af rundvisning på Rockmuseet med historier om pop, rock, ungdomskultur og moderne byudvikling. ]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koege-bugt/musicon-og-rockmuseet-byudvikling-moeder-rock?holdnr=53886</g:link>
+      <g:image_link>https://www.fof.dk/media/hh4h2tx1/musicon-koege-fof-aftenskolen.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>295.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Køge Bugt</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Rejser, ture og rundvisninger &gt; Rundvisninger</g:product_type>
+      <g:custom_label_0>Rejser, ture og rundvisninger</g:custom_label_0>
+      <g:custom_label_1>Rundvisninger</g:custom_label_1>
+      <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4></g:custom_label_4>
+      <g:start_date>2027-05-04T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Forår</g:custom_label_3>
+      <g:internal_label>['Forår','Endagskurser','Weekend']</g:internal_label>
     </item>
 <item>
       <g:id>KOE-53877</g:id>
