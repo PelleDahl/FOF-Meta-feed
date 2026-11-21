@@ -2147,27 +2147,6 @@
       <g:internal_label>['Åbyhøj']</g:internal_label>
     </item>
 <item>
-      <g:id>AAR-431471</g:id>
-      <g:title><![CDATA[Tysk 7 (B2)]]></g:title>
-      <g:description><![CDATA[For dig med gode tyskkundskaber. Øv samtale, oplæg og grammatik hos FOF Aarhus. Tag en gratis sprogtest.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/tysk-7-b2?holdnr=431471</g:link>
-      <g:image_link>https://www.fof.dk/media/pm0nfxli/tysk-berlin_6_1200x1200-fof-aarhus.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1425.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Aarhus</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Sprog &gt; Tysk</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Sprog</g:custom_label_1>
-      <g:custom_label_2>Tysk</g:custom_label_2>
-      <g:custom_label_4>Aarhus</g:custom_label_4>
-      <g:start_date>2027-01-26T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Aarhus C']</g:internal_label>
-    </item>
-<item>
       <g:id>AAR-431601</g:id>
       <g:title><![CDATA[Fransk 1a (A1) - begynderkursus]]></g:title>
       <g:description><![CDATA[Lær fransk fra bunden med FOF Aarhus. Opbyg ordforråd, lær fransk udtale og enkle hverdagsfraser. Efter kurset kan du fortsætte på næste niveau.]]></g:description>
@@ -2184,6 +2163,27 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Sprog</g:custom_label_1>
       <g:custom_label_2>Fransk</g:custom_label_2>
+      <g:custom_label_4>Aarhus</g:custom_label_4>
+      <g:start_date>2027-01-26T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Aarhus C']</g:internal_label>
+    </item>
+<item>
+      <g:id>AAR-431471</g:id>
+      <g:title><![CDATA[Tysk 7 (B2)]]></g:title>
+      <g:description><![CDATA[For dig med gode tyskkundskaber. Øv samtale, oplæg og grammatik hos FOF Aarhus. Tag en gratis sprogtest.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/tysk-7-b2?holdnr=431471</g:link>
+      <g:image_link>https://www.fof.dk/media/pm0nfxli/tysk-berlin_6_1200x1200-fof-aarhus.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1425.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Sprog &gt; Tysk</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Sprog</g:custom_label_1>
+      <g:custom_label_2>Tysk</g:custom_label_2>
       <g:custom_label_4>Aarhus</g:custom_label_4>
       <g:start_date>2027-01-26T00:00:00.000Z</g:start_date>
       <g:internal_label>['Aarhus C']</g:internal_label>
@@ -2823,26 +2823,6 @@
       <g:internal_label>['Starter om &lt; 14 dage','Aarhus C']</g:internal_label>
     </item>
 <item>
-      <g:id>AAR-434577</g:id>
-      <g:title><![CDATA[Aarhus Musicalkor]]></g:title>
-      <g:description><![CDATA[Syng musicalhits og Disneysange i et musicalkor i Aarhus. Arbejd med klang, sangteknik og flerstemmig korsang sammen med andre musicalglade sangere. Kom med!]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/aarhus-musicalkor?holdnr=434577</g:link>
-      <g:image_link>https://www.fof.dk/media/iuqbxz0r/glade-amatoerers-kor-fof-aarhus-17.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>575.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Aarhus</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Musik og sang &gt; Kor og fællessang</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Musik og sang</g:custom_label_1>
-      <g:custom_label_2>Kor og fællessang</g:custom_label_2>
-      <g:custom_label_4></g:custom_label_4>
-      <g:start_date>2027-02-04T00:00:00.000Z</g:start_date>
-    </item>
-<item>
       <g:id>AAR-431796</g:id>
       <g:title><![CDATA[Viva el español: Vayamos al grano (om konjunktiv på spansk)]]></g:title>
       <g:description><![CDATA[Kursus for dig, der kan en del spansk og er kommet i gang med at bruge spansk datid. Nu vil du gerne have styr på dine spanske konjunktiver. Tilmeld dig her!]]></g:description>
@@ -2862,6 +2842,26 @@
       <g:custom_label_4>Aarhus</g:custom_label_4>
       <g:start_date>2027-02-04T00:00:00.000Z</g:start_date>
       <g:internal_label>['Aarhus C']</g:internal_label>
+    </item>
+<item>
+      <g:id>AAR-434577</g:id>
+      <g:title><![CDATA[Aarhus Musicalkor]]></g:title>
+      <g:description><![CDATA[Syng musicalhits og Disneysange i et musicalkor i Aarhus. Arbejd med klang, sangteknik og flerstemmig korsang sammen med andre musicalglade sangere. Kom med!]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/aarhus-musicalkor?holdnr=434577</g:link>
+      <g:image_link>https://www.fof.dk/media/iuqbxz0r/glade-amatoerers-kor-fof-aarhus-17.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>575.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Musik og sang &gt; Kor og fællessang</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Musik og sang</g:custom_label_1>
+      <g:custom_label_2>Kor og fællessang</g:custom_label_2>
+      <g:custom_label_4></g:custom_label_4>
+      <g:start_date>2027-02-04T00:00:00.000Z</g:start_date>
     </item>
 <item>
       <g:id>AAR-434841</g:id>
@@ -4207,8 +4207,7 @@
       <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4>Aarhus</g:custom_label_4>
       <g:start_date>2027-03-30T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Starter om &lt; 14 dage</g:custom_label_3>
-      <g:internal_label>['Starter om &lt; 14 dage','Aarhus C']</g:internal_label>
+      <g:internal_label>['Aarhus C']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-439091</g:id>

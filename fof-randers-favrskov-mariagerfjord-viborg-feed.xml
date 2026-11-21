@@ -69,7 +69,7 @@
       <g:custom_label_4>Randers</g:custom_label_4>
       <g:start_date>2026-11-25T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Foredrag</g:custom_label_3>
-      <g:internal_label>['Foredrag','Randers','Naturvidenskab','kurser under 300kr','Randers C']</g:internal_label>
+      <g:internal_label>['Foredrag','Randers','Naturvidenskab','Randers C']</g:internal_label>
     </item>
 <item>
       <g:id>RFMV-626607</g:id>
@@ -179,7 +179,7 @@
       <g:custom_label_4>Viborg</g:custom_label_4>
       <g:start_date>2026-12-03T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Foredrag</g:custom_label_3>
-      <g:internal_label>['Foredrag','Viborg kurser','kurser under 300kr','Viborg']</g:internal_label>
+      <g:internal_label>['Foredrag','Viborg kurser','Viborg']</g:internal_label>
     </item>
 <item>
       <g:id>RFMV-621529</g:id>
@@ -664,7 +664,7 @@
       <g:custom_label_4>Viborg</g:custom_label_4>
       <g:start_date>2027-01-10T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Viborg</g:custom_label_3>
-      <g:internal_label>['Viborg']</g:internal_label>
+      <g:internal_label>['Viborg','Viborg kurser','kurser under 300kr']</g:internal_label>
     </item>
 <item>
       <g:id>RFMV-718815</g:id>
@@ -685,8 +685,8 @@
       <g:custom_label_2>Førstehjælp</g:custom_label_2>
       <g:custom_label_4>Viborg</g:custom_label_4>
       <g:start_date>2027-01-10T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Viborg</g:custom_label_3>
-      <g:internal_label>['Viborg','1 dags kursus','Randers','Motion','Viborg kurser','kurser 300-600 kr.']</g:internal_label>
+      <g:custom_label_3>førstehjælp</g:custom_label_3>
+      <g:internal_label>['førstehjælp','Viborg','1 dags kursus','Randers','Motion','Viborg kurser','kurser 300-600 kr.']</g:internal_label>
     </item>
 <item>
       <g:id>RFMV-718804</g:id>
@@ -708,7 +708,7 @@
       <g:custom_label_4>Viborg</g:custom_label_4>
       <g:start_date>2027-01-10T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Viborg</g:custom_label_3>
-      <g:internal_label>['Viborg']</g:internal_label>
+      <g:internal_label>['Viborg','Viborg kurser','kurser under 300kr']</g:internal_label>
     </item>
 <item>
       <g:id>RFMV-710441</g:id>
@@ -1483,7 +1483,7 @@ På FOF aftenskolen i Randers og Viborg får du en tryg og motiverende undervisn
       <g:custom_label_4>Randers</g:custom_label_4>
       <g:start_date>2027-01-20T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Foredrag</g:custom_label_3>
-      <g:internal_label>['Foredrag','Nyhed','Randers','Naturvidenskab','kurser under 300kr','Randers C']</g:internal_label>
+      <g:internal_label>['Foredrag','Nyhed','Randers','Naturvidenskab','Randers C']</g:internal_label>
     </item>
 <item>
       <g:id>RFMV-710734</g:id>
@@ -1771,7 +1771,7 @@ På FOF aftenskolen i Randers og Viborg får du en tryg og motiverende undervisn
       <g:custom_label_4>Gjerlev J</g:custom_label_4>
       <g:start_date>2027-02-03T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Foredrag</g:custom_label_3>
-      <g:internal_label>['Foredrag','Nyhed','Randers','kurser under 300kr','Gjerlev J']</g:internal_label>
+      <g:internal_label>['Foredrag','Nyhed','Randers','Gjerlev J']</g:internal_label>
     </item>
 <item>
       <g:id>RFMV-710561</g:id>
@@ -1924,8 +1924,8 @@ På FOF aftenskolen i Randers og Viborg får du en tryg og motiverende undervisn
       <g:custom_label_2>Førstehjælp</g:custom_label_2>
       <g:custom_label_4>Viborg</g:custom_label_4>
       <g:start_date>2027-02-13T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Viborg</g:custom_label_3>
-      <g:internal_label>['Viborg','1 dags kursus','Randers','Motion','Viborg kurser','kurser 300-600 kr.']</g:internal_label>
+      <g:custom_label_3>førstehjælp</g:custom_label_3>
+      <g:internal_label>['førstehjælp','Viborg','1 dags kursus','Randers','Motion','Viborg kurser','kurser 300-600 kr.']</g:internal_label>
     </item>
 <item>
       <g:id>RFMV-711104</g:id>
@@ -2038,7 +2038,7 @@ På FOF aftenskolen i Randers og Viborg får du en tryg og motiverende undervisn
       <g:custom_label_4>Viborg</g:custom_label_4>
       <g:start_date>2027-02-23T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Foredrag</g:custom_label_3>
-      <g:internal_label>['Foredrag','Naturvidenskab','Viborg kurser','kurser under 300kr','Viborg']</g:internal_label>
+      <g:internal_label>['Foredrag','Naturvidenskab','Viborg kurser','Viborg']</g:internal_label>
     </item>
 <item>
       <g:id>RFMV-711602</g:id>
@@ -2060,29 +2060,7 @@ På FOF aftenskolen i Randers og Viborg får du en tryg og motiverende undervisn
       <g:custom_label_4>Randers</g:custom_label_4>
       <g:start_date>2027-02-24T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Foredrag</g:custom_label_3>
-      <g:internal_label>['Foredrag','Nyhed','Randers','Naturvidenskab','kurser under 300kr','Randers C']</g:internal_label>
-    </item>
-<item>
-      <g:id>RFMV-710301</g:id>
-      <g:title><![CDATA[Kropsbevidsthed og Natur ]]></g:title>
-      <g:description><![CDATA[På dette hold arbejder vi med kroppen og sanserne, laver øvelser og afspænding. Vi er både inde i en sal og ude i naturen.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-randers-favrskov-mariagerfjord-viborg/kropsbevidsthed-og-natur?holdnr=710301</g:link>
-      <g:image_link>https://www.fof.dk/media/4f4h2afl/kropsbevidsthed-natur-umbraco.png?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>795.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Randers-Favrskov-Mariagerfjord-Viborg</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Livsstil og trivsel &gt; Personlig udvikling</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Livsstil og trivsel</g:custom_label_1>
-      <g:custom_label_2>Personlig udvikling</g:custom_label_2>
-      <g:custom_label_4>Randers</g:custom_label_4>
-      <g:start_date>2027-02-25T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Hensyntagende</g:custom_label_3>
-      <g:internal_label>['Hensyntagende','Motion','Randers','Randers C']</g:internal_label>
+      <g:internal_label>['Foredrag','Nyhed','Randers','Naturvidenskab','Randers C']</g:internal_label>
     </item>
 <item>
       <g:id>RFMV-710751</g:id>
@@ -2105,6 +2083,28 @@ På FOF aftenskolen i Randers og Viborg får du en tryg og motiverende undervisn
       <g:start_date>2027-02-25T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Weekend</g:custom_label_3>
       <g:internal_label>['Weekend','Nyhed','1 dags kursus','Randers','Mindfulness / personlig udvikling','kurser under 300kr','Randers C']</g:internal_label>
+    </item>
+<item>
+      <g:id>RFMV-710301</g:id>
+      <g:title><![CDATA[Kropsbevidsthed og Natur ]]></g:title>
+      <g:description><![CDATA[På dette hold arbejder vi med kroppen og sanserne, laver øvelser og afspænding. Vi er både inde i en sal og ude i naturen.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-randers-favrskov-mariagerfjord-viborg/kropsbevidsthed-og-natur?holdnr=710301</g:link>
+      <g:image_link>https://www.fof.dk/media/4f4h2afl/kropsbevidsthed-natur-umbraco.png?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>795.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Randers-Favrskov-Mariagerfjord-Viborg</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Livsstil og trivsel &gt; Personlig udvikling</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Livsstil og trivsel</g:custom_label_1>
+      <g:custom_label_2>Personlig udvikling</g:custom_label_2>
+      <g:custom_label_4>Randers</g:custom_label_4>
+      <g:start_date>2027-02-25T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Hensyntagende</g:custom_label_3>
+      <g:internal_label>['Hensyntagende','Motion','Randers','Randers C']</g:internal_label>
     </item>
 <item>
       <g:id>RFMV-712303</g:id>
@@ -2282,7 +2282,7 @@ Kurset er hos FOF i Randers]]></g:description>
       <g:custom_label_4>Gjerlev J</g:custom_label_4>
       <g:start_date>2027-03-03T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Foredrag</g:custom_label_3>
-      <g:internal_label>['Foredrag','Randers','kurser under 300kr','Gjerlev J']</g:internal_label>
+      <g:internal_label>['Foredrag','Randers','Gjerlev J']</g:internal_label>
     </item>
 <item>
       <g:id>RFMV-711105</g:id>
@@ -2348,7 +2348,7 @@ Kurset er hos FOF i Randers]]></g:description>
       <g:custom_label_4>Hobro</g:custom_label_4>
       <g:start_date>2027-03-09T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Foredrag</g:custom_label_3>
-      <g:internal_label>['Foredrag','Mariagerfjord','kurser under 300kr','Hobro']</g:internal_label>
+      <g:internal_label>['Foredrag','Mariagerfjord','Hobro']</g:internal_label>
     </item>
 <item>
       <g:id>RFMV-710758</g:id>
@@ -2392,7 +2392,7 @@ Kurset er hos FOF i Randers]]></g:description>
       <g:custom_label_4>Randers</g:custom_label_4>
       <g:start_date>2027-03-11T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Foredrag</g:custom_label_3>
-      <g:internal_label>['Foredrag','Nyhed','Randers','kurser under 300kr','Randers C']</g:internal_label>
+      <g:internal_label>['Foredrag','Nyhed','Randers','Randers C']</g:internal_label>
     </item>
 <item>
       <g:id>RFMV-718817</g:id>
@@ -2413,8 +2413,8 @@ Kurset er hos FOF i Randers]]></g:description>
       <g:custom_label_2>Førstehjælp</g:custom_label_2>
       <g:custom_label_4>Viborg</g:custom_label_4>
       <g:start_date>2027-03-13T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Viborg</g:custom_label_3>
-      <g:internal_label>['Viborg','1 dags kursus','Randers','Motion','Viborg kurser','kurser 300-600 kr.']</g:internal_label>
+      <g:custom_label_3>førstehjælp</g:custom_label_3>
+      <g:internal_label>['førstehjælp','Viborg','1 dags kursus','Randers','Motion','Viborg kurser','kurser 300-600 kr.']</g:internal_label>
     </item>
 <item>
       <g:id>RFMV-710752</g:id>
@@ -2458,7 +2458,7 @@ Kurset er hos FOF i Randers]]></g:description>
       <g:custom_label_4>Randers</g:custom_label_4>
       <g:start_date>2027-03-17T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Foredrag</g:custom_label_3>
-      <g:internal_label>['Foredrag','Nyhed','Randers','Naturvidenskab','kurser under 300kr','Randers C']</g:internal_label>
+      <g:internal_label>['Foredrag','Nyhed','Randers','Naturvidenskab','Randers C']</g:internal_label>
     </item>
 <item>
       <g:id>RFMV-711106</g:id>
@@ -2853,8 +2853,8 @@ Kurset er hos FOF i Randers]]></g:description>
       <g:custom_label_2>Førstehjælp</g:custom_label_2>
       <g:custom_label_4>Viborg</g:custom_label_4>
       <g:start_date>2027-04-11T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Viborg</g:custom_label_3>
-      <g:internal_label>['Viborg','1 dags kursus','Randers','Motion','Viborg kurser','kurser 300-600 kr.']</g:internal_label>
+      <g:custom_label_3>førstehjælp</g:custom_label_3>
+      <g:internal_label>['førstehjælp','Viborg','1 dags kursus','Randers','Motion','Viborg kurser','kurser 300-600 kr.']</g:internal_label>
     </item>
 <item>
       <g:id>RFMV-710753</g:id>
@@ -3054,7 +3054,7 @@ Kom til Mariager og hør et spændene og inspirerende foredrag med Sisi at sea.]
       <g:custom_label_4>Mariager</g:custom_label_4>
       <g:start_date>2027-04-27T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Foredrag</g:custom_label_3>
-      <g:internal_label>['Foredrag','Mariagerfjord','kurser under 300kr','Mariager']</g:internal_label>
+      <g:internal_label>['Foredrag','Mariagerfjord','Mariager']</g:internal_label>
     </item>
 <item>
       <g:id>RFMV-710759</g:id>
@@ -3163,8 +3163,8 @@ Kom til Mariager og hør et spændene og inspirerende foredrag med Sisi at sea.]
       <g:custom_label_2>Førstehjælp</g:custom_label_2>
       <g:custom_label_4>Viborg</g:custom_label_4>
       <g:start_date>2027-05-23T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Viborg</g:custom_label_3>
-      <g:internal_label>['Viborg','1 dags kursus','Randers','Motion','Viborg kurser','kurser 300-600 kr.']</g:internal_label>
+      <g:custom_label_3>førstehjælp</g:custom_label_3>
+      <g:internal_label>['førstehjælp','Viborg','1 dags kursus','Randers','Motion','Viborg kurser','kurser 300-600 kr.']</g:internal_label>
     </item>
 <item>
       <g:id>RFMV-710757</g:id>
@@ -3229,8 +3229,8 @@ Kom til Mariager og hør et spændene og inspirerende foredrag med Sisi at sea.]
       <g:custom_label_2>Førstehjælp</g:custom_label_2>
       <g:custom_label_4>Viborg</g:custom_label_4>
       <g:start_date>2027-06-06T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Viborg</g:custom_label_3>
-      <g:internal_label>['Viborg','1 dags kursus','Randers','Motion','Viborg kurser','kurser 300-600 kr.']</g:internal_label>
+      <g:custom_label_3>førstehjælp</g:custom_label_3>
+      <g:internal_label>['førstehjælp','Viborg','1 dags kursus','Randers','Motion','Viborg kurser','kurser 300-600 kr.']</g:internal_label>
     </item>
 <item>
       <g:id>RFMV-711112</g:id>
