@@ -69,7 +69,7 @@
   },
   "https://www.fof.dk/aftenskolen/fof-aalborg/floedebollekursus": {
     "ogImage": "https://www.fof.dk/media/ys1mj5cw/floedeboller.jpg?width=1200",
-    "fetchedAt": "2026-11-14T18:22:51.927Z"
+    "fetchedAt": "2026-11-21T21:46:46.274Z"
   },
   "https://www.fof.dk/aftenskolen/fof-aalborg/fra-melodunte-til-eurovision": {
     "ogImage": "https://www.fof.dk/media/lhbbgcyc/nicolai-holmboe.jpg?width=1200",
@@ -89,7 +89,7 @@
   },
   "https://www.fof.dk/aftenskolen/fof-aalborg/fyldte-chokolader": {
     "ogImage": "https://www.fof.dk/media/peidq0vn/fylde-chokolader.jpg?width=1200",
-    "fetchedAt": "2026-11-14T18:22:52.805Z"
+    "fetchedAt": "2026-11-21T21:46:45.025Z"
   },
   "https://www.fof.dk/aftenskolen/fof-aalborg/fyraftens-pilates": {
     "ogImage": "https://www.fof.dk/media/ilocvjth/pilates_2pilates.jpg?width=1200",
@@ -1199,6 +1199,10 @@
     "ogImage": "https://www.fof.dk/media/klobx14v/babysvoemning-fof-djursland-1.jpg?width=1200",
     "fetchedAt": "2026-11-18T17:25:40.328Z"
   },
+  "https://www.fof.dk/aftenskolen/fof-djursland/baelgfrugter-for-begyndere-roende": {
+    "ogImage": "https://www.fof.dk/media/ld2gxlnm/baelgfrugter-for-begyndere-roende.jpg?width=1200",
+    "fetchedAt": "2026-11-21T21:46:37.545Z"
+  },
   "https://www.fof.dk/aftenskolen/fof-djursland/bag-croissants-til-morgenbordet-1-dages-kursus-i-grenaa": {
     "ogImage": "https://www.fof.dk/media/0a3jnnhk/bag-croissants-til-morgenbordet-grenaa-fof-djursland.jpg?width=1200",
     "fetchedAt": "2026-11-18T17:25:44.148Z"
@@ -1270,6 +1274,10 @@
   "https://www.fof.dk/aftenskolen/fof-djursland/dynamisk-yoga-for-maend-ebeltoft": {
     "ogImage": "https://www.fof.dk/media/rv4lgdp1/herreyoga-ebeltoft-fof-djursland.jpg?width=1200",
     "fetchedAt": "2026-11-19T13:41:04.005Z"
+  },
+  "https://www.fof.dk/aftenskolen/fof-djursland/farver-i-bevaegelse-roende": {
+    "ogImage": "https://www.fof.dk/media/bo0lmucx/farver-i-bevaegelse-roende.jpg?width=1200",
+    "fetchedAt": "2026-11-21T21:46:38.500Z"
   },
   "https://www.fof.dk/aftenskolen/fof-djursland/filosofi-for-nysgerrige-grenaa": {
     "ogImage": "https://www.fof.dk/media/cqhm5ksx/filosofi-for-nysgerrige-grenaa.jpg?width=1200",
@@ -1399,6 +1407,10 @@
     "ogImage": "https://www.fof.dk/media/xizpcd4j/laer-at-lave-din-egen-vin-kejlstrup-fof-djursland.jpg?width=1200",
     "fetchedAt": "2026-11-19T13:41:03.937Z"
   },
+  "https://www.fof.dk/aftenskolen/fof-djursland/linoleumstryk-fortaellinger-i-tryk-roende": {
+    "ogImage": "https://www.fof.dk/media/s2smzers/linoleumstryk-fortaellinger-i-tryk-3-roende-fof-djursland.jpg?width=1200",
+    "fetchedAt": "2026-11-21T21:46:38.102Z"
+  },
   "https://www.fof.dk/aftenskolen/fof-djursland/madlavning-for-maend-grenaa": {
     "ogImage": "https://www.fof.dk/media/mayjxpre/madlavning-for-maend-grenaa-fof-djursland.jpg?width=1200",
     "fetchedAt": "2026-11-17T13:43:02.364Z"
@@ -1414,10 +1426,6 @@
   "https://www.fof.dk/aftenskolen/fof-djursland/mandehold-grundoevelser-og-afspaending-oerum": {
     "ogImage": "https://www.fof.dk/media/b1po3pdy/mandehold-grundoevelser-afspaending-orum-fof-djursland.jpg?width=1200",
     "fetchedAt": "2026-11-17T13:42:59.020Z"
-  },
-  "https://www.fof.dk/aftenskolen/fof-djursland/mediyoga-bjoedstrup": {
-    "ogImage": "https://www.fof.dk/media/efvd3ihp/mediyoga-roende-fof-djursland.jpg?width=1200",
-    "fetchedAt": "2026-11-18T17:25:41.640Z"
   },
   "https://www.fof.dk/aftenskolen/fof-djursland/mediyoga-fof-djursland-ebeltoft-grenaa-bjoedstrup": {
     "ogImage": "https://www.fof.dk/media/qpspdyoz/mediyoga-ebeltoft-grenaa-feldballe-fof-djursland-av.jpg?width=1200",
@@ -1442,6 +1450,10 @@
   "https://www.fof.dk/aftenskolen/fof-djursland/onsdagsyoga-hornslet": {
     "ogImage": "https://www.fof.dk/media/ytniohfd/onsdagsyoga-hornslet.jpg?width=1200",
     "fetchedAt": "2026-11-21T12:52:50.919Z"
+  },
+  "https://www.fof.dk/aftenskolen/fof-djursland/osteoporosehold-hornslet": {
+    "ogImage": "https://www.fof.dk/media/babhgob2/osteoporosehold-grenaa-fof-djursland.jpg?width=1200",
+    "fetchedAt": "2026-11-21T21:46:37.248Z"
   },
   "https://www.fof.dk/aftenskolen/fof-djursland/paaskedekorationer-1-dages-kursus-roende": {
     "ogImage": "https://www.fof.dk/media/0ljg3xvy/paaskedekorationer-roende-fof-djursland.jpg?width=1200",
@@ -1483,10 +1495,6 @@
     "ogImage": "https://www.fof.dk/media/10nmvoyr/skab-tryghed-for-fremtiden-kolind.jpg?width=1200",
     "fetchedAt": "2026-11-17T13:43:00.469Z"
   },
-  "https://www.fof.dk/aftenskolen/fof-djursland/skriv-din-bog-ebeltoft": {
-    "ogImage": "https://www.fof.dk/media/aetfp5sy/fortaellekursus-ebeltoft-fof-djursland.jpg?width=1200",
-    "fetchedAt": "2026-11-18T17:25:42.895Z"
-  },
   "https://www.fof.dk/aftenskolen/fof-djursland/slow-craft-agri": {
     "ogImage": "https://www.fof.dk/media/qyod1pee/slow-craft-agri-5-fof-djursland.jpg?width=1200",
     "fetchedAt": "2026-11-21T01:38:09.480Z"
@@ -1499,6 +1507,10 @@
     "ogImage": "https://www.fof.dk/media/bnhhbxgy/stenkursus.jpg?width=1200",
     "fetchedAt": "2026-11-17T23:35:41.082Z"
   },
+  "https://www.fof.dk/aftenskolen/fof-djursland/stille-rum-roende": {
+    "ogImage": "https://www.fof.dk/media/kamnm2pu/stille-rum-roende.jpg?width=1200",
+    "fetchedAt": "2026-11-21T21:46:38.101Z"
+  },
   "https://www.fof.dk/aftenskolen/fof-djursland/tai-chi-chuan-for-begyndere-grenaa": {
     "ogImage": "https://www.fof.dk/media/td0f1hxf/tai-chi-chuan-for-begyndere-grenaa-fof-djursland.jpg?width=1200",
     "fetchedAt": "2026-11-17T23:35:40.314Z"
@@ -1506,6 +1518,10 @@
   "https://www.fof.dk/aftenskolen/fof-djursland/tegn-grenaa-roende": {
     "ogImage": "https://www.fof.dk/media/ul1hi3cs/tegn-grenaa-fof-djursland.jpg?width=1200",
     "fetchedAt": "2026-11-20T17:05:15.770Z"
+  },
+  "https://www.fof.dk/aftenskolen/fof-djursland/tegning-og-meditation-eskerod": {
+    "ogImage": "https://www.fof.dk/media/ovqfj3tv/tegning-og-meditation-eskerod.jpg?width=1200",
+    "fetchedAt": "2026-11-21T21:46:39.283Z"
   },
   "https://www.fof.dk/aftenskolen/fof-djursland/toemrer-saras-reparationsvaerksted-grenaa": {
     "ogImage": "https://www.fof.dk/media/pirld5gq/toemrer-saras-reparationsvaerksted-grenaa.jpg?width=1200",
@@ -1526,6 +1542,14 @@
   "https://www.fof.dk/aftenskolen/fof-djursland/unoderne-roende": {
     "ogImage": "https://www.fof.dk/media/3ayb1owu/unoderne-fof-djursland.jpg?width=1200",
     "fetchedAt": "2026-11-17T23:35:40.004Z"
+  },
+  "https://www.fof.dk/aftenskolen/fof-djursland/usaedvanlige-blomster-eskerod": {
+    "ogImage": "https://www.fof.dk/media/jgmno5f2/usaedvanlige-blomster-eskerod.jpg?width=1200",
+    "fetchedAt": "2026-11-21T21:46:38.532Z"
+  },
+  "https://www.fof.dk/aftenskolen/fof-djursland/vegetarisk-hverdagsmad-hornslet": {
+    "ogImage": "https://www.fof.dk/media/p5fjf5uk/madlavning-fof-djursland.jpg?width=1200",
+    "fetchedAt": "2026-11-21T21:46:38.340Z"
   },
   "https://www.fof.dk/aftenskolen/fof-djursland/vejen-til-tidlig-pension": {
     "ogImage": "https://www.fof.dk/media/ubeltmaq/pension-john-andersen-foredrag-fof-djursland.jpg?width=1200",
@@ -2862,6 +2886,10 @@
   "https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/gourmet-for-begyndere": {
     "ogImage": "https://www.fof.dk/media/daolmhef/anretning-mad-fofkn-aftenskolen-madlavning.jpg?width=1200",
     "fetchedAt": "2026-11-17T23:36:43.920Z"
+  },
+  "https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/graviditetstraening-paa-reformer": {
+    "ogImage": "https://www.fof.dk/media/jtopoyzb/yoga-og-pilates-fofkn-aftenskolen-gravid-og-barsel-stock-424903810.jpg?width=1200",
+    "fetchedAt": "2026-11-21T21:46:54.268Z"
   },
   "https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/gravidyoga-og-foedselsforberedelse": {
     "ogImage": "https://www.fof.dk/media/b4nfdrey/yoga-for-gravide-fofkn-aftenskolen-gravid-og-barsel-km-dsc09255.jpg?width=1200",

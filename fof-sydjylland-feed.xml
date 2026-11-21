@@ -1414,28 +1414,6 @@
       <g:internal_label>['Tønder','Krea','Tegning','Højer']</g:internal_label>
     </item>
 <item>
-      <g:id>SJY-2711101</g:id>
-      <g:title><![CDATA[iPad og iPhone]]></g:title>
-      <g:description><![CDATA[En iPhone og iPad har mange funktioner. Har du styr på dem alle sammen? Hvis ikke, har du nu mulighed for at lære det her. Se mere og tilmeld dig.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-sydjylland/ipad-og-iphone?holdnr=2711101</g:link>
-      <g:image_link>https://www.fof.dk/media/rzchd0p5/ipad-1.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1500.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Sydjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; It og foto &gt; Computer og smartphone</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>It og foto</g:custom_label_1>
-      <g:custom_label_2>Computer og smartphone</g:custom_label_2>
-      <g:custom_label_4>Kolding</g:custom_label_4>
-      <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Kolding</g:custom_label_3>
-      <g:internal_label>['Kolding','It og foto']</g:internal_label>
-    </item>
-<item>
       <g:id>SJY-2715000</g:id>
       <g:title><![CDATA[Qi Gong og yoga - Stå solidt i livets storme]]></g:title>
       <g:description><![CDATA[Få redskaber til ro, afspænding og mindre stress i hverdagen med Qi Gong og yoga i trygge rammer med Gro. Alle kan være med. Se mere og tilmeld dig.]]></g:description>
@@ -1456,6 +1434,28 @@
       <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Kolding</g:custom_label_3>
       <g:internal_label>['Kolding','Yoga','Motion og sundhed','Tai Chi og Qi Gong']</g:internal_label>
+    </item>
+<item>
+      <g:id>SJY-2711101</g:id>
+      <g:title><![CDATA[iPad og iPhone]]></g:title>
+      <g:description><![CDATA[En iPhone og iPad har mange funktioner. Har du styr på dem alle sammen? Hvis ikke, har du nu mulighed for at lære det her. Se mere og tilmeld dig.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydjylland/ipad-og-iphone?holdnr=2711101</g:link>
+      <g:image_link>https://www.fof.dk/media/rzchd0p5/ipad-1.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1500.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; It og foto &gt; Computer og smartphone</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>It og foto</g:custom_label_1>
+      <g:custom_label_2>Computer og smartphone</g:custom_label_2>
+      <g:custom_label_4>Kolding</g:custom_label_4>
+      <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Kolding</g:custom_label_3>
+      <g:internal_label>['Kolding','It og foto']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2719150</g:id>
@@ -1700,28 +1700,6 @@
       <g:internal_label>['Tønder','Sprog','Dansk - Danish','Sprog niveau - Begyndere og fortsættere','Bredebro']</g:internal_label>
     </item>
 <item>
-      <g:id>SJY-2712652</g:id>
-      <g:title><![CDATA[Dansk for fortsættere]]></g:title>
-      <g:description><![CDATA[For dig, der allerede kan snakke lidt dansk. Styrk både det grammatiske og hverdagssproget i hyggelige rammer - helt lokalt. Se mere og tilmeld dig.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-sydjylland/dansk-for-fortsaettere?holdnr=2712652</g:link>
-      <g:image_link>https://www.fof.dk/media/fkuluwls/dansk-251.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>875.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Sydjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Sprog &gt; Dansk - Danish</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Sprog</g:custom_label_1>
-      <g:custom_label_2>Dansk - Danish</g:custom_label_2>
-      <g:custom_label_4>Bredebro</g:custom_label_4>
-      <g:start_date>2027-01-28T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Tønder</g:custom_label_3>
-      <g:internal_label>['Tønder','Sprog','Dansk - Danish','Sprog niveau - Begyndere og fortsættere','Bredebro']</g:internal_label>
-    </item>
-<item>
       <g:id>SJY-2712401</g:id>
       <g:title><![CDATA[Kinesisk 1 -  Begynder]]></g:title>
       <g:description><![CDATA[Lær kinesisk eller få det genopfrisket. Vi arbejder med det kinesiske sprog og på kulturforståelsen. Derudover vil der også blive arbejdet med skrifttegn. Se mere og tilmeld dig.]]></g:description>
@@ -1744,26 +1722,26 @@
       <g:internal_label>['Kolding','Sprog','Kinesisk','Sprog niveau - Begyndere og fortsættere']</g:internal_label>
     </item>
 <item>
-      <g:id>SJY-2716020</g:id>
-      <g:title><![CDATA[Syning i genbrugstekstiler]]></g:title>
-      <g:description><![CDATA[Lær at sy med genbrugstekstiler og skab nyt af gammelt. Få inspiration, teknikker og tryg vejledning. Tilmeld dig og sy bæredygtigt nu. ]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-sydjylland/syning-i-genbrugstekstiler?holdnr=2716020</g:link>
-      <g:image_link>https://www.fof.dk/media/gdmf5liv/syning-1.jpg?width=1200</g:image_link>
+      <g:id>SJY-2712652</g:id>
+      <g:title><![CDATA[Dansk for fortsættere]]></g:title>
+      <g:description><![CDATA[For dig, der allerede kan snakke lidt dansk. Styrk både det grammatiske og hverdagssproget i hyggelige rammer - helt lokalt. Se mere og tilmeld dig.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydjylland/dansk-for-fortsaettere?holdnr=2712652</g:link>
+      <g:image_link>https://www.fof.dk/media/fkuluwls/dansk-251.jpg?width=1200</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:quantity>1</g:quantity>
-      <g:price>1199.00 DKK</g:price>
+      <g:price>875.00 DKK</g:price>
       <g:condition>new</g:condition>
       <g:brand>FOF Sydjylland</g:brand>
       <g:google_product_category>Education</g:google_product_category>
       <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Kreative kurser &gt; Syning</g:product_type>
+      <g:product_type>Kurser &gt; Sprog &gt; Dansk - Danish</g:product_type>
       <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Kreative kurser</g:custom_label_1>
-      <g:custom_label_2>Syning</g:custom_label_2>
-      <g:custom_label_4>Kolding</g:custom_label_4>
+      <g:custom_label_1>Sprog</g:custom_label_1>
+      <g:custom_label_2>Dansk - Danish</g:custom_label_2>
+      <g:custom_label_4>Bredebro</g:custom_label_4>
       <g:start_date>2027-01-28T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Kolding</g:custom_label_3>
-      <g:internal_label>['Kolding','Krea','Syning']</g:internal_label>
+      <g:custom_label_3>Tønder</g:custom_label_3>
+      <g:internal_label>['Tønder','Sprog','Dansk - Danish','Sprog niveau - Begyndere og fortsættere','Bredebro']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2716400</g:id>
@@ -1786,6 +1764,28 @@
       <g:start_date>2027-01-28T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Kolding</g:custom_label_3>
       <g:internal_label>['Kolding','Krea','Tegning']</g:internal_label>
+    </item>
+<item>
+      <g:id>SJY-2716020</g:id>
+      <g:title><![CDATA[Syning i genbrugstekstiler]]></g:title>
+      <g:description><![CDATA[Lær at sy med genbrugstekstiler og skab nyt af gammelt. Få inspiration, teknikker og tryg vejledning. Tilmeld dig og sy bæredygtigt nu. ]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydjylland/syning-i-genbrugstekstiler?holdnr=2716020</g:link>
+      <g:image_link>https://www.fof.dk/media/gdmf5liv/syning-1.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1199.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Kreative kurser &gt; Syning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Kreative kurser</g:custom_label_1>
+      <g:custom_label_2>Syning</g:custom_label_2>
+      <g:custom_label_4>Kolding</g:custom_label_4>
+      <g:start_date>2027-01-28T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Kolding</g:custom_label_3>
+      <g:internal_label>['Kolding','Krea','Syning']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2714290</g:id>
@@ -1854,28 +1854,6 @@
       <g:internal_label>['Haderslev','Graviditet og barsel']</g:internal_label>
     </item>
 <item>
-      <g:id>SJY-2714294</g:id>
-      <g:title><![CDATA[Musik og bevægelse med baby (2-7 måneder)]]></g:title>
-      <g:description><![CDATA[Et hold for voksne og babyer med bevægelse, lege, lyde, små danse, sang og sjov. Se mere og glæd jer til en hyggelig stund sammen.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-sydjylland/musik-og-bevaegelse-med-baby-2-7-maaneder?holdnr=2714294</g:link>
-      <g:image_link>https://www.fof.dk/media/qyejkmp0/babytummel-231218-2131263.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>459.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Sydjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Aktiviteter med baby</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
-      <g:custom_label_2>Aktiviteter med baby</g:custom_label_2>
-      <g:custom_label_4>Haderslev</g:custom_label_4>
-      <g:start_date>2027-01-29T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Haderslev</g:custom_label_3>
-      <g:internal_label>['Haderslev','Graviditet og barsel']</g:internal_label>
-    </item>
-<item>
       <g:id>SJY-2715293</g:id>
       <g:title><![CDATA[Yoga for alle]]></g:title>
       <g:description><![CDATA[Yoga i Skærbæk for begyndere og øvede. Lær rolige og varierende øvelser, der styrker kroppen og skaber bedre kontakt mellem krop og sind. Se mere og tilmeld dig.]]></g:description>
@@ -1896,6 +1874,28 @@
       <g:start_date>2027-01-29T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Tønder</g:custom_label_3>
       <g:internal_label>['Tønder','Yoga','Motion og sundhed','Skærbæk']</g:internal_label>
+    </item>
+<item>
+      <g:id>SJY-2714294</g:id>
+      <g:title><![CDATA[Musik og bevægelse med baby (2-7 måneder)]]></g:title>
+      <g:description><![CDATA[Et hold for voksne og babyer med bevægelse, lege, lyde, små danse, sang og sjov. Se mere og glæd jer til en hyggelig stund sammen.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydjylland/musik-og-bevaegelse-med-baby-2-7-maaneder?holdnr=2714294</g:link>
+      <g:image_link>https://www.fof.dk/media/qyejkmp0/babytummel-231218-2131263.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>459.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Aktiviteter med baby</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
+      <g:custom_label_2>Aktiviteter med baby</g:custom_label_2>
+      <g:custom_label_4>Haderslev</g:custom_label_4>
+      <g:start_date>2027-01-29T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Haderslev</g:custom_label_3>
+      <g:internal_label>['Haderslev','Graviditet og barsel']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2716240</g:id>
@@ -2668,28 +2668,6 @@
       <g:internal_label>['Haderslev','Graviditet og barsel']</g:internal_label>
     </item>
 <item>
-      <g:id>SJY-2714292</g:id>
-      <g:title><![CDATA[Babytummel (2-5 måneder)]]></g:title>
-      <g:description><![CDATA[Her træner vi babys grovmotorik og sansestimulering med leg, stjernestunder og kvalitets tid. Se mere og glæd jer.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-sydjylland/babytummel-henriette-2-5-maaneder?holdnr=2714292</g:link>
-      <g:image_link>https://www.fof.dk/media/rrdjzeir/babytummel-230117-101302.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>459.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Sydjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Aktiviteter med baby</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
-      <g:custom_label_2>Aktiviteter med baby</g:custom_label_2>
-      <g:custom_label_4>Haderslev</g:custom_label_4>
-      <g:start_date>2027-03-19T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Haderslev</g:custom_label_3>
-      <g:internal_label>['Haderslev','Graviditet og barsel']</g:internal_label>
-    </item>
-<item>
       <g:id>SJY-2715294</g:id>
       <g:title><![CDATA[Yoga for alle]]></g:title>
       <g:description><![CDATA[Yoga i Skærbæk for begyndere og øvede. Lær rolige og varierende øvelser, der styrker kroppen og skaber bedre kontakt mellem krop og sind. Se mere og tilmeld dig.]]></g:description>
@@ -2710,6 +2688,28 @@
       <g:start_date>2027-03-19T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Tønder</g:custom_label_3>
       <g:internal_label>['Tønder','Yoga','Motion og sundhed','Skærbæk']</g:internal_label>
+    </item>
+<item>
+      <g:id>SJY-2714292</g:id>
+      <g:title><![CDATA[Babytummel (2-5 måneder)]]></g:title>
+      <g:description><![CDATA[Her træner vi babys grovmotorik og sansestimulering med leg, stjernestunder og kvalitets tid. Se mere og glæd jer.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydjylland/babytummel-henriette-2-5-maaneder?holdnr=2714292</g:link>
+      <g:image_link>https://www.fof.dk/media/rrdjzeir/babytummel-230117-101302.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>459.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Aktiviteter med baby</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
+      <g:custom_label_2>Aktiviteter med baby</g:custom_label_2>
+      <g:custom_label_4>Haderslev</g:custom_label_4>
+      <g:start_date>2027-03-19T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Haderslev</g:custom_label_3>
+      <g:internal_label>['Haderslev','Graviditet og barsel']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2710415</g:id>
