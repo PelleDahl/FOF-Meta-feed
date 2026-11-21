@@ -6,28 +6,6 @@
 <description>Meta produktfeed med alle ledige hold fra FOF Djursland</description>
 <language>da-DK</language>
 <item>
-      <g:id>DJU-264431</g:id>
-      <g:title><![CDATA[Weekend malekursus - Ild-vand-luft-jord - Vrinners]]></g:title>
-      <g:description><![CDATA[Gå til maleri på Mols i Vrinners. Kurser for begyndere og øvede samt weekendkursuser. Kreativt fællesskab hos FOF Djursland]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-djursland/maleri-vrinners?holdnr=264431</g:link>
-      <g:image_link>https://www.fof.dk/media/qs2ct0h3/maleri-fof-djursland.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>875.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Djursland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Kreative kurser &gt; Malekurser</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Kreative kurser</g:custom_label_1>
-      <g:custom_label_2>Malekurser</g:custom_label_2>
-      <g:custom_label_4>Knebel</g:custom_label_4>
-      <g:start_date>2026-11-21T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Mols</g:custom_label_3>
-      <g:internal_label>['Mols','Vrinners','Korte kurser','Kreative fag','Male- og tegnekurser','Knebel']</g:internal_label>
-    </item>
-<item>
       <g:id>DJU-271232</g:id>
       <g:title><![CDATA[Mandehold - grundøvelser og afspænding - Ørum Djurs]]></g:title>
       <g:description><![CDATA[Kom på mandehold med grundøvelser og afspænding i Ørum Aktiv Center. Funktionel træning med styrke, puls og smidighed – for mænd i alle aldre hos FOF Djursland]]></g:description>
@@ -402,28 +380,6 @@
       <g:internal_label>['Tirstrup','Hensyntagende','Bevægelse i vand','Ebeltoft']</g:internal_label>
     </item>
 <item>
-      <g:id>DJU-273958</g:id>
-      <g:title><![CDATA[Kompenserende svømning - Tirstrup]]></g:title>
-      <g:description><![CDATA[Deltag i skånsom træning i varmt vand for borgere med særlige behov. Kompenserende svømning lindrer smerter, styrker kroppen og øger bevægelsesfriheden. Undervisning ved erfaren Halliwick-instruktør.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-djursland/kompenserende-svoemning-tirstrup?holdnr=273958</g:link>
-      <g:image_link>https://www.fof.dk/media/ebobqoye/kompenserende-svoemning-bevaegelseshaemmede-tirstrup-fof-djursland.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>0.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Djursland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Træning i vand</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Træning i vand</g:custom_label_2>
-      <g:custom_label_4>Ebeltoft</g:custom_label_4>
-      <g:start_date>2027-01-06T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Tirstrup</g:custom_label_3>
-      <g:internal_label>['Tirstrup','Hensyntagende','Bevægelse i vand','Ebeltoft']</g:internal_label>
-    </item>
-<item>
       <g:id>DJU-273961</g:id>
       <g:title><![CDATA[Billedkunst studiegruppe - Ebeltoft]]></g:title>
       <g:description><![CDATA[Kom og vær kreativ og hygge dig sammen med andre med samme interesse i FOF Djurslands billedkunstgrupper i Grenaa og Ebeltoft]]></g:description>
@@ -444,6 +400,28 @@
       <g:start_date>2027-01-06T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Grenaa</g:custom_label_3>
       <g:internal_label>['Grenaa','Ebeltoft','Kreative fag','Male- og tegnekurser']</g:internal_label>
+    </item>
+<item>
+      <g:id>DJU-273958</g:id>
+      <g:title><![CDATA[Kompenserende svømning - Tirstrup]]></g:title>
+      <g:description><![CDATA[Deltag i skånsom træning i varmt vand for borgere med særlige behov. Kompenserende svømning lindrer smerter, styrker kroppen og øger bevægelsesfriheden. Undervisning ved erfaren Halliwick-instruktør.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-djursland/kompenserende-svoemning-tirstrup?holdnr=273958</g:link>
+      <g:image_link>https://www.fof.dk/media/ebobqoye/kompenserende-svoemning-bevaegelseshaemmede-tirstrup-fof-djursland.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>0.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Djursland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Træning i vand</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Træning i vand</g:custom_label_2>
+      <g:custom_label_4>Ebeltoft</g:custom_label_4>
+      <g:start_date>2027-01-06T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Tirstrup</g:custom_label_3>
+      <g:internal_label>['Tirstrup','Hensyntagende','Bevægelse i vand','Ebeltoft']</g:internal_label>
     </item>
 <item>
       <g:id>DJU-273203</g:id>
@@ -886,28 +864,6 @@
       <g:internal_label>['Rønde','Bevægelse','Yoga']</g:internal_label>
     </item>
 <item>
-      <g:id>DJU-273328</g:id>
-      <g:title><![CDATA[MediYoga - Vrinners]]></g:title>
-      <g:description><![CDATA[Find balance og styrke gennem vores MediYoga klasser hos FOF Djursland. MediYoga kombinerer yoga og medicinsk viden for at fremme kropslig og mental sundhed. Vi har hold i Grenaa, Ebeltoft og Bjødstrup]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-djursland/mediyoga-fof-djursland-ebeltoft-grenaa-bjoedstrup?holdnr=273328</g:link>
-      <g:image_link>https://www.fof.dk/media/qpspdyoz/mediyoga-ebeltoft-grenaa-feldballe-fof-djursland-av.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1730.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Djursland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Yoga</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Yoga</g:custom_label_2>
-      <g:custom_label_4>Knebel</g:custom_label_4>
-      <g:start_date>2027-01-14T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Bjødstrup</g:custom_label_3>
-      <g:internal_label>['Bjødstrup','Grenaa','Ebeltoft','Mols','Hensyntagende','Bevægelse','Yoga','Knebel']</g:internal_label>
-    </item>
-<item>
       <g:id>DJU-273970</g:id>
       <g:title><![CDATA[Kompenserende Mediyoga - Ebeltoft]]></g:title>
       <g:description><![CDATA[MediYoga kombinerer åndedræt, bevægelse og fokus for at skabe helhed i krop og sind. En rolig yogaform for alle, uanset udgangspunkt. Gratis undervisning for borgere i Syddjurs Kommune med særlige behov.]]></g:description>
@@ -928,6 +884,28 @@
       <g:start_date>2027-01-14T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Ebeltoft</g:custom_label_3>
       <g:internal_label>['Ebeltoft','Bevægelse','Yoga','Hensyntagende']</g:internal_label>
+    </item>
+<item>
+      <g:id>DJU-273328</g:id>
+      <g:title><![CDATA[MediYoga - Vrinners]]></g:title>
+      <g:description><![CDATA[Find balance og styrke gennem vores MediYoga klasser hos FOF Djursland. MediYoga kombinerer yoga og medicinsk viden for at fremme kropslig og mental sundhed. Vi har hold i Grenaa, Ebeltoft og Bjødstrup]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-djursland/mediyoga-fof-djursland-ebeltoft-grenaa-bjoedstrup?holdnr=273328</g:link>
+      <g:image_link>https://www.fof.dk/media/qpspdyoz/mediyoga-ebeltoft-grenaa-feldballe-fof-djursland-av.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1730.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Djursland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Yoga</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Knebel</g:custom_label_4>
+      <g:start_date>2027-01-14T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Bjødstrup</g:custom_label_3>
+      <g:internal_label>['Bjødstrup','Grenaa','Ebeltoft','Mols','Hensyntagende','Bevægelse','Yoga','Knebel']</g:internal_label>
     </item>
 <item>
       <g:id>DJU-271326</g:id>
@@ -1173,7 +1151,7 @@
     </item>
 <item>
       <g:id>DJU-273411</g:id>
-      <g:title><![CDATA[Keramik - Ebeltoft]]></g:title>
+      <g:title><![CDATA[Keramik for begyndere - Ebeltoft]]></g:title>
       <g:description><![CDATA[Lær keramik fra bunden i Ebeltoft. Begynderkursus med ler, teknikker og glasur i kreativt og afslappet miljø hos FOF Djursland]]></g:description>
       <g:link>https://www.fof.dk/aftenskolen/fof-djursland/keramik-for-begyndere-ebeltoft?holdnr=273411</g:link>
       <g:image_link>https://www.fof.dk/media/xodbbnnv/keramik-ebeltoft-fof-djursland.jpg?width=1200</g:image_link>
