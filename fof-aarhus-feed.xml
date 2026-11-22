@@ -116,28 +116,6 @@
       <g:internal_label>['Korte kurser','Starter om &lt; 14 dage','Aarhus C']</g:internal_label>
     </item>
 <item>
-      <g:id>AAR-423912</g:id>
-      <g:title><![CDATA[Food Maker]]></g:title>
-      <g:description><![CDATA[Her samler vi ung madglæde, hyggeligt samvær og lækre retter i FOF Aarhus' køkken i midtbyen!]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/food-maker?holdnr=423912</g:link>
-      <g:image_link>https://www.fof.dk/media/cdmlt0km/food_maker_madlavningskursus_fof_aarhus_1200x1200.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>50.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Aarhus</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Madlavning og drikkevarer &gt; Fest- og hverdagsmad</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
-      <g:custom_label_2>Fest- og hverdagsmad</g:custom_label_2>
-      <g:custom_label_4>Aarhus</g:custom_label_4>
-      <g:start_date>2026-11-24T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Korte kurser</g:custom_label_3>
-      <g:internal_label>['Korte kurser','Starter om &lt; 14 dage','Aarhus C']</g:internal_label>
-    </item>
-<item>
       <g:id>AAR-423956</g:id>
       <g:title><![CDATA[Madglad 60+]]></g:title>
       <g:description><![CDATA[Tag med på en kulinarisk rejse og styrk fællesskabet med Madglad 60+, et samarbejde mellem FOF Aarhus og GENLYD. Uanset om du er ny i køkkenet eller en erfaren kok, er dette fællesskab åbent for alle over 60, der deler glæden ved madlavning og samvær. ]]></g:description>
@@ -1444,6 +1422,28 @@
       <g:internal_label>['Aarhus C']</g:internal_label>
     </item>
 <item>
+      <g:id>AAR-439012</g:id>
+      <g:title><![CDATA[Qigong (hensyntagende)]]></g:title>
+      <g:description><![CDATA[Kom til afslappende Qigong i FOF Aarhus. Du træner på små hold, så der er tid til dig og dine behov.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/qigong-hensyntagende?holdnr=439012</g:link>
+      <g:image_link>https://www.fof.dk/media/hhzlf32e/qigong_birgit_fof_aarhus_1200x1200.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1840.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Tai Chi og Qi Gong</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Tai Chi og Qi Gong</g:custom_label_2>
+      <g:custom_label_4>Aarhus</g:custom_label_4>
+      <g:start_date>2027-01-14T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Hensyntagende</g:custom_label_3>
+      <g:internal_label>['Hensyntagende','Aarhus C']</g:internal_label>
+    </item>
+<item>
       <g:id>AAR-434567</g:id>
       <g:title><![CDATA[Drop in kor]]></g:title>
       <g:description><![CDATA[Skab musikalsk magi på bare én aften | Har du ikke tid til ugentligt at skulle synge i kor, så er dette kor lige noget for dig! ]]></g:description>
@@ -1486,28 +1486,6 @@
       <g:start_date>2027-01-14T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Starter om &lt; 14 dage</g:custom_label_3>
       <g:internal_label>['Starter om &lt; 14 dage','Aarhus C']</g:internal_label>
-    </item>
-<item>
-      <g:id>AAR-439012</g:id>
-      <g:title><![CDATA[Qigong (hensyntagende)]]></g:title>
-      <g:description><![CDATA[Kom til afslappende Qigong i FOF Aarhus. Du træner på små hold, så der er tid til dig og dine behov.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/qigong-hensyntagende?holdnr=439012</g:link>
-      <g:image_link>https://www.fof.dk/media/hhzlf32e/qigong_birgit_fof_aarhus_1200x1200.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1840.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Aarhus</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Tai Chi og Qi Gong</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Tai Chi og Qi Gong</g:custom_label_2>
-      <g:custom_label_4>Aarhus</g:custom_label_4>
-      <g:start_date>2027-01-14T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Hensyntagende</g:custom_label_3>
-      <g:internal_label>['Hensyntagende','Aarhus C']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-433035</g:id>
@@ -1617,6 +1595,27 @@
       <g:internal_label>['Åbyhøj']</g:internal_label>
     </item>
 <item>
+      <g:id>AAR-435220</g:id>
+      <g:title><![CDATA[Velvære og nærvær for mor og baby]]></g:title>
+      <g:description><![CDATA[Kom med til en stille stund med din baby hos FOF Aarhus, og mærk hvordan små øvelser kan skabe dybere kontakt og nærvær mellem dig og dit barn. Tilmeld dig nu.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/velvaere-og-naervaer-for-mor-og-baby?holdnr=435220</g:link>
+      <g:image_link>https://www.fof.dk/media/znghahg4/nrvr_m-1.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>780.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Aktiviteter med baby</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
+      <g:custom_label_2>Aktiviteter med baby</g:custom_label_2>
+      <g:custom_label_4>Åbyhøj</g:custom_label_4>
+      <g:start_date>2027-01-19T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Åbyhøj']</g:internal_label>
+    </item>
+<item>
       <g:id>AAR-435091</g:id>
       <g:title><![CDATA[Yoga og pilates for gravide]]></g:title>
       <g:description><![CDATA[Ønsker du træning tilpasset den gravide krop? Tilmeld dig på Yoga og pilates for gravide ved FOF Aftenskolen Aarhus. ]]></g:description>
@@ -1657,27 +1656,6 @@
       <g:custom_label_4>Aarhus</g:custom_label_4>
       <g:start_date>2027-01-19T00:00:00.000Z</g:start_date>
       <g:internal_label>['Aarhus C']</g:internal_label>
-    </item>
-<item>
-      <g:id>AAR-435220</g:id>
-      <g:title><![CDATA[Velvære og nærvær for mor og baby]]></g:title>
-      <g:description><![CDATA[Kom med til en stille stund med din baby hos FOF Aarhus, og mærk hvordan små øvelser kan skabe dybere kontakt og nærvær mellem dig og dit barn. Tilmeld dig nu.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/velvaere-og-naervaer-for-mor-og-baby?holdnr=435220</g:link>
-      <g:image_link>https://www.fof.dk/media/znghahg4/nrvr_m-1.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>780.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Aarhus</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Aktiviteter med baby</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
-      <g:custom_label_2>Aktiviteter med baby</g:custom_label_2>
-      <g:custom_label_4>Åbyhøj</g:custom_label_4>
-      <g:start_date>2027-01-19T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Åbyhøj']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-435002</g:id>
@@ -2000,27 +1978,6 @@
       <g:internal_label>['Aarhus C']</g:internal_label>
     </item>
 <item>
-      <g:id>AAR-431801</g:id>
-      <g:title><![CDATA[Italiensk 1a (A1) - begynderkursus]]></g:title>
-      <g:description><![CDATA[Kom godt i gang med det skønne italienske sprog på en logisk og pædagogisk måde på dette sprogkursus i italiensk i Aarhus.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/italiensk-1a-a1-begynderkursus?holdnr=431801</g:link>
-      <g:image_link>https://www.fof.dk/media/hbkguind/barok-springvand-italien_1200x1200-fof-aarhus.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1605.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Aarhus</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Sprog &gt; Italiensk</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Sprog</g:custom_label_1>
-      <g:custom_label_2>Italiensk</g:custom_label_2>
-      <g:custom_label_4>Aarhus</g:custom_label_4>
-      <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Aarhus C']</g:internal_label>
-    </item>
-<item>
       <g:id>AAR-431919</g:id>
       <g:title><![CDATA[Latin for begyndere]]></g:title>
       <g:description><![CDATA[Lær latinsk grammatik og ord fra bunden på et kursus i Aarhus. Få større sprogforståelse, og få glæde af det latinske sprog. Tilmeld dig i dag.]]></g:description>
@@ -2037,6 +1994,27 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Sprog</g:custom_label_1>
       <g:custom_label_2>Latin</g:custom_label_2>
+      <g:custom_label_4>Aarhus</g:custom_label_4>
+      <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Aarhus C']</g:internal_label>
+    </item>
+<item>
+      <g:id>AAR-431801</g:id>
+      <g:title><![CDATA[Italiensk 1a (A1) - begynderkursus]]></g:title>
+      <g:description><![CDATA[Kom godt i gang med det skønne italienske sprog på en logisk og pædagogisk måde på dette sprogkursus i italiensk i Aarhus.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/italiensk-1a-a1-begynderkursus?holdnr=431801</g:link>
+      <g:image_link>https://www.fof.dk/media/hbkguind/barok-springvand-italien_1200x1200-fof-aarhus.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1605.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Sprog &gt; Italiensk</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Sprog</g:custom_label_1>
+      <g:custom_label_2>Italiensk</g:custom_label_2>
       <g:custom_label_4>Aarhus</g:custom_label_4>
       <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
       <g:internal_label>['Aarhus C']</g:internal_label>
@@ -2148,27 +2126,6 @@
       <g:internal_label>['Åbyhøj']</g:internal_label>
     </item>
 <item>
-      <g:id>AAR-431471</g:id>
-      <g:title><![CDATA[Tysk 7 (B2)]]></g:title>
-      <g:description><![CDATA[For dig med gode tyskkundskaber. Øv samtale, oplæg og grammatik hos FOF Aarhus. Tag en gratis sprogtest.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/tysk-7-b2?holdnr=431471</g:link>
-      <g:image_link>https://www.fof.dk/media/pm0nfxli/tysk-berlin_6_1200x1200-fof-aarhus.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1425.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Aarhus</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Sprog &gt; Tysk</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Sprog</g:custom_label_1>
-      <g:custom_label_2>Tysk</g:custom_label_2>
-      <g:custom_label_4>Aarhus</g:custom_label_4>
-      <g:start_date>2027-01-26T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Aarhus C']</g:internal_label>
-    </item>
-<item>
       <g:id>AAR-431601</g:id>
       <g:title><![CDATA[Fransk 1a (A1) - begynderkursus]]></g:title>
       <g:description><![CDATA[Lær fransk fra bunden med FOF Aarhus. Opbyg ordforråd, lær fransk udtale og enkle hverdagsfraser. Efter kurset kan du fortsætte på næste niveau.]]></g:description>
@@ -2190,22 +2147,22 @@
       <g:internal_label>['Aarhus C']</g:internal_label>
     </item>
 <item>
-      <g:id>AAR-431913</g:id>
-      <g:title><![CDATA[Persisk (farsi) 1]]></g:title>
-      <g:description><![CDATA[Kom godt i gang med farsi i FOF Aarhus. Lær almindelige ord og vendinger, få fokus på det talte sprog og bliv introduceret til persisk kultur, historie og traditioner.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/persisk-farsi-1?holdnr=431913</g:link>
-      <g:image_link>https://www.fof.dk/media/ub3fmxjx/persisk-slot_1200x1200-fof-aarhus.jpg?width=1200</g:image_link>
+      <g:id>AAR-431471</g:id>
+      <g:title><![CDATA[Tysk 7 (B2)]]></g:title>
+      <g:description><![CDATA[For dig med gode tyskkundskaber. Øv samtale, oplæg og grammatik hos FOF Aarhus. Tag en gratis sprogtest.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/tysk-7-b2?holdnr=431471</g:link>
+      <g:image_link>https://www.fof.dk/media/pm0nfxli/tysk-berlin_6_1200x1200-fof-aarhus.jpg?width=1200</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:quantity>1</g:quantity>
-      <g:price>1535.00 DKK</g:price>
+      <g:price>1425.00 DKK</g:price>
       <g:condition>new</g:condition>
       <g:brand>FOF Aarhus</g:brand>
       <g:google_product_category>Education</g:google_product_category>
       <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Sprog &gt; Persisk - farsi</g:product_type>
+      <g:product_type>Kurser &gt; Sprog &gt; Tysk</g:product_type>
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Sprog</g:custom_label_1>
-      <g:custom_label_2>Persisk - farsi</g:custom_label_2>
+      <g:custom_label_2>Tysk</g:custom_label_2>
       <g:custom_label_4>Aarhus</g:custom_label_4>
       <g:start_date>2027-01-26T00:00:00.000Z</g:start_date>
       <g:internal_label>['Aarhus C']</g:internal_label>
@@ -2227,6 +2184,27 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Sprog</g:custom_label_1>
       <g:custom_label_2>Italiensk</g:custom_label_2>
+      <g:custom_label_4>Aarhus</g:custom_label_4>
+      <g:start_date>2027-01-26T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Aarhus C']</g:internal_label>
+    </item>
+<item>
+      <g:id>AAR-431913</g:id>
+      <g:title><![CDATA[Persisk (farsi) 1]]></g:title>
+      <g:description><![CDATA[Kom godt i gang med farsi i FOF Aarhus. Lær almindelige ord og vendinger, få fokus på det talte sprog og bliv introduceret til persisk kultur, historie og traditioner.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/persisk-farsi-1?holdnr=431913</g:link>
+      <g:image_link>https://www.fof.dk/media/ub3fmxjx/persisk-slot_1200x1200-fof-aarhus.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1535.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Sprog &gt; Persisk - farsi</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Sprog</g:custom_label_1>
+      <g:custom_label_2>Persisk - farsi</g:custom_label_2>
       <g:custom_label_4>Aarhus</g:custom_label_4>
       <g:start_date>2027-01-26T00:00:00.000Z</g:start_date>
       <g:internal_label>['Aarhus C']</g:internal_label>
@@ -2358,27 +2336,6 @@
       <g:internal_label>['Lystrup']</g:internal_label>
     </item>
 <item>
-      <g:id>AAR-431915</g:id>
-      <g:title><![CDATA[Nygræsk 1]]></g:title>
-      <g:description><![CDATA[Kom i gang med nygræsk i FOF Aarhus og lær alfabet, udtale og simple samtaler – perfekt til dine rejser i Grækenland.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/nygraesk-1?holdnr=431915</g:link>
-      <g:image_link>https://www.fof.dk/media/45uhxvt4/graekenland-sprogkursus-1200x1200-fof-aarhus.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1535.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Aarhus</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Sprog &gt; Græsk</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Sprog</g:custom_label_1>
-      <g:custom_label_2>Græsk</g:custom_label_2>
-      <g:custom_label_4>Aarhus</g:custom_label_4>
-      <g:start_date>2027-01-27T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Aarhus C']</g:internal_label>
-    </item>
-<item>
       <g:id>AAR-431945</g:id>
       <g:title><![CDATA[Kinesisk til rejsebrug]]></g:title>
       <g:description><![CDATA[Lær kinesisk til rejsebrug på et kursus i FOF Aarhus. For dig, der aldrig har lært kinesisk før og gerne vil lære at klare dig på kinesisk i nogle af de mest almindelige situationer på rejsen. Tilmeld dig her!]]></g:description>
@@ -2395,6 +2352,27 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Sprog</g:custom_label_1>
       <g:custom_label_2>Kinesisk</g:custom_label_2>
+      <g:custom_label_4>Aarhus</g:custom_label_4>
+      <g:start_date>2027-01-27T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Aarhus C']</g:internal_label>
+    </item>
+<item>
+      <g:id>AAR-431915</g:id>
+      <g:title><![CDATA[Nygræsk 1]]></g:title>
+      <g:description><![CDATA[Kom i gang med nygræsk i FOF Aarhus og lær alfabet, udtale og simple samtaler – perfekt til dine rejser i Grækenland.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/nygraesk-1?holdnr=431915</g:link>
+      <g:image_link>https://www.fof.dk/media/45uhxvt4/graekenland-sprogkursus-1200x1200-fof-aarhus.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1535.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Sprog &gt; Græsk</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Sprog</g:custom_label_1>
+      <g:custom_label_2>Græsk</g:custom_label_2>
       <g:custom_label_4>Aarhus</g:custom_label_4>
       <g:start_date>2027-01-27T00:00:00.000Z</g:start_date>
       <g:internal_label>['Aarhus C']</g:internal_label>
@@ -3273,14 +3251,14 @@
       <g:internal_label>['Åbyhøj']</g:internal_label>
     </item>
 <item>
-      <g:id>AAR-436822</g:id>
-      <g:title><![CDATA[Stine Pilgaard – om hverdagslivet, humoren og litteraturen]]></g:title>
-      <g:description><![CDATA[Oplev Stine Pilgaard i Musikhuset Aarhus, hvor hun fortæller om livet, kærligheden og litteraturen med humor og sproglig skarphed. Kom med til en særlig aften.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/stine-pilgaard-om-hverdagslivet-humoren-og-litteraturen?holdnr=436822</g:link>
-      <g:image_link>https://www.fof.dk/media/lxjjyfqa/stine-pilgaard-foredrag-aarhus_foto-alexander-banck-petersen.jpg?width=1200</g:image_link>
+      <g:id>AAR-436885</g:id>
+      <g:title><![CDATA[Kunsten at investere i kunst]]></g:title>
+      <g:description><![CDATA[Kom til foredrag med direktør og auktionsleder i Bruun Rasmussen Kasper Nielsen om kunst og kunsthandlens fascinerende verden | FOF Aarhus | Tilmeld dig nu]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/kunsten-at-investere-i-kunst?holdnr=436885</g:link>
+      <g:image_link>https://www.fof.dk/media/ljzjzrzl/kasper_nielsen_foredrag_fof_aarhus_1200x1200.jpg?width=1200</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:quantity>1</g:quantity>
-      <g:price>250.00 DKK</g:price>
+      <g:price>185.00 DKK</g:price>
       <g:condition>new</g:condition>
       <g:brand>FOF Aarhus</g:brand>
       <g:google_product_category>Education</g:google_product_category>
@@ -3294,14 +3272,14 @@
       <g:internal_label>['Aarhus C']</g:internal_label>
     </item>
 <item>
-      <g:id>AAR-436885</g:id>
-      <g:title><![CDATA[Kunsten at investere i kunst]]></g:title>
-      <g:description><![CDATA[Kom til foredrag med direktør og auktionsleder i Bruun Rasmussen Kasper Nielsen om kunst og kunsthandlens fascinerende verden | FOF Aarhus | Tilmeld dig nu]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/kunsten-at-investere-i-kunst?holdnr=436885</g:link>
-      <g:image_link>https://www.fof.dk/media/ljzjzrzl/kasper_nielsen_foredrag_fof_aarhus_1200x1200.jpg?width=1200</g:image_link>
+      <g:id>AAR-436822</g:id>
+      <g:title><![CDATA[Stine Pilgaard – om hverdagslivet, humoren og litteraturen]]></g:title>
+      <g:description><![CDATA[Oplev Stine Pilgaard i Musikhuset Aarhus, hvor hun fortæller om livet, kærligheden og litteraturen med humor og sproglig skarphed. Kom med til en særlig aften.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/stine-pilgaard-om-hverdagslivet-humoren-og-litteraturen?holdnr=436822</g:link>
+      <g:image_link>https://www.fof.dk/media/lxjjyfqa/stine-pilgaard-foredrag-aarhus_foto-alexander-banck-petersen.jpg?width=1200</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:quantity>1</g:quantity>
-      <g:price>185.00 DKK</g:price>
+      <g:price>250.00 DKK</g:price>
       <g:condition>new</g:condition>
       <g:brand>FOF Aarhus</g:brand>
       <g:google_product_category>Education</g:google_product_category>
@@ -3976,28 +3954,6 @@
       <g:internal_label>['Aarhus C']</g:internal_label>
     </item>
 <item>
-      <g:id>AAR-435009</g:id>
-      <g:title><![CDATA[Ve-træning]]></g:title>
-      <g:description><![CDATA[Tag til ve-træning ved FOF Aftenskolen Aarhus og forbered dig på fødslen ved at lære at tackle dine veer. ]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/ve-traening?holdnr=435009</g:link>
-      <g:image_link>https://www.fof.dk/media/tinlo44g/vetraening_5_1200x1200-aarhus.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>195.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Aarhus</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Fødselsforberedelse</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
-      <g:custom_label_2>Fødselsforberedelse</g:custom_label_2>
-      <g:custom_label_4>Aarhus</g:custom_label_4>
-      <g:start_date>2027-03-16T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Korte kurser</g:custom_label_3>
-      <g:internal_label>['Korte kurser','Starter om &lt; 14 dage','Aarhus C']</g:internal_label>
-    </item>
-<item>
       <g:id>AAR-439090</g:id>
       <g:title><![CDATA[Prøvetime: Sansebad i naturen (hensyntagende)]]></g:title>
       <g:description><![CDATA[Oplev naturens ro med et hensyntagende kursus i sansebad i Aarhus | Tilmeld dig nu]]></g:description>
@@ -4018,6 +3974,28 @@
       <g:start_date>2027-03-16T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Hensyntagende</g:custom_label_3>
       <g:internal_label>['Hensyntagende','Højbjerg']</g:internal_label>
+    </item>
+<item>
+      <g:id>AAR-435009</g:id>
+      <g:title><![CDATA[Ve-træning]]></g:title>
+      <g:description><![CDATA[Tag til ve-træning ved FOF Aftenskolen Aarhus og forbered dig på fødslen ved at lære at tackle dine veer. ]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/ve-traening?holdnr=435009</g:link>
+      <g:image_link>https://www.fof.dk/media/tinlo44g/vetraening_5_1200x1200-aarhus.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>195.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Fødselsforberedelse</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
+      <g:custom_label_2>Fødselsforberedelse</g:custom_label_2>
+      <g:custom_label_4>Aarhus</g:custom_label_4>
+      <g:start_date>2027-03-16T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Korte kurser</g:custom_label_3>
+      <g:internal_label>['Korte kurser','Starter om &lt; 14 dage','Aarhus C']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-437000</g:id>
@@ -4063,27 +4041,6 @@
       <g:internal_label>['Hensyntagende','Risskov']</g:internal_label>
     </item>
 <item>
-      <g:id>AAR-436832</g:id>
-      <g:title><![CDATA[Antiskrøbelig - sund og stærk hele livet]]></g:title>
-      <g:description><![CDATA[Kom til foredrag med Martin Kreutzer i FOF Aarhus og få opskriften på, hvordan du holder dig sund, stærk og fuld af energi – hele livet. ]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/antiskroebelig-sund-og-staerk-hele-livet?holdnr=436832</g:link>
-      <g:image_link>https://www.fof.dk/media/afkbehuz/martin_kreutzer-1200x1200-fof-aarhus.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>175.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Aarhus</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Foredrag, debat og højskoler &gt; Sundhed og eksistens</g:product_type>
-      <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
-      <g:custom_label_1>Sundhed og eksistens</g:custom_label_1>
-      <g:custom_label_2></g:custom_label_2>
-      <g:custom_label_4>Aarhus</g:custom_label_4>
-      <g:start_date>2027-03-18T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Aarhus C']</g:internal_label>
-    </item>
-<item>
       <g:id>AAR-439086</g:id>
       <g:title><![CDATA[Prøvetime: NaturRo for kvinder der oplever stress (hensyntagende)]]></g:title>
       <g:description><![CDATA[NaturRo er for kvinder, der oplever stress, angst, depression eller lign., som ønsker at finde ro i naturen | Tilmeld dig nu]]></g:description>
@@ -4104,6 +4061,27 @@
       <g:start_date>2027-03-18T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Hensyntagende</g:custom_label_3>
       <g:internal_label>['Hensyntagende']</g:internal_label>
+    </item>
+<item>
+      <g:id>AAR-436832</g:id>
+      <g:title><![CDATA[Antiskrøbelig - sund og stærk hele livet]]></g:title>
+      <g:description><![CDATA[Kom til foredrag med Martin Kreutzer i FOF Aarhus og få opskriften på, hvordan du holder dig sund, stærk og fuld af energi – hele livet. ]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/antiskroebelig-sund-og-staerk-hele-livet?holdnr=436832</g:link>
+      <g:image_link>https://www.fof.dk/media/afkbehuz/martin_kreutzer-1200x1200-fof-aarhus.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>175.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Foredrag, debat og højskoler &gt; Sundhed og eksistens</g:product_type>
+      <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
+      <g:custom_label_1>Sundhed og eksistens</g:custom_label_1>
+      <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Aarhus</g:custom_label_4>
+      <g:start_date>2027-03-18T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Aarhus C']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-436817</g:id>
@@ -4913,6 +4891,27 @@
       <g:internal_label>['Aarhus C']</g:internal_label>
     </item>
 <item>
+      <g:id>AAR-436814</g:id>
+      <g:title><![CDATA[TV-2 - Meget mere end kedelige]]></g:title>
+      <g:description><![CDATA[Kom til foredrag i Aarhus med musikformidler Bjørn Zäll og bliv klogere på verdens kedeligste orkester | Tilmeld dig nu]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/tv-2-meget-mere-end-kedelige?holdnr=436814</g:link>
+      <g:image_link>https://www.fof.dk/media/ggdp34vr/steffen_brandt_foredrag_fof_aarhus_1200x1200.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>100.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Foredrag, debat og højskoler &gt; Musik og koncerter</g:product_type>
+      <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
+      <g:custom_label_1>Musik og koncerter</g:custom_label_1>
+      <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Aarhus</g:custom_label_4>
+      <g:start_date>2027-04-14T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Aarhus C']</g:internal_label>
+    </item>
+<item>
       <g:id>AAR-435012</g:id>
       <g:title><![CDATA[Ve-træning]]></g:title>
       <g:description><![CDATA[Tag til ve-træning ved FOF Aftenskolen Aarhus og forbered dig på fødslen ved at lære at tackle dine veer. ]]></g:description>
@@ -4933,27 +4932,6 @@
       <g:start_date>2027-04-14T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Korte kurser</g:custom_label_3>
       <g:internal_label>['Korte kurser','Starter om &lt; 14 dage','Åbyhøj']</g:internal_label>
-    </item>
-<item>
-      <g:id>AAR-436814</g:id>
-      <g:title><![CDATA[TV-2 - Meget mere end kedelige]]></g:title>
-      <g:description><![CDATA[Kom til foredrag i Aarhus med musikformidler Bjørn Zäll og bliv klogere på verdens kedeligste orkester | Tilmeld dig nu]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/tv-2-meget-mere-end-kedelige?holdnr=436814</g:link>
-      <g:image_link>https://www.fof.dk/media/ggdp34vr/steffen_brandt_foredrag_fof_aarhus_1200x1200.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>100.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Aarhus</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Foredrag, debat og højskoler &gt; Musik og koncerter</g:product_type>
-      <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
-      <g:custom_label_1>Musik og koncerter</g:custom_label_1>
-      <g:custom_label_2></g:custom_label_2>
-      <g:custom_label_4>Aarhus</g:custom_label_4>
-      <g:start_date>2027-04-14T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Aarhus C']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-436807</g:id>
@@ -5829,6 +5807,27 @@
       <g:internal_label>['Aarhus C']</g:internal_label>
     </item>
 <item>
+      <g:id>AAR-437008</g:id>
+      <g:title><![CDATA[Ove Korsgaard: Folkeskolens udfordringer]]></g:title>
+      <g:description><![CDATA[Hvad skal der til for at redde folkeskolen? Hør professor Ove Korsgaard sætte fokus på skolens udfordringer og veje til forandring. Tilmeld dig foredraget.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/ove-korsgaard-folkeskolens-udfordringer?holdnr=437008</g:link>
+      <g:image_link>https://www.fof.dk/media/ixdnn1ha/ove-korsgaard-foredrag-aarhus-fof-aftenskolen.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>50.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Aarhus</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Foredrag, debat og højskoler &gt; Samfund og historie</g:product_type>
+      <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
+      <g:custom_label_1>Samfund og historie</g:custom_label_1>
+      <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Aarhus</g:custom_label_4>
+      <g:start_date>2027-05-18T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Aarhus C']</g:internal_label>
+    </item>
+<item>
       <g:id>AAR-435017</g:id>
       <g:title><![CDATA[Ve-træning]]></g:title>
       <g:description><![CDATA[Tag til ve-træning ved FOF Aftenskolen Aarhus og forbered dig på fødslen ved at lære at tackle dine veer. ]]></g:description>
@@ -5849,27 +5848,6 @@
       <g:start_date>2027-05-18T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Korte kurser</g:custom_label_3>
       <g:internal_label>['Korte kurser','Starter om &lt; 14 dage','Aarhus C']</g:internal_label>
-    </item>
-<item>
-      <g:id>AAR-437008</g:id>
-      <g:title><![CDATA[Ove Korsgaard: Folkeskolens udfordringer]]></g:title>
-      <g:description><![CDATA[Hvad skal der til for at redde folkeskolen? Hør professor Ove Korsgaard sætte fokus på skolens udfordringer og veje til forandring. Tilmeld dig foredraget.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-aarhus/ove-korsgaard-folkeskolens-udfordringer?holdnr=437008</g:link>
-      <g:image_link>https://www.fof.dk/media/ixdnn1ha/ove-korsgaard-foredrag-aarhus-fof-aftenskolen.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>50.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Aarhus</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Foredrag, debat og højskoler &gt; Samfund og historie</g:product_type>
-      <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
-      <g:custom_label_1>Samfund og historie</g:custom_label_1>
-      <g:custom_label_2></g:custom_label_2>
-      <g:custom_label_4>Aarhus</g:custom_label_4>
-      <g:start_date>2027-05-18T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Aarhus C']</g:internal_label>
     </item>
 <item>
       <g:id>AAR-435073</g:id>

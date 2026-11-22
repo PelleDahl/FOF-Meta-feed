@@ -1219,6 +1219,10 @@
     "ogImage": "https://www.fof.dk/media/wrynwn0v/bevaegelse-varmt-vand-fof-djursland.jpg?width=1200",
     "fetchedAt": "2026-11-17T13:42:58.751Z"
   },
+  "https://www.fof.dk/aftenskolen/fof-djursland/bevaegelse-og-yoga-i-varmt-vand": {
+    "ogImage": "https://www.fof.dk/media/jhofumbf/bevaegelse-og-yoga-i-varmt-vand-ebeltoft.jpg?width=1200",
+    "fetchedAt": "2026-11-22T16:30:53.567Z"
+  },
   "https://www.fof.dk/aftenskolen/fof-djursland/billedkunst-studiegruppe-ebeltoft-grenaa": {
     "ogImage": "https://www.fof.dk/media/jv4fsxuh/billedkunst-studiegruppe-fof-djursland.png?width=1200",
     "fetchedAt": "2026-11-18T17:25:40.764Z"
@@ -1267,10 +1271,6 @@
     "ogImage": "https://www.fof.dk/media/lqkfmcnn/collage-egens.jpg?width=1200",
     "fetchedAt": "2026-11-21T12:52:51.035Z"
   },
-  "https://www.fof.dk/aftenskolen/fof-djursland/dansk-kunsthistorie-i-oejenhoejde-grenaa": {
-    "ogImage": "https://www.fof.dk/media/53soz0oc/dansk-kunsthistorie-i-oejenhoejde-grenaa-fof-djursland-1.jpg?width=1200",
-    "fetchedAt": "2026-11-16T18:45:17.376Z"
-  },
   "https://www.fof.dk/aftenskolen/fof-djursland/dynamisk-yoga-for-maend-ebeltoft": {
     "ogImage": "https://www.fof.dk/media/rv4lgdp1/herreyoga-ebeltoft-fof-djursland.jpg?width=1200",
     "fetchedAt": "2026-11-19T13:41:04.005Z"
@@ -1278,6 +1278,10 @@
   "https://www.fof.dk/aftenskolen/fof-djursland/farver-i-bevaegelse-roende": {
     "ogImage": "https://www.fof.dk/media/bo0lmucx/farver-i-bevaegelse-roende.jpg?width=1200",
     "fetchedAt": "2026-11-21T21:46:38.500Z"
+  },
+  "https://www.fof.dk/aftenskolen/fof-djursland/filmens-hemmeligheder-roende": {
+    "ogImage": "https://www.fof.dk/media/2puelbwj/filmens-hemmeligheder-roende.jpg?width=1200",
+    "fetchedAt": "2026-11-22T16:30:53.467Z"
   },
   "https://www.fof.dk/aftenskolen/fof-djursland/filosofi-for-nysgerrige-grenaa": {
     "ogImage": "https://www.fof.dk/media/cqhm5ksx/filosofi-for-nysgerrige-grenaa.jpg?width=1200",
@@ -1287,9 +1291,9 @@
     "ogImage": "https://www.fof.dk/media/wc1p4heu/pileflet-2-ryomgaard-fof-djursland.jpg?width=1200",
     "fetchedAt": "2026-11-17T23:35:40.920Z"
   },
-  "https://www.fof.dk/aftenskolen/fof-djursland/fodyoga-bobler-og-spa-paa-hotel-marina": {
-    "ogImage": "https://www.fof.dk/media/z5yplzw3/fodyoga-bobler-og-spa-paa-hotel-marina-grenaa-fof-djursland.jpg?width=1200",
-    "fetchedAt": "2026-11-18T17:25:42.906Z"
+  "https://www.fof.dk/aftenskolen/fof-djursland/fodyoga-grenaa": {
+    "ogImage": "https://www.fof.dk/media/bpebevgp/fodyoga-grenaa-fof-djursland.jpg?width=1200",
+    "fetchedAt": "2026-11-22T16:30:53.648Z"
   },
   "https://www.fof.dk/aftenskolen/fof-djursland/forstaa-din-hverdagsoekonomi-hornslet": {
     "ogImage": "https://www.fof.dk/media/ak0jtpfx/forstaa-din-hverdagsoekonomi-hornslet.jpg?width=1200",
@@ -1319,6 +1323,14 @@
     "ogImage": "https://www.fof.dk/media/fcsfu2gi/gymnastik-dans-stol-grenaa-fof-djursland.jpg?width=1200",
     "fetchedAt": "2026-11-18T17:25:41.615Z"
   },
+  "https://www.fof.dk/aftenskolen/fof-djursland/haekling-af-granny-squares-agri": {
+    "ogImage": "https://www.fof.dk/media/q1mpeja3/haekling-af-granny-squares-agri.jpg?width=1200",
+    "fetchedAt": "2026-11-22T16:30:53.977Z"
+  },
+  "https://www.fof.dk/aftenskolen/fof-djursland/hatha-yoga-bobler-og-spa-paa-hotel-marina": {
+    "ogImage": "https://www.fof.dk/media/rm3eai21/hatha-yoga-bobler-og-spa-paa-hotel-marina-grenaa.jpg?width=1200",
+    "fetchedAt": "2026-11-22T16:30:53.908Z"
+  },
   "https://www.fof.dk/aftenskolen/fof-djursland/hatha-yoga-roende": {
     "ogImage": "https://www.fof.dk/media/52oe0zje/hatha-yoga-ebeltoft-fof-djursland.jpg?width=1200",
     "fetchedAt": "2026-11-19T13:41:04.526Z"
@@ -1343,9 +1355,9 @@
     "ogImage": "https://www.fof.dk/media/lahhsodw/min-sidste-vilje-foredrag-roende.jpg?width=1200",
     "fetchedAt": "2026-11-17T13:43:01.964Z"
   },
-  "https://www.fof.dk/aftenskolen/fof-djursland/introduktion-til-fermentering-thorsager": {
+  "https://www.fof.dk/aftenskolen/fof-djursland/introduktion-til-fermentering-hornslet": {
     "ogImage": "https://www.fof.dk/media/jiqpsoxz/introduktion-til-fermentering-thorsager-fof-djursland.jpg?width=1200",
-    "fetchedAt": "2026-11-20T17:05:14.296Z"
+    "fetchedAt": "2026-11-22T16:30:53.472Z"
   },
   "https://www.fof.dk/aftenskolen/fof-djursland/investering-i-oejenhoejde": {
     "ogImage": "https://www.fof.dk/media/tzfd3ozw/investering-john-andersen-foredrag-fof-djursland.jpg?width=1200",
@@ -1386,6 +1398,10 @@
   "https://www.fof.dk/aftenskolen/fof-djursland/kreativt-jernarbejde-1-dages-kursus-grenaa": {
     "ogImage": "https://www.fof.dk/media/zflnak2n/kreativt-jernarbejde-grenaa.jpg?width=1200",
     "fetchedAt": "2026-11-19T01:56:35.218Z"
+  },
+  "https://www.fof.dk/aftenskolen/fof-djursland/kunst-strik-og-haekling-ebeltoft": {
+    "ogImage": "https://www.fof.dk/media/55efmpms/kunst-strik-og-haekling-ebeltoft.jpg?width=1200",
+    "fetchedAt": "2026-11-22T16:30:53.275Z"
   },
   "https://www.fof.dk/aftenskolen/fof-djursland/kunstig-intelligens-ai-roende": {
     "ogImage": "https://www.fof.dk/media/ws0n3nke/kunstig-intelligens-ai-roende-fof-djursland.jpg?width=1200",
@@ -1443,6 +1459,10 @@
     "ogImage": "https://www.fof.dk/media/ubzn3hbn/mosaik1-mona-lillelund-fof-djursland.jpg?width=1200",
     "fetchedAt": "2026-11-18T17:25:44.207Z"
   },
+  "https://www.fof.dk/aftenskolen/fof-djursland/naturens-spisekammer-thorsager": {
+    "ogImage": "https://www.fof.dk/media/yprj2q0k/naturens-spisekammer-thorsager.jpg?width=1200",
+    "fetchedAt": "2026-11-22T16:30:53.902Z"
+  },
   "https://www.fof.dk/aftenskolen/fof-djursland/navigation-og-whf-radio-kursus-ombord-grenaa": {
     "ogImage": "https://www.fof.dk/media/0ridiva4/navigation-og-whf-radio-kursus-ombord-grenaa-fof-djursland.jpg?width=1200",
     "fetchedAt": "2026-11-19T13:41:04.514Z"
@@ -1458,6 +1478,14 @@
   "https://www.fof.dk/aftenskolen/fof-djursland/paaskedekorationer-1-dages-kursus-roende": {
     "ogImage": "https://www.fof.dk/media/0ljg3xvy/paaskedekorationer-roende-fof-djursland.jpg?width=1200",
     "fetchedAt": "2026-11-18T17:25:43.380Z"
+  },
+  "https://www.fof.dk/aftenskolen/fof-djursland/paaskesnaps-thorsager": {
+    "ogImage": "https://www.fof.dk/media/wg0bzvub/lav-din-egen-paaskesnaps-thorsager.jpg?width=1200",
+    "fetchedAt": "2026-11-22T16:30:53.474Z"
+  },
+  "https://www.fof.dk/aftenskolen/fof-djursland/paryoga-bobler-og-spa-paa-hotel-marina": {
+    "ogImage": "https://www.fof.dk/media/iknph1tf/par-yoga-meditation-bobler-og-spa-i-gic-grenaa-1.jpg?width=1200",
+    "fetchedAt": "2026-11-22T16:30:53.568Z"
   },
   "https://www.fof.dk/aftenskolen/fof-djursland/peter-ingemann-foredrag-fra-oliekrise-til-energirevolution": {
     "ogImage": "https://www.fof.dk/media/tukflmer/peter-ingemann-foredrag-fra-oliekrise-til-energirevolution-grenaa-fof-djursland.jpg?width=1200",
@@ -1566,6 +1594,10 @@
   "https://www.fof.dk/aftenskolen/fof-djursland/yoga-for-alle-ogsaa-maend-tirstrup": {
     "ogImage": "https://www.fof.dk/media/2nebeloz/yoga-for-alle-ogsaa-maend-tirstrup.jpg?width=1200",
     "fetchedAt": "2026-11-20T17:05:14.366Z"
+  },
+  "https://www.fof.dk/aftenskolen/fof-djursland/yoga-for-maend-hornslet": {
+    "ogImage": "https://www.fof.dk/media/xu4dop5t/yoga-for-maend-hornslet.jpg?width=1200",
+    "fetchedAt": "2026-11-22T16:30:53.732Z"
   },
   "https://www.fof.dk/aftenskolen/fof-djursland/yoga-helt-i-ro-grenaa": {
     "ogImage": "https://www.fof.dk/media/ysmfeabc/yoga-nidra-grenaa-fof-djursland.jpg?width=1200",
@@ -2834,10 +2866,6 @@
   "https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/fyldte-chokolader-med-fokus-paa-julekonfekt": {
     "ogImage": "https://www.fof.dk/media/va1pvuxs/chokolade-konfekt-jul-fofkn-aftenskolen-madlavning-stock-1075705.jpg?width=1200",
     "fetchedAt": "2026-11-17T23:36:46.092Z"
-  },
-  "https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/fyldte-chokolader-voksne-og-boern-julegodter": {
-    "ogImage": "https://www.fof.dk/media/efoe34in/chokolade-konfekt-fofkn-aftenskolen-madlavning-stock-123360676.jpg?width=1200",
-    "fetchedAt": "2026-11-17T23:36:47.331Z"
   },
   "https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/gaa-og-skriv-paa-det-magiske-sommersolhverv-i-jaegersborg-dyrehave": {
     "ogImage": "https://www.fof.dk/media/wmgmdptn/praesteslette-dyrehaven-fofkn-aftenskolen-kultur-og-samfund.jpg?width=1200",
@@ -5535,6 +5563,10 @@
     "ogImage": "https://www.fof.dk/media/bnxpjvj5/oktoberfest1200x1200.jpg?width=1200",
     "fetchedAt": "2026-11-17T23:35:49.481Z"
   },
+  "https://www.fof.dk/aftenskolen/fof-oestfyn/bas": {
+    "ogImage": "https://www.fof.dk/media/1h4fybtw/bas-1.jpg?width=1200",
+    "fetchedAt": "2026-11-22T16:31:00.703Z"
+  },
   "https://www.fof.dk/aftenskolen/fof-oestfyn/chokolade": {
     "ogImage": "https://www.fof.dk/media/v14pf1db/chokolader.jpg?width=1200",
     "fetchedAt": "2026-11-17T23:36:36.374Z"
@@ -5554,6 +5586,10 @@
   "https://www.fof.dk/aftenskolen/fof-oestfyn/grafik-weekend": {
     "ogImage": "https://www.fof.dk/media/n1epk2fj/collografi.jpg?width=1200",
     "fetchedAt": "2026-11-17T23:36:35.408Z"
+  },
+  "https://www.fof.dk/aftenskolen/fof-oestfyn/guitar": {
+    "ogImage": "https://www.fof.dk/media/20pfl0d1/guitar-spiller-fof-oestfyn-aftenskolen.jpg?width=1200",
+    "fetchedAt": "2026-11-22T16:31:00.996Z"
   },
   "https://www.fof.dk/aftenskolen/fof-oestfyn/haandsyet-laeder": {
     "ogImage": "https://www.fof.dk/media/wltnrb3z/laeder.jpg?width=1200",
@@ -5575,6 +5611,10 @@
     "ogImage": "https://www.fof.dk/media/qufpnhu3/italiensk.jpg?width=1200",
     "fetchedAt": "2026-11-16T18:45:48.550Z"
   },
+  "https://www.fof.dk/aftenskolen/fof-oestfyn/klaver-og-keyboard": {
+    "ogImage": "https://www.fof.dk/media/4pxlegxv/klaver2.jpg?width=1200",
+    "fetchedAt": "2026-11-22T16:31:00.827Z"
+  },
   "https://www.fof.dk/aftenskolen/fof-oestfyn/mindyoga": {
     "ogImage": "https://www.fof.dk/media/zq2navf5/mand-yoga-fof-oestfyn-aftenskolen.jpg?width=1200",
     "fetchedAt": "2026-11-17T23:36:35.866Z"
@@ -5595,13 +5635,37 @@
     "ogImage": "https://www.fof.dk/media/g4yhqsvt/paaskeaeg.jpg?width=1200",
     "fetchedAt": "2026-11-17T23:36:35.884Z"
   },
+  "https://www.fof.dk/aftenskolen/fof-oestfyn/portugisisk-for-begyndere": {
+    "ogImage": "https://www.fof.dk/media/bslacxo1/portugisisk.jpg?width=1200",
+    "fetchedAt": "2026-11-22T16:31:01.125Z"
+  },
+  "https://www.fof.dk/aftenskolen/fof-oestfyn/portugisisk-let-oevede": {
+    "ogImage": "https://www.fof.dk/media/bslacxo1/portugisisk.jpg?width=1200",
+    "fetchedAt": "2026-11-22T16:31:00.548Z"
+  },
   "https://www.fof.dk/aftenskolen/fof-oestfyn/qigong-nyborg": {
     "ogImage": "https://www.fof.dk/media/oksfqifl/qigong21200-x-1200-px.jpg?width=1200",
     "fetchedAt": "2026-11-18T17:26:04.373Z"
   },
+  "https://www.fof.dk/aftenskolen/fof-oestfyn/samspil": {
+    "ogImage": "https://www.fof.dk/media/npgf2jjx/sammenspil2.jpg?width=1200",
+    "fetchedAt": "2026-11-22T16:31:01.097Z"
+  },
   "https://www.fof.dk/aftenskolen/fof-oestfyn/sanketur": {
     "ogImage": "https://www.fof.dk/media/enudlwtl/sanke-tur-1.jpg?width=1200",
     "fetchedAt": "2026-11-17T23:36:36.419Z"
+  },
+  "https://www.fof.dk/aftenskolen/fof-oestfyn/spansk-begynder-kerteminde": {
+    "ogImage": "https://www.fof.dk/media/zrhlbgb4/spansk.jpg?width=1200",
+    "fetchedAt": "2026-11-22T16:31:00.575Z"
+  },
+  "https://www.fof.dk/aftenskolen/fof-oestfyn/spansk-let-oevede-kerteminde": {
+    "ogImage": "https://www.fof.dk/media/sxvidr1y/spansk-fof-oestfyn-turist.jpg?width=1200",
+    "fetchedAt": "2026-11-22T16:31:01.960Z"
+  },
+  "https://www.fof.dk/aftenskolen/fof-oestfyn/trommer": {
+    "ogImage": "https://www.fof.dk/media/a5dimvaa/trommer.jpg?width=1200",
+    "fetchedAt": "2026-11-22T16:31:00.765Z"
   },
   "https://www.fof.dk/aftenskolen/fof-oestfyn/tysk-kerteminde": {
     "ogImage": "https://www.fof.dk/media/4uukfbw0/tysk-1.jpg?width=1200",

@@ -512,28 +512,6 @@
       <g:internal_label>['Haderslev']</g:internal_label>
     </item>
 <item>
-      <g:id>SDJ-3271335</g:id>
-      <g:title><![CDATA[Iyengar Yoga]]></g:title>
-      <g:description><![CDATA[Deltag i Iyengar Yoga i Haderslev hos FOF Sønderjylland. Træn smidighed, styrke, balance og nærvær. Se alle hold og tilmeld dig.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-soenderjylland/iyengar-yoga?holdnr=3271335</g:link>
-      <g:image_link>https://www.fof.dk/media/5zipnxew/iyengar-yoga.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1985.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Sønderjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Yoga</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Yoga</g:custom_label_2>
-      <g:custom_label_4>Haderslev</g:custom_label_4>
-      <g:start_date>2027-01-05T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Haderslev</g:custom_label_3>
-      <g:internal_label>['Haderslev']</g:internal_label>
-    </item>
-<item>
       <g:id>SDJ-3271864</g:id>
       <g:title><![CDATA[Kreativt håndarbejde]]></g:title>
       <g:description><![CDATA[Deltag i kreativt værksted og udfold dine idéer i et hyggeligt fællesskab. Lær nye håndværk og skab med hænderne. Se mere her og tilmeld dig i dag.]]></g:description>
@@ -550,6 +528,28 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Håndarbejde</g:custom_label_2>
+      <g:custom_label_4>Haderslev</g:custom_label_4>
+      <g:start_date>2027-01-05T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Haderslev</g:custom_label_3>
+      <g:internal_label>['Haderslev']</g:internal_label>
+    </item>
+<item>
+      <g:id>SDJ-3271335</g:id>
+      <g:title><![CDATA[Iyengar Yoga]]></g:title>
+      <g:description><![CDATA[Deltag i Iyengar Yoga i Haderslev hos FOF Sønderjylland. Træn smidighed, styrke, balance og nærvær. Se alle hold og tilmeld dig.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-soenderjylland/iyengar-yoga?holdnr=3271335</g:link>
+      <g:image_link>https://www.fof.dk/media/5zipnxew/iyengar-yoga.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1985.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sønderjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Yoga</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Yoga</g:custom_label_2>
       <g:custom_label_4>Haderslev</g:custom_label_4>
       <g:start_date>2027-01-05T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Haderslev</g:custom_label_3>
@@ -660,6 +660,28 @@
       <g:start_date>2027-01-06T00:00:00.000Z</g:start_date>
     </item>
 <item>
+      <g:id>SDJ-20000</g:id>
+      <g:title><![CDATA[Overførselshold]]></g:title>
+      <g:description><![CDATA[En to-timers workshop i Sønderborg med en kombination af blide TRE-øvelser, åndedræt, lyd og meditation. ]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-soenderjylland/workshop-sayora?holdnr=20000</g:link>
+      <g:image_link>https://www.fof.dk/media/mkujg3yb/workshop-stress-yoga-fof-soenderjylland.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>0.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sønderjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Yoga</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Sønderborg</g:custom_label_4>
+      <g:start_date>2027-01-06T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Sayora</g:custom_label_3>
+      <g:internal_label>['Sayora','Sønderborg']</g:internal_label>
+    </item>
+<item>
       <g:id>SDJ-10300</g:id>
       <g:title><![CDATA[Gavekort 300 kr.]]></g:title>
       <g:description><![CDATA[Med et gavekort til FOF Sønderjylland kan modtageren vælge mellem sprog, madlavning, kunst, kultur, motion og meget mere – præcis det, der passer bedst til interesser og ønsker. Køb i dag.]]></g:description>
@@ -698,28 +720,6 @@
       <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4></g:custom_label_4>
       <g:start_date>2027-01-06T00:00:00.000Z</g:start_date>
-    </item>
-<item>
-      <g:id>SDJ-20000</g:id>
-      <g:title><![CDATA[Overførselshold]]></g:title>
-      <g:description><![CDATA[En to-timers workshop i Sønderborg med en kombination af blide TRE-øvelser, åndedræt, lyd og meditation. ]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-soenderjylland/workshop-sayora?holdnr=20000</g:link>
-      <g:image_link>https://www.fof.dk/media/mkujg3yb/workshop-stress-yoga-fof-soenderjylland.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>0.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Sønderjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Yoga</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Yoga</g:custom_label_2>
-      <g:custom_label_4>Sønderborg</g:custom_label_4>
-      <g:start_date>2027-01-06T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Sayora</g:custom_label_3>
-      <g:internal_label>['Sayora','Sønderborg']</g:internal_label>
     </item>
 <item>
       <g:id>SDJ-1271650</g:id>
@@ -2267,6 +2267,28 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:internal_label>['Bjerggade','Aabenraa']</g:internal_label>
     </item>
 <item>
+      <g:id>SDJ-2271418</g:id>
+      <g:title><![CDATA[Pilates for alle]]></g:title>
+      <g:description><![CDATA[Med klassisk Matwork Pilates i Aabenraa og Padborg får du træning, der styrker kroppen indefra. Du arbejder med muskler, led og kropsholdning gennem præcise bevægelser, der forbedrer din styrke, smidighed og balance.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-soenderjylland/pilates-aabenraa-padborg?holdnr=2271418</g:link>
+      <g:image_link>https://www.fof.dk/media/fzjlq5t1/pilates-aabenraa-padborg-fof-soenderjylland.png?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>795.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sønderjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Pilates</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Pilates</g:custom_label_2>
+      <g:custom_label_4>Aabenraa</g:custom_label_4>
+      <g:start_date>2027-01-22T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Bjerggade</g:custom_label_3>
+      <g:internal_label>['Bjerggade','Aabenraa']</g:internal_label>
+    </item>
+<item>
       <g:id>SDJ-2271427</g:id>
       <g:title><![CDATA[Stole Pilates]]></g:title>
       <g:description><![CDATA[ Dyrk stolepilates hos FOF Sønderjylland. Skånsom træning for hele kroppen, hvor øvelserne tilpasses dig. Bliv stærkere, smidigere og få bedre balance – uden at skulle ned på gulvet.]]></g:description>
@@ -2316,28 +2338,6 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:description><![CDATA[Vil du arbejde med kroppens bevægelighed, styrke og smidighed på en grundig og systematisk måde? På dette pilateshold i Aabenraa kombinerer vi opvarmning, dynamiske stræk og mobilitetsøvelser, så hele kroppen bliver arbejdet igennem fra ankler til håndled. Vi tager udgangspunkt i kroppens behov og arbejder i et tempo, hvor der er plads til at udvikle sig.]]></g:description>
       <g:link>https://www.fof.dk/aftenskolen/fof-soenderjylland/pilates-fleksibilitet?holdnr=2271419</g:link>
       <g:image_link>https://www.fof.dk/media/xmueok5g/pilates-oevede-soenderborg-soenderjylland-fof-aftenskolen.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>795.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Sønderjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Pilates</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Pilates</g:custom_label_2>
-      <g:custom_label_4>Aabenraa</g:custom_label_4>
-      <g:start_date>2027-01-22T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Bjerggade</g:custom_label_3>
-      <g:internal_label>['Bjerggade','Aabenraa']</g:internal_label>
-    </item>
-<item>
-      <g:id>SDJ-2271418</g:id>
-      <g:title><![CDATA[Pilates for alle]]></g:title>
-      <g:description><![CDATA[Med klassisk Matwork Pilates i Aabenraa og Padborg får du træning, der styrker kroppen indefra. Du arbejder med muskler, led og kropsholdning gennem præcise bevægelser, der forbedrer din styrke, smidighed og balance.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-soenderjylland/pilates-aabenraa-padborg?holdnr=2271418</g:link>
-      <g:image_link>https://www.fof.dk/media/fzjlq5t1/pilates-aabenraa-padborg-fof-soenderjylland.png?width=1200</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:quantity>1</g:quantity>
       <g:price>795.00 DKK</g:price>
