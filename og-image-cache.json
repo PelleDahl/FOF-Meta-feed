@@ -727,10 +727,6 @@
     "ogImage": "https://www.fof.dk/media/lawclfyd/josefine_stork_foredragsholder_fof_aarhus_1200x1200.jpg?width=1200",
     "fetchedAt": "2026-11-17T23:36:27.078Z"
   },
-  "https://www.fof.dk/aftenskolen/fof-aarhus/kaare-johannessen-tilfaeldets-magt-vilkaarlighed-i-verdenshistorien": {
-    "ogImage": "https://www.fof.dk/media/dpfl4mw1/kaare-johannessen_foto-jorgelar-1200x1200-fof-aarhus.jpg?width=1200",
-    "fetchedAt": "2026-11-17T23:36:23.612Z"
-  },
   "https://www.fof.dk/aftenskolen/fof-aarhus/kabaret-nostalgi": {
     "ogImage": "https://www.fof.dk/media/j1vbo25a/kabaret-nostalgi_foredrag_fof_aarhus_1200x1200.jpg?width=1200",
     "fetchedAt": "2026-11-17T23:36:26.800Z"
@@ -883,10 +879,6 @@
     "ogImage": "https://www.fof.dk/media/orggehz0/musik-vin-aarhus-fof-aftenskolen.jpg?width=1200",
     "fetchedAt": "2026-11-17T03:01:45.490Z"
   },
-  "https://www.fof.dk/aftenskolen/fof-aarhus/musikhistorie-juleoratoriet-bach-og-barokken": {
-    "ogImage": "https://www.fof.dk/media/hqelynvk/musikhistorie_bach_med_jens_rasmussen.jpg?width=1200",
-    "fetchedAt": "2026-11-17T23:36:22.967Z"
-  },
   "https://www.fof.dk/aftenskolen/fof-aarhus/nanna-hyldgaard-hansen-togrejser-for-begyndere-i-norge-og-sverige": {
     "ogImage": "https://www.fof.dk/media/s5sd1n00/nanna_hyldgaard_foredrag_fof_aarhus_1200x1200.jpg?width=1200",
     "fetchedAt": "2026-11-17T23:36:28.360Z"
@@ -946,6 +938,10 @@
   "https://www.fof.dk/aftenskolen/fof-aarhus/perspektivtegning": {
     "ogImage": "https://www.fof.dk/media/s2qkfrwg/perspektivtegning_tegnekursus_kreativt_kursus_fof_aarhus_1200x1200.jpg?width=1200",
     "fetchedAt": "2026-11-17T23:36:25.531Z"
+  },
+  "https://www.fof.dk/aftenskolen/fof-aarhus/peter-viggo-jakobsen-sidste-nyt-fra-krigsfronten": {
+    "ogImage": "https://www.fof.dk/media/pdmlxnip/peter_viggo_1200x1200-fof-aarhus.jpg?width=1200",
+    "fetchedAt": "2026-11-23T01:01:05.126Z"
   },
   "https://www.fof.dk/aftenskolen/fof-aarhus/petra-nagel-skal-vi-virkelig-naa-det-hele": {
     "ogImage": "https://www.fof.dk/media/oxogqlxq/petra_nagel_foredrag_fof_aarhus_1200zx1200.jpg?width=1200",
@@ -1062,10 +1058,6 @@
   "https://www.fof.dk/aftenskolen/fof-aarhus/sund-cyklus-som-din-superpower": {
     "ogImage": "https://www.fof.dk/media/kg2lswxq/anette-_werenskiold_foredrag_fof_aarhus_1200x1200.jpg?width=1200",
     "fetchedAt": "2026-11-19T01:56:48.384Z"
-  },
-  "https://www.fof.dk/aftenskolen/fof-aarhus/sundt-til-den-soede-tand": {
-    "ogImage": "https://www.fof.dk/media/xzfgclwl/sund-snack_1200x1200_aarhus.jpg?width=1200",
-    "fetchedAt": "2026-11-17T23:36:23.861Z"
   },
   "https://www.fof.dk/aftenskolen/fof-aarhus/supernerven-forbindelsen-mellem-din-hjerne-og-tarm": {
     "ogImage": "https://www.fof.dk/media/hvqhi5jl/tine_joergensen_foredragsholder_fof_aarhus_1200x1200.jpg?width=1200",
@@ -3063,10 +3055,6 @@
     "ogImage": "https://www.fof.dk/media/bngevzsw/dorthe-carlsen-og-frederik-walther-loeth-christensen.jpg?width=1200",
     "fetchedAt": "2026-11-17T23:36:58.259Z"
   },
-  "https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/hvordan-skaber-vi-faellesskaber-hvor-flere-kan-hoere-til": {
-    "ogImage": "https://www.fof.dk/media/w0hlof02/line-lerche-moerck.jpg?width=1200",
-    "fetchedAt": "2026-11-17T23:36:42.018Z"
-  },
   "https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/i-oellets-fodspor": {
     "ogImage": "https://www.fof.dk/media/enpkia3w/i-oellets-fodspor-fofkn-aftenskolen-ture-ns.jpg?width=1200",
     "fetchedAt": "2026-11-17T23:37:09.333Z"
@@ -4029,7 +4017,7 @@
   },
   "https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/vilde-orkideer": {
     "ogImage": "https://www.fof.dk/media/f4pjykmk/goegeurt-vilde-orkideerfofkn-aftenskolen-ture-wikimedia-commons.jpg?width=1200",
-    "fetchedAt": "2026-11-15T21:08:27.100Z"
+    "fetchedAt": "2026-11-23T01:01:10.158Z"
   },
   "https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/vilde-planter-overtro-folkemedicin-og-vigtig-ernaering": {
     "ogImage": "https://www.fof.dk/media/r41n1a1d/vilde-planter-overtro-folkemedicin-og-vigtig-ernaering_lara-kromann.jpg?width=1200",
@@ -4038,10 +4026,6 @@
   "https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/villum-window-collection-vinduets-historie": {
     "ogImage": "https://www.fof.dk/media/vcpowfg4/kimwendt-28007.jpg?width=1200",
     "fetchedAt": "2026-11-17T23:37:06.469Z"
-  },
-  "https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/vinklub1": {
-    "ogImage": "https://www.fof.dk/media/pv3p4awu/vinsmagning-champagne-fofkn-aftenskolen-madlavning-stock-282775499.jpg?width=1200",
-    "fetchedAt": "2026-11-17T03:01:50.416Z"
   },
   "https://www.fof.dk/aftenskolen/fof-koebenhavn-og-nordsjaelland/violin": {
     "ogImage": "https://www.fof.dk/media/y4shkonw/violin-fof.jpg?width=1200",
@@ -6245,7 +6229,7 @@
   },
   "https://www.fof.dk/aftenskolen/fof-soenderjylland/staa-staerkt-i-stormen": {
     "ogImage": "https://www.fof.dk/media/hyxpz3gp/foredrag-staa-staerks-stormen-simon-krohn-fof-soenderjylland.jpg?width=1200",
-    "fetchedAt": "2026-11-15T21:08:21.271Z"
+    "fetchedAt": "2026-11-23T01:01:02.701Z"
   },
   "https://www.fof.dk/aftenskolen/fof-soenderjylland/stemmetraening": {
     "ogImage": "https://www.fof.dk/media/npvngsgy/nytaarssangkur-2025-12.jpg?width=1200",
@@ -6317,7 +6301,7 @@
   },
   "https://www.fof.dk/aftenskolen/fof-soenderjylland/workshop-pernelle": {
     "ogImage": "https://www.fof.dk/media/hg0lp2fy/yoga-klangmeditation-fof-soenderjylland.jpg?width=1200",
-    "fetchedAt": "2026-11-15T21:08:21.928Z"
+    "fetchedAt": "2026-11-23T01:01:02.673Z"
   },
   "https://www.fof.dk/aftenskolen/fof-soenderjylland/workshop-sayora": {
     "ogImage": "https://www.fof.dk/media/mkujg3yb/workshop-stress-yoga-fof-soenderjylland.jpg?width=1200",
@@ -6679,10 +6663,6 @@
     "ogImage": "https://www.fof.dk/media/xbdnjrm0/decoupager-221208-1.jpg?width=1200",
     "fetchedAt": "2026-11-17T23:35:56.116Z"
   },
-  "https://www.fof.dk/aftenskolen/fof-sydjylland/drab-og-dna": {
-    "ogImage": "https://www.fof.dk/media/tkweocpe/martin-wittrup-enggaard-og-louise-dalsgaard-250818.jpg?width=1200",
-    "fetchedAt": "2026-11-17T23:35:55.917Z"
-  },
   "https://www.fof.dk/aftenskolen/fof-sydjylland/ecstatic-dance": {
     "ogImage": "https://www.fof.dk/media/zevc133d/ecstatic-dance-261.jpg?width=1200",
     "fetchedAt": "2026-11-17T23:35:57.136Z"
@@ -6959,10 +6939,6 @@
     "ogImage": "https://www.fof.dk/media/x5glexw0/bas-efteraar.jpg?width=1200",
     "fetchedAt": "2026-11-18T17:25:54.715Z"
   },
-  "https://www.fof.dk/aftenskolen/fof-sydoestjylland/blid-yoga": {
-    "ogImage": "https://www.fof.dk/media/ewkl4hli/blid-yoga.jpg?width=1200",
-    "fetchedAt": "2026-11-17T23:36:02.867Z"
-  },
   "https://www.fof.dk/aftenskolen/fof-sydoestjylland/body-sds-grundtraening": {
     "ogImage": "https://www.fof.dk/media/u5obyzg3/body-sds-umbraco.jpg?width=1200",
     "fetchedAt": "2026-11-20T07:36:22.324Z"
@@ -6978,10 +6954,6 @@
   "https://www.fof.dk/aftenskolen/fof-sydoestjylland/dans-dig-glad": {
     "ogImage": "https://www.fof.dk/media/he0disbh/dans-dig-glad-3-fof-sydoestjylland.jpg?width=1200",
     "fetchedAt": "2026-11-19T23:08:20.598Z"
-  },
-  "https://www.fof.dk/aftenskolen/fof-sydoestjylland/dit-magiske-immunsystem-et-liv-i-balance": {
-    "ogImage": "https://www.fof.dk/media/awzfjg13/proevetimer-72.jpg?width=1200",
-    "fetchedAt": "2026-11-17T23:36:03.165Z"
   },
   "https://www.fof.dk/aftenskolen/fof-sydoestjylland/eksperimenterende-akvarel": {
     "ogImage": "https://www.fof.dk/media/f2gfqfd0/eksperimenterende-akvarel-1.jpg?width=1200",
@@ -7138,10 +7110,6 @@
   "https://www.fof.dk/aftenskolen/fof-sydoestjylland/kunstforedrag-michelangelo-s-top-hemmelighed": {
     "ogImage": "https://www.fof.dk/media/mpem3qgl/katarina-tuffveson.jpg?width=1200",
     "fetchedAt": "2026-11-16T18:45:28.559Z"
-  },
-  "https://www.fof.dk/aftenskolen/fof-sydoestjylland/kvinde-invester-dig-fri": {
-    "ogImage": "https://www.fof.dk/media/atpapt0f/proevetimer-67.jpg?width=1200",
-    "fetchedAt": "2026-11-17T23:36:03.052Z"
   },
   "https://www.fof.dk/aftenskolen/fof-sydoestjylland/laer-at-tegne": {
     "ogImage": "https://www.fof.dk/media/y5fjznip/laer-at-tegne-1.jpg?width=1200",
@@ -7346,10 +7314,6 @@
   "https://www.fof.dk/aftenskolen/fof-sydoestjylland/yoga-detox-workshop": {
     "ogImage": "https://www.fof.dk/media/pfthd4ga/yoga-detox.jpg?width=1200",
     "fetchedAt": "2026-11-17T13:43:17.334Z"
-  },
-  "https://www.fof.dk/aftenskolen/fof-sydoestjylland/yoga-for-alle": {
-    "ogImage": "https://www.fof.dk/media/jthbhisv/yoga-for-alle-fof-sydoestjylland.jpg?width=1200",
-    "fetchedAt": "2026-11-16T18:45:28.536Z"
   },
   "https://www.fof.dk/aftenskolen/fof-sydoestjylland/yogadag": {
     "ogImage": "https://www.fof.dk/media/5rpojrko/yogadag-0901.jpg?width=1200",
