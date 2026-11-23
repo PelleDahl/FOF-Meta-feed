@@ -156,7 +156,8 @@
       <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4>Horsens</g:custom_label_4>
       <g:start_date>2026-12-08T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Horsens']</g:internal_label>
+      <g:custom_label_3>Starter snart</g:custom_label_3>
+      <g:internal_label>['Starter snart','Horsens']</g:internal_label>
     </item>
 <item>
       <g:id>SOJ-265134</g:id>
@@ -653,25 +654,25 @@
       <g:internal_label>['Nyhed','Workshops','Vejle']</g:internal_label>
     </item>
 <item>
-      <g:id>SOJ-270544</g:id>
-      <g:title><![CDATA[Porcelænsmaling - Hensyn]]></g:title>
-      <g:description><![CDATA[Lær porcelænsmaling og kreative maleteknikker i Horsens. Et inspirerende kursus med fokus på billedkunst, personlig stil og kreative udtryk.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-sydoestjylland/porcelaensmaling-hensyn?holdnr=270544</g:link>
-      <g:image_link>https://www.fof.dk/media/ivrkuc4e/porcelaensmaling.jpg?width=1200</g:image_link>
+      <g:id>SOJ-274023</g:id>
+      <g:title><![CDATA[Mindful Yoga og meditation]]></g:title>
+      <g:description><![CDATA[Gå til mindful yoga i Skanderborg, Horsens og Daugård. Blid yoga med mindfulness, åndedræt og afspænding for mere ro, balance og velvære i hverdagen.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydoestjylland/mindful-yoga?holdnr=274023</g:link>
+      <g:image_link>https://www.fof.dk/media/fknaupqn/yin-yoga.jpg?width=1200</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:quantity>1</g:quantity>
-      <g:price>1590.00 DKK</g:price>
+      <g:price>1070.00 DKK</g:price>
       <g:condition>new</g:condition>
       <g:brand>FOF Sydøstjylland</g:brand>
       <g:google_product_category>Education</g:google_product_category>
       <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Kreative kurser &gt; Malekurser</g:product_type>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Yoga</g:product_type>
       <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Kreative kurser</g:custom_label_1>
-      <g:custom_label_2>Malekurser</g:custom_label_2>
-      <g:custom_label_4>Horsens</g:custom_label_4>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Give</g:custom_label_4>
       <g:start_date>2027-01-18T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Horsens']</g:internal_label>
+      <g:internal_label>['Give']</g:internal_label>
     </item>
 <item>
       <g:id>SOJ-270043</g:id>
@@ -694,6 +695,27 @@
       <g:start_date>2027-01-18T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Sommer</g:custom_label_3>
       <g:internal_label>['Sommer','Horsens']</g:internal_label>
+    </item>
+<item>
+      <g:id>SOJ-270544</g:id>
+      <g:title><![CDATA[Porcelænsmaling - Hensyn]]></g:title>
+      <g:description><![CDATA[Lær porcelænsmaling og kreative maleteknikker i Horsens. Et inspirerende kursus med fokus på billedkunst, personlig stil og kreative udtryk.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydoestjylland/porcelaensmaling-hensyn?holdnr=270544</g:link>
+      <g:image_link>https://www.fof.dk/media/ivrkuc4e/porcelaensmaling.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1590.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydøstjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Kreative kurser &gt; Malekurser</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Kreative kurser</g:custom_label_1>
+      <g:custom_label_2>Malekurser</g:custom_label_2>
+      <g:custom_label_4>Horsens</g:custom_label_4>
+      <g:start_date>2027-01-18T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Horsens']</g:internal_label>
     </item>
 <item>
       <g:id>SOJ-270245</g:id>
@@ -1469,6 +1491,27 @@
       <g:internal_label>['Gaveidéer','Horsens']</g:internal_label>
     </item>
 <item>
+      <g:id>SOJ-274049</g:id>
+      <g:title><![CDATA[Yin Yoga]]></g:title>
+      <g:description><![CDATA[Gå til yin yoga i Horsens og Vejle hos FOF. Oplev rolig og hensynstagende yoga med dybe stræk, afspænding og fokus på balance, nærvær og velvære.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydoestjylland/yin-yoga?holdnr=274049</g:link>
+      <g:image_link>https://www.fof.dk/media/fknaupqn/yin-yoga.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>695.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydøstjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Yoga</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Vejle</g:custom_label_4>
+      <g:start_date>2027-02-03T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Vejle']</g:internal_label>
+    </item>
+<item>
       <g:id>SOJ-270215</g:id>
       <g:title><![CDATA[Møbelpolstring ]]></g:title>
       <g:description><![CDATA[Lær møbelpolstring på kursus i Horsens, Vejle og Skanderborg. Ompolstr møbler, lær teknikker og skab unikke resultater – for begyndere og øvede.]]></g:description>
@@ -1489,27 +1532,6 @@
       <g:start_date>2027-02-03T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Gaveidéer</g:custom_label_3>
       <g:internal_label>['Gaveidéer','Horsens']</g:internal_label>
-    </item>
-<item>
-      <g:id>SOJ-274049</g:id>
-      <g:title><![CDATA[Yin Yoga]]></g:title>
-      <g:description><![CDATA[Gå til yin yoga i Horsens og Vejle hos FOF. Oplev rolig og hensynstagende yoga med dybe stræk, afspænding og fokus på balance, nærvær og velvære.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-sydoestjylland/yin-yoga?holdnr=274049</g:link>
-      <g:image_link>https://www.fof.dk/media/fknaupqn/yin-yoga.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>695.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Sydøstjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Yoga</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Yoga</g:custom_label_2>
-      <g:custom_label_4>Vejle</g:custom_label_4>
-      <g:start_date>2027-02-03T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Vejle']</g:internal_label>
     </item>
 <item>
       <g:id>SOJ-270314</g:id>
@@ -1648,7 +1670,7 @@
       <g:image_link>https://www.fof.dk/media/pfthd4ga/yoga-detox.jpg?width=1200</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:quantity>1</g:quantity>
-      <g:price>195.00 DKK</g:price>
+      <g:price>200.00 DKK</g:price>
       <g:condition>new</g:condition>
       <g:brand>FOF Sydøstjylland</g:brand>
       <g:google_product_category>Education</g:google_product_category>
@@ -1970,6 +1992,28 @@
       <g:internal_label>['Workshops','Kulturpas','Horsens']</g:internal_label>
     </item>
 <item>
+      <g:id>SOJ-274210</g:id>
+      <g:title><![CDATA[Lær at tegne med kul]]></g:title>
+      <g:description><![CDATA[Lær at tegne med kul på et tegnekursus i Vejle. Udforsk kultegning, lys, skygge og forskellige tegneteknikker. For begyndere – tilmeld dig hos FOF.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydoestjylland/laer-at-tegne-med-kul?holdnr=274210</g:link>
+      <g:image_link>https://www.fof.dk/media/k0snye5z/kultegning.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>525.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydøstjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Kreative kurser &gt; Tegnekurser</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Kreative kurser</g:custom_label_1>
+      <g:custom_label_2>Tegnekurser</g:custom_label_2>
+      <g:custom_label_4>Vejle</g:custom_label_4>
+      <g:start_date>2027-03-01T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Nyhed</g:custom_label_3>
+      <g:internal_label>['Nyhed','Vejle']</g:internal_label>
+    </item>
+<item>
       <g:id>SOJ-270250</g:id>
       <g:title><![CDATA[Lækre asiatiske retter til middagen ]]></g:title>
       <g:description><![CDATA[Lær at lave autentisk thaimad på et madlavningskursus i Horsens og Skanderborg. Få indsigt i thailandske råvarer, smagsteknikker og sunde retter med masser af smag og inspiration.]]></g:description>
@@ -2101,6 +2145,28 @@
       <g:internal_label>['FOF Business','Vejle']</g:internal_label>
     </item>
 <item>
+      <g:id>SOJ-274211</g:id>
+      <g:title><![CDATA[Tegning for begyndere]]></g:title>
+      <g:description><![CDATA[Lær at tegne på et tegnekursus for begyndere i Vejle. Få styr på blyanttegning, former, lys og skygge med personlig vejledning. Tilmeld dig hos FOF.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydoestjylland/tegning-for-begyndere?holdnr=274211</g:link>
+      <g:image_link>https://www.fof.dk/media/qycno4xt/tegnekursus.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>845.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydøstjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Kreative kurser &gt; Tegnekurser</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Kreative kurser</g:custom_label_1>
+      <g:custom_label_2>Tegnekurser</g:custom_label_2>
+      <g:custom_label_4>Vejle</g:custom_label_4>
+      <g:start_date>2027-03-04T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Nyhed</g:custom_label_3>
+      <g:internal_label>['Nyhed','Vejle']</g:internal_label>
+    </item>
+<item>
       <g:id>SOJ-270268</g:id>
       <g:title><![CDATA[Velkommen i det italienske trattoria]]></g:title>
       <g:description><![CDATA[Velkommen i det italienske trattoria]]></g:description>
@@ -2121,6 +2187,28 @@
       <g:start_date>2027-03-06T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Workshops</g:custom_label_3>
       <g:internal_label>['Workshops','Gaveidéer','Starter snart','Nyhed','Horsens']</g:internal_label>
+    </item>
+<item>
+      <g:id>SOJ-270222</g:id>
+      <g:title><![CDATA[Træd ind i middelalderskriverens værksted]]></g:title>
+      <g:description><![CDATA[Prøv middelalderlig kalligrafi i Horsens. Lær at skrive gotisk skrift med fjerpen, fremstille dit eget blæk og oplev et historisk håndværk hos FOF.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydoestjylland/traed-ind-i-middelalderskriverens-vaerksted?holdnr=270222</g:link>
+      <g:image_link>https://www.fof.dk/media/uo0npfzn/kalligrafi-gotisk.png?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>535.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydøstjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Kreative kurser &gt; Tegnekurser</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Kreative kurser</g:custom_label_1>
+      <g:custom_label_2>Tegnekurser</g:custom_label_2>
+      <g:custom_label_4>Horsens</g:custom_label_4>
+      <g:start_date>2027-03-06T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Nyhed</g:custom_label_3>
+      <g:internal_label>['Nyhed','Horsens']</g:internal_label>
     </item>
 <item>
       <g:id>SOJ-270098</g:id>
@@ -2539,27 +2627,6 @@
       <g:internal_label>['Skanderborg']</g:internal_label>
     </item>
 <item>
-      <g:id>SOJ-270627</g:id>
-      <g:title><![CDATA[Harmonika ]]></g:title>
-      <g:description><![CDATA[Få harmonikaundervisning i Horsens for begyndere og let øvede. Lær harmonika i dit eget tempo med personlig undervisning og musikglæde.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-sydoestjylland/harmonika-6-moedegange?holdnr=270627</g:link>
-      <g:image_link>https://www.fof.dk/media/dodfnol2/harmonika-5.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>620.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Sydøstjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Musik og sang &gt; Klaver og harmonika</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Musik og sang</g:custom_label_1>
-      <g:custom_label_2>Klaver og harmonika</g:custom_label_2>
-      <g:custom_label_4>Horsens</g:custom_label_4>
-      <g:start_date>2027-03-31T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Horsens']</g:internal_label>
-    </item>
-<item>
       <g:id>SOJ-270722</g:id>
       <g:title><![CDATA[En aften med højskolesange - Sascha Dupont]]></g:title>
       <g:description><![CDATA[Oplev en aften med FOF Sydøstjylland i Horsens, hvor vi inviterer dig til en hjertevarm sangaften, der hylder den danske sangtradition. Kom og vær med, når vi samles i fællesskab omkring Højskolesangbogen på Horsens VUC og lad os sammen skabe en aften fyldt med musik og fællesskab.]]></g:description>
@@ -2580,6 +2647,27 @@
       <g:start_date>2027-03-31T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Gaveidéer</g:custom_label_3>
       <g:internal_label>['Gaveidéer','Horsens']</g:internal_label>
+    </item>
+<item>
+      <g:id>SOJ-270627</g:id>
+      <g:title><![CDATA[Harmonika ]]></g:title>
+      <g:description><![CDATA[Få harmonikaundervisning i Horsens for begyndere og let øvede. Lær harmonika i dit eget tempo med personlig undervisning og musikglæde.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydoestjylland/harmonika-6-moedegange?holdnr=270627</g:link>
+      <g:image_link>https://www.fof.dk/media/dodfnol2/harmonika-5.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>620.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydøstjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Musik og sang &gt; Klaver og harmonika</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Musik og sang</g:custom_label_1>
+      <g:custom_label_2>Klaver og harmonika</g:custom_label_2>
+      <g:custom_label_4>Horsens</g:custom_label_4>
+      <g:start_date>2027-03-31T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Horsens']</g:internal_label>
     </item>
 <item>
       <g:id>SOJ-270130</g:id>
@@ -2623,6 +2711,28 @@
       <g:custom_label_4>Vejle</g:custom_label_4>
       <g:start_date>2027-04-05T00:00:00.000Z</g:start_date>
       <g:internal_label>['Vejle']</g:internal_label>
+    </item>
+<item>
+      <g:id>SOJ-274212</g:id>
+      <g:title><![CDATA[Portrættegning]]></g:title>
+      <g:description><![CDATA[Bliv bedre til portrættegning på et tegnekursus i Vejle. Lær proportioner, lys og skygge, og tegn portrætter af mennesker og dyr med blyant hos FOF.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydoestjylland/portraettegning?holdnr=274212</g:link>
+      <g:image_link>https://www.fof.dk/media/natlsjdz/portraettegning.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>845.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydøstjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Kreative kurser &gt; Tegnekurser</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Kreative kurser</g:custom_label_1>
+      <g:custom_label_2>Tegnekurser</g:custom_label_2>
+      <g:custom_label_4>Vejle</g:custom_label_4>
+      <g:start_date>2027-04-05T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Nyhed</g:custom_label_3>
+      <g:internal_label>['Nyhed','Vejle']</g:internal_label>
     </item>
 <item>
       <g:id>SOJ-271700</g:id>
@@ -2713,9 +2823,9 @@
     </item>
 <item>
       <g:id>SOJ-274708</g:id>
-      <g:title><![CDATA["Jeg skulle have været i Italien"]]></g:title>
+      <g:title><![CDATA["Jeg skulle have været til Italien"]]></g:title>
       <g:description><![CDATA[Oplev Annette Reiflings personlige foredrag i Vejle om livsglæde, livets uventede forandringer og kunsten at give slip. Få inspiration og nye perspektiver.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-sydoestjylland/jeg-skulle-have-vaeret-i-italien?holdnr=274708</g:link>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydoestjylland/jeg-skulle-have-vaeret-til-italien?holdnr=274708</g:link>
       <g:image_link>https://www.fof.dk/media/h1ujbqch/annette-reifling-hjemmeside.jpg?width=1200</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:quantity>1</g:quantity>

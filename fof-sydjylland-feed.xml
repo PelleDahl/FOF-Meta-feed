@@ -116,6 +116,28 @@
       <g:internal_label>['Vejen','Starter snart','Motion og sundhed','Tai Chi og Qi Gong','Brørup']</g:internal_label>
     </item>
 <item>
+      <g:id>SJY-2623501</g:id>
+      <g:title><![CDATA[Trompet]]></g:title>
+      <g:description><![CDATA[Lær at spille på det højest klingende instrument i messingfamilien, der ofte spiller melodien i orkestret. Se mere og tilmeld dig undervisningen i Kolding.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydjylland/trompet?holdnr=2623501</g:link>
+      <g:image_link>https://www.fof.dk/media/vxsl1pya/trompet-2022.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1395.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Musik og sang &gt; Blæsere</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Musik og sang</g:custom_label_1>
+      <g:custom_label_2>Blæsere</g:custom_label_2>
+      <g:custom_label_4>Kolding</g:custom_label_4>
+      <g:start_date>2026-12-01T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Instrumental undervisning</g:custom_label_3>
+      <g:internal_label>['Instrumental undervisning','Kolding']</g:internal_label>
+    </item>
+<item>
       <g:id>SJY-2620408</g:id>
       <g:title><![CDATA[Dus med himlens fugle - Morten Korch]]></g:title>
       <g:description><![CDATA[Oplev Esther Rützous levende foredrag i Rødding om Morten Korch. Få historien om forfatteren, hans modgang og succeser. Se mere og køb billet.]]></g:description>
@@ -1656,28 +1678,6 @@
       <g:internal_label>['Tønder','Sprog','Dansk - Danish','Sprog niveau - Begyndere og fortsættere','Bredebro']</g:internal_label>
     </item>
 <item>
-      <g:id>SJY-2712401</g:id>
-      <g:title><![CDATA[Kinesisk 1 -  Begynder]]></g:title>
-      <g:description><![CDATA[Lær kinesisk eller få det genopfrisket. Vi arbejder med det kinesiske sprog og på kulturforståelsen. Derudover vil der også blive arbejdet med skrifttegn. Se mere og tilmeld dig.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-sydjylland/kinesisk-1-begynder?holdnr=2712401</g:link>
-      <g:image_link>https://www.fof.dk/media/sovk4ajx/kinesisk-1.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1495.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Sydjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Sprog &gt; Kinesisk</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Sprog</g:custom_label_1>
-      <g:custom_label_2>Kinesisk</g:custom_label_2>
-      <g:custom_label_4>Kolding</g:custom_label_4>
-      <g:start_date>2027-01-28T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Kolding</g:custom_label_3>
-      <g:internal_label>['Kolding','Sprog','Kinesisk','Sprog niveau - Begyndere og fortsættere']</g:internal_label>
-    </item>
-<item>
       <g:id>SJY-2712652</g:id>
       <g:title><![CDATA[Dansk for fortsættere]]></g:title>
       <g:description><![CDATA[For dig, der allerede kan snakke lidt dansk. Styrk både det grammatiske og hverdagssproget i hyggelige rammer - helt lokalt. Se mere og tilmeld dig.]]></g:description>
@@ -1698,6 +1698,28 @@
       <g:start_date>2027-01-28T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Tønder</g:custom_label_3>
       <g:internal_label>['Tønder','Sprog','Dansk - Danish','Sprog niveau - Begyndere og fortsættere','Bredebro']</g:internal_label>
+    </item>
+<item>
+      <g:id>SJY-2712401</g:id>
+      <g:title><![CDATA[Kinesisk 1 -  Begynder]]></g:title>
+      <g:description><![CDATA[Lær kinesisk eller få det genopfrisket. Vi arbejder med det kinesiske sprog og på kulturforståelsen. Derudover vil der også blive arbejdet med skrifttegn. Se mere og tilmeld dig.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydjylland/kinesisk-1-begynder?holdnr=2712401</g:link>
+      <g:image_link>https://www.fof.dk/media/sovk4ajx/kinesisk-1.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1495.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Sprog &gt; Kinesisk</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Sprog</g:custom_label_1>
+      <g:custom_label_2>Kinesisk</g:custom_label_2>
+      <g:custom_label_4>Kolding</g:custom_label_4>
+      <g:start_date>2027-01-28T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Kolding</g:custom_label_3>
+      <g:internal_label>['Kolding','Sprog','Kinesisk','Sprog niveau - Begyndere og fortsættere']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2716020</g:id>

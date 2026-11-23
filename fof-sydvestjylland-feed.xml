@@ -6,28 +6,6 @@
 <description>Meta produktfeed med alle ledige hold fra FOF Sydvestjylland</description>
 <language>da-DK</language>
 <item>
-      <g:id>SVJ-262034</g:id>
-      <g:title><![CDATA[Kaffe og rundstykke med pålæg (Kulturhøjskolen)]]></g:title>
-      <g:description><![CDATA[Oplev Kulturhøjskolen i Esbjerg med 6 inspirerende foredrag, musik og fællessang. Bliv klogere og mød andre i trygge rammer. Tilmeld dig her.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-sydvestjylland/kulturhoejskolen?holdnr=262034</g:link>
-      <g:image_link>https://www.fof.dk/media/pmnp5zmd/kulturhoejskolen-foredrag-sydvestjylland-fof-aftenskolen.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>50.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Sydvestjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Foredrag, debat og højskoler &gt; Højskoleforløb</g:product_type>
-      <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
-      <g:custom_label_1>Højskoleforløb</g:custom_label_1>
-      <g:custom_label_2></g:custom_label_2>
-      <g:custom_label_4>Esbjerg</g:custom_label_4>
-      <g:start_date>2026-11-25T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Esbjerg</g:custom_label_3>
-      <g:internal_label>['Esbjerg']</g:internal_label>
-    </item>
-<item>
       <g:id>SVJ-262430</g:id>
       <g:title><![CDATA[Brødbagning]]></g:title>
       <g:description><![CDATA[Bag som en professionel med bagermester John Bramsen! På kurset får du tips til at ælte, hæve og bage brød med perfekt skorpe og smag. Læs mere.]]></g:description>
@@ -360,7 +338,7 @@
 <item>
       <g:id>SVJ-2710339</g:id>
       <g:title><![CDATA[Tufting - med Danella nål, for begyndere]]></g:title>
-      <g:description><![CDATA[Skab dit eget tuftede billede med Danella-nål. Et meditativt og kreativt kursus for begyndere, hvor alt materiale er inkluderet. Læs mere her.]]></g:description>
+      <g:description><![CDATA[Skab dit eget tuftede billede med Danella-nål. Et meditativt og kreativt kursus for begyndere. Læs mere her.]]></g:description>
       <g:link>https://www.fof.dk/aftenskolen/fof-sydvestjylland/tufting-med-danella-naal?holdnr=2710339</g:link>
       <g:image_link>https://www.fof.dk/media/odobo1zs/kurser-kreative-kurser-haandarbejde-tufting-med-danelle-naal-esbjerg-fof-aftenskolen-sydvestjylland-05.jpg?width=1200</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -1086,7 +1064,7 @@
 <item>
       <g:id>SVJ-2710341</g:id>
       <g:title><![CDATA[Tufting - med Danella nål, for begyndere]]></g:title>
-      <g:description><![CDATA[Skab dit eget tuftede billede med Danella-nål. Et meditativt og kreativt kursus for begyndere, hvor alt materiale er inkluderet. Læs mere her.]]></g:description>
+      <g:description><![CDATA[Skab dit eget tuftede billede med Danella-nål. Et meditativt og kreativt kursus for begyndere. Læs mere her.]]></g:description>
       <g:link>https://www.fof.dk/aftenskolen/fof-sydvestjylland/tufting-med-danella-naal?holdnr=2710341</g:link>
       <g:image_link>https://www.fof.dk/media/odobo1zs/kurser-kreative-kurser-haandarbejde-tufting-med-danelle-naal-esbjerg-fof-aftenskolen-sydvestjylland-05.jpg?width=1200</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -1482,7 +1460,7 @@
 <item>
       <g:id>SVJ-2710342</g:id>
       <g:title><![CDATA[Tufting - med Danella nål, for begyndere]]></g:title>
-      <g:description><![CDATA[Skab dit eget tuftede billede med Danella-nål. Et meditativt og kreativt kursus for begyndere, hvor alt materiale er inkluderet. Læs mere her.]]></g:description>
+      <g:description><![CDATA[Skab dit eget tuftede billede med Danella-nål. Et meditativt og kreativt kursus for begyndere. Læs mere her.]]></g:description>
       <g:link>https://www.fof.dk/aftenskolen/fof-sydvestjylland/tufting-med-danella-naal?holdnr=2710342</g:link>
       <g:image_link>https://www.fof.dk/media/odobo1zs/kurser-kreative-kurser-haandarbejde-tufting-med-danelle-naal-esbjerg-fof-aftenskolen-sydvestjylland-05.jpg?width=1200</g:image_link>
       <g:availability>in_stock</g:availability>
@@ -1588,6 +1566,28 @@
       <g:start_date>2027-04-02T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Madlavning og drikkevarer</g:custom_label_3>
       <g:internal_label>['Madlavning og drikkevarer','Fanø','Bramming']</g:internal_label>
+    </item>
+<item>
+      <g:id>SVJ-2710454</g:id>
+      <g:title><![CDATA[Workshop: Veganske tapashapsere]]></g:title>
+      <g:description><![CDATA[Lær at lave 7 veganske tapas med både søde og salte hapsere. Få opskrifter, gode tips og hyggeligt fællesskab. Tilmeld dig i dag og kom godt i gang!]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydvestjylland/veganske-tapashapsere?holdnr=2710454</g:link>
+      <g:image_link>https://www.fof.dk/media/vw0gxl1b/kurser-veganske-tapashapasere-sydvestjylland-fof-aftenskolen-01.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>300.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydvestjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Madlavning og drikkevarer &gt; Vegetarisk og vegansk</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
+      <g:custom_label_2>Vegetarisk og vegansk</g:custom_label_2>
+      <g:custom_label_4>Fanø</g:custom_label_4>
+      <g:start_date>2027-04-03T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Madlavning og drikkevarer</g:custom_label_3>
+      <g:internal_label>['Madlavning og drikkevarer','Nyhed','Fanø']</g:internal_label>
     </item>
 <item>
       <g:id>SVJ-2710402</g:id>
@@ -2402,6 +2402,28 @@
       <g:start_date>2027-06-01T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Graviditet og barsel</g:custom_label_3>
       <g:internal_label>['Graviditet og barsel','Varde']</g:internal_label>
+    </item>
+<item>
+      <g:id>SVJ-2710015</g:id>
+      <g:title><![CDATA[Botanisér-tur på Grønningen]]></g:title>
+      <g:description><![CDATA[Tag med på botanisk vandretur på Grønningen på Fanø. Oplev vilde planter, natur og lokalhistorie i trygge rammer. Tilmeld dig en spændende tur.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydvestjylland/botaniser-tur-paa-groenningen?holdnr=2710015</g:link>
+      <g:image_link>https://www.fof.dk/media/4wsaqdzz/_ture-botaniser-tur-paa-groenningen-sydvestjylland-fof-aftenskolen-02.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>125.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydvestjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Rejser, ture og rundvisninger &gt; Naturvandringer</g:product_type>
+      <g:custom_label_0>Rejser, ture og rundvisninger</g:custom_label_0>
+      <g:custom_label_1>Naturvandringer</g:custom_label_1>
+      <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4></g:custom_label_4>
+      <g:start_date>2027-06-26T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Nyhed</g:custom_label_3>
+      <g:internal_label>['Nyhed','Fanø','Ture og rundvisninger']</g:internal_label>
     </item>
 <item>
       <g:id>SVJ-2720500</g:id>
