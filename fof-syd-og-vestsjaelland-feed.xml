@@ -464,8 +464,8 @@
       <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4>Næstved</g:custom_label_4>
       <g:start_date>2027-01-21T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Foredrag</g:custom_label_3>
-      <g:internal_label>['Foredrag','Vinsmagning','Næstved']</g:internal_label>
+      <g:custom_label_3>Næstved</g:custom_label_3>
+      <g:internal_label>['Næstved','Kalender - Januar','Foredrag','Vinsmagning']</g:internal_label>
     </item>
 <item>
       <g:id>SVS-180726</g:id>
@@ -574,8 +574,8 @@
       <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4>Slagelse</g:custom_label_4>
       <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Foredrag</g:custom_label_3>
-      <g:internal_label>['Foredrag','Slagelse']</g:internal_label>
+      <g:custom_label_3>Slagelse</g:custom_label_3>
+      <g:internal_label>['Slagelse','Kalender - Januar','Foredrag']</g:internal_label>
     </item>
 <item>
       <g:id>SVS-655527</g:id>
@@ -970,8 +970,8 @@
       <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4>Slagelse</g:custom_label_4>
       <g:start_date>2027-02-11T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Foredrag</g:custom_label_3>
-      <g:internal_label>['Foredrag','Vinsmagning','Slagelse']</g:internal_label>
+      <g:custom_label_3>Slagelse</g:custom_label_3>
+      <g:internal_label>['Slagelse','Foredrag','Vinsmagning']</g:internal_label>
     </item>
 <item>
       <g:id>SVS-307027</g:id>

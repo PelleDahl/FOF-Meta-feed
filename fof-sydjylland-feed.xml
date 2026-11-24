@@ -28,28 +28,6 @@
       <g:internal_label>['Aabenraa','Hold til under 200 kr','Starter snart','Foredrag']</g:internal_label>
     </item>
 <item>
-      <g:id>SJY-2625291</g:id>
-      <g:title><![CDATA[Yoga for alle]]></g:title>
-      <g:description><![CDATA[Yoga i Skærbæk for begyndere og øvede. Lær rolige og varierende øvelser, der styrker kroppen og skaber bedre kontakt mellem krop og sind. Se mere og tilmeld dig.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-sydjylland/yoga-nana?holdnr=2625291</g:link>
-      <g:image_link>https://www.fof.dk/media/gkhnnies/yoga-63089223.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>819.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Sydjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Yoga</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Yoga</g:custom_label_2>
-      <g:custom_label_4>Skærbæk</g:custom_label_4>
-      <g:start_date>2026-11-27T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Tønder</g:custom_label_3>
-      <g:internal_label>['Tønder','Starter snart','Yoga','Motion og sundhed','Skærbæk']</g:internal_label>
-    </item>
-<item>
       <g:id>SJY-2620307</g:id>
       <g:title><![CDATA[Dus med himlens fugle - Morten Korch]]></g:title>
       <g:description><![CDATA[Oplev et levende foredrag om Morten Korch i Kolding med Esther Rützou. Få historien om forfatterens liv, bøger og succes. Se mere og tilmeld dig.]]></g:description>
@@ -134,8 +112,8 @@
       <g:custom_label_2>Blæsere</g:custom_label_2>
       <g:custom_label_4>Kolding</g:custom_label_4>
       <g:start_date>2026-12-01T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Instrumental undervisning</g:custom_label_3>
-      <g:internal_label>['Instrumental undervisning','Kolding']</g:internal_label>
+      <g:custom_label_3>Starter snart</g:custom_label_3>
+      <g:internal_label>['Starter snart','Kolding','Instrumental undervisning']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2620408</g:id>
@@ -1040,28 +1018,6 @@
       <g:internal_label>['Kolding','Sprog','Græsk','Sprog niveau - Begyndere og fortsættere']</g:internal_label>
     </item>
 <item>
-      <g:id>SJY-2712701</g:id>
-      <g:title><![CDATA[Arabisk 1 - Begynder]]></g:title>
-      <g:description><![CDATA[Lær arabisk for begyndere med Ibrahim i Kolding, Tønder og Haderslev - og begynd at tale arabisk fra første lektion. Se mere og tilmeld dig.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-sydjylland/arabisk-1-begynder?holdnr=2712701</g:link>
-      <g:image_link>https://www.fof.dk/media/rxqhl1al/arabisk-1.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1365.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Sydjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Sprog &gt; Arabisk</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Sprog</g:custom_label_1>
-      <g:custom_label_2>Arabisk</g:custom_label_2>
-      <g:custom_label_4>Tønder</g:custom_label_4>
-      <g:start_date>2027-01-19T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Tønder</g:custom_label_3>
-      <g:internal_label>['Tønder','Sprog','Arabisk','Sprog niveau - Begyndere og fortsættere']</g:internal_label>
-    </item>
-<item>
       <g:id>SJY-2718340</g:id>
       <g:title><![CDATA[Afspænding for herrer og damer - OK-Skolen]]></g:title>
       <g:description><![CDATA[Hold dig i form og fungér bedre i det daglige med afspænding - og få bedre forståelse for kroppens funktioner. Se mere og tilmeld dig.]]></g:description>
@@ -1082,6 +1038,28 @@
       <g:start_date>2027-01-19T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Kolding</g:custom_label_3>
       <g:internal_label>['Kolding','Motion og sundhed','Bevægelse og afspænding','OK-Skolen','Hensyntagende']</g:internal_label>
+    </item>
+<item>
+      <g:id>SJY-2712701</g:id>
+      <g:title><![CDATA[Arabisk 1 - Begynder]]></g:title>
+      <g:description><![CDATA[Lær arabisk for begyndere med Ibrahim i Kolding, Tønder og Haderslev - og begynd at tale arabisk fra første lektion. Se mere og tilmeld dig.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydjylland/arabisk-1-begynder?holdnr=2712701</g:link>
+      <g:image_link>https://www.fof.dk/media/rxqhl1al/arabisk-1.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1365.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Sprog &gt; Arabisk</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Sprog</g:custom_label_1>
+      <g:custom_label_2>Arabisk</g:custom_label_2>
+      <g:custom_label_4>Tønder</g:custom_label_4>
+      <g:start_date>2027-01-19T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Tønder</g:custom_label_3>
+      <g:internal_label>['Tønder','Sprog','Arabisk','Sprog niveau - Begyndere og fortsættere']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2716690</g:id>
@@ -1546,28 +1524,6 @@
       <g:internal_label>['Aabenraa','Tysk','Sprog','Sprog niveau - Genopfriskning']</g:internal_label>
     </item>
 <item>
-      <g:id>SJY-2719151</g:id>
-      <g:title><![CDATA[Ballet-lignende motion - For demensramte]]></g:title>
-      <g:description><![CDATA[Lav rolige ballet-lignende bevægelser i Kolding, Vamdrup og Christiansfeld. Styrk balancen, smidigheden og velværet i et roligt tempo. Se mere og tilmeld dig.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-sydjylland/ballet-lignende-motion-for-demensramte?holdnr=2719151</g:link>
-      <g:image_link>https://www.fof.dk/media/0zkjdrka/balletlignende-motion-2018-3.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>940.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Sydjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Dans</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Dans</g:custom_label_2>
-      <g:custom_label_4>Christiansfeld</g:custom_label_4>
-      <g:start_date>2027-01-27T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Kolding</g:custom_label_3>
-      <g:internal_label>['Kolding','Dans','Motion og sundhed','For demensramte og pårørende','Hensyntagende','Christiansfeld']</g:internal_label>
-    </item>
-<item>
       <g:id>SJY-2711000</g:id>
       <g:title><![CDATA[Mac for alle]]></g:title>
       <g:description><![CDATA[Lær at bruge din Mac i Kolding. Dyk ned i macOS med Safari, Pages, Numbers, billeder og AI i et roligt tempo med plads til egne spørgsmål. Se mere og tilmeld dig.]]></g:description>
@@ -1588,6 +1544,28 @@
       <g:start_date>2027-01-27T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Kolding</g:custom_label_3>
       <g:internal_label>['Kolding','It og foto']</g:internal_label>
+    </item>
+<item>
+      <g:id>SJY-2719151</g:id>
+      <g:title><![CDATA[Ballet-lignende motion - For demensramte]]></g:title>
+      <g:description><![CDATA[Lav rolige ballet-lignende bevægelser i Kolding, Vamdrup og Christiansfeld. Styrk balancen, smidigheden og velværet i et roligt tempo. Se mere og tilmeld dig.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydjylland/ballet-lignende-motion-for-demensramte?holdnr=2719151</g:link>
+      <g:image_link>https://www.fof.dk/media/0zkjdrka/balletlignende-motion-2018-3.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>940.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Dans</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Dans</g:custom_label_2>
+      <g:custom_label_4>Christiansfeld</g:custom_label_4>
+      <g:start_date>2027-01-27T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Kolding</g:custom_label_3>
+      <g:internal_label>['Kolding','Dans','Motion og sundhed','For demensramte og pårørende','Hensyntagende','Christiansfeld']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2719153</g:id>
@@ -1678,28 +1656,6 @@
       <g:internal_label>['Tønder','Sprog','Dansk - Danish','Sprog niveau - Begyndere og fortsættere','Bredebro']</g:internal_label>
     </item>
 <item>
-      <g:id>SJY-2712652</g:id>
-      <g:title><![CDATA[Dansk for fortsættere]]></g:title>
-      <g:description><![CDATA[For dig, der allerede kan snakke lidt dansk. Styrk både det grammatiske og hverdagssproget i hyggelige rammer - helt lokalt. Se mere og tilmeld dig.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-sydjylland/dansk-for-fortsaettere?holdnr=2712652</g:link>
-      <g:image_link>https://www.fof.dk/media/fkuluwls/dansk-251.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>875.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Sydjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Sprog &gt; Dansk - Danish</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Sprog</g:custom_label_1>
-      <g:custom_label_2>Dansk - Danish</g:custom_label_2>
-      <g:custom_label_4>Bredebro</g:custom_label_4>
-      <g:start_date>2027-01-28T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Tønder</g:custom_label_3>
-      <g:internal_label>['Tønder','Sprog','Dansk - Danish','Sprog niveau - Begyndere og fortsættere','Bredebro']</g:internal_label>
-    </item>
-<item>
       <g:id>SJY-2712401</g:id>
       <g:title><![CDATA[Kinesisk 1 -  Begynder]]></g:title>
       <g:description><![CDATA[Lær kinesisk eller få det genopfrisket. Vi arbejder med det kinesiske sprog og på kulturforståelsen. Derudover vil der også blive arbejdet med skrifttegn. Se mere og tilmeld dig.]]></g:description>
@@ -1720,6 +1676,28 @@
       <g:start_date>2027-01-28T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Kolding</g:custom_label_3>
       <g:internal_label>['Kolding','Sprog','Kinesisk','Sprog niveau - Begyndere og fortsættere']</g:internal_label>
+    </item>
+<item>
+      <g:id>SJY-2712652</g:id>
+      <g:title><![CDATA[Dansk for fortsættere]]></g:title>
+      <g:description><![CDATA[For dig, der allerede kan snakke lidt dansk. Styrk både det grammatiske og hverdagssproget i hyggelige rammer - helt lokalt. Se mere og tilmeld dig.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydjylland/dansk-for-fortsaettere?holdnr=2712652</g:link>
+      <g:image_link>https://www.fof.dk/media/fkuluwls/dansk-251.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>875.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Sprog &gt; Dansk - Danish</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Sprog</g:custom_label_1>
+      <g:custom_label_2>Dansk - Danish</g:custom_label_2>
+      <g:custom_label_4>Bredebro</g:custom_label_4>
+      <g:start_date>2027-01-28T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Tønder</g:custom_label_3>
+      <g:internal_label>['Tønder','Sprog','Dansk - Danish','Sprog niveau - Begyndere og fortsættere','Bredebro']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2716020</g:id>

@@ -442,8 +442,8 @@
       <g:custom_label_2>Kropspleje</g:custom_label_2>
       <g:custom_label_4>Køge</g:custom_label_4>
       <g:start_date>2027-01-09T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Weekend</g:custom_label_3>
-      <g:internal_label>['Weekend','Køge']</g:internal_label>
+      <g:custom_label_3>Forår</g:custom_label_3>
+      <g:internal_label>['Forår','Endagskurser','Køge','Weekend']</g:internal_label>
     </item>
 <item>
       <g:id>KOE-53008</g:id>
@@ -640,8 +640,8 @@
       <g:custom_label_2>Yoga</g:custom_label_2>
       <g:custom_label_4>Stenløse</g:custom_label_4>
       <g:start_date>2027-01-19T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Weekend</g:custom_label_3>
-      <g:internal_label>['Weekend','Stenløse']</g:internal_label>
+      <g:custom_label_3>Forår</g:custom_label_3>
+      <g:internal_label>['Forår','Egedal','Weekend','Stenløse']</g:internal_label>
     </item>
 <item>
       <g:id>KOE-52222</g:id>
@@ -662,8 +662,8 @@
       <g:custom_label_2>Yoga</g:custom_label_2>
       <g:custom_label_4>Stenløse</g:custom_label_4>
       <g:start_date>2027-01-19T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Weekend</g:custom_label_3>
-      <g:internal_label>['Weekend','Stenløse']</g:internal_label>
+      <g:custom_label_3>Forår</g:custom_label_3>
+      <g:internal_label>['Forår','Egedal','Weekend','Stenløse']</g:internal_label>
     </item>
 <item>
       <g:id>KOE-52887</g:id>
@@ -796,28 +796,6 @@
       <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Endagskurser</g:custom_label_3>
       <g:internal_label>['Endagskurser','Køge','Forår','Weekend']</g:internal_label>
-    </item>
-<item>
-      <g:id>KOE-53202</g:id>
-      <g:title><![CDATA[Surdej for begyndere]]></g:title>
-      <g:description><![CDATA[Vores dygtige surdejsekspert får dig i gang: Kom med til surdejskursus i Roskilde, på Bornholm, i Køge og Smørum. Bliv en sand surdejsmesterbager på vores surdejskurser i Køge, Smørum og Rønne. Her lærer du at bage brød med saftig krumme og knasende skorpe.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koege-bugt/surdej?holdnr=53202</g:link>
-      <g:image_link>https://www.fof.dk/media/g1zl11mh/surdej-fof-koege-bugt.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>351.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Køge Bugt</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Madlavning og drikkevarer &gt; Bagning og søde sager</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
-      <g:custom_label_2>Bagning og søde sager</g:custom_label_2>
-      <g:custom_label_4>Roskilde</g:custom_label_4>
-      <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Roskilde</g:custom_label_3>
-      <g:internal_label>['Roskilde','Endagskurser','Forår','Weekend']</g:internal_label>
     </item>
 <item>
       <g:id>KOE-52061</g:id>
@@ -1612,28 +1590,6 @@
       <g:internal_label>['Forår','Køge','Weekend']</g:internal_label>
     </item>
 <item>
-      <g:id>KOE-53873</g:id>
-      <g:title><![CDATA[Rundt om Børsen - et handelshus af format]]></g:title>
-      <g:description><![CDATA[Rundvisning med FOF: Børsen rundvisning på Slotsholmen med Marianne Bentzen. Guidet tur om handelshistorie, branden i 2024 og den aktuelle genopbygning med besøg i udstillingen om Københavns ikoniske bygning.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koege-bugt/boersen-paa-ny-et-handelshus-af-format?holdnr=53873</g:link>
-      <g:image_link>https://www.fof.dk/media/zsdb0vxe/boersen-koege-fof-aftenskolen.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>185.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Køge Bugt</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Rejser, ture og rundvisninger &gt; Rundvisninger</g:product_type>
-      <g:custom_label_0>Rejser, ture og rundvisninger</g:custom_label_0>
-      <g:custom_label_1>Rundvisninger</g:custom_label_1>
-      <g:custom_label_2></g:custom_label_2>
-      <g:custom_label_4></g:custom_label_4>
-      <g:start_date>2027-03-13T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Forår</g:custom_label_3>
-      <g:internal_label>['Forår','Endagskurser','Weekend']</g:internal_label>
-    </item>
-<item>
       <g:id>KOE-52884</g:id>
       <g:title><![CDATA[Mal planter og blomster med akvarel - weekendworkshop ]]></g:title>
       <g:description><![CDATA[Prøv en akvarel workshop i Greve, Roskilde, Køge eller Smørum. Lær at male med akvarel på en kreativ endagsworkshop for begyndere og øvede.]]></g:description>
@@ -2294,28 +2250,6 @@
       <g:internal_label>['Forår','Greve']</g:internal_label>
     </item>
 <item>
-      <g:id>KOE-53878</g:id>
-      <g:title><![CDATA[Tur til Badehotellet i Nyvang oplevelsescenter ]]></g:title>
-      <g:description><![CDATA[Tag med på dagstur til Oplevelsescenter Nyvang. Oplev livet fra 1930 til 1959, besøg Badehotellet og nyd frokost på Madam Blå. Bus og entré inkluderet.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koege-bugt/tur-til-badehotellet-i-nyvang-oplevelsescenter?holdnr=53878</g:link>
-      <g:image_link>https://www.fof.dk/media/03apu30s/rundvisning-nyvang-koege-fof-aftenskolen.png?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>925.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Køge Bugt</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Rejser, ture og rundvisninger &gt; Udflugter og dagsture</g:product_type>
-      <g:custom_label_0>Rejser, ture og rundvisninger</g:custom_label_0>
-      <g:custom_label_1>Udflugter og dagsture</g:custom_label_1>
-      <g:custom_label_2></g:custom_label_2>
-      <g:custom_label_4></g:custom_label_4>
-      <g:start_date>2027-04-27T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Forår</g:custom_label_3>
-      <g:internal_label>['Forår','Endagskurser']</g:internal_label>
-    </item>
-<item>
       <g:id>KOE-53401</g:id>
       <g:title><![CDATA[Fotokursus - tag bedre billeder med din iPhone/mobil]]></g:title>
       <g:description><![CDATA[Bliv en dygtig fotograf, uden at investere i dyrt udstyr! Fotokursus for begyndere og øvede. Deltag i kursus i fotografering i Køge hos FOF Køge Bugt og  lær at bruge kameraets funktioner, arbejde med lys og komposition og få personlig feedback.]]></g:description>
@@ -2336,6 +2270,28 @@
       <g:start_date>2027-04-27T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Forår</g:custom_label_3>
       <g:internal_label>['Forår','Køge','Weekend']</g:internal_label>
+    </item>
+<item>
+      <g:id>KOE-53878</g:id>
+      <g:title><![CDATA[Tur til Badehotellet i Nyvang oplevelsescenter ]]></g:title>
+      <g:description><![CDATA[Tag med på dagstur til Oplevelsescenter Nyvang. Oplev livet fra 1930 til 1959, besøg Badehotellet og nyd frokost på Madam Blå. Bus og entré inkluderet.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koege-bugt/tur-til-badehotellet-i-nyvang-oplevelsescenter?holdnr=53878</g:link>
+      <g:image_link>https://www.fof.dk/media/03apu30s/rundvisning-nyvang-koege-fof-aftenskolen.png?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>925.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Køge Bugt</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Rejser, ture og rundvisninger &gt; Udflugter og dagsture</g:product_type>
+      <g:custom_label_0>Rejser, ture og rundvisninger</g:custom_label_0>
+      <g:custom_label_1>Udflugter og dagsture</g:custom_label_1>
+      <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4></g:custom_label_4>
+      <g:start_date>2027-04-27T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Forår</g:custom_label_3>
+      <g:internal_label>['Forår','Endagskurser']</g:internal_label>
     </item>
 <item>
       <g:id>KOE-53017</g:id>

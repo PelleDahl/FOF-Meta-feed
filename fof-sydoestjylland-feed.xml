@@ -436,8 +436,8 @@
       <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4>Horsens</g:custom_label_4>
       <g:start_date>2027-01-07T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Lærermøder</g:custom_label_3>
-      <g:internal_label>['Lærermøder','Horsens']</g:internal_label>
+      <g:custom_label_3>Workshops</g:custom_label_3>
+      <g:internal_label>['Workshops','Lærermøder','Horsens']</g:internal_label>
     </item>
 <item>
       <g:id>SOJ-270001</g:id>
@@ -652,6 +652,27 @@
       <g:start_date>2027-01-14T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Nyhed</g:custom_label_3>
       <g:internal_label>['Nyhed','Workshops','Vejle']</g:internal_label>
+    </item>
+<item>
+      <g:id>SOJ-270524</g:id>
+      <g:title><![CDATA[Bevægelse i vand - kun for kvinder]]></g:title>
+      <g:description><![CDATA[Varmtvandstræning på Lindehøj i Horsens hos FOF. Skånsom vandtræning der styrker muskler og led. Ideel motion i vand ved fx ledsmerter, slidgigt og rygproblemer.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydoestjylland/bevaegelse-i-vand-lindehoej?holdnr=270524</g:link>
+      <g:image_link>https://www.fof.dk/media/hnchp3h2/bassintraening-1-fof-sydoestjylland.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>555.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydøstjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Træning i vand</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Træning i vand</g:custom_label_2>
+      <g:custom_label_4>Horsens</g:custom_label_4>
+      <g:start_date>2027-01-16T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Horsens']</g:internal_label>
     </item>
 <item>
       <g:id>SOJ-270544</g:id>
@@ -976,6 +997,28 @@
       <g:internal_label>['Workshops','Nyhed','Fængselsmuseet','Horsens']</g:internal_label>
     </item>
 <item>
+      <g:id>SOJ-274148</g:id>
+      <g:title><![CDATA[3 smerte-regulerende strategier]]></g:title>
+      <g:description><![CDATA[Lær at håndtere kroniske smerter på en workshop i Vejle. Få ny viden om smerter, prøv skånsomme øvelser og lær 3 strategier til en bedre hverdag.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydoestjylland/smertefri-workshop?holdnr=274148</g:link>
+      <g:image_link>https://www.fof.dk/media/d3untpcz/smertefri-bevaegelse-workshop.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>200.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydøstjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Bevægelse og afspænding</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Bevægelse og afspænding</g:custom_label_2>
+      <g:custom_label_4>Vejle</g:custom_label_4>
+      <g:start_date>2027-01-23T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Workshops</g:custom_label_3>
+      <g:internal_label>['Workshops','Vejle']</g:internal_label>
+    </item>
+<item>
       <g:id>SOJ-274202</g:id>
       <g:title><![CDATA[Pileflet]]></g:title>
       <g:description><![CDATA[Lær pileflet og skab kurve, kranse og plantestativer. Udfold din kreativitet med naturens materiale på et hyggeligt kursus hos FOF.]]></g:description>
@@ -1018,6 +1061,26 @@
       <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Prøvetime</g:custom_label_3>
       <g:internal_label>['Prøvetime','Vejle']</g:internal_label>
+    </item>
+<item>
+      <g:id>SOJ-274260</g:id>
+      <g:title><![CDATA[Kom i gang med surdej - boller og madbrød]]></g:title>
+      <g:description><![CDATA[Kom på surdejskursus i Vejle og lær at bage surdejsboller, focaccia og madbrød fra bunden. Perfekt for begyndere, der vil mestre surdejsbagning hjemme.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydoestjylland/kom-i-gang-med-surdej-boller-og-madbroed?holdnr=274260</g:link>
+      <g:image_link>https://www.fof.dk/media/tw4n2d2c/det-gode-broed.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>535.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydøstjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Madlavning og drikkevarer &gt; Bagning og søde sager</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
+      <g:custom_label_2>Bagning og søde sager</g:custom_label_2>
+      <g:custom_label_4></g:custom_label_4>
+      <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
     </item>
 <item>
       <g:id>SOJ-274660</g:id>
@@ -2010,8 +2073,8 @@
       <g:custom_label_2>Tegnekurser</g:custom_label_2>
       <g:custom_label_4>Vejle</g:custom_label_4>
       <g:start_date>2027-03-01T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Nyhed</g:custom_label_3>
-      <g:internal_label>['Nyhed','Vejle']</g:internal_label>
+      <g:custom_label_3>Workshops</g:custom_label_3>
+      <g:internal_label>['Workshops','Nyhed','Vejle']</g:internal_label>
     </item>
 <item>
       <g:id>SOJ-270250</g:id>
@@ -2207,8 +2270,8 @@
       <g:custom_label_2>Tegnekurser</g:custom_label_2>
       <g:custom_label_4>Horsens</g:custom_label_4>
       <g:start_date>2027-03-06T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Nyhed</g:custom_label_3>
-      <g:internal_label>['Nyhed','Horsens']</g:internal_label>
+      <g:custom_label_3>Workshops</g:custom_label_3>
+      <g:internal_label>['Workshops','Nyhed','Horsens']</g:internal_label>
     </item>
 <item>
       <g:id>SOJ-270098</g:id>
@@ -2277,27 +2340,6 @@
       <g:internal_label>['Gaveidéer','Vejle']</g:internal_label>
     </item>
 <item>
-      <g:id>SOJ-270715</g:id>
-      <g:title><![CDATA[Om at være pårørende til en syg ]]></g:title>
-      <g:description><![CDATA[Oplev Maria Månson i Horsens og hør om livet som pårørende til en syg. Et nærværende foredrag med afsæt i podcasten Din Hånd i Min om omsorg, egenomsorg og sygdom i familien.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-sydoestjylland/om-at-vaere-paaroerende-til-en-syg?holdnr=270715</g:link>
-      <g:image_link>https://www.fof.dk/media/uxxlbruf/maria-maanson-2.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>100.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Sydøstjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Foredrag, debat og højskoler &gt; Kultur og livsfortællinger</g:product_type>
-      <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
-      <g:custom_label_1>Kultur og livsfortællinger</g:custom_label_1>
-      <g:custom_label_2></g:custom_label_2>
-      <g:custom_label_4>Horsens</g:custom_label_4>
-      <g:start_date>2027-03-11T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Horsens']</g:internal_label>
-    </item>
-<item>
       <g:id>SOJ-274257</g:id>
       <g:title><![CDATA[Italienske bælgfrugter]]></g:title>
       <g:description><![CDATA[Lær at lave italiensk mad med linser, bønner og kikærter på et hyggeligt madkursus i Vejle. Få opskrifter og inspiration til grøn madlavning. Tilmeld dig!]]></g:description>
@@ -2318,6 +2360,27 @@
       <g:start_date>2027-03-11T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Workshops</g:custom_label_3>
       <g:internal_label>['Workshops','Gaveidéer','Vejle']</g:internal_label>
+    </item>
+<item>
+      <g:id>SOJ-270715</g:id>
+      <g:title><![CDATA[Om at være pårørende til en syg ]]></g:title>
+      <g:description><![CDATA[Oplev Maria Månson i Horsens og hør om livet som pårørende til en syg. Et nærværende foredrag med afsæt i podcasten Din Hånd i Min om omsorg, egenomsorg og sygdom i familien.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydoestjylland/om-at-vaere-paaroerende-til-en-syg?holdnr=270715</g:link>
+      <g:image_link>https://www.fof.dk/media/uxxlbruf/maria-maanson-2.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>100.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydøstjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Foredrag, debat og højskoler &gt; Kultur og livsfortællinger</g:product_type>
+      <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
+      <g:custom_label_1>Kultur og livsfortællinger</g:custom_label_1>
+      <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Horsens</g:custom_label_4>
+      <g:start_date>2027-03-11T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Horsens']</g:internal_label>
     </item>
 <item>
       <g:id>SOJ-271701</g:id>
@@ -2778,6 +2841,50 @@
       <g:internal_label>['Vejle']</g:internal_label>
     </item>
 <item>
+      <g:id>SOJ-270276</g:id>
+      <g:title><![CDATA[Bliv en mester i pizza ]]></g:title>
+      <g:description><![CDATA[Tag på pizzakursus i Horsens, Vejle og Skanderborg og lær at lave pizza fra bunden. Fokus på dej, meltyper, surdej og bageteknikker til sprød hjemmelavet pizza.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydoestjylland/bliv-en-mester-i-pizza-horsens?holdnr=270276</g:link>
+      <g:image_link>https://www.fof.dk/media/t4jlv2qv/kom-i-gang-med-surdej-surdejspizza.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>435.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydøstjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Madlavning og drikkevarer &gt; Verdenskøkkenet</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
+      <g:custom_label_2>Verdenskøkkenet</g:custom_label_2>
+      <g:custom_label_4>Horsens</g:custom_label_4>
+      <g:start_date>2027-04-09T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Gaveidéer</g:custom_label_3>
+      <g:internal_label>['Gaveidéer','Workshops','Horsens']</g:internal_label>
+    </item>
+<item>
+      <g:id>SOJ-271276</g:id>
+      <g:title><![CDATA[Det gode brød]]></g:title>
+      <g:description><![CDATA[Tag på bagekursus i Horsens og lær at bage brød fra bunden. Fokus på surdej, bageteknik, hævetid og hjemmebagt brød med bagerkvalitet.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydoestjylland/broedbagning?holdnr=271276</g:link>
+      <g:image_link>https://www.fof.dk/media/xiaj3mol/kom-i-gang-med-surdej-boller-og-madbroed.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>620.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydøstjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Madlavning og drikkevarer &gt; Bagning og søde sager</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
+      <g:custom_label_2>Bagning og søde sager</g:custom_label_2>
+      <g:custom_label_4>Skanderborg</g:custom_label_4>
+      <g:start_date>2027-04-10T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>FOF Business</g:custom_label_3>
+      <g:internal_label>['FOF Business','Gaveidéer','Skanderborg']</g:internal_label>
+    </item>
+<item>
       <g:id>SOJ-270229</g:id>
       <g:title><![CDATA[Eksperimenterende akvarel]]></g:title>
       <g:description><![CDATA[Lær akvarelteknikker og kombiner med tusch. Et kreativt endagskursus med fordybelse, inspiration og fællesskab. Tilmeld dig i dag.]]></g:description>
@@ -2842,6 +2949,28 @@
       <g:start_date>2027-04-15T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Nyhed</g:custom_label_3>
       <g:internal_label>['Nyhed','Vejle']</g:internal_label>
+    </item>
+<item>
+      <g:id>SOJ-274276</g:id>
+      <g:title><![CDATA[Det gode brød]]></g:title>
+      <g:description><![CDATA[Tag på bagekursus i Horsens og lær at bage brød fra bunden. Fokus på surdej, bageteknik, hævetid og hjemmebagt brød med bagerkvalitet.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydoestjylland/broedbagning?holdnr=274276</g:link>
+      <g:image_link>https://www.fof.dk/media/xiaj3mol/kom-i-gang-med-surdej-boller-og-madbroed.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>620.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydøstjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Madlavning og drikkevarer &gt; Bagning og søde sager</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
+      <g:custom_label_2>Bagning og søde sager</g:custom_label_2>
+      <g:custom_label_4>Vejle</g:custom_label_4>
+      <g:start_date>2027-04-17T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>FOF Business</g:custom_label_3>
+      <g:internal_label>['FOF Business','Gaveidéer','Vejle']</g:internal_label>
     </item>
 <item>
       <g:id>SOJ-274236</g:id>
@@ -3020,6 +3149,50 @@
       <g:internal_label>['Workshops','Horsens']</g:internal_label>
     </item>
 <item>
+      <g:id>SOJ-274275</g:id>
+      <g:title><![CDATA[Bliv en mester i pizza]]></g:title>
+      <g:description><![CDATA[Tag på pizzakursus i Horsens, Vejle og Skanderborg og lær at lave pizza fra bunden. Fokus på dej, meltyper, surdej og bageteknikker til sprød hjemmelavet pizza.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydoestjylland/bliv-en-mester-i-pizza-horsens?holdnr=274275</g:link>
+      <g:image_link>https://www.fof.dk/media/t4jlv2qv/kom-i-gang-med-surdej-surdejspizza.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>435.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydøstjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Madlavning og drikkevarer &gt; Verdenskøkkenet</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
+      <g:custom_label_2>Verdenskøkkenet</g:custom_label_2>
+      <g:custom_label_4>Vejle</g:custom_label_4>
+      <g:start_date>2027-05-05T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Gaveidéer</g:custom_label_3>
+      <g:internal_label>['Gaveidéer','Workshops','Vejle']</g:internal_label>
+    </item>
+<item>
+      <g:id>SOJ-271275</g:id>
+      <g:title><![CDATA[Bliv en mester i pizza ]]></g:title>
+      <g:description><![CDATA[Tag på pizzakursus i Horsens, Vejle og Skanderborg og lær at lave pizza fra bunden. Fokus på dej, meltyper, surdej og bageteknikker til sprød hjemmelavet pizza.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydoestjylland/bliv-en-mester-i-pizza-horsens?holdnr=271275</g:link>
+      <g:image_link>https://www.fof.dk/media/t4jlv2qv/kom-i-gang-med-surdej-surdejspizza.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>435.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydøstjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Madlavning og drikkevarer &gt; Verdenskøkkenet</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
+      <g:custom_label_2>Verdenskøkkenet</g:custom_label_2>
+      <g:custom_label_4>Skanderborg</g:custom_label_4>
+      <g:start_date>2027-05-12T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Gaveidéer</g:custom_label_3>
+      <g:internal_label>['Gaveidéer','Workshops','Skanderborg']</g:internal_label>
+    </item>
+<item>
       <g:id>SOJ-270270</g:id>
       <g:title><![CDATA[Plantebaseret madlavning]]></g:title>
       <g:description><![CDATA[Lær plantebaseret madlavning i Horsens. Få inspiration til sunde, proteinrige måltider og smag retter fra hele verden. Tilmeld dig i dag.]]></g:description>
@@ -3062,6 +3235,49 @@
       <g:start_date>2027-05-21T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Workshops</g:custom_label_3>
       <g:internal_label>['Workshops','Horsens']</g:internal_label>
+    </item>
+<item>
+      <g:id>SOJ-270275</g:id>
+      <g:title><![CDATA[Bliv en mester i pizza ]]></g:title>
+      <g:description><![CDATA[Tag på pizzakursus i Horsens, Vejle og Skanderborg og lær at lave pizza fra bunden. Fokus på dej, meltyper, surdej og bageteknikker til sprød hjemmelavet pizza.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydoestjylland/bliv-en-mester-i-pizza-horsens?holdnr=270275</g:link>
+      <g:image_link>https://www.fof.dk/media/t4jlv2qv/kom-i-gang-med-surdej-surdejspizza.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>435.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydøstjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Madlavning og drikkevarer &gt; Verdenskøkkenet</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
+      <g:custom_label_2>Verdenskøkkenet</g:custom_label_2>
+      <g:custom_label_4>Horsens</g:custom_label_4>
+      <g:start_date>2027-05-25T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Gaveidéer</g:custom_label_3>
+      <g:internal_label>['Gaveidéer','Workshops','Horsens']</g:internal_label>
+    </item>
+<item>
+      <g:id>SOJ-270269</g:id>
+      <g:title><![CDATA[Lav en lækker jordbærtærte]]></g:title>
+      <g:description><![CDATA[Lær at bage en klassisk jordbærtærte med mandelbund og frisk topping. Hyggeligt bagekursus for alle – hyggeligt og sjovt hos FOF.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydoestjylland/lav-en-laekker-jordbaertaerte?holdnr=270269</g:link>
+      <g:image_link>https://www.fof.dk/media/gaop5mt5/jordbaertaerte.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>360.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydøstjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Madlavning og drikkevarer &gt; Bagning og søde sager</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
+      <g:custom_label_2>Bagning og søde sager</g:custom_label_2>
+      <g:custom_label_4>Horsens</g:custom_label_4>
+      <g:start_date>2027-05-26T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Horsens']</g:internal_label>
     </item>
 <item>
       <g:id>SOJ-270204</g:id>

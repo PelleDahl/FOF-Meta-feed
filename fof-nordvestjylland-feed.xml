@@ -217,6 +217,27 @@
       <g:internal_label>['Lemvig']</g:internal_label>
     </item>
 <item>
+      <g:id>NVJ-271870</g:id>
+      <g:title><![CDATA[Færdselsrelateret førstehjælp]]></g:title>
+      <g:description><![CDATA[Tag dit førstehjælpskursus i Holstebro hos FOF. 8 timers færdselsrelateret førstehjælp til kørekort – hurtigt og godkendt.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-nordvestjylland/faerdselsrelateret-foerstehjaelp?holdnr=271870</g:link>
+      <g:image_link>https://www.fof.dk/media/4hqdiv1l/foeresthjaelpkoerekort1200x1200.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>530.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Nordvestjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Førstehjælp</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Førstehjælp</g:custom_label_2>
+      <g:custom_label_4>Holstebro</g:custom_label_4>
+      <g:start_date>2027-01-03T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Holstebro']</g:internal_label>
+    </item>
+<item>
       <g:id>NVJ-271170</g:id>
       <g:title><![CDATA[Fyraftensyoga - bevægelse, balance og bevidsthed]]></g:title>
       <g:description><![CDATA[Kom ned i gear efter en anstrengende arbejdsdag med fyraftensyoga med fokus på bevægelse, balance og bevidsthed hos FOF Nordvestjylland i Lemvig]]></g:description>
@@ -257,6 +278,27 @@
       <g:custom_label_4>Lemvig</g:custom_label_4>
       <g:start_date>2027-01-04T00:00:00.000Z</g:start_date>
       <g:internal_label>['Lemvig']</g:internal_label>
+    </item>
+<item>
+      <g:id>NVJ-271304</g:id>
+      <g:title><![CDATA[Pilates for alle - Holstebro]]></g:title>
+      <g:description><![CDATA[Pilates for alle i Holstebro, der gerne vil godt i gang og forstå grundprincipperne, FOF Nordvestjylland]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-nordvestjylland/pilates-for-alle-holstebro?holdnr=271304</g:link>
+      <g:image_link>https://www.fof.dk/media/4g4jdtbf/pilates1200x1200.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>855.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Nordvestjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Pilates</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Pilates</g:custom_label_2>
+      <g:custom_label_4>Holstebro</g:custom_label_4>
+      <g:start_date>2027-01-04T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Holstebro']</g:internal_label>
     </item>
 <item>
       <g:id>NVJ-271407</g:id>
@@ -302,6 +344,50 @@
       <g:internal_label>['Holstebro']</g:internal_label>
     </item>
 <item>
+      <g:id>NVJ-271402</g:id>
+      <g:title><![CDATA[Træning i varmtvand]]></g:title>
+      <g:description><![CDATA[Kom med i det varme vand og træn din krop, mens vandet løsner og styrker, FOF Nordvestjylland i Holstebro]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-nordvestjylland/traening-i-varmtvand?holdnr=271402</g:link>
+      <g:image_link>https://www.fof.dk/media/y0ofhacs/vandholstebro1200x1200.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>635.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Nordvestjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Træning i vand</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Træning i vand</g:custom_label_2>
+      <g:custom_label_4>Holstebro</g:custom_label_4>
+      <g:start_date>2027-01-05T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Motion</g:custom_label_3>
+      <g:internal_label>['Motion','Holstebro']</g:internal_label>
+    </item>
+<item>
+      <g:id>NVJ-271400</g:id>
+      <g:title><![CDATA[Træning i varmtvand]]></g:title>
+      <g:description><![CDATA[Kom med i det varme vand og træn din krop, mens vandet løsner og styrker, FOF Nordvestjylland i Holstebro]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-nordvestjylland/traening-i-varmtvand?holdnr=271400</g:link>
+      <g:image_link>https://www.fof.dk/media/y0ofhacs/vandholstebro1200x1200.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>635.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Nordvestjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Træning i vand</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Træning i vand</g:custom_label_2>
+      <g:custom_label_4>Holstebro</g:custom_label_4>
+      <g:start_date>2027-01-05T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Motion</g:custom_label_3>
+      <g:internal_label>['Motion','Holstebro']</g:internal_label>
+    </item>
+<item>
       <g:id>NVJ-271340</g:id>
       <g:title><![CDATA[Aquaflow for gravide - Holstebro]]></g:title>
       <g:description><![CDATA[Gravidsvømning, aquaflow for gravide, træning i vand for gravide, gør noget godt for de gravide krop, FOF Nordvestjylland, Holstebro]]></g:description>
@@ -344,27 +430,6 @@
       <g:internal_label>['Holstebro']</g:internal_label>
     </item>
 <item>
-      <g:id>NVJ-271121</g:id>
-      <g:title><![CDATA[Blid yoga & pilates]]></g:title>
-      <g:description><![CDATA[Blid yoga og pilates specielt for dig, der er før eller under overgangsalderen, FOF Nordvestjylland, Holstebro]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-nordvestjylland/blid-yoga-og-pilates?holdnr=271121</g:link>
-      <g:image_link>https://www.fof.dk/media/ktvhylls/rikkeblidyogapilates.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1030.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Nordvestjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Bevægelse og afspænding</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Bevægelse og afspænding</g:custom_label_2>
-      <g:custom_label_4>Holstebro</g:custom_label_4>
-      <g:start_date>2027-01-05T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Holstebro']</g:internal_label>
-    </item>
-<item>
       <g:id>NVJ-271432</g:id>
       <g:title><![CDATA[Babysvømning 0-6 måneder]]></g:title>
       <g:description><![CDATA[Babysvømning, leg og bevægelse i vand for dig og din baby hos FOF Nordvestjylland, Holstebro]]></g:description>
@@ -381,6 +446,27 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
       <g:custom_label_2>Aktiviteter med baby</g:custom_label_2>
+      <g:custom_label_4>Holstebro</g:custom_label_4>
+      <g:start_date>2027-01-05T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Holstebro']</g:internal_label>
+    </item>
+<item>
+      <g:id>NVJ-271121</g:id>
+      <g:title><![CDATA[Blid yoga & pilates]]></g:title>
+      <g:description><![CDATA[Blid yoga og pilates specielt for dig, der er før eller under overgangsalderen, FOF Nordvestjylland, Holstebro]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-nordvestjylland/blid-yoga-og-pilates?holdnr=271121</g:link>
+      <g:image_link>https://www.fof.dk/media/ktvhylls/rikkeblidyogapilates.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1030.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Nordvestjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Bevægelse og afspænding</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Bevægelse og afspænding</g:custom_label_2>
       <g:custom_label_4>Holstebro</g:custom_label_4>
       <g:start_date>2027-01-05T00:00:00.000Z</g:start_date>
       <g:internal_label>['Holstebro']</g:internal_label>
@@ -405,6 +491,28 @@
       <g:custom_label_4>Holstebro</g:custom_label_4>
       <g:start_date>2027-01-05T00:00:00.000Z</g:start_date>
       <g:internal_label>['Holstebro']</g:internal_label>
+    </item>
+<item>
+      <g:id>NVJ-271401</g:id>
+      <g:title><![CDATA[Træning i varmtvand]]></g:title>
+      <g:description><![CDATA[Kom med i det varme vand og træn din krop, mens vandet løsner og styrker, FOF Nordvestjylland i Holstebro]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-nordvestjylland/traening-i-varmtvand?holdnr=271401</g:link>
+      <g:image_link>https://www.fof.dk/media/y0ofhacs/vandholstebro1200x1200.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>635.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Nordvestjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Træning i vand</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Træning i vand</g:custom_label_2>
+      <g:custom_label_4>Holstebro</g:custom_label_4>
+      <g:start_date>2027-01-05T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Motion</g:custom_label_3>
+      <g:internal_label>['Motion','Holstebro']</g:internal_label>
     </item>
 <item>
       <g:id>NVJ-271430</g:id>
@@ -576,27 +684,6 @@
       <g:internal_label>['Motion','Vinderup']</g:internal_label>
     </item>
 <item>
-      <g:id>NVJ-271422</g:id>
-      <g:title><![CDATA[Babysvømning 6-12 måneder - Vinderup]]></g:title>
-      <g:description><![CDATA[Babysvømning, leg og bevægelse i vand for dig og din baby hos FOF Nordvestjylland, Holstebro]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-nordvestjylland/babysvoemning-6-12-maaneder?holdnr=271422</g:link>
-      <g:image_link>https://www.fof.dk/media/yrlfr21a/babysvoemning1200x1200.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>330.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Nordvestjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Aktiviteter med baby</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
-      <g:custom_label_2>Aktiviteter med baby</g:custom_label_2>
-      <g:custom_label_4>Vinderup</g:custom_label_4>
-      <g:start_date>2027-01-11T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Vinderup']</g:internal_label>
-    </item>
-<item>
       <g:id>NVJ-271423</g:id>
       <g:title><![CDATA[Babysvømning 6-12 måneder - Vinderup]]></g:title>
       <g:description><![CDATA[Babysvømning, leg og bevægelse i vand for dig og din baby hos FOF Nordvestjylland, Holstebro]]></g:description>
@@ -618,11 +705,11 @@
       <g:internal_label>['Vinderup']</g:internal_label>
     </item>
 <item>
-      <g:id>NVJ-271421</g:id>
-      <g:title><![CDATA[Babysvømning 0-6 måneder - Vinderup]]></g:title>
+      <g:id>NVJ-271422</g:id>
+      <g:title><![CDATA[Babysvømning 6-12 måneder - Vinderup]]></g:title>
       <g:description><![CDATA[Babysvømning, leg og bevægelse i vand for dig og din baby hos FOF Nordvestjylland, Holstebro]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-nordvestjylland/babysvoemning-0-6-maaneder?holdnr=271421</g:link>
-      <g:image_link>https://www.fof.dk/media/vl5lraun/babysvoemning1200x1200-1.jpg?width=1200</g:image_link>
+      <g:link>https://www.fof.dk/aftenskolen/fof-nordvestjylland/babysvoemning-6-12-maaneder?holdnr=271422</g:link>
+      <g:image_link>https://www.fof.dk/media/yrlfr21a/babysvoemning1200x1200.jpg?width=1200</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:quantity>1</g:quantity>
       <g:price>330.00 DKK</g:price>
@@ -658,6 +745,27 @@
       <g:custom_label_4>Holstebro</g:custom_label_4>
       <g:start_date>2027-01-11T00:00:00.000Z</g:start_date>
       <g:internal_label>['Holstebro']</g:internal_label>
+    </item>
+<item>
+      <g:id>NVJ-271421</g:id>
+      <g:title><![CDATA[Babysvømning 0-6 måneder - Vinderup]]></g:title>
+      <g:description><![CDATA[Babysvømning, leg og bevægelse i vand for dig og din baby hos FOF Nordvestjylland, Holstebro]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-nordvestjylland/babysvoemning-0-6-maaneder?holdnr=271421</g:link>
+      <g:image_link>https://www.fof.dk/media/vl5lraun/babysvoemning1200x1200-1.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>330.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Nordvestjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Aktiviteter med baby</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
+      <g:custom_label_2>Aktiviteter med baby</g:custom_label_2>
+      <g:custom_label_4>Vinderup</g:custom_label_4>
+      <g:start_date>2027-01-11T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Vinderup']</g:internal_label>
     </item>
 <item>
       <g:id>NVJ-271420</g:id>
@@ -830,27 +938,6 @@
       <g:internal_label>['Holstebro']</g:internal_label>
     </item>
 <item>
-      <g:id>NVJ-271501</g:id>
-      <g:title><![CDATA[Portrættegning med blyant]]></g:title>
-      <g:description><![CDATA[Lær at tegne et vellignende portræt med blyant hos FOF Nordvestjylland i Holstebro]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-nordvestjylland/tegne-portraet-lotte?holdnr=271501</g:link>
-      <g:image_link>https://www.fof.dk/media/ntmdfule/laerattegneportraetlotte1200x1200.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1280.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Nordvestjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Kreative kurser &gt; Tegnekurser</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Kreative kurser</g:custom_label_1>
-      <g:custom_label_2>Tegnekurser</g:custom_label_2>
-      <g:custom_label_4>Holstebro</g:custom_label_4>
-      <g:start_date>2027-01-14T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Holstebro']</g:internal_label>
-    </item>
-<item>
       <g:id>NVJ-271460</g:id>
       <g:title><![CDATA[Tumlesvømning 1-2 år ]]></g:title>
       <g:description><![CDATA[Tag dit barn med i vandet til sjov og leg hos FOF Nordvestjylland i Holstebro]]></g:description>
@@ -888,6 +975,27 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Familie, børn og unge</g:custom_label_1>
       <g:custom_label_2>Motion, dans og drama</g:custom_label_2>
+      <g:custom_label_4>Holstebro</g:custom_label_4>
+      <g:start_date>2027-01-14T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Holstebro']</g:internal_label>
+    </item>
+<item>
+      <g:id>NVJ-271501</g:id>
+      <g:title><![CDATA[Portrættegning med blyant]]></g:title>
+      <g:description><![CDATA[Lær at tegne et vellignende portræt med blyant hos FOF Nordvestjylland i Holstebro]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-nordvestjylland/tegne-portraet-lotte?holdnr=271501</g:link>
+      <g:image_link>https://www.fof.dk/media/ntmdfule/laerattegneportraetlotte1200x1200.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1280.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Nordvestjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Kreative kurser &gt; Tegnekurser</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Kreative kurser</g:custom_label_1>
+      <g:custom_label_2>Tegnekurser</g:custom_label_2>
       <g:custom_label_4>Holstebro</g:custom_label_4>
       <g:start_date>2027-01-14T00:00:00.000Z</g:start_date>
       <g:internal_label>['Holstebro']</g:internal_label>
@@ -935,6 +1043,28 @@
       <g:internal_label>['Struer']</g:internal_label>
     </item>
 <item>
+      <g:id>NVJ-271222</g:id>
+      <g:title><![CDATA[Fransk for øvede - niv. 2/3]]></g:title>
+      <g:description><![CDATA[Tilmeld dig fransk for øvede og bliv bedre til fransk, hverdagssprog, kultur og samfundsforhold hos FOF Nordvestjylland, Lemvig]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-nordvestjylland/fransk-23?holdnr=271222</g:link>
+      <g:image_link>https://www.fof.dk/media/uyemsdaw/fransk1200x1200.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1245.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Nordvestjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Sprog &gt; Fransk</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Sprog</g:custom_label_1>
+      <g:custom_label_2>Fransk</g:custom_label_2>
+      <g:custom_label_4>Lemvig</g:custom_label_4>
+      <g:start_date>2027-01-18T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Sprog</g:custom_label_3>
+      <g:internal_label>['Sprog','Lemvig']</g:internal_label>
+    </item>
+<item>
       <g:id>NVJ-271133</g:id>
       <g:title><![CDATA[Hatha yoga for alle - fyraftenshold]]></g:title>
       <g:description><![CDATA[Kom med til klassisk hatha yoga for alle hos FOF Nordvestjylland i Holstebro]]></g:description>
@@ -976,6 +1106,27 @@
       <g:start_date>2027-01-18T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Motion</g:custom_label_3>
       <g:internal_label>['Motion','Holstebro']</g:internal_label>
+    </item>
+<item>
+      <g:id>NVJ-271221</g:id>
+      <g:title><![CDATA[Fransk for letøvede - niv. 1-2]]></g:title>
+      <g:description><![CDATA[Bliv bedre til og mere sikker på fransk på dette kursus for letøvede hos FOF Nordvestjylland i Lemvig]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-nordvestjylland/fransk-niv-1-2?holdnr=271221</g:link>
+      <g:image_link>https://www.fof.dk/media/uyemsdaw/fransk1200x1200.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1070.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Nordvestjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Sprog &gt; Fransk</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Sprog</g:custom_label_1>
+      <g:custom_label_2>Fransk</g:custom_label_2>
+      <g:custom_label_4>Lemvig</g:custom_label_4>
+      <g:start_date>2027-01-18T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Lemvig']</g:internal_label>
     </item>
 <item>
       <g:id>NVJ-271316</g:id>
@@ -1165,6 +1316,27 @@
       <g:custom_label_4>Grindsted</g:custom_label_4>
       <g:start_date>2027-01-23T00:00:00.000Z</g:start_date>
       <g:internal_label>['Grindsted']</g:internal_label>
+    </item>
+<item>
+      <g:id>NVJ-271871</g:id>
+      <g:title><![CDATA[Færdselsrelateret førstehjælp]]></g:title>
+      <g:description><![CDATA[Tag dit førstehjælpskursus i Holstebro hos FOF. 8 timers færdselsrelateret førstehjælp til kørekort – hurtigt og godkendt.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-nordvestjylland/faerdselsrelateret-foerstehjaelp?holdnr=271871</g:link>
+      <g:image_link>https://www.fof.dk/media/4hqdiv1l/foeresthjaelpkoerekort1200x1200.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>530.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Nordvestjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Førstehjælp</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Førstehjælp</g:custom_label_2>
+      <g:custom_label_4>Holstebro</g:custom_label_4>
+      <g:start_date>2027-01-23T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Holstebro']</g:internal_label>
     </item>
 <item>
       <g:id>NVJ-271710</g:id>
@@ -1506,6 +1678,27 @@
       <g:internal_label>['Holstebro']</g:internal_label>
     </item>
 <item>
+      <g:id>NVJ-271176</g:id>
+      <g:title><![CDATA[Yogaworkshop - yogafilosofi og menopause]]></g:title>
+      <g:description><![CDATA[Yogaworkshop i Lemvig med fokus på kvinder i menopausen, lær at forstå din transformation hos FOF Nordvestjylland]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-nordvestjylland/yogaworkshop-filosofi-og-menopause?holdnr=271176</g:link>
+      <g:image_link>https://www.fof.dk/media/rqmj2r5g/yogalemvig1200x1200.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>275.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Nordvestjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Yoga</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Lemvig</g:custom_label_4>
+      <g:start_date>2027-01-30T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Lemvig']</g:internal_label>
+    </item>
+<item>
       <g:id>NVJ-271703</g:id>
       <g:title><![CDATA[Autentisk Ramen ]]></g:title>
       <g:description><![CDATA[Lær at lave autentisk ramen på dette japanske madkursus hos FOF Nordvestjylland i Holstebro]]></g:description>
@@ -1548,6 +1741,27 @@
       <g:internal_label>['Holstebro']</g:internal_label>
     </item>
 <item>
+      <g:id>NVJ-271872</g:id>
+      <g:title><![CDATA[Færdselsrelateret førstehjælp]]></g:title>
+      <g:description><![CDATA[Tag dit førstehjælpskursus i Holstebro hos FOF. 8 timers færdselsrelateret førstehjælp til kørekort – hurtigt og godkendt.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-nordvestjylland/faerdselsrelateret-foerstehjaelp?holdnr=271872</g:link>
+      <g:image_link>https://www.fof.dk/media/4hqdiv1l/foeresthjaelpkoerekort1200x1200.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>530.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Nordvestjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Førstehjælp</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Førstehjælp</g:custom_label_2>
+      <g:custom_label_4>Holstebro</g:custom_label_4>
+      <g:start_date>2027-02-07T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Holstebro']</g:internal_label>
+    </item>
+<item>
       <g:id>NVJ-271177</g:id>
       <g:title><![CDATA[Yogaworkshop - De 5 Tibetanere]]></g:title>
       <g:description><![CDATA[Deltag i denne yogaworkshop og bliv introduceret til de 5 tibetanere, 5 enkle yogaøvelser, der styrker din livsenergi, FOF Nordvestjylland. Lemvig]]></g:description>
@@ -1567,6 +1781,27 @@
       <g:custom_label_4>Lemvig</g:custom_label_4>
       <g:start_date>2027-02-13T00:00:00.000Z</g:start_date>
       <g:internal_label>['Lemvig']</g:internal_label>
+    </item>
+<item>
+      <g:id>NVJ-271873</g:id>
+      <g:title><![CDATA[Færdselsrelateret førstehjælp]]></g:title>
+      <g:description><![CDATA[Tag dit førstehjælpskursus i Holstebro hos FOF. 8 timers færdselsrelateret førstehjælp til kørekort – hurtigt og godkendt.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-nordvestjylland/faerdselsrelateret-foerstehjaelp?holdnr=271873</g:link>
+      <g:image_link>https://www.fof.dk/media/4hqdiv1l/foeresthjaelpkoerekort1200x1200.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>530.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Nordvestjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Førstehjælp</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Førstehjælp</g:custom_label_2>
+      <g:custom_label_4>Holstebro</g:custom_label_4>
+      <g:start_date>2027-02-20T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Holstebro']</g:internal_label>
     </item>
 <item>
       <g:id>NVJ-271426</g:id>
@@ -1989,6 +2224,27 @@
       <g:internal_label>['Holstebro']</g:internal_label>
     </item>
 <item>
+      <g:id>NVJ-271874</g:id>
+      <g:title><![CDATA[Færdselsrelateret førstehjælp]]></g:title>
+      <g:description><![CDATA[Tag dit førstehjælpskursus i Holstebro hos FOF. 8 timers færdselsrelateret førstehjælp til kørekort – hurtigt og godkendt.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-nordvestjylland/faerdselsrelateret-foerstehjaelp?holdnr=271874</g:link>
+      <g:image_link>https://www.fof.dk/media/4hqdiv1l/foeresthjaelpkoerekort1200x1200.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>530.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Nordvestjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Førstehjælp</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Førstehjælp</g:custom_label_2>
+      <g:custom_label_4>Holstebro</g:custom_label_4>
+      <g:start_date>2027-03-07T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Holstebro']</g:internal_label>
+    </item>
+<item>
       <g:id>NVJ-271174</g:id>
       <g:title><![CDATA[Blid yoga - tid til dig]]></g:title>
       <g:description><![CDATA[Blid yoga for dig, der har brug for et roligt pusterum i hverdagen, tid til dig til yoga hos FOF Nordvestjylland i Lemvig]]></g:description>
@@ -2028,6 +2284,27 @@
       <g:custom_label_2>Yoga</g:custom_label_2>
       <g:custom_label_4>Lemvig</g:custom_label_4>
       <g:start_date>2027-03-08T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Lemvig']</g:internal_label>
+    </item>
+<item>
+      <g:id>NVJ-271178</g:id>
+      <g:title><![CDATA[Yogaworkshop - forårsjævndøgn]]></g:title>
+      <g:description><![CDATA[Yogaworkshop i Lemvig til at lette overgangen fra vinter til forår, FOF Nordvestjylland]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-nordvestjylland/yogaworkshop-foraarsjaevndoegn?holdnr=271178</g:link>
+      <g:image_link>https://www.fof.dk/media/rqmj2r5g/yogalemvig1200x1200.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>125.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Nordvestjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Yoga</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Lemvig</g:custom_label_4>
+      <g:start_date>2027-03-13T00:00:00.000Z</g:start_date>
       <g:internal_label>['Lemvig']</g:internal_label>
     </item>
 <item>
@@ -2092,6 +2369,93 @@
       <g:custom_label_4>Holstebro</g:custom_label_4>
       <g:start_date>2027-03-20T00:00:00.000Z</g:start_date>
       <g:internal_label>['Holstebro']</g:internal_label>
+    </item>
+<item>
+      <g:id>NVJ-271875</g:id>
+      <g:title><![CDATA[Færdselsrelateret førstehjælp]]></g:title>
+      <g:description><![CDATA[Tag dit førstehjælpskursus i Holstebro hos FOF. 8 timers færdselsrelateret førstehjælp til kørekort – hurtigt og godkendt.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-nordvestjylland/faerdselsrelateret-foerstehjaelp?holdnr=271875</g:link>
+      <g:image_link>https://www.fof.dk/media/4hqdiv1l/foeresthjaelpkoerekort1200x1200.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>530.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Nordvestjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Førstehjælp</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Førstehjælp</g:custom_label_2>
+      <g:custom_label_4>Holstebro</g:custom_label_4>
+      <g:start_date>2027-03-21T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Holstebro']</g:internal_label>
+    </item>
+<item>
+      <g:id>NVJ-271405</g:id>
+      <g:title><![CDATA[Træning i varmtvand]]></g:title>
+      <g:description><![CDATA[Kom med i det varme vand og træn din krop, mens vandet løsner og styrker, FOF Nordvestjylland i Holstebro]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-nordvestjylland/traening-i-varmtvand?holdnr=271405</g:link>
+      <g:image_link>https://www.fof.dk/media/y0ofhacs/vandholstebro1200x1200.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>825.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Nordvestjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Træning i vand</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Træning i vand</g:custom_label_2>
+      <g:custom_label_4>Holstebro</g:custom_label_4>
+      <g:start_date>2027-03-30T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Motion</g:custom_label_3>
+      <g:internal_label>['Motion','Holstebro']</g:internal_label>
+    </item>
+<item>
+      <g:id>NVJ-271403</g:id>
+      <g:title><![CDATA[Træning i varmtvand]]></g:title>
+      <g:description><![CDATA[Kom med i det varme vand og træn din krop, mens vandet løsner og styrker, FOF Nordvestjylland i Holstebro]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-nordvestjylland/traening-i-varmtvand?holdnr=271403</g:link>
+      <g:image_link>https://www.fof.dk/media/y0ofhacs/vandholstebro1200x1200.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>825.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Nordvestjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Træning i vand</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Træning i vand</g:custom_label_2>
+      <g:custom_label_4>Holstebro</g:custom_label_4>
+      <g:start_date>2027-03-30T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Motion</g:custom_label_3>
+      <g:internal_label>['Motion','Holstebro']</g:internal_label>
+    </item>
+<item>
+      <g:id>NVJ-271404</g:id>
+      <g:title><![CDATA[Træning i varmtvand]]></g:title>
+      <g:description><![CDATA[Kom med i det varme vand og træn din krop, mens vandet løsner og styrker, FOF Nordvestjylland i Holstebro]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-nordvestjylland/traening-i-varmtvand?holdnr=271404</g:link>
+      <g:image_link>https://www.fof.dk/media/y0ofhacs/vandholstebro1200x1200.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>825.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Nordvestjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Træning i vand</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Træning i vand</g:custom_label_2>
+      <g:custom_label_4>Holstebro</g:custom_label_4>
+      <g:start_date>2027-03-30T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Motion</g:custom_label_3>
+      <g:internal_label>['Motion','Holstebro']</g:internal_label>
     </item>
 <item>
       <g:id>NVJ-271502</g:id>
@@ -2200,6 +2564,27 @@
       <g:internal_label>['Holstebro']</g:internal_label>
     </item>
 <item>
+      <g:id>NVJ-271011</g:id>
+      <g:title><![CDATA[Your song - musikalsk foredrag om Elton John - Nicolaj Holmboe]]></g:title>
+      <g:description><![CDATA[Your song er et musikalsk foredrag om Elton Johns liv og sange med Nicolaj Holmboe ved klaveret hos FOF Nordvestjylland i Lemvig]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-nordvestjylland/your-song-foredrag-om-elton-john?holdnr=271011</g:link>
+      <g:image_link>https://www.fof.dk/media/i0ppxaqe/eltonjohn1200x1200.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>100.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Nordvestjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Foredrag, debat og højskoler &gt; Musik og koncerter</g:product_type>
+      <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
+      <g:custom_label_1>Musik og koncerter</g:custom_label_1>
+      <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Lemvig</g:custom_label_4>
+      <g:start_date>2027-04-01T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Lemvig']</g:internal_label>
+    </item>
+<item>
       <g:id>NVJ-271660</g:id>
       <g:title><![CDATA[Fra arvegods til smykker]]></g:title>
       <g:description><![CDATA[Lav dit arvesølv om til flotte og unikke smykker på dette weekendkursus hos FOF Nordvestjylland i Struer]]></g:description>
@@ -2239,6 +2624,27 @@
       <g:custom_label_2>Tai Chi og Qi Gong</g:custom_label_2>
       <g:custom_label_4>Holstebro</g:custom_label_4>
       <g:start_date>2027-04-03T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Holstebro']</g:internal_label>
+    </item>
+<item>
+      <g:id>NVJ-271305</g:id>
+      <g:title><![CDATA[Pilates for alle - Holstebro]]></g:title>
+      <g:description><![CDATA[Pilates for alle i Holstebro, der gerne vil godt i gang og forstå grundprincipperne, FOF Nordvestjylland]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-nordvestjylland/pilates-for-alle-holstebro?holdnr=271305</g:link>
+      <g:image_link>https://www.fof.dk/media/4g4jdtbf/pilates1200x1200.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>945.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Nordvestjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Pilates</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Pilates</g:custom_label_2>
+      <g:custom_label_4>Holstebro</g:custom_label_4>
+      <g:start_date>2027-04-05T00:00:00.000Z</g:start_date>
       <g:internal_label>['Holstebro']</g:internal_label>
     </item>
 <item>
@@ -2348,6 +2754,69 @@
       <g:internal_label>['Holstebro']</g:internal_label>
     </item>
 <item>
+      <g:id>NVJ-271876</g:id>
+      <g:title><![CDATA[Færdselsrelateret førstehjælp]]></g:title>
+      <g:description><![CDATA[Tag dit førstehjælpskursus i Holstebro hos FOF. 8 timers færdselsrelateret førstehjælp til kørekort – hurtigt og godkendt.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-nordvestjylland/faerdselsrelateret-foerstehjaelp?holdnr=271876</g:link>
+      <g:image_link>https://www.fof.dk/media/4hqdiv1l/foeresthjaelpkoerekort1200x1200.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>530.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Nordvestjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Førstehjælp</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Førstehjælp</g:custom_label_2>
+      <g:custom_label_4>Holstebro</g:custom_label_4>
+      <g:start_date>2027-04-17T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Holstebro']</g:internal_label>
+    </item>
+<item>
+      <g:id>NVJ-271179</g:id>
+      <g:title><![CDATA[Yogaworkshop - yogafilosofi og menopause]]></g:title>
+      <g:description><![CDATA[Yogaworkshop i Lemvig med fokus på kvinder i menopausen, lær at forstå din transformation hos FOF Nordvestjylland]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-nordvestjylland/yogaworkshop-filosofi-og-menopause?holdnr=271179</g:link>
+      <g:image_link>https://www.fof.dk/media/rqmj2r5g/yogalemvig1200x1200.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>275.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Nordvestjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Yoga</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Lemvig</g:custom_label_4>
+      <g:start_date>2027-04-17T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Lemvig']</g:internal_label>
+    </item>
+<item>
+      <g:id>NVJ-271877</g:id>
+      <g:title><![CDATA[Færdselsrelateret førstehjælp]]></g:title>
+      <g:description><![CDATA[Tag dit førstehjælpskursus i Holstebro hos FOF. 8 timers færdselsrelateret førstehjælp til kørekort – hurtigt og godkendt.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-nordvestjylland/faerdselsrelateret-foerstehjaelp?holdnr=271877</g:link>
+      <g:image_link>https://www.fof.dk/media/4hqdiv1l/foeresthjaelpkoerekort1200x1200.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>530.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Nordvestjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Førstehjælp</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Førstehjælp</g:custom_label_2>
+      <g:custom_label_4>Holstebro</g:custom_label_4>
+      <g:start_date>2027-05-02T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Holstebro']</g:internal_label>
+    </item>
+<item>
       <g:id>NVJ-271175</g:id>
       <g:title><![CDATA[Blid yoga - tid til dig]]></g:title>
       <g:description><![CDATA[Blid yoga for dig, der har brug for et roligt pusterum i hverdagen, tid til dig til yoga hos FOF Nordvestjylland i Lemvig]]></g:description>
@@ -2430,6 +2899,90 @@
       <g:custom_label_4>Lemvig</g:custom_label_4>
       <g:start_date>2027-05-22T00:00:00.000Z</g:start_date>
       <g:internal_label>['Lemvig']</g:internal_label>
+    </item>
+<item>
+      <g:id>NVJ-271878</g:id>
+      <g:title><![CDATA[Færdselsrelateret førstehjælp]]></g:title>
+      <g:description><![CDATA[Tag dit førstehjælpskursus i Holstebro hos FOF. 8 timers færdselsrelateret førstehjælp til kørekort – hurtigt og godkendt.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-nordvestjylland/faerdselsrelateret-foerstehjaelp?holdnr=271878</g:link>
+      <g:image_link>https://www.fof.dk/media/4hqdiv1l/foeresthjaelpkoerekort1200x1200.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>530.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Nordvestjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Førstehjælp</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Førstehjælp</g:custom_label_2>
+      <g:custom_label_4>Holstebro</g:custom_label_4>
+      <g:start_date>2027-05-29T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Holstebro']</g:internal_label>
+    </item>
+<item>
+      <g:id>NVJ-271879</g:id>
+      <g:title><![CDATA[Færdselsrelateret førstehjælp]]></g:title>
+      <g:description><![CDATA[Tag dit førstehjælpskursus i Holstebro hos FOF. 8 timers færdselsrelateret førstehjælp til kørekort – hurtigt og godkendt.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-nordvestjylland/faerdselsrelateret-foerstehjaelp?holdnr=271879</g:link>
+      <g:image_link>https://www.fof.dk/media/4hqdiv1l/foeresthjaelpkoerekort1200x1200.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>530.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Nordvestjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Førstehjælp</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Førstehjælp</g:custom_label_2>
+      <g:custom_label_4>Holstebro</g:custom_label_4>
+      <g:start_date>2027-06-13T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Holstebro']</g:internal_label>
+    </item>
+<item>
+      <g:id>NVJ-271181</g:id>
+      <g:title><![CDATA[Yogaworkshop - midsommer yoga]]></g:title>
+      <g:description><![CDATA[Kom med til denne midsommer yogaworkshop i Lemvig og bliv klar til at nyde sommeren, FOF Nordvestjylland]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-nordvestjylland/yogaworkshop-midsommer-yoga?holdnr=271181</g:link>
+      <g:image_link>https://www.fof.dk/media/rqmj2r5g/yogalemvig1200x1200.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>125.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Nordvestjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Yoga</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Lemvig</g:custom_label_4>
+      <g:start_date>2027-06-19T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Lemvig']</g:internal_label>
+    </item>
+<item>
+      <g:id>NVJ-271880</g:id>
+      <g:title><![CDATA[Færdselsrelateret førstehjælp]]></g:title>
+      <g:description><![CDATA[Tag dit førstehjælpskursus i Holstebro hos FOF. 8 timers færdselsrelateret førstehjælp til kørekort – hurtigt og godkendt.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-nordvestjylland/faerdselsrelateret-foerstehjaelp?holdnr=271880</g:link>
+      <g:image_link>https://www.fof.dk/media/4hqdiv1l/foeresthjaelpkoerekort1200x1200.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>530.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Nordvestjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Førstehjælp</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Førstehjælp</g:custom_label_2>
+      <g:custom_label_4>Holstebro</g:custom_label_4>
+      <g:start_date>2027-06-26T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Holstebro']</g:internal_label>
     </item>
 </channel>
 </rss>

@@ -72,28 +72,6 @@
       <g:internal_label>['Jul','Starter snart','Familiehold','Sønderborg']</g:internal_label>
     </item>
 <item>
-      <g:id>SDJ-1262047</g:id>
-      <g:title><![CDATA[Overgangsalderen]]></g:title>
-      <g:description><![CDATA[Få indsigt i overgangsalderen og lær, hvordan hormoner, kost og livsstil påvirker din trivsel. Foredrag med Frede Damgaard. Se mere her. ]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-soenderjylland/overgangsalderen?holdnr=1262047</g:link>
-      <g:image_link>https://www.fof.dk/media/5pgoryz3/foredrag-overgangsalderen-soenderborg-soenderjylland-fof-aftenskolen.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>245.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Sønderjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Foredrag, debat og højskoler &gt; Sundhed og eksistens</g:product_type>
-      <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
-      <g:custom_label_1>Sundhed og eksistens</g:custom_label_1>
-      <g:custom_label_2></g:custom_label_2>
-      <g:custom_label_4>Sønderborg</g:custom_label_4>
-      <g:start_date>2026-11-30T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Starter snart</g:custom_label_3>
-      <g:internal_label>['Starter snart','Aftenforedrag','Sønderborg']</g:internal_label>
-    </item>
-<item>
       <g:id>SDJ-1262225</g:id>
       <g:title><![CDATA[Julebag - traditioner med et twist]]></g:title>
       <g:description><![CDATA[Elsker du duften af julekrydderier og smagen af friskbagte småkager? Kom i julestemning i Sønderborg på dette bage kursus, hvor du kan bage klassiske og moderne julesmåkager i hyggeligt selskab – og tage både opskrifter og smagsprøver med hjem. ]]></g:description>
@@ -468,28 +446,6 @@
       <g:internal_label>['Haderslev']</g:internal_label>
     </item>
 <item>
-      <g:id>SDJ-3271335</g:id>
-      <g:title><![CDATA[Iyengar Yoga]]></g:title>
-      <g:description><![CDATA[Deltag i Iyengar Yoga i Haderslev hos FOF Sønderjylland. Træn smidighed, styrke, balance og nærvær. Se alle hold og tilmeld dig.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-soenderjylland/iyengar-yoga?holdnr=3271335</g:link>
-      <g:image_link>https://www.fof.dk/media/5zipnxew/iyengar-yoga.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1985.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Sønderjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Yoga</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Yoga</g:custom_label_2>
-      <g:custom_label_4>Haderslev</g:custom_label_4>
-      <g:start_date>2027-01-05T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Haderslev</g:custom_label_3>
-      <g:internal_label>['Haderslev']</g:internal_label>
-    </item>
-<item>
       <g:id>SDJ-3271864</g:id>
       <g:title><![CDATA[Kreativt håndarbejde]]></g:title>
       <g:description><![CDATA[Deltag i kreativt værksted og udfold dine idéer i et hyggeligt fællesskab. Lær nye håndværk og skab med hænderne. Se mere her og tilmeld dig i dag.]]></g:description>
@@ -506,6 +462,28 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Håndarbejde</g:custom_label_2>
+      <g:custom_label_4>Haderslev</g:custom_label_4>
+      <g:start_date>2027-01-05T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Haderslev</g:custom_label_3>
+      <g:internal_label>['Haderslev']</g:internal_label>
+    </item>
+<item>
+      <g:id>SDJ-3271335</g:id>
+      <g:title><![CDATA[Iyengar Yoga]]></g:title>
+      <g:description><![CDATA[Deltag i Iyengar Yoga i Haderslev hos FOF Sønderjylland. Træn smidighed, styrke, balance og nærvær. Se alle hold og tilmeld dig.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-soenderjylland/iyengar-yoga?holdnr=3271335</g:link>
+      <g:image_link>https://www.fof.dk/media/5zipnxew/iyengar-yoga.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1985.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sønderjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Yoga</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Yoga</g:custom_label_2>
       <g:custom_label_4>Haderslev</g:custom_label_4>
       <g:start_date>2027-01-05T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Haderslev</g:custom_label_3>
@@ -743,26 +721,6 @@
       <g:internal_label>['Bjerggade','Aabenraa','Motion']</g:internal_label>
     </item>
 <item>
-      <g:id>SDJ-10200</g:id>
-      <g:title><![CDATA[Gavekort 200 kr.]]></g:title>
-      <g:description><![CDATA[Med et gavekort til FOF Sønderjylland kan modtageren vælge mellem sprog, madlavning, kunst, kultur, motion og meget mere – præcis det, der passer bedst til interesser og ønsker. Køb i dag.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-soenderjylland/gavekort?holdnr=10200</g:link>
-      <g:image_link>https://www.fof.dk/media/ezkhk0l1/gavekort-soenderjylland-fof-aftenskolen-1.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>200.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Sønderjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type></g:product_type>
-      <g:custom_label_0></g:custom_label_0>
-      <g:custom_label_1></g:custom_label_1>
-      <g:custom_label_2></g:custom_label_2>
-      <g:custom_label_4></g:custom_label_4>
-      <g:start_date>2027-01-06T00:00:00.000Z</g:start_date>
-    </item>
-<item>
       <g:id>SDJ-1271807</g:id>
       <g:title><![CDATA[Yin Yoga]]></g:title>
       <g:description><![CDATA[ Find indre ro og genoplad kroppen med Yin Yoga i Sønderborg hos FOF Sønderjylland. Tilpasset dig med stress, skader eller behov for langsom, nærende træning. Se mere her. ]]></g:description>
@@ -783,6 +741,26 @@
       <g:start_date>2027-01-06T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Sønderborg</g:custom_label_3>
       <g:internal_label>['Sønderborg','Hensyntagende']</g:internal_label>
+    </item>
+<item>
+      <g:id>SDJ-10200</g:id>
+      <g:title><![CDATA[Gavekort 200 kr.]]></g:title>
+      <g:description><![CDATA[Med et gavekort til FOF Sønderjylland kan modtageren vælge mellem sprog, madlavning, kunst, kultur, motion og meget mere – præcis det, der passer bedst til interesser og ønsker. Køb i dag.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-soenderjylland/gavekort?holdnr=10200</g:link>
+      <g:image_link>https://www.fof.dk/media/ezkhk0l1/gavekort-soenderjylland-fof-aftenskolen-1.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>200.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sønderjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type></g:product_type>
+      <g:custom_label_0></g:custom_label_0>
+      <g:custom_label_1></g:custom_label_1>
+      <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4></g:custom_label_4>
+      <g:start_date>2027-01-06T00:00:00.000Z</g:start_date>
     </item>
 <item>
       <g:id>SDJ-3271855</g:id>
@@ -2267,11 +2245,11 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:internal_label>['Bjerggade','Aabenraa']</g:internal_label>
     </item>
 <item>
-      <g:id>SDJ-2271418</g:id>
-      <g:title><![CDATA[Pilates for alle]]></g:title>
-      <g:description><![CDATA[Med klassisk Matwork Pilates i Aabenraa og Padborg får du træning, der styrker kroppen indefra. Du arbejder med muskler, led og kropsholdning gennem præcise bevægelser, der forbedrer din styrke, smidighed og balance.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-soenderjylland/pilates-aabenraa-padborg?holdnr=2271418</g:link>
-      <g:image_link>https://www.fof.dk/media/fzjlq5t1/pilates-aabenraa-padborg-fof-soenderjylland.png?width=1200</g:image_link>
+      <g:id>SDJ-2271419</g:id>
+      <g:title><![CDATA[Pilates fleksibilitet]]></g:title>
+      <g:description><![CDATA[Vil du arbejde med kroppens bevægelighed, styrke og smidighed på en grundig og systematisk måde? På dette pilateshold i Aabenraa kombinerer vi opvarmning, dynamiske stræk og mobilitetsøvelser, så hele kroppen bliver arbejdet igennem fra ankler til håndled. Vi tager udgangspunkt i kroppens behov og arbejder i et tempo, hvor der er plads til at udvikle sig.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-soenderjylland/pilates-fleksibilitet?holdnr=2271419</g:link>
+      <g:image_link>https://www.fof.dk/media/xmueok5g/pilates-oevede-soenderborg-soenderjylland-fof-aftenskolen.jpg?width=1200</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:quantity>1</g:quantity>
       <g:price>795.00 DKK</g:price>
@@ -2289,11 +2267,11 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:internal_label>['Bjerggade','Aabenraa']</g:internal_label>
     </item>
 <item>
-      <g:id>SDJ-2271419</g:id>
-      <g:title><![CDATA[Pilates fleksibilitet]]></g:title>
-      <g:description><![CDATA[Vil du arbejde med kroppens bevægelighed, styrke og smidighed på en grundig og systematisk måde? På dette pilateshold i Aabenraa kombinerer vi opvarmning, dynamiske stræk og mobilitetsøvelser, så hele kroppen bliver arbejdet igennem fra ankler til håndled. Vi tager udgangspunkt i kroppens behov og arbejder i et tempo, hvor der er plads til at udvikle sig.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-soenderjylland/pilates-fleksibilitet?holdnr=2271419</g:link>
-      <g:image_link>https://www.fof.dk/media/xmueok5g/pilates-oevede-soenderborg-soenderjylland-fof-aftenskolen.jpg?width=1200</g:image_link>
+      <g:id>SDJ-2271418</g:id>
+      <g:title><![CDATA[Pilates for alle]]></g:title>
+      <g:description><![CDATA[Med klassisk Matwork Pilates i Aabenraa og Padborg får du træning, der styrker kroppen indefra. Du arbejder med muskler, led og kropsholdning gennem præcise bevægelser, der forbedrer din styrke, smidighed og balance.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-soenderjylland/pilates-aabenraa-padborg?holdnr=2271418</g:link>
+      <g:image_link>https://www.fof.dk/media/fzjlq5t1/pilates-aabenraa-padborg-fof-soenderjylland.png?width=1200</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:quantity>1</g:quantity>
       <g:price>795.00 DKK</g:price>
@@ -2510,7 +2488,7 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
     </item>
 <item>
       <g:id>SDJ-1262270</g:id>
-      <g:title><![CDATA[Traditional Eastern  Mediterranean cooking]]></g:title>
+      <g:title><![CDATA[Traditional Eastern Mediterranean cooking]]></g:title>
       <g:description><![CDATA[Join chef Sultan Tuğçe Arslan, from restaurant Syttende in Sønderborg, for a two-day culinary workshop exploring the rich traditions of meze from the Eastern Mediterranean and Turkish cuisine. ]]></g:description>
       <g:link>https://www.fof.dk/aftenskolen/fof-soenderjylland/traditional-eastern-mediterranean-cooking?holdnr=1262270</g:link>
       <g:image_link>https://www.fof.dk/media/s1rg3jip/traditional-eastern-mediterranean-cooking-soenderjylland-fof-aftenskolen.jpg?width=1200</g:image_link>
