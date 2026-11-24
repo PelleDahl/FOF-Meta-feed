@@ -6,28 +6,6 @@
 <description>Meta produktfeed med alle ledige hold fra FOF Randers-Favrskov-Mariagerfjord-Viborg</description>
 <language>da-DK</language>
 <item>
-      <g:id>RFMV-626262</g:id>
-      <g:title><![CDATA[GymStudiets Pilates Reformer]]></g:title>
-      <g:description><![CDATA[Gå på små hold med max tre på, i vores fuldt udstyret Pilates studie med Reformere, Cadillac og Stabilitychair. Lær at bruge pilates grundprincipper på reformerne hos FOF Randers.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-randers-favrskov-mariagerfjord-viborg/gymstudiets-pilates-reformer?holdnr=626262</g:link>
-      <g:image_link>https://www.fof.dk/media/0hdpglsi/gymstudiet-reformer.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>555.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Randers-Favrskov-Mariagerfjord-Viborg</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Pilates</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Pilates</g:custom_label_2>
-      <g:custom_label_4>Randers</g:custom_label_4>
-      <g:start_date>2026-11-24T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Starter snart (4 uger)</g:custom_label_3>
-      <g:internal_label>['Starter snart (4 uger)','Randers','Motion','kurser 300-600 kr.','Randers C']</g:internal_label>
-    </item>
-<item>
       <g:id>RFMV-621855</g:id>
       <g:title><![CDATA[Babymotorik 6-10 måneder]]></g:title>
       <g:description><![CDATA[Få nye idéer til leg der er gode for dit barns sanser og motorik og hav det hyggeligt sammen med andre forældre på barsel. Fødselsterapeut Sarah har hold for både de helt små i alderen 3-6 måneder og børn på 6-10 måneder med mor eller far.]]></g:description>
@@ -823,6 +801,30 @@
       <g:internal_label>['Randers','Motion','Randers C']</g:internal_label>
     </item>
 <item>
+      <g:id>RFMV-710413</g:id>
+      <g:title><![CDATA[Spansk øvede]]></g:title>
+      <g:description><![CDATA[Drømmer du om at kunne tale spansk på rejsen eller bare lære et af verdens mest udbredte sprog helt fra bunden? 
+På FOF aftenskolen i Randers og Viborg får du en tryg og motiverende undervisning, så du kan begynde - eller blive endnu bedre til at forstå og bruge spansk i hverdagsnære situationer.
+]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-randers-favrskov-mariagerfjord-viborg/spansk?holdnr=710413</g:link>
+      <g:image_link>https://www.fof.dk/media/tnblkylx/spansk-fortov-cafe-sommer.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1295.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Randers-Favrskov-Mariagerfjord-Viborg</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Sprog &gt; Spansk</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Sprog</g:custom_label_1>
+      <g:custom_label_2>Spansk</g:custom_label_2>
+      <g:custom_label_4>Randers</g:custom_label_4>
+      <g:start_date>2027-01-11T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Randers</g:custom_label_3>
+      <g:internal_label>['Randers','Randers C']</g:internal_label>
+    </item>
+<item>
       <g:id>RFMV-710633</g:id>
       <g:title><![CDATA[Klaver eller guitar]]></g:title>
       <g:description><![CDATA[Gå til klaver eller guitar hos musikunderviser Esther Olesen. Du lærer akkorder og at spille efter noder så du kan spille mange forskellige sange, fx akkompagnere til fællessang på dit arbejde eller i familien. FOF aftenskolen har hold i Randers, Spentrup og Hobro.]]></g:description>
@@ -845,13 +847,11 @@
       <g:internal_label>['Mariagerfjord','Randers','Randers NØ']</g:internal_label>
     </item>
 <item>
-      <g:id>RFMV-710413</g:id>
-      <g:title><![CDATA[Spansk øvede]]></g:title>
-      <g:description><![CDATA[Drømmer du om at kunne tale spansk på rejsen eller bare lære et af verdens mest udbredte sprog helt fra bunden? 
-På FOF aftenskolen i Randers og Viborg får du en tryg og motiverende undervisning, så du kan begynde - eller blive endnu bedre til at forstå og bruge spansk i hverdagsnære situationer.
-]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-randers-favrskov-mariagerfjord-viborg/spansk?holdnr=710413</g:link>
-      <g:image_link>https://www.fof.dk/media/tnblkylx/spansk-fortov-cafe-sommer.jpg?width=1200</g:image_link>
+      <g:id>RFMV-710404</g:id>
+      <g:title><![CDATA[Engelsk let øvede]]></g:title>
+      <g:description><![CDATA[Til Ewas undervisning på FOF Aftenskolen i Randers kommer du til at opbygge dit ordforråd og blive bedre til at tale og forstå engelsk. Det er et rum, hvor du øver dig i det du allerede kan sammen med andre.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-randers-favrskov-mariagerfjord-viborg/engelsk?holdnr=710404</g:link>
+      <g:image_link>https://www.fof.dk/media/yesdpael/engelsk-ewa-skriver-paa-tavlen.jpg?width=1200</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:quantity>1</g:quantity>
       <g:price>1295.00 DKK</g:price>
@@ -859,10 +859,10 @@ På FOF aftenskolen i Randers og Viborg får du en tryg og motiverende undervisn
       <g:brand>FOF Randers-Favrskov-Mariagerfjord-Viborg</g:brand>
       <g:google_product_category>Education</g:google_product_category>
       <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Sprog &gt; Spansk</g:product_type>
+      <g:product_type>Kurser &gt; Sprog &gt; Engelsk</g:product_type>
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Sprog</g:custom_label_1>
-      <g:custom_label_2>Spansk</g:custom_label_2>
+      <g:custom_label_2>Engelsk</g:custom_label_2>
       <g:custom_label_4>Randers</g:custom_label_4>
       <g:start_date>2027-01-11T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Randers</g:custom_label_3>
@@ -889,28 +889,6 @@ På FOF aftenskolen i Randers og Viborg får du en tryg og motiverende undervisn
       <g:start_date>2027-01-11T00:00:00.000Z</g:start_date>
       <g:custom_label_3>FVU</g:custom_label_3>
       <g:internal_label>['FVU','Randers','Randers C']</g:internal_label>
-    </item>
-<item>
-      <g:id>RFMV-710404</g:id>
-      <g:title><![CDATA[Engelsk let øvede]]></g:title>
-      <g:description><![CDATA[Til Ewas undervisning på FOF Aftenskolen i Randers kommer du til at opbygge dit ordforråd og blive bedre til at tale og forstå engelsk. Det er et rum, hvor du øver dig i det du allerede kan sammen med andre.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-randers-favrskov-mariagerfjord-viborg/engelsk?holdnr=710404</g:link>
-      <g:image_link>https://www.fof.dk/media/yesdpael/engelsk-ewa-skriver-paa-tavlen.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1295.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Randers-Favrskov-Mariagerfjord-Viborg</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Sprog &gt; Engelsk</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Sprog</g:custom_label_1>
-      <g:custom_label_2>Engelsk</g:custom_label_2>
-      <g:custom_label_4>Randers</g:custom_label_4>
-      <g:start_date>2027-01-11T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Randers</g:custom_label_3>
-      <g:internal_label>['Randers','Randers C']</g:internal_label>
     </item>
 <item>
       <g:id>RFMV-710402</g:id>
@@ -1091,28 +1069,6 @@ På FOF aftenskolen i Randers og Viborg får du en tryg og motiverende undervisn
       <g:internal_label>['FVU','Randers','Randers C']</g:internal_label>
     </item>
 <item>
-      <g:id>RFMV-711440</g:id>
-      <g:title><![CDATA[Yoga for børn 6-10 år]]></g:title>
-      <g:description><![CDATA[Kom med til børneyoga med Casandra for børn i alderen 6-10 år. Med yoga kan dit barn få ro og nærvær, mindske uro og stress og få bevæget kroppen.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-randers-favrskov-mariagerfjord-viborg/yoga-for-boern?holdnr=711440</g:link>
-      <g:image_link>https://www.fof.dk/media/oi0anmff/boerne-yoga-foto-af-to-glade-boern-sidestraek-web.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>580.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Randers-Favrskov-Mariagerfjord-Viborg</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Familie, børn og unge &gt; Motion, dans og drama</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Familie, børn og unge</g:custom_label_1>
-      <g:custom_label_2>Motion, dans og drama</g:custom_label_2>
-      <g:custom_label_4>Randers</g:custom_label_4>
-      <g:start_date>2027-01-12T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Nyhed</g:custom_label_3>
-      <g:internal_label>['Nyhed','Randers','kurser 300-600 kr.','Randers C']</g:internal_label>
-    </item>
-<item>
       <g:id>RFMV-715555</g:id>
       <g:title><![CDATA[Android - letøvede]]></g:title>
       <g:description><![CDATA[Bliv endnu bedre venner med din iPhone eller Android-telefon. FVU Digital er gratis it-kurser for voksne, hvor du bliver god til at bruge digitale redskaber i hverdagen. Der er max. 10 deltagere og god tid til spørgsmål i en hyggelig atmosfære. ]]></g:description>
@@ -1133,6 +1089,28 @@ På FOF aftenskolen i Randers og Viborg får du en tryg og motiverende undervisn
       <g:start_date>2027-01-12T00:00:00.000Z</g:start_date>
       <g:custom_label_3>FVU</g:custom_label_3>
       <g:internal_label>['FVU','Randers','Randers C']</g:internal_label>
+    </item>
+<item>
+      <g:id>RFMV-711440</g:id>
+      <g:title><![CDATA[Yoga for børn 6-10 år]]></g:title>
+      <g:description><![CDATA[Kom med til børneyoga med Casandra for børn i alderen 6-10 år. Med yoga kan dit barn få ro og nærvær, mindske uro og stress og få bevæget kroppen.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-randers-favrskov-mariagerfjord-viborg/yoga-for-boern?holdnr=711440</g:link>
+      <g:image_link>https://www.fof.dk/media/oi0anmff/boerne-yoga-foto-af-to-glade-boern-sidestraek-web.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>580.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Randers-Favrskov-Mariagerfjord-Viborg</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Familie, børn og unge &gt; Motion, dans og drama</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Familie, børn og unge</g:custom_label_1>
+      <g:custom_label_2>Motion, dans og drama</g:custom_label_2>
+      <g:custom_label_4>Randers</g:custom_label_4>
+      <g:start_date>2027-01-12T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Nyhed</g:custom_label_3>
+      <g:internal_label>['Nyhed','Randers','kurser 300-600 kr.','Randers C']</g:internal_label>
     </item>
 <item>
       <g:id>RFMV-712306</g:id>
@@ -1177,6 +1155,28 @@ På FOF aftenskolen i Randers og Viborg får du en tryg og motiverende undervisn
       <g:start_date>2027-01-14T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Nyhed</g:custom_label_3>
       <g:internal_label>['Nyhed','Randers','Randers C']</g:internal_label>
+    </item>
+<item>
+      <g:id>RFMV-710306</g:id>
+      <g:title><![CDATA[Meditation og mindfulness]]></g:title>
+      <g:description><![CDATA[Find din indre balance, velvære og ro med et kursus i mindfulness og meditation. Få gavn af meditation i din hverdag og oplev mere overskud og velvære. ]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-randers-favrskov-mariagerfjord-viborg/meditation-og-mindfulness?holdnr=710306</g:link>
+      <g:image_link>https://www.fof.dk/media/no5ombnl/meditation-og-mindfulness-umbraco.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>960.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Randers-Favrskov-Mariagerfjord-Viborg</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Mindfulness og meditation</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Mindfulness og meditation</g:custom_label_2>
+      <g:custom_label_4>Randers</g:custom_label_4>
+      <g:start_date>2027-01-14T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Mindfulness / personlig udvikling</g:custom_label_3>
+      <g:internal_label>['Mindfulness / personlig udvikling','Randers C']</g:internal_label>
     </item>
 <item>
       <g:id>RFMV-715544</g:id>
@@ -3036,6 +3036,28 @@ Du lærer at lave dine egne mønstre]]></g:description>
       <g:internal_label>['Nyhed','Weekend','1 dags kursus','Randers','Mindfulness / personlig udvikling','kurser under 300kr','Randers C']</g:internal_label>
     </item>
 <item>
+      <g:id>RFMV-711528</g:id>
+      <g:title><![CDATA[Surdejsbagning]]></g:title>
+      <g:description><![CDATA[Bag dig eget lækre og sunde brød på surdejskursus hos FOF. Vi bager i køkkenet på Kristrup Skole, Randers SØ. ]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-randers-favrskov-mariagerfjord-viborg/surdejsbagning?holdnr=711528</g:link>
+      <g:image_link>https://www.fof.dk/media/zoamb45i/surdejsboller-sitecore.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>505.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Randers-Favrskov-Mariagerfjord-Viborg</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Madlavning og drikkevarer &gt; Bagning og søde sager</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
+      <g:custom_label_2>Bagning og søde sager</g:custom_label_2>
+      <g:custom_label_4>Randers</g:custom_label_4>
+      <g:start_date>2027-04-27T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>1 dags kursus</g:custom_label_3>
+      <g:internal_label>['1 dags kursus','Nyhed','Randers','kurser 300-600 kr.','Randers SØ']</g:internal_label>
+    </item>
+<item>
       <g:id>RFMV-711636</g:id>
       <g:title><![CDATA[Hvad er et hjem, når man ikke har en fast adresse?]]></g:title>
       <g:description><![CDATA[Sidse fortæller i FN's verdensmålsuge om hvordan livet kan leves på en sejlbåd. Sejle rundt i verden og stadig passe et fuldtidsarbejde.
@@ -3057,28 +3079,6 @@ Kom til Mariager og hør et spændene og inspirerende foredrag med Sisi at sea.]
       <g:start_date>2027-04-27T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Foredrag</g:custom_label_3>
       <g:internal_label>['Foredrag','Mariagerfjord','Mariager']</g:internal_label>
-    </item>
-<item>
-      <g:id>RFMV-711528</g:id>
-      <g:title><![CDATA[Surdejsbagning]]></g:title>
-      <g:description><![CDATA[Bag dig eget lækre og sunde brød på surdejskursus hos FOF. Vi bager i køkkenet på Kristrup Skole, Randers SØ. ]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-randers-favrskov-mariagerfjord-viborg/surdejsbagning?holdnr=711528</g:link>
-      <g:image_link>https://www.fof.dk/media/zoamb45i/surdejsboller-sitecore.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>505.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Randers-Favrskov-Mariagerfjord-Viborg</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Madlavning og drikkevarer &gt; Bagning og søde sager</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
-      <g:custom_label_2>Bagning og søde sager</g:custom_label_2>
-      <g:custom_label_4>Randers</g:custom_label_4>
-      <g:start_date>2027-04-27T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>1 dags kursus</g:custom_label_3>
-      <g:internal_label>['1 dags kursus','Nyhed','Randers','kurser 300-600 kr.','Randers SØ']</g:internal_label>
     </item>
 <item>
       <g:id>RFMV-710759</g:id>

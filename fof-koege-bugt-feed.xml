@@ -6,28 +6,6 @@
 <description>Meta produktfeed med alle ledige hold fra FOF Køge Bugt</description>
 <language>da-DK</language>
 <item>
-      <g:id>KOE-51955</g:id>
-      <g:title><![CDATA[Leif Davidsen: Requiem for Rusland]]></g:title>
-      <g:description><![CDATA[Foredrag med Leif Davidsen om Requiem for Rusland, krigen i Ukraine og Ruslands udvikling gennem de seneste 30 år.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koege-bugt/leif-davidsen-requiem-for-rusland?holdnr=51955</g:link>
-      <g:image_link>https://www.fof.dk/media/idilefta/leif-davidsen-koege-fof-aftenskolen.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>195.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Køge Bugt</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Foredrag, debat og højskoler &gt; Samfund og historie</g:product_type>
-      <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
-      <g:custom_label_1>Samfund og historie</g:custom_label_1>
-      <g:custom_label_2></g:custom_label_2>
-      <g:custom_label_4>Stenløse</g:custom_label_4>
-      <g:start_date>2026-11-24T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Egedal</g:custom_label_3>
-      <g:internal_label>['Egedal','Endagskurser','Starter snart','Stenløse']</g:internal_label>
-    </item>
-<item>
       <g:id>KOE-51970</g:id>
       <g:title><![CDATA[Sangkrammer-koncert med Maria Høyer]]></g:title>
       <g:description><![CDATA[Sammen med Ældre Sagen i Køge inviterer vi til Sangkrammer-koncert med Maria Høyer]]></g:description>
@@ -446,6 +424,28 @@
       <g:internal_label>['Køge','Forår']</g:internal_label>
     </item>
 <item>
+      <g:id>KOE-53434</g:id>
+      <g:title><![CDATA[Makeup workshop - Lær at lægge naturlig makeup]]></g:title>
+      <g:description><![CDATA[Forkæl dig selv for en aften. Lær at lægge makeup og hav det lækkert imens! Hyggelig og inspirerende makeup kursus på små hold. Makeup kursus i Roskilde, Hvalsø, Stenløse og Solrød. ]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koege-bugt/makeup-workshop?holdnr=53434</g:link>
+      <g:image_link>https://www.fof.dk/media/wz1dwo3o/makeup-workshop-koegebugt-fof-aftenskolen.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>301.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Køge Bugt</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Livsstil og trivsel &gt; Kropspleje</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Livsstil og trivsel</g:custom_label_1>
+      <g:custom_label_2>Kropspleje</g:custom_label_2>
+      <g:custom_label_4>Køge</g:custom_label_4>
+      <g:start_date>2027-01-09T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Weekend</g:custom_label_3>
+      <g:internal_label>['Weekend','Køge']</g:internal_label>
+    </item>
+<item>
       <g:id>KOE-53008</g:id>
       <g:title><![CDATA[Keramik - eksklusivt drejekursus]]></g:title>
       <g:description><![CDATA[Keramik Greve: På vores drejekursus bliver du en haj til at dreje keramik på en drejeskive. Vores eksklusive drejekurser foregår i Greve hvor du på helt små hold får vejledning til at komme i gang med at dreje keramik]]></g:description>
@@ -620,6 +620,50 @@
       <g:start_date>2027-01-16T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Køge</g:custom_label_3>
       <g:internal_label>['Køge','Forår','Weekend']</g:internal_label>
+    </item>
+<item>
+      <g:id>KOE-52223</g:id>
+      <g:title><![CDATA[Yin Yoga]]></g:title>
+      <g:description><![CDATA[En ugentlig times forkælelse med dygtige undervisere og trygge hold.. Vi har plads til alle kroppe og niveauer. Du kan gå til yin yoga i Roskilde, Køge. Greve, Egedal, Stevns og Ishøj.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koege-bugt/yin-yoga?holdnr=52223</g:link>
+      <g:image_link>https://www.fof.dk/media/343nexsv/yoga-fof-aftenskolen-13.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1342.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Køge Bugt</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Yoga</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Stenløse</g:custom_label_4>
+      <g:start_date>2027-01-19T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Weekend</g:custom_label_3>
+      <g:internal_label>['Weekend','Stenløse']</g:internal_label>
+    </item>
+<item>
+      <g:id>KOE-52222</g:id>
+      <g:title><![CDATA[Yin Yoga]]></g:title>
+      <g:description><![CDATA[En ugentlig times forkælelse med dygtige undervisere og trygge hold.. Vi har plads til alle kroppe og niveauer. Du kan gå til yin yoga i Roskilde, Køge. Greve, Egedal, Stevns og Ishøj.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koege-bugt/yin-yoga?holdnr=52222</g:link>
+      <g:image_link>https://www.fof.dk/media/343nexsv/yoga-fof-aftenskolen-13.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1342.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Køge Bugt</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Yoga</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Stenløse</g:custom_label_4>
+      <g:start_date>2027-01-19T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Weekend</g:custom_label_3>
+      <g:internal_label>['Weekend','Stenløse']</g:internal_label>
     </item>
 <item>
       <g:id>KOE-52887</g:id>
@@ -2382,28 +2426,6 @@
       <g:internal_label>['Forår','Endagskurser']</g:internal_label>
     </item>
 <item>
-      <g:id>KOE-53886</g:id>
-      <g:title><![CDATA[Musicon og Rockmuseet – Byudvikling møder rock]]></g:title>
-      <g:description><![CDATA[Oplev Musicon og Rockmuseet i Roskilde med FOF Køge Bugt 4. oktober. Guidet tur gennem den kreative bydel efterfulgt af rundvisning på Rockmuseet med historier om pop, rock, ungdomskultur og moderne byudvikling. ]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koege-bugt/musicon-og-rockmuseet-byudvikling-moeder-rock?holdnr=53886</g:link>
-      <g:image_link>https://www.fof.dk/media/hh4h2tx1/musicon-koege-fof-aftenskolen.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>295.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Køge Bugt</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Rejser, ture og rundvisninger &gt; Rundvisninger</g:product_type>
-      <g:custom_label_0>Rejser, ture og rundvisninger</g:custom_label_0>
-      <g:custom_label_1>Rundvisninger</g:custom_label_1>
-      <g:custom_label_2></g:custom_label_2>
-      <g:custom_label_4></g:custom_label_4>
-      <g:start_date>2027-05-04T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Forår</g:custom_label_3>
-      <g:internal_label>['Forår','Endagskurser','Weekend']</g:internal_label>
-    </item>
-<item>
       <g:id>KOE-53863</g:id>
       <g:title><![CDATA[Kom på Letbanetur med Lindskov]]></g:title>
       <g:description><![CDATA[Nyhed i 2026: Oplev en tur med Letbanen og lær mere om byggeriet og de byudviklingstanker der ligger bag, når Frederik Lindskov tager dig med på tur.]]></g:description>
@@ -2424,6 +2446,28 @@
       <g:start_date>2027-05-04T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Forår</g:custom_label_3>
       <g:internal_label>['Forår','Endagskurser']</g:internal_label>
+    </item>
+<item>
+      <g:id>KOE-53886</g:id>
+      <g:title><![CDATA[Musicon og Rockmuseet – Byudvikling møder rock]]></g:title>
+      <g:description><![CDATA[Oplev Musicon og Rockmuseet i Roskilde med FOF Køge Bugt 4. oktober. Guidet tur gennem den kreative bydel efterfulgt af rundvisning på Rockmuseet med historier om pop, rock, ungdomskultur og moderne byudvikling. ]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koege-bugt/musicon-og-rockmuseet-byudvikling-moeder-rock?holdnr=53886</g:link>
+      <g:image_link>https://www.fof.dk/media/hh4h2tx1/musicon-koege-fof-aftenskolen.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>295.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Køge Bugt</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Rejser, ture og rundvisninger &gt; Rundvisninger</g:product_type>
+      <g:custom_label_0>Rejser, ture og rundvisninger</g:custom_label_0>
+      <g:custom_label_1>Rundvisninger</g:custom_label_1>
+      <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4></g:custom_label_4>
+      <g:start_date>2027-05-04T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Forår</g:custom_label_3>
+      <g:internal_label>['Forår','Endagskurser','Weekend']</g:internal_label>
     </item>
 <item>
       <g:id>KOE-53877</g:id>
