@@ -94,28 +94,6 @@
       <g:internal_label>['Ballerup','Endagskurser','Starter snart','750 kr','1000 kr','Forår2027']</g:internal_label>
     </item>
 <item>
-      <g:id>KBO-22023</g:id>
-      <g:title><![CDATA[Julebyvandring i København ]]></g:title>
-      <g:description><![CDATA[Tag på julebyvandring i København og oplev julens historie i 1800-tallet. Hør om traditioner, H.C. Andersen og gamle julevaner på en stemningsfuld byvandring.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/julevandring-i-koebenhavn?holdnr=22023</g:link>
-      <g:image_link>https://www.fof.dk/media/r4tegh0x/julevandring-i-koebenhavn-med-julequiz.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>160.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Københavns Omegn</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Rejser, ture og rundvisninger &gt; Byvandringer</g:product_type>
-      <g:custom_label_0>Rejser, ture og rundvisninger</g:custom_label_0>
-      <g:custom_label_1>Byvandringer</g:custom_label_1>
-      <g:custom_label_2></g:custom_label_2>
-      <g:custom_label_4>København</g:custom_label_4>
-      <g:start_date>2026-12-05T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Starter snart</g:custom_label_3>
-      <g:internal_label>['Starter snart','Endagskurser','250 kr','Forår2027','København','København K']</g:internal_label>
-    </item>
-<item>
       <g:id>KBO-22457</g:id>
       <g:title><![CDATA[Smykkekursus - Lav dine egne julegaver]]></g:title>
       <g:description><![CDATA[Forær dig selv gaven der bliver ved med at give: Kreativt smykkekursus i Ballerup hos FOF Københavns Omegn. Lær smykkedesign, sølvarbejde og håndlavede teknikker på inspirerende smykkekursus i Ballerup. Flere datoer]]></g:description>
@@ -387,7 +365,7 @@
       <g:image_link>https://www.fof.dk/media/kj3bzhss/kor-fof-aftenskolen-08.jpg?width=1200</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:quantity>1</g:quantity>
-      <g:price>695.00 DKK</g:price>
+      <g:price>535.00 DKK</g:price>
       <g:condition>new</g:condition>
       <g:brand>FOF Københavns Omegn</g:brand>
       <g:google_product_category>Education</g:google_product_category>
@@ -466,6 +444,28 @@
       <g:start_date>2027-01-12T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Taastrup</g:custom_label_3>
       <g:internal_label>['Taastrup','Forår2027']</g:internal_label>
+    </item>
+<item>
+      <g:id>KBO-23228</g:id>
+      <g:title><![CDATA[Surdej for let øvede - fortsætterhold]]></g:title>
+      <g:description><![CDATA[På dette surdejskursus for begyndere i Ballerup lærer du, hvordan du bager brød med smag, struktur og en sprød skorpe fra bunden. Lær at bage lækkert surdejsbrød i Ballerup. Perfekt for begyndere – få surdej, opskrifter og tips med hjem og bag sprødt, luftigt brød.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/surdej-for-begyndere?holdnr=23228</g:link>
+      <g:image_link>https://www.fof.dk/media/dk3lwno4/surdej-for-begyndere.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>780.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Københavns Omegn</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Madlavning og drikkevarer &gt; Bagning og søde sager</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
+      <g:custom_label_2>Bagning og søde sager</g:custom_label_2>
+      <g:custom_label_4>Ballerup</g:custom_label_4>
+      <g:start_date>2027-01-12T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Ballerup</g:custom_label_3>
+      <g:internal_label>['Ballerup']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23477</g:id>
@@ -600,6 +600,28 @@
       <g:internal_label>['Ballerup','Forår2027']</g:internal_label>
     </item>
 <item>
+      <g:id>KBO-23295</g:id>
+      <g:title><![CDATA[Bettinas Strikkestue ]]></g:title>
+      <g:description><![CDATA[Hyggeligt strikkefællesskab i Glostrup med fokus på samvær, kreativitet og fordybelse. Bettinas Strikkestue er for alle – uanset niveau.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/bettinas-strikkestue?holdnr=23295</g:link>
+      <g:image_link>https://www.fof.dk/media/3qqmonfg/strikkekursus-fof-aftenskolen-02.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>175.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Københavns Omegn</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Kreative kurser &gt; Håndarbejde</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Kreative kurser</g:custom_label_1>
+      <g:custom_label_2>Håndarbejde</g:custom_label_2>
+      <g:custom_label_4>Glostrup</g:custom_label_4>
+      <g:start_date>2027-01-14T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Glostrup</g:custom_label_3>
+      <g:internal_label>['Glostrup','250 kr']</g:internal_label>
+    </item>
+<item>
       <g:id>KBO-23475</g:id>
       <g:title><![CDATA[Keramik for øvede]]></g:title>
       <g:description><![CDATA[Deltag i FOF keramikkursus i Hedehusene og lær modellering, pladeteknik, drejning, dekoration og glasering. Kurset er for begyndere og let øvede med små hold og personlig vejledning.]]></g:description>
@@ -732,6 +754,28 @@
       <g:internal_label>['Herlev','Forår2027']</g:internal_label>
     </item>
 <item>
+      <g:id>KBO-23436</g:id>
+      <g:title><![CDATA[Lær at sy – intensivt sykursus over 3 lørdage]]></g:title>
+      <g:description><![CDATA[Drømmer du om at lære at sy og skabe en garderobe, der skiller sig ud? På vores sykursus i Glostrup Medborgerhus får du professionel syundervisning, kreativ inspiration og tid til fordybelse. Lær at sy dit eget tøj på kreativt sykursus i Glostrup Medborgerhus. Sykursus for begyndere og øvede med personlig vejledning.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/syning-i-glostrup?holdnr=23436</g:link>
+      <g:image_link>https://www.fof.dk/media/x35j4zcl/syning-fof-aftenskolen-18.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>885.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Københavns Omegn</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Kreative kurser &gt; Syning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Kreative kurser</g:custom_label_1>
+      <g:custom_label_2>Syning</g:custom_label_2>
+      <g:custom_label_4>Glostrup</g:custom_label_4>
+      <g:start_date>2027-01-16T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Glostrup</g:custom_label_3>
+      <g:internal_label>['Glostrup']</g:internal_label>
+    </item>
+<item>
       <g:id>KBO-23427</g:id>
       <g:title><![CDATA[Syning og tilskæring]]></g:title>
       <g:description><![CDATA[ær at sy dit eget tøj og accessories på et kreativt sykursus i Brøndby nær København og Omegn. Personlig vejledning, små hold og masser af inspiration til begyndere og øvede.]]></g:description>
@@ -842,6 +886,28 @@
       <g:internal_label>['Glostrup','Forår2027']</g:internal_label>
     </item>
 <item>
+      <g:id>KBO-33406</g:id>
+      <g:title><![CDATA[Keramik for børn 8-15 år]]></g:title>
+      <g:description><![CDATA[Keramik for hele familien. Lav kopper, figurer og kreative ting i ler sammen. Perfekt til børn og teenagere– ingen erfaring nødvendig. Giv dit barn en kreativ oplevelse med ler på et keramikkursus for børn i Brøndby. ]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/keramik-for-boern-og-voksne?holdnr=33406</g:link>
+      <g:image_link>https://www.fof.dk/media/sjjnqtjg/egne-billeder-boern-og-keramik.png?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>2395.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Københavns Omegn</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Familie, børn og unge &gt; Kreative kurser</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Familie, børn og unge</g:custom_label_1>
+      <g:custom_label_2>Kreative kurser</g:custom_label_2>
+      <g:custom_label_4>Brøndby</g:custom_label_4>
+      <g:start_date>2027-01-21T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Brøndby</g:custom_label_3>
+      <g:internal_label>['Brøndby','Forår2027','Familie']</g:internal_label>
+    </item>
+<item>
       <g:id>KBO-23519</g:id>
       <g:title><![CDATA[Pilates]]></g:title>
       <g:description><![CDATA[Pilates i Rødovre, Herlev og Taastrup. Skånsom fysioterapeutisk træning på Lindehøjskolen og Taastrup Kulturcenter med fokus på styrke og balance.]]></g:description>
@@ -884,6 +950,28 @@
       <g:start_date>2027-01-21T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Glostrup</g:custom_label_3>
       <g:internal_label>['Glostrup','Forår2027']</g:internal_label>
+    </item>
+<item>
+      <g:id>KBO-23473</g:id>
+      <g:title><![CDATA[Keramik drejekursus]]></g:title>
+      <g:description><![CDATA[For begyndere og let øvede i keramik i Glostrup. Eksklusivt keramik kursus hvor du lærer at dreje keramik på drejeskive. Din underviser er ekspert i keramik og kan lære dig keramisk drejning, centrering og formgivning på små hold med personlig vejledning undervejs. ]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/keramik-drejekursus?holdnr=23473</g:link>
+      <g:image_link>https://www.fof.dk/media/0wxd2efl/drejekursus-1.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>2540.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Københavns Omegn</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Kreative kurser &gt; Keramik</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Kreative kurser</g:custom_label_1>
+      <g:custom_label_2>Keramik</g:custom_label_2>
+      <g:custom_label_4>Glostrup</g:custom_label_4>
+      <g:start_date>2027-01-22T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Glostrup</g:custom_label_3>
+      <g:internal_label>['Glostrup']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23845</g:id>
@@ -1060,6 +1148,28 @@
       <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Brøndby</g:custom_label_3>
       <g:internal_label>['Brøndby','Forår2027']</g:internal_label>
+    </item>
+<item>
+      <g:id>KBO-23503</g:id>
+      <g:title><![CDATA[Hatha yoga]]></g:title>
+      <g:description><![CDATA[Kom med på holdet i hatha yoga i Hedehusene, Herlev, Vallensbæk, Albertslund, Glostrup, Rødovre og Taastrup. Små hold med plads til alle kropstyper og niveauer. Find et hold tæt på dig og kom i gang med en god vane.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/hatha-yoga?holdnr=23503</g:link>
+      <g:image_link>https://www.fof.dk/media/xb0n4ui0/yoga-fof-aftenskolen-28.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1500.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Københavns Omegn</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Yoga</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Glostrup</g:custom_label_4>
+      <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Glostrup</g:custom_label_3>
+      <g:internal_label>['Glostrup']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23578</g:id>
@@ -1280,6 +1390,28 @@
       <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Ballerup</g:custom_label_3>
       <g:internal_label>['Ballerup','Forår2027','Skovlunde']</g:internal_label>
+    </item>
+<item>
+      <g:id>KBO-23541</g:id>
+      <g:title><![CDATA[Glad bevægelse]]></g:title>
+      <g:description><![CDATA[Deltag i Glad bevægelse i Glostrup og Albertslund hos FOF Københavns Omegn. Sjov motion med musik, balance, styrke og fællesskab for alle. Du får: Forbedret balance og koordination, stærkere muskler og øget smidighed, bedre kropskontrol og bevægelighed]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/glad-bevaegelse?holdnr=23541</g:link>
+      <g:image_link>https://www.fof.dk/media/ghih5skt/aktiv-traening.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1400.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Københavns Omegn</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Bevægelse og afspænding</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Bevægelse og afspænding</g:custom_label_2>
+      <g:custom_label_4>Glostrup</g:custom_label_4>
+      <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Glostrup</g:custom_label_3>
+      <g:internal_label>['Glostrup']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23584</g:id>
@@ -1524,50 +1656,6 @@
       <g:internal_label>['Brøndby','Forår2027','Brøndby Strand']</g:internal_label>
     </item>
 <item>
-      <g:id>KBO-23818</g:id>
-      <g:title><![CDATA[Osteoporose, balancetræning og afspænding]]></g:title>
-      <g:description><![CDATA[For dig med knogleskørhed/osteoporose. Skånsom og målrettet træning for dig med osteoporose. Fokus på styrke, balance og tryg bevægelse i rolige rammer med professionel vejledning.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/osteoporosetraening?holdnr=23818</g:link>
-      <g:image_link>https://www.fof.dk/media/koib4ksf/23.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1655.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Københavns Omegn</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Styrke- og konditionstræning</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Styrke- og konditionstræning</g:custom_label_2>
-      <g:custom_label_4>Herlev</g:custom_label_4>
-      <g:start_date>2027-01-26T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Herlev</g:custom_label_3>
-      <g:internal_label>['Herlev','Forår2027']</g:internal_label>
-    </item>
-<item>
-      <g:id>KBO-23802</g:id>
-      <g:title><![CDATA[Osteoporose og balancetræning]]></g:title>
-      <g:description><![CDATA[For dig med knogleskørhed/osteoporose. Skånsom og målrettet træning for dig med osteoporose. Fokus på styrke, balance og tryg bevægelse i rolige rammer med professionel vejledning.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/osteoporosetraening?holdnr=23802</g:link>
-      <g:image_link>https://www.fof.dk/media/koib4ksf/23.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1495.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Københavns Omegn</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Styrke- og konditionstræning</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Styrke- og konditionstræning</g:custom_label_2>
-      <g:custom_label_4>Ballerup</g:custom_label_4>
-      <g:start_date>2027-01-26T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Ballerup</g:custom_label_3>
-      <g:internal_label>['Ballerup','Forår2027']</g:internal_label>
-    </item>
-<item>
       <g:id>KBO-23525</g:id>
       <g:title><![CDATA[Yoga for seniorer]]></g:title>
       <g:description><![CDATA[Deltag i senioryoga hos FOF Københavns Omegn i Herlev, Glostrup, Albertslund og Taastrup. Gode lyse lokaler med nem adgang og gode parkeringsmuligheder. Blid yoga med fokus på balance, smidighed og ro.]]></g:description>
@@ -1610,6 +1698,50 @@
       <g:start_date>2027-01-26T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Glostrup</g:custom_label_3>
       <g:internal_label>['Glostrup','Forår2027']</g:internal_label>
+    </item>
+<item>
+      <g:id>KBO-23818</g:id>
+      <g:title><![CDATA[Osteoporose, balancetræning og afspænding]]></g:title>
+      <g:description><![CDATA[For dig med knogleskørhed/osteoporose. Skånsom og målrettet træning for dig med osteoporose. Fokus på styrke, balance og tryg bevægelse i rolige rammer med professionel vejledning.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/osteoporosetraening?holdnr=23818</g:link>
+      <g:image_link>https://www.fof.dk/media/koib4ksf/23.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1655.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Københavns Omegn</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Styrke- og konditionstræning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Styrke- og konditionstræning</g:custom_label_2>
+      <g:custom_label_4>Herlev</g:custom_label_4>
+      <g:start_date>2027-01-26T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Herlev</g:custom_label_3>
+      <g:internal_label>['Herlev','Forår2027']</g:internal_label>
+    </item>
+<item>
+      <g:id>KBO-23802</g:id>
+      <g:title><![CDATA[Osteoporose og balancetræning]]></g:title>
+      <g:description><![CDATA[For dig med knogleskørhed/osteoporose. Skånsom og målrettet træning for dig med osteoporose. Fokus på styrke, balance og tryg bevægelse i rolige rammer med professionel vejledning.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/osteoporosetraening?holdnr=23802</g:link>
+      <g:image_link>https://www.fof.dk/media/koib4ksf/23.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1495.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Københavns Omegn</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Styrke- og konditionstræning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Styrke- og konditionstræning</g:custom_label_2>
+      <g:custom_label_4>Ballerup</g:custom_label_4>
+      <g:start_date>2027-01-26T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Ballerup</g:custom_label_3>
+      <g:internal_label>['Ballerup','Forår2027']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23888</g:id>
@@ -1744,6 +1876,28 @@
       <g:internal_label>['Herlev','Forår2027']</g:internal_label>
     </item>
 <item>
+      <g:id>KBO-23927</g:id>
+      <g:title><![CDATA[Puls og styrke for kvinder]]></g:title>
+      <g:description><![CDATA[Træn i varmtvandsbassin med andre kvinder. Varmtvandstræning for kvinder i Herlev er en skånsom træning der er god for din krop, uanset skavanker.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/varmtvandstraening-for-kvinder?holdnr=23927</g:link>
+      <g:image_link>https://www.fof.dk/media/cxephtqg/varmtvandsbassin-kvinder-koebenhavns-omegn-fof-aftenskolen.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1520.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Københavns Omegn</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Træning i vand</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Træning i vand</g:custom_label_2>
+      <g:custom_label_4>Herlev</g:custom_label_4>
+      <g:start_date>2027-01-27T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Herlev</g:custom_label_3>
+      <g:internal_label>['Herlev']</g:internal_label>
+    </item>
+<item>
       <g:id>KBO-23461</g:id>
       <g:title><![CDATA[Smykkekursus]]></g:title>
       <g:description><![CDATA[Forær dig selv gaven der bliver ved med at give: Kreativt smykkekursus i Ballerup hos FOF Københavns Omegn. Lær smykkedesign, sølvarbejde og håndlavede teknikker på inspirerende smykkekursus i Ballerup. Flere datoer]]></g:description>
@@ -1854,28 +2008,6 @@
       <g:internal_label>['Glostrup','Forår2027']</g:internal_label>
     </item>
 <item>
-      <g:id>KBO-23512</g:id>
-      <g:title><![CDATA[Hatha yoga]]></g:title>
-      <g:description><![CDATA[Kom med på holdet i hatha yoga i Hedehusene, Herlev, Vallensbæk, Albertslund, Glostrup, Rødovre og Taastrup. Små hold med plads til alle kropstyper og niveauer. Find et hold tæt på dig og kom i gang med en god vane.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/hatha-yoga?holdnr=23512</g:link>
-      <g:image_link>https://www.fof.dk/media/xb0n4ui0/yoga-fof-aftenskolen-28.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1500.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Københavns Omegn</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Yoga</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Yoga</g:custom_label_2>
-      <g:custom_label_4>Glostrup</g:custom_label_4>
-      <g:start_date>2027-01-28T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Glostrup</g:custom_label_3>
-      <g:internal_label>['Glostrup','Forår2027']</g:internal_label>
-    </item>
-<item>
       <g:id>KBO-23527</g:id>
       <g:title><![CDATA[Yoga for seniorer]]></g:title>
       <g:description><![CDATA[Deltag i senioryoga hos FOF Københavns Omegn i Herlev, Glostrup, Albertslund og Taastrup. Gode lyse lokaler med nem adgang og gode parkeringsmuligheder. Blid yoga med fokus på balance, smidighed og ro.]]></g:description>
@@ -1918,6 +2050,28 @@
       <g:start_date>2027-01-28T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Albertslund</g:custom_label_3>
       <g:internal_label>['Albertslund','Forår2027']</g:internal_label>
+    </item>
+<item>
+      <g:id>KBO-23512</g:id>
+      <g:title><![CDATA[Hatha yoga]]></g:title>
+      <g:description><![CDATA[Kom med på holdet i hatha yoga i Hedehusene, Herlev, Vallensbæk, Albertslund, Glostrup, Rødovre og Taastrup. Små hold med plads til alle kropstyper og niveauer. Find et hold tæt på dig og kom i gang med en god vane.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/hatha-yoga?holdnr=23512</g:link>
+      <g:image_link>https://www.fof.dk/media/xb0n4ui0/yoga-fof-aftenskolen-28.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1500.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Københavns Omegn</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Yoga</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Glostrup</g:custom_label_4>
+      <g:start_date>2027-01-28T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Glostrup</g:custom_label_3>
+      <g:internal_label>['Glostrup','Forår2027']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23928</g:id>
@@ -2094,28 +2248,6 @@
       <g:start_date>2027-01-28T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Glostrup</g:custom_label_3>
       <g:internal_label>['Glostrup','Forår2027']</g:internal_label>
-    </item>
-<item>
-      <g:id>KBO-33406</g:id>
-      <g:title><![CDATA[Keramik for børn 8-15 år]]></g:title>
-      <g:description><![CDATA[Keramik for hele familien. Lav kopper, figurer og kreative ting i ler sammen. Perfekt til børn og teenagere– ingen erfaring nødvendig. Giv dit barn en kreativ oplevelse med ler på et keramikkursus for børn i Brøndby. ]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/keramik-for-boern-og-voksne?holdnr=33406</g:link>
-      <g:image_link>https://www.fof.dk/media/sjjnqtjg/egne-billeder-boern-og-keramik.png?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>2395.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Københavns Omegn</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Familie, børn og unge &gt; Kreative kurser</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Familie, børn og unge</g:custom_label_1>
-      <g:custom_label_2>Kreative kurser</g:custom_label_2>
-      <g:custom_label_4>Brøndby</g:custom_label_4>
-      <g:start_date>2027-01-28T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Brøndby</g:custom_label_3>
-      <g:internal_label>['Brøndby','Forår2027','Familie']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23521</g:id>
@@ -2493,6 +2625,28 @@ og bruger stemmen mere hensigtsmæssigt]]></g:description>
       <g:internal_label>['Brøndby','Forår2027']</g:internal_label>
     </item>
 <item>
+      <g:id>KBO-23352</g:id>
+      <g:title><![CDATA[Spansk for begyndere - fortsættere (A1) - små hold]]></g:title>
+      <g:description><![CDATA[Start din rejse med spansk på et roligt og trygt begynderniveau (A1). Lær simple sætninger, hverdagsudtryk og basisgrammatik hos FOF Københavns Omegn.  Dette spansk kursus for begyndere i København-området er skabt til dig, der vil i gang på en tryg, overskuelig og motiverende måde.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/spansk-for-begyndere-a1?holdnr=23352</g:link>
+      <g:image_link>https://www.fof.dk/media/zt2j3ixy/spansk-2.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1656.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Københavns Omegn</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Sprog &gt; Spansk</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Sprog</g:custom_label_1>
+      <g:custom_label_2>Spansk</g:custom_label_2>
+      <g:custom_label_4>Glostrup</g:custom_label_4>
+      <g:start_date>2027-02-01T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Glostrup</g:custom_label_3>
+      <g:internal_label>['Glostrup']</g:internal_label>
+    </item>
+<item>
       <g:id>KBO-23870</g:id>
       <g:title><![CDATA[Pilatesinspireret vandgymnastik i varmt vand]]></g:title>
       <g:description><![CDATA[Små trygge hold med skånsom varmtvandstræning i Herlev og Glostrup. Træn i varmtvandsbassin med fokus på styrke, balance, bevægelighed og velvære. Hensynstagende undervisning for alle niveauer.]]></g:description>
@@ -2801,28 +2955,6 @@ og bruger stemmen mere hensigtsmæssigt]]></g:description>
       <g:internal_label>['Albertslund','Forår2027']</g:internal_label>
     </item>
 <item>
-      <g:id>KBO-23410</g:id>
-      <g:title><![CDATA[Kreativt sykursus for alle - hver 14. dag]]></g:title>
-      <g:description><![CDATA[Deltag i syning hver 14. dag i Brøndby. Fleksibelt sykursus med fri brug af symaskiner, masser af inspiration og tid til fordybelse i egne projekter.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/kreativt-sykursus-for-alle-hver-14-dag?holdnr=23410</g:link>
-      <g:image_link>https://www.fof.dk/media/3qragrjm/syning-fof-aftenskolen-16.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1150.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Københavns Omegn</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Kreative kurser &gt; Syning</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Kreative kurser</g:custom_label_1>
-      <g:custom_label_2>Syning</g:custom_label_2>
-      <g:custom_label_4>Brøndby</g:custom_label_4>
-      <g:start_date>2027-02-02T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Brøndby</g:custom_label_3>
-      <g:internal_label>['Brøndby','Forår2027']</g:internal_label>
-    </item>
-<item>
       <g:id>KBO-23553</g:id>
       <g:title><![CDATA[Hatha yoga for mænd]]></g:title>
       <g:description><![CDATA[Deltag i Hatha yoga for mænd i Taastrup og Rødovre hos FOF Københavns Omegn. Rolig yoga med fokus på styrke, smidighed og færre spændinger.]]></g:description>
@@ -2843,6 +2975,28 @@ og bruger stemmen mere hensigtsmæssigt]]></g:description>
       <g:start_date>2027-02-02T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Rødovre</g:custom_label_3>
       <g:internal_label>['Rødovre','Forår2027']</g:internal_label>
+    </item>
+<item>
+      <g:id>KBO-23410</g:id>
+      <g:title><![CDATA[Kreativt sykursus for alle - hver 14. dag]]></g:title>
+      <g:description><![CDATA[Deltag i syning hver 14. dag i Brøndby. Fleksibelt sykursus med fri brug af symaskiner, masser af inspiration og tid til fordybelse i egne projekter.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/kreativt-sykursus-for-alle-hver-14-dag?holdnr=23410</g:link>
+      <g:image_link>https://www.fof.dk/media/3qragrjm/syning-fof-aftenskolen-16.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1150.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Københavns Omegn</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Kreative kurser &gt; Syning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Kreative kurser</g:custom_label_1>
+      <g:custom_label_2>Syning</g:custom_label_2>
+      <g:custom_label_4>Brøndby</g:custom_label_4>
+      <g:start_date>2027-02-02T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Brøndby</g:custom_label_3>
+      <g:internal_label>['Brøndby','Forår2027']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23543</g:id>
@@ -2887,6 +3041,28 @@ og bruger stemmen mere hensigtsmæssigt]]></g:description>
       <g:start_date>2027-02-02T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Herlev</g:custom_label_3>
       <g:internal_label>['Herlev','Forår2027']</g:internal_label>
+    </item>
+<item>
+      <g:id>KBO-23570</g:id>
+      <g:title><![CDATA[Qi Gong ]]></g:title>
+      <g:description><![CDATA[Qi Gong kursus i Brøndby, Glostrup og Ballerup. Dygtige undervisere får dig i gang med en blid træning. Qi gong øvelserne handler om De 8 Brokader, fokus på stressreduktion, meditation og energi for krop og sind ]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/qi-gong?holdnr=23570</g:link>
+      <g:image_link>https://www.fof.dk/media/fvjkf3kk/tai-chi-glostrup.png?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1600.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Københavns Omegn</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Tai Chi og Qi Gong</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Tai Chi og Qi Gong</g:custom_label_2>
+      <g:custom_label_4>Glostrup</g:custom_label_4>
+      <g:start_date>2027-02-02T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Glostrup</g:custom_label_3>
+      <g:internal_label>['Glostrup']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23861</g:id>
@@ -3022,28 +3198,6 @@ og bruger stemmen mere hensigtsmæssigt]]></g:description>
       <g:internal_label>['Ballerup','Forår2027','Skovlunde']</g:internal_label>
     </item>
 <item>
-      <g:id>KBO-23856</g:id>
-      <g:title><![CDATA[Bevægelse hensyntagende]]></g:title>
-      <g:description><![CDATA[Få ro i kroppen med bevægelse og afspænding. Blid træning med fokus på nakke, skuldre og kropsholdning – tilpasset dine behov.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/bevaegelse-og-afspaending-hens?holdnr=23856</g:link>
-      <g:image_link>https://www.fof.dk/media/gjrjtjh2/bevaegelse-og-afspaending-hens.png?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1355.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Københavns Omegn</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Bevægelse og afspænding</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Bevægelse og afspænding</g:custom_label_2>
-      <g:custom_label_4>Vallensbæk</g:custom_label_4>
-      <g:start_date>2027-02-03T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Vallensbæk</g:custom_label_3>
-      <g:internal_label>['Vallensbæk','Forår2027']</g:internal_label>
-    </item>
-<item>
       <g:id>KBO-23857</g:id>
       <g:title><![CDATA[Hatha Yoga hensyntagende]]></g:title>
       <g:description><![CDATA[Deltag i yoga for seniorer hos FOF Københavns Omegn i Albertslund, Glostrup, Taastrup, Brøndby og Herlev. Vælg mellem Hatha yoga, senioryoga og yoga med fokus på styrke, balance og åndedræt.]]></g:description>
@@ -3066,26 +3220,26 @@ og bruger stemmen mere hensigtsmæssigt]]></g:description>
       <g:internal_label>['Vallensbæk','Forår2027']</g:internal_label>
     </item>
 <item>
-      <g:id>KBO-23828</g:id>
-      <g:title><![CDATA[Styrketræning med fokus på osteoporose]]></g:title>
-      <g:description><![CDATA[For dig med knogleskørhed/osteoporose. Skånsom og målrettet træning for dig med osteoporose. Fokus på styrke, balance og tryg bevægelse i rolige rammer med professionel vejledning.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/osteoporosetraening?holdnr=23828</g:link>
-      <g:image_link>https://www.fof.dk/media/koib4ksf/23.jpg?width=1200</g:image_link>
+      <g:id>KBO-23856</g:id>
+      <g:title><![CDATA[Bevægelse hensyntagende]]></g:title>
+      <g:description><![CDATA[Få ro i kroppen med bevægelse og afspænding. Blid træning med fokus på nakke, skuldre og kropsholdning – tilpasset dine behov.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/bevaegelse-og-afspaending-hens?holdnr=23856</g:link>
+      <g:image_link>https://www.fof.dk/media/gjrjtjh2/bevaegelse-og-afspaending-hens.png?width=1200</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:quantity>1</g:quantity>
-      <g:price>1475.00 DKK</g:price>
+      <g:price>1355.00 DKK</g:price>
       <g:condition>new</g:condition>
       <g:brand>FOF Københavns Omegn</g:brand>
       <g:google_product_category>Education</g:google_product_category>
       <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Styrke- og konditionstræning</g:product_type>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Bevægelse og afspænding</g:product_type>
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Styrke- og konditionstræning</g:custom_label_2>
-      <g:custom_label_4>Brøndby</g:custom_label_4>
+      <g:custom_label_2>Bevægelse og afspænding</g:custom_label_2>
+      <g:custom_label_4>Vallensbæk</g:custom_label_4>
       <g:start_date>2027-02-03T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Brøndby</g:custom_label_3>
-      <g:internal_label>['Brøndby','Forår2027']</g:internal_label>
+      <g:custom_label_3>Vallensbæk</g:custom_label_3>
+      <g:internal_label>['Vallensbæk','Forår2027']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23700</g:id>
@@ -3104,6 +3258,28 @@ og bruger stemmen mere hensigtsmæssigt]]></g:description>
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Musik og sang</g:custom_label_1>
       <g:custom_label_2>Klaver og harmonika</g:custom_label_2>
+      <g:custom_label_4>Brøndby</g:custom_label_4>
+      <g:start_date>2027-02-03T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Brøndby</g:custom_label_3>
+      <g:internal_label>['Brøndby','Forår2027']</g:internal_label>
+    </item>
+<item>
+      <g:id>KBO-23828</g:id>
+      <g:title><![CDATA[Styrketræning med fokus på osteoporose]]></g:title>
+      <g:description><![CDATA[For dig med knogleskørhed/osteoporose. Skånsom og målrettet træning for dig med osteoporose. Fokus på styrke, balance og tryg bevægelse i rolige rammer med professionel vejledning.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/osteoporosetraening?holdnr=23828</g:link>
+      <g:image_link>https://www.fof.dk/media/koib4ksf/23.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1475.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Københavns Omegn</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Styrke- og konditionstræning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Styrke- og konditionstræning</g:custom_label_2>
       <g:custom_label_4>Brøndby</g:custom_label_4>
       <g:start_date>2027-02-03T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Brøndby</g:custom_label_3>
@@ -3177,28 +3353,6 @@ og bruger stemmen mere hensigtsmæssigt]]></g:description>
       <g:internal_label>['Rødovre','Forår2027']</g:internal_label>
     </item>
 <item>
-      <g:id>KBO-23662</g:id>
-      <g:title><![CDATA[Gotved]]></g:title>
-      <g:description><![CDATA[Deltag i Gotvedgymnastik i Taastrup Kulturcenter og Parkskolen i Ballerup. Helhedsorienteret træning med fokus på smidighed, styrke og kropsbevidsthed for alle aldre og niveauer. | FOF Københavns Omegn]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/gotvedgymnastik?holdnr=23662</g:link>
-      <g:image_link>https://www.fof.dk/media/pdvbipgk/gotvedgymnastik.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1080.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Københavns Omegn</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Bevægelse og afspænding</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Bevægelse og afspænding</g:custom_label_2>
-      <g:custom_label_4>Taastrup</g:custom_label_4>
-      <g:start_date>2027-02-04T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Taastrup</g:custom_label_3>
-      <g:internal_label>['Taastrup','Forår2027']</g:internal_label>
-    </item>
-<item>
       <g:id>KBO-23834</g:id>
       <g:title><![CDATA[Bevægelse ved ADHD, stress og uro]]></g:title>
       <g:description><![CDATA[Hensyntagende træning ved ADHD og stress. Styrk kroppen med en fysioterapeut, og få mere ro, balance og overskud i hverdagen.
@@ -3220,6 +3374,28 @@ og bruger stemmen mere hensigtsmæssigt]]></g:description>
       <g:start_date>2027-02-04T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Rødovre</g:custom_label_3>
       <g:internal_label>['Rødovre','Forår2027']</g:internal_label>
+    </item>
+<item>
+      <g:id>KBO-23662</g:id>
+      <g:title><![CDATA[Gotved]]></g:title>
+      <g:description><![CDATA[Deltag i Gotvedgymnastik i Taastrup Kulturcenter og Parkskolen i Ballerup. Helhedsorienteret træning med fokus på smidighed, styrke og kropsbevidsthed for alle aldre og niveauer. | FOF Københavns Omegn]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/gotvedgymnastik?holdnr=23662</g:link>
+      <g:image_link>https://www.fof.dk/media/pdvbipgk/gotvedgymnastik.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1080.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Københavns Omegn</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Bevægelse og afspænding</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Bevægelse og afspænding</g:custom_label_2>
+      <g:custom_label_4>Taastrup</g:custom_label_4>
+      <g:start_date>2027-02-04T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Taastrup</g:custom_label_3>
+      <g:internal_label>['Taastrup','Forår2027']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23579</g:id>
@@ -3286,6 +3462,28 @@ og bruger stemmen mere hensigtsmæssigt]]></g:description>
       <g:start_date>2027-02-04T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Ballerup</g:custom_label_3>
       <g:internal_label>['Ballerup','Forår2027']</g:internal_label>
+    </item>
+<item>
+      <g:id>KBO-23682</g:id>
+      <g:title><![CDATA[Zumba Gold]]></g:title>
+      <g:description><![CDATA[Her får du pulsen op, mens du har det sjovt – og du mærker næsten ikke, at du træner. Deltag i Zumba i Herlev Hallen og Kilden i Brøndby hos FOF Københavns Omegn. Sjov, energisk og effektiv træning til latinamerikanske rytmer. | Sjov dansetræning hos FOF Københavns Omegn]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/zumba-gold?holdnr=23682</g:link>
+      <g:image_link>https://www.fof.dk/media/m1ua5xg4/zumba-1.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>966.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Københavns Omegn</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Dans</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Dans</g:custom_label_2>
+      <g:custom_label_4>Herlev</g:custom_label_4>
+      <g:start_date>2027-02-04T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Herlev</g:custom_label_3>
+      <g:internal_label>['Herlev']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23891</g:id>
@@ -3374,6 +3572,28 @@ og bruger stemmen mere hensigtsmæssigt]]></g:description>
       <g:start_date>2027-02-04T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Rødovre</g:custom_label_3>
       <g:internal_label>['Rødovre','Forår2027']</g:internal_label>
+    </item>
+<item>
+      <g:id>KBO-23681</g:id>
+      <g:title><![CDATA[Zumba Gold]]></g:title>
+      <g:description><![CDATA[Her får du pulsen op, mens du har det sjovt – og du mærker næsten ikke, at du træner. Deltag i Zumba i Herlev Hallen og Kilden i Brøndby hos FOF Københavns Omegn. Sjov, energisk og effektiv træning til latinamerikanske rytmer. | Sjov dansetræning hos FOF Københavns Omegn]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/zumba-gold?holdnr=23681</g:link>
+      <g:image_link>https://www.fof.dk/media/m1ua5xg4/zumba-1.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>966.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Københavns Omegn</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Dans</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Dans</g:custom_label_2>
+      <g:custom_label_4>Herlev</g:custom_label_4>
+      <g:start_date>2027-02-04T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Herlev</g:custom_label_3>
+      <g:internal_label>['Herlev']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23030</g:id>
@@ -3619,6 +3839,28 @@ og bruger stemmen mere hensigtsmæssigt]]></g:description>
       <g:internal_label>['Ballerup','Forår2027','Skovlunde']</g:internal_label>
     </item>
 <item>
+      <g:id>KBO-23425</g:id>
+      <g:title><![CDATA[Sløjd for voksne - begynder]]></g:title>
+      <g:description><![CDATA[Sløjd for voksne i Hedehusene hos FOF Københavns Omegn. Flere snedkerkurser for begyndere og øvede med Hüseyin Bahadir og fokus på træarbejde. Vælg mellem sløjd for begyndere eller øvede]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/sloejd-for-voksne?holdnr=23425</g:link>
+      <g:image_link>https://www.fof.dk/media/irkbdspz/snedkeri-fof-aftenskolen-05.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>875.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Københavns Omegn</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Kreative kurser &gt; Træarbejde</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Kreative kurser</g:custom_label_1>
+      <g:custom_label_2>Træarbejde</g:custom_label_2>
+      <g:custom_label_4>Taastrup</g:custom_label_4>
+      <g:start_date>2027-02-08T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Taastrup</g:custom_label_3>
+      <g:internal_label>['Taastrup']</g:internal_label>
+    </item>
+<item>
       <g:id>KBO-23481</g:id>
       <g:title><![CDATA[Akvarel, begynder og let øvede]]></g:title>
       <g:description><![CDATA[Deltag i FOFs akvarelkursus i Taastrup og lær grundlæggende og avancerede akvarelteknikker. Perfekt for begyndere og letøvede, der vil eksperimentere med farver, lag-på-lag-metoder og udvikle deres personlige udtryk.]]></g:description>
@@ -3639,6 +3881,28 @@ og bruger stemmen mere hensigtsmæssigt]]></g:description>
       <g:start_date>2027-02-08T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Taastrup</g:custom_label_3>
       <g:internal_label>['Taastrup','Forår2027']</g:internal_label>
+    </item>
+<item>
+      <g:id>KBO-23200</g:id>
+      <g:title><![CDATA[Herremad]]></g:title>
+      <g:description><![CDATA[Herremad er et madlavningskursus i Glostrup for mænd hos FOF Københavns Omegn. Lær nye madteknikker, hverdagsretter og nyd fællesskab på Vestervangskolen.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/herremad?holdnr=23200</g:link>
+      <g:image_link>https://www.fof.dk/media/cmdin4pw/madkursus-thailandsk-fof-aftenskolen-07.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1750.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Københavns Omegn</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Madlavning og drikkevarer &gt; Fest- og hverdagsmad</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
+      <g:custom_label_2>Fest- og hverdagsmad</g:custom_label_2>
+      <g:custom_label_4>Glostrup</g:custom_label_4>
+      <g:start_date>2027-02-08T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Glostrup</g:custom_label_3>
+      <g:internal_label>['Glostrup']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23335</g:id>
@@ -3906,28 +4170,6 @@ og bruger stemmen mere hensigtsmæssigt]]></g:description>
       <g:internal_label>['Taastrup','Forår2027']</g:internal_label>
     </item>
 <item>
-      <g:id>KBO-33501</g:id>
-      <g:title><![CDATA[Familiedans for børn 2-3 år og voksne]]></g:title>
-      <g:description><![CDATA[Dans, leg og kreativitet for børn fra 2-3 år med en voksen. Udforsk rytmer og bevægelser, og skab små koreografier sammen.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/familiedans?holdnr=33501</g:link>
-      <g:image_link>https://www.fof.dk/media/15bpt1al/familiedans.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1500.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Københavns Omegn</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Familie, børn og unge &gt; Motion, dans og drama</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Familie, børn og unge</g:custom_label_1>
-      <g:custom_label_2>Motion, dans og drama</g:custom_label_2>
-      <g:custom_label_4>Rødovre</g:custom_label_4>
-      <g:start_date>2027-02-09T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Rødovre</g:custom_label_3>
-      <g:internal_label>['Rødovre','Forår2027']</g:internal_label>
-    </item>
-<item>
       <g:id>KBO-23293</g:id>
       <g:title><![CDATA[Selvkærlig mindfulness – mere nærvær med dig selv  ]]></g:title>
       <g:description><![CDATA[Find mere ro og nærvær med selvkærlig mindfulness i Glostrup. Et 6 ugers forløb for kvinder med meditation, kropskontakt og selvomsorg.]]></g:description>
@@ -3948,6 +4190,28 @@ og bruger stemmen mere hensigtsmæssigt]]></g:description>
       <g:start_date>2027-02-09T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Glostrup</g:custom_label_3>
       <g:internal_label>['Glostrup','750 kr','1000 kr','Forår2027']</g:internal_label>
+    </item>
+<item>
+      <g:id>KBO-33501</g:id>
+      <g:title><![CDATA[Familiedans for børn 2-3 år og voksne]]></g:title>
+      <g:description><![CDATA[Dans, leg og kreativitet for børn fra 2-3 år med en voksen. Udforsk rytmer og bevægelser, og skab små koreografier sammen.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/familiedans?holdnr=33501</g:link>
+      <g:image_link>https://www.fof.dk/media/15bpt1al/familiedans.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1500.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Københavns Omegn</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Familie, børn og unge &gt; Motion, dans og drama</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Familie, børn og unge</g:custom_label_1>
+      <g:custom_label_2>Motion, dans og drama</g:custom_label_2>
+      <g:custom_label_4>Rødovre</g:custom_label_4>
+      <g:start_date>2027-02-09T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Rødovre</g:custom_label_3>
+      <g:internal_label>['Rødovre','Forår2027']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23523</g:id>
@@ -4568,6 +4832,28 @@ og bruger stemmen mere hensigtsmæssigt]]></g:description>
       <g:internal_label>['Taastrup','750 kr','1000 kr','Forår2027','Endagskurser']</g:internal_label>
     </item>
 <item>
+      <g:id>KBO-23343</g:id>
+      <g:title><![CDATA[Tysk for begyndere - fortsættere (A1)]]></g:title>
+      <g:description><![CDATA[Start din rejse med tysk på A1-niveau. Lær tysk fra bunden med tyskkursus på aftenskolen i Københavns omegn. Lær simple ord, sætninger og hverdagsdialoger i et trygt og motiverende undervisningsmiljø. Tilmeld dig her.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/tysk-for-begyndere-a1?holdnr=23343</g:link>
+      <g:image_link>https://www.fof.dk/media/wg2puiyx/tysk-1.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1240.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Københavns Omegn</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Sprog &gt; Tysk</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Sprog</g:custom_label_1>
+      <g:custom_label_2>Tysk</g:custom_label_2>
+      <g:custom_label_4>Brøndby</g:custom_label_4>
+      <g:start_date>2027-02-22T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Brøndby</g:custom_label_3>
+      <g:internal_label>['Brøndby']</g:internal_label>
+    </item>
+<item>
       <g:id>KBO-23643</g:id>
       <g:title><![CDATA[Ha' det godt motion]]></g:title>
       <g:description><![CDATA[Motion og velvære med fokus på styrke, smidighed, balance og afspænding. Træn hele kroppen til god musik og få mere energi i hverdagen.]]></g:description>
@@ -4746,28 +5032,6 @@ og bruger stemmen mere hensigtsmæssigt]]></g:description>
       <g:internal_label>['Ballerup','Forår2027']</g:internal_label>
     </item>
 <item>
-      <g:id>KBO-23333</g:id>
-      <g:title><![CDATA[Italiensk for begyndere]]></g:title>
-      <g:description><![CDATA[Italiensk for begyndere: Start fra bunden og lær italiensk i selskab med med dygtig underviser på hyggeligt hold. Italiensk for begyndere er for dig der ønsker at lære italiensk uden forhåndskendskab til sproget. Du lærer at forstå og bruge enkle italienske udtryk i hverdagen, føre korte samtaler om kendte emner]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/italiensk-for-begyndere-a1?holdnr=23333</g:link>
-      <g:image_link>https://www.fof.dk/media/243h0hdu/30.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1364.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Københavns Omegn</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Sprog &gt; Italiensk</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Sprog</g:custom_label_1>
-      <g:custom_label_2>Italiensk</g:custom_label_2>
-      <g:custom_label_4>Brøndby Strand</g:custom_label_4>
-      <g:start_date>2027-02-23T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Brøndby</g:custom_label_3>
-      <g:internal_label>['Brøndby','Forår2027','Brøndby Strand']</g:internal_label>
-    </item>
-<item>
       <g:id>KBO-23148</g:id>
       <g:title><![CDATA[De 3 Kongelige Sopraner i Brøndby]]></g:title>
       <g:description><![CDATA[Oplev De 3 Kongelige Sopraner i Kilden i Brøndby med opera, musicalhits og danske sange. Glæd dig til en festlig koncert med charme og humor.]]></g:description>
@@ -4788,6 +5052,28 @@ og bruger stemmen mere hensigtsmæssigt]]></g:description>
       <g:start_date>2027-02-23T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Brøndby</g:custom_label_3>
       <g:internal_label>['Brøndby','Endagskurser','250 kr','Forår2027']</g:internal_label>
+    </item>
+<item>
+      <g:id>KBO-23333</g:id>
+      <g:title><![CDATA[Italiensk for begyndere]]></g:title>
+      <g:description><![CDATA[Italiensk for begyndere: Start fra bunden og lær italiensk i selskab med med dygtig underviser på hyggeligt hold. Italiensk for begyndere er for dig der ønsker at lære italiensk uden forhåndskendskab til sproget. Du lærer at forstå og bruge enkle italienske udtryk i hverdagen, føre korte samtaler om kendte emner]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/italiensk-for-begyndere-a1?holdnr=23333</g:link>
+      <g:image_link>https://www.fof.dk/media/243h0hdu/30.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1364.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Københavns Omegn</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Sprog &gt; Italiensk</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Sprog</g:custom_label_1>
+      <g:custom_label_2>Italiensk</g:custom_label_2>
+      <g:custom_label_4>Brøndby Strand</g:custom_label_4>
+      <g:start_date>2027-02-23T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Brøndby</g:custom_label_3>
+      <g:internal_label>['Brøndby','Forår2027','Brøndby Strand']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23415</g:id>
@@ -5825,28 +6111,6 @@ og bruger stemmen mere hensigtsmæssigt]]></g:description>
       <g:internal_label>['Taastrup','Forår2027']</g:internal_label>
     </item>
 <item>
-      <g:id>KBO-23683</g:id>
-      <g:title><![CDATA[Gotved bevægelse og afspænding]]></g:title>
-      <g:description><![CDATA[Deltag i Gotvedgymnastik i Taastrup Kulturcenter og Parkskolen i Ballerup. Helhedsorienteret træning med fokus på smidighed, styrke og kropsbevidsthed for alle aldre og niveauer. | FOF Københavns Omegn]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/gotvedgymnastik?holdnr=23683</g:link>
-      <g:image_link>https://www.fof.dk/media/pdvbipgk/gotvedgymnastik.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>825.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Københavns Omegn</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Bevægelse og afspænding</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Bevægelse og afspænding</g:custom_label_2>
-      <g:custom_label_4>Skovlunde</g:custom_label_4>
-      <g:start_date>2027-03-04T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Ballerup</g:custom_label_3>
-      <g:internal_label>['Ballerup','Forår2027','Skovlunde']</g:internal_label>
-    </item>
-<item>
       <g:id>KBO-23206</g:id>
       <g:title><![CDATA[Verdenssmage i hverdagen – sund og nem mad for hele familien]]></g:title>
       <g:description><![CDATA[Lær at lave sunde, nemme og velsmagende retter fra hele verden i Taastrup. Få inspiration til farverige måltider til hverdag og fest. ]]></g:description>
@@ -5867,6 +6131,28 @@ og bruger stemmen mere hensigtsmæssigt]]></g:description>
       <g:start_date>2027-03-04T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Forår2027</g:custom_label_3>
       <g:internal_label>['Forår2027']</g:internal_label>
+    </item>
+<item>
+      <g:id>KBO-23683</g:id>
+      <g:title><![CDATA[Gotved bevægelse og afspænding]]></g:title>
+      <g:description><![CDATA[Deltag i Gotvedgymnastik i Taastrup Kulturcenter og Parkskolen i Ballerup. Helhedsorienteret træning med fokus på smidighed, styrke og kropsbevidsthed for alle aldre og niveauer. | FOF Københavns Omegn]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/gotvedgymnastik?holdnr=23683</g:link>
+      <g:image_link>https://www.fof.dk/media/pdvbipgk/gotvedgymnastik.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>825.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Københavns Omegn</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Bevægelse og afspænding</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Bevægelse og afspænding</g:custom_label_2>
+      <g:custom_label_4>Skovlunde</g:custom_label_4>
+      <g:start_date>2027-03-04T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Ballerup</g:custom_label_3>
+      <g:internal_label>['Ballerup','Forår2027','Skovlunde']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23707</g:id>
@@ -6272,28 +6558,6 @@ og bruger stemmen mere hensigtsmæssigt]]></g:description>
       <g:internal_label>['Glostrup','750 kr','1000 kr','Forår2027']</g:internal_label>
     </item>
 <item>
-      <g:id>KBO-23493</g:id>
-      <g:title><![CDATA[Tegneworkshop 1 - for begyndere og let øvede]]></g:title>
-      <g:description><![CDATA[Lær at tegne. Tegnekursus i Glostrup Medborgerhus for begyndere og let øvede. For dig, der gerne vil lære tegning fra bunden, eller som ønsker at videreudvikle dine færdigheder inden for klassisk tegning. Lær klassisk tegning med blyant og kul. Tegning for begyndere i Glostrup]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/tegnekursus-i-glostrup?holdnr=23493</g:link>
-      <g:image_link>https://www.fof.dk/media/wgqbnksc/pen-og-ink.png?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>595.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Københavns Omegn</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Kreative kurser &gt; Tegnekurser</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Kreative kurser</g:custom_label_1>
-      <g:custom_label_2>Tegnekurser</g:custom_label_2>
-      <g:custom_label_4>Glostrup</g:custom_label_4>
-      <g:start_date>2027-03-13T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Glostrup</g:custom_label_3>
-      <g:internal_label>['Glostrup','Endagskurser','750 kr','1000 kr','Forår2027']</g:internal_label>
-    </item>
-<item>
       <g:id>KBO-23244</g:id>
       <g:title><![CDATA[Drejekursus ]]></g:title>
       <g:description><![CDATA[Drejekursus i Taastrup for begyndere og let øvede. Lær keramisk drejning i lertøjsler på små hold med personlig vejledning i Læringshuset.]]></g:description>
@@ -6314,6 +6578,28 @@ og bruger stemmen mere hensigtsmæssigt]]></g:description>
       <g:start_date>2027-03-13T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Taastrup</g:custom_label_3>
       <g:internal_label>['Taastrup','Forår2027','Hedehusene']</g:internal_label>
+    </item>
+<item>
+      <g:id>KBO-23493</g:id>
+      <g:title><![CDATA[Tegneworkshop 1 - for begyndere og let øvede]]></g:title>
+      <g:description><![CDATA[Lær at tegne. Tegnekursus i Glostrup Medborgerhus for begyndere og let øvede. For dig, der gerne vil lære tegning fra bunden, eller som ønsker at videreudvikle dine færdigheder inden for klassisk tegning. Lær klassisk tegning med blyant og kul. Tegning for begyndere i Glostrup]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/tegnekursus-i-glostrup?holdnr=23493</g:link>
+      <g:image_link>https://www.fof.dk/media/wgqbnksc/pen-og-ink.png?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>595.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Københavns Omegn</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Kreative kurser &gt; Tegnekurser</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Kreative kurser</g:custom_label_1>
+      <g:custom_label_2>Tegnekurser</g:custom_label_2>
+      <g:custom_label_4>Glostrup</g:custom_label_4>
+      <g:start_date>2027-03-13T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Glostrup</g:custom_label_3>
+      <g:internal_label>['Glostrup','Endagskurser','750 kr','1000 kr','Forår2027']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23037</g:id>
@@ -7177,6 +7463,28 @@ og bruger stemmen mere hensigtsmæssigt]]></g:description>
       <g:start_date>2027-04-07T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Taastrup</g:custom_label_3>
       <g:internal_label>['Taastrup','Endagskurser','250 kr','Forår2027']</g:internal_label>
+    </item>
+<item>
+      <g:id>KBO-23488</g:id>
+      <g:title><![CDATA[Sløjd for voksne - begynder]]></g:title>
+      <g:description><![CDATA[Sløjd for voksne i Hedehusene hos FOF Københavns Omegn. Flere snedkerkurser for begyndere og øvede med Hüseyin Bahadir og fokus på træarbejde. Vælg mellem sløjd for begyndere eller øvede]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/sloejd-for-voksne?holdnr=23488</g:link>
+      <g:image_link>https://www.fof.dk/media/irkbdspz/snedkeri-fof-aftenskolen-05.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>875.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Københavns Omegn</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Kreative kurser &gt; Træarbejde</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Kreative kurser</g:custom_label_1>
+      <g:custom_label_2>Træarbejde</g:custom_label_2>
+      <g:custom_label_4>Taastrup</g:custom_label_4>
+      <g:start_date>2027-04-07T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Taastrup</g:custom_label_3>
+      <g:internal_label>['Taastrup']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23099</g:id>
@@ -8086,6 +8394,28 @@ og bruger stemmen mere hensigtsmæssigt]]></g:description>
       <g:internal_label>['Endagskurser','250 kr','Forår2027','København']</g:internal_label>
     </item>
 <item>
+      <g:id>KBO-23253</g:id>
+      <g:title><![CDATA[Keramik - fortsætterhold]]></g:title>
+      <g:description><![CDATA[Deltag i FOF keramikkursus i Glostrup med FOF Københavns Omegn, og lær modellering, pladeteknik, drejning, dekoration og glasering. Kurset er for begyndere og let øvede med små hold og personlig vejledning.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/keramik-kursus-glostrup?holdnr=23253</g:link>
+      <g:image_link>https://www.fof.dk/media/v43bsken/3-keramik-eget-billede.png?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>850.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Københavns Omegn</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Kreative kurser &gt; Keramik</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Kreative kurser</g:custom_label_1>
+      <g:custom_label_2>Keramik</g:custom_label_2>
+      <g:custom_label_4>Glostrup</g:custom_label_4>
+      <g:start_date>2027-05-05T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Glostrup</g:custom_label_3>
+      <g:internal_label>['Glostrup']</g:internal_label>
+    </item>
+<item>
       <g:id>KBO-23054</g:id>
       <g:title><![CDATA[Krug Afternoon tea med rundvisning på Hotel D'angleterre]]></g:title>
       <g:description><![CDATA[En luksusoplevelse med FOF Københavns Omegn: Oplev Afternoon Tea på Hotel D’Angleterre i København med Krug champagne, eksklusive serveringer og rundvisning på det historiske luksushotel.]]></g:description>
@@ -8129,28 +8459,6 @@ og bruger stemmen mere hensigtsmæssigt]]></g:description>
       <g:start_date>2027-05-09T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Endagskurser</g:custom_label_3>
       <g:internal_label>['Endagskurser','250 kr','Forår2027','København']</g:internal_label>
-    </item>
-<item>
-      <g:id>KBO-23205</g:id>
-      <g:title><![CDATA[Keramik - fortsætterhold]]></g:title>
-      <g:description><![CDATA[Deltag i FOF keramikkursus i Glostrup med FOF Københavns Omegn, og lær modellering, pladeteknik, drejning, dekoration og glasering. Kurset er for begyndere og let øvede med små hold og personlig vejledning.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/keramik-kursus-glostrup?holdnr=23205</g:link>
-      <g:image_link>https://www.fof.dk/media/v43bsken/3-keramik-eget-billede.png?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>850.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Københavns Omegn</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Kreative kurser &gt; Keramik</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Kreative kurser</g:custom_label_1>
-      <g:custom_label_2>Keramik</g:custom_label_2>
-      <g:custom_label_4>Glostrup</g:custom_label_4>
-      <g:start_date>2027-05-10T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Glostrup</g:custom_label_3>
-      <g:internal_label>['Glostrup','Forår2027']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23207</g:id>
@@ -8617,28 +8925,6 @@ og bruger stemmen mere hensigtsmæssigt]]></g:description>
       <g:internal_label>['Forår2027','Endagskurser']</g:internal_label>
     </item>
 <item>
-      <g:id>KBO-23422</g:id>
-      <g:title><![CDATA[Smedeworkshop]]></g:title>
-      <g:description><![CDATA[Lær smedning hos FOF i Herlev– kreativt smedekursus med ild og metal. Smedning for begyndere og øvede, lær at smede trin for trin og lav dine egne projekter. FOF Københavns Omegn byder dig velkommen til en stor række spændende DIY kurser.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/smedekursus-i-herlev?holdnr=23422</g:link>
-      <g:image_link>https://www.fof.dk/media/iwjd2hf0/smedning-haandvaerk-ild-og-kreativ-frihed.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>910.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Københavns Omegn</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Kreative kurser &gt; Håndværk og kunsthåndværk</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Kreative kurser</g:custom_label_1>
-      <g:custom_label_2>Håndværk og kunsthåndværk</g:custom_label_2>
-      <g:custom_label_4>Herlev</g:custom_label_4>
-      <g:start_date>2027-06-19T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Herlev</g:custom_label_3>
-      <g:internal_label>['Herlev','Forår2027']</g:internal_label>
-    </item>
-<item>
       <g:id>KBO-23004</g:id>
       <g:title><![CDATA[Tisvildeleje før og nu – byvandring med en lokal guide]]></g:title>
       <g:description><![CDATA[Tag på byvandring i Tisvildeleje, og oplev byens historie, badekultur, badehoteller, sommerhuse og Sankt Helene Kilde i naturskønne omgivelser.]]></g:description>
@@ -8659,6 +8945,28 @@ og bruger stemmen mere hensigtsmæssigt]]></g:description>
       <g:start_date>2027-06-19T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Endagskurser</g:custom_label_3>
       <g:internal_label>['Endagskurser','250 kr','Forår2027']</g:internal_label>
+    </item>
+<item>
+      <g:id>KBO-23422</g:id>
+      <g:title><![CDATA[Smedeworkshop]]></g:title>
+      <g:description><![CDATA[Lær smedning hos FOF i Herlev– kreativt smedekursus med ild og metal. Smedning for begyndere og øvede, lær at smede trin for trin og lav dine egne projekter. FOF Københavns Omegn byder dig velkommen til en stor række spændende DIY kurser.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/smedekursus-i-herlev?holdnr=23422</g:link>
+      <g:image_link>https://www.fof.dk/media/iwjd2hf0/smedning-haandvaerk-ild-og-kreativ-frihed.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>910.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Københavns Omegn</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Kreative kurser &gt; Håndværk og kunsthåndværk</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Kreative kurser</g:custom_label_1>
+      <g:custom_label_2>Håndværk og kunsthåndværk</g:custom_label_2>
+      <g:custom_label_4>Herlev</g:custom_label_4>
+      <g:start_date>2027-06-19T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Herlev</g:custom_label_3>
+      <g:internal_label>['Herlev','Forår2027']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23047</g:id>

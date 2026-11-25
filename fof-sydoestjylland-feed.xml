@@ -106,10 +106,10 @@
       <g:brand>FOF Sydøstjylland</g:brand>
       <g:google_product_category>Education</g:google_product_category>
       <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Styrke- og konditionstræning</g:product_type>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Yoga</g:product_type>
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Styrke- og konditionstræning</g:custom_label_2>
+      <g:custom_label_2>Yoga</g:custom_label_2>
       <g:custom_label_4>Vejle</g:custom_label_4>
       <g:start_date>2026-12-07T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Workshops</g:custom_label_3>
@@ -610,6 +610,69 @@
       <g:internal_label>['Gaveidéer','Horsens']</g:internal_label>
     </item>
 <item>
+      <g:id>SOJ-274601</g:id>
+      <g:title><![CDATA[Klaverundervisning - prøvetime]]></g:title>
+      <g:description><![CDATA[Klaverundervisning med gratis prøvetime hos Jonas Lindorf. Lær klassisk eller rytmisk klaver fra dit niveau med nodelære efter behov. Tilmeld dig hos FOF.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydoestjylland/klaverundervisning-proevetime?holdnr=274601</g:link>
+      <g:image_link>https://www.fof.dk/media/0tvl5svo/klaverundervisning-1.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>0.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydøstjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Musik og sang &gt; Klaver og harmonika</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Musik og sang</g:custom_label_1>
+      <g:custom_label_2>Klaver og harmonika</g:custom_label_2>
+      <g:custom_label_4>Vejle Øst</g:custom_label_4>
+      <g:start_date>2027-01-13T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Vejle Øst']</g:internal_label>
+    </item>
+<item>
+      <g:id>SOJ-274645</g:id>
+      <g:title><![CDATA[Violin]]></g:title>
+      <g:description><![CDATA[Få violinundervisning tilpasset dit niveau og dine ønsker. Nybegynder eller øvet – lær dit instrument i dit tempo. Tryg undervisning hos FOF.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydoestjylland/violinundervisning-lada?holdnr=274645</g:link>
+      <g:image_link>https://www.fof.dk/media/oukbsffj/violin-1.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1610.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydøstjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Musik og sang &gt; Strygere</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Musik og sang</g:custom_label_1>
+      <g:custom_label_2>Strygere</g:custom_label_2>
+      <g:custom_label_4>Vejle Øst</g:custom_label_4>
+      <g:start_date>2027-01-13T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Vejle Øst']</g:internal_label>
+    </item>
+<item>
+      <g:id>SOJ-274600</g:id>
+      <g:title><![CDATA[Klaverundervisning]]></g:title>
+      <g:description><![CDATA[Vil du lære at spille klaver? Få individuel klaverundervisning i Vejle for både begyndere og øvede. Lær noder, teknik og musikalsk udtryk i dit eget tempo.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydoestjylland/klaverundervisning-jonas?holdnr=274600</g:link>
+      <g:image_link>https://www.fof.dk/media/t3jeersj/harmonika.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1830.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydøstjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Musik og sang &gt; Klaver og harmonika</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Musik og sang</g:custom_label_1>
+      <g:custom_label_2>Klaver og harmonika</g:custom_label_2>
+      <g:custom_label_4>Vejle Øst</g:custom_label_4>
+      <g:start_date>2027-01-13T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Vejle Øst']</g:internal_label>
+    </item>
+<item>
       <g:id>SOJ-274256</g:id>
       <g:title><![CDATA[Tarm og psyke]]></g:title>
       <g:description><![CDATA[Workshop i Vejle om sammenhængen mellem tarmflora, kost og mental sundhed. Få viden, opskrifter og inspiration til mere balance og overskud.]]></g:description>
@@ -630,6 +693,28 @@
       <g:start_date>2027-01-14T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Nyhed</g:custom_label_3>
       <g:internal_label>['Nyhed','Workshops','Vejle']</g:internal_label>
+    </item>
+<item>
+      <g:id>SOJ-271600</g:id>
+      <g:title><![CDATA[Klaverundervisning]]></g:title>
+      <g:description><![CDATA[Lær at spille klaver hos FOF i Skanderborg. Klaverundervisning for begyndere og øvede, tilpasset dit niveau og dine musikalske interesser.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydoestjylland/klaverundervisning-birgit?holdnr=271600</g:link>
+      <g:image_link>https://www.fof.dk/media/feanpqfn/klaverundervisning.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1830.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydøstjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Musik og sang &gt; Klaver og harmonika</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Musik og sang</g:custom_label_1>
+      <g:custom_label_2>Klaver og harmonika</g:custom_label_2>
+      <g:custom_label_4>Skanderborg</g:custom_label_4>
+      <g:start_date>2027-01-14T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Nyhed</g:custom_label_3>
+      <g:internal_label>['Nyhed','Skanderborg']</g:internal_label>
     </item>
 <item>
       <g:id>SOJ-270524</g:id>
@@ -1019,6 +1104,28 @@
       <g:internal_label>['Workshops','Kulturpas','Vejle']</g:internal_label>
     </item>
 <item>
+      <g:id>SOJ-274260</g:id>
+      <g:title><![CDATA[Kom i gang med surdej - boller og madbrød]]></g:title>
+      <g:description><![CDATA[Kom på surdejskursus i Vejle og lær at bage surdejsboller, focaccia og madbrød fra bunden. Perfekt for begyndere, der vil mestre surdejsbagning hjemme.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydoestjylland/kom-i-gang-med-surdej-boller-og-madbroed?holdnr=274260</g:link>
+      <g:image_link>https://www.fof.dk/media/tw4n2d2c/det-gode-broed.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>535.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydøstjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Madlavning og drikkevarer &gt; Bagning og søde sager</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
+      <g:custom_label_2>Bagning og søde sager</g:custom_label_2>
+      <g:custom_label_4></g:custom_label_4>
+      <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Workshops</g:custom_label_3>
+      <g:internal_label>['Workshops']</g:internal_label>
+    </item>
+<item>
       <g:id>SOJ-274045</g:id>
       <g:title><![CDATA[Body SDS grundtræning - Prøvetime]]></g:title>
       <g:description><![CDATA[Body SDS i Vejle hos FOF. Et unikt, dansk træningssystem, der kan være med til at afhjælpe skavanker, forbedre bevægeligheden i låste led og løsne op i spændte, usmidige muskler. ]]></g:description>
@@ -1041,26 +1148,6 @@
       <g:internal_label>['Prøvetime','Vejle']</g:internal_label>
     </item>
 <item>
-      <g:id>SOJ-274260</g:id>
-      <g:title><![CDATA[Kom i gang med surdej - boller og madbrød]]></g:title>
-      <g:description><![CDATA[Kom på surdejskursus i Vejle og lær at bage surdejsboller, focaccia og madbrød fra bunden. Perfekt for begyndere, der vil mestre surdejsbagning hjemme.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-sydoestjylland/kom-i-gang-med-surdej-boller-og-madbroed?holdnr=274260</g:link>
-      <g:image_link>https://www.fof.dk/media/tw4n2d2c/det-gode-broed.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>535.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Sydøstjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Madlavning og drikkevarer &gt; Bagning og søde sager</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
-      <g:custom_label_2>Bagning og søde sager</g:custom_label_2>
-      <g:custom_label_4></g:custom_label_4>
-      <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
-    </item>
-<item>
       <g:id>SOJ-274660</g:id>
       <g:title><![CDATA[Guitar (elektrisk eller akustisk)]]></g:title>
       <g:description><![CDATA[Lær at spille guitar i Vejle på vores guitarkursus for begyndere og øvede. Få guitarundervisning på akustisk guitar eller elguitar, tilpasset dit niveau og dine mål.]]></g:description>
@@ -1080,6 +1167,27 @@
       <g:custom_label_4>Vejle</g:custom_label_4>
       <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
       <g:internal_label>['Vejle']</g:internal_label>
+    </item>
+<item>
+      <g:id>SOJ-270310</g:id>
+      <g:title><![CDATA[Fransk Øvet til rutineret B2]]></g:title>
+      <g:description><![CDATA[Lær fransk på B2-niveau i Horsens. Styrk samtale, ordforråd, udtale og forståelse på et franskkursus for øvede voksne.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydoestjylland/fransk-oevet-til-rutineret-b2?holdnr=270310</g:link>
+      <g:image_link>https://www.fof.dk/media/0xjjzsua/fransk-a1plus-fof-sydoestjylland-6.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>985.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydøstjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Sprog &gt; Fransk</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Sprog</g:custom_label_1>
+      <g:custom_label_2>Fransk</g:custom_label_2>
+      <g:custom_label_4>Horsens</g:custom_label_4>
+      <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Horsens']</g:internal_label>
     </item>
 <item>
       <g:id>SOJ-274661</g:id>
@@ -1294,6 +1402,28 @@
       <g:start_date>2027-01-30T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Workshops</g:custom_label_3>
       <g:internal_label>['Workshops','Gaveidéer','Nyhed','Starter snart','Horsens']</g:internal_label>
+    </item>
+<item>
+      <g:id>SOJ-270807</g:id>
+      <g:title><![CDATA[Fasangryde over bål]]></g:title>
+      <g:description><![CDATA[Lær at tænde bål, flå og partere fasaner og lave fasangryde over åben ild. Tag på friluftskursus i Horsens, og ople vildmarksmad og bålhygge i skoven.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydoestjylland/fasangryde-over-baal?holdnr=270807</g:link>
+      <g:image_link>https://www.fof.dk/media/cdvf55hw/mad-paa-baal-horsens.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1455.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydøstjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Natur og udeliv &gt; Naturfag og friluftsliv</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Natur og udeliv</g:custom_label_1>
+      <g:custom_label_2>Naturfag og friluftsliv</g:custom_label_2>
+      <g:custom_label_4></g:custom_label_4>
+      <g:start_date>2027-01-31T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Gaveidéer</g:custom_label_3>
+      <g:internal_label>['Gaveidéer','Workshops','Nyhed']</g:internal_label>
     </item>
 <item>
       <g:id>SOJ-274338</g:id>
@@ -1935,9 +2065,9 @@
       <g:brand>FOF Sydøstjylland</g:brand>
       <g:google_product_category>Education</g:google_product_category>
       <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Foredrag, debat og højskoler &gt; Foredragsrækker</g:product_type>
+      <g:product_type>Foredrag, debat og højskoler &gt; Højskoleforløb</g:product_type>
       <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
-      <g:custom_label_1>Foredragsrækker</g:custom_label_1>
+      <g:custom_label_1>Højskoleforløb</g:custom_label_1>
       <g:custom_label_2></g:custom_label_2>
       <g:custom_label_4>Bredsten</g:custom_label_4>
       <g:start_date>2027-02-25T00:00:00.000Z</g:start_date>
@@ -2316,6 +2446,28 @@
       <g:start_date>2027-03-09T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Gaveidéer</g:custom_label_3>
       <g:internal_label>['Gaveidéer','Vejle']</g:internal_label>
+    </item>
+<item>
+      <g:id>SOJ-274220</g:id>
+      <g:title><![CDATA[Lær at binde en buket]]></g:title>
+      <g:description><![CDATA[Lær at binde smukke buketter på et kursus i blomsterbinding i Vejle. Få inspiration fra naturen, lær en enkel bindeteknik, og skab din egen buket.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydoestjylland/laer-at-binde-en-buket?holdnr=274220</g:link>
+      <g:image_link>https://www.fof.dk/media/jnepwyyv/blomsterbinding-i-vejle.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>495.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydøstjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Kreative kurser &gt; Blomsterbinding</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Kreative kurser</g:custom_label_1>
+      <g:custom_label_2>Blomsterbinding</g:custom_label_2>
+      <g:custom_label_4>Vejle</g:custom_label_4>
+      <g:start_date>2027-03-10T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Nyhed</g:custom_label_3>
+      <g:internal_label>['Nyhed','Gaveidéer','Workshops','Vejle']</g:internal_label>
     </item>
 <item>
       <g:id>SOJ-270715</g:id>
@@ -2819,28 +2971,6 @@
       <g:internal_label>['Vejle']</g:internal_label>
     </item>
 <item>
-      <g:id>SOJ-270276</g:id>
-      <g:title><![CDATA[Bliv en mester i pizza ]]></g:title>
-      <g:description><![CDATA[Tag på pizzakursus i Horsens, Vejle og Skanderborg og lær at lave pizza fra bunden. Fokus på dej, meltyper, surdej og bageteknikker til sprød hjemmelavet pizza.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-sydoestjylland/bliv-en-mester-i-pizza-horsens?holdnr=270276</g:link>
-      <g:image_link>https://www.fof.dk/media/t4jlv2qv/kom-i-gang-med-surdej-surdejspizza.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>435.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Sydøstjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Madlavning og drikkevarer &gt; Verdenskøkkenet</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
-      <g:custom_label_2>Verdenskøkkenet</g:custom_label_2>
-      <g:custom_label_4>Horsens</g:custom_label_4>
-      <g:start_date>2027-04-09T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Gaveidéer</g:custom_label_3>
-      <g:internal_label>['Gaveidéer','Workshops','Horsens']</g:internal_label>
-    </item>
-<item>
       <g:id>SOJ-271276</g:id>
       <g:title><![CDATA[Det gode brød]]></g:title>
       <g:description><![CDATA[Tag på bagekursus i Horsens og lær at bage brød fra bunden. Fokus på surdej, bageteknik, hævetid og hjemmebagt brød med bagerkvalitet.]]></g:description>
@@ -2859,8 +2989,8 @@
       <g:custom_label_2>Bagning og søde sager</g:custom_label_2>
       <g:custom_label_4>Skanderborg</g:custom_label_4>
       <g:start_date>2027-04-10T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>FOF Business</g:custom_label_3>
-      <g:internal_label>['FOF Business','Gaveidéer','Skanderborg']</g:internal_label>
+      <g:custom_label_3>Workshops</g:custom_label_3>
+      <g:internal_label>['Workshops','FOF Business','Gaveidéer','Skanderborg']</g:internal_label>
     </item>
 <item>
       <g:id>SOJ-270229</g:id>
@@ -2883,6 +3013,28 @@
       <g:start_date>2027-04-11T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Workshops</g:custom_label_3>
       <g:internal_label>['Workshops','Horsens']</g:internal_label>
+    </item>
+<item>
+      <g:id>SOJ-270808</g:id>
+      <g:title><![CDATA[Naturatletik i skoven voksen/barn]]></g:title>
+      <g:description><![CDATA[Tag med til naturatletik og skovlege i Horsens! Voksen og barn er et hold i sjove OL-discipliner, skovlege, stangspring, skiskydning og meget mere]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydoestjylland/naturatletik?holdnr=270808</g:link>
+      <g:image_link>https://www.fof.dk/media/jdgnpbju/leg-i-skov-horsens.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>155.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydøstjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Familie, børn og unge &gt; Motion, dans og drama</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Familie, børn og unge</g:custom_label_1>
+      <g:custom_label_2>Motion, dans og drama</g:custom_label_2>
+      <g:custom_label_4></g:custom_label_4>
+      <g:start_date>2027-04-11T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Workshops</g:custom_label_3>
+      <g:internal_label>['Workshops','Nyhed']</g:internal_label>
     </item>
 <item>
       <g:id>SOJ-270702</g:id>
@@ -2947,8 +3099,8 @@
       <g:custom_label_2>Bagning og søde sager</g:custom_label_2>
       <g:custom_label_4>Vejle</g:custom_label_4>
       <g:start_date>2027-04-17T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>FOF Business</g:custom_label_3>
-      <g:internal_label>['FOF Business','Gaveidéer','Vejle']</g:internal_label>
+      <g:custom_label_3>Workshops</g:custom_label_3>
+      <g:internal_label>['Workshops','FOF Business','Gaveidéer','Vejle']</g:internal_label>
     </item>
 <item>
       <g:id>SOJ-274236</g:id>
@@ -3255,7 +3407,8 @@
       <g:custom_label_2>Bagning og søde sager</g:custom_label_2>
       <g:custom_label_4>Horsens</g:custom_label_4>
       <g:start_date>2027-05-26T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Horsens']</g:internal_label>
+      <g:custom_label_3>Workshops</g:custom_label_3>
+      <g:internal_label>['Workshops','Horsens']</g:internal_label>
     </item>
 <item>
       <g:id>SOJ-270204</g:id>
@@ -3302,6 +3455,28 @@
       <g:internal_label>['Workshops','Kulturpas','Vejle']</g:internal_label>
     </item>
 <item>
+      <g:id>SOJ-270809</g:id>
+      <g:title><![CDATA[Snit din egen ske]]></g:title>
+      <g:description><![CDATA[Der er noget særligt ved at skabe noget med sine egne hænder. På dette snittekursus i Horsens går du fra et råt stykke træ til en færdig træske, som du selv har formet og snittet.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydoestjylland/snit-din-egen-ske?holdnr=270809</g:link>
+      <g:image_link>https://www.fof.dk/media/bzbiszn0/snit-din-egen-ske.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>540.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydøstjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Kreative kurser &gt; Håndværk og kunsthåndværk</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Kreative kurser</g:custom_label_1>
+      <g:custom_label_2>Håndværk og kunsthåndværk</g:custom_label_2>
+      <g:custom_label_4>Horsens</g:custom_label_4>
+      <g:start_date>2027-05-30T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Gaveidéer</g:custom_label_3>
+      <g:internal_label>['Gaveidéer','Workshops','Nyhed','Horsens']</g:internal_label>
+    </item>
+<item>
       <g:id>SOJ-272452</g:id>
       <g:title><![CDATA[Mindfulness i skoven]]></g:title>
       <g:description><![CDATA[Gå en rolig tur i naturen med meditation og stillevandring. Find nærvær, ro og kontakt til egne ressourcer. Inkl. sandwich – tilmeld dig hos FOF.]]></g:description>
@@ -3322,6 +3497,72 @@
       <g:start_date>2027-05-31T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Workshops</g:custom_label_3>
       <g:internal_label>['Workshops','Juelsminde']</g:internal_label>
+    </item>
+<item>
+      <g:id>SOJ-270760</g:id>
+      <g:title><![CDATA[Oplev Badehotellets magiske univers]]></g:title>
+      <g:description><![CDATA[Tag med på bustur til Badehotellet på Nyvang. Oplev tv-seriens kulisser, nostalgi og dansk kulturhistorie. Afgang fra bl.a. Horsens og Vejle.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydoestjylland/oplev-badehotellets-magiske-univers?holdnr=270760</g:link>
+      <g:image_link>https://www.fof.dk/media/bfjdrsam/badehotel.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1185.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydøstjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Rejser, ture og rundvisninger &gt; Udflugter og dagsture</g:product_type>
+      <g:custom_label_0>Rejser, ture og rundvisninger</g:custom_label_0>
+      <g:custom_label_1>Udflugter og dagsture</g:custom_label_1>
+      <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Horsens</g:custom_label_4>
+      <g:start_date>2027-06-03T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Nyhed</g:custom_label_3>
+      <g:internal_label>['Nyhed','Horsens']</g:internal_label>
+    </item>
+<item>
+      <g:id>SOJ-270814</g:id>
+      <g:title><![CDATA[Krible krable i vandløbet ]]></g:title>
+      <g:description><![CDATA[Kom på krible krable tur i vandløbet i Horsens. Få naturhistorier og oplev om livet under vandets overflade ]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydoestjylland/krible-krable-i-vandloebet?holdnr=270814</g:link>
+      <g:image_link>https://www.fof.dk/media/duvg4nir/krible-krable-i-vandloebet.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>190.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydøstjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Familie, børn og unge</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Familie, børn og unge</g:custom_label_1>
+      <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4></g:custom_label_4>
+      <g:start_date>2027-06-06T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Workshops</g:custom_label_3>
+      <g:internal_label>['Workshops','Nyhed']</g:internal_label>
+    </item>
+<item>
+      <g:id>SOJ-274753</g:id>
+      <g:title><![CDATA[Gotland – rundrejse]]></g:title>
+      <g:description><![CDATA[Tag med FOF Sydøstjylland og Mols Rejser på en 7-dages kulturrejse til Gotland. Oplev middelalderhistorie og unik natur. Det fulde program kommer snart!]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydoestjylland/gotland-rundrejse?holdnr=274753</g:link>
+      <g:image_link>https://www.fof.dk/media/nffbvfqy/gotland-mols.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>0.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydøstjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Rejser, ture og rundvisninger &gt; Kulturrejser</g:product_type>
+      <g:custom_label_0>Rejser, ture og rundvisninger</g:custom_label_0>
+      <g:custom_label_1>Kulturrejser</g:custom_label_1>
+      <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Vejle</g:custom_label_4>
+      <g:start_date>2027-06-07T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Nyhed</g:custom_label_3>
+      <g:internal_label>['Nyhed','Vejle']</g:internal_label>
     </item>
 <item>
       <g:id>SOJ-274761</g:id>
@@ -3364,6 +3605,49 @@
       <g:custom_label_2>Sang og stemmetræning</g:custom_label_2>
       <g:custom_label_4>Vejle</g:custom_label_4>
       <g:start_date>2027-08-31T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Vejle']</g:internal_label>
+    </item>
+<item>
+      <g:id>SOJ-274752</g:id>
+      <g:title><![CDATA[Rhindalen – Vin og Vandring]]></g:title>
+      <g:description><![CDATA[Oplev en vandreferie ved Rhinen med smukke vinmarker, historiske borge og spændende kultur. Tag med på vandrerejse i Tyskland. Programmet kommer snart!]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydoestjylland/rhindalen-vin-og-vandring?holdnr=274752</g:link>
+      <g:image_link>https://www.fof.dk/media/3yzd1tif/rhindalen-med-logo.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>0.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydøstjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Rejser, ture og rundvisninger &gt; Naturvandringer</g:product_type>
+      <g:custom_label_0>Rejser, ture og rundvisninger</g:custom_label_0>
+      <g:custom_label_1>Naturvandringer</g:custom_label_1>
+      <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Vejle</g:custom_label_4>
+      <g:start_date>2027-09-20T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Nyhed</g:custom_label_3>
+      <g:internal_label>['Nyhed','Vejle']</g:internal_label>
+    </item>
+<item>
+      <g:id>SOJ-274751</g:id>
+      <g:title><![CDATA[Verdenskunst i Holland]]></g:title>
+      <g:description><![CDATA[Tag med på kunstrejse til Holland med FOF. Oplev kunstmuseer og mesterværker af Rembrandt, Vermeer og Van Gogh med rejseleder Anette Jorsal. Se rejsen her.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydoestjylland/verdenskunst-i-holland?holdnr=274751</g:link>
+      <g:image_link>https://www.fof.dk/media/efefbyr5/kunst-i-holland-med-logo.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>0.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydøstjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Rejser, ture og rundvisninger &gt; Kulturrejser</g:product_type>
+      <g:custom_label_0>Rejser, ture og rundvisninger</g:custom_label_0>
+      <g:custom_label_1>Kulturrejser</g:custom_label_1>
+      <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Vejle</g:custom_label_4>
+      <g:start_date>2027-10-27T00:00:00.000Z</g:start_date>
       <g:internal_label>['Vejle']</g:internal_label>
     </item>
 </channel>
