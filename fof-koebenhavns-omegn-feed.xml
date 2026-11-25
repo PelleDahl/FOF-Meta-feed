@@ -6,28 +6,6 @@
 <description>Meta produktfeed med alle ledige hold fra FOF Københavns Omegn</description>
 <language>da-DK</language>
 <item>
-      <g:id>KBO-22114</g:id>
-      <g:title><![CDATA[Mental oprydning – stop overtænkning og få ro i hovedet]]></g:title>
-      <g:description><![CDATA[Deltag i foredrag i Taastrup om stress og mental overbelastning. Lær at stoppe overtænkning og få mental ro uden meditation med konkrete værktøjer.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/mental-oprydning-stop-overtaenkning-og-faa-ro-i-hovedet?holdnr=22114</g:link>
-      <g:image_link>https://www.fof.dk/media/4uim4r5v/fokus-uden-stress-kunsten-at-bevare-overblikket.png?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>260.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Københavns Omegn</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Foredrag, debat og højskoler &gt; Sundhed og eksistens</g:product_type>
-      <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
-      <g:custom_label_1>Sundhed og eksistens</g:custom_label_1>
-      <g:custom_label_2></g:custom_label_2>
-      <g:custom_label_4>Taastrup</g:custom_label_4>
-      <g:start_date>2026-11-25T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Taastrup</g:custom_label_3>
-      <g:internal_label>['Taastrup','Starter snart','Endagskurser','500 kr','Forår2027']</g:internal_label>
-    </item>
-<item>
       <g:id>KBO-22296</g:id>
       <g:title><![CDATA[Makeup workshop - lær at lægge naturlig makeup]]></g:title>
       <g:description><![CDATA[Makeup kursus: Lær at lægge naturlig, let og holdbar makeup med hudvenlige produkter, få personlige tips og plejeråd og nyd en hyggelig workshop på små hold med plads til individuel vejledning]]></g:description>
@@ -1634,28 +1612,6 @@
       <g:internal_label>['Glostrup','Forår2027']</g:internal_label>
     </item>
 <item>
-      <g:id>KBO-23872</g:id>
-      <g:title><![CDATA[Styrk din ryg]]></g:title>
-      <g:description><![CDATA[Træn ryg, skuldre og nakke i på på vores hold i Skovlunde og Brøndby. Hensynstagende træning mod ryg-, hovedpine- og muskelsmerter. Styrke, smidighed og afspænding forbedrer funktion og øger velvære.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/ryg-skuldre-og-nakke?holdnr=23872</g:link>
-      <g:image_link>https://www.fof.dk/media/ur2c0c55/yoga-fof-aftenskolen-22.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1860.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Københavns Omegn</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Styrke- og konditionstræning</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Styrke- og konditionstræning</g:custom_label_2>
-      <g:custom_label_4>Brøndby</g:custom_label_4>
-      <g:start_date>2027-01-26T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Brøndby</g:custom_label_3>
-      <g:internal_label>['Brøndby','Forår2027']</g:internal_label>
-    </item>
-<item>
       <g:id>KBO-23888</g:id>
       <g:title><![CDATA[Qi gong]]></g:title>
       <g:description><![CDATA[Qi Gong kursus i Brøndby, Glostrup og Ballerup. Dygtige undervisere får dig i gang med en blid træning. Qi gong øvelserne handler om De 8 Brokader, fokus på stressreduktion, meditation og energi for krop og sind ]]></g:description>
@@ -1676,6 +1632,28 @@
       <g:start_date>2027-01-26T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Ballerup</g:custom_label_3>
       <g:internal_label>['Ballerup','Forår2027']</g:internal_label>
+    </item>
+<item>
+      <g:id>KBO-23872</g:id>
+      <g:title><![CDATA[Styrk din ryg]]></g:title>
+      <g:description><![CDATA[Træn ryg, skuldre og nakke i på på vores hold i Skovlunde og Brøndby. Hensynstagende træning mod ryg-, hovedpine- og muskelsmerter. Styrke, smidighed og afspænding forbedrer funktion og øger velvære.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/ryg-skuldre-og-nakke?holdnr=23872</g:link>
+      <g:image_link>https://www.fof.dk/media/ur2c0c55/yoga-fof-aftenskolen-22.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1860.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Københavns Omegn</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Styrke- og konditionstræning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Styrke- og konditionstræning</g:custom_label_2>
+      <g:custom_label_4>Brøndby</g:custom_label_4>
+      <g:start_date>2027-01-26T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Brøndby</g:custom_label_3>
+      <g:internal_label>['Brøndby','Forår2027']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23670</g:id>
@@ -1876,6 +1854,28 @@
       <g:internal_label>['Glostrup','Forår2027']</g:internal_label>
     </item>
 <item>
+      <g:id>KBO-23512</g:id>
+      <g:title><![CDATA[Hatha yoga]]></g:title>
+      <g:description><![CDATA[Kom med på holdet i hatha yoga i Hedehusene, Herlev, Vallensbæk, Albertslund, Glostrup, Rødovre og Taastrup. Små hold med plads til alle kropstyper og niveauer. Find et hold tæt på dig og kom i gang med en god vane.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/hatha-yoga?holdnr=23512</g:link>
+      <g:image_link>https://www.fof.dk/media/xb0n4ui0/yoga-fof-aftenskolen-28.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1500.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Københavns Omegn</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Yoga</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Glostrup</g:custom_label_4>
+      <g:start_date>2027-01-28T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Glostrup</g:custom_label_3>
+      <g:internal_label>['Glostrup','Forår2027']</g:internal_label>
+    </item>
+<item>
       <g:id>KBO-23527</g:id>
       <g:title><![CDATA[Yoga for seniorer]]></g:title>
       <g:description><![CDATA[Deltag i senioryoga hos FOF Københavns Omegn i Herlev, Glostrup, Albertslund og Taastrup. Gode lyse lokaler med nem adgang og gode parkeringsmuligheder. Blid yoga med fokus på balance, smidighed og ro.]]></g:description>
@@ -1918,28 +1918,6 @@
       <g:start_date>2027-01-28T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Albertslund</g:custom_label_3>
       <g:internal_label>['Albertslund','Forår2027']</g:internal_label>
-    </item>
-<item>
-      <g:id>KBO-23512</g:id>
-      <g:title><![CDATA[Hatha yoga]]></g:title>
-      <g:description><![CDATA[Kom med på holdet i hatha yoga i Hedehusene, Herlev, Vallensbæk, Albertslund, Glostrup, Rødovre og Taastrup. Små hold med plads til alle kropstyper og niveauer. Find et hold tæt på dig og kom i gang med en god vane.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/hatha-yoga?holdnr=23512</g:link>
-      <g:image_link>https://www.fof.dk/media/xb0n4ui0/yoga-fof-aftenskolen-28.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1500.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Københavns Omegn</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Yoga</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Yoga</g:custom_label_2>
-      <g:custom_label_4>Glostrup</g:custom_label_4>
-      <g:start_date>2027-01-28T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Glostrup</g:custom_label_3>
-      <g:internal_label>['Glostrup','Forår2027']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23928</g:id>
@@ -2140,28 +2118,6 @@
       <g:internal_label>['Brøndby','Forår2027','Familie']</g:internal_label>
     </item>
 <item>
-      <g:id>KBO-23526</g:id>
-      <g:title><![CDATA[Yoga for seniorer]]></g:title>
-      <g:description><![CDATA[Deltag i senioryoga hos FOF Københavns Omegn i Herlev, Glostrup, Albertslund og Taastrup. Gode lyse lokaler med nem adgang og gode parkeringsmuligheder. Blid yoga med fokus på balance, smidighed og ro.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/yoga-seniorer?holdnr=23526</g:link>
-      <g:image_link>https://www.fof.dk/media/h25hzzsj/ypga-for-seniorer.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1545.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Københavns Omegn</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Yoga</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Yoga</g:custom_label_2>
-      <g:custom_label_4>Taastrup</g:custom_label_4>
-      <g:start_date>2027-01-28T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Taastrup</g:custom_label_3>
-      <g:internal_label>['Taastrup','Forår2027']</g:internal_label>
-    </item>
-<item>
       <g:id>KBO-23521</g:id>
       <g:title><![CDATA[svømning og afspænding i varmt vand]]></g:title>
       <g:description><![CDATA[Gå til svømning i Ballerup og Herlev. FOF Københavns Omegn har svømning for seniorer, vandgymnastik og svømning for øvede. Motion, teknik og vandglæde. Vælg dit favorithold og kom med i bassinet.]]></g:description>
@@ -2182,6 +2138,28 @@
       <g:start_date>2027-01-28T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Herlev</g:custom_label_3>
       <g:internal_label>['Herlev','Forår2027']</g:internal_label>
+    </item>
+<item>
+      <g:id>KBO-23526</g:id>
+      <g:title><![CDATA[Yoga for seniorer]]></g:title>
+      <g:description><![CDATA[Deltag i senioryoga hos FOF Københavns Omegn i Herlev, Glostrup, Albertslund og Taastrup. Gode lyse lokaler med nem adgang og gode parkeringsmuligheder. Blid yoga med fokus på balance, smidighed og ro.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/yoga-seniorer?holdnr=23526</g:link>
+      <g:image_link>https://www.fof.dk/media/h25hzzsj/ypga-for-seniorer.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1545.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Københavns Omegn</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Yoga</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Taastrup</g:custom_label_4>
+      <g:start_date>2027-01-28T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Taastrup</g:custom_label_3>
+      <g:internal_label>['Taastrup','Forår2027']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23528</g:id>
@@ -2845,28 +2823,6 @@ og bruger stemmen mere hensigtsmæssigt]]></g:description>
       <g:internal_label>['Brøndby','Forår2027']</g:internal_label>
     </item>
 <item>
-      <g:id>KBO-23543</g:id>
-      <g:title><![CDATA[Yoga for seniorer]]></g:title>
-      <g:description><![CDATA[Deltag i senioryoga hos FOF Københavns Omegn i Herlev, Glostrup, Albertslund og Taastrup. Gode lyse lokaler med nem adgang og gode parkeringsmuligheder. Blid yoga med fokus på balance, smidighed og ro.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/yoga-seniorer?holdnr=23543</g:link>
-      <g:image_link>https://www.fof.dk/media/h25hzzsj/ypga-for-seniorer.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1545.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Københavns Omegn</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Yoga</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Yoga</g:custom_label_2>
-      <g:custom_label_4>Albertslund</g:custom_label_4>
-      <g:start_date>2027-02-02T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Albertslund</g:custom_label_3>
-      <g:internal_label>['Albertslund','Forår2027']</g:internal_label>
-    </item>
-<item>
       <g:id>KBO-23553</g:id>
       <g:title><![CDATA[Hatha yoga for mænd]]></g:title>
       <g:description><![CDATA[Deltag i Hatha yoga for mænd i Taastrup og Rødovre hos FOF Københavns Omegn. Rolig yoga med fokus på styrke, smidighed og færre spændinger.]]></g:description>
@@ -2887,6 +2843,28 @@ og bruger stemmen mere hensigtsmæssigt]]></g:description>
       <g:start_date>2027-02-02T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Rødovre</g:custom_label_3>
       <g:internal_label>['Rødovre','Forår2027']</g:internal_label>
+    </item>
+<item>
+      <g:id>KBO-23543</g:id>
+      <g:title><![CDATA[Yoga for seniorer]]></g:title>
+      <g:description><![CDATA[Deltag i senioryoga hos FOF Københavns Omegn i Herlev, Glostrup, Albertslund og Taastrup. Gode lyse lokaler med nem adgang og gode parkeringsmuligheder. Blid yoga med fokus på balance, smidighed og ro.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/yoga-seniorer?holdnr=23543</g:link>
+      <g:image_link>https://www.fof.dk/media/h25hzzsj/ypga-for-seniorer.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1545.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Københavns Omegn</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Yoga</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Albertslund</g:custom_label_4>
+      <g:start_date>2027-02-02T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Albertslund</g:custom_label_3>
+      <g:internal_label>['Albertslund','Forår2027']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23529</g:id>
@@ -3088,28 +3066,6 @@ og bruger stemmen mere hensigtsmæssigt]]></g:description>
       <g:internal_label>['Vallensbæk','Forår2027']</g:internal_label>
     </item>
 <item>
-      <g:id>KBO-23700</g:id>
-      <g:title><![CDATA[Klaver for alle]]></g:title>
-      <g:description><![CDATA[Lær at spille klaver i hyggelige rammer på Kilden i Brøndby. Undervisningen tilpasses dit niveau med fokus på glæde, becifringsspil og nodelære. På vores klaverhold på Kilden i Brøndby får du undervisning, der tager udgangspunkt i dit niveau og dine musikalske ønsker. ]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/klaver-i-broendby?holdnr=23700</g:link>
-      <g:image_link>https://www.fof.dk/media/2exctte2/1-klaver-kilden-eget-billede.png?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1820.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Københavns Omegn</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Musik og sang &gt; Klaver og harmonika</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Musik og sang</g:custom_label_1>
-      <g:custom_label_2>Klaver og harmonika</g:custom_label_2>
-      <g:custom_label_4>Brøndby</g:custom_label_4>
-      <g:start_date>2027-02-03T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Brøndby</g:custom_label_3>
-      <g:internal_label>['Brøndby','Forår2027']</g:internal_label>
-    </item>
-<item>
       <g:id>KBO-23828</g:id>
       <g:title><![CDATA[Styrketræning med fokus på osteoporose]]></g:title>
       <g:description><![CDATA[For dig med knogleskørhed/osteoporose. Skånsom og målrettet træning for dig med osteoporose. Fokus på styrke, balance og tryg bevægelse i rolige rammer med professionel vejledning.]]></g:description>
@@ -3126,6 +3082,28 @@ og bruger stemmen mere hensigtsmæssigt]]></g:description>
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Styrke- og konditionstræning</g:custom_label_2>
+      <g:custom_label_4>Brøndby</g:custom_label_4>
+      <g:start_date>2027-02-03T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Brøndby</g:custom_label_3>
+      <g:internal_label>['Brøndby','Forår2027']</g:internal_label>
+    </item>
+<item>
+      <g:id>KBO-23700</g:id>
+      <g:title><![CDATA[Klaver for alle]]></g:title>
+      <g:description><![CDATA[Lær at spille klaver i hyggelige rammer på Kilden i Brøndby. Undervisningen tilpasses dit niveau med fokus på glæde, becifringsspil og nodelære. På vores klaverhold på Kilden i Brøndby får du undervisning, der tager udgangspunkt i dit niveau og dine musikalske ønsker. ]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/klaver-i-broendby?holdnr=23700</g:link>
+      <g:image_link>https://www.fof.dk/media/2exctte2/1-klaver-kilden-eget-billede.png?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1820.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Københavns Omegn</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Musik og sang &gt; Klaver og harmonika</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Musik og sang</g:custom_label_1>
+      <g:custom_label_2>Klaver og harmonika</g:custom_label_2>
       <g:custom_label_4>Brøndby</g:custom_label_4>
       <g:start_date>2027-02-03T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Brøndby</g:custom_label_3>
@@ -4237,28 +4215,6 @@ og bruger stemmen mere hensigtsmæssigt]]></g:description>
       <g:internal_label>['Taastrup','Forår2027','Familie']</g:internal_label>
     </item>
 <item>
-      <g:id>KBO-23537</g:id>
-      <g:title><![CDATA[Yin yoga]]></g:title>
-      <g:description><![CDATA[Find det perfekte yin yoga hold tæt på dig: Deltag i yin yoga i Hedehusene, Rødovre, Ballerup, Taastrup og Glostrup. Rolig yoga med fokus på stræk, ro og afspænding.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/yin-yoga?holdnr=23537</g:link>
-      <g:image_link>https://www.fof.dk/media/jgylzd4z/yoga-fof-aftenskolen-31.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1000.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Københavns Omegn</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Yoga</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Yoga</g:custom_label_2>
-      <g:custom_label_4>Taastrup</g:custom_label_4>
-      <g:start_date>2027-02-11T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Taastrup</g:custom_label_3>
-      <g:internal_label>['Taastrup','Forår2027']</g:internal_label>
-    </item>
-<item>
       <g:id>KBO-23585</g:id>
       <g:title><![CDATA[Hatha yoga]]></g:title>
       <g:description><![CDATA[Kom med på holdet i hatha yoga i Hedehusene, Herlev, Vallensbæk, Albertslund, Glostrup, Rødovre og Taastrup. Små hold med plads til alle kropstyper og niveauer. Find et hold tæt på dig og kom i gang med en god vane.]]></g:description>
@@ -4279,6 +4235,28 @@ og bruger stemmen mere hensigtsmæssigt]]></g:description>
       <g:start_date>2027-02-11T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Taastrup</g:custom_label_3>
       <g:internal_label>['Taastrup','Forår2027','Hedehusene']</g:internal_label>
+    </item>
+<item>
+      <g:id>KBO-23537</g:id>
+      <g:title><![CDATA[Yin yoga]]></g:title>
+      <g:description><![CDATA[Find det perfekte yin yoga hold tæt på dig: Deltag i yin yoga i Hedehusene, Rødovre, Ballerup, Taastrup og Glostrup. Rolig yoga med fokus på stræk, ro og afspænding.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/yin-yoga?holdnr=23537</g:link>
+      <g:image_link>https://www.fof.dk/media/jgylzd4z/yoga-fof-aftenskolen-31.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1000.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Københavns Omegn</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Yoga</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Taastrup</g:custom_label_4>
+      <g:start_date>2027-02-11T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Taastrup</g:custom_label_3>
+      <g:internal_label>['Taastrup','Forår2027']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-33301</g:id>
@@ -6360,28 +6338,6 @@ og bruger stemmen mere hensigtsmæssigt]]></g:description>
       <g:internal_label>['Albertslund','250 kr','Forår2027','Endagskurser']</g:internal_label>
     </item>
 <item>
-      <g:id>KBO-23212</g:id>
-      <g:title><![CDATA[Japansk køkken - workshop]]></g:title>
-      <g:description><![CDATA[Praktisk og inspirerende introduktion til det autentiske japanske køkken. Japansk madlavningskursus i Herlev. Lær autentiske retter som gyoza, onigiri og misosuppe. Fokus på umami, teknik og japansk madlavning i København og omegn.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/japansk-koekken-workshop?holdnr=23212</g:link>
-      <g:image_link>https://www.fof.dk/media/qqxb0aot/japansk-madlavningskursus-i-herlev.png?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>495.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Københavns Omegn</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Madlavning og drikkevarer &gt; Asiatisk mad</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
-      <g:custom_label_2>Asiatisk mad</g:custom_label_2>
-      <g:custom_label_4></g:custom_label_4>
-      <g:start_date>2027-03-13T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>500 kr</g:custom_label_3>
-      <g:internal_label>['500 kr','Forår2027','Endagskurser']</g:internal_label>
-    </item>
-<item>
       <g:id>KBO-23480</g:id>
       <g:title><![CDATA[Syning]]></g:title>
       <g:description><![CDATA[Deltag i et sykursus i Taastrup eller en kreativ redesign workshop. Lær at sy, reparere og forvandle tøj på små hold med personlig vejledning på Vestegnen.]]></g:description>
@@ -6402,6 +6358,28 @@ og bruger stemmen mere hensigtsmæssigt]]></g:description>
       <g:start_date>2027-03-13T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Ballerup</g:custom_label_3>
       <g:internal_label>['Ballerup','Forår2027']</g:internal_label>
+    </item>
+<item>
+      <g:id>KBO-23212</g:id>
+      <g:title><![CDATA[Japansk køkken - workshop]]></g:title>
+      <g:description><![CDATA[Praktisk og inspirerende introduktion til det autentiske japanske køkken. Japansk madlavningskursus i Herlev. Lær autentiske retter som gyoza, onigiri og misosuppe. Fokus på umami, teknik og japansk madlavning i København og omegn.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/japansk-koekken-workshop?holdnr=23212</g:link>
+      <g:image_link>https://www.fof.dk/media/qqxb0aot/japansk-madlavningskursus-i-herlev.png?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>495.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Københavns Omegn</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Madlavning og drikkevarer &gt; Asiatisk mad</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Madlavning og drikkevarer</g:custom_label_1>
+      <g:custom_label_2>Asiatisk mad</g:custom_label_2>
+      <g:custom_label_4></g:custom_label_4>
+      <g:start_date>2027-03-13T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>500 kr</g:custom_label_3>
+      <g:internal_label>['500 kr','Forår2027','Endagskurser']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23230</g:id>
@@ -7513,28 +7491,6 @@ og bruger stemmen mere hensigtsmæssigt]]></g:description>
       <g:internal_label>['Endagskurser','250 kr','Forår2027','København','København K']</g:internal_label>
     </item>
 <item>
-      <g:id>KBO-33001</g:id>
-      <g:title><![CDATA[En dag som miljøagent]]></g:title>
-      <g:description><![CDATA[Tag med på en lærerig tur til Energitårnet Roskilde. Oplev, hvordan affald omdannes til varme og elektricitet, udforsk kontrolrummet og lær om ansvarlig affaldshåndtering med børn og voksne.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/en-dag-som-miljoeagent?holdnr=33001</g:link>
-      <g:image_link>https://www.fof.dk/media/h1xggupk/en-dag-som-miljoeagent.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>140.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Københavns Omegn</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Familie, børn og unge &gt; Udflugter og forestillinger</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Familie, børn og unge</g:custom_label_1>
-      <g:custom_label_2>Udflugter og forestillinger</g:custom_label_2>
-      <g:custom_label_4>Roskilde</g:custom_label_4>
-      <g:start_date>2027-04-16T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Endagskurser</g:custom_label_3>
-      <g:internal_label>['Endagskurser','250 kr','Forår2027','Roskilde']</g:internal_label>
-    </item>
-<item>
       <g:id>KBO-23027</g:id>
       <g:title><![CDATA[Byens Baggårde og Gemte Kroge – fra Rådhuspladsen til Gråbrødretorv]]></g:title>
       <g:description><![CDATA[Opdag Københavns baggårde og gemte kroge på denne guidede byvandring: en tur der viser dig nye sider af hovedstaden.]]></g:description>
@@ -7555,6 +7511,28 @@ og bruger stemmen mere hensigtsmæssigt]]></g:description>
       <g:start_date>2027-04-16T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Endagskurser</g:custom_label_3>
       <g:internal_label>['Endagskurser','250 kr','Forår2027','København']</g:internal_label>
+    </item>
+<item>
+      <g:id>KBO-33001</g:id>
+      <g:title><![CDATA[En dag som miljøagent]]></g:title>
+      <g:description><![CDATA[Tag med på en lærerig tur til Energitårnet Roskilde. Oplev, hvordan affald omdannes til varme og elektricitet, udforsk kontrolrummet og lær om ansvarlig affaldshåndtering med børn og voksne.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-koebenhavns-omegn/en-dag-som-miljoeagent?holdnr=33001</g:link>
+      <g:image_link>https://www.fof.dk/media/h1xggupk/en-dag-som-miljoeagent.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>140.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Københavns Omegn</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Familie, børn og unge &gt; Udflugter og forestillinger</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Familie, børn og unge</g:custom_label_1>
+      <g:custom_label_2>Udflugter og forestillinger</g:custom_label_2>
+      <g:custom_label_4>Roskilde</g:custom_label_4>
+      <g:start_date>2027-04-16T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Endagskurser</g:custom_label_3>
+      <g:internal_label>['Endagskurser','250 kr','Forår2027','Roskilde']</g:internal_label>
     </item>
 <item>
       <g:id>KBO-23220</g:id>

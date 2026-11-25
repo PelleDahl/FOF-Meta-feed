@@ -6,28 +6,6 @@
 <description>Meta produktfeed med alle ledige hold fra FOF Fyn-Fredericia</description>
 <language>da-DK</language>
 <item>
-      <g:id>FYN-262971</g:id>
-      <g:title><![CDATA[Bassintræning for gravide]]></g:title>
-      <g:description><![CDATA[Bassintræning for gravide i Odense og Fredericia hos FOF, skånsom, sjov og effektiv træning i varmtvandsbassin for hele kroppen under graviditeten.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-fyn-fredericia/bassintraening-for-gravide?holdnr=262971</g:link>
-      <g:image_link>https://www.fof.dk/media/rjsplomk/bassintraening-for-gravide-fyn-fof-aftenskolen.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>595.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Fyn-Fredericia</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Motion for gravide</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
-      <g:custom_label_2>Motion for gravide</g:custom_label_2>
-      <g:custom_label_4>Fredericia</g:custom_label_4>
-      <g:start_date>2026-11-25T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Odense</g:custom_label_3>
-      <g:internal_label>['Odense','Fredericia']</g:internal_label>
-    </item>
-<item>
       <g:id>FYN-162839</g:id>
       <g:title><![CDATA[Weekendforkælelse]]></g:title>
       <g:description><![CDATA[Forkæl dig selv med en rolig og nærende yin yoga i Odense workshop hos FOF. På dette 1-dags yogahold i Odense får du dybe stræk, afspænding og mental ro. Perfekt til weekendforkælelse.]]></g:description>
@@ -331,28 +309,6 @@
       <g:internal_label>['Faaborg']</g:internal_label>
     </item>
 <item>
-      <g:id>FYN-370710</g:id>
-      <g:title><![CDATA[Pilates]]></g:title>
-      <g:description><![CDATA[Gå til Pilates i Odense og styrk core, ryg og kropskontrol. Effektiv træning for alle niveauer. Pilates hold i Middelfart og Svendborg hos FOF.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-fyn-fredericia/pilates?holdnr=370710</g:link>
-      <g:image_link>https://www.fof.dk/media/u53lfh43/pilates-fyn-fof-aftenskolen.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>650.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Fyn-Fredericia</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Pilates</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Pilates</g:custom_label_2>
-      <g:custom_label_4>Middelfart</g:custom_label_4>
-      <g:start_date>2027-02-02T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Odense</g:custom_label_3>
-      <g:internal_label>['Odense','Svendborg','Middelfart']</g:internal_label>
-    </item>
-<item>
       <g:id>FYN-170684</g:id>
       <g:title><![CDATA[Gotved]]></g:title>
       <g:description><![CDATA[FOF Fyn-Fredericia tilbyder Gotved dans i Odense og gotved gymnastik på fyn og Fredericia. Træn styrke, smidighed og balance gennem rytmiske øvelser og oplev velvære i krop og sind.]]></g:description>
@@ -373,6 +329,28 @@
       <g:start_date>2027-02-02T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Odense</g:custom_label_3>
       <g:internal_label>['Odense','Odense C']</g:internal_label>
+    </item>
+<item>
+      <g:id>FYN-370710</g:id>
+      <g:title><![CDATA[Pilates]]></g:title>
+      <g:description><![CDATA[Gå til Pilates i Odense og styrk core, ryg og kropskontrol. Effektiv træning for alle niveauer. Pilates hold i Middelfart og Svendborg hos FOF.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-fyn-fredericia/pilates?holdnr=370710</g:link>
+      <g:image_link>https://www.fof.dk/media/u53lfh43/pilates-fyn-fof-aftenskolen.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>650.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Fyn-Fredericia</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Pilates</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Pilates</g:custom_label_2>
+      <g:custom_label_4>Middelfart</g:custom_label_4>
+      <g:start_date>2027-02-02T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Odense</g:custom_label_3>
+      <g:internal_label>['Odense','Svendborg','Middelfart']</g:internal_label>
     </item>
 <item>
       <g:id>FYN-170970</g:id>
