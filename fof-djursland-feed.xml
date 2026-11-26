@@ -399,13 +399,13 @@
       <g:custom_label_4>Mørke</g:custom_label_4>
       <g:start_date>2027-01-05T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Prøvegang</g:custom_label_3>
-      <g:internal_label>['Prøvegang','Mørke','Ryomgård','Grenaa','Thorsager','Bevægelse','Yoga']</g:internal_label>
+      <g:internal_label>['Prøvegang','Nyhed','Mørke','Ryomgård','Grenaa','Thorsager','Bevægelse','Yoga']</g:internal_label>
     </item>
 <item>
       <g:id>DJU-271245</g:id>
       <g:title><![CDATA[Hensyntagende yoga og Qigong - Grenaa]]></g:title>
       <g:description><![CDATA[Gå til Yoga og Qigong i Gjerrild eller Grenaa. Blid undervisning med fokus på nærvær, ro og velvære, der giver balance i krop og sind hos FOF Djursland.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-djursland/yoga-og-qigong-grenaa-gjerrild?holdnr=271245</g:link>
+      <g:link>https://www.fof.dk/aftenskolen/fof-djursland/yoga-og-qigong-gjerrild-grenaa?holdnr=271245</g:link>
       <g:image_link>https://www.fof.dk/media/wwkfohaz/yoga-og-qigong-grenaa-gjerrild-fof-djursland.jpg?width=1200</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:quantity>1</g:quantity>
@@ -421,7 +421,7 @@
       <g:custom_label_4>Grenaa</g:custom_label_4>
       <g:start_date>2027-01-05T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Gjerrild</g:custom_label_3>
-      <g:internal_label>['Gjerrild','Grenaa','Nyhed','Hensyntagende','Bevægelse','Yoga','Qigong']</g:internal_label>
+      <g:internal_label>['Gjerrild','Hensyntagende','Bevægelse','Yoga','Qigong','Grenaa']</g:internal_label>
     </item>
 <item>
       <g:id>DJU-271377</g:id>
@@ -446,28 +446,6 @@
       <g:internal_label>['Grenaa','Bevægelse i vand']</g:internal_label>
     </item>
 <item>
-      <g:id>DJU-273378</g:id>
-      <g:title><![CDATA[Bevægelse i varmt vand - Tirstrup]]></g:title>
-      <g:description><![CDATA[Styrk din krop og forbedr din fysiske form på vores varmt-vands-hold hos FOF Djursland i Tirstrup. Oplev glæden ved at træne i det varme vand, hvor musklerne kan arbejde effektivt uden belastning.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-djursland/bevaegelse-i-varmt-vand-tirstrup?holdnr=273378</g:link>
-      <g:image_link>https://www.fof.dk/media/wrynwn0v/bevaegelse-varmt-vand-fof-djursland.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>915.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Djursland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Træning i vand</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Træning i vand</g:custom_label_2>
-      <g:custom_label_4>Ebeltoft</g:custom_label_4>
-      <g:start_date>2027-01-05T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Tirstrup</g:custom_label_3>
-      <g:internal_label>['Tirstrup','Bevægelse','Bevægelse i vand','Ebeltoft']</g:internal_label>
-    </item>
-<item>
       <g:id>DJU-271368</g:id>
       <g:title><![CDATA[Bevægelse i varmt vand - Auning]]></g:title>
       <g:description><![CDATA[Tag del i vores Bevægelse i varmt vand hos FOF Djursland i Auning og nyd en skånsom træning, der fremmer kropslig velvære og mobilitet. Oplev glæden ved bevægelse i varmt vand under kyndig vejledning.]]></g:description>
@@ -488,6 +466,28 @@
       <g:start_date>2027-01-05T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Auning</g:custom_label_3>
       <g:internal_label>['Auning','Bevægelse','Bevægelse i vand']</g:internal_label>
+    </item>
+<item>
+      <g:id>DJU-273378</g:id>
+      <g:title><![CDATA[Bevægelse i varmt vand - Tirstrup]]></g:title>
+      <g:description><![CDATA[Styrk din krop og forbedr din fysiske form på vores varmt-vands-hold hos FOF Djursland i Tirstrup. Oplev glæden ved at træne i det varme vand, hvor musklerne kan arbejde effektivt uden belastning.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-djursland/bevaegelse-i-varmt-vand-tirstrup?holdnr=273378</g:link>
+      <g:image_link>https://www.fof.dk/media/wrynwn0v/bevaegelse-varmt-vand-fof-djursland.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>915.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Djursland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Træning i vand</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Træning i vand</g:custom_label_2>
+      <g:custom_label_4>Ebeltoft</g:custom_label_4>
+      <g:start_date>2027-01-05T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Tirstrup</g:custom_label_3>
+      <g:internal_label>['Tirstrup','Bevægelse','Bevægelse i vand','Ebeltoft']</g:internal_label>
     </item>
 <item>
       <g:id>DJU-271525</g:id>
@@ -512,28 +512,6 @@
       <g:internal_label>['Auning','Familie','Bevægelse i vand']</g:internal_label>
     </item>
 <item>
-      <g:id>DJU-273364</g:id>
-      <g:title><![CDATA[Bevægelse i varmt vand - Ebeltoft]]></g:title>
-      <g:description><![CDATA[Oplev en forfriskende træning i varmt vand på vores varmt-vands-hold hos FOF Djursland i Ebeltoft. Styrk din krop, forbedr din smidighed og find indre ro i det beroligende vandmiljø.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-djursland/bevaegelse-i-varmt-vand-ebeltoft?holdnr=273364</g:link>
-      <g:image_link>https://www.fof.dk/media/wrynwn0v/bevaegelse-varmt-vand-fof-djursland.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>935.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Djursland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Træning i vand</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Træning i vand</g:custom_label_2>
-      <g:custom_label_4>Ebeltoft</g:custom_label_4>
-      <g:start_date>2027-01-05T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Ebeltoft</g:custom_label_3>
-      <g:internal_label>['Ebeltoft','Bevægelse i vand']</g:internal_label>
-    </item>
-<item>
       <g:id>DJU-271391</g:id>
       <g:title><![CDATA[Bevægelse i varmt vand - Grenaa]]></g:title>
       <g:description><![CDATA[Deltag i vores varmt-vands-hold hos FOF Djursland i Grenaa og oplev den terapeutiske virkning af bevægelse i varmt vand. Opnå smertelindring, øget fleksibilitet og forbedret velvære gennem skånsomme vandøvelser.]]></g:description>
@@ -556,10 +534,32 @@
       <g:internal_label>['Grenaa','Bevægelse i vand']</g:internal_label>
     </item>
 <item>
+      <g:id>DJU-273364</g:id>
+      <g:title><![CDATA[Bevægelse i varmt vand - Ebeltoft]]></g:title>
+      <g:description><![CDATA[Oplev en forfriskende træning i varmt vand på vores varmt-vands-hold hos FOF Djursland i Ebeltoft. Styrk din krop, forbedr din smidighed og find indre ro i det beroligende vandmiljø.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-djursland/bevaegelse-i-varmt-vand-ebeltoft?holdnr=273364</g:link>
+      <g:image_link>https://www.fof.dk/media/wrynwn0v/bevaegelse-varmt-vand-fof-djursland.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>935.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Djursland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Træning i vand</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Træning i vand</g:custom_label_2>
+      <g:custom_label_4>Ebeltoft</g:custom_label_4>
+      <g:start_date>2027-01-05T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Ebeltoft</g:custom_label_3>
+      <g:internal_label>['Ebeltoft','Bevægelse i vand']</g:internal_label>
+    </item>
+<item>
       <g:id>DJU-271243</g:id>
       <g:title><![CDATA[Hensyntagende yoga og Qigong - Grenaa]]></g:title>
       <g:description><![CDATA[Gå til Yoga og Qigong i Gjerrild eller Grenaa. Blid undervisning med fokus på nærvær, ro og velvære, der giver balance i krop og sind hos FOF Djursland.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-djursland/yoga-og-qigong-grenaa-gjerrild?holdnr=271243</g:link>
+      <g:link>https://www.fof.dk/aftenskolen/fof-djursland/yoga-og-qigong-gjerrild-grenaa?holdnr=271243</g:link>
       <g:image_link>https://www.fof.dk/media/wwkfohaz/yoga-og-qigong-grenaa-gjerrild-fof-djursland.jpg?width=1200</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:quantity>1</g:quantity>
@@ -575,7 +575,7 @@
       <g:custom_label_4>Grenaa</g:custom_label_4>
       <g:start_date>2027-01-05T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Gjerrild</g:custom_label_3>
-      <g:internal_label>['Gjerrild','Grenaa','Nyhed','Hensyntagende','Bevægelse','Yoga','Qigong']</g:internal_label>
+      <g:internal_label>['Gjerrild','Hensyntagende','Bevægelse','Yoga','Qigong','Grenaa']</g:internal_label>
     </item>
 <item>
       <g:id>DJU-271205</g:id>
@@ -668,9 +668,9 @@
 <item>
       <g:id>DJU-271244</g:id>
       <g:title><![CDATA[Yoga og Afspænding - Grenaa]]></g:title>
-      <g:description><![CDATA[Gå til Yoga og Qigong i Gjerrild eller Grenaa. Blid undervisning med fokus på nærvær, ro og velvære, der giver balance i krop og sind hos FOF Djursland.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-djursland/yoga-og-qigong-grenaa-gjerrild?holdnr=271244</g:link>
-      <g:image_link>https://www.fof.dk/media/wwkfohaz/yoga-og-qigong-grenaa-gjerrild-fof-djursland.jpg?width=1200</g:image_link>
+      <g:description><![CDATA[Gå til yoga og afspænding i Grenaa og find ro, styrke og velvære. Inspirerende undervisning med fokus på nærvær og balance i krop og sind hos FOF Djursland]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-djursland/yoga-og-afspaending-grenaa?holdnr=271244</g:link>
+      <g:image_link>https://www.fof.dk/media/l03nem5z/yoga-afspaending-grenaa-gjerrild-fof-djursland.jpg?width=1200</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:quantity>1</g:quantity>
       <g:price>1105.00 DKK</g:price>
@@ -684,8 +684,30 @@
       <g:custom_label_2>Yoga</g:custom_label_2>
       <g:custom_label_4>Grenaa</g:custom_label_4>
       <g:start_date>2027-01-05T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Gjerrild</g:custom_label_3>
-      <g:internal_label>['Gjerrild','Grenaa','Nyhed','Hensyntagende','Bevægelse','Yoga','Qigong']</g:internal_label>
+      <g:custom_label_3>Grenaa</g:custom_label_3>
+      <g:internal_label>['Grenaa','Bevægelse','Yoga']</g:internal_label>
+    </item>
+<item>
+      <g:id>DJU-273380</g:id>
+      <g:title><![CDATA[Bevægelse i varmt vand - Tirstrup]]></g:title>
+      <g:description><![CDATA[Styrk din krop og forbedr din fysiske form på vores varmt-vands-hold hos FOF Djursland i Tirstrup. Oplev glæden ved at træne i det varme vand, hvor musklerne kan arbejde effektivt uden belastning.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-djursland/bevaegelse-i-varmt-vand-tirstrup?holdnr=273380</g:link>
+      <g:image_link>https://www.fof.dk/media/wrynwn0v/bevaegelse-varmt-vand-fof-djursland.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1135.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Djursland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Træning i vand</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Træning i vand</g:custom_label_2>
+      <g:custom_label_4>Ebeltoft</g:custom_label_4>
+      <g:start_date>2027-01-06T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Tirstrup</g:custom_label_3>
+      <g:internal_label>['Tirstrup','Bevægelse','Bevægelse i vand','Ebeltoft']</g:internal_label>
     </item>
 <item>
       <g:id>DJU-273401</g:id>
@@ -730,28 +752,6 @@
       <g:start_date>2027-01-06T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Ebeltoft</g:custom_label_3>
       <g:internal_label>['Ebeltoft','Grenaa','Hornslet','Hensyntagende','Musik og sang']</g:internal_label>
-    </item>
-<item>
-      <g:id>DJU-273380</g:id>
-      <g:title><![CDATA[Bevægelse i varmt vand - Tirstrup]]></g:title>
-      <g:description><![CDATA[Styrk din krop og forbedr din fysiske form på vores varmt-vands-hold hos FOF Djursland i Tirstrup. Oplev glæden ved at træne i det varme vand, hvor musklerne kan arbejde effektivt uden belastning.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-djursland/bevaegelse-i-varmt-vand-tirstrup?holdnr=273380</g:link>
-      <g:image_link>https://www.fof.dk/media/wrynwn0v/bevaegelse-varmt-vand-fof-djursland.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1135.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Djursland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Træning i vand</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Træning i vand</g:custom_label_2>
-      <g:custom_label_4>Ebeltoft</g:custom_label_4>
-      <g:start_date>2027-01-06T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Tirstrup</g:custom_label_3>
-      <g:internal_label>['Tirstrup','Bevægelse','Bevægelse i vand','Ebeltoft']</g:internal_label>
     </item>
 <item>
       <g:id>DJU-273955</g:id>
@@ -933,7 +933,7 @@
       <g:id>DJU-271241</g:id>
       <g:title><![CDATA[Yoga og Qigong - Gjerrild]]></g:title>
       <g:description><![CDATA[Gå til Yoga og Qigong i Gjerrild eller Grenaa. Blid undervisning med fokus på nærvær, ro og velvære, der giver balance i krop og sind hos FOF Djursland.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-djursland/yoga-og-qigong-grenaa-gjerrild?holdnr=271241</g:link>
+      <g:link>https://www.fof.dk/aftenskolen/fof-djursland/yoga-og-qigong-gjerrild-grenaa?holdnr=271241</g:link>
       <g:image_link>https://www.fof.dk/media/wwkfohaz/yoga-og-qigong-grenaa-gjerrild-fof-djursland.jpg?width=1200</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:quantity>1</g:quantity>
@@ -949,7 +949,7 @@
       <g:custom_label_4>Grenaa</g:custom_label_4>
       <g:start_date>2027-01-06T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Gjerrild</g:custom_label_3>
-      <g:internal_label>['Gjerrild','Grenaa','Nyhed','Hensyntagende','Bevægelse','Yoga','Qigong']</g:internal_label>
+      <g:internal_label>['Gjerrild','Hensyntagende','Bevægelse','Yoga','Qigong','Grenaa']</g:internal_label>
     </item>
 <item>
       <g:id>DJU-273846</g:id>
@@ -1169,7 +1169,7 @@
       <g:custom_label_4>Ryomgård</g:custom_label_4>
       <g:start_date>2027-01-07T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Prøvegang</g:custom_label_3>
-      <g:internal_label>['Prøvegang','Mørke','Ryomgård','Grenaa','Thorsager','Bevægelse','Yoga']</g:internal_label>
+      <g:internal_label>['Prøvegang','Nyhed','Mørke','Ryomgård','Grenaa','Thorsager','Bevægelse','Yoga']</g:internal_label>
     </item>
 <item>
       <g:id>DJU-273391</g:id>
@@ -1390,6 +1390,28 @@
       <g:start_date>2027-01-11T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Rønde</g:custom_label_3>
       <g:internal_label>['Rønde','Kreative fag','Keramik']</g:internal_label>
+    </item>
+<item>
+      <g:id>DJU-273241</g:id>
+      <g:title><![CDATA[Yoga - Rønde]]></g:title>
+      <g:description><![CDATA[Dyrk yoga i Rønde, Thorsager og Bjødstrup. Kombiner Kundalini, Hatha og Vinyasa for styrke, ro og smidighed – afsluttes med afspænding.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-djursland/yoga-bjoedstrup-thorsager-roende?holdnr=273241</g:link>
+      <g:image_link>https://www.fof.dk/media/jstbypbs/yoga-thorsager-fof-djursland.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1105.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Djursland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Yoga</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Rønde</g:custom_label_4>
+      <g:start_date>2027-01-11T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Bjødstrup</g:custom_label_3>
+      <g:internal_label>['Bjødstrup','Thorsager','Rønde','Mols','Bevægelse','Yoga']</g:internal_label>
     </item>
 <item>
       <g:id>DJU-271325</g:id>
@@ -1653,7 +1675,7 @@
       <g:custom_label_4>Rønde</g:custom_label_4>
       <g:start_date>2027-01-12T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Prøvegang</g:custom_label_3>
-      <g:internal_label>['Prøvegang','Mørke','Ryomgård','Grenaa','Thorsager','Bevægelse','Yoga','Rønde']</g:internal_label>
+      <g:internal_label>['Prøvegang','Nyhed','Mørke','Ryomgård','Grenaa','Thorsager','Bevægelse','Yoga','Rønde']</g:internal_label>
     </item>
 <item>
       <g:id>DJU-271403</g:id>
@@ -2030,6 +2052,28 @@
       <g:internal_label>['Rønde','Sproghold','Engelsk']</g:internal_label>
     </item>
 <item>
+      <g:id>DJU-271323</g:id>
+      <g:title><![CDATA[Hensyntagende yoga - Grenaa - Gratis prøvegang]]></g:title>
+      <g:description><![CDATA[Blid hatha yoga i Rønde eller Grenaa med fokus på bevægelighed, balance, åndedræt og afspænding. Yoga tilpasset individuelle behov hos FOF Djursland]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-djursland/hensyntagende-yoga-roende-grenaa?holdnr=271323</g:link>
+      <g:image_link>https://www.fof.dk/media/mkrbl1m5/hensyntagende-yoga-grenaa-hornslet-oersted-fof-djursland.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>0.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Djursland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Yoga</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Grenaa</g:custom_label_4>
+      <g:start_date>2027-01-18T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Rønde</g:custom_label_3>
+      <g:internal_label>['Rønde','Hensyntagende','Bevægelse','Yoga','Prøvegang','Grenaa']</g:internal_label>
+    </item>
+<item>
       <g:id>DJU-271390</g:id>
       <g:title><![CDATA[Bliv tryg ved vandet - Grenaa]]></g:title>
       <g:description><![CDATA[Kursus i Grenaa eller Auning for dig med vandskræk. Lær at flyde, få hovedet under vand og opbyg tryghed i små hold hos FOF Djursland]]></g:description>
@@ -2159,7 +2203,29 @@
       <g:custom_label_4>Rønde</g:custom_label_4>
       <g:start_date>2027-01-19T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Prøvegang</g:custom_label_3>
-      <g:internal_label>['Prøvegang','Mørke','Ryomgård','Grenaa','Thorsager','Bevægelse','Yoga','Rønde']</g:internal_label>
+      <g:internal_label>['Prøvegang','Nyhed','Mørke','Ryomgård','Grenaa','Thorsager','Bevægelse','Yoga','Rønde']</g:internal_label>
+    </item>
+<item>
+      <g:id>DJU-273233</g:id>
+      <g:title><![CDATA[Dynamisk yoga - Gratis prøvegang - Ebeltoft]]></g:title>
+      <g:description><![CDATA[Prøv dynamisk yoga i Ebeltoft med flydende øvelser, musik og afspænding. Styrk kroppen, øg smidigheden og find ro i trygge rammer. Tilmeld dig hos FOF Djursland]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-djursland/dynamisk-yoga-ebeltoft?holdnr=273233</g:link>
+      <g:image_link>https://www.fof.dk/media/zfufn45c/dynamisk-yoga-ebeltoft.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>0.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Djursland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Yoga</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Ebeltoft</g:custom_label_4>
+      <g:start_date>2027-01-19T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Nyhed</g:custom_label_3>
+      <g:internal_label>['Nyhed','Prøvegang','Yoga','Ebeltoft','Bevægelse']</g:internal_label>
     </item>
 <item>
       <g:id>DJU-273141</g:id>
@@ -2290,8 +2356,8 @@
       <g:custom_label_2>Yoga</g:custom_label_2>
       <g:custom_label_4>Grenaa</g:custom_label_4>
       <g:start_date>2027-01-20T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Grenaa</g:custom_label_3>
-      <g:internal_label>['Grenaa','Nyhed','Bevægelse','Yoga']</g:internal_label>
+      <g:custom_label_3>Prøvegang</g:custom_label_3>
+      <g:internal_label>['Prøvegang','Grenaa','Nyhed','Bevægelse','Yoga']</g:internal_label>
     </item>
 <item>
       <g:id>DJU-273331</g:id>
@@ -2426,6 +2492,28 @@
       <g:internal_label>['Nyhed','Prøvegang','Bevægelse og afspænding','Yoga','Tirstrup','Ebeltoft']</g:internal_label>
     </item>
 <item>
+      <g:id>DJU-271322</g:id>
+      <g:title><![CDATA[Hensyntagende yoga - Grenaa]]></g:title>
+      <g:description><![CDATA[Blid hatha yoga i Rønde eller Grenaa med fokus på bevægelighed, balance, åndedræt og afspænding. Yoga tilpasset individuelle behov hos FOF Djursland]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-djursland/hensyntagende-yoga-roende-grenaa?holdnr=271322</g:link>
+      <g:image_link>https://www.fof.dk/media/mkrbl1m5/hensyntagende-yoga-grenaa-hornslet-oersted-fof-djursland.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1075.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Djursland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Yoga</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Grenaa</g:custom_label_4>
+      <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Rønde</g:custom_label_3>
+      <g:internal_label>['Rønde','Hensyntagende','Bevægelse','Yoga','Prøvegang','Grenaa']</g:internal_label>
+    </item>
+<item>
       <g:id>DJU-273411</g:id>
       <g:title><![CDATA[Keramik for begyndere - Ebeltoft]]></g:title>
       <g:description><![CDATA[Lær keramik i Ebeltoft på et trygt begynderkursus. Lav kopper og skåle og prøv håndbygning, dekoration og glasur. Ingen erfaring kræves. Tilmeld dig hos FOF Djursland]]></g:description>
@@ -2558,6 +2646,28 @@
       <g:internal_label>['Nyhed','Prøvegang','Yoga','Rønde','Bevægelse']</g:internal_label>
     </item>
 <item>
+      <g:id>DJU-273234</g:id>
+      <g:title><![CDATA[Dynamisk yoga - Ebeltoft]]></g:title>
+      <g:description><![CDATA[Prøv dynamisk yoga i Ebeltoft med flydende øvelser, musik og afspænding. Styrk kroppen, øg smidigheden og find ro i trygge rammer. Tilmeld dig hos FOF Djursland]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-djursland/dynamisk-yoga-ebeltoft?holdnr=273234</g:link>
+      <g:image_link>https://www.fof.dk/media/zfufn45c/dynamisk-yoga-ebeltoft.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1075.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Djursland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Yoga</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Ebeltoft</g:custom_label_4>
+      <g:start_date>2027-01-26T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Nyhed</g:custom_label_3>
+      <g:internal_label>['Nyhed','Prøvegang','Yoga','Ebeltoft','Bevægelse']</g:internal_label>
+    </item>
+<item>
       <g:id>DJU-273277</g:id>
       <g:title><![CDATA[Kom i form med Ergün - Tirstrup]]></g:title>
       <g:description><![CDATA[Kom i form med dance fitness hos FOF Djursland. Cardio med disco, salsa og cumbia, der forbedrer kondition, smidighed og koordination.]]></g:description>
@@ -2620,8 +2730,8 @@
       <g:custom_label_2>Yoga</g:custom_label_2>
       <g:custom_label_4>Grenaa</g:custom_label_4>
       <g:start_date>2027-01-27T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Grenaa</g:custom_label_3>
-      <g:internal_label>['Grenaa','Nyhed','Bevægelse','Yoga']</g:internal_label>
+      <g:custom_label_3>Prøvegang</g:custom_label_3>
+      <g:internal_label>['Prøvegang','Grenaa','Nyhed','Bevægelse','Yoga']</g:internal_label>
     </item>
 <item>
       <g:id>DJU-273106</g:id>
@@ -3506,8 +3616,8 @@
 <item>
       <g:id>DJU-273308</g:id>
       <g:title><![CDATA[Qigong - Kolind]]></g:title>
-      <g:description><![CDATA[Prøv en dybdegående træning med Qigong hos FOF Djursland og opnå indre ro og balance gennem harmoniske bevægelser og åndedrætsøvelser. Tag del i vores Qi gong hold i Kolind eller Feldballe og find velvære i krop og sind.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-djursland/qigong-kolind-feldballe?holdnr=273308</g:link>
+      <g:description><![CDATA[Prøv en dybdegående træning med Qigong hos FOF Djursland og opnå indre ro og balance gennem harmoniske bevægelser og åndedrætsøvelser. Tag del i vores Qi gong hold i Kolindog find velvære i krop og sind.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-djursland/qigong-kolind?holdnr=273308</g:link>
       <g:image_link>https://www.fof.dk/media/fbgalbeo/qigong-kolind-feldballe-fof-djursland.jpg?width=1200</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:quantity>1</g:quantity>
@@ -3522,8 +3632,8 @@
       <g:custom_label_2>Tai Chi og Qi Gong</g:custom_label_2>
       <g:custom_label_4>Kolind</g:custom_label_4>
       <g:start_date>2027-02-23T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Feldballe</g:custom_label_3>
-      <g:internal_label>['Feldballe','Kolind','Mols','Bevægelse','Qigong']</g:internal_label>
+      <g:custom_label_3>Kolind</g:custom_label_3>
+      <g:internal_label>['Kolind','Bevægelse','Qigong']</g:internal_label>
     </item>
 <item>
       <g:id>DJU-273626</g:id>
@@ -3654,8 +3764,8 @@
       <g:custom_label_2>Yoga</g:custom_label_2>
       <g:custom_label_4>Grenaa</g:custom_label_4>
       <g:start_date>2027-02-25T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Grenaa</g:custom_label_3>
-      <g:internal_label>['Grenaa','Hensyntagende','Bevægelse','Yoga']</g:internal_label>
+      <g:custom_label_3>Nyhed</g:custom_label_3>
+      <g:internal_label>['Nyhed','Grenaa','Hensyntagende','Bevægelse','Yoga']</g:internal_label>
     </item>
 <item>
       <g:id>DJU-273580</g:id>
@@ -4209,9 +4319,9 @@
     </item>
 <item>
       <g:id>DJU-271601</g:id>
-      <g:title><![CDATA[Hatha yoga, bobler og Spa på Hotel Marina - Grenaa]]></g:title>
+      <g:title><![CDATA[Mindful Hatha yoga, bobler og Spa på Hotel Marina - Grenaa]]></g:title>
       <g:description><![CDATA[Nyd en wellnessdag med hathayoga og spa på Hotel Marina i Grenaa. Få ro i kroppen med blid yoga, bobler og frugt. Trygge rammer. Tilmeld dig hos FOF Djursland.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-djursland/hatha-yoga-bobler-og-spa-paa-hotel-marina?holdnr=271601</g:link>
+      <g:link>https://www.fof.dk/aftenskolen/fof-djursland/mindhul-hatha-yoga-bobler-og-spa-paa-hotel-marina?holdnr=271601</g:link>
       <g:image_link>https://www.fof.dk/media/rm3eai21/hatha-yoga-bobler-og-spa-paa-hotel-marina-grenaa.jpg?width=1200</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:quantity>1</g:quantity>

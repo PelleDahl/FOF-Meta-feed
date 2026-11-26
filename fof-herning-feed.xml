@@ -643,6 +643,27 @@
       <g:internal_label>['Bevægelse','Skjern']</g:internal_label>
     </item>
 <item>
+      <g:id>HER-49160</g:id>
+      <g:title><![CDATA[Pilates for letøvede(H) - Aulum]]></g:title>
+      <g:description><![CDATA[Styrk kroppen og fordyb din praksis med Pilates for letøvede i Aulum. Effektiv træning med fokus på core, stabilitet og velvære.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-herning/pilates-for-letoevede-h-aulum?holdnr=49160</g:link>
+      <g:image_link>https://www.fof.dk/media/o1jlh4oh/pilates-herning-fof-aftenskolen-1.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1094.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Herning</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Pilates</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Pilates</g:custom_label_2>
+      <g:custom_label_4>Aulum</g:custom_label_4>
+      <g:start_date>2027-01-07T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Aulum']</g:internal_label>
+    </item>
+<item>
       <g:id>HER-49216</g:id>
       <g:title><![CDATA[Yin Yoga - Sdr. Felding ]]></g:title>
       <g:description><![CDATA[Find ro med Yin Yoga hos FOF Herning. Blid yoga for alle niveauer i Herning, Tarm, Skjern, Sdr. Felding og Troldhede. Tilmeld dig et hold nær dig.]]></g:description>
@@ -663,27 +684,6 @@
       <g:start_date>2027-01-07T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Bevægelse</g:custom_label_3>
       <g:internal_label>['Bevægelse','Sønder Felding']</g:internal_label>
-    </item>
-<item>
-      <g:id>HER-49160</g:id>
-      <g:title><![CDATA[Pilates for letøvede(H) - Aulum]]></g:title>
-      <g:description><![CDATA[Styrk kroppen og fordyb din praksis med Pilates for letøvede i Aulum. Effektiv træning med fokus på core, stabilitet og velvære.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-herning/pilates-for-letoevede-h-aulum?holdnr=49160</g:link>
-      <g:image_link>https://www.fof.dk/media/o1jlh4oh/pilates-herning-fof-aftenskolen-1.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1094.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Herning</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Pilates</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Pilates</g:custom_label_2>
-      <g:custom_label_4>Aulum</g:custom_label_4>
-      <g:start_date>2027-01-07T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Aulum']</g:internal_label>
     </item>
 <item>
       <g:id>HER-89105</g:id>
@@ -918,6 +918,27 @@
       <g:internal_label>['Herning']</g:internal_label>
     </item>
 <item>
+      <g:id>HER-49254</g:id>
+      <g:title><![CDATA[Varmtvandstræning (H)]]></g:title>
+      <g:description><![CDATA[Varmtvandstræning i Herning svømmehal | Skånsom motion i varmt vand | FOF Herning]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-herning/varmtvandstraening-hensyn-herning-svoemmehal?holdnr=49254</g:link>
+      <g:image_link>https://www.fof.dk/media/4chp2tqv/vand-herning-fof-aftenskolen.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>958.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Herning</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Træning i vand</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Træning i vand</g:custom_label_2>
+      <g:custom_label_4>Herning</g:custom_label_4>
+      <g:start_date>2027-01-11T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Herning']</g:internal_label>
+    </item>
+<item>
       <g:id>HER-69219</g:id>
       <g:title><![CDATA[NYHED - Reformer - Tarm (H)]]></g:title>
       <g:description><![CDATA[Reformertræning i Tarm for hele kroppen. Træn styrke, core, mobilitet og kropskontrol på et hold for både begyndere og øvede.]]></g:description>
@@ -938,27 +959,6 @@
       <g:start_date>2027-01-11T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Bevægelse</g:custom_label_3>
       <g:internal_label>['Bevægelse','Tarm']</g:internal_label>
-    </item>
-<item>
-      <g:id>HER-49254</g:id>
-      <g:title><![CDATA[Varmtvandstræning (H)]]></g:title>
-      <g:description><![CDATA[Varmtvandstræning i Herning svømmehal | Skånsom motion i varmt vand | FOF Herning]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-herning/varmtvandstraening-hensyn-herning-svoemmehal?holdnr=49254</g:link>
-      <g:image_link>https://www.fof.dk/media/4chp2tqv/vand-herning-fof-aftenskolen.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>958.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Herning</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Træning i vand</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Træning i vand</g:custom_label_2>
-      <g:custom_label_4>Herning</g:custom_label_4>
-      <g:start_date>2027-01-11T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Herning']</g:internal_label>
     </item>
 <item>
       <g:id>HER-69121</g:id>
@@ -1151,28 +1151,6 @@
       <g:custom_label_4>Herning</g:custom_label_4>
       <g:start_date>2027-01-11T00:00:00.000Z</g:start_date>
       <g:internal_label>['Herning']</g:internal_label>
-    </item>
-<item>
-      <g:id>HER-69109</g:id>
-      <g:title><![CDATA[Yin yoga - Troldhede]]></g:title>
-      <g:description><![CDATA[Find ro med Yin Yoga hos FOF Herning. Blid yoga for alle niveauer i Herning, Tarm, Skjern, Sdr. Felding og Troldhede. Tilmeld dig et hold nær dig.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-herning/yin-yoga?holdnr=69109</g:link>
-      <g:image_link>https://www.fof.dk/media/w2jc0evx/blidyoga-herning-fof-aftenskolen.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1366.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Herning</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Yoga</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Yoga</g:custom_label_2>
-      <g:custom_label_4>Videbæk</g:custom_label_4>
-      <g:start_date>2027-01-11T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Bevægelse</g:custom_label_3>
-      <g:internal_label>['Bevægelse','Videbæk']</g:internal_label>
     </item>
 <item>
       <g:id>HER-69100</g:id>
@@ -1602,27 +1580,6 @@
       <g:internal_label>['Bevægelse','Herning']</g:internal_label>
     </item>
 <item>
-      <g:id>HER-49271</g:id>
-      <g:title><![CDATA[Varmtvandstræning]]></g:title>
-      <g:description><![CDATA[Træn kroppen skånsomt med varmtvandstræning i Herning. Styrk muskler, balance og kredsløb i varmt, lindrende vand.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-herning/varmtvandstraening-alm?holdnr=49271</g:link>
-      <g:image_link>https://www.fof.dk/media/4chp2tqv/vand-herning-fof-aftenskolen.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1040.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Herning</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Træning i vand</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Træning i vand</g:custom_label_2>
-      <g:custom_label_4>Herning</g:custom_label_4>
-      <g:start_date>2027-01-14T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Herning']</g:internal_label>
-    </item>
-<item>
       <g:id>HER-49137</g:id>
       <g:title><![CDATA[Fysioterapeutisk træning for knæ og hofte (H)]]></g:title>
       <g:description><![CDATA[Fysioterapeutisk træning i Herning med fokus på knæ og hofter. Styrk muskler, balance og bevægelighed med skånsomme øvelser hos FOF Herning.]]></g:description>
@@ -1660,6 +1617,27 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Keramik</g:custom_label_2>
+      <g:custom_label_4>Herning</g:custom_label_4>
+      <g:start_date>2027-01-14T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Herning']</g:internal_label>
+    </item>
+<item>
+      <g:id>HER-49271</g:id>
+      <g:title><![CDATA[Varmtvandstræning]]></g:title>
+      <g:description><![CDATA[Træn kroppen skånsomt med varmtvandstræning i Herning. Styrk muskler, balance og kredsløb i varmt, lindrende vand.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-herning/varmtvandstraening-alm?holdnr=49271</g:link>
+      <g:image_link>https://www.fof.dk/media/4chp2tqv/vand-herning-fof-aftenskolen.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1040.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Herning</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Træning i vand</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Træning i vand</g:custom_label_2>
       <g:custom_label_4>Herning</g:custom_label_4>
       <g:start_date>2027-01-14T00:00:00.000Z</g:start_date>
       <g:internal_label>['Herning']</g:internal_label>
@@ -1707,27 +1685,6 @@
       <g:internal_label>['Herning']</g:internal_label>
     </item>
 <item>
-      <g:id>HER-49443</g:id>
-      <g:title><![CDATA[Formiddags keramik]]></g:title>
-      <g:description><![CDATA[Find ro og kreativ glæde på keramikkursus i Herning. Perfekt for begyndere og barslende. Skab unikke værker i et trygt og nærværende miljø.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-herning/keramik-v-katrine-baby-velkommen?holdnr=49443</g:link>
-      <g:image_link>https://www.fof.dk/media/dzupxjyv/keramik-aftenskolen-herning-fof.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1384.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Herning</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Kreative kurser &gt; Keramik</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Kreative kurser</g:custom_label_1>
-      <g:custom_label_2>Keramik</g:custom_label_2>
-      <g:custom_label_4>Herning</g:custom_label_4>
-      <g:start_date>2027-01-14T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Herning']</g:internal_label>
-    </item>
-<item>
       <g:id>HER-49439</g:id>
       <g:title><![CDATA[Keramik]]></g:title>
       <g:description><![CDATA[Gå til keramik i Herning hos FOF Herning. Lær håndbygning og skab dine egne unikke værker i ler. Keramikkursus for både begyndere og øvede.]]></g:description>
@@ -1749,22 +1706,22 @@
       <g:internal_label>['Herning']</g:internal_label>
     </item>
 <item>
-      <g:id>HER-49279</g:id>
-      <g:title><![CDATA[Varmtvandstræning (H)]]></g:title>
-      <g:description><![CDATA[Deltag i varmtvandstræning i DGI Huset Herning og styrk kroppen på en skånsom måde. Få bedre balance, smidighed og velvære gennem træning i varmt vand.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-herning/varmtvandstraening-hensyn-dgi-huset?holdnr=49279</g:link>
-      <g:image_link>https://www.fof.dk/media/4chp2tqv/vand-herning-fof-aftenskolen.jpg?width=1200</g:image_link>
+      <g:id>HER-49443</g:id>
+      <g:title><![CDATA[Formiddags keramik]]></g:title>
+      <g:description><![CDATA[Find ro og kreativ glæde på keramikkursus i Herning. Perfekt for begyndere og barslende. Skab unikke værker i et trygt og nærværende miljø.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-herning/keramik-v-katrine-baby-velkommen?holdnr=49443</g:link>
+      <g:image_link>https://www.fof.dk/media/dzupxjyv/keramik-aftenskolen-herning-fof.jpg?width=1200</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:quantity>1</g:quantity>
-      <g:price>958.00 DKK</g:price>
+      <g:price>1384.00 DKK</g:price>
       <g:condition>new</g:condition>
       <g:brand>FOF Herning</g:brand>
       <g:google_product_category>Education</g:google_product_category>
       <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Træning i vand</g:product_type>
+      <g:product_type>Kurser &gt; Kreative kurser &gt; Keramik</g:product_type>
       <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Træning i vand</g:custom_label_2>
+      <g:custom_label_1>Kreative kurser</g:custom_label_1>
+      <g:custom_label_2>Keramik</g:custom_label_2>
       <g:custom_label_4>Herning</g:custom_label_4>
       <g:start_date>2027-01-14T00:00:00.000Z</g:start_date>
       <g:internal_label>['Herning']</g:internal_label>
@@ -1786,6 +1743,27 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Herning</g:custom_label_4>
+      <g:start_date>2027-01-14T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Herning']</g:internal_label>
+    </item>
+<item>
+      <g:id>HER-49279</g:id>
+      <g:title><![CDATA[Varmtvandstræning (H)]]></g:title>
+      <g:description><![CDATA[Deltag i varmtvandstræning i DGI Huset Herning og styrk kroppen på en skånsom måde. Få bedre balance, smidighed og velvære gennem træning i varmt vand.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-herning/varmtvandstraening-hensyn-dgi-huset?holdnr=49279</g:link>
+      <g:image_link>https://www.fof.dk/media/4chp2tqv/vand-herning-fof-aftenskolen.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>958.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Herning</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Træning i vand</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Træning i vand</g:custom_label_2>
       <g:custom_label_4>Herning</g:custom_label_4>
       <g:start_date>2027-01-14T00:00:00.000Z</g:start_date>
       <g:internal_label>['Herning']</g:internal_label>
@@ -1963,27 +1941,6 @@
       <g:internal_label>['Bevægelse','Skjern']</g:internal_label>
     </item>
 <item>
-      <g:id>HER-49261</g:id>
-      <g:title><![CDATA[Varmtvandstræning (H)]]></g:title>
-      <g:description><![CDATA[Deltag i varmtvandstræning i DGI Huset Herning og styrk kroppen på en skånsom måde. Få bedre balance, smidighed og velvære gennem træning i varmt vand.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-herning/varmtvandstraening-hensyn-dgi-huset?holdnr=49261</g:link>
-      <g:image_link>https://www.fof.dk/media/4chp2tqv/vand-herning-fof-aftenskolen.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1040.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Herning</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Træning i vand</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Træning i vand</g:custom_label_2>
-      <g:custom_label_4>Herning</g:custom_label_4>
-      <g:start_date>2027-01-14T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Herning']</g:internal_label>
-    </item>
-<item>
       <g:id>HER-69220</g:id>
       <g:title><![CDATA[NYHED - Reformer - Tarm (H)]]></g:title>
       <g:description><![CDATA[Skånsom reformertræning i Tarm for dig med smerter, spændinger eller fysiske udfordringer. Individuel tilpasning og tryg undervisning.]]></g:description>
@@ -2004,6 +1961,27 @@
       <g:start_date>2027-01-14T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Bevægelse</g:custom_label_3>
       <g:internal_label>['Bevægelse','Tarm']</g:internal_label>
+    </item>
+<item>
+      <g:id>HER-49261</g:id>
+      <g:title><![CDATA[Varmtvandstræning (H)]]></g:title>
+      <g:description><![CDATA[Deltag i varmtvandstræning i DGI Huset Herning og styrk kroppen på en skånsom måde. Få bedre balance, smidighed og velvære gennem træning i varmt vand.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-herning/varmtvandstraening-hensyn-dgi-huset?holdnr=49261</g:link>
+      <g:image_link>https://www.fof.dk/media/4chp2tqv/vand-herning-fof-aftenskolen.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1040.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Herning</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Træning i vand</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Træning i vand</g:custom_label_2>
+      <g:custom_label_4>Herning</g:custom_label_4>
+      <g:start_date>2027-01-14T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Herning']</g:internal_label>
     </item>
 <item>
       <g:id>HER-49275</g:id>
@@ -2259,6 +2237,27 @@
       <g:internal_label>['Herning']</g:internal_label>
     </item>
 <item>
+      <g:id>HER-49149</g:id>
+      <g:title><![CDATA[Restorativ Yoga (H)]]></g:title>
+      <g:description><![CDATA[Find ro, balance og fornyet energi med restorativ yoga hos FOF Herning. Blid yoga for alle niveauer – også begyndere – i Herning, Tarm og Skjern.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-herning/restorativ-yoga-michelle?holdnr=49149</g:link>
+      <g:image_link>https://www.fof.dk/media/w2jc0evx/blidyoga-herning-fof-aftenskolen.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1304.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Herning</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Yoga</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Herning</g:custom_label_4>
+      <g:start_date>2027-01-19T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Herning']</g:internal_label>
+    </item>
+<item>
       <g:id>HER-89102</g:id>
       <g:title><![CDATA[Pilates]]></g:title>
       <g:description><![CDATA[Gå til pilates hos FOF Herning og styrk din krop med effektiv træning for mave, ryg og balance. Pilates for alle niveauer i Herning, Ikast og Skjern]]></g:description>
@@ -2279,27 +2278,6 @@
       <g:start_date>2027-01-19T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Bevægelse</g:custom_label_3>
       <g:internal_label>['Bevægelse','Ikast']</g:internal_label>
-    </item>
-<item>
-      <g:id>HER-49149</g:id>
-      <g:title><![CDATA[Restorativ Yoga (H)]]></g:title>
-      <g:description><![CDATA[Find ro, balance og fornyet energi med restorativ yoga hos FOF Herning. Blid yoga for alle niveauer – også begyndere – i Herning, Tarm og Skjern.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-herning/restorativ-yoga-michelle?holdnr=49149</g:link>
-      <g:image_link>https://www.fof.dk/media/w2jc0evx/blidyoga-herning-fof-aftenskolen.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1304.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Herning</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Yoga</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Yoga</g:custom_label_2>
-      <g:custom_label_4>Herning</g:custom_label_4>
-      <g:start_date>2027-01-19T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Herning']</g:internal_label>
     </item>
 <item>
       <g:id>HER-49408</g:id>
