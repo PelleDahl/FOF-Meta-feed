@@ -180,6 +180,27 @@
       <g:internal_label>['Odense','Svendborg','Odense C']</g:internal_label>
     </item>
 <item>
+      <g:id>FYN-270762</g:id>
+      <g:title><![CDATA[Spænd op og spænd af]]></g:title>
+      <g:description><![CDATA[Træning i varmt vand i Odense og Fredericia er for alle, der ønsker en anderledes og effektiv træningsform med fokus på styrke, bevægelse og velvære.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-fyn-fredericia/traening-i-varmt-vand?holdnr=270762</g:link>
+      <g:image_link>https://www.fof.dk/media/zybdztls/bevaeg-dig-og-bevar-dig-fyn-fof-aftenskolen.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>895.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Fyn-Fredericia</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Træning i vand</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Træning i vand</g:custom_label_2>
+      <g:custom_label_4>Fredericia</g:custom_label_4>
+      <g:start_date>2027-02-01T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Fredericia']</g:internal_label>
+    </item>
+<item>
       <g:id>FYN-270760</g:id>
       <g:title><![CDATA[Træning i varmt vand]]></g:title>
       <g:description><![CDATA[Træning i varmt vand i Odense og Fredericia er for alle, der ønsker en anderledes og effektiv træningsform med fokus på styrke, bevægelse og velvære.]]></g:description>
@@ -288,6 +309,48 @@
       <g:internal_label>['Odense','Odense C']</g:internal_label>
     </item>
 <item>
+      <g:id>FYN-270740</g:id>
+      <g:title><![CDATA[Mavedans]]></g:title>
+      <g:description><![CDATA[Gå til mavedans i Fredericia hos FOF Fyn-Fredericia. Open level-hold med fokus på teknik, styrke, rytme, smidighed og danseglæde for alle niveauer.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-fyn-fredericia/mavedans-fredericia?holdnr=270740</g:link>
+      <g:image_link>https://www.fof.dk/media/cf3dmwee/mavedans-fyn-fof-aftenskolen.png?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>825.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Fyn-Fredericia</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Dans</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Dans</g:custom_label_2>
+      <g:custom_label_4>Fredericia</g:custom_label_4>
+      <g:start_date>2027-02-01T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Fredericia']</g:internal_label>
+    </item>
+<item>
+      <g:id>FYN-270763</g:id>
+      <g:title><![CDATA[Spænd op og spænd af]]></g:title>
+      <g:description><![CDATA[Træning i varmt vand i Odense og Fredericia er for alle, der ønsker en anderledes og effektiv træningsform med fokus på styrke, bevægelse og velvære.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-fyn-fredericia/traening-i-varmt-vand?holdnr=270763</g:link>
+      <g:image_link>https://www.fof.dk/media/zybdztls/bevaeg-dig-og-bevar-dig-fyn-fof-aftenskolen.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>895.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Fyn-Fredericia</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Træning i vand</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Træning i vand</g:custom_label_2>
+      <g:custom_label_4>Fredericia</g:custom_label_4>
+      <g:start_date>2027-02-01T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Fredericia']</g:internal_label>
+    </item>
+<item>
       <g:id>FYN-170683</g:id>
       <g:title><![CDATA[Gotved]]></g:title>
       <g:description><![CDATA[FOF Fyn-Fredericia tilbyder Gotved dans i Odense og gotved gymnastik på fyn og Fredericia. Træn styrke, smidighed og balance gennem rytmiske øvelser og oplev velvære i krop og sind.]]></g:description>
@@ -331,6 +394,48 @@
       <g:internal_label>['Faaborg']</g:internal_label>
     </item>
 <item>
+      <g:id>FYN-270764</g:id>
+      <g:title><![CDATA[Bevæg dig og bevar dig]]></g:title>
+      <g:description><![CDATA[Træning i varmt vand i Odense og Fredericia er for alle, der ønsker en anderledes og effektiv træningsform med fokus på styrke, bevægelse og velvære.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-fyn-fredericia/traening-i-varmt-vand?holdnr=270764</g:link>
+      <g:image_link>https://www.fof.dk/media/zybdztls/bevaeg-dig-og-bevar-dig-fyn-fof-aftenskolen.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>895.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Fyn-Fredericia</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Træning i vand</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Træning i vand</g:custom_label_2>
+      <g:custom_label_4>Fredericia</g:custom_label_4>
+      <g:start_date>2027-02-02T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Fredericia']</g:internal_label>
+    </item>
+<item>
+      <g:id>FYN-270766</g:id>
+      <g:title><![CDATA[Aqua-toning]]></g:title>
+      <g:description><![CDATA[Træning i varmt vand i Odense og Fredericia er for alle, der ønsker en anderledes og effektiv træningsform med fokus på styrke, bevægelse og velvære.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-fyn-fredericia/traening-i-varmt-vand?holdnr=270766</g:link>
+      <g:image_link>https://www.fof.dk/media/zybdztls/bevaeg-dig-og-bevar-dig-fyn-fof-aftenskolen.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>895.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Fyn-Fredericia</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Træning i vand</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Træning i vand</g:custom_label_2>
+      <g:custom_label_4>Fredericia</g:custom_label_4>
+      <g:start_date>2027-02-02T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Fredericia']</g:internal_label>
+    </item>
+<item>
       <g:id>FYN-570711</g:id>
       <g:title><![CDATA[Pilates for alle]]></g:title>
       <g:description><![CDATA[Gå til Pilates i Odense og styrk core, ryg og kropskontrol. Effektiv træning for alle niveauer. Pilates hold i Middelfart og Svendborg hos FOF.]]></g:description>
@@ -351,28 +456,6 @@
       <g:start_date>2027-02-02T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Odense</g:custom_label_3>
       <g:internal_label>['Odense','Svendborg']</g:internal_label>
-    </item>
-<item>
-      <g:id>FYN-170970</g:id>
-      <g:title><![CDATA[Bassintræning for gravide]]></g:title>
-      <g:description><![CDATA[Bassintræning for gravide i Odense og Fredericia hos FOF, skånsom, sjov og effektiv træning i varmtvandsbassin for hele kroppen under graviditeten.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-fyn-fredericia/bassintraening-for-gravide?holdnr=170970</g:link>
-      <g:image_link>https://www.fof.dk/media/rjsplomk/bassintraening-for-gravide-fyn-fof-aftenskolen.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>745.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Fyn-Fredericia</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Motion for gravide</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
-      <g:custom_label_2>Motion for gravide</g:custom_label_2>
-      <g:custom_label_4>Odense</g:custom_label_4>
-      <g:start_date>2027-02-02T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Odense</g:custom_label_3>
-      <g:internal_label>['Odense','Odense M']</g:internal_label>
     </item>
 <item>
       <g:id>FYN-170684</g:id>
@@ -441,6 +524,49 @@
       <g:internal_label>['Odense','Svendborg']</g:internal_label>
     </item>
 <item>
+      <g:id>FYN-170970</g:id>
+      <g:title><![CDATA[Bassintræning for gravide]]></g:title>
+      <g:description><![CDATA[Bassintræning for gravide i Odense og Fredericia hos FOF, skånsom, sjov og effektiv træning i varmtvandsbassin for hele kroppen under graviditeten.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-fyn-fredericia/bassintraening-for-gravide?holdnr=170970</g:link>
+      <g:image_link>https://www.fof.dk/media/rjsplomk/bassintraening-for-gravide-fyn-fof-aftenskolen.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>745.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Fyn-Fredericia</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Motion for gravide</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
+      <g:custom_label_2>Motion for gravide</g:custom_label_2>
+      <g:custom_label_4>Odense</g:custom_label_4>
+      <g:start_date>2027-02-02T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Odense</g:custom_label_3>
+      <g:internal_label>['Odense','Odense M']</g:internal_label>
+    </item>
+<item>
+      <g:id>FYN-270765</g:id>
+      <g:title><![CDATA[Bevæg dig og bevar dig]]></g:title>
+      <g:description><![CDATA[Træning i varmt vand i Odense og Fredericia er for alle, der ønsker en anderledes og effektiv træningsform med fokus på styrke, bevægelse og velvære.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-fyn-fredericia/traening-i-varmt-vand?holdnr=270765</g:link>
+      <g:image_link>https://www.fof.dk/media/zybdztls/bevaeg-dig-og-bevar-dig-fyn-fof-aftenskolen.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>895.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Fyn-Fredericia</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Træning i vand</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Træning i vand</g:custom_label_2>
+      <g:custom_label_4>Fredericia</g:custom_label_4>
+      <g:start_date>2027-02-02T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Fredericia']</g:internal_label>
+    </item>
+<item>
       <g:id>FYN-170971</g:id>
       <g:title><![CDATA[Bassintræning for gravide]]></g:title>
       <g:description><![CDATA[Bassintræning for gravide i Odense og Fredericia hos FOF, skånsom, sjov og effektiv træning i varmtvandsbassin for hele kroppen under graviditeten.]]></g:description>
@@ -504,6 +630,28 @@
       <g:start_date>2027-02-02T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Odense</g:custom_label_3>
       <g:internal_label>['Odense','Odense C']</g:internal_label>
+    </item>
+<item>
+      <g:id>FYN-570800</g:id>
+      <g:title><![CDATA[Flow Yoga]]></g:title>
+      <g:description><![CDATA[Dyrk flow yoga hos FOF Fyn-Fredericia i Svendborg. Flydende og alsidig yoga med fokus på styrke, balance, koordination og åndedræt – for alle niveauer.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-fyn-fredericia/flow-yoga?holdnr=570800</g:link>
+      <g:image_link>https://www.fof.dk/media/343nexsv/yoga-fof-aftenskolen-13.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>990.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Fyn-Fredericia</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Yoga</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Svendborg</g:custom_label_4>
+      <g:start_date>2027-02-03T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Svendborg</g:custom_label_3>
+      <g:internal_label>['Svendborg']</g:internal_label>
     </item>
 <item>
       <g:id>FYN-570805</g:id>
@@ -636,6 +784,27 @@
       <g:internal_label>['Odense','Svendborg','Faaborg']</g:internal_label>
     </item>
 <item>
+      <g:id>FYN-270945</g:id>
+      <g:title><![CDATA[Fra utryg til tryg i vandet special]]></g:title>
+      <g:description><![CDATA[Bliv mere tryg i vandet på et roligt vandtilvænningshold i Fredericia. For voksne med vandskræk eller dårlige oplevelser i vandet.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-fyn-fredericia/fra-utryg-til-tryg-i-vandet?holdnr=270945</g:link>
+      <g:image_link>https://www.fof.dk/media/wwdhyque/fra-utryg-til-tryg-i-vandet-vandskraek-fyn-fof-aftenskolen.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>595.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Fyn-Fredericia</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Træning i vand</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Træning i vand</g:custom_label_2>
+      <g:custom_label_4>Fredericia</g:custom_label_4>
+      <g:start_date>2027-02-04T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Fredericia']</g:internal_label>
+    </item>
+<item>
       <g:id>FYN-670882</g:id>
       <g:title><![CDATA[Blid kropstræning - special]]></g:title>
       <g:description><![CDATA[Få mere styrke, smidighed og ro med blid kropstræning i Faaborg. Skånsomme øvelser med elementer fra yoga og pilates på et mindre hold.]]></g:description>
@@ -676,6 +845,28 @@
       <g:custom_label_4>Odense</g:custom_label_4>
       <g:start_date>2027-02-19T00:00:00.000Z</g:start_date>
       <g:internal_label>['Odense S']</g:internal_label>
+    </item>
+<item>
+      <g:id>FYN-270970</g:id>
+      <g:title><![CDATA[Bassintræning for gravide]]></g:title>
+      <g:description><![CDATA[Bassintræning for gravide i Odense og Fredericia hos FOF, skånsom, sjov og effektiv træning i varmtvandsbassin for hele kroppen under graviditeten.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-fyn-fredericia/bassintraening-for-gravide?holdnr=270970</g:link>
+      <g:image_link>https://www.fof.dk/media/rjsplomk/bassintraening-for-gravide-fyn-fof-aftenskolen.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>595.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Fyn-Fredericia</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Motion for gravide</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
+      <g:custom_label_2>Motion for gravide</g:custom_label_2>
+      <g:custom_label_4>Fredericia</g:custom_label_4>
+      <g:start_date>2027-02-24T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Odense</g:custom_label_3>
+      <g:internal_label>['Odense','Fredericia']</g:internal_label>
     </item>
 <item>
       <g:id>FYN-270940</g:id>
@@ -916,6 +1107,93 @@
       <g:internal_label>['Odense','Odense C']</g:internal_label>
     </item>
 <item>
+      <g:id>FYN-370850</g:id>
+      <g:title><![CDATA[Gotved special]]></g:title>
+      <g:description><![CDATA[Gå til Gotved træning i Odense, Middelfart og Fredericia. Blid bevægelse med fokus på åndedræt, balance og velvære i trygge rammer hos FOF.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-fyn-fredericia/gotved-special?holdnr=370850</g:link>
+      <g:image_link>https://www.fof.dk/media/5twmlknv/gotved-special-fyn-fof-aftenskolen.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>745.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Fyn-Fredericia</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Styrke- og konditionstræning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Styrke- og konditionstræning</g:custom_label_2>
+      <g:custom_label_4>Middelfart</g:custom_label_4>
+      <g:start_date>2027-04-08T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Hensyntagende</g:custom_label_3>
+      <g:internal_label>['Hensyntagende','Odense','Middelfart']</g:internal_label>
+    </item>
+<item>
+      <g:id>FYN-170686</g:id>
+      <g:title><![CDATA[Gotved]]></g:title>
+      <g:description><![CDATA[FOF Fyn-Fredericia tilbyder Gotved dans i Odense og gotved gymnastik på fyn og Fredericia. Træn styrke, smidighed og balance gennem rytmiske øvelser og oplev velvære i krop og sind.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-fyn-fredericia/gotved?holdnr=170686</g:link>
+      <g:image_link>https://www.fof.dk/media/ciwbew3m/gotveddans-fyn-fof-aftenskolen.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>745.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Fyn-Fredericia</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Styrke- og konditionstræning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Styrke- og konditionstræning</g:custom_label_2>
+      <g:custom_label_4>Odense</g:custom_label_4>
+      <g:start_date>2027-04-14T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Odense</g:custom_label_3>
+      <g:internal_label>['Odense','Odense C']</g:internal_label>
+    </item>
+<item>
+      <g:id>FYN-170852</g:id>
+      <g:title><![CDATA[Gotved special]]></g:title>
+      <g:description><![CDATA[Gå til Gotved træning i Odense, Middelfart og Fredericia. Blid bevægelse med fokus på åndedræt, balance og velvære i trygge rammer hos FOF.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-fyn-fredericia/gotved-special?holdnr=170852</g:link>
+      <g:image_link>https://www.fof.dk/media/5twmlknv/gotved-special-fyn-fof-aftenskolen.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>745.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Fyn-Fredericia</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Styrke- og konditionstræning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Styrke- og konditionstræning</g:custom_label_2>
+      <g:custom_label_4>Odense</g:custom_label_4>
+      <g:start_date>2027-04-14T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Hensyntagende</g:custom_label_3>
+      <g:internal_label>['Hensyntagende','Odense','Odense C']</g:internal_label>
+    </item>
+<item>
+      <g:id>FYN-270946</g:id>
+      <g:title><![CDATA[Fra utryg til tryg i vandet special]]></g:title>
+      <g:description><![CDATA[Bliv mere tryg i vandet på et roligt vandtilvænningshold i Fredericia. For voksne med vandskræk eller dårlige oplevelser i vandet.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-fyn-fredericia/fra-utryg-til-tryg-i-vandet?holdnr=270946</g:link>
+      <g:image_link>https://www.fof.dk/media/wwdhyque/fra-utryg-til-tryg-i-vandet-vandskraek-fyn-fof-aftenskolen.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>370.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Fyn-Fredericia</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Træning i vand</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Træning i vand</g:custom_label_2>
+      <g:custom_label_4>Fredericia</g:custom_label_4>
+      <g:start_date>2027-04-15T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Fredericia']</g:internal_label>
+    </item>
+<item>
       <g:id>FYN-170965</g:id>
       <g:title><![CDATA[Babymassage og zoneterapi]]></g:title>
       <g:description><![CDATA[Babymassage og zoneterapi i Odense hos FOF. Lær blide massageøvelser og motoriske teknikker, der skaber tryghed og fremmer dit barns udvikling.]]></g:description>
@@ -959,6 +1237,27 @@
       <g:internal_label>['Fredericia']</g:internal_label>
     </item>
 <item>
+      <g:id>FYN-270741</g:id>
+      <g:title><![CDATA[Mavedans]]></g:title>
+      <g:description><![CDATA[Gå til mavedans i Fredericia hos FOF Fyn-Fredericia. Open level-hold med fokus på teknik, styrke, rytme, smidighed og danseglæde for alle niveauer.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-fyn-fredericia/mavedans-fredericia?holdnr=270741</g:link>
+      <g:image_link>https://www.fof.dk/media/cf3dmwee/mavedans-fyn-fof-aftenskolen.png?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>825.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Fyn-Fredericia</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Dans</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Dans</g:custom_label_2>
+      <g:custom_label_4>Fredericia</g:custom_label_4>
+      <g:start_date>2027-04-19T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Fredericia']</g:internal_label>
+    </item>
+<item>
       <g:id>FYN-170972</g:id>
       <g:title><![CDATA[Bassintræning for gravide]]></g:title>
       <g:description><![CDATA[Bassintræning for gravide i Odense og Fredericia hos FOF, skånsom, sjov og effektiv træning i varmtvandsbassin for hele kroppen under graviditeten.]]></g:description>
@@ -979,6 +1278,28 @@
       <g:start_date>2027-04-20T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Odense</g:custom_label_3>
       <g:internal_label>['Odense','Odense M']</g:internal_label>
+    </item>
+<item>
+      <g:id>FYN-270971</g:id>
+      <g:title><![CDATA[Bassintræning for gravide]]></g:title>
+      <g:description><![CDATA[Bassintræning for gravide i Odense og Fredericia hos FOF, skånsom, sjov og effektiv træning i varmtvandsbassin for hele kroppen under graviditeten.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-fyn-fredericia/bassintraening-for-gravide?holdnr=270971</g:link>
+      <g:image_link>https://www.fof.dk/media/rjsplomk/bassintraening-for-gravide-fyn-fof-aftenskolen.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>595.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Fyn-Fredericia</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Graviditet, fødsel og barsel &gt; Motion for gravide</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Graviditet, fødsel og barsel</g:custom_label_1>
+      <g:custom_label_2>Motion for gravide</g:custom_label_2>
+      <g:custom_label_4>Fredericia</g:custom_label_4>
+      <g:start_date>2027-04-28T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Odense</g:custom_label_3>
+      <g:internal_label>['Odense','Fredericia']</g:internal_label>
     </item>
 <item>
       <g:id>FYN-170966</g:id>

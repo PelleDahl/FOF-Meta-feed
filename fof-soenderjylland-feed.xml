@@ -6,28 +6,6 @@
 <description>Meta produktfeed med alle ledige hold fra FOF Sønderjylland</description>
 <language>da-DK</language>
 <item>
-      <g:id>SDJ-2262341</g:id>
-      <g:title><![CDATA[Klangmeditation]]></g:title>
-      <g:description><![CDATA[Oplev dyb afslapning og indre ro med klangmeditation i Aabenraa. Lyd og vibrationer skaber balance i krop og sind. Se mere på hjemmesiden.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-soenderjylland/klangmeditation?holdnr=2262341</g:link>
-      <g:image_link>https://www.fof.dk/media/hurkrkuu/klangmeditation-soenderjylland-fof-aftenskolen-1.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>125.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Sønderjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Mindfulness og meditation</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Mindfulness og meditation</g:custom_label_2>
-      <g:custom_label_4>Aabenraa</g:custom_label_4>
-      <g:start_date>2026-11-26T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Aabenraa</g:custom_label_3>
-      <g:internal_label>['Aabenraa','Bjerggade','Starter snart','Motion']</g:internal_label>
-    </item>
-<item>
       <g:id>SDJ-1262005</g:id>
       <g:title><![CDATA[Merkel og det moderne Tyskland]]></g:title>
       <g:description><![CDATA[Dyk ned i Angela Merkels liv fra DDR til 16 år som tysk kansler. Få indsigt i hendes politiske arv, baggrund og indflydelse på Europa. Oplev foredraget hos FOF Sønderjylland.]]></g:description>
@@ -938,27 +916,6 @@
       <g:internal_label>['Bjerggade','Aabenraa','Motion','Hensyntagende']</g:internal_label>
     </item>
 <item>
-      <g:id>SDJ-1271344</g:id>
-      <g:title><![CDATA[Thai chi 18 Qigong]]></g:title>
-      <g:description><![CDATA[Giv dig selv ro og bevægelse med de 18 klassiske Qi Gong-øvelser i Sønderborg. Træningen kombinerer blide, harmoniske bevægelser med vejrtrækning og nærvær, så du kan styrke både krop og sind. Alle kan være med – uanset alder, erfaring eller fysisk form.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-soenderjylland/tai-chi-18-qi-gong?holdnr=1271344</g:link>
-      <g:image_link>https://www.fof.dk/media/p30jwpvh/underviser-aija-boll-qi-gong-soenderjylland-fof-aftenskolen.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>725.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Sønderjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Tai Chi og Qi Gong</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Tai Chi og Qi Gong</g:custom_label_2>
-      <g:custom_label_4>Sønderborg</g:custom_label_4>
-      <g:start_date>2027-01-11T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Sønderborg']</g:internal_label>
-    </item>
-<item>
       <g:id>SDJ-1271415</g:id>
       <g:title><![CDATA[Senioryoga]]></g:title>
       <g:description><![CDATA[Senioryoga i Sønderborg, Gråsten og Hørup – blid træning for krop og sind. Blide Hatha Yoga-øvelser til seniorer med fokus på styrke, smidighed, balance og indre ro. Se mere og tilmeld dig på hjemmesiden. ]]></g:description>
@@ -979,6 +936,27 @@
       <g:start_date>2027-01-11T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Dorthes hold</g:custom_label_3>
       <g:internal_label>['Dorthes hold','Sønderborg','Motion','Sydals']</g:internal_label>
+    </item>
+<item>
+      <g:id>SDJ-1271344</g:id>
+      <g:title><![CDATA[Thai chi 18 Qigong]]></g:title>
+      <g:description><![CDATA[Giv dig selv ro og bevægelse med de 18 klassiske Qi Gong-øvelser i Sønderborg. Træningen kombinerer blide, harmoniske bevægelser med vejrtrækning og nærvær, så du kan styrke både krop og sind. Alle kan være med – uanset alder, erfaring eller fysisk form.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-soenderjylland/tai-chi-18-qi-gong?holdnr=1271344</g:link>
+      <g:image_link>https://www.fof.dk/media/p30jwpvh/underviser-aija-boll-qi-gong-soenderjylland-fof-aftenskolen.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>725.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sønderjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Tai Chi og Qi Gong</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Tai Chi og Qi Gong</g:custom_label_2>
+      <g:custom_label_4>Sønderborg</g:custom_label_4>
+      <g:start_date>2027-01-11T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Sønderborg']</g:internal_label>
     </item>
 <item>
       <g:id>SDJ-1271207</g:id>
@@ -1810,14 +1788,14 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:internal_label>['Bjerggade','Aabenraa']</g:internal_label>
     </item>
 <item>
-      <g:id>SDJ-2271314</g:id>
-      <g:title><![CDATA[Senior Yin Yoga]]></g:title>
-      <g:description><![CDATA[Giv dig selv en rolig stund med senior Yin Yoga i Aabenraa, hvor du kan sænke tempoet, mærke kroppen og finde ro i hverdagen. Her er der plads til at tage hensyn til dig selv og dine behov. Du behøver hverken være smidig eller have erfaring med yoga for at være med.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-soenderjylland/senior-yin-yoga?holdnr=2271314</g:link>
-      <g:image_link>https://www.fof.dk/media/zi4mtjpl/senior-yoga-motion-soenderjylland-fof-aftenskolen.jpg?width=1200</g:image_link>
+      <g:id>SDJ-2271329</g:id>
+      <g:title><![CDATA[Morgen Yoga]]></g:title>
+      <g:description><![CDATA[ Oplev Morgenyoga hos FOF Sønderjylland. Blide stræk, afspænding og meditation giver energi, flow og indre ro – tilpasset alle niveauer. Se mere på hjemmesiden. ]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-soenderjylland/yoga?holdnr=2271329</g:link>
+      <g:image_link>https://www.fof.dk/media/ivban0pm/morgenyoga-motion-soenderjylland-fof-aftenskolen.jpg?width=1200</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:quantity>1</g:quantity>
-      <g:price>925.00 DKK</g:price>
+      <g:price>795.00 DKK</g:price>
       <g:condition>new</g:condition>
       <g:brand>FOF Sønderjylland</g:brand>
       <g:google_product_category>Education</g:google_product_category>
@@ -1829,7 +1807,7 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:custom_label_4>Aabenraa</g:custom_label_4>
       <g:start_date>2027-01-20T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Bjerggade</g:custom_label_3>
-      <g:internal_label>['Bjerggade','Aabenraa']</g:internal_label>
+      <g:internal_label>['Bjerggade','Aabenraa','Motion']</g:internal_label>
     </item>
 <item>
       <g:id>SDJ-1270719</g:id>
@@ -1853,14 +1831,14 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:internal_label>['Sønderborg']</g:internal_label>
     </item>
 <item>
-      <g:id>SDJ-2271329</g:id>
-      <g:title><![CDATA[Morgen Yoga]]></g:title>
-      <g:description><![CDATA[ Oplev Morgenyoga hos FOF Sønderjylland. Blide stræk, afspænding og meditation giver energi, flow og indre ro – tilpasset alle niveauer. Se mere på hjemmesiden. ]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-soenderjylland/yoga?holdnr=2271329</g:link>
-      <g:image_link>https://www.fof.dk/media/ivban0pm/morgenyoga-motion-soenderjylland-fof-aftenskolen.jpg?width=1200</g:image_link>
+      <g:id>SDJ-2271314</g:id>
+      <g:title><![CDATA[Senior Yin Yoga]]></g:title>
+      <g:description><![CDATA[Giv dig selv en rolig stund med senior Yin Yoga i Aabenraa, hvor du kan sænke tempoet, mærke kroppen og finde ro i hverdagen. Her er der plads til at tage hensyn til dig selv og dine behov. Du behøver hverken være smidig eller have erfaring med yoga for at være med.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-soenderjylland/senior-yin-yoga?holdnr=2271314</g:link>
+      <g:image_link>https://www.fof.dk/media/zi4mtjpl/senior-yoga-motion-soenderjylland-fof-aftenskolen.jpg?width=1200</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:quantity>1</g:quantity>
-      <g:price>795.00 DKK</g:price>
+      <g:price>925.00 DKK</g:price>
       <g:condition>new</g:condition>
       <g:brand>FOF Sønderjylland</g:brand>
       <g:google_product_category>Education</g:google_product_category>
@@ -1872,7 +1850,7 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:custom_label_4>Aabenraa</g:custom_label_4>
       <g:start_date>2027-01-20T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Bjerggade</g:custom_label_3>
-      <g:internal_label>['Bjerggade','Aabenraa','Motion']</g:internal_label>
+      <g:internal_label>['Bjerggade','Aabenraa']</g:internal_label>
     </item>
 <item>
       <g:id>SDJ-2271565</g:id>
@@ -2049,6 +2027,27 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:internal_label>['Haderslev','Vojens']</g:internal_label>
     </item>
 <item>
+      <g:id>SDJ-1271558</g:id>
+      <g:title><![CDATA[Tegne- og maleværksted]]></g:title>
+      <g:description><![CDATA[Udforsk dine kreative evner på 5 hyggelige torsdage med tegning og maling. Lær at tegne mennesker, portrætter og opstillinger. Se mere her.  ]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-soenderjylland/det-maa-godt-ligne?holdnr=1271558</g:link>
+      <g:image_link>https://www.fof.dk/media/dmvfuatt/thore-maleri-5.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1355.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sønderjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Kreative kurser &gt; Tegnekurser</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Kreative kurser</g:custom_label_1>
+      <g:custom_label_2>Tegnekurser</g:custom_label_2>
+      <g:custom_label_4>Sønderborg</g:custom_label_4>
+      <g:start_date>2027-01-21T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Sønderborg']</g:internal_label>
+    </item>
+<item>
       <g:id>SDJ-3270714</g:id>
       <g:title><![CDATA[Klaverspil]]></g:title>
       <g:description><![CDATA[Lær at spille klaver hos FOF Sønderjylland. Undervisning tilpasset dine ønsker og niveau. Se alle hold her.]]></g:description>
@@ -2087,27 +2086,6 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Kreative kurser</g:custom_label_1>
       <g:custom_label_2>Håndarbejde</g:custom_label_2>
-      <g:custom_label_4>Sønderborg</g:custom_label_4>
-      <g:start_date>2027-01-21T00:00:00.000Z</g:start_date>
-      <g:internal_label>['Sønderborg']</g:internal_label>
-    </item>
-<item>
-      <g:id>SDJ-1271558</g:id>
-      <g:title><![CDATA[Tegne- og maleværksted]]></g:title>
-      <g:description><![CDATA[Udforsk dine kreative evner på 5 hyggelige torsdage med tegning og maling. Lær at tegne mennesker, portrætter og opstillinger. Se mere her.  ]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-soenderjylland/det-maa-godt-ligne?holdnr=1271558</g:link>
-      <g:image_link>https://www.fof.dk/media/dmvfuatt/thore-maleri-5.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1355.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Sønderjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Kreative kurser &gt; Tegnekurser</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Kreative kurser</g:custom_label_1>
-      <g:custom_label_2>Tegnekurser</g:custom_label_2>
       <g:custom_label_4>Sønderborg</g:custom_label_4>
       <g:start_date>2027-01-21T00:00:00.000Z</g:start_date>
       <g:internal_label>['Sønderborg']</g:internal_label>
@@ -2245,11 +2223,11 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:internal_label>['Bjerggade','Aabenraa']</g:internal_label>
     </item>
 <item>
-      <g:id>SDJ-2271419</g:id>
-      <g:title><![CDATA[Pilates fleksibilitet]]></g:title>
-      <g:description><![CDATA[Vil du arbejde med kroppens bevægelighed, styrke og smidighed på en grundig og systematisk måde? På dette pilateshold i Aabenraa kombinerer vi opvarmning, dynamiske stræk og mobilitetsøvelser, så hele kroppen bliver arbejdet igennem fra ankler til håndled. Vi tager udgangspunkt i kroppens behov og arbejder i et tempo, hvor der er plads til at udvikle sig.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-soenderjylland/pilates-fleksibilitet?holdnr=2271419</g:link>
-      <g:image_link>https://www.fof.dk/media/xmueok5g/pilates-oevede-soenderborg-soenderjylland-fof-aftenskolen.jpg?width=1200</g:image_link>
+      <g:id>SDJ-2271418</g:id>
+      <g:title><![CDATA[Pilates for alle]]></g:title>
+      <g:description><![CDATA[Med klassisk Matwork Pilates i Aabenraa og Padborg får du træning, der styrker kroppen indefra. Du arbejder med muskler, led og kropsholdning gennem præcise bevægelser, der forbedrer din styrke, smidighed og balance.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-soenderjylland/pilates-aabenraa-padborg?holdnr=2271418</g:link>
+      <g:image_link>https://www.fof.dk/media/fzjlq5t1/pilates-aabenraa-padborg-fof-soenderjylland.png?width=1200</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:quantity>1</g:quantity>
       <g:price>795.00 DKK</g:price>
@@ -2267,11 +2245,11 @@ Her arbejder vi med rolig Yin Yoga, hvor stillingerne holdes i længere tid, så
       <g:internal_label>['Bjerggade','Aabenraa']</g:internal_label>
     </item>
 <item>
-      <g:id>SDJ-2271418</g:id>
-      <g:title><![CDATA[Pilates for alle]]></g:title>
-      <g:description><![CDATA[Med klassisk Matwork Pilates i Aabenraa og Padborg får du træning, der styrker kroppen indefra. Du arbejder med muskler, led og kropsholdning gennem præcise bevægelser, der forbedrer din styrke, smidighed og balance.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-soenderjylland/pilates-aabenraa-padborg?holdnr=2271418</g:link>
-      <g:image_link>https://www.fof.dk/media/fzjlq5t1/pilates-aabenraa-padborg-fof-soenderjylland.png?width=1200</g:image_link>
+      <g:id>SDJ-2271419</g:id>
+      <g:title><![CDATA[Pilates fleksibilitet]]></g:title>
+      <g:description><![CDATA[Vil du arbejde med kroppens bevægelighed, styrke og smidighed på en grundig og systematisk måde? På dette pilateshold i Aabenraa kombinerer vi opvarmning, dynamiske stræk og mobilitetsøvelser, så hele kroppen bliver arbejdet igennem fra ankler til håndled. Vi tager udgangspunkt i kroppens behov og arbejder i et tempo, hvor der er plads til at udvikle sig.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-soenderjylland/pilates-fleksibilitet?holdnr=2271419</g:link>
+      <g:image_link>https://www.fof.dk/media/xmueok5g/pilates-oevede-soenderborg-soenderjylland-fof-aftenskolen.jpg?width=1200</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:quantity>1</g:quantity>
       <g:price>795.00 DKK</g:price>
