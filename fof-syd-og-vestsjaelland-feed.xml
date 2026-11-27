@@ -512,28 +512,6 @@
       <g:internal_label>['Næstved','Kalender - Januar','Endagskurser','Sandved']</g:internal_label>
     </item>
 <item>
-      <g:id>SVS-655527</g:id>
-      <g:title><![CDATA[Blid Yoga]]></g:title>
-      <g:description><![CDATA[Gå til Blid Yoga i Slagelse, Næstved, Ringsted, Sorø og Korsør. Skånsom yoga for alle, der styrker kroppen og øger smidighed.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-syd-og-vestsjaelland/blid-yoga?holdnr=655527</g:link>
-      <g:image_link>https://www.fof.dk/media/zi1a2ja4/blid-yoga-kursus-fof-aftenskolen.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1055.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Syd- og Vestsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Yoga</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Yoga</g:custom_label_2>
-      <g:custom_label_4>Ringsted</g:custom_label_4>
-      <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Ringsted</g:custom_label_3>
-      <g:internal_label>['Ringsted','Kalender - Januar']</g:internal_label>
-    </item>
-<item>
       <g:id>SVS-107227</g:id>
       <g:title><![CDATA[Martinus' åndsvidenskab]]></g:title>
       <g:description><![CDATA[Dyk ned i Martinus’ åndsvidenskab på kursus i Slagelse. Lær om kosmisk bevidsthed, livets struktur, symboler og hvordan tanker påvirker vores fysiske og psykiske velbefindende.]]></g:description>
@@ -556,6 +534,50 @@
       <g:internal_label>['Slagelse','Kalender - Januar','Foredrag']</g:internal_label>
     </item>
 <item>
+      <g:id>SVS-655527</g:id>
+      <g:title><![CDATA[Blid Yoga]]></g:title>
+      <g:description><![CDATA[Gå til Blid Yoga i Slagelse, Næstved, Ringsted, Sorø og Korsør. Skånsom yoga for alle, der styrker kroppen og øger smidighed.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-syd-og-vestsjaelland/blid-yoga?holdnr=655527</g:link>
+      <g:image_link>https://www.fof.dk/media/zi1a2ja4/blid-yoga-kursus-fof-aftenskolen.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1055.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Syd- og Vestsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Yoga</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Ringsted</g:custom_label_4>
+      <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Ringsted</g:custom_label_3>
+      <g:internal_label>['Ringsted','Kalender - Januar']</g:internal_label>
+    </item>
+<item>
+      <g:id>SVS-168027</g:id>
+      <g:title><![CDATA[Tegning]]></g:title>
+      <g:description><![CDATA[Find både akvarel kursus i weekend og hverdage. Mal akvarel i et kreativt fællesskab i Næstved og Slagelse. Udforsk farver, lys og teknikker og udvikl dit personlige udtryk. Tilmeld dig hos FOF.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-syd-og-vestsjaelland/maleri-med-akvarel?holdnr=168027</g:link>
+      <g:image_link>https://www.fof.dk/media/asujir2a/akvarel-begynder-malekursus-fof-aftenskolen.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1235.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Syd- og Vestsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Kreative kurser &gt; Malekurser</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Kreative kurser</g:custom_label_1>
+      <g:custom_label_2>Malekurser</g:custom_label_2>
+      <g:custom_label_4>Slagelse</g:custom_label_4>
+      <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Tema - Asien</g:custom_label_3>
+      <g:internal_label>['Tema - Asien','Efterår','Slagelse']</g:internal_label>
+    </item>
+<item>
       <g:id>SVS-167827</g:id>
       <g:title><![CDATA[Tegning og akvarel - for begyndere]]></g:title>
       <g:description><![CDATA[Lær grundlæggende tegning og akvarel på et kreativt kursus for begyndere i Ringsted og Sorø. Få teknikker til skitser, farver og observation hos FOF.]]></g:description>
@@ -574,8 +596,8 @@
       <g:custom_label_2>Tegnekurser</g:custom_label_2>
       <g:custom_label_4>Slagelse</g:custom_label_4>
       <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Familie</g:custom_label_3>
-      <g:internal_label>['Familie','Slagelse']</g:internal_label>
+      <g:custom_label_3>Slagelse</g:custom_label_3>
+      <g:internal_label>['Slagelse','Kalender - Januar','Familie']</g:internal_label>
     </item>
 <item>
       <g:id>SVS-807127</g:id>
@@ -622,6 +644,27 @@
       <g:internal_label>['Kalender - Januar','Korsør']</g:internal_label>
     </item>
 <item>
+      <g:id>SVS-646027</g:id>
+      <g:title><![CDATA[Hensyntagende bevægelse og afspænding]]></g:title>
+      <g:description><![CDATA[Skånsom bevægelse og afspænding i Ringsted. Træn led, muskler og åndedræt i trygge rammer på små hold med individuel vejledning hos FOF.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-syd-og-vestsjaelland/hensyntagende-bevaegelse-og-afspaending?holdnr=646027</g:link>
+      <g:image_link>https://www.fof.dk/media/kkpn2vjl/hensyntagende-bevaegelse-og-afspaending-ringsted-fof-aftenskolen.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>705.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Syd- og Vestsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Bevægelse og afspænding</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Bevægelse og afspænding</g:custom_label_2>
+      <g:custom_label_4>Ringsted</g:custom_label_4>
+      <g:start_date>2027-01-27T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Ringsted']</g:internal_label>
+    </item>
+<item>
       <g:id>SVS-355227</g:id>
       <g:title><![CDATA[Yin Yoga]]></g:title>
       <g:description><![CDATA[Gå til Yin Yoga i Næstved og Slagelse – rolige stræk og åndedræt, der giver smidighed, ro og balance. Små hold og personlig vejledning hos FOF.]]></g:description>
@@ -642,6 +685,27 @@
       <g:start_date>2027-01-27T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Sorø</g:custom_label_3>
       <g:internal_label>['Sorø','Kalender - Januar']</g:internal_label>
+    </item>
+<item>
+      <g:id>SVS-646127</g:id>
+      <g:title><![CDATA[Hensyntagende bevægelse og afspænding]]></g:title>
+      <g:description><![CDATA[Skånsom bevægelse og afspænding i Ringsted. Træn led, muskler og åndedræt i trygge rammer på små hold med individuel vejledning hos FOF.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-syd-og-vestsjaelland/hensyntagende-bevaegelse-og-afspaending?holdnr=646127</g:link>
+      <g:image_link>https://www.fof.dk/media/kkpn2vjl/hensyntagende-bevaegelse-og-afspaending-ringsted-fof-aftenskolen.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>705.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Syd- og Vestsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Bevægelse og afspænding</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Bevægelse og afspænding</g:custom_label_2>
+      <g:custom_label_4>Ringsted</g:custom_label_4>
+      <g:start_date>2027-01-28T00:00:00.000Z</g:start_date>
+      <g:internal_label>['Ringsted']</g:internal_label>
     </item>
 <item>
       <g:id>SVS-107027</g:id>
@@ -816,6 +880,7 @@
       <g:custom_label_2>Mindfulness og meditation</g:custom_label_2>
       <g:custom_label_4>Sorø</g:custom_label_4>
       <g:start_date>2027-02-04T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Sorø</g:custom_label_3>
       <g:internal_label>['Sorø']</g:internal_label>
     </item>
 <item>
@@ -903,6 +968,7 @@
       <g:custom_label_2>Foto og video</g:custom_label_2>
       <g:custom_label_4>Sorø</g:custom_label_4>
       <g:start_date>2027-02-06T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Sorø</g:custom_label_3>
       <g:internal_label>['Sorø']</g:internal_label>
     </item>
 <item>
@@ -990,8 +1056,8 @@
       <g:custom_label_2>Tegnekurser</g:custom_label_2>
       <g:custom_label_4>Sorø</g:custom_label_4>
       <g:start_date>2027-02-11T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Familie</g:custom_label_3>
-      <g:internal_label>['Familie','Sorø']</g:internal_label>
+      <g:custom_label_3>Sorø</g:custom_label_3>
+      <g:internal_label>['Sorø','Familie']</g:internal_label>
     </item>
 <item>
       <g:id>SVS-845627</g:id>
@@ -1012,6 +1078,7 @@
       <g:custom_label_2>Mindfulness og meditation</g:custom_label_2>
       <g:custom_label_4>Næstved</g:custom_label_4>
       <g:start_date>2027-02-11T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Næstved</g:custom_label_3>
       <g:internal_label>['Næstved']</g:internal_label>
     </item>
 <item>
@@ -1187,6 +1254,7 @@
       <g:custom_label_2>Kunstig intelligens - AI</g:custom_label_2>
       <g:custom_label_4>Ringsted</g:custom_label_4>
       <g:start_date>2027-02-23T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Ringsted</g:custom_label_3>
       <g:internal_label>['Ringsted']</g:internal_label>
     </item>
 <item>
@@ -1230,6 +1298,7 @@
       <g:custom_label_2>Kunstig intelligens - AI</g:custom_label_2>
       <g:custom_label_4>Ringsted</g:custom_label_4>
       <g:start_date>2027-02-23T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Ringsted</g:custom_label_3>
       <g:internal_label>['Ringsted']</g:internal_label>
     </item>
 <item>
@@ -1251,6 +1320,7 @@
       <g:custom_label_2>Mindfulness og meditation</g:custom_label_2>
       <g:custom_label_4>Ringsted</g:custom_label_4>
       <g:start_date>2027-02-25T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Ringsted</g:custom_label_3>
       <g:internal_label>['Ringsted']</g:internal_label>
     </item>
 <item>
@@ -1756,6 +1826,7 @@
       <g:custom_label_2>Mindfulness og meditation</g:custom_label_2>
       <g:custom_label_4>Næstved</g:custom_label_4>
       <g:start_date>2027-03-20T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Næstved</g:custom_label_3>
       <g:internal_label>['Næstved']</g:internal_label>
     </item>
 <item>
@@ -1821,6 +1892,7 @@
       <g:custom_label_2>Kunstig intelligens - AI</g:custom_label_2>
       <g:custom_label_4>Ringsted</g:custom_label_4>
       <g:start_date>2027-03-30T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Ringsted</g:custom_label_3>
       <g:internal_label>['Ringsted']</g:internal_label>
     </item>
 <item>
@@ -1842,6 +1914,7 @@
       <g:custom_label_2>Kunstig intelligens - AI</g:custom_label_2>
       <g:custom_label_4>Ringsted</g:custom_label_4>
       <g:start_date>2027-03-30T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Ringsted</g:custom_label_3>
       <g:internal_label>['Ringsted']</g:internal_label>
     </item>
 <item>
@@ -2084,6 +2157,50 @@
       <g:start_date>2027-04-17T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Ringsted</g:custom_label_3>
       <g:internal_label>['Ringsted','Endagskurser']</g:internal_label>
+    </item>
+<item>
+      <g:id>SVS-866727</g:id>
+      <g:title><![CDATA[Makeup workshop – Lær at lægge naturlig makeup]]></g:title>
+      <g:description><![CDATA[Få styr på din makeup og lær at lægge et naturligt look, der passer til dig. Skånsomme produkter, hygge og vejledning i små hold hos FOF. Husk at tilføje bynavn i metadata, hvis relevant.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-syd-og-vestsjaelland/makeup-workshop?holdnr=866727</g:link>
+      <g:image_link>https://www.fof.dk/media/2supfpd0/makeup-workshop-fof-aftenskolen.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>395.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Syd- og Vestsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Livsstil og trivsel</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Livsstil og trivsel</g:custom_label_1>
+      <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Næstved</g:custom_label_4>
+      <g:start_date>2027-04-17T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Endagskurser</g:custom_label_3>
+      <g:internal_label>['Endagskurser','Næstved']</g:internal_label>
+    </item>
+<item>
+      <g:id>SVS-866827</g:id>
+      <g:title><![CDATA[Makeup workshop – Lær at lægge naturlig makeup]]></g:title>
+      <g:description><![CDATA[Få styr på din makeup og lær at lægge et naturligt look, der passer til dig. Skånsomme produkter, hygge og vejledning i små hold hos FOF. Husk at tilføje bynavn i metadata, hvis relevant.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-syd-og-vestsjaelland/makeup-workshop?holdnr=866827</g:link>
+      <g:image_link>https://www.fof.dk/media/2supfpd0/makeup-workshop-fof-aftenskolen.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>395.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Syd- og Vestsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Livsstil og trivsel</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Livsstil og trivsel</g:custom_label_1>
+      <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Næstved</g:custom_label_4>
+      <g:start_date>2027-04-17T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Endagskurser</g:custom_label_3>
+      <g:internal_label>['Endagskurser','Næstved']</g:internal_label>
     </item>
 <item>
       <g:id>SVS-885327</g:id>

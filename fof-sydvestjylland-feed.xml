@@ -358,28 +358,6 @@
       <g:internal_label>['Yoga','Fanø','Bramming']</g:internal_label>
     </item>
 <item>
-      <g:id>SVJ-2710315</g:id>
-      <g:title><![CDATA[Design med nål og tråd - B. Andersen - hver 2. uge]]></g:title>
-      <g:description><![CDATA[Lær at sy dit eget tøj på et hyggeligt sykursus hos FOF. For begyndere og øvede – få vejledning, inspiration og kreativt fællesskab. Se mere her.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-sydvestjylland/sykursus-for-alle?holdnr=2710315</g:link>
-      <g:image_link>https://www.fof.dk/media/2p2hxvcg/syning-fof-aftenskolen-13.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>985.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Sydvestjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Kreative kurser &gt; Syning</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Kreative kurser</g:custom_label_1>
-      <g:custom_label_2>Syning</g:custom_label_2>
-      <g:custom_label_4>Esbjerg</g:custom_label_4>
-      <g:start_date>2027-01-11T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Fanø</g:custom_label_3>
-      <g:internal_label>['Fanø','Syning','Kreative kurser','Esbjerg']</g:internal_label>
-    </item>
-<item>
       <g:id>SVJ-2710501</g:id>
       <g:title><![CDATA[Yoga - Lilly Julier]]></g:title>
       <g:description><![CDATA[Find ro, styrke og balance med yoga hos FOF Sydvestjylland. Vælg mellem Yin, Hatha, Flow og Restorativ yoga i Esbjerg, Varde og på Fanø. Læs mere her]]></g:description>
@@ -1168,6 +1146,28 @@
       <g:custom_label_2>Koreansk</g:custom_label_2>
       <g:custom_label_4>Esbjerg</g:custom_label_4>
       <g:start_date>2027-01-18T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Sprog</g:custom_label_3>
+      <g:internal_label>['Sprog','Esbjerg']</g:internal_label>
+    </item>
+<item>
+      <g:id>SVJ-2710810</g:id>
+      <g:title><![CDATA[Spansk for letøvede]]></g:title>
+      <g:description><![CDATA[Lær spansk eller bliv bedre til det i trygge rammer. FOF Aftenskolen tilbyder sjov og varieret undervisning i spansk på flere niveauer.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydvestjylland/spansk?holdnr=2710810</g:link>
+      <g:image_link>https://www.fof.dk/media/q4ihv2bx/sprog-spansk-letoevede-vest-fof-aftenskolen.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1370.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydvestjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Sprog &gt; Spansk</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Sprog</g:custom_label_1>
+      <g:custom_label_2>Spansk</g:custom_label_2>
+      <g:custom_label_4>Esbjerg</g:custom_label_4>
+      <g:start_date>2027-01-19T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Sprog</g:custom_label_3>
       <g:internal_label>['Sprog','Esbjerg']</g:internal_label>
     </item>
@@ -2405,7 +2405,7 @@
     </item>
 <item>
       <g:id>SVJ-2710472</g:id>
-      <g:title><![CDATA[Workshop: Autentisk mexicansk madlavning - Tacos fra Hidalgo]]></g:title>
+      <g:title><![CDATA[Workshop: Authentic Mexican Cooking - Tacos from Hidalgo (In English)]]></g:title>
       <g:description><![CDATA[Lær at lave autentiske mexicanske tacos, guacamole og salsa fra bunden hos FOF. Alle er velkomne, også vegetarer. Tilmeld dig her.]]></g:description>
       <g:link>https://www.fof.dk/aftenskolen/fof-sydvestjylland/workshop-autentisk-mexicansk-madlavning-tacos-fra-hidago?holdnr=2710472</g:link>
       <g:image_link>https://www.fof.dk/media/chzotcss/kurser-madlavning-mexicansk-mad-sydvestjylland-fof-aftenskolen.jpg?width=1200</g:image_link>
@@ -2688,6 +2688,28 @@
       <g:start_date>2027-03-13T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Esbjerg</g:custom_label_3>
       <g:internal_label>['Esbjerg','Madlavning og drikkevarer','Fanø','Ribe']</g:internal_label>
+    </item>
+<item>
+      <g:id>SVJ-2710017</g:id>
+      <g:title><![CDATA[Krokusblomstring i Husum og besøg på Mikkelberg]]></g:title>
+      <g:description><![CDATA[Oplev Husums berømte krokusblomstring og nordisk kunst på Mikkelberg. En tryg dagstur med guide, bus og frokost. Book din plads hos FOF.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydvestjylland/krokusblomstring-i-husum-og-besoeg-paa-mikkelberg?holdnr=2710017</g:link>
+      <g:image_link>https://www.fof.dk/media/fmqdfihc/krokusblomstring-i-husum-og-besoeg-paa-mikkelberg-sydvestjylland-fof-aftenskolen.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>595.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydvestjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Rejser, ture og rundvisninger &gt; Udflugter og dagsture</g:product_type>
+      <g:custom_label_0>Rejser, ture og rundvisninger</g:custom_label_0>
+      <g:custom_label_1>Udflugter og dagsture</g:custom_label_1>
+      <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4></g:custom_label_4>
+      <g:start_date>2027-03-13T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Ture og rundvisninger</g:custom_label_3>
+      <g:internal_label>['Ture og rundvisninger']</g:internal_label>
     </item>
 <item>
       <g:id>SVJ-2710202</g:id>
