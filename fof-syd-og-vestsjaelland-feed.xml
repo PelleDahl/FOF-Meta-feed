@@ -512,28 +512,6 @@
       <g:internal_label>['Næstved','Kalender - Januar','Endagskurser','Sandved']</g:internal_label>
     </item>
 <item>
-      <g:id>SVS-107227</g:id>
-      <g:title><![CDATA[Martinus' åndsvidenskab]]></g:title>
-      <g:description><![CDATA[Dyk ned i Martinus’ åndsvidenskab på kursus i Slagelse. Lær om kosmisk bevidsthed, livets struktur, symboler og hvordan tanker påvirker vores fysiske og psykiske velbefindende.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-syd-og-vestsjaelland/martinus?holdnr=107227</g:link>
-      <g:image_link>https://www.fof.dk/media/5zchnecj/martinus-foraar-2027-slagelse-fof-aftenskolen.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>900.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Syd- og Vestsjælland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Foredrag, debat og højskoler &gt; Foredragsrækker</g:product_type>
-      <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
-      <g:custom_label_1>Foredragsrækker</g:custom_label_1>
-      <g:custom_label_2></g:custom_label_2>
-      <g:custom_label_4>Slagelse</g:custom_label_4>
-      <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Slagelse</g:custom_label_3>
-      <g:internal_label>['Slagelse','Kalender - Januar','Foredrag']</g:internal_label>
-    </item>
-<item>
       <g:id>SVS-655527</g:id>
       <g:title><![CDATA[Blid Yoga]]></g:title>
       <g:description><![CDATA[Gå til Blid Yoga i Slagelse, Næstved, Ringsted, Sorø og Korsør. Skånsom yoga for alle, der styrker kroppen og øger smidighed.]]></g:description>
@@ -554,6 +532,28 @@
       <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Ringsted</g:custom_label_3>
       <g:internal_label>['Ringsted','Kalender - Januar']</g:internal_label>
+    </item>
+<item>
+      <g:id>SVS-107227</g:id>
+      <g:title><![CDATA[Martinus' åndsvidenskab]]></g:title>
+      <g:description><![CDATA[Dyk ned i Martinus’ åndsvidenskab på kursus i Slagelse. Lær om kosmisk bevidsthed, livets struktur, symboler og hvordan tanker påvirker vores fysiske og psykiske velbefindende.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-syd-og-vestsjaelland/martinus?holdnr=107227</g:link>
+      <g:image_link>https://www.fof.dk/media/5zchnecj/martinus-foraar-2027-slagelse-fof-aftenskolen.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>900.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Syd- og Vestsjælland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Foredrag, debat og højskoler &gt; Foredragsrækker</g:product_type>
+      <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
+      <g:custom_label_1>Foredragsrækker</g:custom_label_1>
+      <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Slagelse</g:custom_label_4>
+      <g:start_date>2027-01-25T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Slagelse</g:custom_label_3>
+      <g:internal_label>['Slagelse','Kalender - Januar','Foredrag']</g:internal_label>
     </item>
 <item>
       <g:id>SVS-167827</g:id>

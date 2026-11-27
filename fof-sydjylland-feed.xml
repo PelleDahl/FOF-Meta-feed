@@ -6,28 +6,6 @@
 <description>Meta produktfeed med alle ledige hold fra FOF Sydjylland</description>
 <language>da-DK</language>
 <item>
-      <g:id>SJY-2620307</g:id>
-      <g:title><![CDATA[Dus med himlens fugle - Morten Korch]]></g:title>
-      <g:description><![CDATA[Oplev et levende foredrag om Morten Korch i Kolding med Esther Rützou. Få historien om forfatterens liv, bøger og succes. Se mere og tilmeld dig.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-sydjylland/morten-korch-fh?holdnr=2620307</g:link>
-      <g:image_link>https://www.fof.dk/media/ootdlxp3/morten-korch-262.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>165.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Sydjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Foredrag, debat og højskoler &gt; Kultur og livsfortællinger</g:product_type>
-      <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
-      <g:custom_label_1>Kultur og livsfortællinger</g:custom_label_1>
-      <g:custom_label_2></g:custom_label_2>
-      <g:custom_label_4>Kolding</g:custom_label_4>
-      <g:start_date>2026-11-27T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Efterår</g:custom_label_3>
-      <g:internal_label>['Efterår','Kolding','Hold til under 200 kr','Starter snart']</g:internal_label>
-    </item>
-<item>
       <g:id>SJY-2626504</g:id>
       <g:title><![CDATA[Mindre découpager]]></g:title>
       <g:description><![CDATA[Lær at lave dine helt egne personlige lejlighedskort ud af kulørte blade. Det er kun fantasien der sætter grænser. Alle kan være med. Se mere og tilmeld dig.]]></g:description>
@@ -600,28 +578,6 @@
       <g:internal_label>['Hensyntagende','Motion og sundhed','Yoga','Kolding']</g:internal_label>
     </item>
 <item>
-      <g:id>SJY-2715051</g:id>
-      <g:title><![CDATA[Yoga for mænd]]></g:title>
-      <g:description><![CDATA[Yoga for mænd, der vil styrke kroppen, blive mere smidig og mindske stress. Få bedre balance og forebyg stivhed i led og muskler. Se mere og tilmeld dig.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-sydjylland/yoga-for-maend?holdnr=2715051</g:link>
-      <g:image_link>https://www.fof.dk/media/bcuhalui/yoga-for-maend-180522.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>2019.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Sydjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Yoga</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Yoga</g:custom_label_2>
-      <g:custom_label_4>Kolding</g:custom_label_4>
-      <g:start_date>2027-01-06T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Yoga</g:custom_label_3>
-      <g:internal_label>['Yoga','Motion og sundhed','Kolding']</g:internal_label>
-    </item>
-<item>
       <g:id>SJY-2713980</g:id>
       <g:title><![CDATA[Kolding Pipe Band]]></g:title>
       <g:description><![CDATA[Et sækkepibeband for dig der har den basale teknik på plads. Se mere og bliv en del af det musikalske fællesskab.]]></g:description>
@@ -664,6 +620,28 @@
       <g:start_date>2027-01-06T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Motion og sundhed</g:custom_label_3>
       <g:internal_label>['Motion og sundhed','Yoga','Kolding']</g:internal_label>
+    </item>
+<item>
+      <g:id>SJY-2715051</g:id>
+      <g:title><![CDATA[Yoga for mænd]]></g:title>
+      <g:description><![CDATA[Yoga for mænd, der vil styrke kroppen, blive mere smidig og mindske stress. Få bedre balance og forebyg stivhed i led og muskler. Se mere og tilmeld dig.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydjylland/yoga-for-maend?holdnr=2715051</g:link>
+      <g:image_link>https://www.fof.dk/media/bcuhalui/yoga-for-maend-180522.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>2019.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Yoga</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Kolding</g:custom_label_4>
+      <g:start_date>2027-01-06T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Yoga</g:custom_label_3>
+      <g:internal_label>['Yoga','Motion og sundhed','Kolding']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2718576</g:id>
@@ -864,6 +842,28 @@
       <g:internal_label>['Kolding','Mensendieck','Motion og sundhed','Bevægelse og afspænding']</g:internal_label>
     </item>
 <item>
+      <g:id>SJY-2715157</g:id>
+      <g:title><![CDATA[Yoga for seniorer]]></g:title>
+      <g:description><![CDATA[Oplev glæden ved blid yoga for seniorer i Kolding. Styrk kroppen, forbedr balancen og få mere energi og velvære med rolige øvelser, åndedræt og afspænding. Se mere og tilmeld dig.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydjylland/yoga-for-seniorer?holdnr=2715157</g:link>
+      <g:image_link>https://www.fof.dk/media/ngggrzzu/yoga-2.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1709.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Yoga</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Kolding</g:custom_label_4>
+      <g:start_date>2027-01-07T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Motion og sundhed</g:custom_label_3>
+      <g:internal_label>['Motion og sundhed','Yoga','Kolding']</g:internal_label>
+    </item>
+<item>
       <g:id>SJY-2715505</g:id>
       <g:title><![CDATA[Mensendieck]]></g:title>
       <g:description><![CDATA[God bevægelse og optimal holdning starter her. Få en velfungerende krop med en god holdning. Se mere og tilmeld dig.]]></g:description>
@@ -906,28 +906,6 @@
       <g:start_date>2027-01-07T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Kolding</g:custom_label_3>
       <g:internal_label>['Kolding','Mensendieck','Motion og sundhed','Bevægelse og afspænding']</g:internal_label>
-    </item>
-<item>
-      <g:id>SJY-2715157</g:id>
-      <g:title><![CDATA[Yoga for seniorer]]></g:title>
-      <g:description><![CDATA[Oplev glæden ved blid yoga for seniorer i Kolding. Styrk kroppen, forbedr balancen og få mere energi og velvære med rolige øvelser, åndedræt og afspænding. Se mere og tilmeld dig.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-sydjylland/yoga-for-seniorer?holdnr=2715157</g:link>
-      <g:image_link>https://www.fof.dk/media/ngggrzzu/yoga-2.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1709.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Sydjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Yoga</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Yoga</g:custom_label_2>
-      <g:custom_label_4>Kolding</g:custom_label_4>
-      <g:start_date>2027-01-07T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Motion og sundhed</g:custom_label_3>
-      <g:internal_label>['Motion og sundhed','Yoga','Kolding']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2718581</g:id>
@@ -1084,28 +1062,6 @@
       <g:internal_label>['Hensyntagende','Træning i vand','Motion og sundhed','For gigtramte','Rødding']</g:internal_label>
     </item>
 <item>
-      <g:id>SJY-2718580</g:id>
-      <g:title><![CDATA[GOK bevægelse for gigt ramte i varmt vand]]></g:title>
-      <g:description><![CDATA[For dig som har behov for skånsom træning, og derfor ikke kan deltage på almindeligt hold i bassin. Se mere og tilmeld dig.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-sydjylland/gok-saerligt-tilrettelagt?holdnr=2718580</g:link>
-      <g:image_link>https://www.fof.dk/media/vnnjc5yq/vandhold-8.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1035.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Sydjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Træning i vand</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Træning i vand</g:custom_label_2>
-      <g:custom_label_4>Rødding</g:custom_label_4>
-      <g:start_date>2027-01-07T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Hensyntagende</g:custom_label_3>
-      <g:internal_label>['Hensyntagende','Træning i vand','Motion og sundhed','For gigtramte','Rødding']</g:internal_label>
-    </item>
-<item>
       <g:id>SJY-2715501</g:id>
       <g:title><![CDATA[Mensendieck]]></g:title>
       <g:description><![CDATA[God bevægelse og optimal holdning starter her. Få en velfungerende krop med en god holdning. Se mere og tilmeld dig.]]></g:description>
@@ -1126,6 +1082,28 @@
       <g:start_date>2027-01-07T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Kolding</g:custom_label_3>
       <g:internal_label>['Kolding','Mensendieck','Motion og sundhed','Bevægelse og afspænding']</g:internal_label>
+    </item>
+<item>
+      <g:id>SJY-2718580</g:id>
+      <g:title><![CDATA[GOK bevægelse for gigt ramte i varmt vand]]></g:title>
+      <g:description><![CDATA[For dig som har behov for skånsom træning, og derfor ikke kan deltage på almindeligt hold i bassin. Se mere og tilmeld dig.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydjylland/gok-saerligt-tilrettelagt?holdnr=2718580</g:link>
+      <g:image_link>https://www.fof.dk/media/vnnjc5yq/vandhold-8.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1035.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Træning i vand</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Træning i vand</g:custom_label_2>
+      <g:custom_label_4>Rødding</g:custom_label_4>
+      <g:start_date>2027-01-07T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Hensyntagende</g:custom_label_3>
+      <g:internal_label>['Hensyntagende','Træning i vand','Motion og sundhed','For gigtramte','Rødding']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2715508</g:id>
@@ -1260,28 +1238,6 @@
       <g:internal_label>['Krea','Keramik','Keramik - Drejning','Kolding']</g:internal_label>
     </item>
 <item>
-      <g:id>SJY-2718570</g:id>
-      <g:title><![CDATA[GOK bevægelse for gigt ramte i varmt vand]]></g:title>
-      <g:description><![CDATA[For dig som har behov for skånsom træning, og derfor ikke kan deltage på almindeligt hold i bassin. Se mere og tilmeld dig.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-sydjylland/gok-saerligt-tilrettelagt?holdnr=2718570</g:link>
-      <g:image_link>https://www.fof.dk/media/vnnjc5yq/vandhold-8.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1085.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Sydjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Træning i vand</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Træning i vand</g:custom_label_2>
-      <g:custom_label_4>Rødding</g:custom_label_4>
-      <g:start_date>2027-01-11T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Hensyntagende</g:custom_label_3>
-      <g:internal_label>['Hensyntagende','Træning i vand','Motion og sundhed','For gigtramte','Rødding']</g:internal_label>
-    </item>
-<item>
       <g:id>SJY-2716082</g:id>
       <g:title><![CDATA[Knipling og orkis - OK-Skolen]]></g:title>
       <g:description><![CDATA[Knipling og orkis er en afstressende hobby. Der arbejdes med klassisk og fri knipling, mønsterforståelse og materialelære. Se mere og tilmeld dig.]]></g:description>
@@ -1302,6 +1258,28 @@
       <g:start_date>2027-01-11T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Krea</g:custom_label_3>
       <g:internal_label>['Krea','Håndarbejde','Kolding']</g:internal_label>
+    </item>
+<item>
+      <g:id>SJY-2718570</g:id>
+      <g:title><![CDATA[GOK bevægelse for gigt ramte i varmt vand]]></g:title>
+      <g:description><![CDATA[For dig som har behov for skånsom træning, og derfor ikke kan deltage på almindeligt hold i bassin. Se mere og tilmeld dig.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydjylland/gok-saerligt-tilrettelagt?holdnr=2718570</g:link>
+      <g:image_link>https://www.fof.dk/media/vnnjc5yq/vandhold-8.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1085.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Træning i vand</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Træning i vand</g:custom_label_2>
+      <g:custom_label_4>Rødding</g:custom_label_4>
+      <g:start_date>2027-01-11T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Hensyntagende</g:custom_label_3>
+      <g:internal_label>['Hensyntagende','Træning i vand','Motion og sundhed','For gigtramte','Rødding']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2718572</g:id>
@@ -1766,28 +1744,6 @@
       <g:internal_label>['Kolding','Familie']</g:internal_label>
     </item>
 <item>
-      <g:id>SJY-2719308</g:id>
-      <g:title><![CDATA[Bevægelse i varmt vand - Aktiv i Aftenskolen]]></g:title>
-      <g:description><![CDATA[Få skånsom varmtvandstræning med styrkende øvelser, der forbedrer balancen og bevægeligheden. Træn trygt i dit eget tempo. Se mere og tilmeld dig.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-sydjylland/bevaegelse-i-varmt-vand-aktiv-i-aftenskolen?holdnr=2719308</g:link>
-      <g:image_link>https://www.fof.dk/media/3ilpacei/vandhold-5.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>665.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Sydjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Træning i vand</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Træning i vand</g:custom_label_2>
-      <g:custom_label_4>Tønder</g:custom_label_4>
-      <g:start_date>2027-01-18T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Tønder</g:custom_label_3>
-      <g:internal_label>['Tønder','Hensyntagende','Træning i vand','Motion og sundhed']</g:internal_label>
-    </item>
-<item>
       <g:id>SJY-2718136</g:id>
       <g:title><![CDATA[Kom trygt videre - Særligt tilrettelagt]]></g:title>
       <g:description><![CDATA[Bliv tryg ved træning med en fysioterapeut. Træn styrke, balance og bevægelighed med øvelser tilpasset dig. Se mere og tilmeld dig.]]></g:description>
@@ -1808,6 +1764,28 @@
       <g:start_date>2027-01-18T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Kolding</g:custom_label_3>
       <g:internal_label>['Kolding','Hensyntagende','Motion og sundhed','Styrke- og konditionstræning']</g:internal_label>
+    </item>
+<item>
+      <g:id>SJY-2719308</g:id>
+      <g:title><![CDATA[Bevægelse i varmt vand - Aktiv i Aftenskolen]]></g:title>
+      <g:description><![CDATA[Få skånsom varmtvandstræning med styrkende øvelser, der forbedrer balancen og bevægeligheden. Træn trygt i dit eget tempo. Se mere og tilmeld dig.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydjylland/bevaegelse-i-varmt-vand-aktiv-i-aftenskolen?holdnr=2719308</g:link>
+      <g:image_link>https://www.fof.dk/media/3ilpacei/vandhold-5.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>665.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Træning i vand</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Træning i vand</g:custom_label_2>
+      <g:custom_label_4>Tønder</g:custom_label_4>
+      <g:start_date>2027-01-18T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Tønder</g:custom_label_3>
+      <g:internal_label>['Tønder','Hensyntagende','Træning i vand','Motion og sundhed']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2715283</g:id>
@@ -2666,28 +2644,6 @@
       <g:start_date>2027-01-26T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Kolding</g:custom_label_3>
       <g:internal_label>['Kolding','It og foto']</g:internal_label>
-    </item>
-<item>
-      <g:id>SJY-2710500</g:id>
-      <g:title><![CDATA[Kulturhøjskolen på Tørning Mølle - forår 2027]]></g:title>
-      <g:description><![CDATA[Oplev 5 spændende foredrag på Tørning Mølle og 1 oplevelsesrig tur i foråret med Kulturhøjskolen. Se mere og tilmeld dig.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-sydjylland/kulturhoejskolens-foraarsprogram?holdnr=2710500</g:link>
-      <g:image_link>https://www.fof.dk/media/pshlvyu0/toerning-moelle-luftfoto-1.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>845.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Sydjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Foredrag, debat og højskoler &gt; Højskoleforløb</g:product_type>
-      <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
-      <g:custom_label_1>Højskoleforløb</g:custom_label_1>
-      <g:custom_label_2></g:custom_label_2>
-      <g:custom_label_4>Vojens</g:custom_label_4>
-      <g:start_date>2027-01-26T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>KH forår - samlet</g:custom_label_3>
-      <g:internal_label>['KH forår - samlet','Højskole','Vojens']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2714115</g:id>
