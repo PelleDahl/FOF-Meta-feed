@@ -6,28 +6,6 @@
 <description>Meta produktfeed med alle ledige hold fra FOF Sydjylland</description>
 <language>da-DK</language>
 <item>
-      <g:id>SJY-2626504</g:id>
-      <g:title><![CDATA[Mindre découpager]]></g:title>
-      <g:description><![CDATA[Lær at lave dine helt egne personlige lejlighedskort ud af kulørte blade. Det er kun fantasien der sætter grænser. Alle kan være med. Se mere og tilmeld dig.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-sydjylland/decoupage-kort?holdnr=2626504</g:link>
-      <g:image_link>https://www.fof.dk/media/xbdnjrm0/decoupager-221208-1.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>95.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Sydjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Kreative kurser &gt; Håndværk og kunsthåndværk</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Kreative kurser</g:custom_label_1>
-      <g:custom_label_2>Håndværk og kunsthåndværk</g:custom_label_2>
-      <g:custom_label_4>Kolding</g:custom_label_4>
-      <g:start_date>2026-11-28T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Kolding</g:custom_label_3>
-      <g:internal_label>['Kolding','Få pladser tilbage','Hold til under 200 kr','Starter snart','Håndværk og kunsthåndværk (Kunsthåndværk og DIY)','Krea']</g:internal_label>
-    </item>
-<item>
       <g:id>SJY-2625363</g:id>
       <g:title><![CDATA[Qi Gong - Kinesisk yoga]]></g:title>
       <g:description><![CDATA[Vi laver Qi Gong øvelser og bevægelser, som koblet sammen med et meditativt flow, styrker kroppen, åndedrættet og sindet. Se mere og tilmeld dig.]]></g:description>
@@ -1062,28 +1040,6 @@
       <g:internal_label>['Vejen','Hensyntagende','Træning i vand','Motion og sundhed','For gigtramte','Rødding']</g:internal_label>
     </item>
 <item>
-      <g:id>SJY-2715501</g:id>
-      <g:title><![CDATA[Mensendieck]]></g:title>
-      <g:description><![CDATA[God bevægelse og optimal holdning starter her. Få en velfungerende krop med en god holdning. Se mere og tilmeld dig.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-sydjylland/mensendieck?holdnr=2715501</g:link>
-      <g:image_link>https://www.fof.dk/media/wmsfocuj/mensendieck-3.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1580.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Sydjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Bevægelse og afspænding</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Bevægelse og afspænding</g:custom_label_2>
-      <g:custom_label_4>Kolding</g:custom_label_4>
-      <g:start_date>2027-01-07T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Kolding</g:custom_label_3>
-      <g:internal_label>['Kolding','Mensendieck','Motion og sundhed','Bevægelse og afspænding']</g:internal_label>
-    </item>
-<item>
       <g:id>SJY-2718580</g:id>
       <g:title><![CDATA[GOK bevægelse for gigt ramte i varmt vand]]></g:title>
       <g:description><![CDATA[For dig som har behov for skånsom træning, og derfor ikke kan deltage på almindeligt hold i bassin. Se mere og tilmeld dig.]]></g:description>
@@ -1106,10 +1062,10 @@
       <g:internal_label>['Vejen','Hensyntagende','Træning i vand','Motion og sundhed','For gigtramte','Rødding']</g:internal_label>
     </item>
 <item>
-      <g:id>SJY-2715508</g:id>
+      <g:id>SJY-2715501</g:id>
       <g:title><![CDATA[Mensendieck]]></g:title>
       <g:description><![CDATA[God bevægelse og optimal holdning starter her. Få en velfungerende krop med en god holdning. Se mere og tilmeld dig.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-sydjylland/mensendieck?holdnr=2715508</g:link>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydjylland/mensendieck?holdnr=2715501</g:link>
       <g:image_link>https://www.fof.dk/media/wmsfocuj/mensendieck-3.jpg?width=1200</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:quantity>1</g:quantity>
@@ -1128,10 +1084,10 @@
       <g:internal_label>['Kolding','Mensendieck','Motion og sundhed','Bevægelse og afspænding']</g:internal_label>
     </item>
 <item>
-      <g:id>SJY-2715502</g:id>
+      <g:id>SJY-2715508</g:id>
       <g:title><![CDATA[Mensendieck]]></g:title>
       <g:description><![CDATA[God bevægelse og optimal holdning starter her. Få en velfungerende krop med en god holdning. Se mere og tilmeld dig.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-sydjylland/mensendieck?holdnr=2715502</g:link>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydjylland/mensendieck?holdnr=2715508</g:link>
       <g:image_link>https://www.fof.dk/media/wmsfocuj/mensendieck-3.jpg?width=1200</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:quantity>1</g:quantity>
@@ -1170,6 +1126,28 @@
       <g:start_date>2027-01-07T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Kolding</g:custom_label_3>
       <g:internal_label>['Kolding','Motion og sundhed','Yoga']</g:internal_label>
+    </item>
+<item>
+      <g:id>SJY-2715502</g:id>
+      <g:title><![CDATA[Mensendieck]]></g:title>
+      <g:description><![CDATA[God bevægelse og optimal holdning starter her. Få en velfungerende krop med en god holdning. Se mere og tilmeld dig.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydjylland/mensendieck?holdnr=2715502</g:link>
+      <g:image_link>https://www.fof.dk/media/wmsfocuj/mensendieck-3.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1580.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Bevægelse og afspænding</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Bevægelse og afspænding</g:custom_label_2>
+      <g:custom_label_4>Kolding</g:custom_label_4>
+      <g:start_date>2027-01-07T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Kolding</g:custom_label_3>
+      <g:internal_label>['Kolding','Mensendieck','Motion og sundhed','Bevægelse og afspænding']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2716102</g:id>
@@ -1766,28 +1744,6 @@
       <g:internal_label>['Kolding','Familie']</g:internal_label>
     </item>
 <item>
-      <g:id>SJY-2718136</g:id>
-      <g:title><![CDATA[Kom trygt videre - Særligt tilrettelagt]]></g:title>
-      <g:description><![CDATA[Bliv tryg ved træning med en fysioterapeut. Træn styrke, balance og bevægelighed med øvelser tilpasset dig. Se mere og tilmeld dig.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-sydjylland/kom-trygt-videre-saerligt-tilrettelagt?holdnr=2718136</g:link>
-      <g:image_link>https://www.fof.dk/media/cnymywuj/tryg-traening-260811.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>549.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Sydjylland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Styrke- og konditionstræning</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Styrke- og konditionstræning</g:custom_label_2>
-      <g:custom_label_4>Kolding</g:custom_label_4>
-      <g:start_date>2027-01-18T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Kolding</g:custom_label_3>
-      <g:internal_label>['Kolding','Hensyntagende','Motion og sundhed','Styrke- og konditionstræning']</g:internal_label>
-    </item>
-<item>
       <g:id>SJY-2719308</g:id>
       <g:title><![CDATA[Bevægelse i varmt vand - Aktiv i Aftenskolen]]></g:title>
       <g:description><![CDATA[Få skånsom varmtvandstræning med styrkende øvelser, der forbedrer balancen og bevægeligheden. Træn trygt i dit eget tempo. Se mere og tilmeld dig.]]></g:description>
@@ -1808,6 +1764,28 @@
       <g:start_date>2027-01-18T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Tønder</g:custom_label_3>
       <g:internal_label>['Tønder','Hensyntagende','Træning i vand','Motion og sundhed']</g:internal_label>
+    </item>
+<item>
+      <g:id>SJY-2718136</g:id>
+      <g:title><![CDATA[Kom trygt videre - Særligt tilrettelagt]]></g:title>
+      <g:description><![CDATA[Bliv tryg ved træning med en fysioterapeut. Træn styrke, balance og bevægelighed med øvelser tilpasset dig. Se mere og tilmeld dig.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydjylland/kom-trygt-videre-saerligt-tilrettelagt?holdnr=2718136</g:link>
+      <g:image_link>https://www.fof.dk/media/cnymywuj/tryg-traening-260811.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>549.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Styrke- og konditionstræning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Styrke- og konditionstræning</g:custom_label_2>
+      <g:custom_label_4>Kolding</g:custom_label_4>
+      <g:start_date>2027-01-18T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Kolding</g:custom_label_3>
+      <g:internal_label>['Kolding','Hensyntagende','Motion og sundhed','Styrke- og konditionstræning']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2715283</g:id>
@@ -4690,6 +4668,28 @@
       <g:start_date>2027-04-20T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Kolding</g:custom_label_3>
       <g:internal_label>['Kolding','Krea','Keramik']</g:internal_label>
+    </item>
+<item>
+      <g:id>SJY-2710050</g:id>
+      <g:title><![CDATA[Karen Blixens "Sorg-Agre" på Tørning Mølle]]></g:title>
+      <g:description><![CDATA[Oplev Karen Blixens Sorg-Agre med Anne Lilballe på Tørning Mølle. Et levende foredrag om kærlighed, magt og afmagt i historiske omgivelser. Se mere og køb billet.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-sydjylland/anne-lilballe-som-karen-blixen?holdnr=2710050</g:link>
+      <g:image_link>https://www.fof.dk/media/ynedvdpe/anne-lilballe-som-karen-blixen-271.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>185.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Sydjylland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Foredrag, debat og højskoler &gt; Kultur og livsfortællinger</g:product_type>
+      <g:custom_label_0>Foredrag, debat og højskoler</g:custom_label_0>
+      <g:custom_label_1>Kultur og livsfortællinger</g:custom_label_1>
+      <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Vojens</g:custom_label_4>
+      <g:start_date>2027-04-20T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Foredrag</g:custom_label_3>
+      <g:internal_label>['Foredrag','Vojens']</g:internal_label>
     </item>
 <item>
       <g:id>SJY-2717801</g:id>

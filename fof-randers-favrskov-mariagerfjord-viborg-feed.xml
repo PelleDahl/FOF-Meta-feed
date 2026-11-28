@@ -6,28 +6,6 @@
 <description>Meta produktfeed med alle ledige hold fra FOF Randers-Favrskov-Mariagerfjord-Viborg</description>
 <language>da-DK</language>
 <item>
-      <g:id>RFMV-626607</g:id>
-      <g:title><![CDATA[Lys og skygge tegning]]></g:title>
-      <g:description><![CDATA[Lær en klassisk tegne teknik  for at opnå kontraster i din tegning. 3 timers workshop på en lørdag formiddag hos FOF randers]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-randers-favrskov-mariagerfjord-viborg/lys-og-skygge-tegning?holdnr=626607</g:link>
-      <g:image_link>https://www.fof.dk/media/msfh5kta/lys-og-skyggetegning-umbraco-kvadrat.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>215.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Randers-Favrskov-Mariagerfjord-Viborg</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Kreative kurser &gt; Tegnekurser</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Kreative kurser</g:custom_label_1>
-      <g:custom_label_2>Tegnekurser</g:custom_label_2>
-      <g:custom_label_4>Randers</g:custom_label_4>
-      <g:start_date>2026-11-28T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Starter snart (4 uger)</g:custom_label_3>
-      <g:internal_label>['Starter snart (4 uger)','1 dags kursus','Weekend','Randers','kurser under 300kr','Randers C']</g:internal_label>
-    </item>
-<item>
       <g:id>RFMV-620759</g:id>
       <g:title><![CDATA[Selvforsvar for kvinder - del 2]]></g:title>
       <g:description><![CDATA[Kunne du tænke dig at blive mere sikker på dig selv, stærk og tryg i din hverdag? Kom på FOF kursus kun for kvinder og lær selvforsvar i Randers eller Hinnerup. ]]></g:description>
@@ -250,28 +228,6 @@
       <g:internal_label>['Randers','Motion','Randers C']</g:internal_label>
     </item>
 <item>
-      <g:id>RFMV-710636</g:id>
-      <g:title><![CDATA[Klaver eller guitar]]></g:title>
-      <g:description><![CDATA[Gå til klaver eller guitar hos musikunderviser Esther Olesen. Du lærer akkorder og at spille efter noder så du kan spille mange forskellige sange, fx akkompagnere til fællessang på dit arbejde eller i familien. FOF aftenskolen har hold i Randers, Spentrup og Hobro.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-randers-favrskov-mariagerfjord-viborg/klaver-eller-guitar?holdnr=710636</g:link>
-      <g:image_link>https://www.fof.dk/media/0bbbasnv/guitar-og-klaver.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1130.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Randers-Favrskov-Mariagerfjord-Viborg</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Musik og sang</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Musik og sang</g:custom_label_1>
-      <g:custom_label_2></g:custom_label_2>
-      <g:custom_label_4>Randers</g:custom_label_4>
-      <g:start_date>2027-01-05T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Mariagerfjord</g:custom_label_3>
-      <g:internal_label>['Mariagerfjord','Randers','Randers NØ']</g:internal_label>
-    </item>
-<item>
       <g:id>RFMV-712324</g:id>
       <g:title><![CDATA[Pilates i Hobro Begyndere]]></g:title>
       <g:description><![CDATA[Vi har 3 Pilates hold i Medborgerhuset i Hobro, der er et Pilates hold for alle. Vi laver  Pilates med fokus på Pilates grundprincipperne, den klassiske Pilates hos FOF  Randers- Favrskov-Mariagerfjord- Viborg]]></g:description>
@@ -292,6 +248,28 @@
       <g:start_date>2027-01-05T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Mariagerfjord</g:custom_label_3>
       <g:internal_label>['Mariagerfjord','Motion','Hobro']</g:internal_label>
+    </item>
+<item>
+      <g:id>RFMV-710636</g:id>
+      <g:title><![CDATA[Klaver eller guitar]]></g:title>
+      <g:description><![CDATA[Gå til klaver eller guitar hos musikunderviser Esther Olesen. Du lærer akkorder og at spille efter noder så du kan spille mange forskellige sange, fx akkompagnere til fællessang på dit arbejde eller i familien. FOF aftenskolen har hold i Randers, Spentrup og Hobro.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-randers-favrskov-mariagerfjord-viborg/klaver-eller-guitar?holdnr=710636</g:link>
+      <g:image_link>https://www.fof.dk/media/0bbbasnv/guitar-og-klaver.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1130.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Randers-Favrskov-Mariagerfjord-Viborg</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Musik og sang</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Musik og sang</g:custom_label_1>
+      <g:custom_label_2></g:custom_label_2>
+      <g:custom_label_4>Randers</g:custom_label_4>
+      <g:start_date>2027-01-05T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Mariagerfjord</g:custom_label_3>
+      <g:internal_label>['Mariagerfjord','Randers','Randers NØ']</g:internal_label>
     </item>
 <item>
       <g:id>RFMV-716254</g:id>
