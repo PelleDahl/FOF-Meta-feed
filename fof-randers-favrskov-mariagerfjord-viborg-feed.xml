@@ -228,28 +228,6 @@
       <g:internal_label>['Randers','Motion','Randers C']</g:internal_label>
     </item>
 <item>
-      <g:id>RFMV-712324</g:id>
-      <g:title><![CDATA[Pilates i Hobro Begyndere]]></g:title>
-      <g:description><![CDATA[Vi har 3 Pilates hold i Medborgerhuset i Hobro, der er et Pilates hold for alle. Vi laver  Pilates med fokus på Pilates grundprincipperne, den klassiske Pilates hos FOF  Randers- Favrskov-Mariagerfjord- Viborg]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-randers-favrskov-mariagerfjord-viborg/pilates-i-hobro?holdnr=712324</g:link>
-      <g:image_link>https://www.fof.dk/media/uz4i4wgp/2.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>995.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Randers-Favrskov-Mariagerfjord-Viborg</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Pilates</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Pilates</g:custom_label_2>
-      <g:custom_label_4>Hobro</g:custom_label_4>
-      <g:start_date>2027-01-05T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Mariagerfjord</g:custom_label_3>
-      <g:internal_label>['Mariagerfjord','Motion','Hobro']</g:internal_label>
-    </item>
-<item>
       <g:id>RFMV-710636</g:id>
       <g:title><![CDATA[Klaver eller guitar]]></g:title>
       <g:description><![CDATA[Gå til klaver eller guitar hos musikunderviser Esther Olesen. Du lærer akkorder og at spille efter noder så du kan spille mange forskellige sange, fx akkompagnere til fællessang på dit arbejde eller i familien. FOF aftenskolen har hold i Randers, Spentrup og Hobro.]]></g:description>
@@ -270,6 +248,28 @@
       <g:start_date>2027-01-05T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Mariagerfjord</g:custom_label_3>
       <g:internal_label>['Mariagerfjord','Randers','Randers NØ']</g:internal_label>
+    </item>
+<item>
+      <g:id>RFMV-712324</g:id>
+      <g:title><![CDATA[Pilates i Hobro Begyndere]]></g:title>
+      <g:description><![CDATA[Vi har 3 Pilates hold i Medborgerhuset i Hobro, der er et Pilates hold for alle. Vi laver  Pilates med fokus på Pilates grundprincipperne, den klassiske Pilates hos FOF  Randers- Favrskov-Mariagerfjord- Viborg]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-randers-favrskov-mariagerfjord-viborg/pilates-i-hobro?holdnr=712324</g:link>
+      <g:image_link>https://www.fof.dk/media/uz4i4wgp/2.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>995.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Randers-Favrskov-Mariagerfjord-Viborg</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Pilates</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Pilates</g:custom_label_2>
+      <g:custom_label_4>Hobro</g:custom_label_4>
+      <g:start_date>2027-01-05T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Mariagerfjord</g:custom_label_3>
+      <g:internal_label>['Mariagerfjord','Motion','Hobro']</g:internal_label>
     </item>
 <item>
       <g:id>RFMV-716254</g:id>

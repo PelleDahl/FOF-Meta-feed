@@ -656,28 +656,6 @@
       <g:internal_label>['Odense','Svendborg']</g:internal_label>
     </item>
 <item>
-      <g:id>FYN-170900</g:id>
-      <g:title><![CDATA[Energitræning for kvinder]]></g:title>
-      <g:description><![CDATA[Deltag i energitræning for kvinder i Odense hos FOF Fyn-Fredericia. Hensynstagende træning for øget energi, velvære og ro efter kræft eller anden belastende sygdom]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-fyn-fredericia/energitraening-for-kvinder?holdnr=170900</g:link>
-      <g:image_link>https://www.fof.dk/media/prjdloko/energitraening-kvinder-fyn-fof-aftenskolen.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>1675.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Fyn-Fredericia</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Styrke- og konditionstræning</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Styrke- og konditionstræning</g:custom_label_2>
-      <g:custom_label_4>Odense</g:custom_label_4>
-      <g:start_date>2027-02-02T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Hensyntagende</g:custom_label_3>
-      <g:internal_label>['Hensyntagende','Odense','Odense C']</g:internal_label>
-    </item>
-<item>
       <g:id>FYN-170970</g:id>
       <g:title><![CDATA[Bassintræning for gravide]]></g:title>
       <g:description><![CDATA[Bassintræning for gravide i Odense og Fredericia hos FOF, skånsom, sjov og effektiv træning i varmtvandsbassin for hele kroppen under graviditeten.]]></g:description>
@@ -698,6 +676,28 @@
       <g:start_date>2027-02-02T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Odense</g:custom_label_3>
       <g:internal_label>['Odense','Odense M']</g:internal_label>
+    </item>
+<item>
+      <g:id>FYN-170900</g:id>
+      <g:title><![CDATA[Energitræning for kvinder]]></g:title>
+      <g:description><![CDATA[Deltag i energitræning for kvinder i Odense hos FOF Fyn-Fredericia. Hensynstagende træning for øget energi, velvære og ro efter kræft eller anden belastende sygdom]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-fyn-fredericia/energitraening-for-kvinder?holdnr=170900</g:link>
+      <g:image_link>https://www.fof.dk/media/prjdloko/energitraening-kvinder-fyn-fof-aftenskolen.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>1675.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Fyn-Fredericia</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Styrke- og konditionstræning</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Styrke- og konditionstræning</g:custom_label_2>
+      <g:custom_label_4>Odense</g:custom_label_4>
+      <g:start_date>2027-02-02T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Hensyntagende</g:custom_label_3>
+      <g:internal_label>['Hensyntagende','Odense','Odense C']</g:internal_label>
     </item>
 <item>
       <g:id>FYN-270765</g:id>

@@ -6,28 +6,6 @@
 <description>Meta produktfeed med alle ledige hold fra FOF Djursland</description>
 <language>da-DK</language>
 <item>
-      <g:id>DJU-271232</g:id>
-      <g:title><![CDATA[Mandehold - grundøvelser og afspænding - Ørum Djurs]]></g:title>
-      <g:description><![CDATA[Kom på mandehold med grundøvelser og afspænding i Ørum Aktiv Center. Funktionel træning med styrke, puls og smidighed – for mænd i alle aldre hos FOF Djursland]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-djursland/mandehold-grundoevelser-og-afspaending-oerum?holdnr=271232</g:link>
-      <g:image_link>https://www.fof.dk/media/b1po3pdy/mandehold-grundoevelser-afspaending-orum-fof-djursland.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>960.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Djursland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Bevægelse og afspænding</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Bevægelse og afspænding</g:custom_label_2>
-      <g:custom_label_4>Ørum Djurs</g:custom_label_4>
-      <g:start_date>2027-01-04T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Ørum</g:custom_label_3>
-      <g:internal_label>['Ørum','Bevægelse','Bevægelse og afspænding','Herrehold','Ørum Djurs']</g:internal_label>
-    </item>
-<item>
       <g:id>DJU-271213</g:id>
       <g:title><![CDATA[Hatha yoga for mænd - Grenaa]]></g:title>
       <g:description><![CDATA[Gå til hatha yoga for mænd i Grenaa. Opbyg styrke, smidighed og balance i et trygt mandehold med åndedræt og afspænding. Tilmeld dig hos FOF Djursland i dag.]]></g:description>
@@ -48,6 +26,28 @@
       <g:start_date>2027-01-04T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Grenaa</g:custom_label_3>
       <g:internal_label>['Grenaa','Bevægelse','Yoga','Herrehold']</g:internal_label>
+    </item>
+<item>
+      <g:id>DJU-271232</g:id>
+      <g:title><![CDATA[Mandehold - grundøvelser og afspænding - Ørum Djurs]]></g:title>
+      <g:description><![CDATA[Kom på mandehold med grundøvelser og afspænding i Ørum Aktiv Center. Funktionel træning med styrke, puls og smidighed – for mænd i alle aldre hos FOF Djursland]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-djursland/mandehold-grundoevelser-og-afspaending-oerum?holdnr=271232</g:link>
+      <g:image_link>https://www.fof.dk/media/b1po3pdy/mandehold-grundoevelser-afspaending-orum-fof-djursland.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>960.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Djursland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Bevægelse og afspænding</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Bevægelse og afspænding</g:custom_label_2>
+      <g:custom_label_4>Ørum Djurs</g:custom_label_4>
+      <g:start_date>2027-01-04T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Ørum</g:custom_label_3>
+      <g:internal_label>['Ørum','Bevægelse','Bevægelse og afspænding','Herrehold','Ørum Djurs']</g:internal_label>
     </item>
 <item>
       <g:id>DJU-271209</g:id>
@@ -468,28 +468,6 @@
       <g:internal_label>['Grenaa','Bevægelse i vand']</g:internal_label>
     </item>
 <item>
-      <g:id>DJU-273378</g:id>
-      <g:title><![CDATA[Bevægelse i varmt vand - Tirstrup]]></g:title>
-      <g:description><![CDATA[Styrk din krop og forbedr din fysiske form på vores varmt-vands-hold hos FOF Djursland i Tirstrup. Oplev glæden ved at træne i det varme vand, hvor musklerne kan arbejde effektivt uden belastning.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-djursland/bevaegelse-i-varmt-vand-tirstrup?holdnr=273378</g:link>
-      <g:image_link>https://www.fof.dk/media/wrynwn0v/bevaegelse-varmt-vand-fof-djursland.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>915.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Djursland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Træning i vand</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Træning i vand</g:custom_label_2>
-      <g:custom_label_4>Ebeltoft</g:custom_label_4>
-      <g:start_date>2027-01-05T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Tirstrup</g:custom_label_3>
-      <g:internal_label>['Tirstrup','Bevægelse','Bevægelse i vand','Ebeltoft']</g:internal_label>
-    </item>
-<item>
       <g:id>DJU-271368</g:id>
       <g:title><![CDATA[Bevægelse i varmt vand - Auning]]></g:title>
       <g:description><![CDATA[Tag del i vores Bevægelse i varmt vand hos FOF Djursland i Auning og nyd en skånsom træning, der fremmer kropslig velvære og mobilitet. Oplev glæden ved bevægelse i varmt vand under kyndig vejledning.]]></g:description>
@@ -510,6 +488,28 @@
       <g:start_date>2027-01-05T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Auning</g:custom_label_3>
       <g:internal_label>['Auning','Bevægelse','Bevægelse i vand']</g:internal_label>
+    </item>
+<item>
+      <g:id>DJU-273378</g:id>
+      <g:title><![CDATA[Bevægelse i varmt vand - Tirstrup]]></g:title>
+      <g:description><![CDATA[Styrk din krop og forbedr din fysiske form på vores varmt-vands-hold hos FOF Djursland i Tirstrup. Oplev glæden ved at træne i det varme vand, hvor musklerne kan arbejde effektivt uden belastning.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-djursland/bevaegelse-i-varmt-vand-tirstrup?holdnr=273378</g:link>
+      <g:image_link>https://www.fof.dk/media/wrynwn0v/bevaegelse-varmt-vand-fof-djursland.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>915.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Djursland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Træning i vand</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Træning i vand</g:custom_label_2>
+      <g:custom_label_4>Ebeltoft</g:custom_label_4>
+      <g:start_date>2027-01-05T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Tirstrup</g:custom_label_3>
+      <g:internal_label>['Tirstrup','Bevægelse','Bevægelse i vand','Ebeltoft']</g:internal_label>
     </item>
 <item>
       <g:id>DJU-271525</g:id>
@@ -534,14 +534,14 @@
       <g:internal_label>['Auning','Familie','Bevægelse i vand']</g:internal_label>
     </item>
 <item>
-      <g:id>DJU-273364</g:id>
-      <g:title><![CDATA[Bevægelse i varmt vand - Ebeltoft]]></g:title>
-      <g:description><![CDATA[Oplev en forfriskende træning i varmt vand på vores varmt-vands-hold hos FOF Djursland i Ebeltoft. Styrk din krop, forbedr din smidighed og find indre ro i det beroligende vandmiljø.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-djursland/bevaegelse-i-varmt-vand-ebeltoft?holdnr=273364</g:link>
+      <g:id>DJU-271391</g:id>
+      <g:title><![CDATA[Bevægelse i varmt vand - Grenaa]]></g:title>
+      <g:description><![CDATA[Deltag i vores varmt-vands-hold hos FOF Djursland i Grenaa og oplev den terapeutiske virkning af bevægelse i varmt vand. Opnå smertelindring, øget fleksibilitet og forbedret velvære gennem skånsomme vandøvelser.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-djursland/bevaegelse-i-varmt-vand-grenaa?holdnr=271391</g:link>
       <g:image_link>https://www.fof.dk/media/wrynwn0v/bevaegelse-varmt-vand-fof-djursland.jpg?width=1200</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:quantity>1</g:quantity>
-      <g:price>935.00 DKK</g:price>
+      <g:price>905.00 DKK</g:price>
       <g:condition>new</g:condition>
       <g:brand>FOF Djursland</g:brand>
       <g:google_product_category>Education</g:google_product_category>
@@ -550,10 +550,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Træning i vand</g:custom_label_2>
-      <g:custom_label_4>Ebeltoft</g:custom_label_4>
+      <g:custom_label_4>Grenaa</g:custom_label_4>
       <g:start_date>2027-01-05T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Ebeltoft</g:custom_label_3>
-      <g:internal_label>['Ebeltoft','Bevægelse i vand']</g:internal_label>
+      <g:custom_label_3>Grenaa</g:custom_label_3>
+      <g:internal_label>['Grenaa','Bevægelse i vand']</g:internal_label>
     </item>
 <item>
       <g:id>DJU-271510</g:id>
@@ -578,14 +578,14 @@
       <g:internal_label>['Grenaa','Familie','Bevægelse i vand']</g:internal_label>
     </item>
 <item>
-      <g:id>DJU-271391</g:id>
-      <g:title><![CDATA[Bevægelse i varmt vand - Grenaa]]></g:title>
-      <g:description><![CDATA[Deltag i vores varmt-vands-hold hos FOF Djursland i Grenaa og oplev den terapeutiske virkning af bevægelse i varmt vand. Opnå smertelindring, øget fleksibilitet og forbedret velvære gennem skånsomme vandøvelser.]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-djursland/bevaegelse-i-varmt-vand-grenaa?holdnr=271391</g:link>
+      <g:id>DJU-273364</g:id>
+      <g:title><![CDATA[Bevægelse i varmt vand - Ebeltoft]]></g:title>
+      <g:description><![CDATA[Oplev en forfriskende træning i varmt vand på vores varmt-vands-hold hos FOF Djursland i Ebeltoft. Styrk din krop, forbedr din smidighed og find indre ro i det beroligende vandmiljø.]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-djursland/bevaegelse-i-varmt-vand-ebeltoft?holdnr=273364</g:link>
       <g:image_link>https://www.fof.dk/media/wrynwn0v/bevaegelse-varmt-vand-fof-djursland.jpg?width=1200</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:quantity>1</g:quantity>
-      <g:price>905.00 DKK</g:price>
+      <g:price>935.00 DKK</g:price>
       <g:condition>new</g:condition>
       <g:brand>FOF Djursland</g:brand>
       <g:google_product_category>Education</g:google_product_category>
@@ -594,10 +594,10 @@
       <g:custom_label_0>Kurser</g:custom_label_0>
       <g:custom_label_1>Motion og sundhed</g:custom_label_1>
       <g:custom_label_2>Træning i vand</g:custom_label_2>
-      <g:custom_label_4>Grenaa</g:custom_label_4>
+      <g:custom_label_4>Ebeltoft</g:custom_label_4>
       <g:start_date>2027-01-05T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Grenaa</g:custom_label_3>
-      <g:internal_label>['Grenaa','Bevægelse i vand']</g:internal_label>
+      <g:custom_label_3>Ebeltoft</g:custom_label_3>
+      <g:internal_label>['Ebeltoft','Bevægelse i vand']</g:internal_label>
     </item>
 <item>
       <g:id>DJU-271243</g:id>
@@ -1942,28 +1942,6 @@
       <g:internal_label>['Rønde','Bevægelse','Yoga']</g:internal_label>
     </item>
 <item>
-      <g:id>DJU-273220</g:id>
-      <g:title><![CDATA[Dynamisk Yoga Flow - Rønde]]></g:title>
-      <g:description><![CDATA[Gå til Dynamisk Yoga Flow i Rønde. Flydende yoga med åndedræt, styrke og smidighed, der giver ro, kropskontakt og balance. Trygt hold hos FOF Djursland]]></g:description>
-      <g:link>https://www.fof.dk/aftenskolen/fof-djursland/dynamisk-yoga-flow-roende?holdnr=273220</g:link>
-      <g:image_link>https://www.fof.dk/media/cyabjegd/dynamisk-yoga-ebeltoft-roende-fof-djursland.jpg?width=1200</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:quantity>1</g:quantity>
-      <g:price>860.00 DKK</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>FOF Djursland</g:brand>
-      <g:google_product_category>Education</g:google_product_category>
-      <g:fb_product_category>Education</g:fb_product_category>
-      <g:product_type>Kurser &gt; Motion og sundhed &gt; Yoga</g:product_type>
-      <g:custom_label_0>Kurser</g:custom_label_0>
-      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
-      <g:custom_label_2>Yoga</g:custom_label_2>
-      <g:custom_label_4>Rønde</g:custom_label_4>
-      <g:start_date>2027-01-14T00:00:00.000Z</g:start_date>
-      <g:custom_label_3>Rønde</g:custom_label_3>
-      <g:internal_label>['Rønde','Bevægelse','Yoga']</g:internal_label>
-    </item>
-<item>
       <g:id>DJU-273445</g:id>
       <g:title><![CDATA[SyCafé - torsdag i lige uger - Rønde]]></g:title>
       <g:description><![CDATA[SyCafé i Rønde hvor du lærer at sy tøj, boligtekstiler, tasker og redesign af tøj. Kreativt sykursus i hyggeligt fællesskab hos FOF Djursland.]]></g:description>
@@ -1984,6 +1962,28 @@
       <g:start_date>2027-01-14T00:00:00.000Z</g:start_date>
       <g:custom_label_3>Rønde</g:custom_label_3>
       <g:internal_label>['Rønde','Kreative fag','Håndarbejde']</g:internal_label>
+    </item>
+<item>
+      <g:id>DJU-273220</g:id>
+      <g:title><![CDATA[Dynamisk Yoga Flow - Rønde]]></g:title>
+      <g:description><![CDATA[Gå til Dynamisk Yoga Flow i Rønde. Flydende yoga med åndedræt, styrke og smidighed, der giver ro, kropskontakt og balance. Trygt hold hos FOF Djursland]]></g:description>
+      <g:link>https://www.fof.dk/aftenskolen/fof-djursland/dynamisk-yoga-flow-roende?holdnr=273220</g:link>
+      <g:image_link>https://www.fof.dk/media/cyabjegd/dynamisk-yoga-ebeltoft-roende-fof-djursland.jpg?width=1200</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:quantity>1</g:quantity>
+      <g:price>860.00 DKK</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>FOF Djursland</g:brand>
+      <g:google_product_category>Education</g:google_product_category>
+      <g:fb_product_category>Education</g:fb_product_category>
+      <g:product_type>Kurser &gt; Motion og sundhed &gt; Yoga</g:product_type>
+      <g:custom_label_0>Kurser</g:custom_label_0>
+      <g:custom_label_1>Motion og sundhed</g:custom_label_1>
+      <g:custom_label_2>Yoga</g:custom_label_2>
+      <g:custom_label_4>Rønde</g:custom_label_4>
+      <g:start_date>2027-01-14T00:00:00.000Z</g:start_date>
+      <g:custom_label_3>Rønde</g:custom_label_3>
+      <g:internal_label>['Rønde','Bevægelse','Yoga']</g:internal_label>
     </item>
 <item>
       <g:id>DJU-273221</g:id>
